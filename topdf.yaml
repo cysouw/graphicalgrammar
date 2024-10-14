@@ -28,4 +28,4 @@ metadata-files:
 number-sections: true
 table-of-contents: true
 standalone: true
-default-image-extension: pdf
+default-image-extension: png

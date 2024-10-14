@@ -29,7 +29,7 @@ CoNLL-U table-format of [@fig:becker1829_xvii] with only slight cosmetic simplif
 11  traten           Verb Imperf.           Prädikat                7
 ```
 
-![Graphical display of the CoNLL-U format based on [@fig:becker1829_xvii]. Display is generated at <https://urd2.let.rug.nl/~kleiweg/conllu/>](figures/becker1829_dependency.svg){#fig:becker1829_dependency.svg}
+![Graphical display of the CoNLL-U format based on [@fig:becker1829_xvii]. Display is generated at <https://urd2.let.rug.nl/~kleiweg/conllu/>](figures/becker1829_dependency){#fig:becker1829_dependency}
 
 
 subordinate sentences in [@becker1833a: 38-46]
