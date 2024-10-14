@@ -1,0 +1,917 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="Michael Cysouw" />
+  <meta name="dcterms.date" content="2024-10-14" />
+  <title>Graphical Grammar</title>
+  <style>
+    html {
+      font-family: Libertinus Serif;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 4cm;
+      padding-right: 4cm;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+      margin-bottom: 0em;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
+  <!-- CSS added specifically for this LSP document -->
+  <style>
+  html {
+    font-size: 14pt;
+    line-height: 1.5;
+  }
+  body {
+    word-wrap: break-word;
+  }
+  h1 {
+    margin-top: 5em;
+  }
+  h4 {
+    font-size: 1.17em;
+    margin-bottom: 0em;
+  }
+  h5 {
+    margin-top: 0.5em;
+    margin-bottom: -0.5em;
+    font-style: normal;
+  }
+  h1, h2, h3 {
+    text-indent: -50px;
+    padding-left: 50px;
+    hyphens: none;
+  }
+  #title-block-header {
+    text-indent: 0;
+    font-family: Arimo;
+    color: white;
+    background-color: grey;
+    text-align: left;
+  }
+  .title {
+    padding-top: 30px;
+    padding-left: 30px;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-indent: 0px;
+    font-size: 3.5em;
+    font-weight: normal;
+    line-height: 1;
+  }
+  .subtitle {
+    padding-top: 20px;
+    padding-left: 30px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 1.5em;
+  }
+  .edition {
+    padding-top: 10px;
+    padding-left: 30px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-style: italic;
+    font-size: 1em;
+  }
+  .author {
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 50px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: Libertinus Serif;
+    font-size: 1.5em;
+  }
+  .notice {
+    padding-top: 20px;
+    padding-left: 30px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 2em;
+  }
+  .date {
+    padding-left: 30px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 2em;
+  }
+  .series {
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-right: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 1em;
+  }
+  .series:before{
+    content: "█▌ ";
+  }
+  .series:after{
+    content: url("settings/LSP-logo.svg");
+    float: right;
+  }
+  .header-section-number {
+    padding-right: 0.2em;
+  }
+  header {
+    margin-bottom: 1em;
+  }
+  .copyright{
+    font-size: 0.7em;
+    text-align: left;
+    margin-right: 30%;
+  }
+  #toc-title {
+    text-indent: 0px;
+    margin-left: 0px;
+    padding-left: 0px;
+  }
+  p {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+  }
+  ol, ul {
+    margin-top: 0.5em;
+  }
+  img {
+    width: 100%;
+  }
+  figure {
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+  }
+  figcaption {
+    text-align: center;
+  }
+  a:link {
+    text-decoration: none; 
+  }
+  a:hover { 
+    text-decoration: underline; 
+  }
+  .footnote-ref {
+    font-size: small;
+  }
+  sup {
+    vertical-align: top;
+  }
+  div[id^="tbl"] table {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  @media (max-width: 900px) {
+    body {
+      font-size: 75%;
+    }
+  }
+  </style><!-- Links for using webfont -->
+  <link href="https://fonts.cdnfonts.com/css/libertinus-serif" rel="stylesheet" data-external="1">
+  <link href="https://fonts.cdnfonts.com/css/arimo" rel="stylesheet" data-external="1"><!-- Text justification with hyphenation -->
+  <style>
+  p {
+    text-align: justify;
+  }
+  p {
+  -webkit-hyphens: auto;
+  -webkit-hyphenate-limit-before: 3;
+  -webkit-hyphenate-limit-after: 3;
+  -webkit-hyphenate-limit-chars: 6 3 3;
+  -webkit-hyphenate-limit-lines: 2;
+  -webkit-hyphenate-limit-last: always;
+  -webkit-hyphenate-limit-zone: 8%;
+  -moz-hyphens: auto;
+  -moz-hyphenate-limit-chars: 6 3 3;
+  -moz-hyphenate-limit-lines: 2;
+  -moz-hyphenate-limit-last: always;
+  -moz-hyphenate-limit-zone: 8%;
+  -ms-hyphens: auto;
+  -ms-hyphenate-limit-chars: 6 3 3;
+  -ms-hyphenate-limit-lines: 2;
+  -ms-hyphenate-limit-last: always;
+  -ms-hyphenate-limit-zone: 8%;
+  hyphens: auto;
+  hyphenate-limit-chars: 6 3 3;
+  hyphenate-limit-lines: 2;
+  hyphenate-limit-last: always;
+  hyphenate-limit-zone: 8%;
+  }
+  </style>
+  <!-- CSS added by pandoc filter 'inline-footnotes.lua' -->  
+  <style>
+  input[type=checkbox][id^=fn] + span {
+    display: none;
+  }
+  input[type=checkbox][id^=fn]:checked + span {
+    display: block;
+  }
+  p:has(input[type=checkbox][id^=fn]:not(:checked)) {
+    display: flow-root;
+  }
+  .footnote {
+  font-size: smaller;
+  padding: 20px 40px 20px 40px;
+  }
+  .fn-number{
+  padding-left: 2px;
+  font-weight: bold;
+  }
+  .fn-number:before{
+    content: '▸ ';
+    vertical-align: super;
+    font-size: small;
+  }
+  .fn-number:has(+ input[type=checkbox][id^=fn]:checked):before{
+    content: '▾ ';
+    vertical-align: super;
+    font-size: small;
+    }
+  @media (max-width: 900px) {
+    .fn-number:before{
+      font-size: x-small;
+    }
+    .fn-number:has(+ input[type=checkbox][id^=fn]:checked):before{
+      font-size: x-small;
+    }
+  }
+  </style>
+   
+  <!-- CSS added by filter 'toc-css.lua' for TOC hovering to the side -->
+  <style>
+  body {
+    padding-left: 1cm;
+    padding-right: 1cm;
+    transition: 0.5s;
+  }
+  nav {
+    width: 1em;
+    margin-left: -1cm;
+    font-size: smaller;
+    color: grey;
+    transition: 0.5s;
+    float: left;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    white-space: nowrap; 
+    overflow: hidden;
+    overflow-y: scroll;
+    transition: 0.5s;
+  }
+  nav::-webkit-scrollbar {
+    display: none;
+  }
+  nav a, nav a:visited {
+    color: grey;
+  }
+  nav h2:before {
+    content: "≡ ";
+    font-size: 150%;
+  }
+  nav h2:after {
+    content: " ◂";
+  }
+  nav li {
+    margin-left: 1em;
+    white-space: nowrap; 
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  nav li > a:not(:only-child):before {
+    content: "▸ ";
+  }
+  nav li > a:only-child {
+    margin-left: 0.75em;
+  }
+  nav li li {
+    margin-left: 1em;
+  }
+  nav li li li {
+    margin-left: 0.5em;
+    font-size: smaller;
+  }
+  nav ul li ul  {
+    visibility: hidden;
+    display: none;
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+    transition: 0.5s;
+  }
+  .toc-section-number {
+    padding-right: 0.2em;
+  }
+  .paddingleft {
+    padding-left: 9cm;
+    transition: 0.5s;
+  }
+  .navside {
+    width: 7cm;
+    margin-left: -8.5cm;
+    padding-right: 1cm;
+    transition: 0.5s;
+  }
+  .navside h2:after {
+    content: " ▸";
+  }
+  .navshown {
+    width: 50%;
+    transition: 0.5s;
+    background-color: rgba(255, 255, 255, 0.95);
+  }
+  .subShow > ul {
+    visibility: visible;
+    display: block;
+    transition: 0.5s;
+    margin-left: -1em;
+  }
+  .subShow > a:not(:only-child):before {
+    content: "▾ ";
+  }
+  </style>
+   
+  <!-- CSS added by lua-filter 'count-para' -->
+  <style>
+  .paragraph-number { 
+    float: left;
+    margin-left: -5em;
+    width: 4.5em;
+    text-align: right;
+    color: grey;
+    font-size: x-small;
+    padding-top: 5px;
+  }
+  </style>
+      
+  <!-- CSS added by lua-filter 'pandoc-ling' -->
+  <style>
+  .linguistic-example { 
+    margin: 0; 
+  }
+  .linguistic-example caption { 
+    margin-bottom: 0; 
+  }
+  .linguistic-example tbody { 
+    border-top: none; 
+    border-bottom: none;
+  }
+  .linguistic-example-preamble {
+    height: 1em;
+    vertical-align: top; 
+  }
+  .linguistic-example td {
+    padding-left: 0;
+  }
+  .linguistic-example-content { 
+    vertical-align: top;  
+  }
+  .linguistic-example-label {
+    vertical-align: top;
+  }
+  .linguistic-example-judgement { 
+    vertical-align: top; 
+    padding-right: 2px;
+  }
+  </style>
+        
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Graphical Grammar</h1>
+<p class="subtitle">A historical survey until 1955</p>
+<p class="author">Michael Cysouw</p>
+<p class="notice">Prepublication draft</p>
+<p class="date">October 14, 2024</p>
+</header>
+<nav id="TOC" role="doc-toc">
+<h2 id="toc-title">Contents</h2>
+<ul>
+<li><a href="#sec0.0.1" id="toc-sec0.0.1"><span class="toc-section-number">0.0.1</span> Karl Philipp Moritz: <em>Deutsche Sprachlehre</em> <span class="citation" data-cites="moritz1782">(1782)</span></a></li>
+<li><a href="#sec0.0.2" id="toc-sec0.0.2"><span class="toc-section-number">0.0.2</span> Simon Heinrich Adolf Herling: <em>Periodenbau</em> <span class="citation" data-cites="herling1823">(1823)</span></a></li>
+<li><a href="#sec0.0.3" id="toc-sec0.0.3"><span class="toc-section-number">0.0.3</span> Johann August Lehmann: <em>Allgemeiner Mechanismus</em> <span class="citation" data-cites="lehmann1833">(1833)</span></a></li>
+<li><a href="#sec0.0.4" id="toc-sec0.0.4"><span class="toc-section-number">0.0.4</span> Friedrich Bauer: <em>Grundzüge</em> <span class="citation" data-cites="bauer1850">(1850)</span></a></li>
+<li><a href="#sec0.0.5" id="toc-sec0.0.5"><span class="toc-section-number">0.0.5</span> Karl Ferdinand Becker: <em>Deutsche Grammatik</em> <span class="citation" data-cites="becker1829">(1829)</span></a></li>
+<li><a href="#bibliography" id="toc-bibliography">Bibliography</a></li>
+</ul>
+</nav>
+<h3 data-number="0.0.1" label="0.0.1" id="sec0.0.1"><span class="header-section-number">0.0.1</span> Karl Philipp Moritz: <em>Deutsche Sprachlehre</em> <span class="citation" data-cites="moritz1782">(<a href="#ref-moritz1782" role="doc-biblioref">1782</a>)</span></h3>
+<p><span id="0.1" class="paragraph-number">[0.1]</span> Karl Philipp Moritz (1756-1793) was a prolific author with wide ranging interests. Towards the end of his life he became professor for the arts at the <em>Königliche Akademie der Künste</em> in Berlin. Among his many writings there are various instructional books and articles about grammar, see Schmidt <span class="citation" data-cites="schmidt1993">(<a href="#ref-schmidt1993" role="doc-biblioref">1993</a>)</span> for a concise summary of his linguistic oevre. Of particular interest here is the <em>Deutsche Sprachlehre für die Damen in Briefen</em> <span class="citation" data-cites="moritz1782">(<a href="#ref-moritz1782" role="doc-biblioref">Moritz 1782</a>)</span>. The context and linguistic content of this work is discussed in more detail by Buhofer <span class="citation" data-cites="buhofer1994">(<a href="#ref-buhofer1994" role="doc-biblioref">1994</a>)</span>. This book was quite successful, being reprinted in 1791, 1794 and 1806. All later editions dropped the somewhat curious addition <em>für die Damen</em> from the title.</p>
+<p><span id="0.2" class="paragraph-number">[0.2]</span> The <em>Deutsche Sprachlehre</em> contains to my knowledge the first graphical display of a grammatical analysis. In the <em>Zehnter Brief: Von dem Bau der Rede</em>, starting on page 267, Moritz discusses various simple examples, culminating in two large fold-out page-inserts between pages 308 and 309, reproduced here in Figure <a href="#fig0.1">0.1</a> and Figure <a href="#fig0.2">0.2</a>. Later, in the first volume of his 1793 <em>Grammatisches Wörterbuch der deutschen Sprache</em> there is a short summary of this grammatical analysis under the heading of <em>Construcktion</em> <span class="citation" data-cites="moritz1793">(<a href="#ref-moritz1793" role="doc-biblioref">Moritz 1793</a>: 283-295)</span>. After Moritz’ early demise that same year (at only 37 years of age) this <em>Grammatisches Wörterbuch</em> was completed by other authors without any further mentioning of this new kind of sentence analysis. The most extensive exposition of Moritz’ envisioned analysis thus remains the discussion in the 1782 <em>Deutsche Sprachlehre</em>.</p>
+<p><span id="0.3" class="paragraph-number">[0.3]</span> Moritz’ linguistic analysis is particularly notewhorthy because it is an early version of what later will be called a <em>Satzgliedanalyse</em> (‘phrasal analysis’). Although Moritz consistently talks about the “words” of the sentence, he clearly intends these “words” to be something closer to what today would be called “phrases”. These phrases are classified into various functions, using German labels for didactic purposes (e.g. <em>Grund</em>=subject, <em>Ziel</em>=accusative object, <em>Zweck</em>=dative indirect object). Forsgren <span class="citation" data-cites="forsgren1985">(<a href="#ref-forsgren1985" role="doc-biblioref">Forsgren 1985</a>: 76)</span>, discussing the origin of such phrasal analyses at the end of the 18th Century, argues that Moritz’ approach is one of the earliest examples of a phrasal analysis and his ideas appears to be developed independently from other contemporaries.</p>
+<figure id="fig:moritz1782i" label="0.1">
+<img src="figures/moritz1782_308i.png" alt="Figure 0.1: First page insert in Deutsche Sprachlehre (Moritz 1782: 308). Individual clauses are marked by a numbered bracket. Note the graphically lowered adjuncts (Hinanfügung) and the subordinated direct speech clauses (clause 9 and 10)." />
+<figcaption aria-hidden="true">Figure 0.1: First page insert in <em>Deutsche Sprachlehre</em> <span class="citation" data-cites="moritz1782">(<a href="#ref-moritz1782" role="doc-biblioref">Moritz 1782</a>: 308)</span>. Individual clauses are marked by a numbered bracket. Note the graphically lowered adjuncts (<em>Hinanfügung</em>) and the subordinated direct speech clauses (clause 9 and 10).</figcaption>
+</figure>
+<figure id="fig:moritz1782ii" label="0.2">
+<img src="figures/moritz1782_308ii.png" alt="Figure 0.2: Second page insert in Deutsche Sprachlehre (Moritz 1782: 308). Note another example of a subordinated direct speech (clause 13) and a subordinated adverbial um zu+Infiniv clause (clause 21)." />
+<figcaption aria-hidden="true">Figure 0.2: Second page insert in <em>Deutsche Sprachlehre</em> <span class="citation" data-cites="moritz1782">(<a href="#ref-moritz1782" role="doc-biblioref">Moritz 1782</a>: 308)</span>. Note another example of a subordinated direct speech (clause 13) and a subordinated adverbial <em>um zu+Infiniv</em> clause (clause 21).</figcaption>
+</figure>
+<p><span id="0.4" class="paragraph-number">[0.4]</span> Examining the details of this visual display, each clause can be identified by a large bracket. Within each clausal bracket there is a table-like structure with function-names on top and the actual words of the clause below. Each clause consists of <em>Grund</em> (“subject”) and <em>Rede</em> (“predicate”), with possibly additional syntactic functions like <em>Ziel</em> (“accusative object”), <em>Zweck</em> (“dative object”) or <em>Bindung</em> (“conjunction”). Optional elements like <em>Hinanfügung</em> (“adverbial phrase”) and <em>Einschiebung</em> (“interjection”) are placed loosely below the main syntactic functions, implicitly hinting at an argument/adjunct distinction.</p>
+<p><span id="0.5" class="paragraph-number">[0.5]</span> Various details are not completely thought through and the examples are sometimes slightly inconsistent. For example, the phrase <em>von der Schulter</em> in clause 11 is analysed as an adverbial <em>Hinanfügung</em>, while the completely parallel <em>auf die Schulter</em> in clause 18 is analysed as an object-like <em>zweites Ziel</em>.</p>
+<p><span id="0.6" class="paragraph-number">[0.6]</span> More interesting is the treatment of subordinate clauses. Subordinate clauses are given a function in the matrix clause and then are further analysed within a new bracket as a separate clause below. This can be seen in Figure <a href="#fig0.2">0.2</a> with the analysis of direct speech in clause 13, which is the <em>Ziel</em> of the matrix clause 12. Likewise, the adverbial <em>um zu+Infinitiv</em> subordinate clause 21 is the <em>Zweck</em> of the matrix clause 20.</p>
+<p><span id="0.7" class="paragraph-number">[0.7]</span> This display of subordinate clauses is no coincidence. In the text there is an explicit discussion of this analysis of subordinate clauses <span class="citation" data-cites="moritz1782">(<a href="#ref-moritz1782" role="doc-biblioref">Moritz 1782</a>: 299-300)</span> based on the example sentence in <a href="#ex0.1">(0.1)</a>. This sentence is analysed by Moritz into four separate clauses. The four clauses and their functions in the superodinate clause are listed in <a href="#ex0.1">(0.1 a-d)</a>, as shown in Figure <a href="#fig0.3">0.3</a>. Each of these subordinate clauses is subsequently analysed using the same clausal analysis structure as the superordinate clause, as can be seen in Figure <a href="#fig0.4">0.4</a>.</p>
+
+<div id="ex0.1">
+<table class="linguistic-example">
+<tbody>
+<tr>
+<td class="linguistic-example-number" style="vertical-align: top;">(0.1)</td>
+<td colspan="2" class="linguistic-example-preamble" style="text-align: left;">Wenn ich meine Pflicht thue, so fühle ich, daß mir dieses genug ist, um vergnügt und glücklich zu sein.</td>
+</tr>
+<tr>
+<td></td>
+<td class="linguistic-example-label" style="text-align: left;">a.</td>
+<td class="linguistic-example-content" style="text-align: left;">Grund und Rede: <em>so fühle ich</em></td>
+</tr>
+<tr>
+<td></td>
+<td class="linguistic-example-label" style="text-align: left;">b.</td>
+<td class="linguistic-example-content" style="text-align: left;">Ziel: <em>daß mir dieses genug ist</em></td>
+</tr>
+<tr>
+<td></td>
+<td class="linguistic-example-label" style="text-align: left;">c.</td>
+<td class="linguistic-example-content" style="text-align: left;">Zweck: <em>um vergnügt und glücklich zu sein</em></td>
+</tr>
+<tr>
+<td></td>
+<td class="linguistic-example-label" style="text-align: left;">d.</td>
+<td class="linguistic-example-content" style="text-align: left;">Hinanfügung: <em>wenn ich meine Pflicht thue</em></td>
+</tr>
+</tbody>
+</table>
+</div>
+<figure id="fig:moritz1782sub1" label="0.3">
+<img src="figures/moritz1782_299.png" alt="Figure 0.3: Complex sentence with syntactic functions assigned to subordinate clauses from Deutsche Sprachlehre (Moritz 1782: 299)." />
+<figcaption aria-hidden="true">Figure 0.3: Complex sentence with syntactic functions assigned to subordinate clauses from <em>Deutsche Sprachlehre</em> <span class="citation" data-cites="moritz1782">(<a href="#ref-moritz1782" role="doc-biblioref">Moritz 1782</a>: 299)</span>.</figcaption>
+</figure>
+<figure id="fig:moritz1782sub2" label="0.4">
+<img src="figures/moritz1782_300.png" alt="Figure 0.4: Separate analyses of the subordinate clauses of the complex sentence in (0.1) from Deutsche Sprachlehre (Moritz 1782: 300)." />
+<figcaption aria-hidden="true">Figure 0.4: Separate analyses of the subordinate clauses of the complex sentence in <a href="#ex0.1">(0.1)</a> from <em>Deutsche Sprachlehre</em> <span class="citation" data-cites="moritz1782">(<a href="#ref-moritz1782" role="doc-biblioref">Moritz 1782</a>: 300)</span>.</figcaption>
+</figure>
+<p><span id="0.8" class="paragraph-number">[0.8]</span> Nitpicking one might argue that this analysis of the complex sentence is not completely correct. Clause 2 from Figure <a href="#fig0.4">0.4</a> is not a separate clause but the superordinate clause itself. Further, The subordinate part <em>um vernügt und glücklich zu sein</em> is analysed in Figure <a href="#fig0.3">0.3</a> as <em>Zweck</em> (‘reason’, confusingly a label otherwise also used for dative arguments by Moritz). However, this clause is not directly subordinate to the main clause <em>so fühle ich</em> but it is secondary subordinate to the <em>Ziel</em> complement clause <em>daß mir dieses genug ist</em>.</p>
+<p><span id="0.9" class="paragraph-number">[0.9]</span> Notwithstanding these inaccuracies, Moritz’ analysis shows a clear understanding of subordinate clauses simultaneously having an internal functional structure and, as a whole clause, having a function inside a superordinate structure. Anachronistically interpreting this as a constituency analysis, this sentence can be displayed as shown in Figure <a href="#fig0.5">0.5</a>. Note that this is somewhat akin to an “underlying” structure as the ordering does not correspond to the original sentence. In constrast, Moritz forces the same functional structure on each clause (viz. <em>Grund-Rede-Ziel-Zweck-Hinanfügung</em>), hinting at the eventual ordering by using numbers.</p>
+<figure id="fig:moritz1782_300tree" label="0.5">
+<img src="figures/moritz1782_300tree.svg" alt="Figure 0.5: Constituency tree of the example in (0.1) following the analysis from Moritz (Moritz 1782: 299-300). Note the fixed ordering of the functional categories in each clause, making this a kind of “underlying” structure. The bracketed numbers indicate the ordering in the actual example." />
+<figcaption aria-hidden="true">Figure 0.5: Constituency tree of the example in <a href="#ex0.1">(0.1)</a> following the analysis from Moritz <span class="citation" data-cites="moritz1782">(<a href="#ref-moritz1782" role="doc-biblioref">Moritz 1782</a>: 299-300)</span>. Note the fixed ordering of the functional categories in each clause, making this a kind of “underlying” structure. The bracketed numbers indicate the ordering in the actual example.</figcaption>
+</figure>
+<p><span id="0.10" class="paragraph-number">[0.10]</span> Summarising, Moritz appears to have a clear understanding of, first, phrases as the basis of syntactic analysis. Second, he assigns a syntactic function to each phrase. Third, his examples indicate a basic, through rather implicit, understanding of adjuncts as less crucial phrases (<em>Hinanfügung</em>) that are visually displayed below the main constituents. Fourth, subordinate clauses have their own clausal structure, while the subordinate as a whole is assigned a function in the superordinate clause, which is a clear precursor of constituency structure. Finally, in the text he explicitly mentions that the ordering of the elements in the actual sentence is slightly different from the ordering in his analyses, and he hints at rules that determine how the abstract “underlying” structure has to be reordered into the actual form.</p>
+<p><span id="0.11" class="paragraph-number">[0.11]</span> All these theoretical concepts are quite charmingly summarised by his graphical display, which can be interpreted as a kind of constituency structure. Apperently appearing completely out of the blue, the idea of using graphics to elucidate grammatical structure is off to a great start with these proposals from Moritz’ <em>Deutsche Sprachlehre</em>. Unfortunately, his approach does not have had any following and it would take another 50 years for graphical methods to be used again for grammatical analysis.</p>
+<h3 data-number="0.0.2" label="0.0.2" id="sec0.0.2"><span class="header-section-number">0.0.2</span> Simon Heinrich Adolf Herling: <em>Periodenbau</em> <span class="citation" data-cites="herling1823">(<a href="#ref-herling1823" role="doc-biblioref">1823</a>)</span></h3>
+<p><span id="0.12" class="paragraph-number">[0.12]</span> Simon Heinrich Adolf Herling (1780-1849) was a teacher in Frankfurt am Main and founding member, and later main organiser, of the <em>Frankfurter Gelehrtenverein für deutsche Sprache</em>. His analysis of multi-clause sentences is widely considered foundational for the grammatical analysis of German. A wide-ranging appraisal of Herling’s work can be found in Elmentaler <span class="citation" data-cites="elmentaler1996">(<a href="#ref-elmentaler1996" role="doc-biblioref">1996</a>)</span>.</p>
+<p><span id="0.13" class="paragraph-number">[0.13]</span> Herling is a close friend and collegue to Ferdinand Becker (see Sec­tion <a href="#sec0.0.5">0.0.5</a>), who is also an active member of the <em>Frankfurter Gelehrtenvereion</em>. A plan to write a joint grammar fell apart, indicating different opinions in their approach to grammatical analysis <span class="citation" data-cites="haselbach1966">(<a href="#ref-haselbach1966" role="doc-biblioref">Haselbach 1966</a>: 69)</span>. Their relation remains amicable, as indicated by the fact that the first part of Herling’s <em>Syntax der deutschen Sprache</em> <span class="citation" data-cites="herling1830">(<a href="#ref-herling1830" role="doc-biblioref">Herling 1830</a>)</span> is dedicated to Becker.</p>
+<p><span id="0.14" class="paragraph-number">[0.14]</span> Strictly speaking, the work of Herling does not include any graphical display of grammatical analysis. However, his work is still included here because he introduces some notation that will be expanded upon graphically by later authors, especially Lehmann and Götzinger. Herling’s notational frameword is first introduced in the <em>Grundregeln des deutschen Stils oder der Periodenbau der deutschen Sprache. Ein Lehrbuch für den stilistischen Unterricht</em> <span class="citation" data-cites="herling1823">(<a href="#ref-herling1823" role="doc-biblioref">Herling 1823</a>)</span>, which later becomes the second part of <em>Die Syntax der deutschen Sprache</em> (second edition 1827, third edition 1832).</p>
+<p><span id="0.15" class="paragraph-number">[0.15]</span> In this book Herling analyses the different ways complex sentences are build from multiple clauses. He uses the term <em>Periode</em> for the complex sentence, a term that goes straight back to antiquity. Aristotle uses the term <em>περίοδος</em> ‘periodos’ to describe something akin to a complete sentence, consisting of multiple clauses (with <em>κῶλον</em> ‘kolon’ being used for something akin to a clause). Burkett explains that “the term <em>periodos</em> is one of Aristotle‘s visual metaphors, suggesting a circular motion or completeness of thought and rhythm.” <span class="citation" data-cites="burkett2011">(<a href="#ref-burkett2011" role="doc-biblioref">Burkett 2011</a>: 206)</span>.</p>
+<blockquote>
+<p><em>λέγω δὲ περίοδον λέξιν ἔχουσαν ἀρχὴν καὶ τελευτὴν αὐτὴν καθ᾽ αὑτὴν καὶ μέγεθος εὐσύνοπτον</em> (“I call a period an expression having a beginning and an end in itself and a magnitude easily taken in at a glance”, Aristoteles, Rhetorica III 9.3, translation by Burkett <span class="citation" data-cites="burkett2011">(<a href="#ref-burkett2011" role="doc-biblioref">2011</a>: 206)</span>)<span id="fn1"><label for="fn1-toggle" class="fn-number"><sup>1</sup></label>
+<input type="checkbox" hidden id="fn1-toggle"/>
+<span id="fn1-content" class="footnote">Original online at the Perseus Digital Library &lt; http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg038.perseus-grc1:3.9.3&gt;.</span></span></p>
+</blockquote>
+<p><span id="0.16" class="paragraph-number">[0.16]</span> In a short note, Herling proposes a special notation “um die Umformungen kürzer zu bezeichnen, und so leichter überschauen zu können” <span class="citation" data-cites="herling1823">(‘to succinctly mark the transformations and thus be able to survey them more easily’ <a href="#ref-herling1823" role="doc-biblioref">Herling 1823</a>: 177)</span>. The usage of the term <em>Umformung</em> deserves it’s own discussion, but will not be pursued here. The special notation is summarised slightly clearer in the second and third edition <span class="citation" data-cites="herling1832">(e.g. <a href="#ref-herling1832" role="doc-biblioref">Herling 1832</a>: 232)</span>, shown here in Figure <a href="#fig0.6">0.6</a>, which can be translated as follows:</p>
+<blockquote>
+<p>For the succinct marking of the sentences and their syntactic relationships may the following symbols be of use: <em>h</em> indicates grammatical main sentence; <em>b</em> adjective clause, <em>β</em>, when it is shortened; <em>a</em> adverbial clause, <em>α</em>, the same shortened; <em>s</em> nominal clause, <em>σ</em> the same shortened. The exponents, e.g. <em>a<sup>2</sup></em> indicate the grammatical grade, to <em>h</em> e.g. <em>h<sup>2</sup></em> the grade of the logical gradation; <em>h/2</em>, <em>h/3</em>, indicates that the main clause, or <em>a/2</em>, <em>a/3</em> that the adverbial clause is separated into two or three parts. The coefficients e.g. <em>2h</em> indicate the number of equivalent main clauses; with <em>a</em>, <em>b</em>, <em>s</em> their relationship to the main clauses, often their coordination. <span class="citation" data-cites="herling1832">(<a href="#ref-herling1832" role="doc-biblioref">Herling 1832</a>: 232, translation MC)</span></p>
+</blockquote>
+<figure id="fig:herling1832_232" label="0.6">
+<img src="figures/herling1832_232.png" alt="Figure 0.6: Notation for the analysis of sentence structure proposed by Herling (1832)." />
+<figcaption aria-hidden="true">Figure 0.6: Notation for the analysis of sentence structure proposed by Herling <span class="citation" data-cites="herling1832">(<a href="#ref-herling1832" role="doc-biblioref">1832</a>)</span>.</figcaption>
+</figure>
+<p><span id="0.17" class="paragraph-number">[0.17]</span> Herling does not use his notations consistently throughout his book. There are only a few incidental examples and there are almost no sentences completely marked according to this system. The example in <a href="#ex0.2">(0.2)</a> is one of the more interesting and complex cases <span class="citation" data-cites="herling1832">(<a href="#ref-herling1832" role="doc-biblioref">Herling 1832</a>: 233)</span>. Yet, in contrast to intended purpos, the abstract analysis with letters and numbers does not really ease the quick appraisal of the sentence structure, in my opinion.</p>
+
+<div id="ex0.2">
+<table class="linguistic-example">
+<tbody>
+<tr>
+<td class="linguistic-example-number" style="vertical-align: top;">(0.2)</td>
+<td class="linguistic-example-content" style="text-align: left;">Um (α) dem Soldatenstande zu entgehen, gegen den (b<sup>2</sup>) er, ungeachtet (α<sup>3</sup>) seinen unternehmenden Geistes und kräftigen Körpers, entschiedene Abneigung fühlte, verdingte er sich, (1h) im sechszehnten Jahre, bei einem Gastwirthe an der Gränze als Fuhrknecht, und (2h) kehrte erst nach sieben Jahren, da (2a) eben in seinem Geburtsorte ein nicht ganz unbedeutendes Grundstück feil geboten ward, in die Heimath zurück. <span class="citation" data-cites="herling1832">(<a href="#ref-herling1832" role="doc-biblioref">Herling 1832</a>: 233)</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><span id="0.18" class="paragraph-number">[0.18]</span> Interpreting Herling’s analysis in modern terms, his symbols can be seen as a constituency structure. All clauses in the complex sentence are given a label and are related to each other in a hierarchical fashion, distinguishing coordination (viz. number in front) from subordination (viz. special letters for different kinds of embedding and superscript numbers to indicate deeper levels of embedding). Crucially, the clauses are linked to each other without using specific words as anchor points, like they would be in a dependency structure (cf. Becker’s sentence analysis of a complex sentence, see Sec­tion <a href="#sec0.0.5">0.0.5</a>). Figure <a href="#fig0.7">0.7</a> shows an interpretation of Herling’s analysis from <a href="#ex0.2">(0.2)</a> in the form of a constituency tree.</p>
+<figure id="fig:herling1832_233tree" label="0.7">
+<img src="figures/herling1832_233tree.svg" alt="Figure 0.7: Constituency tree illustrating Herling’s analysis (Herling 1832: 233) of the example in (0.2) using a modern visualisation. Crucially, the clauses are linked to each other without attaching them to any specific words as would be the case in a dependency structure." />
+<figcaption aria-hidden="true">Figure 0.7: Constituency tree illustrating Herling’s analysis <span class="citation" data-cites="herling1832">(<a href="#ref-herling1832" role="doc-biblioref">Herling 1832</a>: 233)</span> of the example in <a href="#ex0.2">(0.2)</a> using a modern visualisation. Crucially, the clauses are linked to each other without attaching them to any specific words as would be the case in a dependency structure.</figcaption>
+</figure>
+<h3 data-number="0.0.3" label="0.0.3" id="sec0.0.3"><span class="header-section-number">0.0.3</span> Johann August Lehmann: <em>Allgemeiner Mechanismus</em> <span class="citation" data-cites="lehmann1833">(<a href="#ref-lehmann1833" role="doc-biblioref">1833</a>)</span></h3>
+<p><span id="0.19" class="paragraph-number">[0.19]</span> Johann August Lehmann (1802-1883) was a teacher in Danzig (Gdańsk) and school principal in Marienwerder (Kwidzyn). He prepared various texts for</p>
+<p><span id="0.20" class="paragraph-number">[0.20]</span> <em>Allgemeiner Mechanismus des Periodenbaues, nebst einem Versuche, an ihn eine Kritik der deutschen Periode anzuknüpfen</em> <span class="citation" data-cites="lehmann1833">(<a href="#ref-lehmann1833" role="doc-biblioref">Lehmann 1833</a>)</span></p>
+<p><span id="0.21" class="paragraph-number">[0.21]</span> Lehmann’s approach is based on the work of Herling, who is explicitly cited as inspiration by Lehmann <span class="citation" data-cites="lehmann1833">(<a href="#ref-lehmann1833" role="doc-biblioref">1833</a>: xv-xvi)</span>.</p>
+<p><span id="0.22" class="paragraph-number">[0.22]</span> “innere Anschauung der Periode soll als auf äußere Anschauung begründet dargestellt werden. Die äußere Anschauung aber findet ihr Objekt in Bildern, welche das Skelet der Perioden wiedergeben. Ich nenne die Periodenskelet <span class="smallcaps">anschauungsbild der periode</span> oder <span class="smallcaps">periodenbild</span> schlechtweg.” <span class="citation" data-cites="lehmann1833">(<a href="#ref-lehmann1833" role="doc-biblioref">Lehmann 1833</a>: xiv)</span></p>
+<p><span id="0.23" class="paragraph-number">[0.23]</span> Book is full of actual analyses of complex sentences into clauses. No clause-internal structural analysis.</p>
+<p><span id="0.24" class="paragraph-number">[0.24]</span> No analysis of the different kinds of subordination, only order and relativ relationship!</p>
+<p><span id="0.25" class="paragraph-number">[0.25]</span> Main clauses with capital, subordinate with small letter, komma for coordination</p>
+<p><span id="0.26" class="paragraph-number">[0.26]</span> Lehmann distinguishes three different subordination structures with different notations, shown in Figure <a href="#fig0.8">0.8</a> <span class="citation" data-cites="lehmann1833">(<a href="#ref-lehmann1833" role="doc-biblioref">Lehmann 1833</a>: 58)</span>.</p>
+<p><span id="0.27" class="paragraph-number">[0.27]</span> repitition of same letter is used for continuation of clause with internal subordination</p>
+<p><span id="0.28" class="paragraph-number">[0.28]</span> greek letters are also used, but differently from Herling. Lehmann: doubly embedded get Greek letters, fourth embedding Fraktur capital letters, fifth embedding Fraktur lower-case letter. There is even a discussion of a fifth grade embedding, which uses numerals (p. 232)</p>
+<figure id="fig:lehmann1833_58" label="0.8">
+<img src="figures/lehmann1833_58.png" alt="Figure 0.8: Three basic structural mechanisms of subordination from Lehmann (1833: 58). The first is called Anfügung or Nachperiode, the second Vordersatz or Vorderperiode, Vorausschickung, the third Einschaltung." />
+<figcaption aria-hidden="true">Figure 0.8: Three basic structural mechanisms of subordination from Lehmann <span class="citation" data-cites="lehmann1833">(<a href="#ref-lehmann1833" role="doc-biblioref">1833</a>: 58)</span>. The first is called <em>Anfügung</em> or <em>Nachperiode</em>, the second <em>Vordersatz</em> or <em>Vorderperiode</em>, <em>Vorausschickung</em>, the third <em>Einschaltung</em>.</figcaption>
+</figure>
+<p><span id="0.29" class="paragraph-number">[0.29]</span> Interest in the number of possible schemas that could exist, which are all <em>Umformungen</em> of the original. For example, p. 116-118 he discusses an example analysis (apparently without real linguistic example) that could theoreticaly have 37,632 <em>Umformungen</em>, <em>“Es wäre thöricht, bei dieser oder ähnlichen Perioden, die zu den Verwickeltsten gehören, all möglichen Veränderungen darzustellen.”</em> (p.118)</p>
+
+<div id="ex0.3">
+<table class="linguistic-example">
+<tbody>
+<tr>
+<td class="linguistic-example-number" style="vertical-align: top;">(0.3)</td>
+<td class="linguistic-example-content" style="text-align: left;">Daß ferner, wenn es (das Kind) nun zu sprechen versucht, das Radbrechen der Wörter es für Mütter und Ammen so liebenswürdig macht, es beständig zu herzen und zu küssen und es auch wohl durch Erfüllung alles Wunsches und Willens zum kleinen Befehlshaber zu verziehn: diese Liebenswürdigkeit des Geschöpfs im Zeitraum seiner Entwicklung zur Menschheit, muß wohl auf Rechnung seiner Unschuld und Offenheit aller seiner noch fehlerhaften Aeußerungen, wobei noch kein Hehl und nichts Arges ist, einerseits, andrerseits aber auf den natürlichen Hang der Ammen zum Wohlthun an einem Geschöpf, welches einschmeichelnd sich der Willkür eines andern überläßt, geschrieben werden, da ihm eine Spielzeit eingewilligt wird, die glücklichste unter allen, wobei der Erzieher dadurch, daß er sich selber gleichsam zum Kinde macht, diese Annehmlichkeit nochmals genießt. <span class="citation" data-cites="lehmann1833">(<a href="#ref-lehmann1833" role="doc-biblioref">Lehmann 1833</a>: 125-126, citing Immanual Kant <em>Anthropologie in pragmatischer Hinsicht</em> 1798: 5)</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<figure id="fig:lehmann1833_126" label="0.9">
+<img src="figures/lehmann1833_126.png" alt="Figure 0.9: Lehmann’s (1833: 126) analysis of Kant’s sentence (0.3)." />
+<figcaption aria-hidden="true">Figure 0.9: Lehmann’s <span class="citation" data-cites="lehmann1833">(<a href="#ref-lehmann1833" role="doc-biblioref">1833</a>: 126)</span> analysis of Kant’s sentence <a href="#ex0.3">(0.3)</a>.</figcaption>
+</figure>
+<h3 data-number="0.0.4" label="0.0.4" id="sec0.0.4"><span class="header-section-number">0.0.4</span> Friedrich Bauer: <em>Grundzüge</em> <span class="citation" data-cites="bauer1850">(<a href="#ref-bauer1850" role="doc-biblioref">1850</a>)</span></h3>
+<p><span id="0.30" class="paragraph-number">[0.30]</span> Friedrich Bauer (1812-1874) studied theology and became the founding director of a missionary education centre in the Bavarian city of Neuendettelsau. This institute is still active today as <em>Mission EineWelt</em>. Among other duties, Bauer also taught religion and German grammar at his institute. In that context he wrote the <em>Grundzüge der neuhochdeutschen Grammatik für die unteren und mittleren Klassen höherer Bildungsanstalten</em>, which was first published in 1850. Bauer himself delivered various editions of this book up to his death in 1874.</p>
+<p><span id="0.31" class="paragraph-number">[0.31]</span> After Bauer’s death, the (now infamous) German dictionary maker Konrad Duden kept producing new editions of this grammar with only very minor changes. The <em>Grundzüge</em> remained popular and has seen at least 25 editions, the last one from 1908. However, that was not the end, as Bauer’s text was given a second life. After the death of Duden in 1911, Duden’s dictionary lived on and became a household name in Germany for everything related to the German language. In 1935, under the auspice of Otto Basler, the 11th Edition of the Duden dictionary was expanded with a German grammar <span class="citation" data-cites="basler1935">(<a href="#ref-basler1935" role="doc-biblioref">Basler 1935</a>)</span>, which was basically a new edition of Bauer’s <em>Grundzüge</em> (without clear attribution to Bauer). Only after the Second World War was the grammar completely rewritten and new editions of that Duden grammar are still popular today.<span id="fn2"><label for="fn2-toggle" class="fn-number"><sup>2</sup></label>
+<input type="checkbox" hidden id="fn2-toggle"/>
+<span id="fn2-content" class="footnote">more biographical info: Jahnel. Fachbereichsbibliothek Evangelische Theologie (381): C XVII Ce 93</span></span></p>
+<p><span id="0.32" class="paragraph-number">[0.32]</span> In the grammatical analysis of complex sentences, Bauer <span class="citation" data-cites="bauer1850">(<a href="#ref-bauer1850" role="doc-biblioref">1850</a>: 94-97)</span> uses a graphical display in the tradition of Herling, Lehmann and Götzinger, although he does not explicitly cite them. The first similarity is that Bauer’s analysis only deals with the relation between main and subordinate clauses, not clause-internal structure. Second, and most telling, Bauer follows Lehmann’s convention to use capital letters for main sentences and lower-case letters for subordinate sentences. And finally, after a few pages of examples, Bauer comments, almost as an afterthought, that this analysis is called <span class="smallcaps">periode</span>, a clear implicit reference to Herling <span class="citation" data-cites="herling1823">(<a href="#ref-herling1823" role="doc-biblioref">1823</a>)</span>.</p>
+<blockquote>
+<p><em>Die künstmäßige Gliederung mehrerer Sätze in beigeordneter oder untergeordneter Verbindung zu einem ganzen heißt man Periode</em> <span class="citation" data-cites="bauer1850">(“The artful arrangement of multiple sentences in coordinate or subordinate juncture into a whole is called <em>Periode</em>,” <a href="#ref-bauer1850" role="doc-biblioref">Bauer 1850</a>: 97, translation MC)</span>.</p>
+</blockquote>
+<p><span id="0.33" class="paragraph-number">[0.33]</span> The first few basic examples of Bauer’s syntactic analysis are shown in Figure <a href="#fig0.10">0.10</a> <span class="citation" data-cites="bauer1850">(<a href="#ref-bauer1850" role="doc-biblioref">Bauer 1850</a>: 95)</span>. These examples are also found in exactly the same layout 85 years later in Basler <span class="citation" data-cites="basler1935">(<a href="#ref-basler1935" role="doc-biblioref">1935</a>: 254)</span>. Each sentence is analysed in two ways: the text itself is subdivided into clauses, with subordinate clauses shifted down vertically and connected with lines. Additionally, there are structural analyses in the form of letters, with capital letters for main clauses and lower-case letters for subordinate clauses. First-level subordination is separated by a comma, while secondary or deeper subordination is indicated by vertical lines (and sometimes numerical superscripts). This analysis is rather similar to a constituency analysis with the abstract letters indicating the node labels and the clauses being the leaves. Specifically, subordination is not linked to an explicit superordinate word (i.e. to a head as in a dependency analysis), but to a superordinate abstract entity.</p>
+<figure id="fig:bauer1850_95" label="0.10">
+<img src="figures/bauer1850_95.png" alt="Figure 0.10: Basic examples of Bauer’s sentence analysis (Bauer 1850: 95). There are three sentences analysed in this excerpt, with subordination structure indicated by vertical lines and the structural patterns to the side, summarised with letters." />
+<figcaption aria-hidden="true">Figure 0.10: Basic examples of Bauer’s sentence analysis <span class="citation" data-cites="bauer1850">(<a href="#ref-bauer1850" role="doc-biblioref">Bauer 1850</a>: 95)</span>. There are three sentences analysed in this excerpt, with subordination structure indicated by vertical lines and the structural patterns to the side, summarised with letters.</figcaption>
+</figure>
+<p><span id="0.34" class="paragraph-number">[0.34]</span> A more complex example discussed by Bauer is the sentence <a href="#ex0.4">(0.4)</a>, analysed as Figure <a href="#fig0.11">0.11</a> <span class="citation" data-cites="bauer1850">(<a href="#ref-bauer1850" role="doc-biblioref">Bauer 1850</a>: 97)</span>. Again, there is both an analysis of all main and subordinate clauses, written out with subordination marked by vertical lines, and there is a structural pattern with letters and symbols in the bottom right. This structural pattern has two cases of coordination (marked by a plus symbol), an internal subordination (marked by the brackets), a secondary subordination (marked by a vertical line) and a subordination at the end of the sentence (marked by a comma). I have attempted to combine both these analysis into a single constituency tree as shown in Figure <a href="#fig0.12">0.12</a>. The structural pattern has been used as the node-labels, while the text itself are the leaves in the tree. Probably it would have been more accurate to analyse the subordination <em>c</em> as a simple frontal embedding of the second conjunct, using a comma in the analysis instead of brackets for a clause-internal embedding (viz. <em>A+c,A,a+a</em> instead of <em>A+A(c)A,a+a</em>), but that is some minor nitpicking.</p>
+
+<div id="ex0.4">
+<table class="linguistic-example">
+<tbody>
+<tr>
+<td class="linguistic-example-number" style="vertical-align: top;">(0.4)</td>
+<td class="linguistic-example-content" style="text-align: left;">Er schenkte ihr 300 Rubel und als er erfuhr, daß sie in Petersburg einen Vetter habe, stellte er ihre frei, ob sie ihre Reise fortsetzen oder ob sie umkehren wolle. <span class="citation" data-cites="bauer1850">(<a href="#ref-bauer1850" role="doc-biblioref">Bauer 1850</a>: 97)</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<figure id="fig:bauer1850_97" label="0.11">
+<img src="figures/bauer1850_97.png" alt="Figure 0.11: Analysis of the complex example in (0.4) from Bauer (1850: 97). Note both the use of vertical lines for subordination and the separate abstract analysis with symbols in the bottom right." />
+<figcaption aria-hidden="true">Figure 0.11: Analysis of the complex example in <a href="#ex0.4">(0.4)</a> from Bauer <span class="citation" data-cites="bauer1850">(<a href="#ref-bauer1850" role="doc-biblioref">1850</a>: 97)</span>. Note both the use of vertical lines for subordination and the separate abstract analysis with symbols in the bottom right.</figcaption>
+</figure>
+<figure id="fig:bauer1850_97tree" label="0.12">
+<img src="figures/bauer1850_97tree.svg" alt="Figure 0.12: Possible structure combining the text from example (0.4) and the structural letter-analysis from Figure 0.11 into a contemporary-style constituency tree." />
+<figcaption aria-hidden="true">Figure 0.12: Possible structure combining the text from example <a href="#ex0.4">(0.4)</a> and the structural letter-analysis from Figure <a href="#fig0.11">0.11</a> into a contemporary-style constituency tree.</figcaption>
+</figure>
+<h3 data-number="0.0.5" label="0.0.5" id="sec0.0.5"><span class="header-section-number">0.0.5</span> Karl Ferdinand Becker: <em>Deutsche Grammatik</em> <span class="citation" data-cites="becker1829">(<a href="#ref-becker1829" role="doc-biblioref">1829</a>)</span></h3>
+<p><span id="0.35" class="paragraph-number">[0.35]</span> Karl Ferdinand Becker (1775-1849) one of the highly influential grammatical educators from the start of the 19th Century.</p>
+<p><span id="0.36" class="paragraph-number">[0.36]</span> <span class="citation" data-cites="haselbach1966">(<a href="#ref-haselbach1966" role="doc-biblioref">Haselbach 1966</a>)</span></p>
+<p><span id="0.37" class="paragraph-number">[0.37]</span> In the introduction to the 1829 <em>Deutsche Grammatik</em> <span class="citation" data-cites="becker1829">(<a href="#ref-becker1829" role="doc-biblioref">Becker 1829</a>: xvii-xix)</span>, even before he really starts the exposition of the grammar of German, Becker presents a few examples of how complete sentences should be analysed.</p>
+
+<div id="ex0.5">
+<table class="linguistic-example">
+<tbody>
+<tr>
+<td class="linguistic-example-number" style="vertical-align: top;">(0.5)</td>
+<td class="linguistic-example-content" style="text-align: left;">Wallenstein wußte längst den Inhalt ihrer Sendung als die Abgesandten des Kaisers ihm vor die Augen traten.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<figure id="fig:becker1829_xvii" label="0.13">
+<img src="figures/becker1829_xvii.png" alt="Figure 0.13: Tabular analysis of the complete sentence (0.5), from the introduction of Becker (1829: xvii)." />
+<figcaption aria-hidden="true">Figure 0.13: Tabular analysis of the complete sentence <a href="#ex0.5">(0.5)</a>, from the introduction of Becker <span class="citation" data-cites="becker1829">(<a href="#ref-becker1829" role="doc-biblioref">1829</a>: xvii)</span>.</figcaption>
+</figure>
+<p><span id="0.38" class="paragraph-number">[0.38]</span> CoNLL-U table-format of Figure <a href="#fig0.13">0.13</a> with only slight cosmetic simplifications of the names for the dependency relations.</p>
+<pre><code># global.columns = ID FORM UPOS DEPREL HEAD
+1   Wallenstein      Substantiv Nom.        Subjekt                 0
+2   wußte            Verb Imperf.           Prädikat                1
+3   längst           Adverb                 der Zeit                2
+4   den Inhalt       Substantiv Akk.        Gethanes (Gewußtes)     2
+5   ihrer Sendung    Substantiv Gen.        Attributiv              4
+6   als              Konjunktion            Adverbialsatz der Zeit  2
+7   die Abgesandten  Substantiv Nom.        Subjekt                 6
+8   des Kaisers      Substantiv Gen.        Attributiv              7
+9   ihm              Personalpronomen Dat.  Persönliches Objekt    11
+10  vor die Augen    Substantiv mit Präp.   Ortsverhältniß         11
+11  traten           Verb Imperf.           Prädikat                7</code></pre>
+<figure id="fig:becker1829_dependency.svg" label="0.14">
+<img src="figures/becker1829_dependency.svg" alt="Figure 0.14: Graphical display of the CoNLL-U format based on Figure 0.13. Display is generated at https://urd2.let.rug.nl/~kleiweg/conllu/" />
+<figcaption aria-hidden="true">Figure 0.14: Graphical display of the CoNLL-U format based on Figure <a href="#fig0.13">0.13</a>. Display is generated at <a href="https://urd2.let.rug.nl/~kleiweg/conllu/" class="uri">https://urd2.let.rug.nl/~kleiweg/conllu/</a></figcaption>
+</figure>
+<p><span id="0.39" class="paragraph-number">[0.39]</span> subordinate sentences in <span class="citation" data-cites="becker1833a">(<a href="#ref-becker1833a" role="doc-biblioref">Becker 1833</a>: 38-46)</span>
+(<em>Eigenschaftssatz</em>=relative clause, <em>Dingsatz</em>=complement clause)</p>
+
+<div id="ex0.6">
+<table class="linguistic-example">
+<tbody>
+<tr>
+<td class="linguistic-example-number" style="vertical-align: top;">(0.6)</td>
+<td class="linguistic-example-content" style="text-align: left;">Jakob schickte seinen jüngsten Sohn nicht mit den übrigen nach Aegypten, weil schon einmal ein Sohn, den er ausgesandt hatte, nicht zurückgekehrt war, und weil er fürchtete, daß auch diesem ein Unfall begegnen möchte.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<figure id="fig:becker1833_43" label="0.15">
+<img src="figures/becker1833_43.png" alt="Figure 0.15: Tabular analysis of complex sentence (0.6) with various subordinate clauses, from Becker (1833: 43)." />
+<figcaption aria-hidden="true">Figure 0.15: Tabular analysis of complex sentence <a href="#ex0.6">(0.6)</a> with various subordinate clauses, from Becker <span class="citation" data-cites="becker1833a">(<a href="#ref-becker1833a" role="doc-biblioref">1833</a>: 43)</span>.</figcaption>
+</figure>
+<h1 class="unnumbered" id="bibliography">Bibliography</h1>
+
+<!-- Javascript added by toc-css.lua to make TOC expandable on click -->
+<script>
+
+  const b = document.querySelector("body");
+  const n = document.querySelector("nav");
+  const buttonsize = 20;
+
+  // click on "toc-title" to show TOC to the side
+  document.querySelector("#toc-title").addEventListener("click", function(e) {
+    if (e.clientX < e.currentTarget.getBoundingClientRect().left + buttonsize) {
+      n.classList.toggle("navshown");
+    } else {
+      b.classList.toggle("paddingleft");
+      n.classList.toggle("navside");
+      n.classList.remove("navshown");
+    };
+  });
+
+  // by default show TOC in large window
+  window.onload = function() {
+    if (window.innerWidth > 1000) {
+      b.classList.add("paddingleft");
+      n.classList.add("navside");
+    };
+  };
+
+  // show/hide TOC on resize
+  window.onresize = function () {
+    if (window.innerWidth > 1000) {
+      b.classList.add("paddingleft");
+      n.classList.add("navside");
+    } else {
+      b.classList.remove("paddingleft");
+      n.classList.remove("navside");
+    };
+  };
+
+  // show/hide subsections
+  const allLis = document.querySelectorAll("nav li");
+
+  for (const li of allLis) {
+    li.addEventListener('click', function (e) {
+      if (e.clientX < e.currentTarget.getBoundingClientRect().left + buttonsize) {
+        li.classList.toggle('subShow');
+        e.preventDefault();
+      };
+      if (e.clientX > e.currentTarget.getBoundingClientRect().left + 3*buttonsize) {
+        n.classList.remove("navshown");
+      };
+    });
+  };
+
+  // show full nav on tab, hide full nav on escape
+  document.addEventListener("keydown", function (e) {
+    if (e.which === 27) {
+      n.classList.remove("navshown");
+      e.preventDefault();
+    };
+    if (e.which === 9) {
+      n.classList.add("navshown");
+      e.preventDefault();
+    };
+  });
+
+  // hide full nav when clicked outside
+  document.addEventListener("click", function(e) {
+    if (n.classList.contains("navshown")) {
+      if (!n.contains(e.target)) {
+        n.classList.remove("navshown");
+      };
+    };
+  });
+
+</script>
+
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-basler1935" class="csl-entry" role="listitem">
+Basler, Otto. 1935. <em>Der große <span>Duden</span>: <span>Grammatik</span> der deutschen <span>Sprache</span>. <span>Eine</span> <span>Anleitung</span> zum <span>Verständnis</span> des <span>Aufbaus</span> unserer <span>Muttersprache</span></em>. Leipzig: Bibliographisches Institut.
+</div>
+<div id="ref-bauer1850" class="csl-entry" role="listitem">
+Bauer, Friedrich. 1850. <em>Grundzüge der neuhochdeutschen <span>Grammatik</span> für die unteren und mittleren <span>Klassen</span> höherer <span>Bildungsanstalten</span></em>. Nördlingen: C. H. Beck. <a href="https://nbn-resolving.org/urn:nbn:de:bvb:384-uba005778-6">https://nbn-resolving.org/urn:nbn:de:bvb:384-uba005778-6</a>.
+</div>
+<div id="ref-becker1829" class="csl-entry" role="listitem">
+Becker, Karl Ferdinand. 1829. <em>Deutsche <span>Grammatik</span></em> (Deutsche <span>Sprachlehre</span>, Zweiter <span>Band</span>). Frankfurt am Main: Hermannsche Buchhandlung. <a href="https://books.google.de/books?id=tv5IAAAAcAAJ">https://books.google.de/books?id=tv5IAAAAcAAJ</a>.
+</div>
+<div id="ref-becker1833a" class="csl-entry" role="listitem">
+Becker, Karl Ferdinand. 1833. <em>Über die methode des unterrichtes in der deutschen <span>Sprache</span>, als <span>Einleitung</span> zu dem <span>Leitfaden</span> für den ersten <span>Unterricht</span> in der deutschen <span>Sprachlehre</span></em>. Frankfurt am Main: Hermannsche Buchhandlung. <a href="https://google.com/books?id=jXsChQRllGgC">https://google.com/books?id=jXsChQRllGgC</a>.
+</div>
+<div id="ref-buhofer1994" class="csl-entry" role="listitem">
+Buhofer, Annalies Häcki. 1994. "Deutsche <span>Sprachlehre</span> für die <span>Damen</span>" – <span>Moderne</span> und originelle <span>Aspekte</span> in <span>Karl Philipp Moritz’</span> <span>Grammatik</span> und <span>Sprachtheorie</span>. In Annalies Häcki Buhofer (ed.), <em><span>Karl Philipp Moritz</span>: Literaturwissenschaftliche, linguistische und psychologische <span>Lektüren</span></em> (Basler Studien Zur Deutschen Sprache Und Literatur 67), 91–114. Tübingen: Francke.
+</div>
+<div id="ref-burkett2011" class="csl-entry" role="listitem">
+Burkett, John Walt. 2011. <em>Aristotle, <em>rhetoric</em> <span>III</span>, a commentary</em>. Texas Christian University PhD thesis. <a href="https://repository.tcu.edu/handle/116099117/4295">https://repository.tcu.edu/handle/116099117/4295</a>.
+</div>
+<div id="ref-elmentaler1996" class="csl-entry" role="listitem">
+Elmentaler, Michael. 1996. <em>Logisch-semantische <span>Studien</span> in der <span>Grammatik</span> des frühen 19. <span>Jahrhunderts</span>: <span>Untersuchungen</span> zur <span>Kategorienlehre</span> von <span>Simon Heinrich Adolf Herling</span></em> (Germanistische Linguistik 160). Tübingen: Niemeyer. doi:<a href="https://doi.org/10.1515/9783110918571">10.1515/9783110918571</a>.
+</div>
+<div id="ref-forsgren1985" class="csl-entry" role="listitem">
+Forsgren, Kjell-Åke. 1985. <em>Die deutsche <span>Satzgliedlehre</span> 1780-1830: Zur <span>Entwicklung</span> der traditionellen <span>Syntax</span> im <span>Spiegel</span> einiger allgemeiner und deutscher <span>Grammatiken</span></em> (Göteborger Germanistische Forschungen 29). Acta Universitatis Gothoburgensis.
+</div>
+<div id="ref-haselbach1966" class="csl-entry" role="listitem">
+Haselbach, Gerhard. 1966. <em>Grammatik und <span>Sprachstruktur</span>: <span>Karl Ferdinand Beckers</span> <span>Beitrag</span> zur allgemeinen <span>Sprachwissenschaft</span> in historischer und systematischer <span>Sicht</span></em>. Berlin: De Gruyter. doi:<a href="https://doi.org/10.1515/9783111646596">10.1515/9783111646596</a>.
+</div>
+<div id="ref-herling1823" class="csl-entry" role="listitem">
+Herling, Simon Heinrich Adolf. 1823. <em>Grundregeln des deutschen <span>Stils</span> oder der <span>Periodenbau</span> der deutschen <span>Sprache</span>. <span>Ein</span> <span>Lehrbuch</span> für den stilistischen <span>Unterricht</span></em>. Frankfurt am Main: Hermannsche Buchhandlung. <a href="https://mdz-nbn-resolving.de/bsb10583779">https://mdz-nbn-resolving.de/bsb10583779</a>.
+</div>
+<div id="ref-herling1830" class="csl-entry" role="listitem">
+Herling, Simon Heinrich Adolf. 1830. <em>Die <span>Syntax</span> der deutschen <span>Sprache</span>: Erster <span>Theil</span> (<span>Syntax</span> des einfachen <span>Satzes</span>)</em>. Frankfurt am Main: Hermannsche Buchhandlung. <a href="https://mdz-nbn-resolving.de/bsb10583781">https://mdz-nbn-resolving.de/bsb10583781</a>.
+</div>
+<div id="ref-herling1832" class="csl-entry" role="listitem">
+Herling, Simon Heinrich Adolf. 1832. <em>Die <span>Syntax</span> der deutschen <span>Sprache</span>: Zweiter <span>Theil</span> (der <span>Periodenbau</span> der deutschen <span>Sprache</span>)</em>. Dritte, wesentlich sehr verbesserte und vermehrte Ausgabe. Frankfurt am Main: Hermannsche Buchhandlung. <a href="https://mdz-nbn-resolving.de/bsb10583782">https://mdz-nbn-resolving.de/bsb10583782</a>.
+</div>
+<div id="ref-lehmann1833" class="csl-entry" role="listitem">
+Lehmann, Johann August. 1833. <em>Allgemeiner <span>Mechanismus</span> des <span>Periodenbaues</span>, nebst einem <span>Versuche</span>, an ihn eine <span>Kritik</span> der deutschen <span>Periode</span> anzuknüpfen</em>. Danzig: Anhuth. doi:<a href="https://doi.org/10.3931/e-rara-73094">10.3931/e-rara-73094</a>.
+</div>
+<div id="ref-moritz1782" class="csl-entry" role="listitem">
+Moritz, Carl Philipp. 1782. <em>Deutsche <span>Sprachlehre</span> für die <span>Damen</span> in <span>Briefen</span></em>. Berlin: Arnold Wever. <a href="https://mdz-nbn-resolving.de/bsb10584078">https://mdz-nbn-resolving.de/bsb10584078</a>.
+</div>
+<div id="ref-moritz1793" class="csl-entry" role="listitem">
+Moritz, Karl Philipp. 1793. <em>Grammatisches <span>Wörterbuch</span> der deutschen <span>Sprache</span></em>. Vol. Erster Band. Berlin: Ernst Felisch. <a href="https://books.google.de/books?id=oZRKAAAAcAAJ">https://books.google.de/books?id=oZRKAAAAcAAJ</a>.
+</div>
+<div id="ref-schmidt1993" class="csl-entry" role="listitem">
+Schmidt, Hartmut. 1993. <span>Karl Philipp Moritz</span>, der <span>Linguist</span>. <em>Text + Kritik</em> 118/119. 100–106.
+</div>
+</div>
+</body>
+</html>
