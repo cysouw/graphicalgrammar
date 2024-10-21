@@ -4,7 +4,7 @@ Karl Ferdinand Becker (1775-1849) one of the highly influential grammatical educ
 
 [@haselbach1966]
 
-In the introduction to the 1829 *Deutsche Grammatik* [@becker1829: xvii-xix], even before he really starts the exposition of the grammar of German, Becker presents a few examples of how complete sentences should be analysed.
+In the introduction to the 1829 *Deutsche Grammatik* [@becker1829: xvii-xix], even before he really starts the exposition of the grammar of German, Becker presents a few examples of how complete sentences should be analyzed.
 
 ::: ex
 Wallenstein wußte längst den Inhalt ihrer Sendung als die Abgesandten des Kaisers ihm vor die Augen traten.
