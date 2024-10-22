@@ -37,3 +37,13 @@ This grammar is later adapted by Moritz Seyffert *Dr. Friedrich Ellendt's Latein
 > Es war im Sommer d.J. 1855, als der Unterzeichnete im Auftrage der geehrten Verlagsbuchhandlung die vierte Auflage der Lateinischen Grammatik für die unteren Klassen der Gymnasien von Dr. Friedrich Ellendt nah dem kurz vorhergegangenen Tode des Verfassert besorgte. Schon damals wollte es mir scheinen, als ob nicht sowohl die besondere Eigenthümlichkeit dieser Grammatik, welche sich in der Anlage der Syntax an die größere Billrothsche Gr[ammatik] anlehnte, als vielmehr anderweitige, wohl zum Theil äußerliche Rücksichten der Verbreitung dieses Buches förderlich gewesen seien und fernerhin werden könnten.
 >
 > Auf diese Weise ward am Ende mir der ehrenvolle Auftrag zu Theil [...] die Syntax der Ellendtschen so umzuarbeiten, wie es die nicht mehr abzuweisenden Rücksicht auf die praktischen Interessen der Lehrenden und Lernenden verlangte.
+
+
+Billroth probably influences by Heyse : Subject/Prädicat/Copula and "nackt/bekleidet" [@heyse1827: 636]. However, the idea to use a picture is not found in Heyse. This seems to be an innovation of Billroth.
+
+- Meiner (1781: 446): “bloß” und “ausgebildet” 
+https://google.de/books?id=thZgAAAAcAAJ&pg=PA446
+- Heyse (1814: 491-492): “einfach/rein” und “ausgebildet/erweitert” 
+https://www.digitale-sammlungen.de/view/bsb10583813?page=511
+- Heyse (1820: 598): “einfach/nackt” und “ausgebildet/erweitert” 
+https://google.de/books?id=M5lHAQAAMAAJ&pg=PA598

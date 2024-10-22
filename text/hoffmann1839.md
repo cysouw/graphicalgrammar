@@ -20,3 +20,9 @@ new: discussion of *Periode* p. 240: (use of letters like Lehmann)
 ::: ex
 Es ist für denjenigen, der mit sich selbst noch nicht recht eins geworden ist, was er denn eigentlich suche und wolle, äußerst beängstigend, wenn er auf seinem Wege auf Sätze stößt, die allen seinen bisherigen Meinungen und den Meinungen seiner Zeitgenossen und der Vorwelt widersprechen: und gewiß ist diese Ängstlichkeit eine der Hauptursachen, warum die Menschheit auf dem Wege zur Wahrheit so langsame Forstschritte gemacht hat. [@hoffmann1853: 239, citing Fichte]
 :::
+
+
+Neuhochdeutsche Elementargrammatik mit Rücksicht auf die Grundsätze der historischen Grammatik
+
+6. Auflage 1865 https://www.digitale-sammlungen.de/view/bsb10583851?page=5
+images: https://www.digitale-sammlungen.de/view/bsb10583851?page=194
