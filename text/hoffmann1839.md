@@ -1,4 +1,4 @@
-### Julius Hoffmann *Neuhochdeutsche Schulgrammatik* [-@hoffmann1839]
+### Julius Hoffmann *Neuhochdeutsche Schulgrammatik* [-@hoffmann1839] {#sec:hoffmann1839}
 
 Karl August Julius Hoffmann (1812-1869)
 

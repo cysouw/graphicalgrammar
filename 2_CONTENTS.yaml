@@ -7,6 +7,9 @@
 input-files:
 - text/moritz1782.md
 - text/herling1823.md
-- text/lehmann1833.md
-- text/bauer1850.md
 - text/becker1829.md
+- text/billroth1832.md
+- text/lehmann1833.md
+- text/götzinger1839.md
+- text/hoffmann1839.md
+- text/bauer1850.md
