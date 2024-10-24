@@ -17,3 +17,5 @@ Periode added in fourth edition 1841: https://google.de/books?id=lwluroIG9NkC&pg
 
 
 meiner (1781: 446): bloßer Satz, ausgebildeter Satz, Periode https://google.de/books?id=thZgAAAAcAAJ&pg=PA446
+
+Influence on Kern? [@forsgren1998: 63] only circumstantial evidence

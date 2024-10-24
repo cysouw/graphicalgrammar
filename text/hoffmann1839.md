@@ -26,3 +26,5 @@ Neuhochdeutsche Elementargrammatik mit Rücksicht auf die Grundsätze der histor
 
 6. Auflage 1865 https://www.digitale-sammlungen.de/view/bsb10583851?page=5
 images: https://www.digitale-sammlungen.de/view/bsb10583851?page=194
+
+Kern cites Hoffmann [@kern1888], but only in the second edition after he already published his "tree" metaphors. The idea for the "trees" is already in "Satzlehre", finished in December 1882, and practically applied in "Methodik" of 1883.
