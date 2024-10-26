@@ -17,6 +17,8 @@ tblPrefix:
 figPrefix:
   - Figure
   - Figures
+figureTemplate: <b>$$figureTitle$$ $$i$$$$titleDelim$$</b> $$t$$
+tableTemplate: <b>$$tableTitle$$ $$i$$$$titleDelim$$</b> $$t$$
 pairDelim: "-"
 chapters: true
 linkReferences: true
