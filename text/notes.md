@@ -8,7 +8,7 @@ von Schreven 1833 https://books.google.nl/books?id=53RSAAAAcAAJ
   - why
   - previous literature
   - ordering by date of earliest work with siginificant visualisations
-- German pedagogical developments
+- German pedagogical proposals
 - Britisch pedagogical developments
 - US pedagogical developements
 - US scientific developments

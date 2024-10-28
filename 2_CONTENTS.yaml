@@ -5,12 +5,5 @@
 # However, technically these files can be anywhere in this directory
 
 input-files:
-- text/moritz1782.md
-- text/herling1823.md
-- text/becker1829.md
-- text/billroth1832.md
-- text/lehmann1833.md
-- text/götzinger1836.md
-- text/hoffmann1839.md
-- text/bauer1850.md
-- text/kern1883.md
+- text/introduction.md
+- text/germany.md
