@@ -330,7 +330,9 @@ Kern cites Hoffmann [@kern1888], but only in the second edition after he already
 
 Friedrich Bauer (1812-1874) studied theology and was the founding director of a missionary education centre in the Bavarian city of Neuendettelsau. This institute is still active today as *Mission EineWelt*. Among other duties, Bauer also taught religion and German grammar at his institute [@fuchshuber2013: 93]. In that context he wrote the *Grundzüge der neuhochdeutschen Grammatik für die unteren und mittleren Klassen höherer Bildungsanstalten*, which was first published in 1850. Bauer himself delivered various editions of this book up to his death in 1874.
 
-After Bauer's death, the German dictionary maker Konrad Duden kept producing new editions of this grammar with only very minor changes. The *Neuhochdeutsche Grammatik* remained popular and has seen at least 27 editions, the last one from 1912 [@fuchshuber2013: 115-117]. However, that was not the end, as Bauer's text was given a second life. After the death of Duden in 1911, Duden's dictionary lived on and became a household name in Germany for everything related to the German language. In 1935, under the auspice of Otto Basler, the 11th Edition of the Duden dictionary was expanded with a German grammar [@basler1935], which was basically a new edition of Bauer's *Neuhochdeutsche Grammatik* (without clear attribution to Bauer). Only after the Second World War was the grammar completely rewritten and new editions of that new Duden grammar are still popular today. The graphical display is gone in this rewritten Duden grammar.
+summary of many editions in [@fuchshuber2013: 128-131]
+
+After Bauer's death, the German dictionary maker Konrad Duden kept producing new editions of this grammar with only very minor changes. The *Neuhochdeutsche Grammatik* remained popular and has seen at least 27 editions, including special editions for Austria, for protestant schools and for catholic schools. The last edition was published in 1912 [@fuchshuber2013: 115-117, 128-131]. However, even that was not the end, as Bauer's text was given a second life. In the century since the death of Konrad Duden in 1911, Duden's dictionary became a household name in Germany for everything related to the German language. In 1935, under the auspice of Otto Basler, the 11th Edition of the Duden dictionary was expanded with a German grammar [@basler1935], which was basically a new edition of Bauer's *Neuhochdeutsche Grammatik*, which still includes the graphical analysis (without clear attribution to Bauer). Only after the Second World War was the grammar completely rewritten and new editions of that new Duden grammar are still popular today. The graphical display was removed from this rewritten Duden grammar.
 
 (Bauer knew Hoffmann's grammar, [@fuchshuber2013: 99])
 
@@ -338,7 +340,15 @@ In the grammatical analysis of complex sentences, Bauer [-@bauer1850: 94-97] use
 
 > *Die künstmäßige Gliederung mehrerer Sätze in beigeordneter oder untergeordneter Verbindung zu einem ganzen heißt man Periode* ['The artful arrangement of multiple sentences in coordinate or subordinate juncture into a whole is called *Periode*', @bauer1850: 97, translation MC].
 
+Term "Satzbild" not in first edition of 1850, but introduced later, at least in sixth edition [@bauer1863]
+
 The first few basic examples of Bauer's syntactic analysis are shown in [@fig:bauer1850_95] [@bauer1850: 95]. These examples are also found in exactly the same layout 85 years later in Basler [-@basler1935: 254]. Each sentence is analyzed in two ways: the text itself is subdivided into clauses, with subordinate clauses shifted down vertically and connected with lines (is this inspired by Hoffmann?). Additionally, there are structural analyses in the form of letters, with capital letters for main clauses and lower-case letters for subordinate clauses. First-level subordination is separated by a comma, while secondary or deeper subordination is indicated by vertical lines (and sometimes numerical superscripts). The vertical arrangement is clearly borrowed from Lehmann (although Bauer leaves out the horizontal brace from Lehmann), but the superscripts indicate that Bauer also took notice of Herling's notation (cf. [@sec:herling1823]).
+
+Different lower-case letters, just like Herling, though the letters are different! [@bauer1850: 94]. "verkürzte" subordinate clauses have dashes -a-, -b-, -c-, but he later notes that this is supposed to be a strikethrough [@bauer1863: footnote on p. 145]
+
+- Substantivsatz: a
+- Adjectivsatz: b
+- Adverbialsatz: c
 
 This analysis is rather similar to a constituency analysis with the abstract letters indicating the node labels and the clauses being the leaves. Specifically, subordination is not linked to an explicit superordinate word (i.e. to a head as in a dependency analysis), but to a superordinate abstract entity.
 
@@ -371,6 +381,23 @@ Er schenkte ihr 300 Rubel und als er erfuhr, daß sie in Petersburg einen Vetter
   ]
 ]
 ======]:
+
+Expansion of notation at least since the 6th edition [@bauer1863: 144-150]
+
+- Beigeordnete Sätze: A + A
+- Beigeordnete Sätze ohne Conjunct: A [+] A
+- Beigeordnete Sätze mit gepaarten Conjunctionen: + A + A
+- Gegengeordnete Sätze: A x A
+- Gegengeordnete Sätze ohne Conjunct: A [x] A
+- Causale begründete beigeordnete Sätze (*denn*): A < A
+- Causale folgernde beigeordnete Sätze (*daher*): A > A
+- Nebengeordnete Sätze: Ā
+- Gleichgeordnete Sätze: Ā̄
+
+
+In this edition he also promises to write a more extensive explanation of his notation, but he never seems to have done this.
+
+> Es ergeben sich die manchfaltigsten Gestalten von Sätzen von der einfachsten Schreibart an bis zur compliciertesten. Die Darstellung solcher Satzbilder durch Formeln ist äußert lehrreich und förderlich, sowohl für das Verständnis scherer Sätze, als für das Schreiben. […] Solche Formeln zur Darstellung von Satzbildern zu geben, muß sich der Verfaßer vorbehalten für eine besondere kleine Schrift, welche eine Ergänzung der Syntax für eine höhere Lehrstufe bilden soll. [@bauer1863: 128]
 
 ## *Methodik des deutsche Unterrichts* [@kern1883] {#sec:kern1883}
 
