@@ -260,6 +260,8 @@ Wo göttliche Kraft und Empfindung die Gedanken belebt; wo Dank und Bitte auf de
 
 ![Götzinger's early attempt to list different kinds of clause coordination inside a *Periode* [@gotzinger1827: 263]. The examples in the text make clear that these graphical displays are intended for coordinated structures, but it remains unclear how the graphically indicated central pair should be interpreted. ](figures/götzinger1827_263.png){#fig:götzinger1827_263}
 
+He uses term *Periodenbild* [@gotzinger1839: 395; @gotzinger1842: 307-311] just like Lehmann. Term *Satzbild* only introduced by Bauer.
+
 A decade after the first editions of his textbooks Götzinger writes his magnum opus *Die deutsche Sprache und ihre Literatur* [volume one -@gotzinger1836; volume two -@gotzinger1839]. This book includes various graphical analyses, which are clearly inspired by the *Periodenbilder* from Lehmann (see [@sec:lehmann1833]). Götzinger does not explicitly cite Lehmann as his inspiration for the graphical display, but he mentions Lehmann's *vortreffliches Buch* ('excellent book') in a different context [@gotzinger1839: 217]. In a later preface to a different book he explicitly explains how he adapted and extended Lehmann's display [@gotzinger1842: vi].
 
 Summarising, Lehmann (see [@sec:lehmann1833]) used a capital letter for a main clause and lower-case letters for subordinate clauses. Depending on position, there are three different methods to depict subordination. First, a subordinate clause in front of the main clause is separated by a colon. Second, a subordinate clause after the main clause is written below the main clause with a horizontal brace. Third, a clause-internal subordinate clause is written in round brackets.
