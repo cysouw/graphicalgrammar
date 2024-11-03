@@ -16,4 +16,5 @@ von Schreven 1833 https://books.google.nl/books?id=53RSAAAAcAAJ
 - Thinking ahead
   - difference between illustration (passive, not always complete) and analysis (active, capturing all details)
   - different levels of accuracy
-  - 
+
+Chinese version of reed/kellog: Ji Jinzi *New Grammar of the National Language* [@mossner1960; @peverelli2015: 97-104]

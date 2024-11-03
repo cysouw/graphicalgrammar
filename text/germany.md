@@ -114,6 +114,10 @@ Interpreting Herling's analysis in modern terms, his symbols can be seen as a co
 ]
 ======]:
 
+## Teutonia [@schmitthenner1828] {#sec:schmitthenner1828}
+
+Friedrich Jakob Schmitthenner (1796-1850) 
+
 ## *Deutsche Grammatik* [@becker1829] {#sec:becker1829}
 
 Karl Ferdinand Becker (1775-1849) one of the highly influential grammatical educators from the start of the 19th Century. 
@@ -246,6 +250,28 @@ Although Lehmann's book does not appear to have been reprinted after the first e
 >
 > ('The *Periodenbilder*, first drawn by director Lehmann from Marienwerder, have been praised and employed by many Schoolmen, and I am delighted through my textbooks to have contributed to the wider circulation of this method, the credit to which completely  befits Mr. Lehmann.')
 
+## *Praktischer Lehrgang für den Unterricht* [@diesterweg1834] {#sec:diesterweg1834}
+
+Freidrich Adolph Wilhelm Diesterweg (1790-1866)
+
+second (1834) and third edition (1838) similar as far as graphics are concerned. first edition 1830, fourth edition 1845 ???
+
+3rd edition: https://mdz-nbn-resolving.de/bsb10583534
+
+In the introduction to the second edition he explicitly cites Herling, Becker, Götzinger and Schmitthenner as inspiration [@diesterweg1834: xiii]
+
+::: ex
+Ein unter den schwierigen Umständen standhaft gebliebenen Vater von secht unmündigen, in weiter Entfernung lebenden Kindern hat sich auch in diesem theuern Jahre durch rastlose Thätigkeit bei Tag und Nacht vor Tausenden seiner Mitbürger ruhmlich ausgezeichnet. [@diesterweg1834: 156]
+:::
+
+note basic subject-predicate horizontal placement, just like Billroth. The horizontal brackets are reminiscent of later edition of Billroth, specifically 1848.
+
+![Sentence analysis](figures/diesterweg1834_156.png){#fig:diesterweg1834_156}
+
+Term *Satzbild*, beschriebt Periodenanalyse wie Herling [@diesterweg1834: 162]
+
+*grammatische Zergliederung (Analysis)*, sehr ähnlich wie Becker *Analyse der Sätze*! [@diesterweg1834: 252ff.]
+
 ## *Die deutsche Sprache* [@gotzinger1836] {#sec:götzinger1836}
 
 Maximilian Wilhelm Götzinger (1799–1856) was a teacher of German, most of his life working in Schaffhausen (Switzerland). He wrote extensively about grammar, literature and dialectology, see Olsson [-@olsson2009] for an comprehensive appraisal of his work. Besides his didactic writings, Götzinger also provided material for Grimm's dictionary project [@olsson2009: 37] and he was even awarded a doctorate *honoris causa* from the University of Basel in 1838 [@olsson2009: 36], probably through his personal contact with Wilhelm Wackernagel (the father of Jacob Wackernagel of *Wackernagel's law*-fame).
@@ -260,7 +286,9 @@ Wo göttliche Kraft und Empfindung die Gedanken belebt; wo Dank und Bitte auf de
 
 ![Götzinger's early attempt to list different kinds of clause coordination inside a *Periode* [@gotzinger1827: 263]. The examples in the text make clear that these graphical displays are intended for coordinated structures, but it remains unclear how the graphically indicated central pair should be interpreted. ](figures/götzinger1827_263.png){#fig:götzinger1827_263}
 
-He uses term *Periodenbild* [@gotzinger1839: 395; @gotzinger1842: 307-311] just like Lehmann. Term *Satzbild* only introduced by Bauer.
+3rd edition of *Sprachlehre* cites the influence of Lehmann [@gotzinger1835: xiii-xiv] and applies his graphical analysis to clause structure. Section *Stellungen der Bekleidung* [@gotzinger1835: 243-248] and *Stellung der Nebensätze* [@gotzinger1835: 310-315]
+
+He uses term *Periodenbild* [@gotzinger1839: 395; @gotzinger1842: 307-311] just like Lehmann. Term *Satzbild* only introduced by Bauer?
 
 A decade after the first editions of his textbooks Götzinger writes his magnum opus *Die deutsche Sprache und ihre Literatur* [volume one -@gotzinger1836; volume two -@gotzinger1839]. This book includes various graphical analyses, which are clearly inspired by the *Periodenbilder* from Lehmann (see [@sec:lehmann1833]). Götzinger does not explicitly cite Lehmann as his inspiration for the graphical display, but he mentions Lehmann's *vortreffliches Buch* ('excellent book') in a different context [@gotzinger1839: 217]. In a later preface to a different book he explicitly explains how he adapted and extended Lehmann's display [@gotzinger1842: vi].
 
@@ -401,9 +429,59 @@ In this edition he also promises to write a more extensive explanation of his no
 
 > Es ergeben sich die manchfaltigsten Gestalten von Sätzen von der einfachsten Schreibart an bis zur compliciertesten. Die Darstellung solcher Satzbilder durch Formeln ist äußert lehrreich und förderlich, sowohl für das Verständnis scherer Sätze, als für das Schreiben. […] Solche Formeln zur Darstellung von Satzbildern zu geben, muß sich der Verfaßer vorbehalten für eine besondere kleine Schrift, welche eine Ergänzung der Syntax für eine höhere Lehrstufe bilden soll. [@bauer1863: 128]
 
-## *Methodik des deutsche Unterrichts* [@kern1883] {#sec:kern1883}
+## *Deutsche Sprachlehre* [@gelbe1877]
+
+Theodor Gelbe, Satzbild like Götzinger [@gelbe1877: 150-153]
+
+## *Deutsche Sprachbriefe* [@sanders1879]
+
+Daniel Sanders (1819-1897)
+
+Satzbild, probably Hoffmann
+
+## *Unterricht in der deutschen Sprache* [@zettel1882]
+
+Satzbild like Götzinger [@zettel1882: 85-87]
+
+## *Methodik des deutschen Unterrichts* [@kern1883] {#sec:kern1883}
 
 Franz Kern (1830-1894)
 
-
 Influence from Götzinger? [@forsgren1998: 63] only circumstantial evidence
+
+## *Sprachliches Mahnwort* [@kuderna1893]
+
+Satzbilder [@kuderna1893: 268-269]
+
+## *Schriftliche Übersetzung aus dem Griechischen* [@gloel1895]
+
+Satzbilder [@gloel1895: 75]
+
+## *Satzstellungen in der Kudrun* [@toifel1897]
+
+Many Satzbilder, probably tradition Hoffmann
+
+## *Lektüre als Grundlage* [@lyon1897]
+
+Paul Otto Lyon (1853-1912) Stadtschulrat in Dresden
+
+lineare Satzbilder wie Hoffmann [@lyon1897: 130-154]
+
+## *Deutsche Grammatik* [@utzinger1897]
+
+Heinrich Utzinger (1842-1913)
+
+14. Auflage 1943!
+
+probably influences by hoffmann, though he does not cite him in the introduction (he cites götzinger *Anfangsgründe*)
+
+- *Schema* [@utzinger1897: 89] subject-predicate on one line!
+- *Satzbild* [@utzinger1897: 122] very simplified like hoffmann
+
+## *Graphische Darstellung* [@eberhard1905]
+
+new proposal as a reaction to Adolf Stamm (1899)
+
+(other reaction to Stamm: [@mossner1960])
+
+comparison: [@gerth1902]
