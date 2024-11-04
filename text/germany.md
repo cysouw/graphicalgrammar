@@ -356,6 +356,12 @@ images: https://www.digitale-sammlungen.de/view/bsb10583851?page=194
 
 Kern cites Hoffmann [@kern1888], but only in the second edition after he already published his "tree" metaphors. The idea for the "trees" is already in "Satzlehre", finished in December 1882, and practically applied in "Methodik" of 1883.
 
+## *Lateinische Stilistik* [@nagelsbach1846]
+
+Carl Friedrich Nägelsbach (1806-1859)
+
+graphical *Periode* citing Lehmann [@nagelsbach1846: 281ff.]
+
 ## *Neuhochdeutsche Grammatik* [@bauer1850] {#sec:bauer1850}
 
 Friedrich Bauer (1812-1874) studied theology and was the founding director of a missionary education centre in the Bavarian city of Neuendettelsau. This institute is still active today as *Mission EineWelt*. Among other duties, Bauer also taught religion and German grammar at his institute [@fuchshuber2013: 93]. In that context he wrote the *Grundzüge der neuhochdeutschen Grammatik für die unteren und mittleren Klassen höherer Bildungsanstalten*, which was first published in 1850. Bauer himself delivered various editions of this book up to his death in 1874.
@@ -449,6 +455,14 @@ Franz Kern (1830-1894)
 
 Influence from Götzinger? [@forsgren1998: 63] only circumstantial evidence
 
+## *Deutsche Grammatik für österreichische Mittelschulen* [@willomitzer1894]
+
+First edition only a single simple table (Becker-influence?) [@willomitzer1879: 123]
+
+Later editions add *Satzbilder* very much in the style of Kern (without clear attribution). For example in the 6th edition [@willomitzer1894: 114, 121, 127]
+
+There is also a different notation for *Periode*, which uses letters, but different from all others, already in first edition [@willomitzer1879: 157-158], slightly changed in later editions [@willomitzer1894: 154-155]
+
 ## *Sprachliches Mahnwort* [@kuderna1893]
 
 Satzbilder [@kuderna1893: 268-269]
@@ -478,10 +492,14 @@ probably influences by hoffmann, though he does not cite him in the introduction
 - *Schema* [@utzinger1897: 89] subject-predicate on one line!
 - *Satzbild* [@utzinger1897: 122] very simplified like hoffmann
 
+## *Das Periodenbild* [@raumer1902]
+
+New proposal for *Periode*, reaction to Lehmann and subsequent proposals. Very short, only one example of his proposal (using multiple lines) [@raumer1902: 63]
+
 ## *Graphische Darstellung* [@eberhard1905]
 
 new proposal as a reaction to Adolf Stamm (1899)
 
 (other reaction to Stamm: [@mossner1960])
 
-comparison: [@gerth1902]
+other critique of Stamm: [@arens1902]
