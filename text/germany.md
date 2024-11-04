@@ -248,7 +248,9 @@ Although Lehmann's book does not appear to have been reprinted after the first e
 
 > *Die von Herrn Director Lehmann in Marienwerden zuerst aufgestellten Periodenbilder haben bei vielen Schulmännern Beifall und Anwendung gefunden, und es macht mir große Freude, durch meine Lehrbücher zur Verbreitung dieser Methode, deren Verdienst ganz allein Herrn Lehmann gebührt, beigetragen zu haben.* [@gotzinger1842: x, Vorrede zur fünften Auflage]
 >
-> ('The *Periodenbilder*, first drawn by director Lehmann from Marienwerder, have been praised and employed by many Schoolmen, and I am delighted through my textbooks to have contributed to the wider circulation of this method, the credit to which completely  befits Mr. Lehmann.')
+> ('The *Periodenbilder*, first drawn by director Lehmann from Marienwerder, have been praised and employed by many Schoolmen, and I am delighted through my textbooks to have contributed to the wider circulation of this method, the credit to which completely befits Mr. Lehmann.')
+
+Later Lehmann writes *Sprachliche Studien über das Nibelungenlied* [@lehmann1856; @lehmann1857], Jahresbericht Gymnasium Marienwerder, citing Götzinger and Nägelsbach. Instead of the vertical schema, he uses the comma as simplification (footnote on p.8)
 
 ## *Praktischer Lehrgang für den Unterricht* [@diesterweg1834] {#sec:diesterweg1834}
 
@@ -439,6 +441,16 @@ In this edition he also promises to write a more extensive explanation of his no
 
 Theodor Gelbe, Satzbild like Götzinger [@gelbe1877: 150-153]
 
+## *Die Periode oder der Gliedersatz* [@diringer1878]
+
+practical application in second half of the book [@diringer1878: 42-60] using separate lines for subordination
+
+Further development of *Periodenbild* citing Bauer, Lehmann and Götzinger (and Becker, Herling, but there does not seem to be any links as for the graphics)
+
+## *Die Formen der Periode* [@esser1878]
+
+Franz Esser (Oberlehrer) citing Götzinger, but using dashes instead of horizontal braces
+
 ## *Deutsche Sprachbriefe* [@sanders1879]
 
 Daniel Sanders (1819-1897)
@@ -475,6 +487,8 @@ Satzbilder [@gloel1895: 75]
 
 Many Satzbilder, probably tradition Hoffmann
 
+Later the same with another text: [@toifel1901]
+
 ## *Lektüre als Grundlage* [@lyon1897]
 
 Paul Otto Lyon (1853-1912) Stadtschulrat in Dresden
@@ -496,10 +510,18 @@ probably influences by hoffmann, though he does not cite him in the introduction
 
 New proposal for *Periode*, reaction to Lehmann and subsequent proposals. Very short, only one example of his proposal (using multiple lines) [@raumer1902: 63]
 
-## *Graphische Darstellung* [@eberhard1905]
+## *Graphische Darstellung in der Sprachlehre* [@eberhard1905]
 
 new proposal as a reaction to Adolf Stamm (1899)
 
 (other reaction to Stamm: [@mossner1960])
 
 other critique of Stamm: [@arens1902]
+
+## *Kurzgefaszte deutsche Syntax* [@flothuis1930]
+
+Marius Hendrikus Flothuis (1873-1950), teacher of german language and literature in Amsterdam. 
+Father of composer Marius Flothuis.
+https://archief.amsterdam/indexen/deeds/98533401-2df7-56a3-e053-b784100ade19?person=98533401-2df8-56a3-e053-b784100ade19
+
+Adds idiosyncratic diagrams of subordinate clauses to the end of his grammar. cites Kern and Wundt, but his graphics do not look like theirs.
