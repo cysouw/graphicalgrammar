@@ -484,6 +484,15 @@ probably influences by hoffmann, though he does not cite him in the introduction
 - *Schema* [@utzinger1887: 89] subject-predicate on one line!
 - *Satzbild* [@utzinger1887: 122] very simplified like hoffmann
 
+## Lyon (1889) *Handbuch der deutschen Sprache*
+
+Otto Lyon (1853-1912) Stadtschulrat in Dresden
+
+simple analysis of constituents with numbers [@lyon1889: 101]
+Satzbilder like Lehmann [@lyon1889: 269-270]
+
+more extensive in *Lektüre als Grundlage* Satzbilder wie Hoffmann [@lyon1897: 130-154]
+
 ## Kuderna (1893) *Sprachliches Mahnwort*
 
 Béla Kuderna (1846-1915), Hauptmann in the austrian army and teacher for german language and style at the *Infanterie-Cadetenschule* in Vienna.
@@ -517,12 +526,6 @@ Lehrer in Salzburg, later Ried im Innkreis
 Many Satzbilder, probably tradition Hoffmann [@toifel1897]
 
 Later the same with another text: [@toifel1901]
-
-## Lyon (1897) *Lektüre als Grundlage*
-
-Otto Lyon (1853-1912) Stadtschulrat in Dresden
-
-lineare Satzbilder wie Hoffmann [@lyon1897: 130-154]
 
 ## Stamm (1899) *Graphische Darstellung* 
 
