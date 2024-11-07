@@ -284,6 +284,8 @@ Although Lehmann's book does not appear to have been reprinted after the first e
 >
 > ('The *Periodenbilder*, first drawn by director Lehmann from Marienwerder, have been praised and employed by many Schoolmen, and I am delighted through my textbooks to have contributed to the wider circulation of this method, the credit to which completely befits Mr. Lehmann.')
 
+Later application: [@lehmann1852: 152-180]. Very complex examples!
+
 Later Lehmann writes *Sprachliche Studien über das Nibelungenlied* [@lehmann1856; @lehmann1857], Jahresbericht Gymnasium Marienwerder, citing Götzinger and Nägelsbach. Instead of the vertical schema, he uses the comma as simplification (footnote on p.8)
 
 ## Götzinger (1836) *Die deutsche Sprache* {#sec:götzinger1836}
@@ -556,6 +558,29 @@ new proposal as a reaction to Adolf Stamm (1899) [@eberhard1905]
 ## Schuberth (1908) *Deutsche Satzbilder*
 
 Gustav Schuberth (1850-1922), Schuldirektor in Großenhain [@schuberth1908]
+
+## Erman (1913) *Stellung und Funktion der Nebensätze*
+
+Konrad Bessel Erman (1888-)
+
+Dissertation *Beziehungen zwischen Stellung und Funktion der Nebensätze mehrfacher Unterordnung im Althochdeutschen* [@erman1913]
+
+cites [@lehmann1856; @esser1878; @toifel1897; @toifel1901]
+
+## Pfannkuchen (1914) *Periodenbau*
+
+Wilhelm Pfannkuchen (1887-), dissertation in Giessen with Otto Behagel [@pfannkuchen1914], teacher in Darmstadt. cites Kern, Gelbe, Lehmann, but seems mainly influenced by [@lehmann1852]
+
+::: ex
+Und hast du dem Befehle deines Gottes,
+Der in des Feld dich rief, genug getan
+So wirst du deine Waffen von dir legen
+Und wiederkehren zu dem sanfteren
+Geschlecht, das du verleugnet hast, das nicht
+Berufen ist zum blut'gen Werk der Waffen. (Schiller, Jungfrau von Orleans)
+:::
+
+![Pfannkuchen p. 60](files/pfannkuchen1914_60.jpg)
 
 ## Flothuis (1930) *Kurzgefaszte deutsche Syntax* 
 
