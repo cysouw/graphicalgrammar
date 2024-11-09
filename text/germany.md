@@ -175,13 +175,15 @@ Jakob schickte seinen jüngsten Sohn nicht mit den übrigen nach Aegypten, weil 
 
 ## Diesterweg (1830) *Praktischer Lehrgang für den Unterricht*  {#sec:diesterweg1834}
 
-Freidrich Adolph Wilhelm Diesterweg (1790-1866)
+Freidrich Adolph Wilhelm Diesterweg (1790-1866) was a teacher and a prolific author of textbooks. He also wrote extensively about didactic methods. Later in life he was politically active in an attempt to reform the Prussian educational system. His practical textbooks mainly dealt with mathematics and German linguistics. A comprehensive analysis of his linguistic didactic writings can be found in Czoska [-@czoska1984].
+
+The *Praktischer Lehrgang für den Unterricht in der deutschen Sprache* is a massive three-volume guide for teachers. As it says in the subtitle, it is *ein Leitfaden für Lehrer, welche die Muttersprache naturgemäß lehren wollen* 'a guide for teachers who want to teach the mother tongue in a natural way'. In the current context I will concentrate on the second volume *Die Wortformen und die Satzlehre*. This second volume first appeared in 1830, but I have not been able to access that edition. I will use here the second edition from 1834, which is basically idental to the third edition from 1838.
 
 second (1834) [@diesterweg1834] and third edition (1838) similar as far as graphics are concerned. first edition 1830, fourth edition 1845 ???
 
 3rd edition: https://mdz-nbn-resolving.de/bsb10583534
 
-In the introduction to the second edition he explicitly cites Herling, Becker, Götzinger and Schmitthenner as inspiration [@diesterweg1834: xiii]
+In the introduction to the first volume he explicitly cites Herling, Becker, Götzinger and Schmitthenner as inspiration [@diesterweg1834: xiii]
 
 ::: ex
 Ein unter den schwierigen Umständen standhaft gebliebenen Vater von secht unmündigen, in weiter Entfernung lebenden Kindern hat sich auch in diesem theuern Jahre durch rastlose Thätigkeit bei Tag und Nacht vor Tausenden seiner Mitbürger ruhmlich ausgezeichnet. [@diesterweg1834: 156]
@@ -194,6 +196,22 @@ note basic subject-predicate horizontal placement, just like Billroth. The horiz
 Term *Satzbild*, beschriebt Periodenanalyse wie Herling [@diesterweg1834: 162]
 
 *grammatische Zergliederung (Analysis)*, sehr ähnlich wie Becker *Analyse der Sätze*! [@diesterweg1834: 252ff.]
+
+## Brown (1831) *American Grammar*
+
+West (2000: 91-109)
+
+- American Grammar (1820) https://google.com/books?id=Y5Y_AAAAYAAJ
+- The American system of English syntax (1837) https://lccn.loc.gov/10024676
+- An exegesis of English syntax (1840) https://lccn.loc.gov/10024675 https://lccn.loc.gov/10024691
+- The first part of the American system of English syntax (1841)
+- An Appeal from the Old Theory of English Grammar (1845) https://google.com/books?id=C-ZZAAAAMAAJ
+- An English Syntithology (1847) https://google.com/books?id=4MVEAAAAIAAJ
+- An appeal from the absurdities and contradictions which pervade, and deform the old theory of English grammar (1850) https://lccn.loc.gov/11008562
+- An English Grammar, in Three Books (1850) https://google.com/books?id=O1IZAAAAYAAJ
+- The first book of the rational system of English grammar (1854) https://lccn.loc.gov/10024689
+- The second book of the rational system of English grammar (1854) https://lccn.loc.gov/10024690
+- The grammatical reader (1854) https://lccn.loc.gov/ca11002074
 
 ## Billroth (1832) *Lateinische Syntax* {#sec:billroth1832}
 
@@ -459,6 +477,18 @@ Further development of *Periodenbild* citing Bauer, Lehmann and Götzinger (and 
 
 Franz Esser (Oberlehrer Gymnasium Weissenburg) citing Götzinger, but using dashes instead of horizontal braces [@esser1878]
 
+## Wundt (1880) *Logik*
+
+Hypothesis that Wundt influenced Bloomfield: [@percival1976: 234-235 gives various detailed arguments]
+
+Debate about logical analysis: Wundt proposes recursive subject-predicate pairing as a model for though and language: note that this is the logical tradition of the terminology, not the grammatical!
+
+Wundt's discussion of the 'old grammarians' [@wundt1900b: 222-224], arguing against the 'copula-theory'
+
+See [@picardi2022: 24-26] for the relation with Frege
+
+See [@dittrich1902] for a direct following of Wundt
+
 ## Sanders (1879) *Deutsche Sprachbriefe*
 
 Daniel Sanders (1819-1897) https://de.wikipedia.org/wiki/Daniel_Sanders_(Lexikograf)
@@ -494,6 +524,8 @@ simple analysis of constituents with numbers [@lyon1889: 101]
 Satzbilder like Lehmann [@lyon1889: 269-270]
 
 more extensive in *Lektüre als Grundlage* Satzbilder wie Hoffmann [@lyon1897: 130-154]
+
+*Handbuch* has seen many revision and editions. The 8th edition from 1919 (strongly revised) includes Utzinger-style tree graphic [@lyon1919: 122, 136]. The section about *Satzbilder* under the heading *Periode* [@lyon1919: 196-198] is verbatim identical to the 1889 version.
 
 ## Kuderna (1893) *Sprachliches Mahnwort*
 
@@ -589,3 +621,7 @@ Father of composer Marius Flothuis.
 https://archief.amsterdam/indexen/deeds/98533401-2df7-56a3-e053-b784100ade19?person=98533401-2df8-56a3-e053-b784100ade19
 
 Adds idiosyncratic diagrams of subordinate clauses to the end of his grammar. cites Kern and Wundt, but his graphics do not look like theirs [@flothuis1930]
+
+## Heemstra (1947) *Grundrisz der deutsch-niederländischen Satzlehre*
+
+only graphical display of clause subordination. cites examples from [@kern1884] and [@flothuis1930], does not add anything new [@heemstra1947: 76-79]
