@@ -30,9 +30,13 @@ Chinese version of reed/kellog: Ji Jinzi *New Grammar of the National Language* 
 
 ## Broberg 1882
 
+Severin Carl Olfert Fischer Broberg (1822-1900)
+
 indented table with sentence structure [@broberg1882: 95-102]
 
 ## Hansen 1933
+
+Aage Hansen (1894-1983) studied with Jespersen in Copenhagen
 
 various graphics [@hansen1933], mentioned in the preface of Jespersen 1937 [@jespersen1969]
 
@@ -43,6 +47,10 @@ symbolic analysis, [@jespersen1969: 83] citing a graphic from [@fry1925]
 ## Diderichsen 1947
 
 Feldertheorie [@diderichsen1957], giving nested schema like hansen [@diderichsen1957: 146]
+
+does not cite drach (1935)
+
+uses term "chinese boxes"
 
 # Swedish
 
@@ -123,3 +131,18 @@ https://catalog.hathitrust.org/Record/011199495
 diagram, tree metaphor in pictures
 
 https://books.google.de/books?id=BdIOAQAAMAAJ&newbks=1&newbks_redir=0&printsec=frontcover&hl=de#v=onepage&q=diagram&f=false
+
+# Gleason (1955)
+
+[@gleason1955: 129-131]
+
+second edition from 1961 extended, Chomsky mentioned in introduction [@gleason1961]. Includes generation and transformation. But still the old IC-stuff as well [@gleason1961]
+
+[@gleason1965] very open description: Ch7 on Reed/Kellog and other approaches, but also many chapters on TGG
+
+# Nida (1964) *Toward a Science of Translating*
+
+https://books.google.de/books?id=YskUAAAAIAAJ
+https://archive.org/details/towardsscienceof0000euge
+
+[@nida1964: 58-62]
