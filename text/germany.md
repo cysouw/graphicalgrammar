@@ -197,22 +197,6 @@ Term *Satzbild*, beschriebt Periodenanalyse wie Herling [@diesterweg1834: 162]
 
 *grammatische Zergliederung (Analysis)*, sehr ähnlich wie Becker *Analyse der Sätze*! [@diesterweg1834: 252ff.]
 
-## Brown (1831) *American Grammar*
-
-West (2000: 91-109)
-
-- American Grammar (1820) https://google.com/books?id=Y5Y_AAAAYAAJ
-- The American system of English syntax (1837) https://lccn.loc.gov/10024676
-- An exegesis of English syntax (1840) https://lccn.loc.gov/10024675 https://lccn.loc.gov/10024691
-- The first part of the American system of English syntax (1841)
-- An Appeal from the Old Theory of English Grammar (1845) https://google.com/books?id=C-ZZAAAAMAAJ
-- An English Syntithology (1847) https://google.com/books?id=4MVEAAAAIAAJ
-- An appeal from the absurdities and contradictions which pervade, and deform the old theory of English grammar (1850) https://lccn.loc.gov/11008562
-- An English Grammar, in Three Books (1850) https://google.com/books?id=O1IZAAAAYAAJ
-- The first book of the rational system of English grammar (1854) https://lccn.loc.gov/10024689
-- The second book of the rational system of English grammar (1854) https://lccn.loc.gov/10024690
-- The grammatical reader (1854) https://lccn.loc.gov/ca11002074
-
 ## Billroth (1832) *Lateinische Syntax* {#sec:billroth1832}
 
 At the end of his short life, Johann Gustav Willhelm Billroth (1808-1836) became professor for religion at the university in Halle. Before that, between his *Habilitation* in Leipzig in 1830 and the start of his position in Halle in 1834, he worked as a teacher for latin [@alwast2000]. In that context he wrote two latin grammars for use in schools, first the *Lateinische Syntax für die obern Klassen gelehrter Schulen* [@billroth1832], later followed by the *Lateinische Schulgrammatik für alle Klassen* [@billroth1834].
@@ -463,7 +447,7 @@ In this edition he also promises to write a more extensive explanation of his no
 
 ## Gelbe (1877) *Deutsche Sprachlehre*
 
-Theodor Gelbe (1837-1892), Satzbild like Götzinger [@gelbe1877: 150-153]
+Theodor Gelbe (1837-1892), Realschuldirektor in Stollberg. Satzbild like Götzinger [@gelbe1877: 150-153] historical survey of satzbilder [@gelbe1880]
 
 ## Diringer (1878) *Die Periode oder der Gliedersatz*
 
@@ -477,6 +461,17 @@ Further development of *Periodenbild* citing Bauer, Lehmann and Götzinger (and 
 
 Franz Esser (Oberlehrer Gymnasium Weissenburg) citing Götzinger, but using dashes instead of horizontal braces [@esser1878]
 
+## Sanders (1879) *Deutsche Sprachbriefe*
+
+Daniel Sanders (1819-1897) https://de.wikipedia.org/wiki/Daniel_Sanders_(Lexikograf)
+
+Satzbild, probably Hoffmann [@sanders1879]
+
+## Blatz (1880) *Neuhochdeutsche Grammatik*
+
+Satzbilder [@blatz1880: 866-871]
+in Introduction mentions Becker, Sanders
+
 ## Wundt (1880) *Logik*
 
 Hypothesis that Wundt influenced Bloomfield: [@percival1976: 234-235 gives various detailed arguments]
@@ -488,12 +483,6 @@ Wundt's discussion of the 'old grammarians' [@wundt1900b: 222-224], arguing agai
 See [@picardi2022: 24-26] for the relation with Frege
 
 See [@dittrich1902] for a direct following of Wundt
-
-## Sanders (1879) *Deutsche Sprachbriefe*
-
-Daniel Sanders (1819-1897) https://de.wikipedia.org/wiki/Daniel_Sanders_(Lexikograf)
-
-Satzbild, probably Hoffmann [@sanders1879]
 
 ## Zettel (1882) *Unterricht in der deutschen Sprache*
 
@@ -547,6 +536,12 @@ There is also a different notation for *Periode*, which uses letters, but differ
 
 Revised by Johann Tschinkel after the death of Willomitzer, later renamed as *Deutsche Sprachlehre für Mittelschulen*, reprinted and revised up to a 23th edition in 1930. The table is gone, and only a single unexplained *Satzbild* remains [@tschinkel1921: 242].
 
+## Tiktin (1895) *Gramatica Românǎ*
+
+Hariton Tiktin (1850-1936) was born in Breslau (Wrocław), but moved to Iași in Romania at the age of 18, where he worked as a teacher. He wrote a dissertation in Leipzig and worked as a lecturer at the Humboldt-University Berlin
+
+[@tiktin1895: 206-207] second edition, but difference to first edition (1891) unknown
+
 ## Gloël (1895) *Schriftliche Übersetzung aus dem Griechischen*
 
 Heinrich Gloël, Gymnasiallehrer in Wesel
@@ -560,6 +555,10 @@ Lehrer in Salzburg, later Ried im Innkreis
 Many Satzbilder, probably tradition Hoffmann [@toifel1897]
 
 Later the same with another text: [@toifel1901]
+
+## Trunk (1898) *Zur Hebung des deutschen Sprachunterrichtes*
+
+inspired by Kern
 
 ## Stamm (1899) *Graphische Darstellung* 
 
