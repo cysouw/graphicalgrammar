@@ -70,6 +70,9 @@ Swinton (1872: iii-iv) “The introduction, some thirty years ago, of the method
 
 ## Reed & Kellog (1875) *Graded lessons in English*
 
+https://www.letsdiagram.com
+https://natureofwriting.com/course/diagramming-sentences
+
 ## Harvey (1878) *A practical grammar of the English language*
 
 Thomas Wadleigh Harvey (1821-1892)
