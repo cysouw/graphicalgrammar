@@ -445,6 +445,18 @@ In this edition he also promises to write a more extensive explanation of his no
 
 > Es ergeben sich die manchfaltigsten Gestalten von Sätzen von der einfachsten Schreibart an bis zur compliciertesten. Die Darstellung solcher Satzbilder durch Formeln ist äußert lehrreich und förderlich, sowohl für das Verständnis scherer Sätze, als für das Schreiben. […] Solche Formeln zur Darstellung von Satzbildern zu geben, muß sich der Verfaßer vorbehalten für eine besondere kleine Schrift, welche eine Ergänzung der Syntax für eine höhere Lehrstufe bilden soll. [@bauer1863: 128]
 
+## Wetzel & Wetzel (1865) *Die deutsche Sprache*
+
+Periode like Lehmann, §194-195, cited here in the 3rd edition [@wetzel1871: 312-316]
+
+Almost identical, just a bit shorter and streamlined, in *Leitfaden*, first edition 1868, cited here in the 46th edition [@wetzel1871: 223-224]
+
+## Menge (1873) *Repetitorium der lateinischen Syntax und Stilistik*
+
+Hermann August Menge (1841-1939), teacher and translator of the infamous *Menge-Bibel*. Based on his practical teaching experience, he wrote textbooks for Latin and Greek. The Latin textbook is still in use today, though in a slightly revised version [e.g. a 1955 edition is cited in @langholf1969: 10].
+
+Lehmann Periode in §541-542, cited here in the 6th edition [@menge1890: 357-364]. In the preface to the first edition he cites among others Hoffmann (but not Nägelsbach), and the other preface do not mention any changes as far as the Periode is concerned, so it is very probable that the Period analysis was already present in the first edition of 1873.
+
 ## Gelbe (1877) *Deutsche Sprachlehre*
 
 Theodor Gelbe (1837-1892), Realschuldirektor in Stollberg. Satzbild like Götzinger [@gelbe1877: 150-153] historical survey of satzbilder [@gelbe1880]
@@ -620,6 +632,10 @@ Father of composer Marius Flothuis.
 https://archief.amsterdam/indexen/deeds/98533401-2df7-56a3-e053-b784100ade19?person=98533401-2df8-56a3-e053-b784100ade19
 
 Adds idiosyncratic diagrams of subordinate clauses to the end of his grammar. cites Kern and Wundt, but his graphics do not look like theirs [@flothuis1930]
+
+## Adjukiewicz (1935) *Die syntaktische Konnexität*
+
+[@ajdukiewicz1935]
 
 ## Heemstra (1947) *Grundrisz der deutsch-niederländischen Satzlehre*
 

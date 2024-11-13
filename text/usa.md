@@ -25,6 +25,8 @@ https://google.com/books?id=PI4VAQAAMAAJ
 
 ## Barnard (1836) *Analytic Grammar*
 
+Analytic Grammar; With Symbolic Illustration. New York: E. French. https://catalog.hathitrust.org/Record/008991837 No trees, but “symbolic sentences” in which categories are marked. Some ideas of levels http://www.polysyllabic.com/?q=node/336. Developed at school for the deaf in Hartford! based on l’epee/sicard “. This development seems to be linked to deaf-education, see [@wing1887: 86]
+
 ## Barrett (1845) *The principles of English grammar*
 
 ## Clark (1850) *The Science of the English Language*
@@ -57,9 +59,16 @@ https://google.com/books?id=dmwVAQAAMAAJ
 
 ## March (1869) *A parser and analyzer for beginners*
 
+Francis A. March, A Parser and Analyzer for Beginners, with Diagrams and Suggestive Pictures (1869). http://www.polysyllabic.com/?q=olddiagrams/clarkderiv
+thanks to: Richard Salter Storrs (deaf education in hartford, mentioned in preface of March 1869), see [@williams1885: 102]
+
 ## Swinton (1872) *A progressive grammar of the English tongue*
 
-## Reed/Kellog (1875) *Graded lessons in English*
+tabular based on Becker [@swinton1872: 154]
+
+Swinton (1872: iii-iv) “The introduction, some thirty years ago, of the method of Sentential Analysis, devised by the German philologist Becker, and adapted to American school use in the meritorious works of Professor Greene and others, marks the only considerable innovation, in this country, on the Murray system.”
+
+## Reed & Kellog (1875) *Graded lessons in English*
 
 ## Harvey (1878) *A practical grammar of the English language*
 
@@ -71,6 +80,10 @@ elementary grammar (1869) https://lccn.loc.gov/11006142
 practical grammar (1878: 266-267) with diagram like reed/kellog
 https://archive.org/details/bwb_T3-AGI-243/page/266/mode/2up?q=diagram
 
+## Wing (1885) *Function symbols*
+
+[@wing1885] further development of storrs/peet symbols for the deaf (which were also the basis for March 1869)
+
 ## Wilson (1886) *The system of branching method*
 
 Isaac Eldridge Wilson https://lccn.loc.gov/06041614
@@ -80,6 +93,15 @@ Isaac Eldridge Wilson https://lccn.loc.gov/06041614
 
 https://gallica.bnf.fr/ark:/12148/bpt6k821816
 
+## Greene (1889) *Inductive language lessons*
+
+Harris R. Greene [@greene1889: 36, 41, 49, etc.]. combination of "reverse" tree and symbols below the worlds.
+
+earlier books do not seem to have graphics
+
+- https://google.com/books?id=XBwBAAAAYAAJ
+- https://google.com/books?id=fUVKAAAAIAAJ
+
 ## Rigdon (1890) *Grammar of the English sentence*
 
 diagramming like reed/kellog p.167
@@ -87,25 +109,50 @@ diagramming like reed/kellog p.167
 https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Rigdon%2C%20Jonathan%2C%201858%2D1933
 https://books.google.de/books?id=dJAOAAAAYAAJ&printsec=frontcover&hl=de#v=onepage&q&f=false
 
-## Whitney
-
-https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Whitney%2c%20William%20Dwight%2c%201827%2d1894
-
 ## Sheffield (1912) *Grammar and thinking*
 
-## Bloomfield (1933)
+Alfred Dwight Sheffield [@sheffield1912: 50-51] Grammar and Thinking (citing Wundt prominently) Brittain (1973:204) says “linguists seem to have been unaware of his work”
 
-## Pike (1943)
+also Alfred Dwight Sheffield [@sheffield1929: 53]
 
-## Nida (1946)
+## Perry & Eichmann (1920) *Grammar, Book 1-4*
 
-## Wells (1947)
+graphic analysis
+
+https://archive.org/details/grammarbookone00perr
+https://archive.org/details/grammarbooktwo00perr
+https://archive.org/details/grammarbookthree00perr
+https://archive.org/details/grammarbookfour00perr
+
+## Bloomfield (1933) *Language*
+
+[@bloomfield1933: 161]
+
+## Pike (1943) *Taxemes and immediate constituents*
+
+[@pike1943: 70], citing bloomfield
+
+## Nida (1946) *Morphology*
+
+[@nida1949: 87]
+
+## Wells (1947) *Immediate constituents*
+
+[@wells1947: 84]
+
+## Mikuš (1947) *Le Syntagme EST-IL Binaire?*
+
+Francis Mikuš from Ljubljana
+
+trees following Wundt [@mikus1947: 37], includes "chines boxes" diagram, without attribution.
 
 ## Fries (1952) *The structure of English*
 
-[@fries1952]
+[@fries1952: 272] (Pike is a student of Fries, Fries might have been inspired by Pike 1943 here)
 
-## Bar-Hillel (1953)
+## Bar-Hillel (1953) *A Quasi-Arithmetical Notation for Syntactic Description*
+
+[@barhillel1953] english explanation of [@ajdukiewicz1935]
 
 ## Gleason (1955) *An introduction to descriptive linguistics*
 
@@ -115,19 +162,41 @@ second edition from 1961 extended, Chomsky mentioned in introduction [@gleason19
 
 [@gleason1965] very open description: Ch7 on Reed/Kellog and other approaches, but also many chapters on TGG
 
-## Chomsky (1955)
+## Chomsky (1955) *The logical structure of linguistic theory*
+
+[@chomsky1955]
+
+Chomsky (1955: 277) Note the reversal of the usage of dashes, here more alike to brackets. The dashes seem to represent some kind of intonation structure, though.
+
+Chomsky (1955: 316b) Similar to Pike/Fries/Hockett
+
+Chomsky cites Bar-Hillel (1953: 57)
+
+## Robert (1956) *Patterns of English*
+
+completely idiosyncratic system of letters and numbers. No references whatsoever [@roberts1956].
 
 ## Smith (1957) *Superfixes and syntactic markers*
 
 [@smith1957]
 
-## Hockett (1958)
+## Hockett (1958) *A course in modern linguistics*
+
+[@hockett1958: 152]
 
 ## Francis (1958) *The structure of American English*
 
 [@francis1958] chinese boxes. Stewart [@stewart1976] reports from personal communication with Francis, that the chinese-box diagrams were inspired on the graphical display in [@fries1952]
 
-## Nida (1960/1943)
+## Nida (1960) *A synopsis of English syntax*
+
+[@nida1960] added images to 1943 dissertation, which did not have images
+
+Nida (1973[1960]) writes his thesis in 1943, which is published in 1960. There do not seem to be trees in his thesis, but he Immediate Constituents might imply trees (but difficult to follow). In the 1960 edition he adds a long list of trees. But this is of course after Chomsky 1957.
+
+In the preface of the 1943: 30 dissertation he cited Sheffield 1912 (though not with respect to structural analysis) 
+
+Note the combination of dependency and constituency!
 
 ## Gammon (1963) *On representing syntactic structure*
 
@@ -138,4 +207,4 @@ second edition from 1961 extended, Chomsky mentioned in introduction [@gleason19
 https://books.google.de/books?id=YskUAAAAIAAJ
 https://archive.org/details/towardsscienceof0000euge
 
-[@nida1964: 58-62]
+summary of different equivalent [@nida1964: 58-62]
