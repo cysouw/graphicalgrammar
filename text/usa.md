@@ -508,17 +508,21 @@ See [@dittrich1902] for a direct following of Wundt in Germany, otherwise nothin
 
 ## Sheffield (1912) *Grammar and thinking*
 
-Alfred Dwight Sheffield [@sheffield1912: 50-51] Grammar and Thinking (citing Wundt prominently) Brittain (1973:204) says “linguists seem to have been unaware of his work”
+Alfred Dwight Sheffield [@sheffield1912: 50-51] Grammar and Thinking (citing Wundt prominently) Brittain (1973:204) says “linguists seem to have been unaware of his work”. This is not true!
 
 also Alfred Dwight Sheffield [@sheffield1929: 53]
+
+- Nida cites him in 1943 dissertation
+- Jespersen cites him in 1913 Sprogets Logic
+- review by Bloomfield, quite critical [@bloomfield1912]
 
 ## Bloomfield (1933) *Language*
 
 [@bloomfield1933: 161]
 
-Bloomfield (1914: 60-61, cited in Percival 1976:235) clearly thinks about binary branching. Also note the Wundt-inspired psychological reasoning.
+[@bloomfield1914: 60-61], cited in Percival (1976:235) clearly thinks about binary branching. Also note the Wundt-inspired psychological reasoning.
 
-## Adjukiewicz (1935) *Die syntaktische Konnexität*
+## Ajdukiewicz (1935) *Die syntaktische Konnexität*
 
 [@ajdukiewicz1935]
 
@@ -528,7 +532,8 @@ Bloomfield (1914: 60-61, cited in Percival 1976:235) clearly thinks about binary
 
 ## Nida (1946) *Morphology*
 
-[@nida1949: 87]
+sentence: [@nida1949: 87]
+hierarchical morphological structure p.101, both 102
 
 ## Wells (1947) *Immediate constituents*
 
@@ -539,6 +544,58 @@ Bloomfield (1914: 60-61, cited in Percival 1976:235) clearly thinks about binary
 Francis Mikuš from Ljubljana
 
 trees following Wundt [@mikus1947: 37], includes "chines boxes" diagram, without attribution.
+
+## Harris (1951) *Methods in structuralist linguistics*
+
+book is later called *Structural Linguistics* [@harris1963]
+
+examples of IC: *my most recent plays closed down* (p278-279) analysed as follows, with number of dots representing separation. Reversed bloomfield approach: more dots are "larger" separation
+
+T :: D . A : N² :. -s :.: V¹ . Pb : -ed
+
+Complete rewrite rules (in Chomskian format, harris writes them from right to left). Note the strange early past suffix insertion
+
+Utterance → N⁴V⁴
+N⁴ → TN³
+N³ → N²-s
+N² → AN²
+A → DA
+V⁴ → V²-ed
+V² → V¹Pb
+
+Insertion
+
+T = my
+D = most
+A = recent
+N² = play
+V¹ = close
+Pb = down
+
+[ === rsyntaxtree
+[Utterance
+  [N⁴
+    [T my]
+    [N³
+      [N²
+        [A 
+          [D most]
+          [A recent]
+        ]
+        [N² play]
+      ]
+      \-s
+    ]
+  ]
+  [V⁴
+    [V²
+      [V¹ close]
+      [Pb down]
+    ]
+    \-ed
+  ]
+]
+=== ]:
 
 ## Fries (1952) *The structure of English*
 

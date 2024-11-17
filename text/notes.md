@@ -30,3 +30,8 @@ Chinese version of reed/kellog: Ji Jinzi *New Grammar of the National Language* 
 - [@grosse1966] many modern approaches
 - [@langholf1969: 10] version of Periodenbau, cites Menge as inspiration!
 
+# strange
+
+## Stöhr (1898) *Algebra der Grammatik*
+
+[@stohr1898]
