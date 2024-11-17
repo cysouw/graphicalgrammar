@@ -1,8 +1,49 @@
 # Introduction
 
-## Brown (1831) *American Grammar*
+"Normal schools" < école normale, education for teachers!
 
-West (2000: 91-109)
+Greene (1836) *A practical grammar of the English language*
+"diagram" of tenses, not syntactic structure
+https://de.wikipedia.org/wiki/Roscoe_Greene
+https://google.com/books?id=PI4VAQAAMAAJ
+
+# Teaching grammar to the Deaf
+
+## Sicard (1799)
+
+Cours d'instruction 1799: numbers? p 64-71. 331ff.
+graphics: 89
+
+https://gallica.bnf.fr/ark:/12148/bpt6k821816
+
+## Barnard (1836) *Analytic Grammar*
+
+Analytic Grammar; With Symbolic Illustration. New York: E. French. https://catalog.hathitrust.org/Record/008991837 No trees, but “symbolic sentences” in which categories are marked. Some ideas of levels http://www.polysyllabic.com/?q=node/336. Developed at school for the deaf in Hartford! based on l’epee/sicard “. This development seems to be linked to deaf-education, see [@wing1887: 86]
+
+## March (1869) *A parser and analyzer for beginners*
+
+Francis A. March, A Parser and Analyzer for Beginners, with Diagrams and Suggestive Pictures (1869). http://www.polysyllabic.com/?q=olddiagrams/clarkderiv
+thanks to: Richard Salter Storrs (deaf education in hartford, mentioned in preface of March 1869), see [@williams1885: 102]
+
+## Storrs (1880) *Methods of deaf-mute teaching*
+
+[@storrs1881; @storrs1880; @storrs1880a]
+
+## Wing (1885) *Function symbols*
+
+[@wing1885] further development of storrs/peet symbols for the deaf (which were also the basis for March 1869)
+
+# Proto-Diagramming
+
+## Brown (1831) *The American grammar*
+
+- construing p.22: major/minor sections with different brackets p.29
+- scanning (p35-40)
+- scheme (p81-88), parsing
+
+"Construing consists in dividing a sentence into sections or groups, ascertaining their true constructive relation, learning their exact significant characters, and referring the inferior sections to their respective superiors." (p. xii) 
+
+[@west2000: 91-109]
 
 - American Grammar (1820) https://google.com/books?id=Y5Y_AAAAYAAJ
 - The American system of English syntax (1837) https://lccn.loc.gov/10024676
@@ -16,20 +57,80 @@ West (2000: 91-109)
 - The second book of the rational system of English grammar (1854) https://lccn.loc.gov/10024690
 - The grammatical reader (1854) https://lccn.loc.gov/ca11002074
 
-## Greene (1836) *A practical grammar of the English language*
+## Barrett (1837) *The principles of language*
 
-Roscoe Greene, "diagram" of tenses, not syntactic structure
+parsing inspired by Brown???
 
-https://de.wikipedia.org/wiki/Roscoe_Greene
-https://google.com/books?id=PI4VAQAAMAAJ
+[@barrett1837] system of parsing (introduced to the learner in the preface vii-viii), key to analysis p. 29, parsing explained p31. Text of later image on p. 33.
 
-## Barnard (1836) *Analytic Grammar*
+"scanning" on page 113.
 
-Analytic Grammar; With Symbolic Illustration. New York: E. French. https://catalog.hathitrust.org/Record/008991837 No trees, but “symbolic sentences” in which categories are marked. Some ideas of levels http://www.polysyllabic.com/?q=node/336. Developed at school for the deaf in Hartford! based on l’epee/sicard “. This development seems to be linked to deaf-education, see [@wing1887: 86]
+slightly different title, but probably just a new edition[@barrett1845] insert between p.18 and 19. Parsing of the examples by letters, p.18-31
 
-## Barrett (1845) *The principles of English grammar*
+[@barrett1857], same graphic plate beween p18 and p19. Parsing exemplified p66-75
 
-## Clark (1850) *The Science of the English Language*
+new plates: at start, before p85 in latin
+
+note morpheme-separation by dashes in Latin p.125-131
+
+new book [@barrett1859] proposing 21 different relations (p.28), the numbers are written to each word when parsing a sentence
+
+## Peirce (1839) *The grammar of the English language*
+
+"chains" on p. 50, 52, 140 [@peirce1839]
+
+"immediate dependence" vs. "intermediate connection" (p. 141)
+
+numbered example sentences p. 233-241, there appears to be some implicit hierarchical ordering, but no clear explanation. Maybe numbering like Brown?
+
+## Greene (1846) *A treatise on the structure of the English language*
+
+Samuel Stillman Greene (1810-1883)
+
+cited here in printing from 1849. graphics "formula for a sentence" [@greene1849: 70, 82, 111, 120, 167, 184] meaning of digits is unclear
+
+Later different systems, e.g.
+
+- [@greene1860: 171-177] subject-predicate base with modifiers in brackets
+- [@greene1874: 23-24] summarise structure with "significant symbols" S, P, a, o, v
+
+## Hall (1849) *Encyclopedia of English grammar*
+
+"Monology" inspired by Brown! Numbering to indicate constituents ("monos") [@hall1850: 197-305]. Also bracketing with square and round brackets.
+
+identical in 1849 version. bad scan at https://archive.org/details/encyclopediaofen00hall/page/296/mode/2up?q=monology
+
+Not the same as William D. Hall from 1898 diagrams.
+
+## Cruttenden (1859) *The philosophy of sentential language*
+
+https://lccn.loc.gov/10028710
+https://lccn.loc.gov/10028727
+https://lccn.loc.gov/10033615
+
+[@brittain1973: 31]
+
+# Diagramming
+
+## Clark (1847) *The Science of the English Language*
+
+[@clark1847] very interesting frontispiece in the first edition! Is later sold separately as a poster for schools
+
+same graphics in [@clark1870: 39-66] and throughout the rest of the book
+
+## Holbrook (1859) *The normal, or method of teaching*
+
+graphical analysis [@holbrook1859: 174], citing "Brown's rules of syntax" [@holbrook1859: 165], probably Goold Brown. He also cites "Clark's grammar, revised edition"
+
+complete grammar in 1873, same diagrams [@holbrook1873: 145-151]
+
+nicer scan here (later version, same examples): https://archive.org/details/newenglishgramma00holb/page/224/
+
+## Chandler (1861) *A class book on English grammar and analysis*
+
+1860 [@chandler1860] version has no diagrams, added in revised edition 1861 [@chandler1861]
+
+"models for black board exercises" (p151-160) very clear inspiration for later Reed/Kellog (Reed/Kellog say in introduction that their system arose in 1868, so clearly later than chandler)
 
 ## York (1862) *An Analytical, Illustrative, and Constructive Grammar*
 
@@ -57,16 +158,38 @@ following clark (1847)
 
 https://google.com/books?id=dmwVAQAAMAAJ
 
-## March (1869) *A parser and analyzer for beginners*
+## Burtt (1868) *A practical grammar of the English language*
 
-Francis A. March, A Parser and Analyzer for Beginners, with Diagrams and Suggestive Pictures (1869). http://www.polysyllabic.com/?q=olddiagrams/clarkderiv
-thanks to: Richard Salter Storrs (deaf education in hartford, mentioned in preface of March 1869), see [@williams1885: 102]
+no graphics in [@burtt1859]
 
-## Swinton (1872) *A progressive grammar of the English tongue*
+[@burtt1868] cites chandler in introduction (though not about graphics). completely revised and new diagrams [@burtt1868: 263-279], improved from Chandler
 
-tabular based on Becker [@swinton1872: 154]
+same in [@burtt1873: 126-136], variant of Chandler
 
-Swinton (1872: iii-iv) “The introduction, some thirty years ago, of the method of Sentential Analysis, devised by the German philologist Becker, and adapted to American school use in the meritorious works of Professor Greene and others, marks the only considerable innovation, in this country, on the Murray system.”
+## Parker (1869) *A grammar of English language*
+
+William Henry Parker, original not yet found [@brittain1973: 53]
+
+## Chamberlin (1871) *Natural system of English grammar*
+
+original not yet found [@brittain1973: 67]
+
+https://bsky.app/profile/coffeeanddonatus.bsky.social/post/3kifj7o36bu2i
+https://nationallibraryofeducation.on.worldcat.org/search/detail/974041820?queryString=chamberlin%20natural%20system%20grammar&clusterResults=true&groupVariantRecords=false
+
+## Lighthall (1872) *Introduction to analysis and parsing*
+
+probably G.E. Lighthall (1872) *Introduction to analysis and parsing* with bubbles, original not yet found [@brittain1973: 73] 
+
+[@lighthall1874], clark but without bubbles, just underline
+
+## Butler (1874) *A practical and critical grammar*
+
+originally *A practical grammar* from 1845 without diagrams, see https://google.com/books?id=-khKAAAAIAAJ for 1846 revision [@butler1846]
+
+revised edition with slightly different name, with diagramming like Holbrook [@butler1874: 178-187]. Also interesting footnote in preface p5.
+
+Revised edition with original name *A practical grammar* in 1879 with diagrams [@butler1879: 168-177]
 
 ## Reed & Kellog (1875) *Graded lessons in English*
 
@@ -77,46 +200,248 @@ https://natureofwriting.com/course/diagramming-sentences
 
 Thomas Wadleigh Harvey (1821-1892)
 
-practical grammar (1868) https://lccn.loc.gov/40037114
-elementary grammar (1869) https://lccn.loc.gov/11006142
+practical grammar [@harvey1868] no graphics. revised practical grammar [@harvey1878: 266-272] with diagram like reed/kellog
 
-practical grammar (1878: 266-267) with diagram like reed/kellog
-https://archive.org/details/bwb_T3-AGI-243/page/266/mode/2up?q=diagram
+??? not found: Harvey (1900) *A new English grammar for schools* [@brittain1973: 178]. Note that there is a 1900 revision of the elementary grammar by Louise Connolly https://lccn.loc.gov/00002828
 
-## Wing (1885) *Function symbols*
+original elementary grammar (1869) https://lccn.loc.gov/11006142
 
-[@wing1885] further development of storrs/peet symbols for the deaf (which were also the basis for March 1869)
+## Lyte (1879) *Forms of parsing and analysis*
+
+first attempt [@lyte1879]
+
+expanded later in [@lyte1899; @lyte1898; @lyte1886]
+
+## Sanders (1879) *Analysis by diagrams*
+
+William Francis Lewis Sanders (1849-1930)
+
+Born on Sept. 12, 1849, in Maxville, Ind., William Francis Lewis Sanders is the son of Jonas Bedford and Delphena Nevitt Sanders. He received the B.A. degree (1873) from Indiana University. On March, 10 1875, he married Fannie Taylor and they had five children: Pearl, Bertram, Emma Allison, Mabel Rosalie, and Earl Prentiss. Sanders held various teaching and administrative positions in Indiana public schools at Owensville, Bloomington Cambridge City, New Albany, and Connersville . He died on Oct. 8, 1930.
+
+1879 book not yet found, see [@brittain1973: 89]
+
+1891 *The English sentence* diagrams included at [@sanders1891: 68-end]
+
+## Eubank (1881) *Key to Harvey's practical grammar*
+
+first edition 1881, cited here revised edition from 1885. Diagramming [@eubank1885: 113-200] "brace system"
+
+## Maris (1880) *The normal English grammar*
+
+original not yet found [@brittain1973: 102] only cover page here from 1888 edition:
+https://digital.klnpa.org/digital/collection/philips/id/8878/
+
+## Raub (1880) *Practical English grammar*
+
+vertical analysis [@raub1880a: 129-156] "written analysis"
+
+also [@raub1880; @raub1885] both referring to the first book as the origin. 1885 seems most comprehensive summary
+
+## Adams (1882) *Grammatical diagrams and analyses*
+
+[@adams1882] based on Holbrook and Harvey. Says Holbrook approach is widespread in America ?!
+
+## Vaughn (1883) *English grammar revolutionized and simplified*
+
+[@vaughn1883: 82-end] following reed/kellog
+
+## Patterson (1884) *Elements of grammar*
+
+reed/kellog-style [@patterson1884: 206-220]
+
+## Sornberger (1884) *Normal language lessons*
+
+[@sornberger1884: 80] vertical SP-diagram like Holbrook (author is from a "Normal school")
+
+## Irish (1884) *Grammar and analysis made easy*
+
+Frank Van Buren Irish [@irish1884] like reed/kellog
+
+"sander's system of diagrams' preface p. iii, note that Harvey has many diagrams himself
+
+## Putnam (1885) *Supplementary lessons in English*
+
+original not yet found [@brittain1973: 118]
 
 ## Wilson (1886) *The system of branching method*
 
-Isaac Eldridge Wilson https://lccn.loc.gov/06041614
+Isaac Eldridge Wilson
 
 - word-class tree: p. 488, 494 (see Blanchard: Wood 2000: 138, originally 1847? https://catalog.mwa.org/vwebv/holdingsInfo?searchId=3288&recPointer=0&recCount=10)
-- diagramming: 544 ff.
+https://www.loc.gov/item/2018757044/
 
-https://gallica.bnf.fr/ark:/12148/bpt6k821816
+- diagramming: [@wilson1886: 544-554]
 
-## Greene (1889) *Inductive language lessons*
+## Welsh (1887) *Lessons in English grammar*
+
+Alfred H. Welsh (1850-1889)
+
+no graphical analysis:
+
+- 1883: Development of English books?id=J8EzAQAAMAAJ
+- 1885: Complete Rhetoric books?id=ZfgAAAAAYAAJ&
+- 1896 (1889): English composition books?id=Ov0AAAAAYAAJ
+
+graphing:
+
+- 1884: Essentials of English https://lccn.loc.gov/11020470 138-143 not graphing yet, but analysis is close
+- 1887: Lessons in English grammar books?id=z1YXAAAAIAAJ analysis: 165-172 adds diagrammed analysis
+- 1888: First lessons in English books?id=iFgXAAAAIAAJ diagramming in different format, closer to reed/kellog p14-20, 34, 39-40, etc.
+
+after death, edited by greenwood, based on welsh' "lessons" 1887:
+
+- 1892: Studies in English grammar books?id=8psSAAAAIAAJ same analysis as lesson 1887 p51-61
+- 1892: Elements of language and grammar https://lccn.loc.gov/11020466 diagramming 21-27
+
+## Rigdon (1887) *Analysis of the English sentence with diagrams*
+
+diagramming [@rigdon1887: 13-26, 58-68]
+
+Grammar of the English sentence (1890) diagramming like reed/kellog p.167
+
+https://books.google.de/books?id=dJAOAAAAYAAJ&printsec=frontcover&hl=de#v=onepage&q&f=false
+
+## Greene (1888) *Inductive language lessons*
 
 Harris R. Greene [@greene1889: 36, 41, 49, etc.]. combination of "reverse" tree and symbols below the worlds.
+
+first printing from 1888, cited here unchanged 1889 version
 
 earlier books do not seem to have graphics
 
 - https://google.com/books?id=XBwBAAAAYAAJ
 - https://google.com/books?id=fUVKAAAAIAAJ
 
-## Rigdon (1890) *Grammar of the English sentence*
+## Welsh (1889) *A practical English grammar*
 
-diagramming like reed/kellog p.167
+Judson Perry Welsh (1857-1934) Bloomsburg normal school president  1890-1906, https://library.bloomu.edu/pages/Archives/Presidents/Welsh.html
 
-https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Rigdon%2C%20Jonathan%2C%201858%2D1933
-https://books.google.de/books?id=dJAOAAAAYAAJ&printsec=frontcover&hl=de#v=onepage&q&f=false
+thanks teacher Francis A. March at lafayette college in the preface (p. v). diagram [@welsh1889: 29ff.]
 
-## Sheffield (1912) *Grammar and thinking*
+## Kiddle (1889) *Brown's language lessons with graded exercises*
 
-Alfred Dwight Sheffield [@sheffield1912: 50-51] Grammar and Thinking (citing Wundt prominently) Brittain (1973:204) says “linguists seem to have been unaware of his work”
+rather different kind of diagrams from the other traditions. Own invention? Grammar based on Goold Brown.
+[@kiddle1889: 44-]
 
-also Alfred Dwight Sheffield [@sheffield1929: 53]
+## Gauss & Hodge (1890) *A comprehensive English grammar*
+
+word-analysis (phonetics, orthography, syllables), parsing (word classes, morphology), sentence-analysis (syntax, "scheme" p.304), scanning (prosody)
+
+"They [the authors] also claim, as a new and good feature, the Syntax Tree; which follows and, as an illustration, explains Sentence-analysis in Part Third." (p. vi)
+
+tree-analysis p326-336. Note words ARE the branches!
+
+## Harper & Burgess (1891) *Inductive Latin primer*
+
+diagrams for english in first part called *Inductive studies in English grammar* [@harper1891: 42-43]
+
+Later separate book has similar diagrams [@harper1894: 59-60] in preface they cite grammars of Whitney, Meiklejohn, Salmon (Longman's grammar???) and Welsh (which Welsh???)
+
+## Maxwell (1891) *Advanced lessen in English grammar*
+
+William Henry Maxwell (1852-1920) [@maxwell1891]
+
+analysis simple sentences similar to reed/kellog but not identiacl 52-58, complex sentence completely different, using template-boxes among other methods: 280-297
+
+## Pendleton (1891) *Diagrams for grammar analysis*
+
+original not yet found [@brittain1973: 151]
+
+## Robbins (1893) *Practical English grammar made easy*
+
+[@robbins1893] note: "revised edition", but earlier version cannot be found. Vertical diagrams all throughout
+
+## Gaines (1893) *Inductive grammar*
+
+original not yet found [@brittain1973: 156]
+
+Inductive Grammar. A Manual of Direction for the Study of English based on the Practical Grammar of Noble Butler by J. T. Gaines, O. B. Theiss 
+
+Note very short mentioning of Butler with a single unexplained grammatical diagram on p43 of *Principles in teaching* (1891) https://catalog.hathitrust.org/Record/009568553
+
+## Buck (1894) *English grammar and analysis*
+
+diagrams [@buck1894: 15-16, 111, 136]
+
+more extensive subordination diagrams [@buck1900: 16-17, 117-118, 143]
+
+## Park (1894) *A practical and complete English grammar*
+
+diagrams [@park1894: 14, 16, etc.] cite Sanders for diagrams (p5)
+
+also [@park1898: 107-109, 114-118]
+
+## Hoenschel (1896) *Complete English grammar for common and high schools*
+
+first edition from 1895, not yet found.
+
+Preface to the second edition (1896) says "a simple system of diagrams has been added" (p6). Cited here is the third edition (1897)
+
+*The aim should be, not to diagram the sentence, but to analyze it. The diagram is only an aid to analysis.* (p8)
+
+Diagramming [@hoenschel1897: 65-66], and throughout.
+
+Many more diagrams in the teacher's companion [@hoenschel1897a]
+
+## Hall (1898) *English grammar and composition*
+
+diagrams [@hall1898: 174-183] not the same Hall from "monology" in 1849
+
+## Bartlett (1899) *The essentials of language and grammar*
+
+diagrams [@bartlett1899]
+
+## Smith (1901) *Longman's English grammar*
+
+David Salmon originally wrote *School grammar* [@salmon1890], which was reissued as *Longman's school grammar* (1891). This grammar does not contain any graphical analysis of sentences
+
+George J. Smith revised the book as *Longman's English grammar*, though most of the text still is Salmon's original. However, Smith added the graphical analysis [@salmon1901: 266-271]
+
+In 1988 a completely different grammar appeared under the name *Longman English grammar* by L.G. Alexander. No graphical analysis.
+
+## Garrison (1901) *Manual and diagrams to accompany Metcalf's grammars*
+
+[@garrison1901]
+
+refers to examples from English grammar for common schools, Robert C. Metcalf & Thomas Metcalf (1894) they give no diagrams https://archive.org/details/englishgrammarfo0000robe
+
+## Harris (1903) *Inductive lessons in language and grammar*
+
+[@harris1903a; @harris1903]
+
+two books, many diagrams like reed/kellogg
+
+## Hall (1904) *Brown's first lessons in language and grammar*
+
+based on Goold Brown, but with diagrams [@hall1904: 36-39, 51, 57-59, 85-90, 93, 100]
+
+## Eastman (1904) *English grammar*
+
+[@eastman1904: 194-210]
+
+## White (1904) *Practical grammar and composition*
+
+hand-drawn diagrams [@white1904: 26, 55, 60, etc.]
+
+## Baker (1907) *Correct English*
+
+redd/kellog style, but with boxes [@baker1907: 248-254]
+
+## Kittredge & Arnold (1908) *The mother tongue*
+
+Book II. An elementary English grammar, by G.L. Kittredge and S.L. Arnold (Arnold, Sarah Louise, 1859-1943; Kittredge, George Lyman, 1860-1941)
+
+Original does not have diagramming: [@kittredge1900]
+
+Revised edtion (1908) added appendic with diagrams [@kittredge1908: 338-349] with special symbols, moving upwards instead of downwards
+
+## Perrin (1911) *Constructive course grammar*
+
+not yet found [@brittain1973: 200]
+
+## Edgar (1915) *Sentence analysis by diagram*
+
+many examples of redd/kellog style diagrams [@edgar1915: 9-66]
 
 ## Perry & Eichmann (1920) *Grammar, Book 1-4*
 
@@ -127,9 +452,75 @@ https://archive.org/details/grammarbooktwo00perr
 https://archive.org/details/grammarbookthree00perr
 https://archive.org/details/grammarbookfour00perr
 
+## Cross (1922) *The little grammar*
+
+reed/kellog with arrows! [@cross1922: 105-116]
+
+## Tresler (1928) *Grammar in action*
+
+https://lccn.loc.gov/28010886
+
+## House & Harman (1931) *Descriptive English grammar*
+
+reed/kellog again [@house1931: 145-325]
+
+## Scott (1934) *Foundation grammar for high school students*
+
+not yet found [@brittain1973: 204]
+
+## Harrisson (1940) *Working essentials of English grammar*
+
+not yet found [@brittain1973: 206]
+
+## Pemberton (1944) *Laboratory manual of English grammar*
+
+not yet found [@brittain197: 209]
+
+## Warriner (1946) *English grammar and composition*
+
+Original from 1946 difficult to find. Still in use today. contains redd/kellog throughout https://en.wikipedia.org/wiki/Warriner%27s_English_Grammar_and_Composition
+
+edition from 1986: https://archive.org/details/englishgrammarco00holt
+
+Edition from 1969 [@warriner1969]
+
+## Pence (1947) *A grammar of present-day English*
+
+Raymond Woodbury Pence
+
+many reprints, later with Donald William Emery
+
+diagramming identical to reed/kellog [@pence1947: 311-368]
+
+# Immediate constituents
+
+## Wundt (1880) *Logik*
+
+Hypothesis that Wundt influenced Bloomfield: [@percival1976: 234-235 gives various detailed arguments]
+
+Debate about logical analysis: Wundt proposes recursive subject-predicate pairing as a model for though and language: note that this is the logical tradition of the terminology, not the grammatical!
+
+Wundt's discussion of the 'old grammarians' [@wundt1900b: 222-224], arguing against the 'copula-theory'
+
+See [@picardi2022: 24-26] for the relation with Frege
+
+See [@dittrich1902] for a direct following of Wundt in Germany, otherwise nothing found
+
+## Sheffield (1912) *Grammar and thinking*
+
+Alfred Dwight Sheffield [@sheffield1912: 50-51] Grammar and Thinking (citing Wundt prominently) Brittain (1973:204) says “linguists seem to have been unaware of his work”
+
+also Alfred Dwight Sheffield [@sheffield1929: 53]
+
 ## Bloomfield (1933) *Language*
 
 [@bloomfield1933: 161]
+
+Bloomfield (1914: 60-61, cited in Percival 1976:235) clearly thinks about binary branching. Also note the Wundt-inspired psychological reasoning.
+
+## Adjukiewicz (1935) *Die syntaktische Konnexität*
+
+[@ajdukiewicz1935]
 
 ## Pike (1943) *Taxemes and immediate constituents*
 
@@ -175,14 +566,6 @@ Chomsky (1955: 316b) Similar to Pike/Fries/Hockett
 
 Chomsky cites Bar-Hillel (1953: 57)
 
-## Robert (1956) *Patterns of English*
-
-completely idiosyncratic system of letters and numbers. No references whatsoever [@roberts1956].
-
-## Smith (1957) *Superfixes and syntactic markers*
-
-[@smith1957]
-
 ## Hockett (1958) *A course in modern linguistics*
 
 [@hockett1958: 152]
@@ -210,4 +593,14 @@ Note the combination of dependency and constituency!
 https://books.google.de/books?id=YskUAAAAIAAJ
 https://archive.org/details/towardsscienceof0000euge
 
-summary of different equivalent [@nida1964: 58-62]
+summary of different equivalent graphics [@nida1964: 58-62]
+
+# Idiosyncratic
+
+## Robert (1956) *Patterns of English*
+
+completely idiosyncratic system of letters and numbers. No references whatsoever [@roberts1956].
+
+## Smith (1957) *Superfixes and syntactic markers*
+
+[@smith1957] idiosyncratic system with symbols

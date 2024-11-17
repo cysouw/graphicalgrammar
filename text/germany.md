@@ -484,18 +484,6 @@ Satzbild, probably Hoffmann [@sanders1879]
 Satzbilder [@blatz1880: 866-871]
 in Introduction mentions Becker, Sanders
 
-## Wundt (1880) *Logik*
-
-Hypothesis that Wundt influenced Bloomfield: [@percival1976: 234-235 gives various detailed arguments]
-
-Debate about logical analysis: Wundt proposes recursive subject-predicate pairing as a model for though and language: note that this is the logical tradition of the terminology, not the grammatical!
-
-Wundt's discussion of the 'old grammarians' [@wundt1900b: 222-224], arguing against the 'copula-theory'
-
-See [@picardi2022: 24-26] for the relation with Frege
-
-See [@dittrich1902] for a direct following of Wundt
-
 ## Zettel (1882) *Unterricht in der deutschen Sprache*
 
 Karl Zettel (1831-1904), Gymnasium Regensburg, Satzbild like Götzinger [@zettel1882: 85-87]
@@ -632,10 +620,6 @@ Father of composer Marius Flothuis.
 https://archief.amsterdam/indexen/deeds/98533401-2df7-56a3-e053-b784100ade19?person=98533401-2df8-56a3-e053-b784100ade19
 
 Adds idiosyncratic diagrams of subordinate clauses to the end of his grammar. cites Kern and Wundt, but his graphics do not look like theirs [@flothuis1930]
-
-## Adjukiewicz (1935) *Die syntaktische Konnexität*
-
-[@ajdukiewicz1935]
 
 ## Heemstra (1947) *Grundrisz der deutsch-niederländischen Satzlehre*
 

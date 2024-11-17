@@ -46,7 +46,7 @@ In the medieval logical tradition, each proposition consists of a subject and a 
 
 ## Earlier research
 
-Previous studies into the history of graphical grammar [@gelbe1880][@grosse1966][@brittain1973][@percival1976][@stewart1976][@baum1976: 36-42][@coseriu1980][@forsgren1992][@thummel1993][@seuren1998: 219-227][@franzkowiak2013][@seuren2015]
+Previous studies into the history of graphical grammar [@gelbe1880][@grosse1966][@brittain1973][@percival1976][@stewart1976][@baum1976: 36-42][@coseriu1980][@forsgren1992][@thummel1993][@seuren1998: 219-227][@franzkowiak2013][@seuren2015][@dukes2024]
 
 also:
 - <http://www.polysyllabic.com/?q=olddiagrams>
