@@ -516,6 +516,10 @@ also Alfred Dwight Sheffield [@sheffield1929: 53]
 - Jespersen cites him in 1913 Sprogets Logic
 - review by Bloomfield, quite critical [@bloomfield1912]
 
+## Sapir (1921) *Language*
+
+morphology-formula [@sapir1921]
+
 ## Bloomfield (1933) *Language*
 
 [@bloomfield1933: 161]

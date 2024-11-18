@@ -24,11 +24,6 @@ Chinese version of reed/kellog: Ji Jinzi *New Grammar of the National Language* 
 ## modern approaches
 
 - Satzbilder with lines in [@lobentanzer1986: 60, 72-73]
-- Many different ideas by Rychener: underlining of clause-internal structure [@rychener1982: 150-151], Becker-style tables [@rychener1982: 178], tab-inserts [@rychener1982: 176], Vertical displacement of clause-combinations like Flothuis [@rychener1982: 189]
-- [@essen1958] very nice curved lines!
-- [@grosse1960] indented subordinates clauses
-- [@grosse1966] many modern approaches
-- [@langholf1969: 10] version of Periodenbau, cites Menge as inspiration!
 
 # strange
 

@@ -2,7 +2,7 @@
 
 check Brittish grammars mentioned in Görlach, p11-12
 
-# Tables from Becker
+# Syntactic tables in Great Brittain
 
 ## James (1847)
 
@@ -69,7 +69,13 @@ many different books and version, first collaboration from 1873
 
 tables [@nesfield1898: 105-117]
 
-# Trees from Kern (and USA?)
+## Onions (1904) *Advanced English syntax*
+
+Charles Talbut Onions (1873-1965) Many editions, at least untill 1932
+
+tables and indented complex sentences [@onions1904]
+
+# Graphs in Great Brittain
 
 ## Dale (1897)
 

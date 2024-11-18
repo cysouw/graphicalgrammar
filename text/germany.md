@@ -494,6 +494,23 @@ Franz Kern (1830-1894) [@kern1883]
 
 Influence from Götzinger? [@forsgren1998: 63] only circumstantial evidence
 
+## Willomitzer (1885) *Deutsche Grammatik* 
+
+Franz Willomitzer (1847-1910)
+
+First edition only a single simple table (Becker-influence?) [@willomitzer1879: 123]
+
+Later editions add *Satzbilder* very much in the style of Kern (without clear attribution), starting with fourth edition from 1885 [@willomitzer1885: 123, 132, 137]
+
+improved in the example in the 6th edition [@willomitzer1894: 114, 121, 127]
+
+(no change yet in 3rd edition 1882 http://data.onb.ac.at/rep/131CF155)
+
+There is also a different notation for *Periode*, which uses letters, but different from all others, already in first edition [@willomitzer1879: 157-158], slightly changed in later editions [@willomitzer1894: 154-155]
+
+Revised by Johann Tschinkel after the death of Willomitzer, later renamed as *Deutsche Sprachlehre für Mittelschulen*, reprinted and revised up to a 23th edition in 1930. The table is gone, and only a single unexplained *Satzbild* remains [@tschinkel1921: 242].
+
+
 ## Utzinger (1887) *Deutsche Grammatik*
 
 Heinrich Utzinger (1842-1913) Zürich [@utzinger1887]
@@ -521,20 +538,6 @@ more extensive in *Lektüre als Grundlage* Satzbilder wie Hoffmann [@lyon1897: 1
 Béla Kuderna (1846-1915), Hauptmann in the austrian army and teacher for german language and style at the *Infanterie-Cadetenschule* in Vienna.
 
 two *Satzbilder* [@kuderna1893: 268-269]
-
-## Willomitzer (1894) *Deutsche Grammatik* 
-
-Franz Willomitzer (1847-1910) Wien? [@willomitzer1894]
-
-First edition only a single simple table (Becker-influence?) [@willomitzer1879: 123]
-
-Later editions add *Satzbilder* very much in the style of Kern (without clear attribution). For example in the 6th edition [@willomitzer1894: 114, 121, 127]
-
-(no change yet in 3rd edition 1882 http://data.onb.ac.at/rep/131CF155)
-
-There is also a different notation for *Periode*, which uses letters, but different from all others, already in first edition [@willomitzer1879: 157-158], slightly changed in later editions [@willomitzer1894: 154-155]
-
-Revised by Johann Tschinkel after the death of Willomitzer, later renamed as *Deutsche Sprachlehre für Mittelschulen*, reprinted and revised up to a 23th edition in 1930. The table is gone, and only a single unexplained *Satzbild* remains [@tschinkel1921: 242].
 
 ## Tiktin (1895) *Gramatica Românǎ*
 
@@ -613,6 +616,14 @@ Berufen ist zum blut'gen Werk der Waffen. (Schiller, Jungfrau von Orleans)
 
 ![Pfannkuchen p. 60](files/pfannkuchen1914_60.jpg)
 
+## Müller (1921) *Vom Deutschunterricht in der Arbeitsschule*
+
+Lotte Müller (1893-1972) https://de.wikipedia.org/wiki/Charlotte_Müller_(Pädagogin)
+
+cited second edition [@muller1922: 49] one tree example like Kern, with verb on top, but strange position of the subject.
+
+Deutsche Sprachkunde in der Arbeitsschule, Leipzig 1923
+
 ## Flothuis (1930) *Kurzgefaszte deutsche Syntax* 
 
 Marius Hendrikus Flothuis (1873-1950), teacher of german language and literature in Amsterdam. 
@@ -624,3 +635,22 @@ Adds idiosyncratic diagrams of subordinate clauses to the end of his grammar. ci
 ## Heemstra (1947) *Grundrisz der deutsch-niederländischen Satzlehre*
 
 only graphical display of clause subordination. cites examples from [@kern1884] and [@flothuis1930], does not add anything new [@heemstra1947: 76-79]
+
+## Essen (1956) *Methodik des Deutschunterrichts*
+
+[@essen1956; @essen1958] very nice curved lines!
+
+## Grosse (1960) *Die deutsche Satzperiode*
+
+[@grosse1960] indented subordinates clauses
+[@grosse1966] many modern approaches
+
+## Rychener (1960) *Freude an Grammatik*
+
+[@rychener1960]
+
+Many different ideas by Rychener: underlining of clause-internal structure [@rychener1982: 150-151], Becker-style tables [@rychener1982: 178], tab-inserts [@rychener1982: 176], Vertical displacement of clause-combinations like Flothuis [@rychener1982: 189]
+
+## Langholf (1969) *Die Syntax des deutschen Amadisromans*
+
+[@langholf1969: 10] own version of Periodenbau, cites Menge as inspiration!

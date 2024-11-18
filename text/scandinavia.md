@@ -16,10 +16,12 @@ Karl Frederik Natanael Beckman (1868-1946) professor of Swedish language at Goth
 
 cites Kern and Lindwall (p. 273)
 
-## Noreen (1906)
+his school textbooks do not seem to have been noticed?
+
+## Noreen (1906) *Vårt språk*
 
 influence ??? of Adolf Gotthard Noreen (1854-1925) professor at Uppsala University
-https://books.google.de/books?id=JhoMAAAAYAAJ, part 7 (1906: 32-33) Hierarchical morphology with dashes:
+[@doreen1906: 32-33] Hierarchical morphology with dashes:
 
 Exempel på dylika ord äro följande, i hvilka jag låter den primära sammansättningens leder skiljas af ett bindestreck, den sekundäras af två osv.
 
@@ -63,15 +65,39 @@ Quaternary:
 spirit-trading---shares--community-laws----speaker,
 body-worker--for-insurance---committee----the-statement.
 
+## Jespersen (1913) *Sprogets logik*
+
+Notion *rang* 'rank', different levels. First attempt at symbolic representation [@jespersen1913: 32-33], further develop in 1937
+
+## Brøndal (1928) *Ordklasserne*
+
+[@brondal1928] System of categories for morphology, build from limited set of primitives. complex schema in appendix
+
+syntax in *morfologi of syntax* (1932) [cf. @hallon1989: 79-155]
+
+[@togeby1989: 109] gives an actual example how a sentence analysis might look like in Brøndal's system
+
 ## Hansen (1933) *Sætningen og dens led in moderne dansk*
 
-Aage Hansen (1894-1983) studied with Jespersen in Copenhagen
+Aage Hansen (1894-1983) studied with Jespersen in Copenhagen. Book is dedicated to him.
 
 various graphics [@hansen1933], mentioned in the preface of Jespersen 1937 [@jespersen1969]
+
+## Hjelmslev (1935) *La catégorie de cas*
+
+stupid graphic in [@hjelmslev1928: 138]
+
+arrows on [@hjelmslev1972: 52-53], but not real language analysis, just an example of interdependence of elements in language
+
+lots of graphics, but only paradigms, structure, illustration
 
 ## Jespersen (1937) *Analytic syntax*
 
 symbolic analysis, [@jespersen1969: 83] citing a graphic from [@fry1925] 
+
+compares his analysis with Stöhr [@stohr1898], Sapir (morpheme analysis), maurice bologne, Brøndal
+
+discussion in [@cigana2020]
 
 ## Diderichsen (1947) *Elementær dansk grammatik*
 
@@ -79,4 +105,4 @@ Feldertheorie [@diderichsen1957], giving nested schema like hansen [@diderichsen
 
 details about history: https://da.wikipedia.org/wiki/Sætningsskema
 
-He knew about Hansen, but never cited it. acknowledgement in 1964 paper.
+He knew about Hansen, but never cited it. acknowledgement in 1964 Festschrift for Hansen [@diderichsen1966: 364].
