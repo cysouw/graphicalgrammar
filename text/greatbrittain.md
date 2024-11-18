@@ -4,12 +4,13 @@ check Brittish grammars mentioned in Görlach, p11-12
 
 # Syntactic tables in Great Brittain
 
-## James (1847)
+Note tables in [@becker1830: 253-261]
 
-"construction" in table-like manner (p.133-134)
-https://google.com/books?id=9pGx5nLMQsEC
+## James (1847) *The elements of grammar*
 
-## Morell (1852)
+"construction" in table-like manner like Becker 1830 [@james1847: 133-134]
+
+## Morell (1852) *The analysis of sentences*
 
 Morell [@morell1857; @morell1852] is based on Becker 1829! But simplifies into tables, and removes ordering. Tables become widespread in GB
 
@@ -27,25 +28,18 @@ He writes many versions of grammars and textbooks, but never uses diagramming. H
 
 ## Morris (1877) *English grammar*
 
-Also USA, but only using tables (p 100-111)
+Also USA, but only using tables [@morris1877: 100-111]
 
-https://lccn.loc.gov/unk82011559
+## Mason (1881) *English grammar*
 
-## Mason (1878)
+first edition [@mason1858] no tables
+25th edition [@mason1881: 183-185] with tables (fold-out appendix after p268)
 
-first edition (1858) no tables: https://google.com/books?id=XmoCAAAAQAAJ
-
-1879 (28th) edition printed in Toronto https://archive.org/details/englishgra79awest00masouoft
-
-with tables (p180ff) and a very large table at the back as appendix
-
-good scan of large table in this 1878 version (25th edition): https://google.com/books?id=csJOAQAAMAAJ tables also p180ff.
-
-## Fitch (1881)
+## Fitch (1881) *Lectures on teaching*
 
 long-form analysis like becker [@fitch1881: 268-269]
 
-## Meiklejohn (1882)
+## Meiklejohn (1882) *The standard grammar*
 
 graphical display "mapping" [@meiklejohn1882: 20, 22, 147, 168-169]
 
@@ -53,7 +47,7 @@ graphical display "mapping" [@meiklejohn1882: 20, 22, 147, 168-169]
 "continuous analysis = Becker-style? [@meiklejohn1886: 99]
 tables p.98
 
-## Cooper & Sonnenschein (1891)
+## Cooper & Sonnenschein (1891) *An English grammar for schools*
 
 table [@cooper1891: 9]
 indentation [@cooper1891: 25]
@@ -65,7 +59,7 @@ table analysis p212, large example p220
 
 many different books and version, first collaboration from 1873
 
-## Nesfield (1898)
+## Nesfield (1898) *English grammar, past and present*
 
 tables [@nesfield1898: 105-117]
 
@@ -75,21 +69,21 @@ Charles Talbut Onions (1873-1965) Many editions, at least untill 1932
 
 tables and indented complex sentences [@onions1904]
 
-# Graphs in Great Brittain
+# Diagrams in Great Brittain
 
-## Dale (1897)
+## Dale (1897) *The teaching of the mother tongue in Germany*
 
 Describing schools in germany
 
 Kern is cited (p558) graphical display is presented as "normal" in Germany, example [@dale1897: 557]
 
-## Adamson (1907)
+## Adamson (1907) *The practice of instruction*
 
 "schema" = diagramming? [@adamson1907: 176-177]
 
 cites fitch (p. 175), but does not cite inspiration for "schema"
 
-## Palser & Lewis (1923)
+## Palser & Lewis (1923) *A new outline grammar of function*
 
 diagramming? [@palser1923] Also used in “Memorandum on the teaching of English” (1927: page 8)
 
@@ -97,10 +91,10 @@ diagramming? [@palser1923] Also used in “Memorandum on the teaching of English
 
 citing: Adamson and Dale (citing Kern!)
 
-## Fry (1925)
+## Fry (1925) *A key to language*
 
 own graphics
 
-Fry [@fry1925: 12] “all the chief features of my method have been used by myself and a few of my pupils for something like twenty years.”
+Fry [@fry1925: 12] commenting on Palser/Lewis: “all the chief features of my method have been used by myself and a few of my pupils for something like twenty years.”
 
 cited by Jespersen

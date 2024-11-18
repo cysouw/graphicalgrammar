@@ -638,7 +638,11 @@ only graphical display of clause subordination. cites examples from [@kern1884] 
 
 ## Essen (1956) *Methodik des Deutschunterrichts*
 
+Erika Essen (1914-1986)
+
 [@essen1956; @essen1958] very nice curved lines!
+
+https://www.lagis-hessen.de/de/subjects/print/sn/bio/id/18993
 
 ## Grosse (1960) *Die deutsche Satzperiode*
 
