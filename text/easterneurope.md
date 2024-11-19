@@ -1,5 +1,7 @@
 # Eastern Europe
 
+check: http://ufal.mff.cuni.cz/biblio/attachments/2019-vernerova-m28510387325604842.pdf
+
 ## Logebil 1883
 
 [@lugebil1883]

@@ -7,6 +7,10 @@ Greene (1836) *A practical grammar of the English language*
 https://de.wikipedia.org/wiki/Roscoe_Greene
 https://google.com/books?id=PI4VAQAAMAAJ
 
+Blackboard in schools only starting in 1830s "As late as 1835 the idea of using slates and blackboards was exceedingly novel; in only a few schools does it appear to have been attempted before this time" [@lyman1922: 148]
+
+> In the study of Grammar the blackboard may be used to exhibit the inflections of the various parts of speech; it may also be used in syntax, to point out the connection of the principal words to each other. The method of doing this is by writing on the board the sentence to be parsed, **and then connecting by curved lines those words that have any grammatical connection with each other**. The instructor at the same time pointing out what that relation is. [James Ray 1830, cited in @lyman1922: 148, emphasis added]
+
 # Teaching grammar to the Deaf
 
 ## Sicard (1799)
@@ -17,6 +21,8 @@ graphics: 89
 https://gallica.bnf.fr/ark:/12148/bpt6k821816
 
 ## Barnard (1836) *Analytic Grammar*
+
+> The method of illustrating the principles of syntax employed in the following treatise, is one which has been, for a number of years, advantageously used in the instruction of the deaf and dumb. […] The first notions of the writer regarding it, were obtained while he was engaged as an instructor in the American Asylum, at Hartford, in the years 1831 and 1832. The *method*, which it at present exhibits, has been, however, the result of a more recent labor, during the writer's residence, in a corresponding capacitiy, at the New York Institution for the Instruction of the Deaf and Dumb. [@barnard1836: iii]
 
 Analytic Grammar; With Symbolic Illustration. New York: E. French. https://catalog.hathitrust.org/Record/008991837 No trees, but “symbolic sentences” in which categories are marked. Some ideas of levels http://www.polysyllabic.com/?q=node/336. Developed at school for the deaf in Hartford! based on l’epee/sicard “. This development seems to be linked to deaf-education, see [@wing1887: 86]
 
@@ -79,6 +85,8 @@ new book [@barrett1859] proposing 21 different relations (p.28), the numbers are
 
 "chains" on p. 50, 52, 140 [@peirce1839]
 
+"as the dependence of words in a sentence is more fully illustrated by the following figurative exemplifications, the pupil should study them till he shall be able, without difficulty, to apply to them any simple sentences that he shall find." [@peirce1839: 47]
+
 "immediate dependence" vs. "intermediate connection" (p. 141)
 
 numbered example sentences p. 233-241, there appears to be some implicit hierarchical ordering, but no clear explanation. Maybe numbering like Brown?
@@ -92,7 +100,7 @@ cited here in printing from 1849. graphics "formula for a sentence" [@greene1849
 Later different systems, e.g.
 
 - [@greene1860: 171-177] subject-predicate base with modifiers in brackets
-- [@greene1874: 23-24] summarise structure with "significant symbols" S, P, a, o, v
+- [@greene1874: 23-24] summarise structure with "significant symbols" S, P, a, o, v (cf Jespersen??? just coincidence...)
 
 ## Hall (1849) *Encyclopedia of English grammar*
 
@@ -114,9 +122,19 @@ https://lccn.loc.gov/10033615
 
 ## Clark (1847) *The Science of the English Language*
 
-[@clark1847] very interesting frontispiece in the first edition! Is later sold separately as a poster for schools
+Stephen W. Clark (1810-1901) was a school principal of East Bloomfield Academy and wrote the influential book *The science of the English language. A practical grammar: in which words, phrases, and sentences are classified according to their offices, and their various relations to one another. Illustrated by a complete system of diagrams.* [@clark1847] He produced revisions of this book and wrote variants for different readers up to the 1870s [e.g @clark1870, see [@mazziotta2016: 303-305 for the little that is known about Clark]. A detailed investigation of the work of Clark is available in Mazziotta [-@mazziotta2016; -@mazziotta2020a; -@mazziotta2020].
 
-same graphics in [@clark1870: 39-66] and throughout the rest of the book
+It remains unclear whether Clark has had any sources of inspiration for his graphical display. In the preface he writes that he has been testing his method at least since 1840. The "chains" of Pierce (1839)
+
+> for the convenience of teachers a manuscript grammar was prepared, which embodied the principles of the science and the Author's mode of presenting it. These principles and this method have been properly tested by numerous and advanced classes during the seven years last past. [@clark1847: iii]
+
+Term *office* ~ syntactic function?
+
+He uses the term *diagram*
+
+adjuncts are hanging, but also enclosed as boxes on p17!
+
+[@clark1847] very interesting frontispiece in the first edition! Is later sold separately as a poster for schools
 
 ## Holbrook (1859) *The normal, or method of teaching*
 
@@ -655,6 +673,13 @@ https://books.google.de/books?id=YskUAAAAIAAJ
 https://archive.org/details/towardsscienceof0000euge
 
 summary of different equivalent graphics [@nida1964: 58-62]
+
+## Stageberg (1965) *An introductory English grammar*
+
+chinese boxes [@stageberg1965: 263]
+Fries-scheme of IC [@stageberg1965: 263-273]
+
+added chapter on TGG from different author. seems to be added late in the process of making the book.
 
 # Idiosyncratic
 

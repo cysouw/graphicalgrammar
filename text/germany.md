@@ -193,7 +193,7 @@ note basic subject-predicate horizontal placement, just like Billroth. The horiz
 
 ![Sentence analysis](figures/diesterweg1834_156.png){#fig:diesterweg1834_156}
 
-Term *Satzbild*, beschriebt Periodenanalyse wie Herling [@diesterweg1834: 162]
+Term *Satzbild*!, beschriebt Periodenanalyse wie Herling [@diesterweg1834: 162, 213-214, 254-255!]
 
 *grammatische Zergliederung (Analysis)*, sehr ähnlich wie Becker *Analyse der Sätze*! [@diesterweg1834: 252ff.]
 
@@ -449,7 +449,7 @@ In this edition he also promises to write a more extensive explanation of his no
 
 Periode like Lehmann, §194-195, cited here in the 3rd edition [@wetzel1871: 312-316]
 
-Almost identical, just a bit shorter and streamlined, in *Leitfaden*, first edition 1868, cited here in the 46th edition [@wetzel1871: 223-224]
+Almost identical, just a bit shorter and streamlined, in *Leitfaden*, first edition 1868 [@wetzel1868: 182], also in the 46th edition [@wetzel1871: 223-224]
 
 ## Menge (1873) *Repetitorium der lateinischen Syntax und Stilistik*
 
