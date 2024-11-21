@@ -1,4 +1,4 @@
-# Introduction
+# USA
 
 "Normal schools" < école normale, education for teachers!
 
@@ -12,13 +12,6 @@ Blackboard in schools only starting in 1830s "As late as 1835 the idea of using 
 > In the study of Grammar the blackboard may be used to exhibit the inflections of the various parts of speech; it may also be used in syntax, to point out the connection of the principal words to each other. The method of doing this is by writing on the board the sentence to be parsed, **and then connecting by curved lines those words that have any grammatical connection with each other**. The instructor at the same time pointing out what that relation is. [James Ray 1830, cited in @lyman1922: 148, emphasis added]
 
 # Teaching grammar to the Deaf
-
-## Sicard (1799)
-
-Cours d'instruction 1799: numbers? p 64-71. 331ff.
-graphics: 89
-
-https://gallica.bnf.fr/ark:/12148/bpt6k821816
 
 ## Barnard (1836) *Analytic Grammar*
 
@@ -492,7 +485,7 @@ not yet found [@brittain1973: 206]
 
 ## Pemberton (1944) *Laboratory manual of English grammar*
 
-not yet found [@brittain197: 209]
+not yet found [@brittain1973: 209]
 
 ## Warriner (1946) *English grammar and composition*
 

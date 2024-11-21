@@ -1,5 +1,15 @@
 # Visualising sentence structure
 
+## Earlier research
+
+Previous studies into the history of graphical grammar: [@gelbe1880; @grosse1966;@brittain1973;@percival1976;@stewart1976;@baum1976: 36-42;@coseriu1980;@forsgren1992;@thummel1993;@seuren1998: 219-227;@franzkowiak2013;@seuren2015;@dukes2024]
+
+Studies on grammar writing in general: [@lyman1922;@gorlach1997;@linn2006]
+
+also:
+- <http://www.polysyllabic.com/?q=olddiagrams>
+- <https://dickhudson.com/sentence-diagramming/>
+
 
 ## Functional terminology for sentence analysis
 
@@ -31,25 +41,8 @@ In the 18th Century the use of the logical terminology for functional categories
 
 These are just a few examples of the adoption of erstwhile logical terminology into the realm of grammatical description. The expansion of this terminology in the 17th and 18th Century needs a more detailed investigation than what I am able to provide here. But by the start of the 19th Century the terms *subject*, *object*, *predicate* and *copula* all seem to have been completely accepted as regular terms for grammatical analysis. Yet, what exactly these terms are supposed to main in the realm of grammar remains up for debate. Specifically, there are two aspects of the logical origin of these terms that spill over into the grammatical realm and remain widespread in the 19th Century and beyond. These are (i) the balanced and privilaged bond between subject and predicate [cf. the "S-P-Funktion" in @forsgren1992: 75-76] and (ii) the universality of the copula [cf. the "Copula-Theorie" in @forsgren1992: 135-153].
 
-There seem to be at least two reasons why the
+There seem to be at least two reasons:
 
-First, the opposition subject/predicate with many authors becomes just a updated terminological replacement for the classical linguistic concepts of Greek *ὄνομᾰ*/*ῥῆμα* or Latin *suppositum/appositum*.
-
-Second, IE verb inflection
-
-Against: developing ideas about the verb as centre of the sentence, projecting roles/arguments. Subject not distinctive
-
-Different from the subject/predicate 
-
-In the medieval logical tradition, each proposition consists of a subject and a predicate, always linked by a copula. This spills over into the grammatical tradition, for example 
-
-
-## Earlier research
-
-Previous studies into the history of graphical grammar: [@gelbe1880][@grosse1966][@brittain1973][@percival1976][@stewart1976][@baum1976: 36-42][@coseriu1980][@forsgren1992][@thummel1993][@seuren1998: 219-227][@franzkowiak2013][@seuren2015][@dukes2024]
-
-also:
-- <http://www.polysyllabic.com/?q=olddiagrams>
-- <https://dickhudson.com/sentence-diagramming/>
-
-Studies on grammar writing in general: [@gorlach1997][@lyman1922][@linn2006]
+- First, the opposition subject/predicate with many authors becomes just a updated terminological replacement for the classical linguistic concepts of Greek *ὄνομᾰ*/*ῥῆμα* or Latin *suppositum/appositum*.
+- Second, IE verb inflection
+- Argument against: developing ideas about the verb as centre of the sentence, projecting roles/arguments. Subject not distinctiv

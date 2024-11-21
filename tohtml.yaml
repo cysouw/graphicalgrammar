@@ -14,6 +14,7 @@ defaults:
 
 filters:
 - filters/setdate.lua
+- filters/setCaptions.lua
 - filters/inline-footnotes.lua
 - filters/strikeout-to-smallcaps.lua
 - filters/toc-css.lua
@@ -34,7 +35,7 @@ metadata-files:
 number-sections: true
 table-of-contents: true
 standalone: true
-embed-resources: false
+embed-resources: true
 default-image-extension: svg
 wrap: preserve
 template: settings/LSP-html.template

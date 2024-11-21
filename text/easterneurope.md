@@ -1,7 +1,5 @@
 # Eastern Europe
 
-check: http://ufal.mff.cuni.cz/biblio/attachments/2019-vernerova-m28510387325604842.pdf
-
 ## Logebil 1883
 
 [@lugebil1883]
@@ -9,6 +7,15 @@ check: http://ufal.mff.cuni.cz/biblio/attachments/2019-vernerova-m28510387325604
 ## Gebauer (1900)
 
 Jan Gebauer (1838-1907) [@gebauer1900: 237, 249, 257, 265] hierarchical bracketing
+
+## More Czech
+
+[@novotna2012; @novotna2006; @vernerova2019; @panevova2024]
+
+- Vladimír Šmilauer (1955) Učebnice větného rozboru
+- Vladimír Šmilauer (1947) Novočeská skladba, Appendix with
+the title Klíč k mluvnickému rozboru větnému (pro školní potřebu) ‘A key to syntax
+analysis of sentences (for schooling purposes)’
 
 ## Lehr-Spławiński & Kubiński (1927) *Gramatyka języka polskiego*
 
@@ -30,3 +37,11 @@ Version from 1898 does not have graphics: https://books.google.de/books?id=h1M5A
 other version 1923: 167 with graphic https://www.prlib.ru/item/363130
 
 [@thummel1993: 171] cites a version from 1906: 127
+
+## Russia
+
+Ušakov et al., 1929, 3rd part, pp. 6–7, and 4th part, p. 5; Krjučkov and Svetlïev, 1936, pp. 6–7
+
+- Krjučkov and Svetlïev (1936). The Grammar. Moscow.
+- Ušakov, Smirnova & Ščeptova (1929). Učebnaja kniga po russkomu jazyku. Moscú/Leningrado: Gosizdat.
+- 

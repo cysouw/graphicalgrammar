@@ -1,24 +1,30 @@
-# German pedagogical proposals {#sec:germany}
-
-## Introduction
+# Germany {#sec:germany}
 
 ## Moritz (1782) *Deutsche Sprachlehre* {#sec:moritz1782}
 
 Karl Philipp Moritz (1756-1793) was a prolific author with wide ranging interests. Towards the end of his life he became professor for the arts at the *Königliche Akademie der Künste* in Berlin. Among his many writings there are various instructional books and articles about grammar, see Schmidt [-@schmidt1993] for a concise summary of his linguistic oeuvre. Of particular interest here is the *Deutsche Sprachlehre für die Damen in Briefen* [@moritz1782]. The context and linguistic content of this work is discussed in more detail by Buhofer [-@buhofer1994]. This book was quite successful, being reprinted in 1791, 1794 and 1806. All later editions dropped the somewhat curious addition *für die Damen* from the title.
 
-The *Deutsche Sprachlehre* contains to my knowledge the first graphical display of a grammatical analysis. In the *Zehnter Brief: Von dem Bau der Rede*, starting on page 267, Moritz discusses various simple examples, culminating in two large fold-out page-inserts between pages 308 and 309, reproduced here in [@fig:moritz1782i] and [@fig:moritz1782ii]. Later, in the first volume of his 1793 *Grammatisches Wörterbuch der deutschen Sprache* there is a short summary of this grammatical analysis under the heading of *Construcktion* [@moritz1793: 283-295]. After Moritz' early demise that same year (at only 37 years of age) this *Grammatisches Wörterbuch* was completed by other authors without any further mentioning of this new kind of sentence analysis. The most extensive exposition of Moritz' envisioned analysis thus remains the discussion in the 1782 *Deutsche Sprachlehre*.
+The *Deutsche Sprachlehre* contains to my knowledge the first graphical display of a grammatical analysis. In the *Zehnter Brief: Von dem Bau der Rede*, starting on page 267, Moritz discusses various simple examples, culminating in two large fold-out page-inserts between pages 308 and 309, reproduced here in [@fig:moritz1782_308i] and [@fig:moritz1782_308ii]. Later, in the first volume of his 1793 *Grammatisches Wörterbuch der deutschen Sprache* there is a short summary of this grammatical analysis under the heading of *Construktion* [@moritz1793: 283-295]. After Moritz' early demise that same year (at only 37 years of age) this *Grammatisches Wörterbuch* was completed by other authors without any further mentioning of this new kind of sentence analysis. The most extensive exposition of Moritz' envisioned analysis thus remains the discussion in the 1782 *Deutsche Sprachlehre*.
 
 Moritz' linguistic analysis is particularly noteworthy because it is an early version of what later will be called a *Satzgliedanalyse* ('phrasal analysis'). Although Moritz consistently talks about the "words" of the sentence, he clearly intends these "words" to be something closer to what today would be called phrases. These phrases are classified into various functions, using German labels for didactic purposes (e.g. *Grund*=subject, *Ziel*=accusative object, *Zweck*=dative indirect object). Forsgren [@forsgren1985: 76], discussing the origin of such phrasal analyses at the end of the 18th Century, argues that Moritz' approach is one of the earliest examples of a phrasal analysis and his ideas appears to be developed independently from other contemporaries.
 
-![First page insert in *Deutsche Sprachlehre* [@moritz1782: 308]. Individual clauses are marked by a numbered bracket. Note the graphically lowered adjuncts (*Hinanfügung*) and the subordinated direct speech clauses (clause 9 and 10).](figures/moritz1782_308i.png){#fig:moritz1782i}
+::: im
+moritz1782_308i
 
-![Second page insert in *Deutsche Sprachlehre* [@moritz1782: 308]. Note another example of a subordinated direct speech (clause 13) and a subordinated adverbial *um zu+Infiniv* clause (clause 21).](figures/moritz1782_308ii.png){#fig:moritz1782ii}
+First page insert in *Deutsche Sprachlehre* [@moritz1782: 308]. Individual clauses are marked by a numbered bracket. Note the graphically lowered adjuncts (*Hinanfügung, Einschiebung*) and the subordinated direct speech clauses (clause 9 and 10).
+:::
 
-Examining the details of this visual display, each clause can be identified by a large bracket. Within each clausal bracket there is a table-like structure with function-names on top and the actual words of the clause below. Each clause consists of *Grund* ("subject") and *Rede* ("predicate"), with possibly additional syntactic functions like *Ziel* ("accusative object"), *Zweck* ("dative object") or *Bindung* ("conjunction"). Optional elements like *Hinanfügung* ("adverbial phrase") and *Einschiebung* ("interjection") are placed loosely below the main syntactic functions, implicitly hinting at an argument/adjunct distinction. Various details are not completely thought through and the examples are sometimes slightly inconsistent. For example, the phrase *von der Schulter* in clause 11 is analyzed as an adverbial *Hinanfügung*, while the completely parallel *auf die Schulter* in clause 18 is analyzed as an object-like *zweites Ziel*.
+::: im
+moritz1782_308ii
 
-More interesting is the treatment of subordinate clauses. Subordinate clauses are given a function in the matrix clause and then are further analyzed within a new bracket as a separate clause below. This can be seen in [@fig:moritz1782ii] with the analysis of direct speech in clause 13, which is the *Ziel* of the matrix clause 12. Likewise, the adverbial *um zu+Infinitiv* subordinate clause 21 is the *Zweck* of the matrix clause 20. 
+Second page insert in *Deutsche Sprachlehre* [@moritz1782: 308]. Note another example of a subordinated direct speech (clause 13) and a subordinated adverbial *um zu+Infiniv* clause (clause 21).
+:::
 
-This display of subordinate clauses is no coincidence. In the text there is an explicit discussion of this analysis of subordinate clauses [@moritz1782: 299-300] based on the example sentence [@next]. This sentence is analyzed by Moritz into four separate clauses. The four clauses and their functions in the superordinate clause are listed in [@next a-d], as shown in [@fig:moritz1782sub1]. Each of these subordinate clauses is subsequently analyzed using the same clausal analysis structure as the superordinate clause, as can be seen in [@fig:moritz1782sub2]. 
+Examining the details of this visual display, each clause can be identified by a large bracket. Within each clausal bracket there is a table-like structure with function-names on top and the actual words of the clause below. Each clause consists of *Grund* ("subject") and *Rede* ("predicate"), with possibly additional syntactic functions like *Ziel* ("accusative object"), *Zweck* ("dative object") or *Bindung* ("conjunction"). Optional elements like *Hinanfügung* ("adverbial phrase") and *Einschiebung* ("interjection") are placed loosely below the main syntactic functions, implicitly hinting at an argument/adjunct distinction. Various details are not completely thought through and the examples are sometimes slightly inconsistent. For example, the phrase *von der Schulter* in clause 11 is analyzed as an adverbial *Hinanfügung*, while the completely parallel phrase *auf die Schulter* in clause 18 is analyzed as an object-like *zweites Ziel*.
+
+More interesting is the treatment of subordinate clauses. Subordinate clauses are given a function in the matrix clause and then are further analyzed within a new bracket as a separate clause below. This can be seen in [@fig:moritz1782_308ii] with the analysis of direct speech in clause 13, which is the *Ziel* of the matrix clause 12. Likewise, the adverbial *um zu+Infinitiv* subordinate clause 21 is the *Zweck* of the matrix clause 20. 
+
+This display of subordinate clauses is no coincidence. In the text there is an explicit discussion of this analysis of subordinate clauses [@moritz1782: 299-300] based on the example sentence [@next]. This sentence is analyzed by Moritz into four separate clauses. The four clauses and their functions in the superordinate clause are listed in [@next a-d], as shown in [@fig:moritz1782_299]. Each of these subordinate clauses is subsequently analyzed using the same clausal analysis structure as the superordinate clause, as can be seen in [@fig:moritz1782_300]. 
 
 ::: ex
 Wenn ich meine Pflicht thue, so fühle ich, daß mir dieses genug ist, um vergnügt und glücklich zu sein.
@@ -29,19 +35,27 @@ Wenn ich meine Pflicht thue, so fühle ich, daß mir dieses genug ist, um vergn�
 - Hinanfügung: *wenn ich meine Pflicht thue*
 :::
 
-![Complex sentence with syntactic functions assigned to subordinate clauses from *Deutsche Sprachlehre* [@moritz1782: 299].](figures/moritz1782_299.png){#fig:moritz1782sub1}
+::: im
+moritz1782_299
 
-![Separate analyses of the subordinate clauses of the complex sentence in [@last] from *Deutsche Sprachlehre* [@moritz1782: 300].](figures/moritz1782_300.png){#fig:moritz1782sub2}
+Complex sentence with syntactic functions assigned to subordinate clauses, from *Deutsche Sprachlehre* [@moritz1782: 299].
+:::
 
-Nitpicking one might argue that this analysis of the complex sentence is not completely correct. Clause 2 from [@fig:moritz1782sub2] is not a separate clause but the superordinate clause itself. Further, The subordinate part *um vergnügt und glücklich zu sein* is analyzed in [@fig:moritz1782sub1] as *Zweck* ('reason', confusingly a label otherwise also used for dative arguments by Moritz). However, this clause is not directly subordinate to the main clause *so fühle ich* but it is secondary subordinate to the *Ziel* complement clause *daß mir dieses genug ist*. 
+::: im
+moritz1782_300
 
-Notwithstanding these inaccuracies, Moritz' analysis shows a clear understanding of subordinate clauses simultaneously having an internal functional structure and, as a whole clause, having a function inside a superordinate structure. Anachronistically interpreting this as a constituency analysis, this sentence can be displayed as shown in [@fig:moritz1782_300tree]. Note that this is somewhat akin to an "underlying" structure as the ordering does not correspond to the original sentence. Moritz consistently applies the same functional structure on each clause (viz. the ordering *Grund-Rede-Ziel-Zweck-Hinanfügung*). The numbering in this examples indicates the eventual ordering in the resulting sentence.
+Separate analyses of the subordinate clauses of the complex sentence in [@last] from *Deutsche Sprachlehre* [@moritz1782: 300].
+:::
+
+Nitpicking one might argue that this analysis of the complex sentence is not completely correct. Clause 2 from [@fig:moritz1782_300] is not a separate clause but the superordinate clause itself. Further, The subordinate part *um vergnügt und glücklich zu sein* is analyzed in [@fig:moritz1782_299] as *Zweck* ('reason', confusingly a label otherwise also used for dative arguments by Moritz). However, this clause is not directly subordinate to the main clause *so fühle ich* but it is secondary subordinate to the *Ziel* complement clause *daß mir dieses genug ist*. 
+
+Notwithstanding these inaccuracies, Moritz' analysis shows a clear understanding of subordinate clauses having simultaneously an internal functional structure and, as a whole clause, having a function inside a superordinate structure. Anachronistically interpreting this as a constituency analysis, this sentence can be displayed as shown in [@fig:moritz1782_300tree]. Note that this is somewhat akin to an "underlying" structure as the ordering does not correspond to the original sentence. Moritz consistently applies the same functional structure on each clause (viz. the ordering *Grund-Rede-Ziel-Zweck-Hinanfügung*). The numbering in this example indicates the eventual ordering in the resulting sentence.
 
 ![Constituency tree of the example in [@last] following the analysis from Moritz [@moritz1782: 299-300]. Note the fixed ordering of the functional categories in each clause, making this a kind of "underlying" structure. The bracketed numbers indicate the ordering in the actual example.](figures/moritz1782_300tree){#fig:moritz1782_300tree}
 
 Summarizing, Moritz appears to have a clear understanding of, first, phrases as the basis of syntactic analysis. Second, he assigns a syntactic function to each phrase. Third, his examples indicate a basic, through rather implicit, understanding of adjuncts as less crucial phrases (*Hinanfügung*) that are visually displayed below the main constituents. Fourth, subordinate clauses have their own clausal structure, while the subordinate as a whole is assigned a function in the superordinate clause, which is a clear precursor of constituency structure. Finally, in the text he explicitly mentions that the ordering of the elements in the actual sentence is slightly different from the ordering in his analyses, and he hints at rules that determine how the abstract "underlying" structure has to be reordered into the actual form.
 
-All these theoretical concepts are quite charmingly summarized by his graphical display, which can be interpreted as a kind of precursor of a constituency structure. Apparently appearing completely out of the blue, the idea of using graphics to elucidate grammatical structure is off to a great start with these proposals from Moritz' *Deutsche Sprachlehre*. Unfortunately, his approach does not have had any following and it would take another 50 years for graphical methods to be used again for grammatical analysis.
+All these theoretical concepts are quite charmingly summarized by his graphical display, which can be interpreted as a kind of precursor of a constituency structure. Apparently appearing completely out of the blue, the idea of using graphics to elucidate grammatical structure is off to a great start with these proposals from Moritz' *Deutsche Sprachlehre*. Unfortunately, his approach does not have had any following and it would take almost 50 years for graphical methods to be used again for grammatical analysis, by Diesterweg in 1830 (see [@sec:diesterweg1830]).
 
 [ === rsyntaxtree ===
 [<>
@@ -76,15 +90,19 @@ In this book Herling analyses the different ways complex sentences are build fro
 
 > *λέγω δὲ περίοδον λέξιν ἔχουσαν ἀρχὴν καὶ τελευτὴν αὐτὴν καθ᾽ αὑτὴν καὶ μέγεθος εὐσύνοπτον* (Aristoteles, Rhetorica III 9.3)^[Original online at the Perseus Digital Library < http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg038.perseus-grc1:3.9.3>.]
 > 
-> ['I call a period an expression having a beginning and an end in itself and a magnitude easily taken in at a glance.' translation by @burkett2011: 206]
+> 'I call a period an expression having a beginning and an end in itself and a magnitude easily taken in at a glance.' [translation by @burkett2011: 206]
 
-The term *Periode* as a grammatical term for the complex sentence is widespread in German 18th and 19th Century grammatical texts. It is used already by Meiner [-@meiner1781: 446] and Heyse [-@heyse1814: 491] and appears in all didactic works to be discussed later in this chapter.
+The term *Periode* as a grammatical term for the complex sentence is widespread in German 18th and 19th Century grammatical texts. It is used already by Meiner [-@meiner1781: 446] and Heyse [-@heyse1814: 491] and appears in almost all works to be discussed later in this chapter.
 
-In a short note inserted in the main text, Herling proposes a special notation *um die Umformungen kürzer zu bezeichnen, und so leichter überschauen zu können* ['to succinctly mark the transformations and thus be able to survey them more easily' @herling1823: 177]. The usage of the term *Umformung* deserves it's own discussion, which will not be pursued here. The special notation is summarized slightly clearer in the second and third edition [e.g. @herling1832: 232]. The version from the third edition is shown here in the [@fig:herling1832_232], which can be translated as follows:
+In a short note inserted in the main text, Herling proposes a special notation *um die Umformungen kürzer zu bezeichnen, und so leichter überschauen zu können* ['to succinctly mark the transformations and thus be able to survey them more easily' @herling1823: 177]. The usage of the term *Umformung* deserves it's own discussion, which will not be pursued here. The special notation is summarized slightly clearer in the second and third edition [e.g. @herling1832: 232, see also 177]. The version from the third edition is shown here in the [@fig:herling1832_232], which can be translated as follows:
 
 > For the succinct marking of the sentences and their syntactic relationships may the following symbols be of use: *h* indicates grammatical main sentence; *b* adjective clause, *β*, when it is shortened; *a* adverbial clause, *α*, the same shortened; *s* nominal clause, *σ* the same shortened. The exponents, e.g. *a^2^* indicate the grammatical grade, to *h* e.g. *h^2^* the grade of the logical gradation; *h/2*, *h/3*, indicates that the main clause, or *a/2*, *a/3* that the adverbial clause is separated into two or three parts. The coefficients e.g. *2h* indicate the number of equivalent main clauses; with *a*, *b*, *s* their relationship to the main clauses, often their coordination. [@herling1832: 232]
 
-![Notation of Herling [-@herling1832] for the analysis of subordinate clauses in complex sentence structure. The different letters have a grammatical meaning, with *h* for main clauses, *b* for relative clauses, *a* for adverbial clauses and *s* for nominal clauses. Superscript numbers are used for the depth of the embedding.](figures/herling1832_232.png){#fig:herling1832_232}
+::: im
+herling1832_232
+
+Notation of Herling [-@herling1832: 232] for the analysis of subordinate clauses in complex sentence structure. The different letters have a grammatical meaning, with *h* for main clauses, *b* for relative clauses, *a* for adverbial clauses and *s* for nominal clauses. Superscript numbers are used for the depth of the embedding.
+:::
 
 Herling does not use his notations consistently throughout his book. There are only a few incidental examples and there are almost no sentences completely marked according to his system. The example in [@next] is one of the more interesting and complex cases [@herling1832: 233]. Yet, in contrast to intended purpose, the abstract analysis with letters and numbers, interspersed inside the sentence, does not really ease the quick appraisal of the sentence structure, in my opinion.
 
@@ -114,15 +132,33 @@ Interpreting Herling's analysis in modern terms, his symbols can be seen as a co
 ]
 ======]:
 
-## Götzinger (1827) *Deutsche Sprachlehre* {#sec:götzinger1827}
+The analysis of the complex sentence remains a topic of Herling's work. Noteworthy in the current context is a note to the teachers at the end of the *Erster Cursus eines wissenschaftlichen Unterrichtes in der deutschen Sprache für Deutsche, nach einer neuen auf die Bildungsgesetze der Sprachen gegründeten Methode* [@herling1828]. This book does not have any graphics in the main text, but in the Appendix *Bemerkungen und Erläuterungen für den Lehrer* [@herling1828: 311-367], completely at the end he mentions the symbolic analysis, as discussed above [@herling1828: 365-366]. And then, as a cherry on top, he proposed to use the well-known graphical display of musical notation to illustrate the structure of complex sentences, shown in [@fig:herling1828_366]. Herling does not seem to have taken this idea further, only Diesterweg did (see [@sec:diesterweg1830]), but the proposal seems to have vanished after that.
 
-There is a curious graphic in the first edition of the *Deutsche Sprachlehre für Schulen* [@gotzinger1827: 263], reproduced here in [@fig:götzinger1827_263]. This graphical display purports to show different ways in which clauses can be coordinated to form a *Periode*. Although he lists various literary examples of such structures [@gotzinger1827: 264], it remains unclear how exactly this analysis is supposed to work. From the graphic it appears as if there should always be a central pair of clauses, but there is no explanation how to extract this central pair. The examples in the text seem to illustrate coordinated structures with a single central clause. For example, [@next] illustrates the option *Viergliedrig c)*, but this one clearly has the principal clause at the end.
+The example in [@fig:herling1828_366] consists of two paragaphs, a "good" and a "faulty" example. The good example [@next] is from the philosopher Engel. It consists of five sentences, which are indicated in the notation by bar lines. The main clauses (*h*) are basically placed on the middle line, though some are on higher lines. It is not completely clear from the text how exactly this difference in "height" is determined. Subordinate clauses are written below the main clauses.
 
 ::: ex
-Wo göttliche Kraft und Empfindung die Gedanken belebt; wo Dank und Bitte auf den Flügeln des Wortes zum Himmel steigt; wo ein heiliger Ort den umherschweifenden Sinn feßelt und fammelt – da ist Religion.
+So lange der Mensch nicht reden konnte, so sah, hörte, fühlte und schmeckte er bloß; aber er dachte nicht. So langue der Mensch nicht schreiben konnte, dachte er wenig, und redete schlecht. Die Zunge und der Griffel machten endlich den Menschen zu dem, was er werden sollte. Seine Begriffe wurden hell, indem er sie mitzutheilen suchte; sie wurden methodisch, indem er ihnen eine gewisse Fortdauer gab, die sie der Verbesserung, und Ausbildung fähig machte. Und dieser Weg, den das ganze manschliche Geschlecht nahm, um klüger zu werden, ist auch immer noch der einzige für den einzelnen Menschen. [@herling1828: 305-306, uncredited quotation from J.J. Engel (1775) *Der Philosoph für die Welt*, Siebzehntes Stück *Das Weihnachtsgeschenk*]
 :::
 
-![Götzinger's early attempt to list different kinds of clause coordination inside a *Periode* [@gotzinger1827: 263]. The examples in the text make clear that these graphical displays are intended for coordinated structures, but it remains unclear how the graphically indicated central pair should be interpreted. ](figures/götzinger1827_263.png){#fig:götzinger1827_263}
+::: im
+herling1828_366
+
+Musical notation used to illustrate the grammatical structure of whole paragraphs. Main clauses (indicated by *h*) are higher up, subordinate clauses are lower. Different sentences are separated by bar lines [@herling1828: 366].
+:::
+
+## Götzinger (1827) *Deutsche Sprachlehre* {#sec:götzinger1827}
+
+There is a curious graphic in the first edition of the *Deutsche Sprachlehre für Schulen* [@gotzinger1827: 263], reproduced here in [@fig:götzinger1830_263] from the second edition because of the higher quality of the scan [@gotzinger1830: 263]. This graphical display purports to show different ways in which clauses can be coordinated to form a *Periode*. Although he lists various literary examples of such structures [@gotzinger1827: 264], it remains unclear how exactly this analysis is supposed to work. From the graphic it appears as if there should always be a central pair of clauses, but there is no explanation how to extract this central pair. The examples in the text seem to illustrate coordinated structures with a single central clause. For example, [@next] illustrates the option *Viergliedrig c)*, but this one clearly has the principal clause at the end.
+
+::: ex
+Wo göttliche Kraft und Empfindung die Gedanken belebt; wo Dank und Bitte auf den Flügeln des Wortes zum Himmel steigt; wo ein heiliger Ort den umherschweifenden Sinn feßelt und fammelt – da ist Religion. [@gotzinger1827: 264, citing  Köppen]
+:::
+
+::: im
+götzinger1830_263
+
+Götzinger's early attempt to list different kinds of clause coordination inside a *Periode* [@gotzinger1830: 263]. The examples in the text make clear that these graphical displays are intended for coordinated structures, but it remains unclear how the graphically indicated central pair should be interpreted.
+:::
 
 3rd edition of *Sprachlehre* cites the influence of Lehmann [@gotzinger1835: xiii-xiv] and applies his graphical analysis to clause structure. Section *Stellungen der Bekleidung* [@gotzinger1835: 243-248] and *Stellung der Nebensätze* [@gotzinger1835: 310-315]
 
@@ -130,19 +166,23 @@ Wo göttliche Kraft und Empfindung die Gedanken belebt; wo Dank und Bitte auf de
 
 Friedrich Jakob Schmitthenner (1796-1850) [@schmitthenner1828]
 
-## Becker (1829) *Deutsche Grammatik* {#sec:becker1829}
+## Becker (1829) *Deutsche Sprachlehre* {#sec:becker1829}
 
 Karl Ferdinand Becker (1775-1849) one of the highly influential grammatical educators from the start of the 19th Century. 
 
 [@haselbach1966]
 
-In the introduction to the 1829 *Deutsche Grammatik* [@becker1829: xvii-xix], even before he really starts the exposition of the grammar of German, Becker presents a few examples of how complete sentences should be analyzed.
+In the introduction to the 1829 *Deutsche Sprachlehre, zweiter Band: Deutsche Grammatik* [@becker1829: xvii-xix], even before he really starts the exposition of the grammar of German, Becker presents a few examples of how complete sentences should be analyzed.
 
 ::: ex
 Wallenstein wußte längst den Inhalt ihrer Sendung als die Abgesandten des Kaisers ihm vor die Augen traten.
 :::
 
-![Tabular analysis of the complete sentence [@last], from the introduction of Becker [-@becker1829: xvii].](figures/becker1829_xvii.png){#fig:becker1829_xvii}
+::: im
+becker1829_xvii
+
+Tabular analysis of the complete sentence [@last], from the introduction of Becker [-@becker1829: xvii].
+:::
 
 CoNLL-U table-format of [@fig:becker1829_xvii] with only slight cosmetic simplifications of the names for the dependency relations.
 
@@ -171,27 +211,39 @@ subordinate sentences in [@becker1833a: 38-46]
 Jakob schickte seinen jüngsten Sohn nicht mit den übrigen nach Aegypten, weil schon einmal ein Sohn, den er ausgesandt hatte, nicht zurückgekehrt war, und weil er fürchtete, daß auch diesem ein Unfall begegnen möchte.
 :::
 
-![Tabular analysis of complex sentence [@last] with various subordinate clauses, from Becker [-@becker1833a: 43].](figures/becker1833_43.png){#fig:becker1833_43}
+:::
+becker1833_43
 
-## Diesterweg (1830) *Praktischer Lehrgang für den Unterricht*  {#sec:diesterweg1834}
+Tabular analysis of complex sentence [@last] with various subordinate clauses, from Becker [-@becker1833a: 43].
+:::
+
+## Diesterweg (1830) *Praktischer Lehrgang für den Unterricht*  {#sec:diesterweg1830}
 
 Freidrich Adolph Wilhelm Diesterweg (1790-1866) was a teacher and a prolific author of textbooks. He also wrote extensively about didactic methods. Later in life he was politically active in an attempt to reform the Prussian educational system. His practical textbooks mainly dealt with mathematics and German linguistics. A comprehensive analysis of his linguistic didactic writings can be found in Czoska [-@czoska1984].
 
 The *Praktischer Lehrgang für den Unterricht in der deutschen Sprache* is a massive three-volume guide for teachers. As it says in the subtitle, it is *ein Leitfaden für Lehrer, welche die Muttersprache naturgemäß lehren wollen* 'a guide for teachers who want to teach the mother tongue in a natural way'. In the current context I will concentrate on the second volume *Die Wortformen und die Satzlehre*. This second volume first appeared in 1830, but I have not been able to access that edition. I will use here the second edition from 1834, which is basically idental to the third edition from 1838.
 
-second (1834) [@diesterweg1834] and third edition (1838) similar as far as graphics are concerned. first edition 1830, fourth edition 1845 ???
-
-3rd edition: https://mdz-nbn-resolving.de/bsb10583534
+second (1834) [@diesterweg1834]: added periode from Lehmann!
+third edition (1838) [@diesterweg1838] only minimal changes
+fourth edition 1847 same as third
 
 In the introduction to the first volume he explicitly cites Herling, Becker, Götzinger and Schmitthenner as inspiration [@diesterweg1834: xiii]
+
+There are many tree-diagrams with lines in the book, but they are used for conceptual subgrouping, not for sentence analysis. Diesterweg does not explain his choice of graphical display, but I suspect that he intended for a different display for actual sentence analysis (using horizontal braces) and conceptual summaries (using line diagrams).
+
+*Ausbildung* (p151, footnote) "Man hat die ~~Ausbildung~~ des Satzes auch ~~Erweiterung~~ desselben genannt. Es ist Erweiterung, in so fern mehr Wörter hinzutreten, als der Satz länger wird. Es ist dies eine ~~grammatische~~ Erweiterung. Da aber die näher bestimmten Wörter eine engere Begriffssphäre erhalten, so ist es eine ~~logische~~ Verengerung. Deshalb wird das Wort ~~Erweiterung~~ besser vermieden. Extension und Intension wachsen zugleich."
+
+*Bestimmer* (p.151-152): "Die Ausbildung geschieht durch nähere Bestimmung der einzelnen Satztheile. Wir wollen diese Wörter, welche die Hauptsatztheile näher bestimmen, überhaupt ~~Bestimmer~~ nennen."
+
+*bekleidet* (p.141): "Man nennt solche Sätze, welche nur die wesentlichen (Haupt-) Satztheile enthalten, ~~nackte~~, und solche welche auch noch andere Theile enthalten, (nicht: ~~bekleidete~~, sondern) ~~ausgebildete~~ oder ~~erweiterte~~ Sätze."
+
+*grad*
 
 ::: ex
 Ein unter den schwierigen Umständen standhaft gebliebenen Vater von secht unmündigen, in weiter Entfernung lebenden Kindern hat sich auch in diesem theuern Jahre durch rastlose Thätigkeit bei Tag und Nacht vor Tausenden seiner Mitbürger ruhmlich ausgezeichnet. [@diesterweg1834: 156]
 :::
 
 note basic subject-predicate horizontal placement, just like Billroth. The horizontal brackets are reminiscent of later edition of Billroth, specifically 1848.
-
-![Sentence analysis](figures/diesterweg1834_156.png){#fig:diesterweg1834_156}
 
 Term *Satzbild*!, beschriebt Periodenanalyse wie Herling [@diesterweg1834: 162, 213-214, 254-255!]
 
@@ -223,13 +275,21 @@ Then it takes another 5 pages of explanations of different kinds of such "dresse
 Miltiades, dux Atheniensium, toti Graeciae libertatem paene oppressam in pugna apud Marathonem reddidit.
 :::
 
-![Graphical sentence analysis of [@last] from Billroth [-@billroth1832: 102].](figures/billroth1832_102.png){#fig:billroth1832_102}
+::: im
+billroth1832_102
+
+Graphical sentence analysis of [@last] from Billroth [-@billroth1832: 102].
+:::
 
 Interpreting his graphical illustration in more detail, the naked sentence is depicted by a horizonal line, while the additional elements of the "dressed" sentence are all shown as vertical/slanted lines. Billroth very clearly intends the vertical lines to represent some kind of dependency, with multiple levels of modification being illustrated by subsequent vertical lines.
 
 Exactly the same approach with the same picture is found in his extended grammar written two years later [@billroth1834: 332-333]. After Billroth's early death this grammar has seen various new editions. The second edition of 1838 is prepared by Friedrich Ellendt and uses exactly the same figure [@billroth1838: 329]. However, in the third edition, the picture is changed, erroneously, and has become completely incomprehensible, cf. [@fig:billroth1848_358] [@billroth1848: 358]. Ellendt possibly did not completely understand what the figure is supposed to represent.
 
-![Revision from 1848](figures/billroth1848_358.png){#fig:billroth1848_358}
+::: im
+billroth1848_358
+
+Revision from 1848
+:::
 
 Billroth's grammar has an interesting afterlife, but unfortunately without any further development of his graphical innovation. Friedrich Ellendt writes a different grammer for younger students based on Billroth's model, called *Lateinische Grammatik für die unteren Klassen der Gymnasien*. The discussion of *bekleidete oder erweitete Sätze* is very similar to Billroth's, but it has different examples and it does not have a picture anymore [@ellendt1838: 115-116]. After the death of Ellendt, that grammar is in turn adapted by Moritz Seyffert as *Dr. Friedrich Ellendt's Lateinische Grammatik für die unteren und mittleren Klassen der höheren Unterrichtsanstalten*. This grammar has seen very many revisions, editions and reprints under the heading *Ellendt-Seyfferts lateinische Grammatik* far into the 20th Century. However, Seyffert was not very impressed by the syntactical analysis of Billroth (as noted in the preface of his revision), and he revised the discussion of syntax wholesale.
 
@@ -251,7 +311,11 @@ For the visualization of a *Periodenbild* Lehmann distinguishes three different 
 - the second notation uses a colon, which indicates that the subordinate clause (in front of the colon) is positioned before the main clause. This is called *Vordersatz*, *Vorderperiode* or *Vorausschickung*;
 - the third notation uses round brackets, which indicates that the subordinate clause (inside the brackets) is positioned inside the superordinate clause. This is called an *Einschaltung*. The separated parts of the superordinate clause are indicated by repeating the same letter. Such repetitions of the same letter thus do not indicate multiple clauses, but separate parts of the same clause.
 
-![Three basic structural mechanisms of subordination from Lehmann [-@lehmann1833: 58]. The first (with a horizontal brace) indicated that the subordination follows the main clause; the second (with a colon) indicates that the subordination precedes the main clause; and the third (with round brackets) indicated that the subordination is positioned internal to the main clause.](figures/lehmann1833_58.png){#fig:lehmann1833_58}
+::: im
+lehmann1833_58
+
+Three basic structural mechanisms of subordination from Lehmann [-@lehmann1833: 58]. The first (with a horizontal brace) indicated that the subordination follows the main clause; the second (with a colon) indicates that the subordination precedes the main clause; and the third (with round brackets) indicated that the subordination is positioned internal to the main clause.
+:::
 
 At first glance it seems curious that there are completely different notation for the placement in front (colon) and the placement behind (horizontal brace). However, there is clear rationale for this difference arising from the structural possibilities of the German language (although this rationale is not explained by Lehmann in his book). The German main clause has a special initial position (today mostly called *Vorfeld*) that can contain a single subordinate clause. So each main clause can only have a single *Vordersatz*, which Lehmann indicates with the colon. Internal and final subordination can be recursively repeated.
 
@@ -267,7 +331,11 @@ In contrast to Herling, Lehmann's approach thus ignores many apects of the gramm
 Daß ferner, wenn es (das Kind) nun zu sprechen versucht, das Radbrechen der Wörter es für Mütter und Ammen so liebenswürdig macht, es beständig zu herzen und zu küssen und es auch wohl durch Erfüllung alles Wunsches und Willens zum kleinen Befehlshaber zu verziehn: diese Liebenswürdigkeit des Geschöpfs im Zeitraum seiner Entwicklung zur Menschheit, muß wohl auf Rechnung seiner Unschuld und Offenheit aller seiner noch fehlerhaften Aeußerungen, wobei noch kein Hehl und nichts Arges ist, einerseits, andrerseits aber auf den natürlichen Hang der Ammen zum Wohlthun an einem Geschöpf, welches einschmeichelnd sich der Willkür eines andern überläßt, geschrieben werden, da ihm eine Spielzeit eingewilligt wird, die glücklichste unter allen, wobei der Erzieher dadurch, daß er sich selber gleichsam zum Kinde macht, diese Annehmlichkeit nochmals genießt. [@lehmann1833: 125-126, citing Immanuel Kant *Anthropologie in pragmatischer Hinsicht* 1798: 5]
 :::
 
-![Lehmann's [-@lehmann1833: 126] analysis of Kant's sentence [@last]. The main clause is designated with a capital letter *A*, which is interrupted twice by subordinated clauses designated by lower-case letters, *b* and *c*. A further subordinated clause *a* comes before the main clause, and is itself interrupted by a second-order subordination designated by greek letter *α*. After the main clause there is yet another subordinated clause *d*, which is followed by a secondary embedding *β*, which is interrupted by a tertiary embedding indicated by a Fraktur capital letter *𝔄*.](figures/lehmann1833_126.png){#fig:lehmann1833_126}
+::: im
+lehmann1833_126
+
+Lehmann's [-@lehmann1833: 126] analysis of Kant's sentence [@last]. The main clause is designated with a capital letter *A*, which is interrupted twice by subordinated clauses designated by lower-case letters, *b* and *c*. A further subordinated clause *a* comes before the main clause, and is itself interrupted by a second-order subordination designated by greek letter *α*. After the main clause there is yet another subordinated clause *d*, which is followed by a secondary embedding *β*, which is interrupted by a tertiary embedding indicated by a Fraktur capital letter *𝔄*.
+:::
 
 The different clauses in [@fig:lehmann1833_126] are listed below, exactly as it is explained in the text by Lehmann:
 
@@ -314,7 +382,11 @@ First, for the analysis of the syllable, Götzinger [-@gotzinger1836: 221-224] u
 > 
 > ('Normally, the arrangement of the syllable consists, by repeated subordination of the elements, of swelling and sinking, of rising and falling, of crescendo and decrescendo; i.e. the syllable starts with the most silent element, proceeds to the more sounding one, reaches the principal voice, and then follows the same path downwards again in such a way that each such constructed syllable obeys a completely musical law.')
 
-![Syllables with a structure in accordance to the sonority hierarchy [@gotzinger1836: 223] have a vowel as nucleus (capital letter) and possibly multiple 'subordinate' consonants in the onset (lower-case letters separated horizontally with colons) and the coda (lower-case letters separated vertically with braces).](figures/götzinger1836_223.png){#fig:götzinger1836_223}
+::: im
+götzinger1836_223
+
+Syllables with a structure in accordance to the sonority hierarchy [@gotzinger1836: 223] have a vowel as nucleus (capital letter) and possibly multiple 'subordinate' consonants in the onset (lower-case letters separated horizontally with colons) and the coda (lower-case letters separated vertically with braces).
+:::
 
 Second, for the analysis of the internal structure of a clause, Götzinger proposes to use the same notation [@gotzinger1839: 159-162]. A few examples are shown in [@fig:götzinger1839_161]. The capital letter now refers to the verb and the lower-case letters refer to the constituents. Götzinger calls the lower-cased elements *Bekleidung* (cf. the discussion in [@sec:billroth1832]). Today a German grammar would call them *Satzglied*. The German main clause structure with two verb positions is indicated by a repeated capital letter, called *trennbare Zusammensetzung* by Götzinger [-@gotzinger1839: 160]. Similar terminology can still be found in contemporaneous German grammars.
 
@@ -324,7 +396,11 @@ Relative to the main verb, the three possible positions of the *Bekleidung* (i.e
 >
 > ('Although the position of the constituents in the sentence can be as it chooses, the resulting image will always have a single *Vorraussendung*. The ordering with multiple *Voraussendungen* cannot occur.')
 
-![Main clause analysis from Götzinger [-@gotzinger1839: 161] using the same notation as for syllables. In modern grammatical terminology: the main verb is indicated by the capital letter, possibly two times in case of a separated verb. Other *Satzglieder* are indicated by lower-case letters. The *Vorfeld* is separated by a colon. The *Mittelfeld* is put between round brackets, with multiple constituents separated by commas. The *Nachfeld* is indicated below the horizontal brace, again with commas separating mulitple constituents.](figures/götzinger1839_161.png){#fig:götzinger1839_161}
+::: im
+götzinger1839_161
+
+Main clause analysis from Götzinger [-@gotzinger1839: 161] using the same notation as for syllables. In modern grammatical terminology: the main verb is indicated by the capital letter, possibly two times in case of a separated verb. Other *Satzglieder* are indicated by lower-case letters. The *Vorfeld* is separated by a colon. The *Mittelfeld* is put between round brackets, with multiple constituents separated by commas. The *Nachfeld* is indicated below the horizontal brace, again with commas separating mulitple constituents.
+:::
 
 Third, for the analysis of the multi-clause sentence (*Periode*)
 
@@ -398,7 +474,11 @@ Different lower-case letters, just like Herling, though the letters are differen
 
 This analysis is rather similar to a constituency analysis with the abstract letters indicating the node labels and the clauses being the leaves. Specifically, subordination is not linked to an explicit superordinate word (i.e. to a head as in a dependency analysis), but to a superordinate abstract entity.
 
-![Basic examples of Bauer's sentence analysis [@bauer1850: 95]. There are three sentences analyzed in this excerpt, with subordination structure indicated by vertical lines and the structural patterns to the side, summarized with letters.](figures/bauer1850_95.png){#fig:bauer1850_95}
+::: im
+bauer1850_95
+
+Basic examples of Bauer's sentence analysis [@bauer1850: 95]. There are three sentences analyzed in this excerpt, with subordination structure indicated by vertical lines and the structural patterns to the side, summarized with letters.
+:::
 
 A more complex example discussed by Bauer is the sentence [@next], analyzed as [@fig:bauer1850_97] [@bauer1850: 97]. Again, there is both an analysis of all main and subordinate clauses, written out with subordination marked by vertical lines, and there is a structural pattern with letters and symbols in the bottom right. This structural pattern has two cases of coordination (marked by a plus symbol), an internal subordination (marked by the brackets), a secondary subordination (marked by a vertical line) and a subordination at the end of the sentence (marked by a comma). I have attempted to combine both these analysis into a single constituency tree as shown in [@fig:bauer1850_97tree]. The structural pattern has been used as the node-labels, while the text itself are the leaves in the tree. Probably it would have been more accurate to analyze the subordination *c* as a simple frontal embedding of the second conjunct, using a comma in the analysis instead of brackets for a clause-internal embedding (viz. *A+c,A,a+a* instead of *A+A(c)A,a+a*), but that is some minor nitpicking.
 
@@ -406,7 +486,11 @@ A more complex example discussed by Bauer is the sentence [@next], analyzed as [
 Er schenkte ihr 300 Rubel und als er erfuhr, daß sie in Petersburg einen Vetter habe, stellte er ihre frei, ob sie ihre Reise fortsetzen oder ob sie umkehren wolle. [@bauer1850: 97]
 :::
 
-![Analysis of the complex example in [@last] from Bauer [-@bauer1850: 97]. Note both the use of vertical lines for subordination and the separate abstract analysis with symbols in the bottom right.](figures/bauer1850_97.png){#fig:bauer1850_97}
+::: im
+bauer1850_97
+
+Analysis of the complex example in [@last] from Bauer [-@bauer1850: 97]. Note both the use of vertical lines for subordination and the separate abstract analysis with symbols in the bottom right.
+:::
 
 ![Display of the structure combining the text from example [@last] and the structural letter-analysis from [@fig:bauer1850_97] into a contemporary-style constituency tree.](figures/bauer1850_97tree){#fig:bauer1850_97tree}
 
@@ -614,7 +698,7 @@ Geschlecht, das du verleugnet hast, das nicht
 Berufen ist zum blut'gen Werk der Waffen. (Schiller, Jungfrau von Orleans)
 :::
 
-![Pfannkuchen p. 60](files/pfannkuchen1914_60.jpg)
+example p.60
 
 ## Müller (1921) *Vom Deutschunterricht in der Arbeitsschule*
 

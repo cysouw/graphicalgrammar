@@ -5,5 +5,9 @@
 # However, technically these files can be anywhere in this directory
 
 input-files:
-- text/introduction.md
 - text/germany.md
+- text/france.md
+- text/scandinavia.md
+- text/easterneurope.md
+- text/usa.md
+- text/greatbrittain.md

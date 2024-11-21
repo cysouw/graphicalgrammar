@@ -1,7 +1,3 @@
-# Great Brittain
-
-check Brittish grammars mentioned in Görlach, p11-12
-
 # Syntactic tables in Great Brittain
 
 Note tables in [@becker1830: 253-261]
