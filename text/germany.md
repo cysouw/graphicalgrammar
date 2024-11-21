@@ -211,7 +211,7 @@ subordinate sentences in [@becker1833a: 38-46]
 Jakob schickte seinen jüngsten Sohn nicht mit den übrigen nach Aegypten, weil schon einmal ein Sohn, den er ausgesandt hatte, nicht zurückgekehrt war, und weil er fürchtete, daß auch diesem ein Unfall begegnen möchte.
 :::
 
-:::
+::: im
 becker1833_43
 
 Tabular analysis of complex sentence [@last] with various subordinate clauses, from Becker [-@becker1833a: 43].
