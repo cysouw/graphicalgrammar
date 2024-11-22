@@ -4,12 +4,11 @@
 
 Previous studies into the history of graphical grammar: [@gelbe1880; @grosse1966;@brittain1973;@percival1976;@stewart1976;@baum1976: 36-42;@coseriu1980;@forsgren1992;@thummel1993;@seuren1998: 219-227;@franzkowiak2013;@seuren2015;@dukes2024]
 
-Studies on grammar writing in general: [@lyman1922;@gorlach1997;@linn2006]
+Studies on grammar writing in general: [@lyman1922;@huston1954;@gorlach1997;@linn2006]
 
 also:
 - <http://www.polysyllabic.com/?q=olddiagrams>
 - <https://dickhudson.com/sentence-diagramming/>
-
 
 ## Functional terminology for sentence analysis
 

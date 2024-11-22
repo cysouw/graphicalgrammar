@@ -34,6 +34,14 @@ thanks to: Richard Salter Storrs (deaf education in hartford, mentioned in prefa
 
 # Proto-Diagramming
 
+## Wilbur (1814) *The grammatical alphabet*
+
+[@wilbur1814] pictures for word classes. the "chart" mentioned could be this one: https://lccn.loc.gov/2020768232 (not digital)
+
+[@wilbur1821] *The grammatical key* same picture for word classes, but apparently not used to draw pictures of sentences. In sentence analysis the numbers are used for parsing word classes. symbols and numbers are changed from the 1814 version
+
+word "chart" replaced by "atlas" in furthermore exactly the same sentences.
+
 ## Brown (1831) *The American grammar*
 
 - construing p.22: major/minor sections with different brackets p.29
