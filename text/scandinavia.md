@@ -81,7 +81,7 @@ syntax in *morfologi of syntax* (1932) [cf. @hallon1989: 79-155]
 
 Aage Hansen (1894-1983) studied with Jespersen in Copenhagen. Book is dedicated to him.
 
-various graphics [@hansen1933], mentioned in the preface of Jespersen 1937 [@jespersen1969]
+various graphics [@hansen1933], mentioned in the preface of Jespersen 1937 [@jespersen1937]
 
 ## Hjelmslev (1935) *La catégorie de cas*
 
@@ -93,7 +93,7 @@ lots of graphics, but only paradigms, structure, illustration
 
 ## Jespersen (1937) *Analytic syntax*
 
-symbolic analysis, [@jespersen1969: 83] citing a graphic from [@fry1925] 
+symbolic analysis, [@jespersen1937: 83] citing a graphic from [@fry1925] 
 
 compares his analysis with Stöhr [@stohr1898], Sapir (morpheme analysis), maurice bologne, Brøndal
 

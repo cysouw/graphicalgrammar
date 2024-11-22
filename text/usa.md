@@ -26,7 +26,7 @@ thanks to: Richard Salter Storrs (deaf education in hartford, mentioned in prefa
 
 ## Storrs (1880) *Methods of deaf-mute teaching*
 
-[@storrs1881; @storrs1880; @storrs1880a]
+[@storrs1880; @storrs1880a; @storrs1881]
 
 ## Wing (1885) *Function symbols*
 
@@ -410,11 +410,11 @@ diagrams [@hall1898: 174-183] not the same Hall from "monology" in 1849
 
 diagrams [@bartlett1899]
 
-## Smith (1901) *Longman's English grammar*
+## Salmon (1901) *Longman's English grammar*
 
 David Salmon originally wrote *School grammar* [@salmon1890], which was reissued as *Longman's school grammar* (1891). This grammar does not contain any graphical analysis of sentences
 
-George J. Smith revised the book as *Longman's English grammar*, though most of the text still is Salmon's original. However, Smith added the graphical analysis [@salmon1901: 266-271]
+George J. Smith revised the book as *Longman's English grammar*, though most of the text still is Salmon's original. However, Smith (or somebody) added the graphical analysis [@salmon1901: 266-271]
 
 In 1988 a completely different grammar appeared under the name *Longman English grammar* by L.G. Alexander. No graphical analysis.
 
@@ -553,11 +553,6 @@ morphology-formula [@sapir1921]
 
 [@pike1943: 70], citing bloomfield
 
-## Nida (1946) *Morphology*
-
-sentence: [@nida1949: 87]
-hierarchical morphological structure p.101, both 102
-
 ## Wells (1947) *Immediate constituents*
 
 [@wells1947: 84]
@@ -567,6 +562,13 @@ hierarchical morphological structure p.101, both 102
 Francis Mikuš from Ljubljana
 
 trees following Wundt [@mikus1947: 37], includes "chines boxes" diagram, without attribution.
+
+## Nida (1949) *Morphology*
+
+nothing in 1946 version! [@nida1946]
+
+sentence: [@nida1949: 87]
+hierarchical morphological structure p.101, both 105
 
 ## Harris (1951) *Methods in structuralist linguistics*
 
@@ -645,6 +647,8 @@ Chomsky (1955: 277) Note the reversal of the usage of dashes, here more alike to
 Chomsky (1955: 316b) Similar to Pike/Fries/Hockett
 
 Chomsky cites Bar-Hillel (1953: 57)
+
+also in [@chomsky1975: 229, 258]
 
 ## Hockett (1958) *A course in modern linguistics*
 
