@@ -20,13 +20,3 @@ von Schreven 1833 https://books.google.nl/books?id=53RSAAAAcAAJ
   - different levels of accuracy
 
 Chinese version of reed/kellog: Ji Jinzi *New Grammar of the National Language* [@mossner1960; @peverelli2015: 97-104]
-
-## modern approaches
-
-- Satzbilder with lines in [@lobentanzer1986: 60, 72-73]
-
-# strange
-
-## Stöhr (1898) *Algebra der Grammatik*
-
-[@stohr1898]

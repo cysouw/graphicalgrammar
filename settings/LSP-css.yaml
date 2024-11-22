@@ -118,7 +118,7 @@ header-includes:
   }
   p {
     margin-block-start: 0.2em;
-    margin-block-end: 0em;
+    margin-block-end: 0.2em;
   }
   ol, ul {
     margin-top: 0.5em;

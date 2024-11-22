@@ -1,6 +1,10 @@
 # Germany {#sec:germany}
 
-## Moritz (1782) *Deutsche Sprachlehre* {#sec:moritz1782}
+## Introduction
+
+## Groundwork
+
+### Moritz (1782) *Deutsche Sprachlehre* {#sec:moritz1782}
 
 Karl Philipp Moritz (1756-1793) was a prolific author with wide ranging interests. Towards the end of his life he became professor for the arts at the *Königliche Akademie der Künste* in Berlin. Among his many writings there are various instructional books and articles about grammar, see Schmidt [-@schmidt1993] for a concise summary of his linguistic oeuvre. Of particular interest here is the *Deutsche Sprachlehre für die Damen in Briefen* [@moritz1782]. The context and linguistic content of this work is discussed in more detail by Buhofer [-@buhofer1994]. This book was quite successful, being reprinted in 1791, 1794 and 1806. All later editions dropped the somewhat curious addition *für die Damen* from the title.
 
@@ -80,7 +84,7 @@ All these theoretical concepts are quite charmingly summarized by his graphical 
 ]
 === ]:
 
-## Herling (1823) *Periodenbau der deutschen Sprache* {#sec:herling1823}
+### Herling (1823) *Periodenbau der deutschen Sprache* {#sec:herling1823}
 
 Simon Heinrich Adolf Herling (1780-1849) was a teacher in Frankfurt am Main and founding member, and later main organizer, of the *Frankfurter Gelehrtenverein für deutsche Sprache*. His analysis of multi-clause sentences is widely considered foundational for the grammatical analysis of German. A wide-ranging appraisal of Herling's work can be found in Elmentaler [-@elmentaler1996]. Herling is a close friend and colleague to Ferdinand Becker (see [@sec:becker1829]), who is also an active member of the *Frankfurter Gelehrtenvereion*. A plan to write a joint grammar fell apart, indicating different opinions in their approach to grammatical analysis [@haselbach1966: 69]. Their relation remains amicable, as indicated by the fact that the first part of Herling's *Syntax der deutschen Sprache* [@herling1830] is dedicated to Becker.
 
@@ -146,9 +150,13 @@ herling1828_366
 Musical notation used to illustrate the grammatical structure of whole paragraphs. Main clauses (indicated by *h*) are higher up, subordinate clauses are lower. Different sentences are separated by bar lines [@herling1828: 366].
 :::
 
-## Götzinger (1827) *Deutsche Sprachlehre* {#sec:götzinger1827}
+### Götzinger (1827) *Deutsche Sprachlehre* {#sec:götzinger1827}
 
-There is a curious graphic in the first edition of the *Deutsche Sprachlehre für Schulen* [@gotzinger1827: 263], reproduced here in [@fig:götzinger1830_263] from the second edition because of the higher quality of the scan [@gotzinger1830: 263]. This graphical display purports to show different ways in which clauses can be coordinated to form a *Periode*. Although he lists various literary examples of such structures [@gotzinger1827: 264], it remains unclear how exactly this analysis is supposed to work. From the graphic it appears as if there should always be a central pair of clauses, but there is no explanation how to extract this central pair. The examples in the text seem to illustrate coordinated structures with a single central clause. For example, [@next] illustrates the option *Viergliedrig c)*, but this one clearly has the principal clause at the end.
+Maximilian Wilhelm Götzinger (1799–1856) was a teacher of German, most of his life working in Schaffhausen (Switzerland). He wrote extensively about grammar, literature and dialectology, see Olsson [-@olsson2009] for an comprehensive appraisal of his work. Besides his didactic writings, Götzinger also provided material for Grimm's dictionary project [@olsson2009: 37] and he was even awarded a doctorate *honoris causa* from the University of Basel in 1838 [@olsson2009: 36], probably through his personal contact with Wilhelm Wackernagel (the father of Jacob Wackernagel of *Wackernagel's law*-fame).
+
+Götzinger wrote two didactic grammatical textbooks, both of which appeared in many different editions throughout the 19th Century [see @olsson2009: 42-46 for a list of all editions]. The book *Die Anfangsgründe der deutschen Sprachlehre in Regeln und Aufgaben* was first published in Leipzig in 1825. This was followed in quick succession by the *Deutsche Sprachlehre für Schulen*, first published in 1827 in Aarau.
+
+There is a curious graphic in the first edition of the *Deutsche Sprachlehre für Schulen* [@gotzinger1827: 263], reproduced here in [@fig:götzinger1830_263] from the second edition because of the higher quality of the scan [@gotzinger1830: 263]. This graphical display purports to show different ways in which clauses can be coordinated to form a *Periode*. Although he lists various literary examples of such structures [@gotzinger1827: 264], it remains unclear how exactly this analysis is supposed to work. From the graphic it appears as if there should always be a central pair of clauses, but there is no explanation how to extract this central pair. The examples in the text seem to illustrate coordinated structures with a single central clause. For example, [@next] illustrates the option *Viergliedrig c*, but this one clearly has the principal clause at the end.
 
 ::: ex
 Wo göttliche Kraft und Empfindung die Gedanken belebt; wo Dank und Bitte auf den Flügeln des Wortes zum Himmel steigt; wo ein heiliger Ort den umherschweifenden Sinn feßelt und fammelt – da ist Religion. [@gotzinger1827: 264, citing  Köppen]
@@ -160,13 +168,11 @@ götzinger1830_263
 Götzinger's early attempt to list different kinds of clause coordination inside a *Periode* [@gotzinger1830: 263]. The examples in the text make clear that these graphical displays are intended for coordinated structures, but it remains unclear how the graphically indicated central pair should be interpreted.
 :::
 
-3rd edition of *Sprachlehre* cites the influence of Lehmann [@gotzinger1835: xiii-xiv] and applies his graphical analysis to clause structure. Section *Stellungen der Bekleidung* [@gotzinger1835: 243-248] and *Stellung der Nebensätze* [@gotzinger1835: 310-315]
-
-## Schmitthenner (1828) *Teutonia* {#sec:schmitthenner1828}
+### Schmitthenner (1828) *Teutonia* {#sec:schmitthenner1828}
 
 Friedrich Jakob Schmitthenner (1796-1850) [@schmitthenner1828]
 
-## Becker (1829) *Deutsche Sprachlehre* {#sec:becker1829}
+### Becker (1829) *Deutsche Sprachlehre* {#sec:becker1829}
 
 Karl Ferdinand Becker (1775-1849) one of the highly influential grammatical educators from the start of the 19th Century. 
 
@@ -217,17 +223,59 @@ becker1833_43
 Tabular analysis of complex sentence [@last] with various subordinate clauses, from Becker [-@becker1833a: 43].
 :::
 
-## Diesterweg (1830) *Praktischer Lehrgang für den Unterricht*  {#sec:diesterweg1830}
+## *Satzbild* and *Periodenbild*
 
-Freidrich Adolph Wilhelm Diesterweg (1790-1866) was a teacher and a prolific author of textbooks. He also wrote extensively about didactic methods. Later in life he was politically active in an attempt to reform the Prussian educational system. His practical textbooks mainly dealt with mathematics and German linguistics. A comprehensive analysis of his linguistic didactic writings can be found in Czoska [-@czoska1984].
+### Diesterweg (1830) *Praktischer Lehrgang für den Unterricht*  {#sec:diesterweg1830}
 
-The *Praktischer Lehrgang für den Unterricht in der deutschen Sprache* is a massive three-volume guide for teachers. As it says in the subtitle, it is *ein Leitfaden für Lehrer, welche die Muttersprache naturgemäß lehren wollen* 'a guide for teachers who want to teach the mother tongue in a natural way'. In the current context I will concentrate on the second volume *Die Wortformen und die Satzlehre*. This second volume first appeared in 1830, but I have not been able to access that edition. I will use here the second edition from 1834, which is basically idental to the third edition from 1838.
+Freidrich Adolph Wilhelm Diesterweg (1790-1866) was a teacher and a prolific author of textbooks. He also wrote extensively about didactic methods. Later in life he was politically active in an attempt to reform the Prussian educational system. His practical textbooks mainly dealt with mathematics and German linguistics. A comprehensive analysis of his linguistic writings can be found in Czoska [-@czoska1984].
+
+The *Praktischer Lehrgang für den Unterricht in der deutschen Sprache* is a massive three-volume guide for teachers. As it says in the subtitle, it is *ein Leitfaden für Lehrer, welche die Muttersprache naturgemäß lehren wollen* 'a guide for teachers who want to teach the mother tongue in a natural way'. In the current context I will concentrate on the second volume *Die Wortformen und die Satzlehre*. This second volume first appeared in 1830 [@diesterweg1830], but there have been substantial changes in the second edition from 1834 [@diesterweg1834], to be discussed in [@sec:diesterweg1834]. The third edition from 1838 [@diesterweg1838] and the fourth from 1847 only saw minor changes. I will cite the 1830 and 1834 version where appropriate, but often include references to the 1838 version as well, as this is the highest-quality openly available digital version. For that reasons I have also used the 1838 for the images included here, as they do not change from the 1830 or 1834 versions.
+
+In the introduction to the first volume he explicitly cites Herling, Becker, Götzinger and Schmitthenner as inspiration [@diesterweg1834: xiii]. In many ways, Diesterwegs *Lehrgang* can be seen as a synthesis of 
+
+Periode based on Herling, Götzinger and Schmitthenner
+
+::: im
+diesterweg1830_191
+
+Periode [@diesterweg1830: 191]
+:::
+
+Syntax based on Becker
+
+
+Diesterweg proposes an intricate graphical analysis of sentence structure [@diesterweg1830: 174, 266; same in @diesterweg1838: 158, 260]. To indicate groups of words ('constituents') he uses braces, both horizontal and vertical. It is tempting to compare these braces with the braces used by Moritz (see [@sec:moritz1782]). However, there is no indication that there has been any influence and it seems more plausible that the use of large braces is simply one of the handful of graphical tricks that were available to typesetting at the time.
+
+Diesterweg does not use syntactic diagrams with lines, because in his book such diagrams are used only to illustrate hierarchical subdivision of grammatical categories, e.g different kinds of building plurals [@diesterweg1838: 8], different kinds of nouns [@diesterweg1838: 22-23] or different kinds of adjectives [@diesterweg1838: 53] and many more such examples. In constrast, a sentence is not an example of hierarchichal subdivision, but a case of hierarchical modification, which Diesterweg calls *Bestimmung*. Throughout the discussion of syntax, he frequently uses the nomen agentis *Bestimmer* 'determiner' for a word that modifies another. This terminological quirk has not caught on.
+
+In the visual analysis, which Diesterweg calls *syntaktische Analyse* [probably following @becker1829: 16], there are various crucial syntactic details to be observed. Many of these details are not explained in the text. He simply claims that *Sind die Schüler bis hieher [sic] gründlich unterrichtet worden; so müssen sie im Stande sein, den nachfolgenden Satz, wie folgt, zu zergliedern und wieder zusammenzusetzen.* 'When the pupils have been taught thoroughly up to here, then they should be able to parse and assemble again the following sentence, as follows' [@diesterweg1830: 174, same in @diesterweg1838: 158].
+
+::: ex
+Ein unter den schwierigen Umständen standhaft gebliebenen Vater von secht unmündigen, in weiter Entfernung lebenden Kindern hat sich auch in diesem theuern Jahre durch rastlose Thätigkeit bei Tag und Nacht vor Tausenden seiner Mitbürger rühmlich ausgezeichnet.
+:::
+
+Diesterweg's visual analysis of [@last] is shown in [@fig:diesterweg1830_174]. The following details can be extracted from the display:
+
+- The analysis has a subject+predicate basis, as indicated by the dots at the top linking the subject *Ein Vater* to the predicate *hat sich ausgezeichnet*. This is called the *nackter Satz*.
+- On the predicate side (to the right), the various adverbial modifiers are simply stacked downwards using horizontal braces, with the actual ordering in the sentence being from bottom to top. The vertical braces indicate some kind of constituent subgroupings, although this is not explained in the text.
+- On the subject side (to the left), we also see horizontal braces to indicate modification and vertical braces to indicate groupings. The horizontal braces seem to point towards the head they modify.
+- On the subject side there is a single reversed horizontal brace to indicate modification to the whole first part of the NP up to the head noun *Vater*. This is also not explained in the text. It would have been more consistent to use large vertical braces, then the hierarchical structure would have become obvious.
+- There are various negligent errors, both in the image (the word *lebenden* is omitted) and in the explaining text (where the phrase *unter fremden Menschen* is added).
+
+::: im
+diesterweg1830_174
+
+Syntactic analysis by diagram of the sentence in [@last] from Diesterweg [-@diesterweg1830: 174; same in -@diesterweg1838: 158]. Subject and predicate are the basis on top, linked by a dotted line. Horizontal braces indicate modification by other words (below the brace is the *Bestimmer* 'Determiner' of the one on top). Vertical braces indicate "constituent" grouping. The single reversed horizontal brace on the mid left also indicates a grouping, possibly considered to large for large vertical braces.
+:::
+
+Hierarchical sentence structure 
+
+
 
 second (1834) [@diesterweg1834]: added periode from Lehmann!
 third edition (1838) [@diesterweg1838] only minimal changes
 fourth edition 1847 same as third
 
-In the introduction to the first volume he explicitly cites Herling, Becker, Götzinger and Schmitthenner as inspiration [@diesterweg1834: xiii]
 
 There are many tree-diagrams with lines in the book, but they are used for conceptual subgrouping, not for sentence analysis. Diesterweg does not explain his choice of graphical display, but I suspect that he intended for a different display for actual sentence analysis (using horizontal braces) and conceptual summaries (using line diagrams).
 
@@ -239,17 +287,14 @@ There are many tree-diagrams with lines in the book, but they are used for conce
 
 *grad*
 
-::: ex
-Ein unter den schwierigen Umständen standhaft gebliebenen Vater von secht unmündigen, in weiter Entfernung lebenden Kindern hat sich auch in diesem theuern Jahre durch rastlose Thätigkeit bei Tag und Nacht vor Tausenden seiner Mitbürger ruhmlich ausgezeichnet. [@diesterweg1834: 156]
-:::
-
-note basic subject-predicate horizontal placement, just like Billroth. The horizontal brackets are reminiscent of later edition of Billroth, specifically 1848.
-
 Term *Satzbild*!, beschriebt Periodenanalyse wie Herling [@diesterweg1834: 162, 213-214, 254-255!]
 
 *grammatische Zergliederung (Analysis)*, sehr ähnlich wie Becker *Analyse der Sätze*! [@diesterweg1834: 252ff.]
 
-## Billroth (1832) *Lateinische Syntax* {#sec:billroth1832}
+
+note basic subject-predicate horizontal placement, just like Billroth. The horizontal brackets are reminiscent of later edition of Billroth, specifically 1848.
+
+### Billroth (1832) *Lateinische Syntax* {#sec:billroth1832}
 
 At the end of his short life, Johann Gustav Willhelm Billroth (1808-1836) became professor for religion at the university in Halle. Before that, between his *Habilitation* in Leipzig in 1830 and the start of his position in Halle in 1834, he worked as a teacher for latin [@alwast2000]. In that context he wrote two latin grammars for use in schools, first the *Lateinische Syntax für die obern Klassen gelehrter Schulen* [@billroth1832], later followed by the *Lateinische Schulgrammatik für alle Klassen* [@billroth1834].
 
@@ -295,7 +340,7 @@ Billroth's grammar has an interesting afterlife, but unfortunately without any f
 
 On a more positive note, Billroth's graphical display had a direct influence on Julius Hoffmann (see [@sec:hoffmann1839]), but also that incarnation of graphical grammar did not catch on. One could speculate whether there is any influence from either Billroth or Hoffmann on the graphical analysis of Franz Kern (see [@sec:kern1883]), but there is little evidence for that.
 
-## Lehmann (1833) *Allgemeiner Mechanismus des Periodenbaues* {#sec:lehmann1833}
+### Lehmann (1833) *Allgemeiner Mechanismus des Periodenbaues* {#sec:lehmann1833}
 
 Johann August Otto Leopold Lehmann (1802-1883) worked as a teacher in Danzig (Gdańsk) and later as a school principal in Marienwerder (Kwidzyn). In this context, he prepared various educational textbooks, mainly consisting of literary commentaries, but also including songbooks, dialect analyses and some works on local history. Early in his career he wrote a linguistic treatise about the structure of the complex sentence: *Allgemeiner Mechanismus des Periodenbaues, nebst einem Versuche, an ihn eine Kritik der deutschen Periode anzuknüpfen* [@lehmann1833]. His approach to the analysis of complex sentences is based on the work of Herling (see [@sec:herling1823]), who is explicitly cited as a source of inspiration [@lehmann1833: xv-xvi]. 
 
@@ -358,11 +403,15 @@ Later application: [@lehmann1852: 152-180]. Very complex examples!
 
 Later Lehmann writes *Sprachliche Studien über das Nibelungenlied* [@lehmann1856; @lehmann1857], Jahresbericht Gymnasium Marienwerder, citing Götzinger and Nägelsbach. Instead of the vertical schema, he uses the comma as simplification (footnote on p.8)
 
-## Götzinger (1836) *Die deutsche Sprache* {#sec:götzinger1836}
+### Diesterweg (1834) *Praktischer Lehrgang für den Unterricht* {#sec:diesterweg1834}
 
-Maximilian Wilhelm Götzinger (1799–1856) was a teacher of German, most of his life working in Schaffhausen (Switzerland). He wrote extensively about grammar, literature and dialectology, see Olsson [-@olsson2009] for an comprehensive appraisal of his work. Besides his didactic writings, Götzinger also provided material for Grimm's dictionary project [@olsson2009: 37] and he was even awarded a doctorate *honoris causa* from the University of Basel in 1838 [@olsson2009: 36], probably through his personal contact with Wilhelm Wackernagel (the father of Jacob Wackernagel of *Wackernagel's law*-fame).
+### Götzinger (1836) *Die deutsche Sprache* {#sec:götzinger1836}
 
-Götzinger wrote two didactic grammatical textbooks, both of which appeared in many different editions throughout the 19th Century [see @olsson2009: 42-46 for a list of all editions]. The book *Die Anfangsgründe der deutschen Sprachlehre in Regeln und Aufgaben* was first published in Leipzig in 1825. This was followed in quick succession by the *Deutsche Sprachlehre für Schulen*, first published in 1827 in Aarau. Originally, both these books did not contain any graphical analyses of sentences. A few years later, when revising his didactic grammars once again, he included graphical displays as discussed below, both in the fifth edition of the *Deutsche Sprachlehre* [@gotzinger1842: 222-226, 287-291] and in the fifth edition of the *Anfängsgründe* [@gotzinger1845: 236-242].
+
+
+Originally, the early books did not contain any graphical analyses of sentences. A few years later, when revising his didactic grammars once again, he included graphical displays as discussed below, both in the fifth edition of the *Deutsche Sprachlehre* [@gotzinger1842: 222-226, 287-291] and in the fifth edition of the *Anfängsgründe* [@gotzinger1845: 236-242].
+
+3rd edition of *Sprachlehre* cites the influence of Lehmann [@gotzinger1835: xiii-xiv] and applies his graphical analysis to clause structure. Section *Stellungen der Bekleidung* [@gotzinger1835: 243-248] and *Stellung der Nebensätze* [@gotzinger1835: 310-315]
 
 He uses term *Periodenbild* [@gotzinger1839: 395; @gotzinger1842: 307-311] just like Lehmann. Term *Satzbild* only introduced by Bauer?
 
@@ -409,7 +458,7 @@ subordination: 364-367, 371, Periode: 374-403
 coordination (*Beiordnung*) with an equal sign (p.366)
 He observes, that with multiple subordinate clauses there are examples that appear to have an empty second part of the main predicate, or, in modern terminology, an empty *rechte Satzklammer*. He uses a dash to indicate such zeros. (p.381)
 
-## Hoffmann (1839) *Neuhochdeutsche Schulgrammatik* {#sec:hoffmann1839}
+### Hoffmann (1839) *Neuhochdeutsche Schulgrammatik* {#sec:hoffmann1839}
 
 Karl August Julius Hoffmann (1812-1869)
 
@@ -442,13 +491,13 @@ images: https://www.digitale-sammlungen.de/view/bsb10583851?page=194
 
 Kern cites Hoffmann [@kern1888], but only in the second edition after he already published his "tree" metaphors. The idea for the "trees" is already in "Satzlehre", finished in December 1882, and practically applied in "Methodik" of 1883.
 
-## Nägelsbach (1846) *Lateinische Stilistik*
+### Nägelsbach (1846) *Lateinische Stilistik*
 
 Carl Friedrich Nägelsbach (1806-1859)
 
 graphical *Periode* citing Lehmann [@nagelsbach1846: 281ff.]
 
-## Bauer (1850) *Neuhochdeutsche Grammatik* {#sec:bauer1850}
+### Bauer (1850) *Neuhochdeutsche Grammatik* {#sec:bauer1850}
 
 Friedrich Bauer (1812-1874) studied theology and was the founding director of a missionary education centre in the Bavarian city of Neuendettelsau. This institute is still active today as *Mission EineWelt*. Among other duties, Bauer also taught religion and German grammar at his institute [@fuchshuber2013: 93]. In that context he wrote the *Grundzüge der neuhochdeutschen Grammatik für die unteren und mittleren Klassen höherer Bildungsanstalten*, which was first published in 1850. Bauer himself delivered various editions of this book up to his death in 1874.
 
@@ -529,23 +578,23 @@ In this edition he also promises to write a more extensive explanation of his no
 
 > Es ergeben sich die manchfaltigsten Gestalten von Sätzen von der einfachsten Schreibart an bis zur compliciertesten. Die Darstellung solcher Satzbilder durch Formeln ist äußert lehrreich und förderlich, sowohl für das Verständnis scherer Sätze, als für das Schreiben. […] Solche Formeln zur Darstellung von Satzbildern zu geben, muß sich der Verfaßer vorbehalten für eine besondere kleine Schrift, welche eine Ergänzung der Syntax für eine höhere Lehrstufe bilden soll. [@bauer1863: 128]
 
-## Wetzel & Wetzel (1865) *Die deutsche Sprache*
+### Wetzel & Wetzel (1865) *Die deutsche Sprache*
 
 Periode like Lehmann, §194-195, cited here in the 3rd edition [@wetzel1871: 312-316]
 
 Almost identical, just a bit shorter and streamlined, in *Leitfaden*, first edition 1868 [@wetzel1868: 182], also in the 46th edition [@wetzel1871: 223-224]
 
-## Menge (1873) *Repetitorium der lateinischen Syntax und Stilistik*
+### Menge (1873) *Repetitorium der lateinischen Syntax und Stilistik*
 
 Hermann August Menge (1841-1939), teacher and translator of the infamous *Menge-Bibel*. Based on his practical teaching experience, he wrote textbooks for Latin and Greek. The Latin textbook is still in use today, though in a slightly revised version [e.g. a 1955 edition is cited in @langholf1969: 10].
 
 Lehmann Periode in §541-542, cited here in the 6th edition [@menge1890: 357-364]. In the preface to the first edition he cites among others Hoffmann (but not Nägelsbach), and the other preface do not mention any changes as far as the Periode is concerned, so it is very probable that the Period analysis was already present in the first edition of 1873.
 
-## Gelbe (1877) *Deutsche Sprachlehre*
+### Gelbe (1877) *Deutsche Sprachlehre*
 
 Theodor Gelbe (1837-1892), Realschuldirektor in Stollberg. Satzbild like Götzinger [@gelbe1877: 150-153] historical survey of satzbilder [@gelbe1880]
 
-## Diringer (1878) *Die Periode oder der Gliedersatz*
+### Diringer (1878) *Die Periode oder der Gliedersatz*
 
 Josef Diringer (1878-1883) Ordinarius für Deutsch, Latein und Griechisch in Eichstätt
 
@@ -553,32 +602,32 @@ practical application in second half of the book [@diringer1878: 42-60] using se
 
 Further development of *Periodenbild* citing Bauer, Lehmann and Götzinger (and Becker, Herling, but there does not seem to be any links as for the graphics)
 
-## Esser (1878) *Die Formen der Periode*
+### Esser (1878) *Die Formen der Periode*
 
 Franz Esser (Oberlehrer Gymnasium Weissenburg) citing Götzinger, but using dashes instead of horizontal braces [@esser1878]
 
-## Sanders (1879) *Deutsche Sprachbriefe*
+### Sanders (1879) *Deutsche Sprachbriefe*
 
 Daniel Sanders (1819-1897) https://de.wikipedia.org/wiki/Daniel_Sanders_(Lexikograf)
 
 Satzbild, probably Hoffmann [@sanders1879]
 
-## Blatz (1880) *Neuhochdeutsche Grammatik*
+### Blatz (1880) *Neuhochdeutsche Grammatik*
 
 Satzbilder [@blatz1880: 866-871]
 in Introduction mentions Becker, Sanders
 
-## Zettel (1882) *Unterricht in der deutschen Sprache*
+### Zettel (1882) *Unterricht in der deutschen Sprache*
 
 Karl Zettel (1831-1904), Gymnasium Regensburg, Satzbild like Götzinger [@zettel1882: 85-87]
 
-## Kern (1883) *Methodik des deutschen Unterrichts* {#sec:kern1883}
+### Kern (1883) *Methodik des deutschen Unterrichts* {#sec:kern1883}
 
 Franz Kern (1830-1894) [@kern1883]
 
 Influence from Götzinger? [@forsgren1998: 63] only circumstantial evidence
 
-## Willomitzer (1885) *Deutsche Grammatik* 
+### Willomitzer (1885) *Deutsche Grammatik* 
 
 Franz Willomitzer (1847-1910)
 
@@ -595,7 +644,7 @@ There is also a different notation for *Periode*, which uses letters, but differ
 Revised by Johann Tschinkel after the death of Willomitzer, later renamed as *Deutsche Sprachlehre für Mittelschulen*, reprinted and revised up to a 23th edition in 1930. The table is gone, and only a single unexplained *Satzbild* remains [@tschinkel1921: 242].
 
 
-## Utzinger (1887) *Deutsche Grammatik*
+### Utzinger (1887) *Deutsche Grammatik*
 
 Heinrich Utzinger (1842-1913) Zürich [@utzinger1887]
 
@@ -606,7 +655,7 @@ probably influences by hoffmann, though he does not cite him in the introduction
 - *Schema* [@utzinger1887: 89] subject-predicate on one line!
 - *Satzbild* [@utzinger1887: 122] very simplified like hoffmann
 
-## Lyon (1889) *Handbuch der deutschen Sprache*
+### Lyon (1889) *Handbuch der deutschen Sprache*
 
 Otto Lyon (1853-1912) Stadtschulrat in Dresden
 
@@ -617,25 +666,25 @@ more extensive in *Lektüre als Grundlage* Satzbilder wie Hoffmann [@lyon1897: 1
 
 *Handbuch* has seen many revision and editions. The 8th edition from 1919 (strongly revised) includes Utzinger-style tree graphic [@lyon1919: 122, 136]. The section about *Satzbilder* under the heading *Periode* [@lyon1919: 196-198] is verbatim identical to the 1889 version.
 
-## Kuderna (1893) *Sprachliches Mahnwort*
+### Kuderna (1893) *Sprachliches Mahnwort*
 
 Béla Kuderna (1846-1915), Hauptmann in the austrian army and teacher for german language and style at the *Infanterie-Cadetenschule* in Vienna.
 
 two *Satzbilder* [@kuderna1893: 268-269]
 
-## Tiktin (1895) *Gramatica Românǎ*
+### Tiktin (1895) *Gramatica Românǎ*
 
 Hariton Tiktin (1850-1936) was born in Breslau (Wrocław), but moved to Iași in Romania at the age of 18, where he worked as a teacher. He wrote a dissertation in Leipzig and worked as a lecturer at the Humboldt-University Berlin
 
 [@tiktin1895: 206-207] second edition, but difference to first edition (1891) unknown
 
-## Gloël (1895) *Schriftliche Übersetzung aus dem Griechischen*
+### Gloël (1895) *Schriftliche Übersetzung aus dem Griechischen*
 
 Heinrich Gloël, Gymnasiallehrer in Wesel
 
 Satzbilder [@gloel1895: 75]
 
-## Toifel (1897) *Satzstellungen in der Kudrun*
+### Toifel (1897) *Satzstellungen in der Kudrun*
 
 Lehrer in Salzburg, later Ried im Innkreis
 
@@ -643,11 +692,11 @@ Many Satzbilder, probably tradition Hoffmann [@toifel1897]
 
 Later the same with another text: [@toifel1901]
 
-## Trunk (1898) *Zur Hebung des deutschen Sprachunterrichtes*
+### Trunk (1898) *Zur Hebung des deutschen Sprachunterrichtes*
 
 inspired by Kern
 
-## Stamm (1899) *Graphische Darstellung* 
+### Stamm (1899) *Graphische Darstellung* 
 
 Adolf Stamm (1857-???)
 
@@ -657,13 +706,13 @@ idisyncratic graphics [@stamm1899]
 critique of Stamm: [@arens1902]
 (other reaction to Stamm: [@mossner1960])
 
-## Raumer (1902) *Das Periodenbild*
+### Raumer (1902) *Das Periodenbild*
 
 Siegmund von Raumer (1860-1939), Gymnasiallehrer in Erlangen
 
 New proposal for *Periode*, reaction to Lehmann and subsequent proposals. Very short, only one example of his proposal (using multiple lines) [@raumer1902: 63]
 
-## Eberhard (1905) *Graphische Darstellung in der Sprachlehre* 
+### Eberhard (1905) *Graphische Darstellung in der Sprachlehre* 
 
 Johann Eberhard (1838-?)
 
@@ -673,11 +722,11 @@ new proposal as a reaction to Adolf Stamm (1899) [@eberhard1905]
 
 > Das die graphische Darstellung ein erwünschtes Mittel ist, um Übersicht über ein verwickeltes Satzbilde zu erzielen, unterliegt keinem Zweifel. Nach meinen Erfahrungen bringen alle Schüler, auch die Minderbefähigten, der bezeichneten Darstellung ein großes Interesse entgegen – gewiss ein wichtiges Moment bei dem trockenen Lehrstoff! Die graphische Darstellung solcher Sätze, die in der Schule zergeliedert sind, ist deshalb auch eine viel begehrte Hausaufgabe. [@eberhard1905: 284]
 
-## Schuberth (1908) *Deutsche Satzbilder*
+### Schuberth (1908) *Deutsche Satzbilder*
 
 Gustav Schuberth (1850-1922), Schuldirektor in Großenhain [@schuberth1908]
 
-## Erman (1913) *Stellung und Funktion der Nebensätze*
+### Erman (1913) *Stellung und Funktion der Nebensätze*
 
 Konrad Bessel Erman (1888-)
 
@@ -685,7 +734,7 @@ Dissertation *Beziehungen zwischen Stellung und Funktion der Nebensätze mehrfac
 
 cites [@lehmann1856; @esser1878; @toifel1897; @toifel1901]
 
-## Pfannkuchen (1914) *Periodenbau*
+### Pfannkuchen (1914) *Periodenbau*
 
 Wilhelm Pfannkuchen (1887-), dissertation in Giessen with Otto Behagel [@pfannkuchen1914], teacher in Darmstadt. cites Kern, Gelbe, Lehmann, but seems mainly influenced by [@lehmann1852]
 
@@ -700,7 +749,7 @@ Berufen ist zum blut'gen Werk der Waffen. (Schiller, Jungfrau von Orleans)
 
 example p.60
 
-## Müller (1921) *Vom Deutschunterricht in der Arbeitsschule*
+### Müller (1921) *Vom Deutschunterricht in der Arbeitsschule*
 
 Lotte Müller (1893-1972) https://de.wikipedia.org/wiki/Charlotte_Müller_(Pädagogin)
 
@@ -708,7 +757,7 @@ cited second edition [@muller1922: 49] one tree example like Kern, with verb on 
 
 Deutsche Sprachkunde in der Arbeitsschule, Leipzig 1923
 
-## Flothuis (1930) *Kurzgefaszte deutsche Syntax* 
+### Flothuis (1930) *Kurzgefaszte deutsche Syntax* 
 
 Marius Hendrikus Flothuis (1873-1950), teacher of german language and literature in Amsterdam. 
 Father of composer Marius Flothuis.
@@ -716,11 +765,19 @@ https://archief.amsterdam/indexen/deeds/98533401-2df7-56a3-e053-b784100ade19?per
 
 Adds idiosyncratic diagrams of subordinate clauses to the end of his grammar. cites Kern and Wundt, but his graphics do not look like theirs [@flothuis1930]
 
-## Heemstra (1947) *Grundrisz der deutsch-niederländischen Satzlehre*
+### Heemstra (1947) *Grundrisz der deutsch-niederländischen Satzlehre*
 
 only graphical display of clause subordination. cites examples from [@kern1884] and [@flothuis1930], does not add anything new [@heemstra1947: 76-79]
 
-## Essen (1956) *Methodik des Deutschunterrichts*
+### Langholf (1969) *Die Syntax des deutschen Amadisromans*
+
+[@langholf1969: 10] own version of Periodenbau, cites Menge as inspiration!
+
+## Modern incarnations
+
+### Paardekooper (1955) *syntaktische verkenningen*
+
+### Essen (1956) *Methodik des Deutschunterrichts*
 
 Erika Essen (1914-1986)
 
@@ -728,17 +785,23 @@ Erika Essen (1914-1986)
 
 https://www.lagis-hessen.de/de/subjects/print/sn/bio/id/18993
 
-## Grosse (1960) *Die deutsche Satzperiode*
+### Grosse (1960) *Die deutsche Satzperiode*
 
 [@grosse1960] indented subordinates clauses
 [@grosse1966] many modern approaches
 
-## Rychener (1960) *Freude an Grammatik*
+### Rychener (1960) *Freude an Grammatik*
 
 [@rychener1960]
 
 Many different ideas by Rychener: underlining of clause-internal structure [@rychener1982: 150-151], Becker-style tables [@rychener1982: 178], tab-inserts [@rychener1982: 176], Vertical displacement of clause-combinations like Flothuis [@rychener1982: 189]
 
-## Langholf (1969) *Die Syntax des deutschen Amadisromans*
+### Lobentanzer (1986) *Deutsch muß nicht schwer sein*
 
-[@langholf1969: 10] own version of Periodenbau, cites Menge as inspiration!
+Satzbilder with lines in [@lobentanzer1986: 60, 72-73]
+
+## Idiosyncratic analyses
+
+### Stöhr (1898) *Algebra der Grammatik*
+
+[@stohr1898]
