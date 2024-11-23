@@ -147,7 +147,12 @@ nicer scan here (later version, same examples): https://archive.org/details/newe
 
 ### York (1862) *An Analytical, Illustrative, and Constructive Grammar*
 
-Richard Brantley York (1805-1891)
+Richard Brantley York (1805-1891) Brantley York was an educator, author, and Methodist clergyman in North Carolina. He organized Union Institute Academy at Brown's Schoolhouse in Randolph Co., N.C. in 1839, which would evolve into Normal College, Trinity College, and later Duke University. 
+
+not yet found: (1854) An illustrative and constructive
+grammar of the English language
+
+first edition of Analytical grammar from 1860
 
 https://en.wikipedia.org/wiki/Brantley_York
 

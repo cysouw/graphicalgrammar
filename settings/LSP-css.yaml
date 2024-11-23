@@ -139,10 +139,13 @@ header-includes:
     text-align: justify;
   }
   a:link {
-    text-decoration: none; 
+    text-decoration: none;
   }
-  a:hover { 
-    text-decoration: underline; 
+  a:hover {
+    text-decoration: underline;
+  }
+  blockquote a:link {
+    color: #606060;
   }
   .footnote-ref {
     font-size: small;
