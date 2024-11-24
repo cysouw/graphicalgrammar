@@ -174,67 +174,60 @@ In his 1828 book *Teutonia. Ausführliche Sprachlehre nach neuer wissenschaftlic
 Intonation contours for multi-clause extended sentences, the so-called *Periode* [@schmitthenner1828: 186]. According to Schmitthenner, a *Periode* consists of multiple *Glieder*, the *Glieder* consist of *Abschnitte*, and each *Abschnitt* seems to be an individual sentence. The lines in the graphic indicate *Abschnitte* (with rising or falling intonation), the *Glieder* are separated by colons or semicolons. For example, the last example has six *Abschnitte* and four *Glieder*. Differently from Götzinger in [@fig:götzinger1827_263], for Schmitthenner a *Periode* can have multiple intonation maxima. It remains unclear from the text whether there is an intended difference between slanted and vertical lines.
 :::
 
-### Becker (1829) *Deutsche Sprachlehre* {#sec:becker1829}
+### Becker (1829) *Deutsche Grammatik* {#sec:becker1829}
 
-Karl Ferdinand Becker (1775-1849) was one of the highly influential grammatical educators from the start of the 19th Century. 
+Karl Ferdinand Becker (1775-1849) was probably one of the most influential grammatical educators from the start of the 19th Century. He originally started out as a medical doctor, but that turned out not be a financial success. Instead, he started to make a living by teaching German to English-speaking students. Turning his attention to linguistics, he wrote various books about German grammar. For a thorough repraisal of Becker's linguistic work, see Haselbach [-@haselbach1966]. Becker also became a member of the *Frankfurter Gelehrtenverein für deutsche Sprache*, where he met Herling (see [@sec:herling1823]) and Schmitthenner (see [@sec:schmitthenner1828]).
 
-[@haselbach1966]
+In his *Organism der Sprache als Einleitung zur deutschen Grammatik* [@becker1827] Becker presents a clear plan for analysis of syntactic relationships inside the sentence (which he called *Satzverhältnisse*), and it is easily possible to anachronistically depict these ideas graphically [e.g. @haselbach1966: 156-161]. However, Becker himself never produced any graphical display of the analysis of a specific sentence, but he came very close with a tabular method of analysis.
 
-In the introduction to the 1829 *Deutsche Sprachlehre, zweiter Band: Deutsche Grammatik* [@becker1829: xvii-xix], even before he really starts the exposition of the grammar of German, Becker presents a few examples of how complete sentences should be analysed.
+Becker orginaly introduced a few examples of his tabular method in the preface of the *Deutsche Grammatik* [@becker1829]. Here he presents a few examples of how sentences should be analysed, calling the process *Analyse der Sätze* [@becker1829: xvi-xix]. This explanation is addressed to teachers, instructing them how students should approach the analysis of a sentence. Astonishingly, he never describes this analytical approach in the grammar itself. He returns to this approach in a short book *Über die Methode des Unterrichtes in der deutschen Sprache*, again directed to teachers [@becker1833a: 36-46]. In this book he calls the process *Zergliederung*.
+
+Becker's basic idea is to use a table with all words of the sentence listed as the rows of a table. This approach feels completely natural in the English grammatical tradition of "parsing", which he might have encountered while teaching English-speaking students. In the English grammatical tradition, parsing has a long history. The word itself originates from the Latin *pars orationis*, i.e. originally parsing is the process to assign parts of speech to individual words. The Oxford English Dictionary lists examples of this usage all the way back to the 16th Century. However, the process of consistently going through a sentence, listing all words separately, and analysing each one individually, seems to have been first used by John Brinsly the Elder in his *Ludus Literarius* from 1612 [nice examples in @brinsley1612: 102, 130]. In the centuries since, this approach to parsing became a mainstay in the English grammatical tradition [@lyman1922: 120-122]. Curiously, this approach to sentence analysis seems have been basically unknown outside of the English-speaking grammatical tradition.
+
+An example of Becker's table is shown in [@fig:becker1829_xvii], analysing the example sentence in [@next]. The crucial innovation of Becker is the addition of numbers to each row of the table, an approach never before and never since used in the English tradition. Becker uses these numbers to clarify the relationships between the words, as for each word he adds the number to the word it modifies at the end of each row in the table.
 
 ::: ex
 Wallenstein wußte längst den Inhalt ihrer Sendung als die Abgesandten des Kaisers ihm vor die Augen traten.
 :::
 
 ::: {.im #becker1829_xvii}
-Tabular analysis of the complete sentence [@last], from the introduction of Becker [-@becker1829: xvii].
+Tabular analysis of the sentence in [@last] from the preface of Becker [-@becker1829: xvii]. The crucial innovation of this "parsing" table is the addition of line-numbers at the start of each row, which allows for a reference to the head of each row (given at the end of each row after *zu*). This format is almost completely identical to the CoNNL-U format for dependency trees, which is widely used today, almost 200 years later. A dependency tree for this table is shown in [@fig:becker1829_xvii_tree].
 :::
 
-CoNLL-U table-format of [@fig:becker1829_xvii] with only slight cosmetic simplifications of the names for the dependency relations.
+The format of the table is actually almost completely identical to the modern CoNLL-U table-format^[<https://universaldependencies.org/format.html>] of for dependency trees. In that format all words are listed in a tab-delimeted file, with minimally five columns: (i) a numerical ID, (ii) the linguistic elemens, (iii) the word class, (iv) the relation to the head, and (v) the number of the head it modifies. The resulting dependency tree is shown in [@fig:becker1829_xvii_tree]. The file to reproduce this tree is linked at the end of the caption, and is almost verbatim the table from Becker's book of 1829.
 
-```
-# global.columns = ID FORM UPOS DEPREL HEAD
-1   Wallenstein      Substantiv Nom.        Subjekt                 0
-2   wußte            Verb Imperf.           Prädikat                1
-3   längst           Adverb                 der Zeit                2
-4   den Inhalt       Substantiv Akk.        Gethanes (Gewußtes)     2
-5   ihrer Sendung    Substantiv Gen.        Attributiv              4
-6   als              Konjunktion            Adverbialsatz der Zeit  2
-7   die Abgesandten  Substantiv Nom.        Subjekt                 6
-8   des Kaisers      Substantiv Gen.        Attributiv              7
-9   ihm              Personalpronomen Dat.  Persönliches Objekt    11
-10  vor die Augen    Substantiv mit Präp.   Ortsverhältniß         11
-11  traten           Verb Imperf.           Prädikat                7
-```
+::: {.tree #becker1829_xvii_tree}
+Dependency tree of [@last] on the basis of the tabular analysis by Becker as shown in [@fig:becker1829_xvii]. This dependency tree is generated by using the CoNLL-U format (code linked at the end), which is almost a verbatim copy of the tabular analysis by Becker. Note that in this analysis, the subject is head of the verb, while the verb is the head of the other elemenst in the sentence.
+:::
 
-![Graphical display of the CoNLL-U format based on [@fig:becker1829_xvii]. Display is generated at <https://urd2.let.rug.nl/~kleiweg/conllu/>](figures/becker1829_dependency){#fig:becker1829_dependency}
+A more extensive description of this tabular method is given in Becker [-@becker1833a: 38-46], using the Term *Zergliederung*. From the exposition in that book the impression arises that Becker considered this kind of analysis the basis of all grammatical education. He argues how important it is to practice this *Zergliederung* with students, and that all other aspects of the grammar can be better explained and understood when they are able to perform such a *Zergliederung*. It remains completely unclear why this method is only presented in texts adressed for the teachers, and never in the actual grammar books.
 
+A final example of such a *Zergliederung* is presented in [@fig:becker1833_43] for the sentence in [@next]. This example is interesting because it contains various subordinated clauses. However, the method is easily extended to deal with such complex sentences. I leave it as an exercise for the reader to turn this table into the CoNLL-U format and generate a dependency tree.
 
-subordinate sentences in [@becker1833a: 38-46]
-(*Eigenschaftssatz*=relative clause, *Dingsatz*=complement clause)
+In summary, the grammatical writings of Becker have had a lot of influence in the 19th Century, but his very practical idea of a numbered tabular analysis has unfortunately not been widely acknowledged. Diesterweg used it, but those proposals also did not have a large impact (see [@sec:diesterweg1830]).
 
 ::: ex
 Jakob schickte seinen jüngsten Sohn nicht mit den übrigen nach Aegypten, weil schon einmal ein Sohn, den er ausgesandt hatte, nicht zurückgekehrt war, und weil er fürchtete, daß auch diesem ein Unfall begegnen möchte.
 :::
 
 ::: {.im #becker1833_43}
-Tabular analysis of complex sentence [@last] with various subordinate clauses, from Becker [-@becker1833a: 43].
+Tabular analysis from Becker [-@becker1833a: 43] of the complex sentence [@last] with various subordinate clauses, . The term *Eigenschaftssatz* is used for relative clauses, *Bestimmungssatz* for adverbial clauses and *Dingsatz* for complement clauses.
 :::
 
 ## *Periodenbild* and *Satzbild*
 
 ### Diesterweg (1830) *Praktischer Lehrgang für den Unterricht*  {#sec:diesterweg1830}
 
-Freidrich Adolph Wilhelm Diesterweg (1790-1866) was a teacher and a prolific author of textbooks. He also wrote extensively about didactic methods in general, strongly influenced by the ideas of Pestalozzi. Later in life he was politically active in an attempt to reform the Prussian educational system. His practical textbooks mainly dealt with mathematics and German linguistics. A comprehensive analysis of his linguistic work can be found in Czoska [-@czoska1984]. His linguistic proposals did not have much influence on the further development of syntactic analysis, which is unfortunate, because there are a lot of insights hidden there.
+Freidrich Adolph Wilhelm Diesterweg (1790-1866) was a teacher and a prolific author of textbooks. He also wrote extensively about didactic methods in general, strongly influenced by the ideas of Pestalozzi. Later in life he was politically active in an attempt to reform the Prussian educational system. His practical textbooks mainly dealt with mathematics and German linguistics. A comprehensive analysis of his linguistic work can be found in Czoska [-@czoska1984]. His linguistic proposals did not have much influence on the further development of syntactic analysis, which is unfortunate, because there are a lot of useful insights hidden there.
 
 The *Praktischer Lehrgang für den Unterricht in der deutschen Sprache* is a massive three-volume guide for teachers. As it says in the subtitle, it is *ein Leitfaden für Lehrer, welche die Muttersprache naturgemäß lehren wollen* ('a guide for teachers who want to teach the mother tongue in a natural way'). In the current context I will concentrate on the second volume *Die Wortformen und die Satzlehre*. This second volume first appeared in 1830 [@diesterweg1830], but there have been some important changes in the second edition from 1834 [@diesterweg1834]. The third edition from 1838 [@diesterweg1838] and the fourth from 1847 only saw minor changes. I will cite the 1830 and 1834 version where appropriate, but often include references to the 1838 version as well, as this is the highest-quality openly available digital version. For that reasons I have also used the 1838 for the images included here, as they do not change from the 1830 or 1834 versions.
 
 In the preface to the second edition from 1834, Diesterweg calls his approach *Elementarmethode* 'elementary method' (a clear nod to Pestalozzi), in opposition to the *wissenschaftliche oder die constructive Methode* 'scientific or constructive method' [@diesterweg1834: xii-xiii]. As examples of the scientific method he explicitly cites Herling, Becker, Götzinger and Schmitthenner, all of which he deems inappropriate for secondary education. However, the subsequent proposals Diesterweg makes in his book are all clearly inspired by these authors.
 
-In the first edition from 1830, Diesterweg includes a graphical represenation of the intonation contour of a *Periode*, following Götzinger ([@sec:götzinger1827]) and Schmitthenner ([@sec:schmitthenner1828]), shown here in [@fig:diesterweg1830_191] [@diesterweg1830: 191]. He proposes a consistent uses of punctuation marks, with semicolons for sequences of *Beiordung* and colons for the main intonation maximum. With this analysis, Diesterweg follows the approach from Götzinger that each *Periode* has a single maximum.
+In the first edition from 1830, Diesterweg includes a graphical represenation of the intonation contour of a *Periode*, following Götzinger ([@sec:götzinger1827]) and Schmitthenner ([@sec:schmitthenner1828]), shown here in [@fig:diesterweg1838_169] [@diesterweg1830: 191], shown here in the version from the third edition [@diesterweg1838: 169]. Diesterweg proposes a consistent uses of punctuation marks, with semicolons for sequences of *Beiordung* and colons for the main intonation maximum. With this analysis, Diesterweg follows the approach from Götzinger that each *Periode* has a single maximum.
 
-::: {.im #diesterweg1830_191}
-The rhythmical structure of the *Periode* [@diesterweg1830: 191], clearly inspired by Götzinger and Schmitthenner. The structure is actually closest to Götzinger as shown in [@fig:götzinger1827_263], because for Diesterweg each *Periode* only has a single intonation maximum, which is indicated by the colon between two slanted lines. The semicolons are always linking a *Beiordnung* and are accompanied by a horizontal line. When the horizontal lines are left out, the same graphic as found in Götzinger (1827) is obtained.
+::: {.im #diesterweg1838_169}
+The rhythmical structure of the *Periode* [@diesterweg1830: 191; @diesterweg1838: 169], clearly inspired by Götzinger and Schmitthenner. The structure is actually closest to Götzinger as shown in [@fig:götzinger1827_263], because for Diesterweg each *Periode* only has a single intonation maximum, which is indicated by the colon between two slanted lines. The semicolons are always linking a *Beiordnung* and were originally accompanied by a horizontal line [@diesterweg1830: 191]. When the horizontal lines were removed in later editions [e.g. @diesterweg1838: 169 shown here], the same structure as found in Götzinger [-@gotzinger1827: 263] is obtained.
 :::
 
 In the 1830 edition Diesterweg also proposes a notation for subordinated clauses (using a raised star: *) and coordinated clauses (using a the typographic dagger: †). Deeper embedded clauses are marked by repeating these symbols [@diesterweg1830: 188-190]. These symbols are placed at the start of each clause, resulting in examples like [@next], somewhat reminiscent of the use of letters in [@herling1823_233] by Herling.
@@ -243,21 +236,21 @@ In the 1830 edition Diesterweg also proposes a notation for subordinated clauses
 Nicht, \* um dir einen neuen Beweis meiner zärtlichen Sehnsucht zu geben, \*† sondern um feurige Kohlen auf dein feindseliges Haupt zu sammeln, schreibe ich dir noch eineml, † und zwar aus dieser berühmten Handelsstadt (Leipzig), \* welche durch ihre Messen ganz Deutschland mit Waaren aller Art versorgt, \*† und deren Name gleich berühmt ist durch die Leckerbissen, \*\* die sie den Reichen, \*† wie durch Schätze der Gelehrsamkeit, \*\* die sie den Gebildeten liefert. [@diesterweg1830: 189]
 :::
 
-In the 1834 edition Diesterweg replaces these symbolic visualisations with letter sequences based on the proposals by Herling (see [@sec:herling1823]) and Lehmann (see [@sec:lehmann1833]). First, he introduces the abbreviations for different clauses from Herling [-@herling1823], including the superscript numbers for 'deeper' subordinations. However, Diesterweg ignores the meaning of the different letters as proposed by Herling, similar to Lehmann [-@lehmann1833]. Yet, he ignores Lehmann's use of horizontal braces, replacing them with simple commas. The resulting sequence of letters is called *Satzbild* by Diesterweg [-@diesterweg1834: 163, 170], which is the first occurence of this term. However, at another page he uses the term *Periodenbild* with the same meaning [@diesterweg1834: 168-169]. This term was first used by Lehmann [-@lehmann1833].
+In the 1834 edition Diesterweg replaces these symbolic visualisations with letter sequences based on the proposals by Herling (see [@sec:herling1823]) and Lehmann (see [@sec:lehmann1833]). He introduces capital letters for main clauses and lower-case letters for subordinate clauses like Lehmann [-@lehmann1833] using the superscript numbers for 'deeper' subordinations like Herling Herling [-@herling1823]. However, Diesterweg ignores the meaning of the different letters as proposed by Herling, similar to Lehmann [-@lehmann1833]. Also, he ignores Lehmann's use of horizontal braces, replacing them with simple commas. The resulting sequence of letters is called *Satzbild* by Diesterweg [-@diesterweg1834: 163, 170], which is the first occurence of this term. However, at another page he uses the term *Periodenbild* with the same meaning [@diesterweg1834: 168-169]. This term was first used by Lehmann [-@lehmann1833].
 
-Additionally, Diesterweg combines the letter sequences with the graphical representation of the intonation contour [@diesterweg1834: 162-163; -@diesterweg1838: 164-165]. And as an alternative representation, Diesterweg also proposes to use the music-score diagram from Herling [-@herling1828]. Both visualisations are shown in [@fig:diesterweg1834_169] [@diesterweg1834: 169; @diesterweg1838: 171] illustrating the example sentence in [@next]. Just like Diesterweg, I leave it as an exercise to the reader to follow along with the analysis in the figure.
+Additionally, Diesterweg combines the letter sequences with the graphical representation of the intonation contour [@diesterweg1834: 162-163; @diesterweg1838: 164-165]. And as an alternative representation, Diesterweg also proposes to use the music-score diagram from Herling [-@herling1828]. Both visualisations are shown in [@fig:diesterweg1834_169] [@diesterweg1834: 169; @diesterweg1838: 171] illustrating the example sentence in [@next]. Just like Diesterweg, I leave it as an exercise to the reader to follow along with the analysis in the figure.
 
 ::: ex
 Wenn der Mensch allein auf der Erde steht, und alle Herzen, die ihn liebten, in ihr und unter ihr ausgeschlagen haben, und in dem Gewühle der Menge, die ohne Rast nach ihrem Ziele drängt, keiner bei ihm verweilen will; wenn sein Schmerz einsam auf seinem harten Lager stöhnt, und keine Stimme ihm antwortet, als der herzlose Wiederhall; wenn sein thränenloses, glühendes Auge umsonst ein anderes sucht, und seine starre Hand nach einer andern greift, und die Kälte der Menschen ihn noch empfindlicher quält, als die Kälte des Winters in seiner düsteren Kammer: so ist doch in diesem Jammer, den so Viele jammern, noch eines, welches die Dornen des Schmerzes zerdrückt; do ist doch ein Auge, das liebend auf ihm ruht, und eine Hand, die ihn von seinem Strohlager aufrichtet. [@diesterweg1834: 169, citing an example from Friedrich Jacobs]
 :::
 
 ::: {.im #diesterweg1834_169}
-Revised visualisation of the *Periode* from Diesterweg [-@diesterweg1834: 169], exemplified by an analysis of the example sentence in [@last]. The visualisation is based on the ideas from Herling ([@sec:herling1823]) and Lehmann ([@sec:lehmann1833]). First, the intonation contour (on top) is further specified by letter sequences (called *Satzbild* or *Periodenbild* by Diesterweg), which are a blend of the abbreviations used by Herling [-@herling1823] and Lehmann [-@lehmann1833]. Second, as an alternative display, Diesterweg uses the music score approach similar to the proposal by Herling [-@herling1828].
+Revised visualisation of the *Periode* from Diesterweg [-@diesterweg1834: 169], exemplified by an analysis of the example sentence in [@last]. The visualisation is based on proposals from Herling ([@sec:herling1823]) and Lehmann ([@sec:lehmann1833]). First, the intonation contour (on top) is further specified by letter sequences (called *Satzbild* or *Periodenbild* by Diesterweg), which are a blend of the abbreviations used by Herling [-@herling1823] and Lehmann [-@lehmann1833]. Second, as an alternative display, Diesterweg uses the music score approach similar to the proposal by Herling [-@herling1828].
 :::
 
-But Diesterweg is not yet finished. He also proposes a syntactic analysis based on the ideas of Becker (see [@sec:becker1829]). Diesterweg uses an intricate graphical analysis of clause internal structure for *ausgebildete Sätze*, as shown in [@fig:diesterweg1830_174] [@diesterweg1830: 174, 266; -@diesterweg1838: 158, 260]. He uses the distinction between *nackte* 'naked' and *ausgebildete* 'developed' sentences here, which was widespread at the time. The question about the internal structure of a sentence only arises with 'developed' sentences, i.e. with sentences that have additional material other than a bare subject and predicate.
+But Diesterweg is not yet finished. He also proposes a syntactic analysis based on the ideas of Becker (see [@sec:becker1829]). Diesterweg uses an intricate graphical analysis of clause internal structure for *ausgebildete Sätze*, as shown in [@fig:diesterweg1830_174] [@diesterweg1830: 174, 266; @diesterweg1838: 158, 260]. He uses the distinction between *nackte* 'naked' and *ausgebildete* 'developed' sentences here, which was widespread at the time. The question about the internal structure of a sentence only arises with *ausgebildete* 'developed' sentences, i.e. with sentences that have additional material other than a bare subject and predicate.
 
-Diesterweg uses braces, both horizontal and vertical, to indicate groups of words in developed sentences. It is tempting to compare this graphical approach using braces with the analysis of Moritz (see [@sec:moritz1782]). However, there is no indication that there has been any direct influence of Moritz on Diesterweg. It seems more plausible that the use of braces is a parallel development, because large braces is simply one of the few graphical tricks that were available with typesetting at the time.
+Diesterweg uses braces, both horizontal and vertical, to indicate groups of words in developed sentences. It is tempting to compare this graphical approach using braces with the analysis of Moritz (see [@sec:moritz1782]). However, there is no indication that there has been any direct influence of Moritz on Diesterweg. It seems more plausible that the use of braces is a parallel development, because large braces is simply one of the few graphical tricks that were available for typesetting at the time.
 
 Diesterweg does not employ syntactic diagrams with lines, because he restricts line diagrams to the illustration of ~~hierarchical subdivision~~ of grammatical categories, e.g differentiating kinds of plurals [@diesterweg1838: 8], kinds of nouns [@diesterweg1838: 22-23] or kinds of adjectives [@diesterweg1838: 53], and many more such examples through the book. In contrast, a sentence is not an example of hierarchical subdivision, but an example of ~~hierarchical modification~~, which Diesterweg calls *Bestimmung*. It seems plausible that Diesterweg quite consciously avoided the usage of the same visualisation for these two different applications.
 
@@ -277,10 +270,10 @@ Syntactic analysis by diagram of the sentence in [@last] from Diesterweg [-@dies
 
 Diesterweg's visual analysis of [@last], as shown in [@fig:diesterweg1830_174], contains various important syntactic details that have to be inferred from closely inspecting the display:
 
-- The analysis has a subject+predicate basis, as indicated by the dots at the top, linking the subject *Ein Vater* to the predicate *hat sich ausgezeichnet*. This is called the *nackter Satz* by Diesterweg.
-- On the predicate side (to the right), the various adverbial modifiers are simply stacked downwards using horizontal braces, with the actual ordering in the sentence being from bottom to top. Notice the difference in size of the braces, which is meaningful. In contrast, the vertical braces on the right side indicate some kind of constituent subgroupings, although this is not explained in the text.
-- On the subject side (to the left), we also see horizontal braces to indicate modification and vertical braces to indicate groupings. The horizontal braces seem to point towards the head they modify, though this positioning is not always completely accurate.
-- On the subject side (to the left) there is also a single reversed horizontal brace to indicate modification to the whole first part of the noun phrase up to the head noun *Vater*. This is also not explained in the text. It would have been more consistent to use large vertical braces, then the hierarchical structure would have become obvious.
+- The analysis has a subject-predicate basis, as indicated by the dots at the top, linking the subject *Ein Vater* to the predicate *hat sich ausgezeichnet*. This is called the *nackter Satz* by Diesterweg.
+- On the predicate side (to the right), the various adverbial modifiers are simply stacked downwards using horizontal braces, with the actual ordering in the sentence being from bottom to top. Notice the difference in size of the braces, which is meaningful. In contrast, the vertical braces on the right side indicate constituent subgrouping.
+- On the subject side (to the left), we also see horizontal braces to indicate modification and vertical braces to indicate grouping. The horizontal braces seem to point towards the head they modify, though this positioning is not always completely accurate.
+- On the subject side (to the left) there is also a single reversed horizontal brace to indicate modification to the whole first part of the noun phrase up to the head noun *Vater*. It would have been more consistent to use large vertical braces, then the hierarchical structure would have become obvious.
 - There are various small negligent errors, both in the image (the word *lebenden* is omitted) and in the explaining text (where the phrase *unter fremden Menschen* is added).
 
 Diesterweg returns to this syntactic analysis at the end of the book [@diesterweg1830: part 3, chapter nine; @diesterweg1834: part 3, chapter ten] under the heading *Die grammatische Zergliederung der Sätze* [@diesterweg1830: 263]. He first repeats the previously used analysis using braces, but then turns his attention to sentences containing (multiple) subordinate clauses. Without any comment he omits the bracketed analysis and turns to a table-style analysis with numbered words and cross-references, exactly like Becker (see [@sec:becker1829]). Diesterweg probably noticed that the bracketed visualisation becomes exceedingly complex and confusing with more elaborated sentences. However, from his seemless switch between bracketed visualisation and numbered tables it becomes clear that these two approaches are interchangeable in his mind. It is just a matter of practical applicability which system to use in a particular example.
@@ -297,7 +290,7 @@ Second, throughout the discussion of syntax, Diesterweg frequently uses the nome
 >
 > ('The development (*Ausbildung*) happens by modification (*Bestimmung*) of the individual parts of the clause. In general, we will call such words, that further modify parts of the main clause, modifiers (*Bestimmer*).')
 
-In summary, the grammatical analysis of Diesterweg is a complex tour-de-force, combining insights from various scholars of the preceding decade, synthesising everything into a coherent and visually appealing package. Additionally, he attempts to make the grammatical analysis practically useful for application in the classroom. Many ideas proposed in his book feel rather modern and might have kickstarted a fruitful dicussion about syntactic analysis. Unfortunately, Diesterweg's *Lehrgang* does not seem to have had much impact on the further development of linguistics in general, nor specifically on linguistic education. The development of grammatical analysis in Germany will from here on proceed taking baby steps, instead of leaping ahead like Diesterweg demonstrated.
+In summary, the grammatical analysis of Diesterweg is a complex tour-de-force, combining insights from various scholars of the preceding decade, synthesising everything into a coherent and visually appealing package. Additionally, he attempts to make the grammatical analysis practically useful for application in the classroom. Many ideas proposed in his book feel rather modern and might have kickstarted a fruitful dicussion about syntactic analysis. Unfortunately, Diesterweg's *Lehrgang* does not seem to have had much impact on the further development of linguistics in general, nor specifically on the establishment of linguistic education. From here on, the development of grammatical analysis in Germany will proceed taking baby steps, instead of leaping ahead like Diesterweg demonstrated to be possible.
 
 ### Billroth (1832) *Lateinische Syntax* {#sec:billroth1832}
 
@@ -494,6 +487,12 @@ Kern cites Hoffmann [@kern1888], but only in the second edition after he already
 Carl Friedrich Nägelsbach (1806-1859)
 
 graphical *Periode* citing Lehmann [@nagelsbach1846: 281ff.]
+
+### Fürg (1847) *Satz und Styllehre*
+
+Johann Baptist Fürg (1802-1863) teacher in München
+
+fourth edition, unclear first edition. Numbered tables like becker [@furg1847: vi-viii]
 
 ### Bauer (1850) *Neuhochdeutsche Grammatik* {#sec:bauer1850}
 
