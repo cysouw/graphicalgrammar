@@ -16,21 +16,17 @@ The term *Periode* as a grammatical term for the complex sentence is widespread 
 
 In German grammars of the 18th and 19th Century there is a widespread conceptual distinction between a bare and an extended sentence. A bare sentence is mostly defined as a sentence with only a subject and a predicate without any attributive or adverbial modifiers; a minimal sentence of sorts. The examples given always have intransitive verbs and it remains unclear whether transitive sentences also could be "bare". An extended sentence, in contrast, contains additional modifiers, though subordinate clauses are mostly relegated to yet further categories of sentence structure. This distinction is mostly referred to using the German words *nackt* 'naked' vs. *ausgebildet* 'developed'. However, there is some interesting variations and discussion throughout the 19th Century about exactly which word should be used.
 
-The origin of this terminological distinction can probably be traced back to Meiner [-@meiner1781: 446], who uses the terms *bloß* 'bare' for a minimal sentence and *ausgebildet* 'developed' for a sentence with additional modifiers. Contemporaneously, Adelung [-@adelung1782: 572] uses the terms *einfach/nackt* 'simple/naked' and *ausgebildet* 'developed'. This terminology is slightly changed in the first edition of Heyse's grammar of German [@heyse1814: 492-492] into *einfach/rein* 'simple/pure' and *ausgebildet/erweitert* 'developed/extended'. Then Heyse adjusted this again in the second edition by adding the term *nackt* 'naked, bare' as an alternative to *einfach* and *rein* [@heyse1820: 598]. Finally, in the fourth edition of 1827 Heyse adds the term *bekleidet* 'dressed': 
+The origin of this terminological distinction can probably be traced back to Meiner [-@meiner1781: 446], who uses the terms *bloß* 'bare' for a minimal sentence and *ausgebildet* 'developed' for a sentence with additional modifiers. Contemporaneously, Adelung [-@adelung1782: 572] uses the terms *einfach/nackt* 'simple/naked' and *ausgebildet* 'developed'. This terminology is slightly changed in the first edition of Heyse's influential grammar of German [@heyse1814: 492-492] into *einfach/rein* 'simple/pure' and *ausgebildet/erweitert* 'developed/extended'. Then Heyse adjusted this again in the second edition by adding the term *nackt* 'naked, bare' as an alternative to *einfach* and *rein* [@heyse1820: 598]. Finally, in the fourth edition of 1827 Heyse adds the term *bekleidet* 'dressed': 
 
 > Solche Sätze […] kann man ~~ausgebildete~~, erweiterte, oder (im Gegensatze zu den nackten) ~~bekleidete~~ Sätze nennen. [@heyse1827: 636]
 > 
 > ('Such sentences can be called "developed", "extended" or (opposite to "naked") "dressed" sentences.')
 
-The term *bekleidet* leads to a lot of discussion, because of the sexual connotations. The term *nackt* is not so much the problem, because this word in general is used to refer to situation without cover, like *nackter Boden* 'bare floor', and is also regularly used metaphorically, like in *nackte Angst* 'sheer terror'. So, in opposition to the words *ausgebildet* or *erweitert* there is no sexual connotation with the usage of the word *nackt*. However, in opposition to the word *bekleidet* 'dressed' the meaning of the word *nackt* suddenly obtains a clearly sexual connotation, clearly meaning 'nude'. Some authors seem to find this funny and probably consider it a good way to motivate students, while others strongly object to this as 
+The term *bekleidet* leads to a lot of discussion, because of the sexual connotations. The term *nackt* is not so much the problem, because this German word in general is used to refer to situation without cover, like *nackter Boden* 'bare floor', and it is also regularly used metaphorically, like in *nackte Angst* 'sheer terror'. So, there is no sexual connotation with the usage of the word *nackt* when used in opposition to the words *ausgebildet* or *erweitert*. However, in opposition to the word *bekleidet* 'dressed' the meaning of the word *nackt* suddenly obtains a strong sexual connotation, clearly meaning 'nude'. Some authors [e.g. @billroth1834; @gotzinger1835] use *bekleidet*, maybe because they find it funny and consider it a nice joke to motivate students, while others strongly object to this choice of words as being vulgar, or at least tasteless.
 
-usage: billroth, götzinger
-
-against
+> Man nennt solche Sätze, welche nur die wesentlichen (Haupt-) Satztheile enthalten, ~~nackte~~, und solche, welche auch noch andere Theile enthalten, (nicht: ~~bekleidete~~, sondern) ~~ausgebildete~~ oder erweiterte Sätze. [@diesterweg1830: 166]
 
 > Von nackten und bekleideten Sätzen zu reden ist geschmacklos, von nackten und erweiterten ist nicht viel geschmackvoller und enthält außerdem einen schiefen Gegensatz, den man in keiner Schülerarbeit dulden würde. [@kern1883: 5]
-
-> Man nennt solche Sätze, welche nur die wesentlichen (Haupt-) Satztheile enthalten, ~~nackte~, und solche, welche auch noch andere Theile enthalten, (nicht: ~~bekleidete~~, sondern) ~~ausgebildete~~ oder erweiterte Sätze. [@diesterweg1830: 166]
 
 ## Preliminary groundwork
 
@@ -308,14 +304,9 @@ In summary, the grammatical analysis of Diesterweg is a complex tour-de-force, c
 
 At the end of his short life, Johann Gustav Willhelm Billroth (1808-1836) became professor for religion at the university in Halle. Before that, between his *Habilitation* in Leipzig in 1830 and the start of his position in Halle in 1834, he worked as a teacher for latin [@alwast2000]. In that context he wrote two latin grammars for use in schools, first the *Lateinische Syntax für die obern Klassen gelehrter Schulen* [@billroth1832], later followed by the *Lateinische Schulgrammatik für alle Klassen* [@billroth1834].
 
-In these grammars there is a single graphical display of a grammatical structure, shown below in [@fig:billroth1832_102] [@billroth1832: 102]. There is not much known about the grammatical background of Billroth, nor is there any explicit indication in his books about the inspiration for drawing a grammatical analysis. As he was active as a school teachter, he might very well have been aware of Becker [-@becker1829, see [@sec:becker1829]] or Diesterweg [-@diesterweg1830, see [@sec:diesterweg1830]], both of which might be inspiration for Billroth's graphical display.
+In these grammars there is a single graphical display of a grammatical structure, shown below in [@fig:billroth1832_102] [@billroth1832: 102]. There is not much known about the grammatical background of Billroth, nor is there any explicit indication in his books about the inspiration for drawing a grammatical analysis. As he was active as a school teachter, he might very well have been aware of Becker [-@becker1829, see [@sec:becker1829]] or Diesterweg [-@diesterweg1830, see [@sec:diesterweg1830]], both of which might be inspiration for Billroth's graphical display. One (minor) argument that Billroth was inspired by Diesterweg is that Billroth uses the term *bestimmter Satz* as an alternative to *bekleideter Satz* [@billroth1832: 97], and the noun *Bestimmung* in the meaning of modifier [@billroth1832: 126-127]. Diesterweg very extensively used the nound *Bestimmung* but also *Bestimmer*, which is not found in Billroth. It is possible that Billroth just used these words out of his own inspiration, but the usage is idiosyncrativ enough to be notewhorthy.
 
-
-There are some indications that Billroth was influenced by Heyse's grammar of German (see below), specifically the fourth edition [@heyse1827]. However, the idea of drawing a sentence structure is nowhere to be found in Heyse's work, so this approach seems to be a genuinly new idea of Billroth.
-
-The influence of Heyse on Billroth can be inferred by the usage of the peculiar tripartite basic sentence structure of subject, predicate and copula. Even more clearly, Heyse's influence is indicated by the metaphor of the *nackte* 'naked' and *bekleidete* 'dressed' sentence. 
-
-In Billroth's syntax, the whole discussion of the structure of the  sentence takes 11 pages [@billroth1832: 91-102]. The structure of the text is really difficult to follow, although on closer inspection there is a clear drawn-out organisation. First, he introduces the simple 'naked' sentence as option *A*:
+In Billroth's syntax, the whole discussion of the structure of the sentence takes 11 pages [@billroth1832: 91-102]. The structure of the text is really difficult to follow, although on closer inspection there is a clear, but drawn-out organisation. First, he introduces the simple 'naked' sentence as option *A*:
 
 > Ein Satz ist entweder: A. ein einfacher (oder nackter) d.h. ein solcher, welcher bloß aus Subject, Prädicat und Copula besteht. [@billroth1832: 91] 
 > 
@@ -338,30 +329,30 @@ Miltiades, dux Atheniensium, toti Graeciae libertatem paene oppressam in pugna a
 :::
 
 ::: {.im #billroth1832_102}
-Graphical sentence analysis of [@last] from Billroth [-@billroth1832: 102].
+Graphical sentence analysis of [@last] from Billroth [-@billroth1832: 102]. Note the horizontal depiction of the subject-predicate pairing and all modifiers hanging down from them. This structure is rather similar to Diesterweg's [@fig:diesterweg1830_174], but the usage of lines instead of braces is different.
 :::
 
-Interpreting his graphical illustration in more detail, the naked sentence is depicted by a horizonal line, while the additional elements of the "dressed" sentence are all shown as vertical/slanted lines. Billroth very clearly intends the vertical lines to represent some kind of dependency, with multiple levels of modification being illustrated by subsequent vertical lines.
+Interpreting his graphical illustration in more detail, the naked sentence is depicted by a horizonal line, while the additional elements of the "dressed" sentence are all shown as vertical/slanted lines. Billroth very clearly intends the vertical lines to represent some kind of dependency, with multiple levels of modification being illustrated by subsequent vertical lines. The structure of the graphic is quite similar to Diesterwegs proposal in [@fig:diesterweg1830_174], but with lines instead of curly braces.
 
 Exactly the same approach with the same picture is found in his extended grammar written two years later [@billroth1834: 332-333]. After Billroth's early death this grammar has seen various new editions. The second edition of 1838 is prepared by Friedrich Ellendt and uses exactly the same figure [@billroth1838: 329]. However, in the third edition, the picture is changed, erroneously, and has become completely incomprehensible, cf. [@fig:billroth1848_358] [@billroth1848: 358]. Ellendt possibly did not completely understand what the figure is supposed to represent.
 
 ::: {.im #billroth1848_358}
-Revision from 1848
+Revision of the graphical analysis in [@fig:billroth1832_102] from the 1848 revision on the auspices of Friedrich Ellendt [@billroth1848: 358]. Instead of lines there are braces, and the structure of the braces is completely incomprehensible and in places clearly wrong.
 :::
 
-Billroth's grammar has an interesting afterlife, but unfortunately without any further development of his graphical innovation. Friedrich Ellendt writes a different grammer for younger students based on Billroth's model, called *Lateinische Grammatik für die unteren Klassen der Gymnasien*. The discussion of *bekleidete oder erweitete Sätze* is very similar to Billroth's, but it has different examples and it does not have a picture anymore [@ellendt1838: 115-116]. After the death of Ellendt, that grammar is in turn adapted by Moritz Seyffert as *Dr. Friedrich Ellendt's Lateinische Grammatik für die unteren und mittleren Klassen der höheren Unterrichtsanstalten*. This grammar has seen very many revisions, editions and reprints under the heading *Ellendt-Seyfferts lateinische Grammatik* far into the 20th Century. However, Seyffert was not very impressed by the syntactical analysis of Billroth (as noted in the preface of his revision), and he revised the discussion of syntax wholesale.
+Billroth's grammar has an interesting afterlife, but unfortunately without any further development of his graphical innovation. Friedrich Ellendt writes a different grammer for younger students based on Billroth's model, called *Lateinische Grammatik für die unteren Klassen der Gymnasien*. The discussion of *bekleidete oder erweitete Sätze* is very similar to Billroth's, but it has different examples and it does not have a picture anymore [@ellendt1838: 115-116]. After the death of Ellendt, that grammar is in turn adapted by Moritz Seyffert as *Dr. Friedrich Ellendt's Lateinische Grammatik für die unteren und mittleren Klassen der höheren Unterrichtsanstalten*. This grammar has seen very many revisions, editions and reprints under the heading *Ellendt-Seyfferts lateinische Grammatik* far into the 20th Century. However, Seyffert was not very impressed by the syntactical analysis of Billroth (as noted in the preface of his revision), and he rewrote the discussion of syntax wholesale.
 
-On a more positive note, Billroth's graphical display had a direct influence on Julius Hoffmann (see [@sec:hoffmann1839]), but also that incarnation of graphical grammar did not catch on. One could speculate whether there is any influence from either Billroth or Hoffmann on the graphical analysis of Franz Kern (see [@sec:kern1883]), but there is little evidence for that.
+On a more positive note, Billroth's grammar had a direct influence on Julius Hoffmann (see [@sec:hoffmann1839]), and Hoffmann is quoted indirectly by Franz Kern (see [@sec:kern1883]). So it seems very plausible that Billroth's line diagram was a seed that grew slowly but surely.
 
 ### Lehmann (1833) *Allgemeiner Mechanismus des Periodenbaues* {#sec:lehmann1833}
 
 Johann August Otto Leopold Lehmann (1802-1883) worked as a teacher in Danzig (Gdańsk) and later as a school principal in Marienwerder (Kwidzyn). In this context, he prepared various educational textbooks, mainly consisting of literary commentaries, but also including songbooks, dialect analyses and some works on local history. Early in his career he wrote a linguistic treatise about the structure of the complex sentence: *Allgemeiner Mechanismus des Periodenbaues, nebst einem Versuche, an ihn eine Kritik der deutschen Periode anzuknüpfen* [@lehmann1833]. His approach to the analysis of complex sentences is based on the work of Herling (see [@sec:herling1823]), who is explicitly cited as a source of inspiration [@lehmann1833: xv-xvi]. 
 
-In the title of his book, Lehmann uses the term *Periode*, which is a term also used by Herling. This term stems from the domain of rhetoric and roughly indicates a coherent and well-structured utterance. Continuing the tradition of Herling, Lehmann uses the term *Periode* to designate a complex sentence that consists of multiple clauses. Herling already introduced symbolic abbreviations for different kinds of clauses (see [@sec:herling1823]), but Lehmann takes this a step further and proposes a comprehensive visualization of the structure of a complex sentence, which he calls a *Periodenbild*.
+In the title of his book, Lehmann uses the term *Periode*, which is a term also used by Herling. This term stems from the domain of rhetoric and roughly indicates a coherent and well-structured utterance. Continuing the tradition of Herling, Lehmann uses the term *Periode* to designate a complex sentence that consists of multiple clauses. Herling introduced symbolic abbreviations for different kinds of clauses (see [@sec:herling1823]), but Lehmann takes this a step further and proposes a comprehensive visualization of the structure of a complex sentence, which he calls a *Periodenbild*.
 
 > [Die] innere Anschauung der Periode soll als auf äußere Anschauung begründet dargestellt werden. Die äußere Anschauung aber findet ihr Objekt in Bildern, welche das Skelet der Perioden wiedergeben. Ich nenne dies Periodenskelet ~~Anschauungsbild der Periode~~ oder ~~Periodenbild~~ schlechtweg. [@lehmann1833: xiv]
 > 
-> ('The internal structure of the *Periode* will be depicted based on the outward appearance. The outward appearance shows itself as a picture, which reflects the skeleton of the *Periode*. I simply call this *Periode*-skeleton an ~~image of the Periode~~ or a ~~Periode-picture~~.') 
+> ('The internal structure of the *Periode* will be depicted based on the outward appearance. The outward appearance shows itself as a picture, which reflects the skeleton of the *Periode*. I simply call this *Periode*-skeleton an image of the *Periode* or a *Periodenbild*.') 
 
 For the visualization of a *Periodenbild* Lehmann distinguishes three different kinds of subordination, indicated by different symbolic devices as shown in [@fig:lehmann1833_58] [@lehmann1833: 58]. These three notations basically indicate a subordinate position after (1), before (2) and internal (3) to the superordinate clause, respectively. More precisely, 
 
@@ -402,31 +393,37 @@ The different clauses in [@fig:lehmann1833_126] are listed below, exactly as it 
 - **secondary subordinate clause *β*, following *d*:** *wobei der Erzieher dadurch* [clause *𝔄* internal] *diese Annehmlichkeit nochmals genießt*
 - **tertiary subordinate clause *𝔄*, internal to *β*:** *daß er sich selber gleichsam zum Kinde macht*
 
-Although Lehmann's book does not appear to have been reprinted after the first edition from 1833, it has influences later more widely read works by Götzinger (see [@sec:götzinger1836]) and Bauer (see [@sec:bauer1850]), whose graphical displays will be reprinted up to 1935. Götzinger's acknowledgement indicates that Lehmann's approach might have had some real influence in didactic circles, although it has not endured to the present day:
+Although Lehmann's book does not appear to have been reprinted after the first edition from 1833, it has influenced later more widely read works by Götzinger (see [@sec:götzinger1836]) and Bauer (see [@sec:bauer1850]), whose graphical displays will be reprinted up to 1935. Götzinger's acknowledgement indicates that Lehmann's approach might have had some real influence in didactic circles, although it has not endured to the present day:
 
 > *Die von Herrn Director Lehmann in Marienwerden zuerst aufgestellten Periodenbilder haben bei vielen Schulmännern Beifall und Anwendung gefunden, und es macht mir große Freude, durch meine Lehrbücher zur Verbreitung dieser Methode, deren Verdienst ganz allein Herrn Lehmann gebührt, beigetragen zu haben.* [@gotzinger1842: x, Vorrede zur fünften Auflage]
 >
 > ('The *Periodenbilder*, first drawn by director Lehmann from Marienwerder, have been praised and employed by many Schoolmen, and I am delighted through my textbooks to have contributed to the wider circulation of this method, the credit to which completely befits Mr. Lehmann.')
 
-Later application: [@lehmann1852: 152-180]. Very complex examples!
+Lehmann himself remained active and used his system in various later publications. First, he used it in *Goethe's Sprache und ihr Geist* [@lehmann1852: 152-180] to analyse sentences by Goethe, which includes very complex examples of his notation. Surprisingly, Lehmann is regularly quite critical of Goethe and uses his notation to argue for the imbalanced sentence structure, for example [@next] as analysed in [@fig:lehmann1852_171].
 
-Later Lehmann writes *Sprachliche Studien über das Nibelungenlied* [@lehmann1856; @lehmann1857], Jahresbericht Gymnasium Marienwerder, citing Götzinger and Nägelsbach. Instead of the vertical schema, he uses the comma as simplification (footnote on p.8)
+> Schon das Bilde dieser Periode zeigt deren Uebelstände. Erstlich die große Masse der Sätze, zweitens der Mangel an Ebenmaß theils zwischen den koordinirten Hauptsätzen theils zwischen den koordinirten Nebensätzen, drittens die Vorherrschaft des Anfügungsgesetzes. [@lehmann1852: 171-172]
+>
+> ('Alreade the image of this *Periode* shows its foul nature. First, the large number of sentences, second the lack of balance, partly beteen the coordinated main clauses, partly between the coordinated subordinated clauses, third the dominance of the *Anfügungsgesetz*')
+
+::: ex
+Wilhelm hatte während der Zeit seiner Regie das ganze Geschäft mit einer gewissen Freiheit und Liberalität behandelt, vorzüglich auf die Sache gesehen und besonders bei Kleidungen, Dekorationen und Requisiten alles reichlich und anständig angeschafft, auch, um den guten Willen der Leute zu erhalten, ihrem Eigennutze geschmeichelt, da er ihnen durch edlere Motive nicht beikommen konnte; und er fand sich hierzu um so mehr berechtigt, als Serlo selbst keine Ansprüche machte, ein genauer Wirt zu sein, den Glanz seines Theaters gerne loben hörte und zufrieden war, wenn Aurelie, welche die ganze Haushaltung führte, nach Abzug aller Kosten versicherte, daß sie keine Schulden habe, und noch soviel hergab, als nötig war, die Schulden abzutragen, die Serlo unterdessen durch außerordentliche Freigebigkeit gegen seine Schönen und sonst etwa auf sich geladen haben mochte. (J.W. Goethe *Wilhelm Meisters Lehrjahre*)
+:::
+
+::: {.im #lehmann1852_171}
+*Periodenbild* for the sentence in [@last] from Goethe's *Wilhelm Meisters Lehrjahre* as analysed by Lehmann [-@lehmann1852: 171-172]. Lehmann is quite critical of the large size and the imbalance of the whole construction.
+:::
+
+Later Lehmann writes *Sprachliche Studien über das Nibelungenlied* [@lehmann1856; @lehmann1857] in which he again uses his system to analyse classical German literature. In the introduction he cites Nägelsbach [@lehmann1856: 4] and Götzinger [@lehmann1856: 7] and follows Nägelsbach simplification to use a comma instead of the horizontal brace [@lehmann1856: 8].
+
+These two examples of the application of the scheme on actual literary texts inspired many philological analyses in the decades to come. For example, via the *Repetitorium* of Menge (see [@sec:menge1873]) there is a direct line to the 1969 dissertation on the *Amadisroman* from Langholf (see [@sec:langholf1969]) using similar graphical analyses as Lehmann.
 
 ### Götzinger (1836) *Die deutsche Sprache* {#sec:götzinger1836}
 
+Maximilian Wilhelm Götzinger (1799–1856) was a teacher of German, most of his life working in Schaffhausen (Switzerland). He wrote extensively about grammar, literature and dialectology, see Olsson [-@olsson2009] for an comprehensive appraisal of his work. Besides his didactic writings, Götzinger also provided material for Grimm's dictionary project [@olsson2009: 37] and he was even awarded a doctorate *honoris causa* from the University of Basel in 1838 [@olsson2009: 36], probably through his personal contact with Wilhelm Wackernagel (the father of Jacob Wackernagel of *Wackernagel's law*-fame).
 
+Götzinger's early textbooks were already mentioned in [@sec:götzinger1827]. However, these early books did not contain any graphical analyses of sentences. Then, a decade after the first editions of his textbooks, Götzinger wrote his magnum opus *Die deutsche Sprache und ihre Literatur* [volume one -@gotzinger1836; volume two -@gotzinger1839]. This book includes various graphical analyses, which are clearly inspired by the *Periodenbilder* from Lehmann (see [@sec:lehmann1833]). Götzinger does not explicitly cite Lehmann as his inspiration for the graphical display, but he mentions Lehmann's *vortreffliches Buch* ('excellent book') in a different context [@gotzinger1839: 217]. In a later preface to a different book he explicitly explains how he adapted and extended Lehmann's display [@gotzinger1842: vi].
 
-Originally, the early books did not contain any graphical analyses of sentences. A few years later, when revising his didactic grammars once again, he included graphical displays as discussed below, both in the fifth edition of the *Deutsche Sprachlehre* [@gotzinger1842: 222-226, 287-291] and in the fifth edition of the *Anfängsgründe* [@gotzinger1845: 236-242].
-
-3rd edition of *Sprachlehre* cites the influence of Lehmann [@gotzinger1835: xiii-xiv] and applies his graphical analysis to clause structure. Section *Stellungen der Bekleidung* [@gotzinger1835: 243-248] and *Stellung der Nebensätze* [@gotzinger1835: 310-315]
-
-He uses term *Periodenbild* [@gotzinger1839: 395; @gotzinger1842: 307-311] just like Lehmann. Term *Satzbild* only introduced by Bauer?
-
-A decade after the first editions of his textbooks Götzinger writes his magnum opus *Die deutsche Sprache und ihre Literatur* [volume one -@gotzinger1836; volume two -@gotzinger1839]. This book includes various graphical analyses, which are clearly inspired by the *Periodenbilder* from Lehmann (see [@sec:lehmann1833]). Götzinger does not explicitly cite Lehmann as his inspiration for the graphical display, but he mentions Lehmann's *vortreffliches Buch* ('excellent book') in a different context [@gotzinger1839: 217]. In a later preface to a different book he explicitly explains how he adapted and extended Lehmann's display [@gotzinger1842: vi].
-
-Summarising, Lehmann (see [@sec:lehmann1833]) used a capital letter for a main clause and lower-case letters for subordinate clauses. Depending on position, there are three different methods to depict subordination. First, a subordinate clause in front of the main clause is separated by a colon. Second, a subordinate clause after the main clause is written below the main clause with a horizontal brace. Third, a clause-internal subordinate clause is written in round brackets.
-
-Lehmann used his graphical method only for subordinated clauses, but Götzinger argues that the same idea of subordination (*Unterordnung*) can be used for other kinds of linguistic structure as well. Consequently, Götzinger uses Lehmann's notation also for (i) syllabic structure, (ii) clause-internal structure and (iii) clause subordination.
+Lehmann originally used his graphical method only for main and subordinated clauses, but Götzinger argues that the same idea of subordination (*Unterordnung*) can be used for other kinds of linguistic structure as well. Consequently, Götzinger uses Lehmann's notation also for (i) syllabic structure, (ii) clause-internal structure and (iii) clause subordination.
 
 > Auf diese Weiße ordnet die Sprache bei allen Vorgängen den jedesmaligen Stoff so, daß ein Theil desselben als untergeordnet erscheint, in der Silbe die Laute, im Worte die Silben, im Satze die Worte, in der Periode die Sätze. [@gotzinger1836: 15]
 > 
@@ -461,18 +458,24 @@ subordination: 364-367, 371, Periode: 374-403
 coordination (*Beiordnung*) with an equal sign (p.366)
 He observes, that with multiple subordinate clauses there are examples that appear to have an empty second part of the main predicate, or, in modern terminology, an empty *rechte Satzklammer*. He uses a dash to indicate such zeros. (p.381)
 
+A few years later, when revising these didactic grammars once again, he included graphical displays as discussed below, both in the fifth edition of the *Deutsche Sprachlehre* [@gotzinger1842: 222-226, 287-291] and in the fifth edition of the *Anfängsgründe* [@gotzinger1845: 236-242]. The third edition of *Sprachlehre* cites the influence of Lehmann [@gotzinger1835: xiii-xiv] and applies his graphical analysis to clause structure. Section *Stellungen der Bekleidung* [@gotzinger1835: 243-248] and *Stellung der Nebensätze* [@gotzinger1835: 310-315]. Götzinger consequently uses term *Periodenbild* [@gotzinger1839: 395; @gotzinger1842: 307-311] just like Lehmann.
+
+
 ### Hoffmann (1839) *Neuhochdeutsche Schulgrammatik* {#sec:hoffmann1839}
 
 Karl August Julius Hoffmann (1812-1869)
 
-[@hoffmann1839]
+https://de.wikipedia.org/wiki/Julius_Hoffmann_(Pädagoge)
+
+*Schulgrammatik* is the more extensive work, *Elementargrammatik* is sort-of a summary. contains the same image [@hoffmann1856: 80, 109] (fourth edition, first edition not digitally available)
+
+Schulgrammatik: [@hoffmann1839]
 
 "Unter den Grammatiken der fremden Sprachen verdanke ich der Lateinischen von Billroth am meisten." (p. xiii)
 
 nackter und umkleideter Satz 146-148
 
 complex sentence p. 224
-
 
 second edition [@hoffmann1853], basic example the same, on p. 137
 
@@ -589,7 +592,7 @@ Periode like Lehmann, §194-195, cited here in the 3rd edition [@wetzel1871: 312
 
 Almost identical, just a bit shorter and streamlined, in *Leitfaden*, first edition 1868 [@wetzel1868: 182], also in the 46th edition [@wetzel1871: 223-224]
 
-### Menge (1873) *Repetitorium der lateinischen Syntax und Stilistik*
+### Menge (1873) *Repetitorium der lateinischen Syntax und Stilistik* {#sec:menge1873}
 
 Hermann August Menge (1841-1939), teacher and translator of the infamous *Menge-Bibel*. Based on his practical teaching experience, he wrote textbooks for Latin and Greek. The Latin textbook is still in use today, though in a slightly revised version [e.g. a 1955 edition is cited in @langholf1969: 10].
 
@@ -603,7 +606,7 @@ Theodor Gelbe (1837-1892), Realschuldirektor in Stollberg. Satzbild like Götzin
 
 Josef Diringer (1878-1883) Ordinarius für Deutsch, Latein und Griechisch in Eichstätt
 
-practical application in second half of the book [@diringer1878: 42-60] using separate lines for subordination
+practical application in second half of the book [@diringer1878: 42-60] using separate lines for subordination, like music notation
 
 Further development of *Periodenbild* citing Bauer, Lehmann and Götzinger (and Becker, Herling, but there does not seem to be any links as for the graphics)
 
@@ -615,7 +618,8 @@ Franz Esser (Oberlehrer Gymnasium Weissenburg) citing Götzinger, but using dash
 
 Daniel Sanders (1819-1897) https://de.wikipedia.org/wiki/Daniel_Sanders_(Lexikograf)
 
-Satzbild, probably Hoffmann [@sanders1879]
+Satzbild [@sanders1879]
+Periode: 228 and various more
 
 ### Blatz (1880) *Neuhochdeutsche Grammatik*
 
@@ -629,6 +633,14 @@ Karl Zettel (1831-1904), Gymnasium Regensburg, Satzbild like Götzinger [@zettel
 ### Kern (1883) *Methodik des deutschen Unterrichts* {#sec:kern1883}
 
 Franz Kern (1830-1894) [@kern1883]
+
+"ein Beckersches Formwort" (p70)
+cites "Hoffmann in seiner Neuhochd. Elementargramm." (p57)
+cites "Sanders Lehrbuch der deutschen Sprache für Schulen" (p43)
+
+Kern cites Hoffmann [@kern1888], but only in the second edition after he already published his "tree" metaphors. The idea for the "trees" is already in "Satzlehre", finished in December 1882, and practically applied in "Methodik" of 1883.
+
+"So steht in der von Erdmann mit Recht gelobten Grammatik von Hoffmann" (1888: 159)
 
 Influence from Götzinger? [@forsgren1998: 63] only circumstantial evidence
 
@@ -742,7 +754,7 @@ cited second edition [@muller1922: 49] one tree example like Kern, with verb on 
 
 Deutsche Sprachkunde in der Arbeitsschule, Leipzig 1923
 
-### Langholf (1969) *Die Syntax des deutschen Amadisromans*
+### Langholf (1969) *Die Syntax des deutschen Amadisromans* {#sec:langholf1969}
 
 [@langholf1969: 10] own version of Periodenbau, cites Menge as inspiration!
 
