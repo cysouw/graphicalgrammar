@@ -429,7 +429,7 @@ Lehmann originally used his graphical method only for main and subordinated clau
 > 
 > ('Accordingly, language arranges the particular content in all occurrences in such a way that one part of it appears as subordinated: with syllables the sounds, with words the syllables, with clauses the words, with sentences the clauses.')
 
-First, for the analysis of the syllable, Götzinger [-@gotzinger1836: 221-224] uses the capital letter for the vowel as the centre of the syllable (*Träger und Mittelpunkt der Silbe*) and lower-case letters for the consontants as dependent on the vowel (*erscheint stets als untergeordnet*). As long as the syllabic structure is according to the sonority hierarchy (*musikalisches Gesetz*), it can be described as (multiple) prefixal and suffixal subordinations, as illustrated in [@fig:götzinger1836_223]. Extrasyllabic initial *s* and affricate codas *ps*, *tsch* and *chs* are illustrated with different structures not repeated here [@gotzinger1836: 224].
+First, for the analysis of the syllable, Götzinger [-@gotzinger1836: 221-224] uses the capital letter for the vowel as the centre of the syllable (*Träger und Mittelpunkt der Silbe*) and lower-case letters for the consontants as dependent on the vowel (*erscheint stets als untergeordnet*). As long as the syllabic structure is according to the sonority hierarchy (*musikalisches Gesetz*), it can be described as (multiple) prefixal and suffixal subordinations, as illustrated in [@fig:götzinger1836_223]. Extrasyllabic initial *s* and affricate codas *ps*, *tsch* and *chs* are illustrated with different structures not shown here [@gotzinger1836: 224].
 
 > In der Regel findet bei der Gliederung der Silbe durch fortschreitende Unterordnung der Elemente ein Schwellen und Sinken, ein Steigen und Fallen, ein Crescendo und Decrescendo statt; d.h. die Silbe fängt mit dem lautlosesten Element an, geht zu dem tönenenden über, gelangt zur eigentlichen Stimme, und geht nun denselben Weg wieder abwärts, so daß mithin in jeder auf diese Weiße gebaute Silbe ein völlig musikalisisches Gesetz statt findet. [@gotzinger1836: 222]
 > 
@@ -439,11 +439,11 @@ First, for the analysis of the syllable, Götzinger [-@gotzinger1836: 221-224] u
 Syllables with a structure in accordance to the sonority hierarchy [@gotzinger1836: 223] have a vowel as nucleus (capital letter) and possibly multiple 'subordinate' consonants in the onset (lower-case letters separated horizontally with colons) and the coda (lower-case letters separated vertically with braces).
 :::
 
-Second, for the analysis of the internal structure of a clause, Götzinger proposes to use the same notation [@gotzinger1839: 159-162]. A few examples are shown in [@fig:götzinger1839_161]. The capital letter now refers to the verb and the lower-case letters refer to the constituents. Götzinger calls the lower-cased elements *Bekleidung* (cf. the discussion in [@sec:billroth1832]). Today a German grammar would call them *Satzglied*. The German main clause structure with two verb positions is indicated by a repeated capital letter, called *trennbare Zusammensetzung* by Götzinger [-@gotzinger1839: 160]. Similar terminology can still be found in contemporaneous German grammars.
+Second, for the analysis of the internal structure of a clause, Götzinger proposes to use the same notation [@gotzinger1839: 159-162]. A few examples are shown in [@fig:götzinger1839_161]. The capital letter now refers to the verb and the lower-case letters refer to the constituents. Götzinger calls the lower-cased elements *Bekleidung*. Today a German grammar would call them *Satzglied*. The German main clause structure with two verb positions is indicated by a repeated capital letter, called *trennbare Zusammensetzung* by Götzinger [-@gotzinger1839: 160]. Similar terminology can still be found in contemporaneous German grammars.
 
 Relative to the main verb, the three possible positions of the *Bekleidung* (i.e. before, in between and after the verb) are called *Voraussendung, Anfügung, Einschiebung*, respectively [@gotzinger1839: 160]. They are indicated with a colon, a horizontal brace and round brackets in the tradition of Lehmann (see [@sec:lehmann1833]), who calls them *Vorausschickung, Anfügung* and *Einschaltung*. Today a German grammar would say *Vorfeld, Nachfeld* and *Mittelfeld*. Götzinger also observes one of the main generalisation of German main clause structure, namely that the *Voraussendung/Vorfeld* never consists of more than one *Bekleidung/Satzglied*. 
 
-> Mag also die Stellung der Bekleidung in jenem Satze seyn, wie sie will, immer wird nur das Bild entstehen [mit einer Voraussendung]. Niemals kann die Folge vorkommen [mit mehreren Voraussendungen]. [@gotzinger1839: 162]
+> Mag also die Stellung der Bekleidung in jenem Satze seyn, wie sie will, immer wird nur das Bild entstehen [hier folgen Bilder mit einer Voraussendung, MC]. Niemals kann die Folge vorkommen [hier folgen Bilder mit mehreren Voraussendungen, MC]. [@gotzinger1839: 162]
 >
 > ('Although the position of the constituents in the sentence can be as it chooses, the resulting image will always have a single *Vorraussendung*. The ordering with multiple *Voraussendungen* cannot occur.')
 
@@ -456,9 +456,15 @@ Third, for the analysis of the multi-clause sentence (*Periode*)
 subordination: 364-367, 371, Periode: 374-403
 
 coordination (*Beiordnung*) with an equal sign (p.366)
-He observes, that with multiple subordinate clauses there are examples that appear to have an empty second part of the main predicate, or, in modern terminology, an empty *rechte Satzklammer*. He uses a dash to indicate such zeros. (p.381)
+He observes, that with multiple subordinate clauses there are examples that appear to have an empty second part of the main predicate, or, in modern terminology, an empty *rechte Satzklammer*. He uses a dash to indicate such zeros. (p.381) no, this is different in the description of Götzinger
 
-A few years later, when revising these didactic grammars once again, he included graphical displays as discussed below, both in the fifth edition of the *Deutsche Sprachlehre* [@gotzinger1842: 222-226, 287-291] and in the fifth edition of the *Anfängsgründe* [@gotzinger1845: 236-242]. The third edition of *Sprachlehre* cites the influence of Lehmann [@gotzinger1835: xiii-xiv] and applies his graphical analysis to clause structure. Section *Stellungen der Bekleidung* [@gotzinger1835: 243-248] and *Stellung der Nebensätze* [@gotzinger1835: 310-315]. Götzinger consequently uses term *Periodenbild* [@gotzinger1839: 395; @gotzinger1842: 307-311] just like Lehmann.
+A few years later, when revising his early didactic grammars once again, he included graphical displays as discussed above, both in the fifth edition of the *Deutsche Sprachlehre* [@gotzinger1842: 222-226, 287-291] and in the fifth edition of the *Anfängsgründe* [@gotzinger1845: 236-242]. 
+
+The third edition of *Sprachlehre* cites the influence of Lehmann [@gotzinger1835: xiii-xiv] and applies his graphical analysis to clause structure. 
+
+Section *Stellungen der Bekleidung* [@gotzinger1835: 243-248] and *Stellung der Nebensätze* [@gotzinger1835: 310-315]. 
+
+Götzinger consequently uses term *Periodenbild* [@gotzinger1839: 395; @gotzinger1842: 307-311] just like Lehmann.
 
 
 ### Hoffmann (1839) *Neuhochdeutsche Schulgrammatik* {#sec:hoffmann1839}
