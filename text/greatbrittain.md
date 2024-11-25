@@ -16,7 +16,7 @@ table p24-25, complex sentence p41
 
 ### Swinton (1872) *A progressive grammar of the English tongue*
 
-William Swinton (1833-1892) in USA, but no diagram - more likely britisch tradition
+William Swinton (1833-1892) in USA (Professor of the English language in the University of California??? Preface written in New York), but no diagram - more likely britisch tradition
 
 tabular based on Becker [@swinton1872: 154]
 

@@ -99,6 +99,14 @@ compares his analysis with Stöhr [@stohr1898], Sapir (morpheme analysis), mauri
 
 discussion in [@cigana2020]
 
+## Setälä (1946) *Suomen kielen oppikirja()
+
+Emil Nestor Setälä [@setala1946: 68], cited by [@thummel1993: 139]
+
+There are many earlier editions!
+
+"The mutual relations of the parts of a sentence can be illustrated by means of a drawing. If we mark the subject with a thick vertical line, the predicate with a thick horizontal line extending from it, the conditions of each with thinner lines directed diagonally, and the conditions of the conditions again with lines directed diagonally."
+
 ## Diderichsen (1947) *Elementær dansk grammatik*
 
 Feldertheorie [@diderichsen1957], giving nested schema like hansen [@diderichsen1957: 146] does not cite drach (1935) uses term "chinese boxes"
@@ -106,9 +114,3 @@ Feldertheorie [@diderichsen1957], giving nested schema like hansen [@diderichsen
 details about history: https://da.wikipedia.org/wiki/Sætningsskema
 
 He knew about Hansen, but never cited it. acknowledgement in 1964 Festschrift for Hansen [@diderichsen1966: 364].
-
-## Finland
-
-Emil Nestor Setälä [@setala1946: 68], cited by [@thummel1993: 139]
-
-"The mutual relations of the parts of a sentence can be illustrated by means of a drawing. If we mark the subject with a thick vertical line, the predicate with a thick horizontal line extending from it, the conditions of each with thinner lines directed diagonally, and the conditions of the conditions again with lines directed diagonally."

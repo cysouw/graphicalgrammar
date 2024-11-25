@@ -1,16 +1,8 @@
 # Germany {#sec:germany}
 
-## A mostly forgotten origin
+## A mostly forgotten tradition
 
-### Nackte Sätze
-
-The influence of Heyse on Billroth can be inferred by the usage of the peculiar tripartite basic sentence structure of subject, predicate and copula. Even more clearly, Heyse's influence is indicated by the metaphor of the *nackte* 'naked' and *bekleidete* 'dressed' sentence. The origin of this terminological distinction can be traced back to Meiner [-@meiner1781: 446], who uses the terms *bloß* 'bare' for a minimal sentence and *ausgebildet* 'developed' for a sentence with additional modifiers. Contemporaneously, Adelung [-@adelung1782: 572] uses the terms *einfach/nackt* 'simple/naked' and *ausgebildet* 'developed'. This terminology is slightly changed in the first edition of Heyse's grammar of German [@heyse1814: 492-492] into *einfach/rein* 'simple/pure' and *ausgebildet/erweitert* 'developed/extended'. Then Heyse adjusted this again in the second edition by adding the term *nackt* 'naked, bare' as an alternative to *einfach* and *rein* [@heyse1820: 598]. Finally, in the fourth edition of 1827 he adds the term *bekleidet* 'dressed': 
-
-> Solche Sätze […] kann man ~~ausgebildete~~, erweiterte, oder (im Gegensatze zu den nackten) ~~bekleidete~~ Sätze nennen. [@heyse1827: 636]
-> 
-> ('Such sentences can be called "developed", "extended" or (opposite to "naked") "dressed" sentences.')
-
-### Periode
+### *Periodenbild*
 
 He uses the term *Periode* for the complex sentence, a term that goes straight back to antiquity. Aristotle uses the term *περίοδος* 'periodos' to describe something akin to a complete sentence, consisting of multiple clauses (with *κῶλον* 'kolon' being used for something akin to a clause). Burkett explains that "the term *periodos* is one of Aristotle‘s visual metaphors, suggesting a circular motion or completeness of thought and rhythm." [@burkett2011: 206].
 
@@ -19,6 +11,26 @@ He uses the term *Periode* for the complex sentence, a term that goes straight b
 > ['I call a period an expression having a beginning and an end in itself and a magnitude easily taken in at a glance.' translation from @burkett2011: 206]
 
 The term *Periode* as a grammatical term for the complex sentence is widespread in German 18th and 19th Century grammatical texts. It is used already by Meiner [-@meiner1781: 446] and Heyse [-@heyse1814: 491] and appears in almost all works to be discussed later in this chapter.
+
+### *Nackte Sätze*
+
+In German grammars of the 18th and 19th Century there is a widespread conceptual distinction between a bare and an extended sentence. A bare sentence is mostly defined as a sentence with only a subject and a predicate without any attributive or adverbial modifiers; a minimal sentence of sorts. The examples given always have intransitive verbs and it remains unclear whether transitive sentences also could be "bare". An extended sentence, in contrast, contains additional modifiers, though subordinate clauses are mostly relegated to yet further categories of sentence structure. This distinction is mostly referred to using the German words *nackt* 'naked' vs. *ausgebildet* 'developed'. However, there is some interesting variations and discussion throughout the 19th Century about exactly which word should be used.
+
+The origin of this terminological distinction can probably be traced back to Meiner [-@meiner1781: 446], who uses the terms *bloß* 'bare' for a minimal sentence and *ausgebildet* 'developed' for a sentence with additional modifiers. Contemporaneously, Adelung [-@adelung1782: 572] uses the terms *einfach/nackt* 'simple/naked' and *ausgebildet* 'developed'. This terminology is slightly changed in the first edition of Heyse's grammar of German [@heyse1814: 492-492] into *einfach/rein* 'simple/pure' and *ausgebildet/erweitert* 'developed/extended'. Then Heyse adjusted this again in the second edition by adding the term *nackt* 'naked, bare' as an alternative to *einfach* and *rein* [@heyse1820: 598]. Finally, in the fourth edition of 1827 Heyse adds the term *bekleidet* 'dressed': 
+
+> Solche Sätze […] kann man ~~ausgebildete~~, erweiterte, oder (im Gegensatze zu den nackten) ~~bekleidete~~ Sätze nennen. [@heyse1827: 636]
+> 
+> ('Such sentences can be called "developed", "extended" or (opposite to "naked") "dressed" sentences.')
+
+The term *bekleidet* leads to a lot of discussion, because of the sexual connotations. The term *nackt* is not so much the problem, because this word in general is used to refer to situation without cover, like *nackter Boden* 'bare floor', and is also regularly used metaphorically, like in *nackte Angst* 'sheer terror'. So, in opposition to the words *ausgebildet* or *erweitert* there is no sexual connotation with the usage of the word *nackt*. However, in opposition to the word *bekleidet* 'dressed' the meaning of the word *nackt* suddenly obtains a clearly sexual connotation, clearly meaning 'nude'. Some authors seem to find this funny and probably consider it a good way to motivate students, while others strongly object to this as 
+
+usage: billroth, götzinger
+
+against
+
+> Von nackten und bekleideten Sätzen zu reden ist geschmacklos, von nackten und erweiterten ist nicht viel geschmackvoller und enthält außerdem einen schiefen Gegensatz, den man in keiner Schülerarbeit dulden würde. [@kern1883: 5]
+
+> Man nennt solche Sätze, welche nur die wesentlichen (Haupt-) Satztheile enthalten, ~~nackte~, und solche, welche auch noch andere Theile enthalten, (nicht: ~~bekleidete~~, sondern) ~~ausgebildete~~ oder erweiterte Sätze. [@diesterweg1830: 166]
 
 ## Preliminary groundwork
 
@@ -296,12 +308,12 @@ In summary, the grammatical analysis of Diesterweg is a complex tour-de-force, c
 
 At the end of his short life, Johann Gustav Willhelm Billroth (1808-1836) became professor for religion at the university in Halle. Before that, between his *Habilitation* in Leipzig in 1830 and the start of his position in Halle in 1834, he worked as a teacher for latin [@alwast2000]. In that context he wrote two latin grammars for use in schools, first the *Lateinische Syntax für die obern Klassen gelehrter Schulen* [@billroth1832], later followed by the *Lateinische Schulgrammatik für alle Klassen* [@billroth1834].
 
-In these grammars there is a single graphical display of a grammatical structure, shown below in [@fig:billroth1832_102] [@billroth1832: 102]. There is not much known about the grammatical background of Billroth, nor is there any indication in his books about the inspiration for drawing a grammatical analysis. As he was active as a school teachter, he might very well have been aware of Becker [-@becker1829, see [@sec:becker1829]] and Diesterweg [-@diesterweg1830, see [@sec:diesterweg1830]], both of which might be inspiration for Billroth's graphical display.
+In these grammars there is a single graphical display of a grammatical structure, shown below in [@fig:billroth1832_102] [@billroth1832: 102]. There is not much known about the grammatical background of Billroth, nor is there any explicit indication in his books about the inspiration for drawing a grammatical analysis. As he was active as a school teachter, he might very well have been aware of Becker [-@becker1829, see [@sec:becker1829]] or Diesterweg [-@diesterweg1830, see [@sec:diesterweg1830]], both of which might be inspiration for Billroth's graphical display.
 
 
 There are some indications that Billroth was influenced by Heyse's grammar of German (see below), specifically the fourth edition [@heyse1827]. However, the idea of drawing a sentence structure is nowhere to be found in Heyse's work, so this approach seems to be a genuinly new idea of Billroth.
 
-
+The influence of Heyse on Billroth can be inferred by the usage of the peculiar tripartite basic sentence structure of subject, predicate and copula. Even more clearly, Heyse's influence is indicated by the metaphor of the *nackte* 'naked' and *bekleidete* 'dressed' sentence. 
 
 In Billroth's syntax, the whole discussion of the structure of the  sentence takes 11 pages [@billroth1832: 91-102]. The structure of the text is really difficult to follow, although on closer inspection there is a clear drawn-out organisation. First, he introduces the simple 'naked' sentence as option *A*:
 
@@ -689,31 +701,11 @@ Later the same with another text: [@toifel1901]
 
 inspired by Kern
 
-### Stamm (1899) *Graphische Darstellung* 
-
-Adolf Stamm (1857-???)
-
-(1896 Oberlehrer in Iserlohn, 1911 erster Leiter des staatlichen Gymnasiums in Mülheim an der Ruhr?) 
-
-idisyncratic graphics [@stamm1899]
-critique of Stamm: [@arens1902]
-(other reaction to Stamm: [@mossner1960])
-
 ### Raumer (1902) *Das Periodenbild*
 
 Siegmund von Raumer (1860-1939), Gymnasiallehrer in Erlangen
 
 New proposal for *Periode*, reaction to Lehmann and subsequent proposals. Very short, only one example of his proposal (using multiple lines) [@raumer1902: 63]
-
-### Eberhard (1905) *Graphische Darstellung in der Sprachlehre* 
-
-Johann Eberhard (1838-?)
-
-(Direktor in Sigmaringen in 1889?)
-
-new proposal as a reaction to Adolf Stamm (1899) [@eberhard1905]
-
-> Das die graphische Darstellung ein erwünschtes Mittel ist, um Übersicht über ein verwickeltes Satzbilde zu erzielen, unterliegt keinem Zweifel. Nach meinen Erfahrungen bringen alle Schüler, auch die Minderbefähigten, der bezeichneten Darstellung ein großes Interesse entgegen – gewiss ein wichtiges Moment bei dem trockenen Lehrstoff! Die graphische Darstellung solcher Sätze, die in der Schule zergeliedert sind, ist deshalb auch eine viel begehrte Hausaufgabe. [@eberhard1905: 284]
 
 ### Schuberth (1908) *Deutsche Satzbilder*
 
@@ -750,25 +742,17 @@ cited second edition [@muller1922: 49] one tree example like Kern, with verb on 
 
 Deutsche Sprachkunde in der Arbeitsschule, Leipzig 1923
 
-### Flothuis (1930) *Kurzgefaszte deutsche Syntax* 
-
-Marius Hendrikus Flothuis (1873-1950), teacher of german language and literature in Amsterdam. 
-Father of composer Marius Flothuis.
-https://archief.amsterdam/indexen/deeds/98533401-2df7-56a3-e053-b784100ade19?person=98533401-2df8-56a3-e053-b784100ade19
-
-Adds idiosyncratic diagrams of subordinate clauses to the end of his grammar. cites Kern and Wundt, but his graphics do not look like theirs [@flothuis1930]
-
-### Heemstra (1947) *Grundrisz der deutsch-niederländischen Satzlehre*
-
-only graphical display of clause subordination. cites examples from [@kern1884] and [@flothuis1930], does not add anything new [@heemstra1947: 76-79]
-
 ### Langholf (1969) *Die Syntax des deutschen Amadisromans*
 
 [@langholf1969: 10] own version of Periodenbau, cites Menge as inspiration!
 
-## Modern incarnations
+## Feldermodell
 
-### Paardekooper (1955) *syntaktische verkenningen*
+### Drach (1937) *Grundgedanken der deutschen Satzlehre*
+
+Erich Drach (1885-1935) [@drach1937]
+
+## Modern incarnations
 
 ### Essen (1956) *Methodik des Deutschunterrichts*
 
@@ -798,3 +782,23 @@ Satzbilder with lines in [@lobentanzer1986: 60, 72-73]
 ### Stöhr (1898) *Algebra der Grammatik*
 
 [@stohr1898]
+
+### Stamm (1899) *Graphische Darstellung* 
+
+Adolf Stamm (1857-???)
+
+(1896 Oberlehrer in Iserlohn, 1911 erster Leiter des staatlichen Gymnasiums in Mülheim an der Ruhr?) 
+
+idisyncratic graphics [@stamm1899]
+critique of Stamm: [@arens1902]
+(other reaction to Stamm: [@mossner1960])
+
+### Eberhard (1905) *Graphische Darstellung in der Sprachlehre* 
+
+Johann Eberhard (1838-?)
+
+(Direktor in Sigmaringen in 1889?)
+
+new proposal as a reaction to Adolf Stamm (1899) [@eberhard1905]
+
+> Das die graphische Darstellung ein erwünschtes Mittel ist, um Übersicht über ein verwickeltes Satzbilde zu erzielen, unterliegt keinem Zweifel. Nach meinen Erfahrungen bringen alle Schüler, auch die Minderbefähigten, der bezeichneten Darstellung ein großes Interesse entgegen – gewiss ein wichtiges Moment bei dem trockenen Lehrstoff! Die graphische Darstellung solcher Sätze, die in der Schule zergeliedert sind, ist deshalb auch eine viel begehrte Hausaufgabe. [@eberhard1905: 284]

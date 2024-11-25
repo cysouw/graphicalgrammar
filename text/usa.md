@@ -111,7 +111,9 @@ Later different systems, e.g.
 
 identical in 1849 version. bad scan at https://archive.org/details/encyclopediaofen00hall/page/296/mode/2up?q=monology
 
-Not the same as William D. Hall from 1898 diagrams.
+Not the same person as William D. Hall from 1898 diagrams.
+
+coincidence "monème" by Henri Frei *La grammaire des fautes* (1929) ???
 
 ## Diagramming
 
@@ -516,6 +518,8 @@ diagramming identical to reed/kellog [@pence1947: 311-368]
 
 Hypothesis that Wundt influenced Bloomfield: [@percival1976: 234-235 gives various detailed arguments]
 
+not much effect in German linguistics, but see Delbrück 136ff https://books.google.de/books?id=BAQLAAAAMAAJ (no graphics though) https://doi.org/10.1515/9783111457642
+
 Debate about logical analysis: Wundt proposes recursive subject-predicate pairing as a model for though and language: note that this is the logical tradition of the terminology, not the grammatical!
 
 Wundt's discussion of the 'old grammarians' [@wundt1900b: 222-224], arguing against the 'copula-theory'
@@ -558,9 +562,13 @@ morphology-formula [@sapir1921]
 
 ### Mikuš (1947) *Le Syntagme EST-IL Binaire?*
 
-Francis Mikuš from Ljubljana
+Francis Mikuš from Ljubljana, cf [@graffi2001: 201]
 
 trees following Wundt [@mikus1947: 37], includes "chines boxes" diagram, without attribution.
+
+boxes: [@1952: 452, 457, 460], numbers [@1952: 453, 458], spiral [@1952: 461], boxes with connections [@1952: 462]
+
+reanalysis of Sapirs symbolic representation, boxes on page 20 [@mikus1953: 20]
 
 ### Nida (1949) *Morphology*
 
@@ -577,7 +585,7 @@ examples of IC: *my most recent plays closed down* (p278-279) analysed as follow
 
 T :: D . A : N² :. -s :.: V¹ . Pb : -ed
 
-Complete rewrite rules (in Chomskian format, harris writes them from right to left). Note the strange early past suffix insertion
+Complete rewrite rules (in Chomskian format, harris writes them from right to left). Note the strange early past suffix insertion. This system was already introduced in [@harris1946], but wihtout the notation for a complete sentence
 
 Utterance → N⁴V⁴
 N⁴ → TN³
