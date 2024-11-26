@@ -66,6 +66,26 @@ word "chart" replaced by "atlas" in furthermore exactly the same sentences.
 - The second book of the rational system of English grammar (1854) https://lccn.loc.gov/10024690
 - The grammatical reader (1854) https://lccn.loc.gov/ca11002074
 
+### Andrew & Stoddard (1836) *A grammar of the Latin language*
+
+no graphics, but very concise description of dependency structure
+
+> In analyzing a proposition, it is first to be divided into its logical subject and predicate. \
+> If the logical subject consists of more than one word, its grammatical subject should be pointed out, and distinguished as simple or compound. \
+> When the grammatical subject is determined, the words which modify or limit it should next be specified, and then the words which modify them, and so on, until the logical subject is exhausted. \
+> In analyzing the logical predicate, the grammatical predicate should first be mentioned, then the words which modify or limit it, and their modifiers, until the logical predicate is exhausted. [@andrews1836: 254-255
+
+::: ex
+Mithridātes, duārum et viginti gentium rex, totǐdem linguis jura dixit
+:::
+
+> The logical subject is *Mithridātes duārum et viginti gentium rex*. \
+> The logical predicate is *totǐdem linguis jura dixit*. \
+> The grammatical subject is *Mithridātes*: this is modified by rex. Rex
+is limited by *gentium*, which is itself limited by *duārum* and *viginti*.
+*Et* connects *duārum* and *viginti*. \
+> The grammatical predicate is *dixit*, which is limited by *jura* and *linguis*, and the latter by *totǐdem*. [@andrews1836: 255-256]
+
 ### Barrett (1837) *The principles of language*
 
 parsing inspired by Brown???
@@ -205,7 +225,7 @@ probably G.E. Lighthall (1872) *Introduction to analysis and parsing* with bubbl
 
 ### Butler (1874) *A practical and critical grammar*
 
-originally *A practical grammar* from 1845 without diagrams, see https://google.com/books?id=-khKAAAAIAAJ for 1846 revision [@butler1846]
+originally *A practical grammar* from 1845 without diagrams, see https://google.com/books?id=-khKAAAAIAAJ for 1846 revision [@butler1846] note: "The rules for the Analysis of Sentences have been taken, with some changes, from Andrews and Stoddard's Latin Grammar" (preface p.3) examples like Andrews/Stoddard on p220-221
 
 revised edition with slightly different name, with diagramming like Holbrook [@butler1874: 178-187]. Also interesting footnote in preface p5.
 

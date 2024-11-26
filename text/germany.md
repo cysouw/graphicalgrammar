@@ -421,9 +421,11 @@ These two examples of the application of the scheme on actual literary texts ins
 
 Maximilian Wilhelm Götzinger (1799–1856) was a teacher of German, most of his life working in Schaffhausen (Switzerland). He wrote extensively about grammar, literature and dialectology, see Olsson [-@olsson2009] for an comprehensive appraisal of his work. Besides his didactic writings, Götzinger also provided material for Grimm's dictionary project [@olsson2009: 37] and he was even awarded a doctorate *honoris causa* from the University of Basel in 1838 [@olsson2009: 36], probably through his personal contact with Wilhelm Wackernagel (the father of Jacob Wackernagel of *Wackernagel's law*-fame).
 
-Götzinger's early textbooks were already mentioned in [@sec:götzinger1827]. However, these early books did not contain any graphical analyses of sentences. Then, a decade after the first editions of his textbooks, Götzinger wrote his magnum opus *Die deutsche Sprache und ihre Literatur* [volume one -@gotzinger1836; volume two -@gotzinger1839]. This book includes various graphical analyses, which are clearly inspired by the *Periodenbilder* from Lehmann (see [@sec:lehmann1833]). Götzinger does not explicitly cite Lehmann as his inspiration for the graphical display, but he mentions Lehmann's *vortreffliches Buch* ('excellent book') in a different context [@gotzinger1839: 217]. In a later preface to a different book he explicitly explains how he adapted and extended Lehmann's display [@gotzinger1842: vi].
+Götzinger's early textbooks were already mentioned in [@sec:götzinger1827], but these early books did not contain any graphical analyses of sentences. But then Götzinger discovered Lehmann's *Periodenbau* [-@lehmann1833] and that changed everything. In 1835 Götzinger wrote a review of Lehmann' book [@gotzinger1835a] and in the third edition of the *Sprachlehre* from 1835 he introduced Lehmann's graphical displays. Götzinger cites the influence of Lehmann in the preface [@gotzinger1835: xiii-xiv] and he applies Lehmann's graphical analysis both to clause structure, under heading *Stellungen der Bekleidung* [@gotzinger1835: 243-248], and to sentence structure, under the heading *Stellung der Nebensätze* [@gotzinger1835: 310-315]. Götzinger distinguishes these two applications of Lehmann's analysis by using different names: *Satzbild* for clause structure and *Periodenbild* for larger sentence structures consisting of multiple clauses [@gotzinger1835: 311].
 
-Lehmann originally used his graphical method only for main and subordinated clauses, but Götzinger argues that the same idea of subordination (*Unterordnung*) can be used for other kinds of linguistic structure as well. Consequently, Götzinger uses Lehmann's notation also for (i) syllabic structure, (ii) clause-internal structure and (iii) clause subordination.
+Contamporaneously to revising this textbook, Götzinger prepared his magnum opus *Die deutsche Sprache und ihre Literatur* [volume one -@gotzinger1836; volume two -@gotzinger1839]. This book also includes many graphical analyses inspired by the *Periodenbilder* from Lehmann (see [@sec:lehmann1833]). In this book, Götzinger does not explicitly cite Lehmann as his inspiration for the graphical display, but he mentions Lehmann's *vortreffliches Buch* ('excellent book') in a different context [@gotzinger1839: 217]. I will use these two volumes of *Die deutsche Sprache* to summarise Götzinger's interpretation of Lehmann's approach.
+
+There are two main differences between Lehmann and Götzinger. First, Götzinger simplifies Lehmann's quite elaborate use of different character set. Lehmann uses latin, greek, and fraktur letters, in upper- and lower-case, with different meanings. Götzinger only uses latin capitals for main clauses and latin lower-case letters for subordinate clauses. Second, Lehmann originally used his graphical method only for main and subordinated clauses (*Periode*), but Götzinger argues that the same principle of subordination (*Unterordnung*) can be used for other kinds of linguistic structure as well. Consequently, Götzinger uses Lehmann's notation also for (i) syllabic structure, (ii) clause-internal structure and (iii) clause subordination.
 
 > Auf diese Weiße ordnet die Sprache bei allen Vorgängen den jedesmaligen Stoff so, daß ein Theil desselben als untergeordnet erscheint, in der Silbe die Laute, im Worte die Silben, im Satze die Worte, in der Periode die Sätze. [@gotzinger1836: 15]
 > 
@@ -439,11 +441,11 @@ First, for the analysis of the syllable, Götzinger [-@gotzinger1836: 221-224] u
 Syllables with a structure in accordance to the sonority hierarchy [@gotzinger1836: 223] have a vowel as nucleus (capital letter) and possibly multiple 'subordinate' consonants in the onset (lower-case letters separated horizontally with colons) and the coda (lower-case letters separated vertically with braces).
 :::
 
-Second, for the analysis of the internal structure of a clause, Götzinger proposes to use the same notation [@gotzinger1839: 159-162]. A few examples are shown in [@fig:götzinger1839_161]. The capital letter now refers to the verb and the lower-case letters refer to the constituents. Götzinger calls the lower-cased elements *Bekleidung*. Today a German grammar would call them *Satzglied*. The German main clause structure with two verb positions is indicated by a repeated capital letter, called *trennbare Zusammensetzung* by Götzinger [-@gotzinger1839: 160]. Similar terminology can still be found in contemporaneous German grammars.
+Second, for the analysis of the internal structure of a clause Götzinger proposes to use the same notation [@gotzinger1839: 159-162], which he calls *Satzbilder* [@gotzinger1839: 161]. A few examples are shown in [@fig:götzinger1839_161]. The capital letter now refers to the verb and the lower-case letters refer to the constituents. Götzinger calls the lower-cased elements *Bekleidung*. Today a German grammar would call them *Satzglied*. The German main clause structure with two verb positions is indicated by a repeated capital letter, called *trennbare Zusammensetzung* by Götzinger [-@gotzinger1839: 160]. Similar terminology can still be found in contemporaneous German grammars.
 
 Relative to the main verb, the three possible positions of the *Bekleidung* (i.e. before, in between and after the verb) are called *Voraussendung, Anfügung, Einschiebung*, respectively [@gotzinger1839: 160]. They are indicated with a colon, a horizontal brace and round brackets in the tradition of Lehmann (see [@sec:lehmann1833]), who calls them *Vorausschickung, Anfügung* and *Einschaltung*. Today a German grammar would say *Vorfeld, Nachfeld* and *Mittelfeld*. Götzinger also observes one of the main generalisation of German main clause structure, namely that the *Voraussendung/Vorfeld* never consists of more than one *Bekleidung/Satzglied*. 
 
-> Mag also die Stellung der Bekleidung in jenem Satze seyn, wie sie will, immer wird nur das Bild entstehen [hier folgen Bilder mit einer Voraussendung, MC]. Niemals kann die Folge vorkommen [hier folgen Bilder mit mehreren Voraussendungen, MC]. [@gotzinger1839: 162]
+> Mag also die Stellung der Bekleidung in jenem Satze seyn, wie sie will, immer wird nur das Bild entstehen [mit einer Voraussendung]. Niemals kann die Folge vorkommen [mit mehreren Voraussendungen]. [@gotzinger1839: 162]
 >
 > ('Although the position of the constituents in the sentence can be as it chooses, the resulting image will always have a single *Vorraussendung*. The ordering with multiple *Voraussendungen* cannot occur.')
 
@@ -451,21 +453,15 @@ Relative to the main verb, the three possible positions of the *Bekleidung* (i.e
 Main clause analysis from Götzinger [-@gotzinger1839: 161] using the same notation as for syllables. In modern grammatical terminology: the main verb is indicated by the capital letter, possibly two times in case of a separated verb. Other *Satzglieder* are indicated by lower-case letters. The *Vorfeld* is separated by a colon. The *Mittelfeld* is put between round brackets, with multiple constituents separated by commas. The *Nachfeld* is indicated below the horizontal brace, again with commas separating mulitple constituents.
 :::
 
-Third, for the analysis of the multi-clause sentence (*Periode*)
+Third, for the analysis of the multi-clause sentence Götzinger again uses the same notation. He separates the analysis of basic subordination [@gotzinger1839: 364-367] from the analysis of the *Periode* [@gotzinger1839: 374-403]. This distinction is not very clear, as he comments that *der Begriff ~~Periode~~ ist etwas schwankender Natur* 'the concept of the *Periode* has somewhat of a wavering nature'. He introduces the equal sign for coordination [@gotzinger1839: 366]. A slighly complex *Periodenbild* is shown in [@fig:götzinger1839_391] for an example sentence [@next] from Goethe.
 
-subordination: 364-367, 371, Periode: 374-403
+::: ex
+Wenn ich mich in einer mittleren oder großen Stadt umsehe und bemerke, wo denn die Menschen sich hinwenden, um ihren Abend zuzubringen: so findet sich immer, daß man dahin gehe, wo man grüßend begrüßt wird; wo man gerne hört und gehört wird; wo man beim gefelligen Gespräch und Spiel immer gewiß ist, seine Parthie zu finden. [@gotzinger1839: 391, citing Goethe]
+:::
 
-coordination (*Beiordnung*) with an equal sign (p.366)
-He observes, that with multiple subordinate clauses there are examples that appear to have an empty second part of the main predicate, or, in modern terminology, an empty *rechte Satzklammer*. He uses a dash to indicate such zeros. (p.381) no, this is different in the description of Götzinger
-
-A few years later, when revising his early didactic grammars once again, he included graphical displays as discussed above, both in the fifth edition of the *Deutsche Sprachlehre* [@gotzinger1842: 222-226, 287-291] and in the fifth edition of the *Anfängsgründe* [@gotzinger1845: 236-242]. 
-
-The third edition of *Sprachlehre* cites the influence of Lehmann [@gotzinger1835: xiii-xiv] and applies his graphical analysis to clause structure. 
-
-Section *Stellungen der Bekleidung* [@gotzinger1835: 243-248] and *Stellung der Nebensätze* [@gotzinger1835: 310-315]. 
-
-Götzinger consequently uses term *Periodenbild* [@gotzinger1839: 395; @gotzinger1842: 307-311] just like Lehmann.
-
+::: {.im #götzinger1839_391}
+Complex *Periodenbild* from Götzinger [-@gotzinger1839: 391] for the example from Goethe in [@last]. Note in comparison to Lehmann's *Periodenbild* (see [@sec:lehmann1833]) the different script letters are simplified to only lower-case latin letters and coordination is additionally indicated by using the equal sign.
+:::
 
 ### Hoffmann (1839) *Neuhochdeutsche Schulgrammatik* {#sec:hoffmann1839}
 
@@ -774,7 +770,7 @@ Erich Drach (1885-1935) [@drach1937]
 
 ### Essen (1956) *Methodik des Deutschunterrichts*
 
-Erika Essen (1914-1986)
+Erika Essen (1914-1986) bio [@muller1996]
 
 [@essen1956; @essen1958] very nice curved lines!
 
@@ -789,7 +785,7 @@ https://www.lagis-hessen.de/de/subjects/print/sn/bio/id/18993
 
 [@rychener1960]
 
-Many different ideas by Rychener: underlining of clause-internal structure [@rychener1982: 150-151], Becker-style tables [@rychener1982: 178], tab-inserts [@rychener1982: 176], Vertical displacement of clause-combinations like Flothuis [@rychener1982: 189]
+[@rychener1982] Many different ideas by Rychener: underlining of clause-internal structure [@rychener1982: 150-151], Becker-style tables [@rychener1982: 178], tab-inserts [@rychener1982: 176], Vertical displacement of clause-combinations like Flothuis [@rychener1982: 189]
 
 ### Lobentanzer (1986) *Deutsch muß nicht schwer sein*
 

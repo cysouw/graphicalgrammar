@@ -73,7 +73,7 @@ Notion *rang* 'rank', different levels. First attempt at symbolic representation
 
 [@brondal1928] System of categories for morphology, build from limited set of primitives. complex schema in appendix
 
-syntax in *morfologi of syntax* (1932) [cf. @hallon1989: 79-155]
+syntax in *morfologi of syntax* (1932) [cf. @hallon1989: 79-155] cites kern, sheffield, wundt [@brondal1932]
 
 [@togeby1989: 109] gives an actual example how a sentence analysis might look like in Brøndal's system
 
@@ -99,13 +99,16 @@ compares his analysis with Stöhr [@stohr1898], Sapir (morpheme analysis), mauri
 
 discussion in [@cigana2020]
 
-## Setälä (1946) *Suomen kielen oppikirja()
+## Setälä (1946) *Suomen kielen oppikirja*
 
 Emil Nestor Setälä [@setala1946: 68], cited by [@thummel1993: 139]
 
-There are many earlier editions!
+There are many earlier editions! Original of both authors together from 1939?
+https://fi.wikipedia.org/wiki/Kaarlo_Nieminen_(kielitieteilijä)
 
 "The mutual relations of the parts of a sentence can be illustrated by means of a drawing. If we mark the subject with a thick vertical line, the predicate with a thick horizontal line extending from it, the conditions of each with thinner lines directed diagonally, and the conditions of the conditions again with lines directed diagonally."
+
+no graphics in 1898: https://urn.fi/URN:NBN:fi-fd2015-00009354
 
 ## Diderichsen (1947) *Elementær dansk grammatik*
 
