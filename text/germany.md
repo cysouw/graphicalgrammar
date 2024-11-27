@@ -465,15 +465,18 @@ Complex *Periodenbild* from Götzinger [-@gotzinger1839: 391] for the example fr
 
 ### Hoffmann (1839) *Neuhochdeutsche Schulgrammatik* {#sec:hoffmann1839}
 
-Karl August Julius Hoffmann (1812-1869)
-
-https://de.wikipedia.org/wiki/Julius_Hoffmann_(Pädagoge)
-
-*Schulgrammatik* is the more extensive work, *Elementargrammatik* is sort-of a summary. contains the same image [@hoffmann1856: 80, 109] (fourth edition, first edition not digitally available)
+Karl August Julius Hoffmann (1812-1869) was a schooldirector in Lüneburg. He wrote about such disparate topics as Homer, rhetoric, logic, and German grammar. In 1839 he published the first edition of the *Neuhochdeutsche Schulgrammatik* [@hoffmann1839], which he revised in the second edition [@hoffmann1856], but which did not get reprinted after that. In parallel, he also delivered a summarised version of the same work, the *Neuhochdeutsche Elementargrammatik*. This version was much more popular and got reprinted at least up to an eleventh edition in 1885. In the preface, he explicitly cites Becker (see [@sec:becker1829]) and Billroth (see [@sec:billroth1832]): *Unter den Grammatiken der fremden Sprachen verdanke ich der Lateinischen von Billroth am meisten* 'among the grammars of foreign language I owe most to the Latin grammar of Billroth' [@hoffmann1839: xiii].
 
 Schulgrammatik: [@hoffmann1839]
 
-"Unter den Grammatiken der fremden Sprachen verdanke ich der Lateinischen von Billroth am meisten." (p. xiii)
+::: ex
+Tapfere Krieger jenes großen Feldherrn, welchen alle bewunderten, erfochten gestern, ehe es Mittags geworden war, eine glänzenden Sieg über ihre zahlreichen Feinde.
+:::
+
+::: {.im #hoffmann1839_148}
+Analysis of the *Umkleideter Satz* in [@last] from Hoffmann [-@hoffmann1839: 148]. This image is an idental graphic from the fourth edition of the *Elementargrammatik* because of the better quality of the scan of that edition [@hoffmann1856: 137].
+:::
+
 
 nackter und umkleideter Satz 146-148
 
@@ -492,9 +495,17 @@ Es ist für denjenigen, der mit sich selbst noch nicht recht eins geworden ist, 
 :::
 
 
+
+
+*Elementargrammatik* is sort-of a summary. contains the same image [@hoffmann1856: 80, 109] (fourth edition, first edition not digitally available)
+
+
+
+
+
 Neuhochdeutsche Elementargrammatik mit Rücksicht auf die Grundsätze der historischen Grammatik
 
-6. Auflage 1865 https://www.digitale-sammlungen.de/view/bsb10583851?page=5
+1. Auflage 1865 https://www.digitale-sammlungen.de/view/bsb10583851?page=5
 images: https://www.digitale-sammlungen.de/view/bsb10583851?page=194
 
 Kern cites Hoffmann [@kern1888], but only in the second edition after he already published his "tree" metaphors. The idea for the "trees" is already in "Satzlehre", finished in December 1882, and practically applied in "Methodik" of 1883.
@@ -610,7 +621,7 @@ Josef Diringer (1878-1883) Ordinarius für Deutsch, Latein und Griechisch in Eic
 
 practical application in second half of the book [@diringer1878: 42-60] using separate lines for subordination, like music notation
 
-Further development of *Periodenbild* citing Bauer, Lehmann and Götzinger (and Becker, Herling, but there does not seem to be any links as for the graphics)
+Further development of *Periodenbild* citing Bauer, Lehmann and Götzinger, and Becker, Herling
 
 ### Esser (1878) *Die Formen der Periode*
 
