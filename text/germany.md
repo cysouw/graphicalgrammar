@@ -28,6 +28,8 @@ The term *bekleidet* leads to a lot of discussion, because of the sexual connota
 
 > Von nackten und bekleideten Sätzen zu reden ist geschmacklos, von nackten und erweiterten ist nicht viel geschmackvoller und enthält außerdem einen schiefen Gegensatz, den man in keiner Schülerarbeit dulden würde. [@kern1883: 5]
 
+Hoffmann 1839 uses nackter und umkleideter Satz 146-148
+
 ## Preliminary groundwork
 
 ### Moritz (1782) *Deutsche Sprachlehre* {#sec:moritz1782}
@@ -413,9 +415,9 @@ Wilhelm hatte während der Zeit seiner Regie das ganze Geschäft mit einer gewis
 *Periodenbild* for the sentence in [@last] from Goethe's *Wilhelm Meisters Lehrjahre* as analysed by Lehmann [-@lehmann1852: 171-172]. Lehmann is quite critical of the large size and the imbalance of the whole construction.
 :::
 
-Later Lehmann writes *Sprachliche Studien über das Nibelungenlied* [@lehmann1856; @lehmann1857] in which he again uses his system to analyse classical German literature. In the introduction he cites Nägelsbach [@lehmann1856: 4] and Götzinger [@lehmann1856: 7] and follows Nägelsbach simplification to use a comma instead of the horizontal brace [@lehmann1856: 8].
+Later Lehmann writes *Sprachliche Studien über das Nibelungenlied* [@lehmann1856; @lehmann1857] in which he again uses his system to analyse classical German literature. In the introduction he cites Nägelsbach [@lehmann1856: 4] and Götzinger [@lehmann1856: 7] and follows Nägelsbach simplification to use a comma instead of the horizontal brace [@lehmann1857: 8].
 
-These two examples of the application of the scheme on actual literary texts inspired many philological analyses in the decades to come. For example, via the *Repetitorium* of Menge (see [@sec:menge1873]) there is a direct line to the 1969 dissertation on the *Amadisroman* from Langholf (see [@sec:langholf1969]) using similar graphical analyses as Lehmann.
+Lehmann's examples of the application of the scheme on actual literary texts inspired many philological analyses in the decades to come. For example, via the *Repetitorium* of Menge (see [@sec:menge1873]) there is a direct line to the 1969 dissertation on the *Amadisroman* from Langholf (see [@sec:langholf1969]) using similar graphical analyses as Lehmann.
 
 ### Götzinger (1836) *Die deutsche Sprache* {#sec:götzinger1836}
 
@@ -465,56 +467,58 @@ Complex *Periodenbild* from Götzinger [-@gotzinger1839: 391] for the example fr
 
 ### Hoffmann (1839) *Neuhochdeutsche Schulgrammatik* {#sec:hoffmann1839}
 
-Karl August Julius Hoffmann (1812-1869) was a schooldirector in Lüneburg. He wrote about such disparate topics as Homer, rhetoric, logic, and German grammar. In 1839 he published the first edition of the *Neuhochdeutsche Schulgrammatik* [@hoffmann1839], which he revised in the second edition [@hoffmann1856], but which did not get reprinted after that. In parallel, he also delivered a summarised version of the same work, the *Neuhochdeutsche Elementargrammatik*. This version was much more popular and got reprinted at least up to an eleventh edition in 1885. In the preface, he explicitly cites Becker (see [@sec:becker1829]) and Billroth (see [@sec:billroth1832]): *Unter den Grammatiken der fremden Sprachen verdanke ich der Lateinischen von Billroth am meisten* 'among the grammars of foreign language I owe most to the Latin grammar of Billroth' [@hoffmann1839: xiii].
+Karl August Julius Hoffmann (1812-1869) was a schooldirector in Lüneburg. He wrote about such disparate topics as Homer, rhetoric, logic, and German grammar. In 1839 he published the first edition of his *Neuhochdeutsche Schulgrammatik* [@hoffmann1839], which he revised in the second edition [@hoffmann1856], but which did not get reprinted after that. In parallel, he also delivered a summarised version of the same work, the *Neuhochdeutsche Elementargrammatik*. This version was much more popular and got reprinted at least up to an eleventh edition in 1885. In the preface of the *Schulgrammatik*, he explicitly cites Becker (see [@sec:becker1829]) and Billroth (see [@sec:billroth1832]): *Unter den Grammatiken der fremden Sprachen verdanke ich der Lateinischen von Billroth am meisten* 'among the grammars of foreign language I owe most to is the Latin grammar of Billroth' [@hoffmann1839: xiii].
 
-Schulgrammatik: [@hoffmann1839]
+In the *Schulgrammatik*, Hoffmann includes a graphical analysis of the example sentence in [@next], see [@fig:hoffmann1839_148] [@hoffmann1839: 148]. The graphical display is closely related to Billroth's display in [@fig:billroth1832_102]. Subject and predicate are placed on top, though there is no connecting line in this case. All other modifiers are linked by lines going down. Note that this example even includes subordinated clauses, namely a relative clause *welchen alle bewunderten* and an adverbial clause *ehe es Mittags geworden war*. They are simply treated similar to all other modifiers.
 
 ::: ex
 Tapfere Krieger jenes großen Feldherrn, welchen alle bewunderten, erfochten gestern, ehe es Mittags geworden war, eine glänzenden Sieg über ihre zahlreichen Feinde.
 :::
 
 ::: {.im #hoffmann1839_148}
-Analysis of the *Umkleideter Satz* in [@last] from Hoffmann [-@hoffmann1839: 148]. This image is an idental graphic from the fourth edition of the *Elementargrammatik* because of the better quality of the scan of that edition [@hoffmann1856: 137].
+Analysis of the *Umkleideter Satz* in [@last] from Hoffmann [-@hoffmann1839: 148]. This image is actually an idental graphic from the fourth edition of the *Elementargrammatik* because of the better quality of the scan of that edition [@hoffmann1856: 137]. The structure of the graphic is clearly inspired by Billroth (see [@fig:billroth1832_102]), who is explicitly cited as inspiration by Hoffmann.
 :::
 
+Lehmann also uses vertical lines to illustrate sentences complex consisting out of multiple clauses. Interestingly he separates this discussion of the syntactic analysis, under the heading *mehrfacher Satz* 'multiple clause' [-@hoffmann1839: 148], from the section on the stilistic analysis, under the heading *Periode*. The example of *mehrfacher Satz* [@next] is artificially contructed, and in a later edition Hoffmann adds a footnote to excuse for the stilistically bad example:
 
-nackter und umkleideter Satz 146-148
+> Die Periode steht hier nur der grammatischen Analyse halber. Stilistisch ist sie mangelhaft, weil viele gleichförmige Satzausgänge unmittelbar auf einander folgen, sobald man die Nebensätze an ihre richtie Stelle bringt. [@hoffmann1856: 109]
+>
+> ('This *Periode* is only included here for the sake of the grammatical analysis. Stilistically she is defective, because many similarly formed subordinate endings follow each other immediately, when the subordinate clauses are placed in their rightfull position.')
 
-complex sentence p. 224
+::: ex
+Tilly war nicht nur berühmt, weil er, während in anderen Heeren die größte Unorndnung herrscht, die strengste Mannszucht hielt: sondern er konnte auch von sich rühmen, daß seine Soldaten, welche freilich ihren Führer, da dieser so unerbittlich streng war, mehr fürchteten, als liebten, nie eine Schlacht verloren hatte.
+:::
 
-second edition [@hoffmann1853], basic example the same, on p. 137
+Hoffmann uses various devices in the graphical analysis of this complex sentence, though there are many unexplained features and apparently some inconsistencies: 
 
-extended complex sentence on page 216-217
+- First, he uses latin lower-case letters for the different clauses, but he simply starts with *a* for the main clause and every subordinate clauses is given a subsequent letter depending on the depth of the subordination. This is yet another use of letters, different from Herling's, Lehmann's and Götzinger's approaches.
+- Second, the depth of embedding is additionally indicated by indentation, though the first *c* clause does not follow this rule. 
+- Third, subordinate clauses are linked to their superodinate clause by vertical lines. However, he does not do this for the first level embeddings (marked *b*). Possibly he only intends for the lines to appear when the subordinate clause is internal to the superordinate clause.
+- Fourth, Hoffmann makes a distinction between clauses linked to a word and clauses linked to a blank position (marked with a long dash). Probably the dash is added when the subordinate clause is in a position not linked to any word at exactly that position. This is reminiscent of a proposal by Götzinger [-@gotzinger1839: 381].
 
-new: discussion of *Periode* p. 240: (use of letters like Lehmann)
+::: {.im #hoffmann1839_224}
+Graphical analysis of the complex sentence in [@last] from Hoffmann [-@hoffmann1839: 224]. Shown here is the version from Hoffmann [-@hoffmann1856: 109] because of the better quality of the available scan. There is a slight change in the clause *als daß sie ihn liebten*.
+:::
 
-> Von Perioden kann man Bilder entwerfen, indem man die Hauptsätze mit A B C, die Nebensätze ersten Grades mit a b c, die Nebensätze zweiten Grades mit α β ɣ, die Nebensätze dritten Grades mit 𝔞 𝔟 𝔠 bezeichnet. So ist z.B. das Schema der eben unter Nr. 5 aufgeführten Periode folgendes: [ A a α A b β : B c. ]
+The second edition of the *Schulgrammatik* [@hoffmann1853] takes over exactly the same graphics, but adds a few more examples of *mehrfache Sätze* [@hoffmann1853: 216-217]. And then, completely at the end of the book before the appendices, he adds the following comment in a small typeface, referring to the example sentence "Nr. 5" repeated below in [@next]:
+
+> Von Perioden kann man Bilder entwerfen, indem man die Hauptsätze mit A B C, die Nebensätze ersten Grades mit a b c, die Nebensätze zweiten Grades mit α β ɣ, die Nebensätze dritten Grades mit 𝔞 𝔟 𝔠 bezeichnet. So ist z.B. das Schema der eben unter Nr. 5 aufgeführten Periode folgendes: [ A a α A b β : B c. ] [@hoffmann1853: 240]
+>
+> ('It is possible to draft pictures of *Perioden* by indicating main clauses with A B C, first level subordinate clauses with a b c, second level subordinate clauses with α β ɣ, third level subordinate clauses with 𝔞 𝔟 𝔠. In this way, for example, the scheme of the *Periode* Nr. 5 is [ A a α A b β : B c. ].')
+
+The use of letters in different typefaces is clearly inspired by Lehmann (see [@sec:lehmann1833]), but Hoffmann removes all internal structure of the *Periodenbild*. The idea to simplify Lehmann's notation to a single line might have been inspired by Nägelsbach (see [@sec:nägelsbach1846]), but even then Hoffmann left out most of the symbols for internal structure. All in all, this feels like an afterthought, which Hoffmann never expanded to in later editions of the *Elementargrammatik*.
 
 ::: ex
 Es ist für denjenigen, der mit sich selbst noch nicht recht eins geworden ist, was er denn eigentlich suche und wolle, äußerst beängstigend, wenn er auf seinem Wege auf Sätze stößt, die allen seinen bisherigen Meinungen und den Meinungen seiner Zeitgenossen und der Vorwelt widersprechen: und gewiß ist diese Ängstlichkeit eine der Hauptursachen, warum die Menschheit auf dem Wege zur Wahrheit so langsame Forstschritte gemacht hat. [@hoffmann1853: 239, citing Fichte]
 :::
 
+In summary, Hoffmann tried to expand the proposals from Billroth by applying the grammatical line-graphics to subordinate clauses. Although his system is not well documented in his writings, it is comprehensible enough the be understood by experienced linguists. It has inspired at least Bauer (see [@sec:bauer1850]) and Kern ([@sec:kern1883]) to further develop the idea of line-based gramatical analyses.
 
-
-
-*Elementargrammatik* is sort-of a summary. contains the same image [@hoffmann1856: 80, 109] (fourth edition, first edition not digitally available)
-
-
-
-
-
-Neuhochdeutsche Elementargrammatik mit Rücksicht auf die Grundsätze der historischen Grammatik
-
-1. Auflage 1865 https://www.digitale-sammlungen.de/view/bsb10583851?page=5
-images: https://www.digitale-sammlungen.de/view/bsb10583851?page=194
-
-Kern cites Hoffmann [@kern1888], but only in the second edition after he already published his "tree" metaphors. The idea for the "trees" is already in "Satzlehre", finished in December 1882, and practically applied in "Methodik" of 1883.
-
-### Nägelsbach (1846) *Lateinische Stilistik*
+### Nägelsbach (1846) *Lateinische Stilistik* {#sec:nägelsbach1846}
 
 Carl Friedrich Nägelsbach (1806-1859)
 
-graphical *Periode* citing Lehmann [@nagelsbach1846: 281ff.]
+graphical *Periode* citing Lehmann [@nagelsbach1846: 281] also cites Götzinger p.282! simplifies Periodenbild to a single line by replacing horizontal bracket with a forward slash. Hierarchical front structure a:(b:[c:A]) on p. 19
 
 ### Fürg (1847) *Satz und Styllehre*
 
