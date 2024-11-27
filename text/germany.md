@@ -516,15 +516,29 @@ In summary, Hoffmann tried to expand the proposals from Billroth by applying the
 
 ### Nägelsbach (1846) *Lateinische Stilistik* {#sec:nägelsbach1846}
 
-Carl Friedrich Nägelsbach (1806-1859)
+Carl Friedrich Nägelsbach (1806-1859) was professor for classical studies in Erlangen. He wrote various commentaries on classical texts and a didactic explanation of Latin style, called *Lateinische Stilistik für Deutsche, ein sprachvergleichender Versuch* [@nagelsbach1846]. The book saw various editions up to a ninth edition in 1905, prepared by Iwan Müller.
 
-graphical *Periode* citing Lehmann [@nagelsbach1846: 281] also cites Götzinger p.282! simplifies Periodenbild to a single line by replacing horizontal bracket with a forward slash. Hierarchical front structure a:(b:[c:A]) on p. 19
+In the *Lateinische Stilistik* Nägelsbach uses *Periodenbilder* to analyse latin constructions, citing both Lehmann [@nagelsbach1846: 281] and Götzinger [@nagelsbach1846: 282] as inspiration. He simplifies the structure of the *Periodenbild* to be able to write them on a single line, using slashes instead of horizontal braces, as illustrated in [@fig:nägelsbach1846_286] [@nagelsbach1846: 286].
+
+Another innovation proposed by Nägelsbach is to use brackets for relative modification. Specifically, he notes that in Laten it is quite common to have multiple *Vordersätze*, i.e. clauses in front of the main clause, as indicated by the colon. Because of the ordering of modification, Nägelsbach proposed *Periodenbilder* like "a:(b:A)" and even "a:(b:[c:A])" for nested frontal clauses [@nagelsbach1846: 286, 289].
+
+::: {.im #nägelsbach1846_286}
+Simplified *Periodenbild* from Nägelsbach [-@nagelsbach1846: 286]. To be able to write *Periodenbilder* as a single line, he replaces the horizontal brace from Lehmann and Götzinger with a simple forward slash. This makes them much easier to typeset.
+:::
 
 ### Fürg (1847) *Satz und Styllehre*
 
-Johann Baptist Fürg (1802-1863) teacher in München
+1: urn:nbn:de:bvb:384-uba007175-0
+2: urn:nbn:de:bvb:384-uba007176-6
+3: urn:nbn:de:bvb:384-uba007177-1
+4: https://nbn-resolving.de/urn:nbn:de:bvb:384-uba007178-6
 
-fourth edition, unclear first edition. Numbered tables like becker [@furg1847: vi-viii]
+Johann Baptist Fürg (1802-1864) was a teacher in München. Not much is known about him, except for a glowing necrolog [@heitz1864]. He wrote various small booklets for use in school, among them a four volume grammar *Die deutche Sprache* (1850)
+
+fourth edition, unclear first edition (1845, explained in intro!). Numbered tables like becker, no attribution [@furg1847: vi-viii] probably new in this edition
+
+*Die deutsche Sprache dargestellt in Aufgaben sammt den nöthigsten Erläuterungen für die Volksschulen Bayerns* in four volumes (1850)
+
 
 ### Bauer (1850) *Neuhochdeutsche Grammatik* {#sec:bauer1850}
 
