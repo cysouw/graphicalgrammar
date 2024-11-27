@@ -528,17 +528,17 @@ Simplified *Periodenbild* from Nägelsbach [-@nagelsbach1846: 286]. To be able t
 
 ### Fürg (1847) *Satz und Styllehre*
 
-1: urn:nbn:de:bvb:384-uba007175-0
-2: urn:nbn:de:bvb:384-uba007176-6
-3: urn:nbn:de:bvb:384-uba007177-1
-4: https://nbn-resolving.de/urn:nbn:de:bvb:384-uba007178-6
+Johann Baptist Fürg (1802-1864) was a teacher in München. Not much is known about him, except for a glowing necrolog [@heitz1864]. He wrote various small booklets for use in school, among them a four volume grammar *Die deutsche Sprache dargestellt in Aufgaben sammt den nöthigsten Erläuterungen für die Volksschulen Bayerns* [@furg1850]. However, in that work there are no graphical methods used.
 
-Johann Baptist Fürg (1802-1864) was a teacher in München. Not much is known about him, except for a glowing necrolog [@heitz1864]. He wrote various small booklets for use in school, among them a four volume grammar *Die deutche Sprache* (1850)
+Earlier he wrote smaller textbook *Die Satz- und Styllehre mit Inbegriff der Wortbiegung, dargestellt in 760 Aufgaben sammt den nöthigsten Erläuterungen*, which was first published in 1845. In the fourth edition of 1847 he expanded the preface [cf. the third edition, @furg1846]. In this new preface, he addresses the teachers and present for them a few examples of how to analyse sentences [@furg1847: vi-viii]. One of these examples is shown in [@fig:fürg1847_vii]. This numbered tabular analysis is strongly reminiscent of Becker's approach (see [@sec:becker1829]). Becker is not mentioned in Fürg's text, but Fürg calls this approach *Analyse* or *Zergliederung*, and these are both words used by Becker. It is also telling that these examples are directed to teachers, not students, which is again similar to Becker. Finally, Fürg calls himself an adherent of the "new grammar", which might be a reference to Becker's approach to grammar:
 
-fourth edition, unclear first edition (1845, explained in intro!). Numbered tables like becker, no attribution [@furg1847: vi-viii] probably new in this edition
+> Aus dem bisher Gesagten geht zur Genüge hervor, daß ich mich entschieden als Anhänger der neuen Grammatik bekenne, und daß ich sie als den einzigen Weg betrachte, der zum wahren Verstehen der Sprache führt. [@furg1847: viii]
+>
+> ('It is clear from what has been said upto now, that I resolutely declare myself to be an adherent of the new grammar, and that I consider it to be the only way that will lead to a real understanding of language.')
 
-*Die deutsche Sprache dargestellt in Aufgaben sammt den nöthigsten Erläuterungen für die Volksschulen Bayerns* in four volumes (1850)
-
+::: {.im #fürg1847_vii}
+Numbered tabular analysis of a sentence from Fürg [-@furg1847: vii]. This analysis is strongly reminiscent of Becker's tabular analysis (see [@fig:becker1829_xvii]), although Fürg does not explicitly acknowledge Becker. Note that subject (*Satzding*) and predicate (*Aussage*) are not linked by the numbering, which is different from Becker's examples.
+:::
 
 ### Bauer (1850) *Neuhochdeutsche Grammatik* {#sec:bauer1850}
 

@@ -71,6 +71,7 @@ return {
   { Header = changeHeaderID },
   { Div = changeTabID },
   { Image = changeFigID },
+  { Figure = changeFigID },
   { Span = changeEqID },
   { Link = changeLinks }
 }
