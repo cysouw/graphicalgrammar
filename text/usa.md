@@ -9,10 +9,6 @@ Greene (1836) *A practical grammar of the English language*
 https://de.wikipedia.org/wiki/Roscoe_Greene
 https://google.com/books?id=PI4VAQAAMAAJ
 
-Blackboard in schools only starting in 1830s "As late as 1835 the idea of using slates and blackboards was exceedingly novel; in only a few schools does it appear to have been attempted before this time" [@lyman1922: 148]
-
-> In the study of Grammar the blackboard may be used to exhibit the inflections of the various parts of speech; it may also be used in syntax, to point out the connection of the principal words to each other. The method of doing this is by writing on the board the sentence to be parsed, **and then connecting by curved lines those words that have any grammatical connection with each other**. The instructor at the same time pointing out what that relation is. [James Ray 1830, cited in @lyman1922: 148, emphasis added]
-
 ## Teaching grammar to the Deaf
 
 ### Barnard (1836) *Analytic Grammar*

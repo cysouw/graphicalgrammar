@@ -2,6 +2,14 @@
 
 ## Graphics before Chomsky and Tesnière
 
+At least since the late 1950s, with the publication of Chomsky [-@chomsky1957] and Tesnière [-@tesniere1959], the idea to draw graphical representations of sentence structure has become a cornerstone of contemporary linguistics. However, graphical procedures for the syntactic analysis of language have a long history, far predating Chomsky and Tesnière. Both these men have been quite tight-lipped about the sources of inspiration for their syntactic displays, implicitly suggesting that their graphical conceptualisations of sentence structure were singular innovations. Quite to the contrary, in this book I will attempt to show that there is a continuous tradition of graphical grammar going back to about 1830, with even a few incidental precursors predating that starting point. This history, about 200 years at the time of this writing, has many twist and turns, with forgotten, rediscovered and independently discovered ideas, with periods of frantic innovation followed by phases of settling tradition, and in general with the promise of graphical grammar lingering in the scientific air.
+
+A central driver of innovation for visual methods throughout this history was education. Time and again, the didactic desire to clarify the often twisted linguistic constructions used by our most beloved geniuses of language, by our great authors and poets, drove teachers to the drawing board. Quite literary, it might very well have been the general availability of blackboards in schools that kicked of the graphing craze starting in 1830s. Lyman describes for the USA that "as late as 1835 the idea of using slates and blackboards was exceedingly novel; in only a few schools does it appear to have been attempted before this time" [@lyman1922: 148]. He even quotes a contemporary educator:
+
+> In the study of grammar the blackboard may be used to exhibit the inflections of the various parts of speech; it may also be used in syntax, to point out the connection of the principal words to each other. The method of doing this is by writing on the board the sentence to be parsed, **and then connecting by curved lines those words that have any grammatical connection with each other**. The instructor at the same time pointing out what that relation is. [James Ray 1830, cited in @lyman1922: 148, emphasis added]
+
+Yet, also from the very start the graphical methods were also used to clarify linguistic structures in scholarly debates.
+
 ## Graphical methods
 
 - symbols inserted between words
@@ -16,6 +24,22 @@
 - music score, high/low lines
 - indentation
 - etc.
+
+## Previous research
+
+Previous studies into the history of graphical grammar: [@gelbe1880; @grosse1966; @brittain1973; @percival1976; @stewart1976; @baum1976: 36-42; @coseriu1980; @forsgren1992; @thummel1993; @seuren1998: 219-227; @franzkowiak2013; @seuren2015; @dukes2024] 
+
+Studies on grammar writing in general: [@lyman1922; @huston1954; @leitner1991; @gorlach1997; @graffi2001; @linn2006]
+
+- <http://www.polysyllabic.com/?q=olddiagrams>
+- <https://dickhudson.com/sentence-diagramming/>
+- <https://bsky.app/profile/coffeeanddonatus.bsky.social/>
+
+## Structure of this book
+
+The current structure of this manuscript has all developments organised roughly by nationality. This is just an practical strategy to classify the material. The ultimate structure of the book might very well be organised by scholarly traditions. However, the basic units of the story will always be the thrid-level sections that summarise the contribution of a specific author. Only in very few cases I have decided to discuss the same author in multiple sections. The general plan is to compile for each author a little miniature of a few pages with a few selected images illustrating their graphical approach.
+
+There are often multiple editions of the works that are discussed here, and these different editions sometimes contain quite different ideas. So it is important to check exactly which edition is consulted. The bibliography includes links to scans of the originals, with different entries for the different editions consulted. Unfortunately, not all crucial editions are available online yet. Still, every cited page-number is clickable and leads directly to the bibliographical entry, which (mostly) contains a link to the original available online. In this way the original context of every contribution discussed here is immediately available to the interested reader.
 
 ## Functional terminology for sentence analysis
 
@@ -52,17 +76,3 @@ There seem to be at least two reasons:
 - First, the opposition subject/predicate with many authors becomes just a updated terminological replacement for the classical linguistic concepts of Greek *ὄνομᾰ*/*ῥῆμα* or Latin *suppositum/appositum*.
 - Second, IE verb inflection
 - Argument against: developing ideas about the verb as centre of the sentence, projecting roles/arguments. Subject not distinctiv
-
-## Previous research
-
-Previous studies into the history of graphical grammar: [@gelbe1880; @grosse1966;@brittain1973;@percival1976;@stewart1976;@baum1976: 36-42;@coseriu1980;@forsgren1992;@thummel1993;@seuren1998: 219-227;@franzkowiak2013;@seuren2015;@dukes2024] 
-
-Studies on grammar writing in general: [@lyman1922;@huston1954;@leitner1991;@gorlach1997;@graffi2001;@linn2006]
-
-- <http://www.polysyllabic.com/?q=olddiagrams>
-- <https://dickhudson.com/sentence-diagramming/>
-- <https://bsky.app/profile/coffeeanddonatus.bsky.social/>
-
-## Structure of this book
-
-Often multiple editions of works, with differences. So it is important to check exactly which edition is consulted. Bibliography includes links to scans of the originals, different entries for different editions consulted. Not all crucial editions are available online, but hopefully this will change.
