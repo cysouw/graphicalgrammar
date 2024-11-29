@@ -2,6 +2,8 @@
 
 ## Syntactic tables
 
+### Becker (1830) *A grammar of the German language* {#sec:becker1830}
+
 Note tables in [@becker1830: 253-261]
 
 ### James (1847) *The elements of grammar*

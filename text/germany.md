@@ -2,15 +2,9 @@
 
 ## A mostly forgotten tradition
 
-### *Periode*
+### German linguistics in the 19th Century
 
-He uses the term *Periode* for the complex sentence, a term that goes straight back to antiquity. Aristotle uses the term *περίοδος* 'periodos' to describe something akin to a complete sentence, consisting of multiple clauses (with *κῶλον* 'kolon' being used for something akin to a clause). Burkett explains that "the term *periodos* is one of Aristotle‘s visual metaphors, suggesting a circular motion or completeness of thought and rhythm." [@burkett2011: 206].
-
-> λέγω δὲ περίοδον λέξιν ἔχουσαν ἀρχὴν καὶ τελευτὴν αὐτὴν καθ᾽ αὑτὴν καὶ μέγεθος εὐσύνοπτον (Aristoteles, Rhetorica III 9.3)^[Original online at the Perseus Digital Library < http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg038.perseus-grc1:3.9.3>.]
-> 
-> ['I call a period an expression having a beginning and an end in itself and a magnitude easily taken in at a glance.' translation from @burkett2011: 206]
-
-The term *Periode* as a grammatical term for the complex sentence is widespread in German 18th and 19th Century grammatical texts. It is used already by Meiner [-@meiner1781: 446] and Heyse [-@heyse1814: 491] and appears in almost all works to be discussed later in this chapter.
+The 19th Century is widely considered to be the heyday of German linguistics. Many of the great names from the history of linguistics are German scholars from the 19th Century. Yet, none of the greats will be discussed in this chapter and most scholars listed here will be completely unfamiliar to most contemporeneous linguists.
 
 ### *Nackte Sätze*
 
@@ -30,7 +24,17 @@ The term *bekleidet* leads to a lot of discussion, because of the sexual connota
 
 Hoffmann 1839 uses nackter und umkleideter Satz 146-148
 
-## Preliminary groundwork
+### *Periode*
+
+He uses the term *Periode* for the complex sentence, a term that goes straight back to antiquity. Aristotle uses the term *περίοδος* 'periodos' to describe something akin to a complete sentence, consisting of multiple clauses (with *κῶλον* 'kolon' being used for something akin to a clause). Burkett explains that "the term *periodos* is one of Aristotle‘s visual metaphors, suggesting a circular motion or completeness of thought and rhythm." [@burkett2011: 206].
+
+> λέγω δὲ περίοδον λέξιν ἔχουσαν ἀρχὴν καὶ τελευτὴν αὐτὴν καθ᾽ αὑτὴν καὶ μέγεθος εὐσύνοπτον (Aristoteles, Rhetorica III 9.3)^[Original online at the Perseus Digital Library < http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg038.perseus-grc1:3.9.3>.]
+> 
+> ['I call a period an expression having a beginning and an end in itself and a magnitude easily taken in at a glance.' translation from @burkett2011: 206]
+
+The term *Periode* as a grammatical term for the complex sentence is widespread in German 18th and 19th Century grammatical texts. It is used already by Meiner [-@meiner1781: 446] and Heyse [-@heyse1814: 491] and appears in almost all works to be discussed later in this chapter.
+
+## Groundwork
 
 ### Moritz (1782) *Deutsche Sprachlehre* {#sec:moritz1782}
 
@@ -186,15 +190,17 @@ Intonation contours for multi-clause extended sentences, the so-called *Periode*
 
 ### Becker (1829) *Deutsche Grammatik* {#sec:becker1829}
 
-Karl Ferdinand Becker (1775-1849) was probably one of the most influential grammatical educators from the start of the 19th Century. He originally started out as a medical doctor, but that turned out not be a financial success. Instead, he started to make a living by teaching German to English-speaking students. Turning his attention to linguistics, he wrote various books about German grammar. For a thorough repraisal of Becker's linguistic work, see Haselbach [-@haselbach1966]. Becker also became a member of the *Frankfurter Gelehrtenverein für deutsche Sprache*, where he met Herling (see [@sec:herling1823]) and Schmitthenner (see [@sec:schmitthenner1828]).
+Karl Ferdinand Becker (1775-1849) was probably one of the most influential grammatical educators from the start of the 19th Century. He originally started out as a medical doctor, but that turned out not be a financial success. Instead, he opened a small private school in Offenbach teaching German to English-speaking students. Turning his attention to linguistics, he wrote various books about German grammar. For a thorough repraisal of Becker's linguistic work, see Haselbach [-@haselbach1966]. Becker also became a member of the *Frankfurter Gelehrtenverein für deutsche Sprache*, where he met Herling (see [@sec:herling1823]) and Schmitthenner (see [@sec:schmitthenner1828]).
 
-In his *Organism der Sprache als Einleitung zur deutschen Grammatik* [@becker1827] Becker presents a clear plan for analysis of syntactic relationships inside the sentence (which he called *Satzverhältnisse*), and it is easily possible to anachronistically depict these ideas graphically [e.g. @haselbach1966: 156-161]. However, Becker himself never produced any graphical display of the analysis of a specific sentence, but he came very close with a tabular method of analysis.
-
-Becker orginaly introduced a few examples of his tabular method in the preface of the *Deutsche Grammatik* [@becker1829]. Here he presents a few examples of how sentences should be analysed, calling the process *Analyse der Sätze* [@becker1829: xvi-xix]. This explanation is addressed to teachers, instructing them how students should approach the analysis of a sentence. Astonishingly, he never describes this analytical approach in the grammar itself. He returns to this approach in a short book *Über die Methode des Unterrichtes in der deutschen Sprache*, again directed to teachers [@becker1833a: 36-46]. In this book he calls the process *Zergliederung*.
+In his *Organism der Sprache als Einleitung zur deutschen Grammatik* [@becker1827] Becker presents a clear plan for analysis of syntactic relationships inside the sentence (which he called *Satzverhältnisse*), and it is easily possible to anachronistically depict these ideas graphically [e.g. @haselbach1966: 156-161]. However, Becker himself never produced any graphical display of the analysis of a specific sentence, but he came very close with a tabular method of analysis. He orginaly introduced a few examples of his tabular method in the preface of the *Deutsche Grammatik* [@becker1829]. Here he presents a few examples of how sentences should be analysed, calling the process *Analyse der Sätze* [@becker1829: xvi-xix]. This explanation is addressed to teachers, instructing them how students should approach the analysis of a sentence. Astonishingly, he never describes this analytical approach in the grammar itself. He returns to this approach in a short book *Über die Methode des Unterrichtes in der deutschen Sprache*, again directed to teachers [@becker1833a: 36-46]. In this book he calls the process *Zergliederung* 'dissection'.
 
 Becker's basic idea is to use a table with all words of the sentence listed as the rows of a table. This approach feels completely natural in the English grammatical tradition of "parsing", which he might have encountered while teaching English-speaking students. In the English grammatical tradition, parsing has a long history. The English word itself originates from the Latin *pars orationis*, i.e. originally parsing is the process to assign parts of speech to individual words. The Oxford English Dictionary lists examples of this usage all the way back to the 16th Century. However, the process of consistently going through a sentence, listing all words separately, and analysing each one individually, seems to have been first used by John Brinsly the Elder in his *Ludus Literarius* from 1612 [nice examples in @brinsley1612: 102, 130]. In the centuries since, this approach to parsing became a mainstay in the English grammatical tradition [@lyman1922: 120-122]. Curiously, this approach to sentence analysis seems to have been basically unknown outside of the English-speaking grammatical tradition.
 
-An example of Becker's table is shown in [@fig:becker1829_xvii], analysing the example sentence in [@next]. The crucial innovation of Becker is the addition of numbers to each row of the table, an approach never before and never since used in the English tradition. Becker uses these numbers to clarify the relationships between the words, as for each word he adds the number to the word it modifies at the end of each row in the table.
+An example of Becker's table is shown in [@fig:becker1829_xvii], analysing the example sentence in [@next]. The crucial innovation of Becker is the addition of numbers to each row of the table, an approach never before, and never since, used in the English tradition. Becker uses these numbers to clarify the relationships between the words, as for each word he adds the number to the word it modifies at the end of each row in the table. Another aspect stressed by Becker is that the analysis has two parts: the *Wortform* ("parts of speech") and the *grammatische Bedeutung* ("grammatical meaning"). This twofold analysis might very well be inspired by the highly influential English grammar of Murray, who likewise distinguishes two different kinds of parsing: "[parsing] should be divided into two parts: viz. parsing, as it respects etymology alone; and parsing, as it respects both etymology and syntax" [@murray1824: 195].
+
+> Auch darf die Analyse sich nicht darauf beschränken, etwa nur die Wortarten zu unterscheiden: sie muß bei jedem Gliede des Satzes seine grammatische Bedeutung und die besondere Art der Beziehung bezeichnen, durch welche es mit dem Satze verbunden ist. [@becker1829: xvi]
+>
+> ('The analysis should not be restricted to distinguish the parts of speech: it has to indicate for each part of the sentence its grammatical meaning and the special kind of relationship, with which it is connected to the sentence.')
 
 ::: ex
 Wallenstein wußte längst den Inhalt ihrer Sendung als die Abgesandten des Kaisers ihm vor die Augen traten.
@@ -204,17 +210,17 @@ Wallenstein wußte längst den Inhalt ihrer Sendung als die Abgesandten des Kais
 Tabular analysis of the sentence in [@last] from the preface of Becker [-@becker1829: xvii]. The crucial innovation of this "parsing" table is the addition of line-numbers at the start of each row, which allows for a reference to the head of each row (given at the end of each row after *zu*). This format is almost completely identical to the CoNNL-U format for dependency trees, which is widely used today, almost 200 years later. A dependency tree for this table is shown in [@fig:becker1829_xvii_tree].
 :::
 
-The format of the table is actually almost completely identical to the modern CoNLL-U table-format^[<https://universaldependencies.org/format.html>] of for dependency trees. In that format all words are listed in a tab-delimeted file, with minimally five columns: (i) a numerical ID, (ii) the linguistic elemens, (iii) the word class, (iv) the relation to the head, and (v) the number of the head it modifies. The resulting dependency tree is shown in [@fig:becker1829_xvii_tree]. The file to reproduce this tree is linked at the end of the caption, and is almost verbatim the table from Becker's book of 1829.
+The format of the table is actually almost completely identical to the contemporary CoNLL-U table-format^[<https://universaldependencies.org/format.html>] for dependency trees. In that format all words are listed in a tab-delimeted file, with minimally five columns: (i) a numerical ID, (ii) the linguistic element, (iii) the word class, (iv) the relation to the head, and (v) the number of the row of the head it modifies. The resulting dependency tree is shown in [@fig:becker1829_xvii_tree]. The file to reproduce this tree is linked at the end of the caption, and is almost verbatim the table from Becker's book of 1829.
 
 ::: {.tree #becker1829_xvii_tree}
 Dependency tree of [@last] on the basis of the tabular analysis by Becker as shown in [@fig:becker1829_xvii]. This dependency tree is generated by using the CoNLL-U format (code linked at the end), which is almost a verbatim copy of the tabular analysis by Becker. Note that in this analysis, the subject is head of the verb, while the verb is the head of the other elemenst in the sentence.
 :::
 
-A more extensive description of this tabular method is given in Becker [-@becker1833a: 38-46], using the Term *Zergliederung*. From the exposition in that book the impression arises that Becker considered this kind of analysis the basis of all grammatical education. He argues how important it is to practice this *Zergliederung* with students, and that all other aspects of the grammar can be better explained and understood when they are able to perform such a *Zergliederung*. It remains completely unclear why this method is only presented in texts adressed for the teachers, and never in the actual grammar books.
+A more extensive description of this tabular method is given in Becker [-@becker1833a: 38-46], now using the Term *Zergliederung* 'dissection'. From the exposition in that book the impression arises that Becker considered this kind of analysis the basis of all grammatical education. He stresses how important it is to practice the *Zergliederung* with students, and that all other aspects of the grammar can be better explained and understood when they are able to perform such a *Zergliederung*. Given this perspective, it remains completely unclear why this method is only presented in texts adressed to the teachers, and never explained to the students in the actual grammar books.
 
-A final example of such a *Zergliederung* is presented in [@fig:becker1833_43] for the sentence in [@next]. This example is interesting because it contains various subordinated clauses. However, the method is easily extended to deal with such complex sentences. I leave it as an exercise for the reader to turn this table into the CoNLL-U format and generate a dependency tree.
+An example of such a *Zergliederung* from Becker [-@becker1833a: 43] is presented in [@fig:becker1833_43] for the sentence in [@next]. This example is interesting because it contains various subordinated clauses. Becker's method is easily extended to deal with such complex sentences. I leave it as an exercise for the reader to turn this table into the CoNLL-U format and generate a dependency tree.
 
-In summary, the grammatical writings of Becker have had a lot of influence in the 19th Century, but his very practical idea of a numbered tabular analysis has unfortunately not been widely acknowledged. Diesterweg used it, but those proposals also did not have a large impact (see [@sec:diesterweg1830]).
+In summary, the grammatical writings of Becker have had a lot of influence in the 19th Century, but his very practical idea of a numbered tabular analysis has unfortunately not been widely acknowledged. Diesterweg used it, but his proposals also did not have a large impact (see [@sec:diesterweg1830]). Likewise Fürg adopted it (see [@sec:fürg1847]), but that was the last time this method seem to have appeared in the literature. Still, Becker did have an influence on the graphical grammatical practice in Great Brittain, but in a slightly different way (see [@sec:becker1830]).
 
 ::: ex
 Jakob schickte seinen jüngsten Sohn nicht mit den übrigen nach Aegypten, weil schon einmal ein Sohn, den er ausgesandt hatte, nicht zurückgekehrt war, und weil er fürchtete, daß auch diesem ein Unfall begegnen möchte.
@@ -508,11 +514,11 @@ The second edition of the *Schulgrammatik* [@hoffmann1853] takes over exactly th
 >
 > ('It is possible to draft pictures of *Perioden* by indicating main clauses with A B C, first level subordinate clauses with a b c, second level subordinate clauses with α β ɣ, third level subordinate clauses with 𝔞 𝔟 𝔠. In this way, for example, the scheme of the *Periode* Nr. 5 is [ A a α A b β : B c. ].')
 
-The use of letters in different typefaces is clearly inspired by Lehmann (see [@sec:lehmann1833]), but Hoffmann removes all internal structure of the *Periodenbild*. The idea to simplify Lehmann's notation to a single line might have been inspired by Nägelsbach (see [@sec:nägelsbach1846]), but even then Hoffmann left out most of the symbols for internal structure. All in all, this feels like an afterthought, which Hoffmann never expanded to in later editions of the *Elementargrammatik*.
-
 ::: ex
 Es ist für denjenigen, der mit sich selbst noch nicht recht eins geworden ist, was er denn eigentlich suche und wolle, äußerst beängstigend, wenn er auf seinem Wege auf Sätze stößt, die allen seinen bisherigen Meinungen und den Meinungen seiner Zeitgenossen und der Vorwelt widersprechen: und gewiß ist diese Ängstlichkeit eine der Hauptursachen, warum die Menschheit auf dem Wege zur Wahrheit so langsame Forstschritte gemacht hat. [@hoffmann1853: 239, citing Fichte]
 :::
+
+The use of letters in different typefaces is clearly inspired by Lehmann (see [@sec:lehmann1833]), but Hoffmann removes all internal structure of the *Periodenbild*. The idea to simplify Lehmann's notation to a single line might have been inspired by Nägelsbach (see [@sec:nägelsbach1846]), but even then Hoffmann left out most of the symbols for internal structure. All in all, this feels like an afterthought, which Hoffmann never expanded to in later editions of the *Elementargrammatik*.
 
 In summary, Hoffmann tried to expand the proposals from Billroth by applying the grammatical line-graphics to subordinate clauses. Although his system is not well documented in his writings, it is comprehensible enough the be understood by experienced linguists. It has inspired at least Bauer (see [@sec:bauer1850]) and Kern ([@sec:kern1883]) to further develop the idea of line-based gramatical analyses.
 
@@ -528,7 +534,7 @@ Another innovation proposed by Nägelsbach is to use brackets for relative modif
 Simplified *Periodenbild* from Nägelsbach [-@nagelsbach1846: 286]. To be able to write *Periodenbilder* as a single line, he replaces the horizontal brace from Lehmann and Götzinger with a simple forward slash. This makes them much easier to typeset.
 :::
 
-### Fürg (1847) *Satz und Styllehre*
+### Fürg (1847) *Satz und Styllehre* {#sec:fürg1847}
 
 Johann Baptist Fürg (1802-1864) was a teacher in München. Not much is known about him, except for a glowing necrolog [@heitz1864]. He wrote various small booklets for use in school, among them a four volume grammar *Die deutsche Sprache dargestellt in Aufgaben sammt den nöthigsten Erläuterungen für die Volksschulen Bayerns* [@furg1850]. However, in that work there are no graphical methods used.
 
@@ -795,17 +801,13 @@ cited second edition [@muller1922: 49] one tree example like Kern, with verb on 
 
 Deutsche Sprachkunde in der Arbeitsschule, Leipzig 1923
 
-### Langholf (1969) *Die Syntax des deutschen Amadisromans* {#sec:langholf1969}
-
-[@langholf1969: 10] own version of Periodenbau, cites Menge as inspiration!
-
-## Feldermodell
+## *Feldermodell*
 
 ### Drach (1937) *Grundgedanken der deutschen Satzlehre*
 
 Erich Drach (1885-1935) [@drach1937]
 
-## Modern incarnations
+## Later incarnations
 
 ### Essen (1956) *Methodik des Deutschunterrichts*
 
@@ -825,6 +827,10 @@ https://www.lagis-hessen.de/de/subjects/print/sn/bio/id/18993
 [@rychener1960]
 
 [@rychener1982] Many different ideas by Rychener: underlining of clause-internal structure [@rychener1982: 150-151], Becker-style tables [@rychener1982: 178], tab-inserts [@rychener1982: 176], Vertical displacement of clause-combinations like Flothuis [@rychener1982: 189]
+
+### Langholf (1969) *Die Syntax des deutschen Amadisromans* {#sec:langholf1969}
+
+[@langholf1969: 10] own version of Periodenbau, cites Menge as inspiration!
 
 ### Lobentanzer (1986) *Deutsch muß nicht schwer sein*
 
