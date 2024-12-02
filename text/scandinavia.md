@@ -109,6 +109,7 @@ https://fi.wikipedia.org/wiki/Kaarlo_Nieminen_(kielitieteilijä)
 "The mutual relations of the parts of a sentence can be illustrated by means of a drawing. If we mark the subject with a thick vertical line, the predicate with a thick horizontal line extending from it, the conditions of each with thinner lines directed diagonally, and the conditions of the conditions again with lines directed diagonally."
 
 no graphics in 1898: https://urn.fi/URN:NBN:fi-fd2015-00009354
+no graphics in 1925 [@setala1925]
 
 ## Diderichsen (1947) *Elementær dansk grammatik*
 

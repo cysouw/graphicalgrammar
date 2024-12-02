@@ -17,7 +17,7 @@ function setCaptions (div)
   if div.classes[1] == "im" then
 
     -- prepare link to hi-res image
-    local content = {pandoc.Strong("[Hi-Res image]")}
+    local content = {pandoc.Strong("[Hi‑Res image]")}
     local target = "https://cysouw.github.io/graphicalgrammar/figures/"..id.."_full.jpg"
     local title = "Click here for higher resolution image"
     local link = pandoc.Link(content, target, title)
