@@ -101,9 +101,9 @@ discussion in [@cigana2020]
 
 ## Setälä & Nieminen (1946) *Suomen kielen oppikirja*
 
-Eemil Nestor Setälä (1864-1935) was a well-known a Finnish politician and author of the Finnisch declaration of independence. However, he was also a professor for Finnish language and literature at Helsinki University and wrote a little booklet *Suomen kielen oppikirja* 'Finnisch language textbook'. The first edition appeared in 1898 and has been reprinted various time. The version from 1925, that I have consulted, does not have any graphical analyses [@setala1925].
+Eemil Nestor Setälä (1864-1935) was a well-known Finnish politician and author of the Finnish declaration of independence. However, he was also a professor for Finnish language and literature at Helsinki University and wrote a little booklet *Suomen kielen oppikirja* 'Finnisch language textbook'. The first edition appeared in 1898 and has been reprinted various time. The version from 1925, that I have consulted, does not have any graphical analyses [@setala1925].
 
-Kaarlo Nieminen (1887-1955) was a finnish language teacher, later lecturer and professor at Helsinki University. After the deatch of Setälä he revised the *Suomen kielen oppikirja* in 1939. This revision was also reprinted many times. The version from 1946, that I have consulted, has an interesting graphical analysis for the example sentence in [@next] as shown in [@fig:setälä1946_68] [@setala1946: 68]. It is unclear whether this approach with arrows for modification has any precursors, or whether this is an original idea from Nieminen:
+Kaarlo Nieminen (1887-1955) was a Finnish language teacher, later lecturer and professor at Helsinki University. After the death of Setälä he revised the *Suomen kielen oppikirja* in 1939. This revision was also reprinted many times. The version from 1946, that I have consulted, has an interesting graphical analysis for the example sentence in [@next] as shown in [@fig:setälä1946_68] [@setala1946: 68]. It is unclear whether this approach with arrows for modification has any precursors, or whether this is an original idea from Nieminen:
 
 > Lauseenosien keskinäisia suhteita voidaan havainnollistaa piirroksen avulla. Josmerkitsemme subjektin paksulla pystysuoralla viivalla, predikaatin siita lähtevalla paksulla vaakasuoralla viivalla, kumpaisenkin määräykset nihin vinosti suuntautuvilla ohuemmilla viivoilla sekä määräysten määräykset taas nihin suuntautuvilla viivoila. [@setala1946: 68]
 > 
@@ -113,14 +113,14 @@ Kaarlo Nieminen (1887-1955) was a finnish language teacher, later lecturer and p
 |
 | Mattila-n pienet poja-t luki-vat hyvin ahkerasti vaikeita läksyjä-nsä
 | Mattila-GEN little boy-PL study-3PL very diligently difficult homework-3PL
-| 'The little boys in Mattila are studying their difficult homework very diligently.'
+| 'The little boys from Mattila are studying their difficult homework very diligently.'
 :::
 
 ::: {.im #setälä1946_68}
 Dependency graph with arrows for the example sentence in [@last] from Setälä & Nieminen [-@setala1946: 68]. The diagonal placement of the arrows is faintly reminiscent of the USA-style diagramming, but the details of the positioning are completely different. This display might very well be an innovation by Nieminen.
 :::
 
-Aulis Ojajärvi (1913-1968) was a language teacher and in 1964, after the deatch of Kaarlo Nieminen, once again revised the *Suomen kielen oppikirja*. The version from 1970, that I have consulted, is rather different from earlier versions and contains completely different graphical analyses [@setala1970]. The structure from the examples sentence [@next] is illustrated in two different ways in [@fig:setälä1970_77]. The upper version is strongly reminiscent of the visualisation of Beckman (see [@sec:beckman1904]). The lower display is structurally identical, but the words are placed in their regular sentence order.
+Aulis Ojajärvi (1913-1968) was a language teacher and in 1964, after the death of Kaarlo Nieminen, he once again revised the *Suomen kielen oppikirja*. The version from 1970, that I have consulted, is rather different from earlier versions and contains completely different graphical analyses [@setala1970]. The structure from the examples sentence [@next] is illustrated in two different ways in [@fig:setälä1970_77]. The upper version is strongly reminiscent of the visualisation of Beckman (see [@sec:beckman1904]). The lower display is structurally identical, but the words are placed in their regular sentence order.
 
 ::: ex
 |
