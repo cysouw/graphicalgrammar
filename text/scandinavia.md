@@ -2,9 +2,19 @@
 
 ## Broberg (1882) *Manuel de la langue danoise*
 
-Severin Carl Olfert Fischer Broberg (1822-1900)
+Severin Carl Olfert Fischer Broberg (1822-1900) was a danish author and occasional lecturer at the Universities of Randers and Odense. He wrote a Danish language guide for French speakers, called *Manuel de la langue danoise* [@broberg1882]. To explain the Danish sentence structure he used a special graphical technique of an indented table [@broberg1882: 95-102]. There is no indication towards any inspiration that might have led Broberg to propose this kind of analysis.
 
-indented table with sentence structure [@broberg1882: 95-102]
+Repeated here is one of Broberg's Danish example sentence in [@next a], with his own French translation [@next b] and an additional English translation by me [@next c]. Broberg's graphical analysis is shown in [@fig:broberg1882_95]. The basic sentence *Datter viste et Maleri* 'Daughter showed a painting' is shown in bold typeface at the left side of the tabular display. All modifier phrases are shown below their head phrases, indented to the right. The order of the phrases from top to bottom reflects their modification order. For example, *Datter* 'daughter' is first modified by *ældste* 'oldest' and then by *Generalens* 'of the general'. However, the order of these elements in a Danish sentence is reversed: the real order in which the words occur in the Danish sentence is indicated by the numbers in the table.
+
+::: ex
+- Generalens ældste Datter viste, for at give Samtalen en anden Vending, en af Gjæsterne et fra Kjøbenhavn ankommet, en læsende Hyrde forestillende Maleri.
+- La fille aînée du général, pour faire diversion à l'entretien, montra à l'un des convives un tableau venu de Copenhague et représentant un berger lisant.
+- The general's eldest daughter, to give the conversation a different turn, showed one of the guests a painting that had arrived from Copenhagen, depicting a reading shepherd.
+:::
+
+::: {.im #broberg1882_95}
+Indented table by Broberg [-@broberg1882: 95] to explain the sentence structure of the Danish example sentence in [@last a]. The actual order of the words is indicated by the numbers. The top to bottom order in the table indicates relative modification, i.e. each indented phrase modifies the head phrase above it.
+:::
 
 ## Lindwall (1903) *Några ord om satsanalys*
 

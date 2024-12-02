@@ -685,7 +685,7 @@ Music-score analysis of the complex sentence in [@last] from Schlecht [@schlecht
 
 Periode like Lehmann, §194-195 (312-314), cited here in the 3rd edition [@wetzel1871: 312-316]
 
-Almost identical, just a bit shorter and streamlined, in *Leitfaden*, first edition 1868 [@wetzel1868: 182], also in the 46th edition [@wetzel1871: 223-224]
+Almost identical, just a bit shorter and streamlined, in *Leitfaden*, first edition 1868 [@wetzel1868: 182], also in the 46th edition [@wetzel1893: 223-224]
 
 using superscripts, no distinction between different kinds of clauses
 
@@ -699,9 +699,14 @@ using slashes like Nägelsbach
 
 ### Schütze (1875) *Ueber den deutschen Gliedsatz*
 
-Adolf Schütze (1824-unkown) was a teacher at the Karls-Gymnasium in Bernburg. In the school's yearbook of 1875 he wrote a small essay *Über den deutschen Gliedersatz (Periode) und die Gesetze seines Baues* [@schutze1875: 15].
+Adolf Schütze (1824-unkown) was a teacher at the Karls-Gymnasium in Bernburg. In the school's yearbook of 1875 he wrote a small essay *Über den deutschen Gliedersatz (Periode) und die Gesetze seines Baues* [@schutze1875], which includes an interesting graphical syntactic analysis. He analyses a long quote from Friedrich Schiller [@next], consisting of four sentences with numerous subordinate clauses. This long and complex linguistic structure is very concisely summarised by the graphic in [@fig:schütze1875_15]. In a footnote he cites Herling, Lehmann, Becker and Haupt [@schutze1875: 8], but the graphical display is more similar to Diesterwegs's approach (see [@fig:diesterweg1834_169]). However, the details are completely idiosyncratic:
 
-citing herling, lehmann, becker, haupt, but the graphic is more like Diesterweg or schlecht, who are not cited
+- Main clauses are marked with a capital letter *A*
+- Different levels of embedding are indicated both by graphically lower placement and by different lower-case letters
+- The letter *k* indicates *kurz*, i.e. a shortened *zu+Infinitiv* clause
+- Arches connect separated parts from the same clause
+- Plusses connect clauses with shared arguements
+- Punctuation like commas, colons and semicolons are copied verbatim from the sentence into the graphic display.
 
 ::: ex
 - Möglich allerdings und sehr wahrscheinlich, dass die französischen Protestanten emsig daran arbeiteten, in den Niederlanden eine Pflanzschule für ihre Religion zu erhalten, und eine gütliche Vergleichung ihrer dortigen Glaubensbrüder mit dem Könige von Spanien durch jedes Mittel zu verhindern strebten, um diesem unversöhnlichen Feinde ihrer Partei in seinem eigenen Lande zu thun zu geben; 
@@ -714,7 +719,7 @@ citing herling, lehmann, becker, haupt, but the graphic is more like Diesterweg 
 :::
 
 ::: {.im #schütze1875_15}
-Graphical display from Schütze [-@schutze1875: 15] of the Schiller quote in [@last]. Schütze calls this a *Gedankenperiode* 'thought-period' consisting of four sentences. Main clauses are marked with a capital letter *A*; different levels of embedding are indicated both by lower placement, by indentation, and by different lower-case letters; the letter *k* indicates *kurz*, i.e. a shortened *zu+Infinitiv* clause; arches connect separated parts from the same clause; plusses connect clauses with shared arguements; Punctuation like commas, colons and semicolons are copied verbatim from the sentence into the graphic display.
+Graphical display from Schütze [-@schutze1875: 15] of the long and complex quotation from Friedrich Schiller in [@last]. Schütze calls this a *Gedankenperiode* 'thought-period' consisting of four sentences with 35 different subordinate clauses.
 :::
 
 ### Gelbe (1877) *Deutsche Sprachlehre*
