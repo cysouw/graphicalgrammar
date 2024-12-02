@@ -2,9 +2,9 @@
 
 ## A mostly forgotten tradition
 
-### German linguistics in the 19th Century
+### German linguistics at its prime
 
-The 19th Century is widely considered to be the heyday of German linguistics. Many of the great names from the history of linguistics are German scholars from the 19th Century. Yet, none of the greats will be discussed in this chapter and most scholars listed here will be completely unfamiliar to most contemporeneous linguists.
+The 19th Century is widely considered to be the heyday of German linguistics. Many of the great names from the history of linguistics are German scholars from the 19th Century, e.g. von Humboldt, Grimm, Schleicher, Paul, Delbrück. Yet, none of the greats will be mentioned in this chapter. In contrast, many of the scholars that will be discussed here will be completely unfamiliar to most contemporeneous linguists.
 
 ### *Nackte Sätze*
 
@@ -522,13 +522,43 @@ The use of letters in different typefaces is clearly inspired by Lehmann (see [@
 
 In summary, Hoffmann tried to expand the proposals from Billroth by applying the grammatical line-graphics to subordinate clauses. Although his system is not well documented in his writings, it is comprehensible enough the be understood by experienced linguists. It has inspired at least Bauer (see [@sec:bauer1850]) and Kern ([@sec:kern1883]) to further develop the idea of line-based gramatical analyses.
 
+### Haupt (1841) *Deutsche Prosa*
+
+Friedrich Haupt (1805-1891) was a teacher in Zürich and later pastor in the region Odenwald. More biographical information is available in Haupt [-@haupt1905]. During his time in Zürich he wrote various textbooks and prepared an anthology of the German language in his book *Deutsche Sprache und Literatur*. The second part of this anthology, *Deutsche Prosa* [@haupt1841], contains a preface on didactical methods including syntactic analysis. This preface is removed in later editions.^[Compare the 1865 edition available online at <https://mdz-nbn-resolving.de/bsb10597896>.]
+
+In this preface, Haupt is exceedingly enthousiastic about the syntactic approach of Becker. He heralds him as the founder of a new linguistics:
+
+> Becker […] Einer der scharfsinnigsten Sprachforscher, der der Begründer eines neuen Sprachsystems, und einer wahrhaft formal bildenden Unterrichtsmethode geworden ist [@haupt1841: 295]
+>
+> ('Becker […] One of the most astute linguists, who has become the founder of a new language system and a true formally-educating method of teaching.')
+
+In a footnote Haupt even announces that he will publish an extensive analysis of Becker's method in a book to be called *K. F. Becker und die deutsche Volksschule. Ein Beitrag zur Förderung deutscher Sprachwissenschaft und Methodik* [@haupt1841: viii]. Unfortunately, he does not appear to have ever finished this planned book.
+
+As an example of Becker's syntactic analysis, Haupt analyses the example sentence [@next] from Jean Paul. In a first step he separates the various clauses and illustrates their interrelation with the graphical display in [@fig:haupt1841_viii]. Subsequently, Haupt also analyses the internal structure of one of the main clauses, but this is only done in words. Note that Haupt's graphical approach, using hierarchically-ordered reversed horizontal braces, is not found in the work of Becker (see [@sec:becker1829]). However, it is reminiscent of the visual approach by Diesterweg in [@fig:diesterweg1830_174].
+
+::: ex
+Der wahnsinnige Sterbliche begeht seine Sünden so kühn, blos weil sich ihm ihre mörderischen Folgen verhüllen; er kettet die in seiner Brust eingesperrten reißenden Thiere los und lässet sie in der Nacht unter die Menschn dringen; aber er siehet es nicht, wie viele Unschuldige das losgebundene Unthier ergreife und würge. [@haupt1841: viii, citing Jean Paul]
+:::
+
+The abbreviations that are used in the graphical analysis can be reconstructed from the text as follows:
+
+- **Main clause** (*Haupts.*): Der wahnsinnige Sterbliche begeht seine Sünden so kühn, 
+- **Causal subordinate clause** (*begründ. Nebs.*): blos weil sich ihm ihre mörderischen Folgen verhüllen; 
+- **Coordinated main clauses** (*haupts. zusammengezog.) er kettet die in seiner Brust eingesperrten reißenden Thiere los und lässet sie in der Nacht unter die Menschn dringen; 
+- **Adversative main clause** (*advers. Hpts.*): aber er siehet es nicht, 
+- **Complement clause** (*obj. Nebs.*): wie viele Unschuldige das losgebundene Unthier ergreife und würge. 
+
+::: {.im #haupt1841_viii}
+Graphical analysis of the example [@last] from Haupt [-@haupt1841: viii]. The internal structure of the six clauses is depicted by hierarchically ordered horizontal braces.
+:::
+
 ### Nägelsbach (1846) *Lateinische Stilistik* {#sec:nägelsbach1846}
 
-Carl Friedrich Nägelsbach (1806-1859) was professor for classical studies in Erlangen. He wrote various commentaries on classical texts and a didactic explanation of Latin style, called *Lateinische Stilistik für Deutsche, ein sprachvergleichender Versuch* [@nagelsbach1846]. The book saw various editions up to a ninth edition in 1905, prepared by Iwan Müller.
+Carl Friedrich Nägelsbach (1806-1859) was professor for classical studies in Erlangen. He wrote various commentaries on classical texts and a didactic explanation of Latin style, called *Lateinische Stilistik für Deutsche, ein sprachvergleichender Versuch* [@nagelsbach1846]. The book saw various editions up to a ninth edition in 1905, prepared by Iwan Müller. This ninth edition has been reprinted up to at least 1980.
 
 In the *Lateinische Stilistik* Nägelsbach uses *Periodenbilder* to analyse latin constructions, citing both Lehmann [@nagelsbach1846: 281] and Götzinger [@nagelsbach1846: 282] as inspiration. He simplifies the structure of the *Periodenbild* to be able to write them on a single line, using slashes instead of horizontal braces, as illustrated in [@fig:nägelsbach1846_286] [@nagelsbach1846: 286].
 
-Another innovation proposed by Nägelsbach is to use brackets for relative modification. Specifically, he notes that in Laten it is quite common to have multiple *Vordersätze*, i.e. clauses in front of the main clause, as indicated by the colon. Because of the ordering of modification, Nägelsbach proposed *Periodenbilder* like "a:(b:A)" and even "a:(b:[c:A])" for nested frontal clauses [@nagelsbach1846: 286, 289].
+Another innovation proposed by Nägelsbach is to use brackets for relative modification at the front of the sentence. Specifically, he notes that in Latin it is quite common to have multiple *Vordersätze*, i.e. clauses in front of the main clause, as indicated by the colon in Lehmann's notation. Because of the ordering of modification, Nägelsbach proposed *Periodenbilder* like "a:(b:A)" and even "a:(b:[c:A])" for reverse-nested frontal clauses [@nagelsbach1846: 286, 289].
 
 ::: {.im #nägelsbach1846_286}
 Simplified *Periodenbild* from Nägelsbach [-@nagelsbach1846: 286]. To be able to write *Periodenbilder* as a single line, he replaces the horizontal brace from Lehmann and Götzinger with a simple forward slash. This makes them much easier to typeset.
@@ -538,7 +568,7 @@ Simplified *Periodenbild* from Nägelsbach [-@nagelsbach1846: 286]. To be able t
 
 Johann Baptist Fürg (1802-1864) was a teacher in München. Not much is known about him, except for a glowing necrolog [@heitz1864]. He wrote various small booklets for use in school, among them a four volume grammar *Die deutsche Sprache dargestellt in Aufgaben sammt den nöthigsten Erläuterungen für die Volksschulen Bayerns* [@furg1850]. However, in that work there are no graphical methods used.
 
-Earlier he wrote smaller textbook *Die Satz- und Styllehre mit Inbegriff der Wortbiegung, dargestellt in 760 Aufgaben sammt den nöthigsten Erläuterungen*, which was first published in 1845. In the fourth edition of 1847 he expanded the preface [cf. the third edition, @furg1846]. In this new preface, he addresses the teachers and present for them a few examples of how to analyse sentences [@furg1847: vi-viii]. One of these examples is shown in [@fig:fürg1847_vii]. This numbered tabular analysis is strongly reminiscent of Becker's approach (see [@sec:becker1829]). Becker is not mentioned in Fürg's text, but Fürg calls this approach *Analyse* or *Zergliederung*, and these are both words used by Becker. It is also telling that these examples are directed to teachers, not students, which is again similar to Becker. Finally, Fürg calls himself an adherent of the "new grammar", which might be a reference to Becker's approach to grammar:
+Earlier he wrote smaller textbook *Die Satz- und Styllehre mit Inbegriff der Wortbiegung, dargestellt in 760 Aufgaben sammt den nöthigsten Erläuterungen*, which was first published in 1845. In the fourth edition of 1847 he expanded the preface [cf. the third edition, @furg1846]. In this new preface, he addresses the teachers and presents to them a few examples of how to analyse sentences [@furg1847: vi-viii]. One of these examples is shown in [@fig:fürg1847_vii]. This numbered tabular analysis is strongly reminiscent of Becker's approach (see [@sec:becker1829]). Becker is not mentioned in Fürg's text, but Fürg calls this approach *Analyse* or *Zergliederung*, and these are both words used by Becker. It is also telling that these examples are directed to teachers, not students, which is again similar to Becker. Finally, Fürg calls himself an adherent of the "new grammar", which might be a reference to Becker's approach to grammar:
 
 > Aus dem bisher Gesagten geht zur Genüge hervor, daß ich mich entschieden als Anhänger der neuen Grammatik bekenne, und daß ich sie als den einzigen Weg betrachte, der zum wahren Verstehen der Sprache führt. [@furg1847: viii]
 >
@@ -633,17 +663,60 @@ Theophanes zerstörte mit seinem griechischen Feuer die russische Flotte, welche
 Analysis of the sentence in [@last] by Hermes [-@hermes1866: 105]. The use of the letters is rather idiosyncratic (*H*=main clause, *a*=adverbial clause, *r*=relative clause, *s*=complement clause). Brackets are used for "inserted clauses" and second-level embedding is indicated by lowering the letter in the graphic. This is reminiscent of Lehmann, though the horizontal braces are missing.
 :::
 
+### Schlecht (1856) *Denk- und Sprachlehre*
+
+Raymund Schlecht (1811-1891) was director of a teacher's training college in Eichstätt [see @gmelch1931 for biographical details]. Besides being a teacher and theologian, he was a musical researcher. Most of his writings deal with musicology, but he also published a short grammar called *Denk- und Sprachlehre. Ein Leitfaden zur Ertheilung eines organischen Sprachunterrichts* [@schlecht1856]. In the preface he prominently mentions Becker (see [@sec:becker1829]).
+
+The grammar contains a few graphical displays for complex sentences using a musical notation [@schlecht1856: 71, 79]. This is reminiscent of the approach by Herling, as shown in [@fig:herling1828_366], or Diesterweg, as shown in [@fig:diesterweg1834_169]. There is no indication that Herling was an inspiration for Schlecht. However, Schlecht clearly knew about Diesterweg, whom he went to visit in Berlin in 1862 [according to @gmelch1931: 21] and about whose didactic methods he wrote a small note in the *Katholische Schulzeitung* in 1868 [@gmelch1931: 54].^[The small note appeared in two parts, which are available online at <https://www.digitale-sammlungen.de/view/bsb10687402?page=260> and <https://www.digitale-sammlungen.de/view/bsb10687402?page=284>.] Yet, given that Schlecht was more of a musicologist than a linguist, it seems just as likely that he independently came up with the idea of using the musical score for the depiction of linguistic structure.
+
+He uses the musical display in [@fig:schlecht1856_79] to illustrate the structure of the highly complex sentence in [@next]. Before the main clause there are eleven subordinated clauses, separated graphically by a double bar. These eleven clauses are again subdivided into three subsections devided by a single bar, each of which is again internally complex. The main clause, after the double bar, also has a complex internal structure. It is impressive that grammarians like Schlecht had the audacity to tackle such complex sentences, something rarely seen in contemporary linguistics.
+
+::: ex
+Wie das innere Bewegen, das im Herbst die Schaaren der wandernden Vögel mit unwiderstehlicher Gewalt ergreift und über Land und Meer dahinführt, wie der Trieb der Säfte, der in den Tagen des Frühlings die Tausende der Blüthen aus dem Fruchtbaum herausdrängt an's Licht, an welchem die meisten, gleich einer vergeblichen Ueberfülle, verblühen und abfallen, ohne Frucht zu tragen, wie jeder Zug des Instinkts im niederen Reiche der Sichtbarkeit ein Walten der Kraft ist, die das Wesen der Leiblichkiet begründete und beherrscht; – so war auch jenes Bewegen, das die Menschenseelen zu dem Werke der Kreuzzüge dahin riß, nicht von unten her, sondern es kam von oben, aus einem Anwehen des Geistes, der dem Menschen im Anfang den lebendigen Odem gab. [@schlecht1856: 78, citing Gottfried Heinrich Schubert *Reise in das Morgenland*]
+:::
+
+::: {.im #schlecht1856_79}
+Music-score analysis of the complex sentence in [@last] from Schlecht [@schlecht1856: 79]. The main clauses are placed on the highest line, with subordinate clauses below, depending on the depth of their embedding. Vertical bars separate major parts, with the double vertical bar separating the preposed subordinated clauses from the main clause. The intended meaning of the arches is unclear. The following abbreviations are used: *Vrgl*=*Vergleichssatz*=comparative clause, *B*=*Beifügesatz*=relative clause, *U*=*Umstandssatz*=adverbial clause, *Pr.Th*=*mit dem Prädicat verbundene Thätigkeit*. The intended meaning of the *P* just before the vertical double bar is unclear.
+:::
+
 ### Wetzel & Wetzel (1865) *Die deutsche Sprache*
 
-Periode like Lehmann, §194-195, cited here in the 3rd edition [@wetzel1871: 312-316]
+Periode like Lehmann, §194-195 (312-314), cited here in the 3rd edition [@wetzel1871: 312-316]
 
 Almost identical, just a bit shorter and streamlined, in *Leitfaden*, first edition 1868 [@wetzel1868: 182], also in the 46th edition [@wetzel1871: 223-224]
+
+using superscripts, no distinction between different kinds of clauses
 
 ### Menge (1873) *Repetitorium der lateinischen Syntax und Stilistik* {#sec:menge1873}
 
 Hermann August Menge (1841-1939), teacher and translator of the infamous *Menge-Bibel*. Based on his practical teaching experience, he wrote textbooks for Latin and Greek. The Latin textbook is still in use today, though in a slightly revised version [e.g. a 1955 edition is cited in @langholf1969: 10].
 
-Lehmann Periode in §541-542, cited here in the 6th edition [@menge1890: 357-364]. In the preface to the first edition he cites among others Hoffmann (but not Nägelsbach), and the other preface do not mention any changes as far as the Periode is concerned, so it is very probable that the Period analysis was already present in the first edition of 1873.
+Lehmann Periode in §541-542 (p357-364), cited here in the 6th edition [@menge1890: 357-364]. In the preface to the first edition he cites many grammars, but not Nägelsbach, but he is mentioned in passing (e.g. p.342), and the other preface do not mention any changes as far as the Periode is concerned, so it is very probable that the Period analysis was already present in the first edition of 1873.
+
+using slashes like Nägelsbach
+
+### Schütze (1875) *Ueber den deutschen Gliedsatz*
+
+Adolf Schütze (1824-unkown) was a teacher at the Karls-Gymnasium in Bernburg. In the school's yearbook of 1875 he wrote a small essay *Über den deutschen Gliedersatz (Periode) und die Gesetze seines Baues* [@schutze1875: 15].
+
+
+citing herling, lehmann, becker, but the graphic is more like Diesterweg, herling or schlecht, who are not cited
+
+cites Friedrich Haupt, who discusses Becker, but only minimal
+https://books.google.de/books?id=1IxRAAAAcAAJ&pg=PR8#v=onepage
+
+
+::: ex
+Möglich allerdings und sehr wahrscheinlich, dass die französischen Protestanten emsig daran arbeiteten, in den Niederlanden eine Pflanzschule für ihre Religion zu erhalten, und eine gütliche Vergleichung ihrer dortigen Glaubensbrüder mit dem Könige von Spanien durch jedes Mittel zu verhindern strebten, um diesem unversöhnlichen Feinde ihrer Partei in seinem eigenen Lande zu thun zu geben; \
+sehr natürlich also, dass ihre Unterhändler in den Provinzen nicht unterlassen haben werden, die unterdrückten Religionsverwandten zu verwegenen Hoffnungen zu ermuntern, ihre Erbitterung gegen die herrschende Kirche auf alle Arten zu nähren, den Druck, worunter sie seufzte, zu übertreiben, und sie dadurch unvermerkt zu Unthaten fortzureissen. \
+Möglich, dass es auch unter den Verbundenen Viele gab, die ihrer eigenen verlorenen Sache dadurch aufzuhelfen meinten, wenn sie die Zahl ihrer Mitschuldigen vermehrten; die die Rechtmässigkeit ihres Bundes nicht anders retten zu können glaubten, als wenn sie die unglücklichen Folgen wirklich herbeiriefen, wovor sie den König gewarnt hatten, und die in dem allgemeinen Verbrechen ihr eigenes zu verhüllen hofften. \
+Dass aber die Bilderstürmerei die Frucht eines überlegten Planes gewesen, der auf dem Convente zu St. Truyen verabredet worden; dass in einer solennen Versammlung so vieler Edlen und Tapfern, unter denen noch bei weitem der grössere Theil dem Papstthum anhing, ein Rasender sich hätte erdreisten sollen, den Entwurf zu einer offenbaren Schandthat zu geben, die nicht sowohl eine abgesonderte Religionspartei kränkte, als vielmehr alle Achtung für Religion überhaupt und alle Sittlichkeit mit Füssen trat, und die nur in dem schlammigen Schosse einer verworfenen Pöbelseele empfangen werden konnte: \
+(dies Alles) wäre allein schon darum nicht glaublich, weil diese wüthende That in ihrer Entstehung zu rasch, in ihrer Ausführung zu leidenschaftlich, zu ungeheuer erscheint, um nicht die Geburt des Augenblicks zu sein, in welchem sie ans Licht trat, und weil sie aus dem Umständen, die ihr vorhergingen, so natürlich gliesst, dass es so tiefer Nachsuchungen nicht bedarf, um ihre Entstehung zu erklären. [@schutze1875: 14-15, citing Schiller *Geschichte des Abfalls der Niederlande*]
+:::
+
+::: {.im #schütze1875_15}
+Graphical display from Schütze [-@schutze1875: 15] of the Schiller quote in [@last]. Schütze calls this a *Gedankenperiode* 'thought-period' consisting of four sentences. Main clauses are marked with a capital letter *A*; different levels of embedding are indicated both by lower placement, by indentation, and by different lower-case letters; the letter *k* indicates *kurz*, i.e. a shortened *zu+Infinitiv* clause; arches connect separated parts from the same clause; plusses connect clauses with shared arguements; Punctuation like commas, colons and semicolons are copied verbatim from the sentence into the graphic display.
+:::
 
 ### Gelbe (1877) *Deutsche Sprachlehre*
 
@@ -653,9 +726,9 @@ Theodor Gelbe (1837-1892), Realschuldirektor in Stollberg. Satzbild like Götzin
 
 Josef Diringer (1878-1883) Ordinarius für Deutsch, Latein und Griechisch in Eichstätt
 
-practical application in second half of the book [@diringer1878: 42-60] using separate lines for subordination, like music notation
+practical application in second half of the book [@diringer1878: 42-60] using separate lines for subordination, like music notation, probably based on Schütze and Schlecht as cited
 
-Further development of *Periodenbild* citing Bauer, Lehmann and Götzinger, and Becker, Herling
+Further development of *Periodenbild* citing many authors Bauer, Lehmann and Götzinger, and Becker, Herling
 
 ### Esser (1878) *Die Formen der Periode*
 
@@ -695,7 +768,7 @@ Influence from Götzinger? [@forsgren1998: 63] only circumstantial evidence
 
 Franz Willomitzer (1847-1910)
 
-First edition only a single simple table (Becker-influence?) [@willomitzer1879: 123]
+First edition only a single simple table (Becker-influence with numbers) [@willomitzer1879: 123]. Remains in later editions
 
 Later editions add *Satzbilder* very much in the style of Kern (without clear attribution), starting with fourth edition from 1885 [@willomitzer1885: 123, 132, 137]
 
@@ -714,7 +787,7 @@ Heinrich Utzinger (1842-1913) Zürich [@utzinger1887]
 
 14. Auflage 1943!
 
-probably influences by hoffmann, though he does not cite him in the introduction (he cites götzinger *Anfangsgründe*)
+probably influences by hoffmann, though he does not cite him in the introduction (he cites götzinger *Anfangsgründe*, Lehrbücher von Sanders)
 
 - *Schema* [@utzinger1887: 89] subject-predicate on one line!
 - *Satzbild* [@utzinger1887: 122] very simplified like hoffmann
@@ -723,7 +796,7 @@ probably influences by hoffmann, though he does not cite him in the introduction
 
 Otto Lyon (1853-1912) Stadtschulrat in Dresden
 
-simple analysis of constituents with numbers [@lyon1889: 101]
+simple analysis of constituents with numbers, but does not use the numbers like Becker [@lyon1889: 101]
 Satzbilder like Lehmann [@lyon1889: 269-270]
 
 more extensive in *Lektüre als Grundlage* Satzbilder wie Hoffmann [@lyon1897: 130-154]
@@ -742,6 +815,8 @@ Hariton Tiktin (1850-1936) was born in Breslau (Wrocław), but moved to Iași in
 
 [@tiktin1895: 206-207] second edition, but difference to first edition (1891) unknown
 
+Figures look very much like Kern, but no attribution
+
 ### Gloël (1895) *Schriftliche Übersetzung aus dem Griechischen*
 
 Heinrich Gloël, Gymnasiallehrer in Wesel
@@ -752,13 +827,13 @@ Satzbilder [@gloel1895: 75]
 
 Lehrer in Salzburg, later Ried im Innkreis
 
-Many Satzbilder, probably tradition Hoffmann [@toifel1897]
+Many Satzbilder, Lehmann, but with supersccripts [@toifel1897]
 
 Later the same with another text: [@toifel1901]
 
 ### Trunk (1898) *Zur Hebung des deutschen Sprachunterrichtes*
 
-inspired by Kern
+inspired by Kern? combination Kern with Periodenbilder?
 
 ### Raumer (1902) *Das Periodenbild*
 
