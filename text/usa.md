@@ -512,13 +512,11 @@ not yet found [@brittain1973: 206]
 
 not yet found [@brittain1973: 209]
 
-### Warriner (1946) *English grammar and composition*
+### Warriner (1951) *English grammar and composition*
 
-Original from 1946 difficult to find. Still in use today. contains redd/kellog throughout https://en.wikipedia.org/wiki/Warriner%27s_English_Grammar_and_Composition
+Original started in 1946 difficult to find. Still in use today. contains redd/kellog throughout https://en.wikipedia.org/wiki/Warriner%27s_English_Grammar_and_Composition
 
-edition from 1986: https://archive.org/details/englishgrammarco00holt
-
-Edition from 1969 [@warriner1969]
+"complete course" Edition from 1951 [@warriner1951]. Edition from 1969 [@warriner1969], revised, but basically the same. Revised Edition from 1986: https://archive.org/details/englishgrammarco00holt completely revised, and number of diagramms are less, but basically still the same redd/kellog structure
 
 ### Pence (1947) *A grammar of present-day English*
 

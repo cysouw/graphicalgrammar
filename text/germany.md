@@ -656,7 +656,7 @@ In the lower right corner there is a graphical analysis of the sentence in [@las
 
 ### Wander (1856) *Satzbilderschule* {#sec:wander1856}
 
-Karl Friedrich Wilhelm Wander (1803-1879) 
+Karl Friedrich Wilhelm Wander (1803-1879) Biographical information in [@hohendorf1979]
 
 reformpädagoge, friend of Diesterweg „Der geschmähte Diester­weg“, well-known for collection of German proverbs
 
@@ -876,6 +876,12 @@ inspired by Kern? combination Kern with Periodenbilder?
 Siegmund von Raumer (1860-1939), Gymnasiallehrer in Erlangen
 
 New proposal for *Periode*, reaction to Lehmann and subsequent proposals. Very short, only one example of his proposal (using multiple lines) [@raumer1902: 63]
+
+### Mensing (1903) *Deutsche Grammatik für höhere Schulen*
+
+cited here "Hilfsbuch" from 1927, but from preface it seems like the graphics have not changed [@mensing1927]. biography [@molzow2000]
+
+Only schema in [@mensing1913: 54], no concrete examples. Same schema as [@mensing1927: 86]
 
 ### Schuberth (1908) *Deutsche Satzbilder*
 

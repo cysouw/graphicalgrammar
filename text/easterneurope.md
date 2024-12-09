@@ -65,8 +65,9 @@ other version 1923: 167 with graphic https://www.prlib.ru/item/363130
 
 ## Other Russia
 
+- Ušakov, Smirnova & Ščeptova (1929).  Учебная книга по русскому (Učebnaja kniga po russkomu jazyku). Moscú/Leningrado: Gosizdat. 3rd part, pp. 6–7, and 4th part, p. 5
+- Barkhudarov and Princip (1930)
 - Krjučkov and Svetlïev (1936). The Grammar. Moscow. pp. 6–7
-- Ušakov, Smirnova & Ščeptova (1929). Učebnaja kniga po russkomu jazyku. Moscú/Leningrado: Gosizdat. 3rd part, pp. 6–7, and 4th part, p. 5
 
 Ušakov, Dmitrij Nikolajevič https://www.prlib.ru/en/history/618974
 Smirnova, A. M

@@ -20,3 +20,4 @@ brackets [@groot1949: 10], numbers and incidental brackets [@groot1949a: 117, 15
 
 ## Paardekooper (1955) *syntaktische verkenningen*
 
+basic underline-style diagramming in [@paardekooper1955], published version identical to thesis [@paardekooper1955a]. More extensive diagramming in [@paardekooper1963]

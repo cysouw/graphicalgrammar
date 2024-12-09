@@ -22,11 +22,14 @@ In the second part of a review of a grammatical text book he proposes a graphica
 
 ## Beckman (1904) *Svensk Språklära* {#sec:beckman1904}
 
-Karl Frederik Natanael Beckman (1868-1946) professor of Swedish language at Gothenburg University [@beckman1904a: 194-198, 202, 219]
+Karl Frederik Natanael Beckman (1868-1946) professor of Scandinavian languages at Gothenburg University [@beckman1904a: 194-198, 202, 219]
 
 cites Kern and Lindwall (p. 273)
 
 his school textbooks do not seem to have been noticed?
+
+Beckman studied in Uppsala, where he received his doctor’s degree and became a lecturer in 1895.
+In 1918, he was appointed professor of Scandinavian languages in Gothenburg, a post he retained until 1935. But Beckman was also headmaster at a high school, and several of his contributions were thus pedagogical in nature. He created popular textbooks that were reprinted many times, for example his study of Swedish metrics (1898) and especially his Svensk språklära för den högre elementarundervisningen (A Swedish Grammar for Higher Elementary Schools, 1904). He also studied the ongoing disappearance of plural verb forms in Swedish, the peculiar relations between social rank and personal pronouns in Sweden, and the syntactic phenomena that had spread across linguistic borders in Western European, such as the definite article and the perfect tense. p. 247-248
 
 ## Noreen (1906) *Vårt språk*
 
@@ -109,20 +112,31 @@ compares his analysis with Stöhr [@stohr1898], Sapir (morpheme analysis), mauri
 
 discussion in [@cigana2020]
 
+## Rebbe *svensk språklära*
+
+"Kortfattad svensk språklära för realskolan" Författare: 
+
+Carl Rebbe, Walter Fischer, Birger Bjerre
+
 ## Setälä & Nieminen (1946) *Suomen kielen oppikirja*
 
-Eemil Nestor Setälä (1864-1935) was a well-known Finnish politician and author of the Finnish declaration of independence. However, he was also a professor for Finnish language and literature at Helsinki University and wrote a little booklet *Suomen kielen oppikirja* 'Finnisch language textbook'. The first edition appeared in 1898 and has been reprinted various time. The version from 1925, that I have consulted, does not have any graphical analyses [@setala1925].
+Eemil Nestor Setälä (1864-1935) was a well-known Finnish politician and author of the Finnish declaration of independence. However, he was also a professor for Finnish language and literature at Helsinki University and among many other grammatical works he wrote a little booklet *Suomen kielen oppikirja* 'Finnisch language textbook'. The first edition appeared in 1898 and has been reprinted various time. The version from 1925, that I have consulted, does not have any graphical analyses [@setala1925].
 
 Kaarlo Nieminen (1887-1955) was a Finnish language teacher, later lecturer and professor at Helsinki University. After the death of Setälä he revised the *Suomen kielen oppikirja* in 1939. This revision was also reprinted many times. The version from 1946, that I have consulted, has an interesting graphical analysis for the example sentence in [@next] as shown in [@fig:setälä1946_68] [@setala1946: 68]. It is unclear whether this approach with arrows for modification has any precursors, or whether this is an original idea from Nieminen:
 
-> Lauseenosien keskinäisia suhteita voidaan havainnollistaa piirroksen avulla. Josmerkitsemme subjektin paksulla pystysuoralla viivalla, predikaatin siita lähtevalla paksulla vaakasuoralla viivalla, kumpaisenkin määräykset nihin vinosti suuntautuvilla ohuemmilla viivoilla sekä määräysten määräykset taas nihin suuntautuvilla viivoila. [@setala1946: 68]
+> Lauseenosien keskinäisiä suhteita voidaan havainnollistaa piirroksen avulla. Jos merkitsemme subjektin paksulla pystysuoralla viivalla, predikaatin siitä lähtevällä paksulla vaakasuoralla viivalla, kumpaisenkin määräykset niihin vinosti suuntautuvilla ohuemmilla viivoilla sekä määräysten määräykset taas niihin suuntautuvilla viivoilla. [@setala1946: 68]
 > 
-> ('The mutual relations of the parts of a sentence can be illustrated by means of a drawing. We could mark the subject with a thick vertical line, the predicate with a thick horizontal line extending from it, the modifiers of each with thinner lines directed diagonally, and the modifiers of the modifiers again with lines directed diagonally.')
+> ('The mutual relations of the parts of a sentence can be illustrated by means of a drawing. If we mark the subject with a thick vertical line, the predicate with a thick horizontal line extending from it, the modifiers of each with thinner lines directed at them diagonally, and the modifiers of the modifiers again with lines directed at them.')
+
+[==
+| Mattila-n piene-t poja-t luke-vat hyvin ahkerasti vaikeita läksy-j-ä-nsä
+| Mattila-GEN little-PL boy-PL study-3PL very diligently difficult homework-PL-PAR-3
+==]:
 
 ::: ex
 |
-| Mattila-n pienet poja-t luki-vat hyvin ahkerasti vaikeita läksyjä-nsä
-| Mattila-GEN little boy-PL study-3PL very diligently difficult homework-3PL
+| Mattila-n pienet pojat luke-vat hyvin ahkerasti vaikeita läksyjä-nsä
+| Mattila-GEN little boys study-3PL very diligently difficult homework-3POSS
 | 'The little boys from Mattila are studying their difficult homework very diligently.'
 :::
 
@@ -132,10 +146,15 @@ Dependency graph with arrows for the example sentence in [@last] from Setälä &
 
 Aulis Ojajärvi (1913-1968) was a language teacher and in 1964, after the death of Kaarlo Nieminen, he once again revised the *Suomen kielen oppikirja*. The version from 1970, that I have consulted, is rather different from earlier versions and contains completely different graphical analyses [@setala1970]. The structure from the examples sentence [@next] is illustrated in two different ways in [@fig:setälä1970_77]. The upper version is strongly reminiscent of the visualisation of Beckman (see [@sec:beckman1904]). The lower display is structurally identical, but the words are placed in their regular sentence order.
 
+[===
+| Juuri kaupungi-sta saapu-nut setä anto-i minu-lle pussi-n makeis-i-a.
+| just town-ELA arrive-PTCP uncle give-PST me-ALL bag-GEN sweets-PL-PAR
+===]:
+
 ::: ex
 |
-| Juuri kaupungi-sta saapunut setä antoi minu-lle pussin makeisia.
-| just town-ELA arrive uncle give me-ALL bag sweets
+| Juuri kaupungi-sta saapunut setä anto-i minu-lle pussi-n makeis-i-a.
+| just town-ELA arrived uncle give-PST me-ALL bag-GEN sweets-PL-PAR
 | 'An uncle who had just arrived from town gave me a bag of sweets.'
 :::
 
@@ -147,9 +166,9 @@ For complex sentences with subordinate clauses, Setälä, Nieminen & Ojajärvi [
 
 ::: ex
 |
-| Jos auta-t minu-a, kun tarvit-sen apua, anna-n sinu-lle tämän.
-| if help-2SG me-PART when need-1SG help give-1SG you-ALL this
-| If you help me, when I need help, then I give you this.
+| Jos auta-t minu-a, kun tarvit-sen apu-a, anna-n sinu-lle tämä-n.
+| if help-2SG me-PAR when need-1SG help-PAR give-1SG you-ALL this-GEN
+| If you help me, when I need help, I will give you this.
 :::
 
 
