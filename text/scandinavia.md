@@ -1,6 +1,8 @@
 # Scandinavia
 
-## Broberg (1882) *Manuel de la langue danoise*
+## Danish
+
+### Broberg (1882) *Manuel de la langue danoise*
 
 Severin Carl Olfert Fischer Broberg (1822-1900) was a danish author and occasional lecturer at the Universities of Randers and Odense. He wrote a Danish language guide for French speakers, called *Manuel de la langue danoise* [@broberg1882]. To explain the Danish sentence structure he used a special graphical technique of an indented table [@broberg1882: 95-102]. There is no indication towards any inspiration that might have led Broberg to propose this kind of analysis.
 
@@ -16,11 +18,55 @@ Repeated here is one of Broberg's Danish example sentence in [@next a], with his
 Indented table by Broberg [-@broberg1882: 95] to explain the sentence structure of the Danish example sentence in [@last a]. The actual order of the words is indicated by the numbers. The top to bottom order in the table indicates relative modification, i.e. each indented phrase modifies the head phrase above it.
 :::
 
-## Lindwall (1903) *Några ord om satsanalys*
+## Jespersen (1913) *Sprogets logik*
+
+Notion *rang* 'rank', different levels. First attempt at symbolic representation [@jespersen1913: 32-33], further develop in 1937
+
+## Brøndal (1928) *Ordklasserne*
+
+[@brondal1928] System of categories for morphology, build from limited set of primitives. complex schema in appendix
+
+syntax in *morfologi of syntax* (1932) [cf. @hallon1989: 79-155] cites kern, sheffield, wundt [@brondal1932]
+
+[@togeby1989: 109] gives an actual example how a sentence analysis might look like in Brøndal's system
+
+## Hansen (1933) *Sætningen og dens led in moderne dansk*
+
+Aage Hansen (1894-1983) studied with Jespersen in Copenhagen. Book is dedicated to him.
+
+various graphics [@hansen1933], mentioned in the preface of Jespersen 1937 [@jespersen1937]
+
+## Hjelmslev (1935) *La catégorie de cas*
+
+stupid graphic in [@hjelmslev1928: 138]
+
+arrows on [@hjelmslev1972: 52-53], but not real language analysis, just an example of interdependence of elements in language
+
+lots of graphics, but only paradigms, structure, illustration
+
+## Jespersen (1937) *Analytic syntax*
+
+symbolic analysis, [@jespersen1937: 83] citing a graphic from [@fry1925] 
+
+compares his analysis with Stöhr [@stohr1898], Sapir (morpheme analysis), maurice bologne, Brøndal
+
+discussion in [@cigana2020]
+
+## Diderichsen (1947) *Elementær dansk grammatik*
+
+Feldertheorie [@diderichsen1957], giving nested schema like hansen [@diderichsen1957: 146] does not cite drach (1935) uses term "chinese boxes"
+
+details about history: https://da.wikipedia.org/wiki/Sætningsskema
+
+He knew about Hansen, but never cited it. acknowledgement in 1964 Festschrift for Hansen [@diderichsen1966: 364].
+
+## Swedish
+
+### Lindwall (1903) *Några ord om satsanalys*
 
 In the second part of a review of a grammatical text book he proposes a graphical display for the blackboard [@lindwall1903]
 
-## Beckman (1904) *Svensk Språklära* {#sec:beckman1904}
+### Beckman (1904) *Svensk Språklära* {#sec:beckman1904}
 
 Karl Frederik Natanael Beckman (1868-1946) professor of Scandinavian languages at Gothenburg University [@beckman1904a: 194-198, 202, 219]
 
@@ -31,7 +77,7 @@ his school textbooks do not seem to have been noticed?
 Beckman studied in Uppsala, where he received his doctor’s degree and became a lecturer in 1895.
 In 1918, he was appointed professor of Scandinavian languages in Gothenburg, a post he retained until 1935. But Beckman was also headmaster at a high school, and several of his contributions were thus pedagogical in nature. He created popular textbooks that were reprinted many times, for example his study of Swedish metrics (1898) and especially his Svensk språklära för den högre elementarundervisningen (A Swedish Grammar for Higher Elementary Schools, 1904). He also studied the ongoing disappearance of plural verb forms in Swedish, the peculiar relations between social rank and personal pronouns in Sweden, and the syntactic phenomena that had spread across linguistic borders in Western European, such as the definite article and the perfect tense. p. 247-248
 
-## Noreen (1906) *Vårt språk*
+### Noreen (1906) *Vårt språk*
 
 influence ??? of Adolf Gotthard Noreen (1854-1925) professor at Uppsala University
 [@doreen1906: 32-33] Hierarchical morphology with dashes:
@@ -78,47 +124,15 @@ Quaternary:
 spirit-trading---shares--community-laws----speaker,
 body-worker--for-insurance---committee----the-statement.
 
-## Jespersen (1913) *Sprogets logik*
-
-Notion *rang* 'rank', different levels. First attempt at symbolic representation [@jespersen1913: 32-33], further develop in 1937
-
-## Brøndal (1928) *Ordklasserne*
-
-[@brondal1928] System of categories for morphology, build from limited set of primitives. complex schema in appendix
-
-syntax in *morfologi of syntax* (1932) [cf. @hallon1989: 79-155] cites kern, sheffield, wundt [@brondal1932]
-
-[@togeby1989: 109] gives an actual example how a sentence analysis might look like in Brøndal's system
-
-## Hansen (1933) *Sætningen og dens led in moderne dansk*
-
-Aage Hansen (1894-1983) studied with Jespersen in Copenhagen. Book is dedicated to him.
-
-various graphics [@hansen1933], mentioned in the preface of Jespersen 1937 [@jespersen1937]
-
-## Hjelmslev (1935) *La catégorie de cas*
-
-stupid graphic in [@hjelmslev1928: 138]
-
-arrows on [@hjelmslev1972: 52-53], but not real language analysis, just an example of interdependence of elements in language
-
-lots of graphics, but only paradigms, structure, illustration
-
-## Jespersen (1937) *Analytic syntax*
-
-symbolic analysis, [@jespersen1937: 83] citing a graphic from [@fry1925] 
-
-compares his analysis with Stöhr [@stohr1898], Sapir (morpheme analysis), maurice bologne, Brøndal
-
-discussion in [@cigana2020]
-
-## Rebbe *svensk språklära*
+### Rebbe *svensk språklära*
 
 "Kortfattad svensk språklära för realskolan" Författare: 
 
 Carl Rebbe, Walter Fischer, Birger Bjerre
 
-## Setälä & Nieminen (1946) *Suomen kielen oppikirja*
+## Finnish
+
+### Setälä & Nieminen (1946) *Suomen kielen oppikirja*
 
 Eemil Nestor Setälä (1864-1935) was a well-known Finnish politician and author of the Finnish declaration of independence. However, he was also a professor for Finnish language and literature at Helsinki University and among many other grammatical works he wrote a little booklet *Suomen kielen oppikirja* 'Finnisch language textbook'. The first edition appeared in 1898 and has been reprinted various time. The version from 1925, that I have consulted, does not have any graphical analyses [@setala1925].
 
@@ -175,11 +189,3 @@ For complex sentences with subordinate clauses, Setälä, Nieminen & Ojajärvi [
 ::: {.im #setälä1970_98}
 Visualisation of clause subordination for the examples sentence in [@last] from Setälä, Nieminen & Ojajärvi [-@setala1970: 98]. Subordination is indicated by graphically lower placement of the clause, depending on the depth of the embedding.
 :::
-
-## Diderichsen (1947) *Elementær dansk grammatik*
-
-Feldertheorie [@diderichsen1957], giving nested schema like hansen [@diderichsen1957: 146] does not cite drach (1935) uses term "chinese boxes"
-
-details about history: https://da.wikipedia.org/wiki/Sætningsskema
-
-He knew about Hansen, but never cited it. acknowledgement in 1964 Festschrift for Hansen [@diderichsen1966: 364].

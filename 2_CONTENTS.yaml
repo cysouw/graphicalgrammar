@@ -6,10 +6,7 @@
 
 input-files:
 - text/introduction.md
-- text/germany.md
-- text/usa.md
-- text/greatbrittain.md
-- text/france.md
-- text/scandinavia.md
-- text/netherlands.md
-- text/easterneurope.md
+- text/german.md
+- text/english.md
+- text/other.md
+

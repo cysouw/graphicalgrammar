@@ -19,9 +19,6 @@ von Schreven 1833 https://books.google.nl/books?id=53RSAAAAcAAJ
   - difference between illustration (passive, not always complete) and analysis (active, capturing all details)
   - different levels of accuracy
 
-Chinese version of reed/kellog: Ji Jinzi *New Grammar of the National Language* [@mossner1960; @peverelli2015: 97-104]
-
-
 ![Display of the structure combining the text from example [@last] and the structural letter-analysis from [@fig:bauer1850_97] into a contemporary-style constituency tree.](figures/bauer1850_97tree){#fig:bauer1850_97tree}
 
 [=== rsyntaxtree ===
@@ -41,3 +38,14 @@ Chinese version of reed/kellog: Ji Jinzi *New Grammar of the National Language* 
   ]
 ]
 ======]:
+
+
+[===
+| Juuri kaupungi-sta saapu-nut setä anto-i minu-lle pussi-n makeis-i-a.
+| just town-ELA arrive-PTCP uncle give-PST me-ALL bag-GEN sweets-PL-PAR
+===]:
+
+[==
+| Mattila-n piene-t poja-t luke-vat hyvin ahkerasti vaikeita läksy-j-ä-nsä
+| Mattila-GEN little-PL boy-PL study-3PL very diligently difficult homework-PL-PAR-3
+==]:
