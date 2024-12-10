@@ -723,7 +723,7 @@ Menge [-@menge1890: 357-364] uses a graphical analysis of the *Periode* in the t
 Analysis of *Periode* from Menge [-@menge1890: 364]. In this example he presents various ways in which a subordinate clause can be positionen in Latin, nicely summarising the syntactic possibilities by using the different abbreviations. Menge here uses the forward slash for clause-final subordination, like Nägelsbach (see [@fig:nägelsbach1846_286]).
 :::
 
-### Schütze (1875) *Ueber den deutschen Gliedsatz* {#sec:schütze1875}
+### Schütze (1875) *Über den deutschen Gliedsatz* {#sec:schütze1875}
 
 Adolf Schütze (born 1824) was a teacher at the Karls-Gymnasium in Bernburg. In the school's yearbook of 1875 he wrote a small essay *Über den deutschen Gliedersatz (Periode) und die Gesetze seines Baues* [@schutze1875], which includes an interesting graphical syntactic analysis. He analyses a long quote from Friedrich Schiller [@next], consisting of four sentences with numerous subordinate clauses. This long and complex linguistic structure is very concisely summarised by the graphic in [@fig:schütze1875_15]. In a footnote he cites Herling, Lehmann, Becker and Haupt [@schutze1875: 8], but the graphical display is more similar to Diesterwegs's approach (see [@fig:diesterweg1834_169]). However, the details are completely idiosyncratic:
 
@@ -768,9 +768,9 @@ Wenn uns Gott durch einen seiner Engel – ist zu sagen, durch einen Diener sein
 
 ### Diringer (1878) *Die Periode oder der Gliedersatz* {#sec:diringer1878}
 
-Joseph Diringer (1878-1883) was a teacher for German, Latin and Greek in Eichstätt. Besides various editions of classical texts, he wrote *Die Periode oder der Gliedersatz in der deutschen Sprache* [@diringer1878]. The second half of this small book is devoted to the application of *Periodenbilder* to the analysis of literary sentences.
+Joseph Diringer (1878-1883) was a teacher for German, Latin and Greek in Eichstätt. Besides various editions of classical texts, he wrote *Die Periode oder der Gliedersatz in der deutschen Sprache* [@diringer1878]. The second half of this small booklet is devoted to the application of *Periodenbilder* to the analysis of literary sentences.
 
-After the preface to his book Diringer cites many of the graphical approaches that are discussed above (e.g. Bauer, Becker, Götzinger, Herling, Lehmann), but the direct influences on Diringer's graphical display seem to be Schlecht (see [@sec:schlecht1856]) and Schütze (see [@sec:schütze1875]). He uses a quasi-music-score approach with horizontal lines for the different depths of embedding and vertical lines for the separation of different main sentences. Different lower-case letters are used for different kind of subordination, e.g. *s* for *Subjektivsatz* 'subject complement clause' and *l* for *Lokalsatz* 'local clause', etc. As an example of his approach, the sentence from Schiller in [@next] is analysed by Diringer as shown in [@fig:diringer1878_48].
+At the end of the preface to his book, Diringer cites many of the graphical approaches that are discussed above (e.g. Bauer, Becker, Götzinger, Herling, Lehmann), but the direct influences on Diringer's graphical display seem to be Schlecht (see [@sec:schlecht1856]) and Schütze (see [@sec:schütze1875]). He uses a quasi-music-score approach with horizontal lines for the depth of embedding and vertical lines for the separation of main sentences. Different lower-case letters are used for distinct kind of subordination, e.g. *s* for *Subjektivsatz* 'subject complement clause' and *l* for *Lokalsatz* 'local clause', etc. As an example of his approach, the sentence from Schiller in [@next] is analysed by Diringer as shown in [@fig:diringer1878_48].
 
 ::: ex
 Wie der bildende Künstler die faltige Fülle der Gewänder um seine Figuren breitet, um die Räume seines Bildes reich und anmutig auszufüllen, um die getrennten Partieen desselben in ruhigen Massen stetig zu verbinden, um der Farbe, die das Auge reizt und erquickt, einen Spielraum zu geben, um die menschlichen Formen zugleich geistreich zu verhüllen und sichtbar zu machen: ebenso durchflicht und umgibt der tragische Dichter seine streng abgemessene Handlung und die festen Umrisse seiner handelnden Figuren mit einem lyirschen Prachgewebe, in welchem sich, als wie in einem weitgefalteten Purpurgewand, die handelnden Personen frei und edel mit einer gehaltenen Würde und hoher Ruhe bewegen. [@diringer1878: 48, citing Schiller's *Über den Gebrauch des Chors in der Tragödie*]
@@ -780,20 +780,40 @@ Wie der bildende Künstler die faltige Fülle der Gewänder um seine Figuren bre
 *Periodenbild* for Schiller's example sentence in [@last] as proposed by Diringer [-@diringer1878: 48]. The music-score metapher to depict embedding is inspired by Schlecht (see [@fig:schlecht1856_79]) and Schütze (see [@fig:schütze1875_15]). Different lower-case letters are used for different subordinating functions (*m*=modal, *f*=final, *a*=attributive). The small *x* indicates reduces clauses with *zu-Infinitiv*.
 :::
 
-### Esser (1878) *Die Formen der Periode* {#sec:esser1878}
+### Esser (1878) *Abhandlung über die Formen der Periode* {#sec:esser1878}
 
-Franz Esser (Oberlehrer Gymnasium Weissenburg) citing Götzinger, but using dashes instead of horizontal braces [@esser1878]
+Franz Esser (dates unknown) was a teacher in Weissenburg. In the yearly report of his Gymnasium for the year 1877-1878 he writes a short article with the title *Abhandlung über die Formen der Periode im Nibelungenlied* [@esser1878]. In this article he analyses sentences from the *Nibelungenlied* by using *Periodenbilder*. He organises the article by the complexity of the sentences. 
+
+For the inspiration of the *Periodenbilder* he cites Götzinger (see [@sec:götzinger1836]). However, different from Götzinger, Esser does not use the horizontal brace for post-clausal subordination. Instead, he uses forward slashes like Nägelsbach (see [@sec:nägelsbach1846]) or Menge (see [@sec:menge1873]). For multiple embedding Esser uses apostrophes, similary to Rinne (see [@sec:rinne1840]). As an example, the verse from the *Nibelungenlied* in [@next a], with an approximate translation into English in [@next b], is analysed by Esser as shown in [@fig:esser1878_7].
+
+::: ex
+- Dô die herren sâhen, daz der helt was tôt, \
+  sie leiten in ûf einen schilt, der was von golde rot, \
+  und wurden des ze râte, wie das solde ergân, \
+  daz man ez verhæle, daz es het Hagene getân.
+- When the men saw, that the hero was dead, \
+  they laid him on a shield, which was golden red, \
+  and it was discussed, how it should happen, \
+  that it stays hidden, that Hagen had done it.
+:::
+
+::: {.im #esser1878_7}
+*Periodenbild* for the verse from the *Nibelungenlied* in [@last] as analysed by Esser [-@esser1878: 7]. Although he cites Götzinger, the details of the graphical display are more similar to the Latin tradition from Nägelbach, most prominently the use of the forward slash instead of a horizontal brace as used by Götzinger.
+:::
 
 ### Sanders (1879) *Deutsche Sprachbriefe*
 
-Daniel Sanders (1819-1897) https://de.wikipedia.org/wiki/Daniel_Sanders_(Lexikograf)
+Daniel Sanders (1819-1897) was a school director in Strelitz and is most well-known for his lexicographical work [biographical details in @hasszumkehr1995]. He also wrote a German grammar *Deutsche Sprachlehre für Volks- und Bürgerschulen* [@sanders1876], but it contains almost no analysis of sentence structure. Relevant for the topic of graphical analysis are his *Deutsche Sprachbriefe* [@sanders1879], a collection of instructional texts about grammar and style addressed to a general audience. It is a collection of short explanations of grammatical phenomena, illustrated with literary examples. There are also many exercises with solutions appearing in later issues. 
 
-Satzbild [@sanders1879]
-Periode: 228 and various more
+Starting in the 10th issue, he introduces the concept of *Satzbild* [@sanders1879: 167]. Subordinate clauses are indicated by a lower-case letter corresponding to the capital for the main clause. Coordinated subordinate clauses are indicated by a number before the letter (e.g. *2a*), while superscript numbers are used for the depth of the embedding (e.g. *a^2^*). Throughout the issues he returns to these *Satzbilder*, adding brackets and horizontal braces. The brackets are particularly interesting, as he uses them hierarchically to enclose multiple embeddings. Horizontal braces are used to link parts of a clause that are separated by internally embedded clauses. An example of his analysis for an example from Goethe in [@next] is shown in [@fig:sanders1879_263].
 
-nothing in *Lehrbuch der deutschen Sprache für Schulen* 
-- second edition (1877) https://google.com/books?id=QGsVAAAAYAAJ
-- part 3 (1889) https://archive.org/details/lehrbuchderdeuts03sanduoft
+::: ex
+Aber auch da noch wehrte sie sich so gewaltsam, dass er, um seine Augen zu erhalten und die Feindin doch nicht zu beschädigen, sein seidnes Halstuch abreißen und ihr die Hände damit auf den Rücken binden musste. [@sanders1879: 250, citing Goethe *Die wunderlichen Nachbarskinder*]
+:::
+
+::: {.im #sanders1879_263}
+*Satzbild* for the example sentence from Goethe in [@last] as proposed by Sanders [@sanders1879: 263]. Linking words (conjunction, complementisers, etc.) are retained in the *Satzbild*. The hierarchical structure of the subordination is indicated by brackets inside brackets. The horizontal brace is used to link elements of a clause that are separted by other clauses.
+:::
 
 ### Blatz (1880) *Neuhochdeutsche Grammatik*
 
