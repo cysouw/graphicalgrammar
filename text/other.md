@@ -252,7 +252,7 @@ the title: Klíč k mluvnickému rozboru větnému (pro školní potřebu) ‘A 
 
 Panevová, J. 2016. Syntax Vladimíra Šmilauera včera a dnes. Jazykovědné aktuality 53 (1 a 2): 30–35. https://www.jazykovednesdruzeni.cz/wp-content/uploads/2020/04/2016_1-2.pdf
 
-### Other Vzech
+### Other Czech
 
 grafické [@novotna2012; @novotna2006; @vernerova2019]
 
