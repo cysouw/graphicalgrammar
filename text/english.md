@@ -779,7 +779,7 @@ also in [@chomsky1975: 229, 258]
 
 ### Hockett (1958) *A course in modern linguistics*
 
-[@hockett1958: 152]
+[@hockett1958: 151-155, 178-180, 188-189]
 
 ### Francis (1958) *The structure of American English*
 

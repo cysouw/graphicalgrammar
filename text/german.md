@@ -756,14 +756,14 @@ Theodor Gelbe (1837-1892) was a school director in Stollberg. He wrote a textboo
 >
 > ('Different principles are used in the design of *Satzbilder*, none of which has been able to obtain widespread recognition.')
 
-Gelbe's approach [-@gelbe1877: 150-153] uses different letters for each clause. Clause-final embedding is indicated by a straight line with the placed embedding below. The horizontal brace is now used for different kinds of coordination. As an example, Gelbe's analysis of the example from Lessing in [@next] is given here in [@fig:gelbe1877_152].
+Gelbe's approach [-@gelbe1877: 150-153] uses different letters for each clause. Clause-final embedding is indicated by a straight line with the placed embedding below. The horizontal brace is now used for different kinds of coordination. The superscript *v* stands for *Verkürzung*, i.e. shortened. As an example, Gelbe's analysis of the example from Lessing in [@next] is given here in [@fig:gelbe1877_152].
 
 ::: ex
 Wenn uns Gott durch einen seiner Engel – ist zu sagen, durch einen Diener seines Worts – ein Mittel bekannt zu machen würdiget, das Wol der ganzen Christenheit, das Heil der Kirche auf eine ganz besondre Weise zu fördern, zu befestigen: wer darf sich da noch unterstehn, die Willkür des, der die Vernunft erschaffen, nach Vernunft zu untersuchen? und das ewige Gesetz der Herrlichkeit des Himmels nach den kleinen Regeln einer eiteln Ehre zu prüfen? [@gelbe1877: 148, citing Lessing's *Nathan*]
 :::
 
 ::: {.im #gelbe1877_152}
-*Satzbild* of Lessing's example sentence in [@last] as analysed by Gelbe [-@gelbe1877: 152].
+*Satzbild* of Lessing's example sentence in [@last] as analysed by Gelbe [-@gelbe1877: 152]. Like so many examples of this approach in this time-frame, the details are a mix-and-match of various other systems without any single clear predecessor.
 :::
 
 ### Diringer (1878) *Die Periode oder der Gliedersatz* {#sec:diringer1878}
@@ -817,10 +817,35 @@ Aber auch da noch wehrte sie sich so gewaltsam, dass er, um seine Augen zu erhal
 *Satzbild* for the example sentence from Goethe in [@last] as proposed by Sanders [@sanders1879: 263]. Linking words (conjunction, complementisers, etc.) are retained in the *Satzbild*. The hierarchical structure of the subordination is indicated by brackets inside brackets. The horizontal brace is used to link elements of a clause that are separted by other clauses.
 :::
 
-### Blatz (1880) *Neuhochdeutsche Grammatik*
+### Blatz (1879) *Neuhochdeutsche Grammatik*
 
-Satzbilder [@blatz1880: 866-871]
-in Introduction mentions Becker, Sanders
+Friedrich Blatz (1824-1900) was a teacher in Offenburg and later *Oberschulinspektor* in Ober-Elsaß [biographical details in @oster1906]. Towards the end of his career he wrote the massive (almost 900 pages) *Neuhochdeutsche Grammatik mit Berücksichtigung der historischen Entwicklung der deutschen Sprache* [@blatz1879], only to be outdone by his third edition, which is expanded up to almost 2200 pages in two volumes, published after his retirement. The second volume contains a much expanded analysis of sentences structure [@blatz1896]. There exists also a shorter version of the book, the *Neuhochdeutsche Schulgrammatik*, which saw eleven editions between 1881 and 1918, but this shortened version does not contain any graphical analysis.
+
+In the first edition, completely at the end of the book, after the discussion of the *Periode*, Blatz adds a short discussion about *Satzbilder* [@blatz1879: 866-871]. The abbreviations used look very much like the system from Gelbe (see [@sec:gelbe1877]), especially the superscript *v* for *Verkürzung*, i.e. non-finite subordinate clauses. Blatz also offers the option to use different letters for different kinds of subordinate clauses, e.g. *m* for modal clauses or *r* for relative clauses. His use of these abbreviations is quite similar, but not identical, to the approach used by Diringer (see [@sec:diringer1878]). Blatz does not mention either Gelbe or Diringer. An example of Blatz' approach is shown in [@fig:blatz1879_869] for the example sentence in [@next].
+
+::: ex
+Durch solche und ähnliche Thorheiten sind reiche und vornehme Leute an den Bettelstab gekommen und genöthigt worden, die um Hilfe anzusprehen, auf welche sie früher hochmüthig herabgesehen haben, die aber durch Fleiß und Sparsamkeit zu Vermögen sun ansehen gekommen sind. [@blatz1879: 868, citing Benjamin Franklin *Alte Goldbriefe*]
+:::
+
+::: {.im #blatz1879_869}
+*Satzbild* for the example sentence from Benjamin Franklin in [@last] in the analysis of Blatz [-@blatz1879: 869]. The conventions used are quite similar to Gelbe (see [@fig:gelbe1877_152]).
+:::
+
+In the major revision of the *Neuhochdeutsch Grammatik* published in 1896 the analysis of sentence structure is greatly expanded. The discussion of the *Periode* is only slightly increased, with most examples being still almost the same [@blatz1896: 1284-1288]. However, Blatz now adds a new section about the internal structure of a clause [@blatz1896: 43-46], using the term *Satzbild* for both analyses. However, the internal structure of a clause looks completely different (see [@fig:blatz1896_45]). This analysis is probably influenced by Kern (see [@sec:kern1883]), whose proposals were published only after the second edition of Blatz' book, but before the major revision. Although Blatz' graphics look rather different from Kern's, it is particularly telling that the verb is now alone at the top of the analysis, with all constituents depending on it, including the subject. In his explanation of this method, Blatz quite confusingly uses many different terms in a single introductory sentence:
+
+> Die Zerlegung des Satzes in seine Glieder (Auflösung, Analyse des Satzes) gründet sich auf das Durchfragen (Kontruieren) desselben. [@blatz1896: 43]
+>
+> ('The dismantling of the sentence into its pieces (disbandment, analysis of the sentence) is based on recurrent questioning (construction) of the same.')
+
+The graphical structure in [@fig:blatz1896_45] is an analysis of the sentence in [@next]. The verb *heißen* is positioned at the top and all major constituents are listed below it. It is a bit confusing that there are no lines connecting them to the main predicate above. Further modifiers are linked with lines below the major constituents. Complete phrases are repeated, which again makes this graphical analysis really confusing to interpret.
+
+::: ex
+Heißen Sie den Hausdiener meinen Reisesack in mein Zimmer im zweiten Stockwerk bringen.
+:::
+
+::: {.im #blatz1896_45}
+Clause-internal structure of the example sentence in [@last] from Blatz [-@blatz1896: 45]. This analysis has the verb (*heißen*) alone at the top, with all constituents hanging down from it (not all lines are explicitly drawn, which makes the image quite confusing). All earlier line-drawing have subject and predicate equally placed on the top. This verb-centric analysis is probably inspired by Kern (see Figure ???), whose method was published between the second and third edition of Blatz' book.
+:::
 
 ### Zettel (1882) *Unterricht in der deutschen Sprache*
 
