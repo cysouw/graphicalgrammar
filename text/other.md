@@ -15,7 +15,7 @@ Repeated here is one of Broberg's Danish example sentence in [@next a], with his
 :::
 
 ::: {.im #broberg1882_95}
-Indented table by Broberg [-@broberg1882: 95] to explain the sentence structure of the Danish example sentence in [@last a]. The actual order of the words is indicated by the numbers. The top to bottom order in the table indicates relative modification, i.e. each indented phrase modifies the head phrase above it.
+Indented table by Broberg [-@broberg1882: 95] to explain the sentence structure of the Danish example sentence in [@last a]. The actual order of the words is indicated by the numbers. The top to bottom order in the table indicates relative modification, i.e. each indented phrase modifies the head phrase above it. The placement of phrase 8 (*en af Gjæsterne*) is probably a printing error, it should be placed much more to the right.
 :::
 
 ### Jespersen (1913) *Sprogets logik*
@@ -132,11 +132,12 @@ Carl Rebbe, Walter Fischer, Birger Bjerre
 
 ## Finnish
 
-### Setälä & Nieminen (1946) *Suomen kielen oppikirja*
+### Setälä & Nieminen (1939) *Suomen kielen oppikirja*^[I thank Fred Karlsson and Matti Miestamo for their assistance with the Finnisch language and linguistic tradition.]
 
 Eemil Nestor Setälä (1864-1935) was a well-known Finnish politician and author of the Finnish declaration of independence. However, he was also a professor for Finnish language and literature at Helsinki University and among many other grammatical works he wrote a little booklet *Suomen kielen oppikirja* 'Finnisch language textbook'. The first edition appeared in 1898 and has been reprinted various time. The version from 1925, that I have consulted, does not have any graphical analyses [@setala1925].
 
-Kaarlo Nieminen (1887-1955) was a Finnish language teacher, later lecturer and professor at Helsinki University. After the death of Setälä he revised the *Suomen kielen oppikirja* in 1939. This revision was also reprinted many times. The version from 1946, that I have consulted, has an interesting graphical analysis for the example sentence in [@next] as shown in [@fig:setälä1946_68] [@setala1946: 68]. It is unclear whether this approach with arrows for modification has any precursors, or whether this is an original idea from Nieminen:
+Kaarlo Nieminen (1887-1955) was a Finnish language teacher and acting professor of Finnish
+literature at Helsinki University for a few years. After the death of Setälä he revised the *Suomen kielen oppikirja* in 1939, which was reprinted many times. In this revision Nieminen added a graphical analysis for the example sentence in [@next] as shown in [@fig:setälä1946_68], cited here from a later reprint [@setala1946: 68]. It is unclear whether this approach with arrows for modification has any precursors, or whether this is an original idea from Nieminen:
 
 > Lauseenosien keskinäisiä suhteita voidaan havainnollistaa piirroksen avulla. Jos merkitsemme subjektin paksulla pystysuoralla viivalla, predikaatin siitä lähtevällä paksulla vaakasuoralla viivalla, kumpaisenkin määräykset niihin vinosti suuntautuvilla ohuemmilla viivoilla sekä määräysten määräykset taas niihin suuntautuvilla viivoilla. [@setala1946: 68]
 > 

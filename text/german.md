@@ -24,6 +24,8 @@ The term *bekleidet* leads to a lot of discussion, because of the sexual connota
 
 Hoffmann 1839 uses nackter und umkleideter Satz 146-148
 
+[@kern1880]
+
 ### *Periode*
 
 He uses the term *Periode* for the complex sentence, a term that goes straight back to antiquity. Aristotle uses the term *περίοδος* 'periodos' to describe something akin to a complete sentence, consisting of multiple clauses (with *κῶλον* 'kolon' being used for something akin to a clause). Burkett explains that "the term *periodos* is one of Aristotle‘s visual metaphors, suggesting a circular motion or completeness of thought and rhythm." [@burkett2011: 206].
@@ -750,13 +752,13 @@ Graphical display from Schütze [-@schutze1875: 15] of the long and complex quot
 
 ### Gelbe (1877) *Deutsche Sprachlehre* {#sec:gelbe1877}
 
-Theodor Gelbe (1837-1892) was a school director in Stollberg. He wrote a textbook about German grammar called *Deutsche Sprachlehre für höhere Lehranstalten sowie zum Selbststudium* [@gelbe1877]. Apparently this book was not very popular, as it does not seem to have been reprinted. A reviewer was very critical of the principle of using a graphical display for the analysis of sentences, which prompted Gelbe to write a quite ironical rebuttal [@gelbe1880]. In this paper, Gelbe lists various other examples of *Satzbilder*, indicating that this approach is quite widespread and used by respected scholars. It is clear from his writing, that the idea of *Satzbilder* or *Periodenbilder* is well-known in the community of grammatical researchers by this point in the 19th Century, and that each scholar, including Gelbe himself, uses slightly different conventions:
+Theodor Gelbe (1837-1892) was a school director in Stollberg. He wrote a textbook about German grammar called *Deutsche Sprachlehre für höhere Lehranstalten sowie zum Selbststudium* [@gelbe1877]. Apparently this book was not very popular, as it does not seem to have been reprinted. A reviewer was very critical of the principle of using a graphical display for the analysis of sentences, which prompted Gelbe to write a quite ironical rebuttal [@gelbe1880]. In this paper, Gelbe lists various other examples of *Satzbilder* (citing Lehmann, Götzinger, Hoffmann, Bauer and Wetzel), arguing that this approach is widespread and used by respected scholars. It is clear from his writing, that the idea of *Satzbilder* or *Periodenbilder* is well-known in the community of grammatical researchers by this point in the 19th Century, and that each scholar, including Gelbe himself, uses slightly different conventions:
 
 > In der Entwerfung der Satzbilder befolgt man verschiedene Grundsätze, deren keiner jedoch bis jetzt sich allgemeine Anerkennung zu verschaffen vermochte. [@gelbe1877: 150]
 >
 > ('Different principles are used in the design of *Satzbilder*, none of which has been able to obtain widespread recognition.')
 
-Gelbe's approach [-@gelbe1877: 150-153] uses different letters for each clause. Clause-final embedding is indicated by a straight line with the placed embedding below. The horizontal brace is now used for different kinds of coordination. The superscript *v* stands for *Verkürzung*, i.e. shortened. As an example, Gelbe's analysis of the example from Lessing in [@next] is given here in [@fig:gelbe1877_152].
+Gelbe's approach [-@gelbe1877: 150-153] seems to be most like the approach from Götzinger (see [@sec:götzinger1836]). Like Götzinger, Gelbe uses different letters for each clause. However, clause-final embedding is indicated by a straight line with the embedding placed below, while Götzinger uses a horizontal brace. Galbe uses the horizontal brace for various kinds of coordination. The superscript *v* stands for *Verkürzung*, i.e. shortened. As an example, Gelbe's analysis of the example from Lessing in [@next] is given here in [@fig:gelbe1877_152].
 
 ::: ex
 Wenn uns Gott durch einen seiner Engel – ist zu sagen, durch einen Diener seines Worts – ein Mittel bekannt zu machen würdiget, das Wol der ganzen Christenheit, das Heil der Kirche auf eine ganz besondre Weise zu fördern, zu befestigen: wer darf sich da noch unterstehn, die Willkür des, der die Vernunft erschaffen, nach Vernunft zu untersuchen? und das ewige Gesetz der Herrlichkeit des Himmels nach den kleinen Regeln einer eiteln Ehre zu prüfen? [@gelbe1877: 148, citing Lessing's *Nathan*]
@@ -831,7 +833,7 @@ Durch solche und ähnliche Thorheiten sind reiche und vornehme Leute an den Bett
 *Satzbild* for the example sentence from Benjamin Franklin in [@last] in the analysis of Blatz [-@blatz1879: 869]. The conventions used are quite similar to Gelbe (see [@fig:gelbe1877_152]).
 :::
 
-In the major revision of the *Neuhochdeutsch Grammatik* published in 1896 the analysis of sentence structure is greatly expanded. The discussion of the *Periode* is only slightly increased, with most examples being still almost the same [@blatz1896: 1284-1288]. However, Blatz now adds a new section about the internal structure of a clause [@blatz1896: 43-46], using the term *Satzbild* for both analyses. However, the internal structure of a clause looks completely different (see [@fig:blatz1896_45]). This analysis is probably influenced by Kern (see [@sec:kern1883]), whose proposals were published only after the second edition of Blatz' book, but before the major revision. Although Blatz' graphics look rather different from Kern's, it is particularly telling that the verb is now alone at the top of the analysis, with all constituents depending on it, including the subject. In his explanation of this method, Blatz quite confusingly uses many different terms in a single introductory sentence:
+In the major revision of the *Neuhochdeutsch Grammatik* published in 1896 the analysis of sentence structure is greatly expanded. The discussion of the *Periode* is only slightly increased, with most examples being still almost the same [@blatz1896: 1284-1288]. However, Blatz now adds a new section about the internal structure of a clause [@blatz1896: 43-46], using the term *Satzbild* for both analyses. However, the internal structure of a clause looks completely different (see [@fig:blatz1896_45]). This analysis is probably influenced by Kern (see [@sec:kern1883]), whose proposals were published only after the second edition of Blatz' book, but before the major revision. Although Blatz' graphics look rather different from Kern's, it is particularly telling that the verb is now alone at the top of the analysis, with all constituents depending on it, including the subject. Also the method to determine each part of the sentence by a question seems directly influenced by Kern. However, in his explanation of this method, Blatz quite confusingly uses many different terms in a single introductory sentence:
 
 > Die Zerlegung des Satzes in seine Glieder (Auflösung, Analyse des Satzes) gründet sich auf das Durchfragen (Kontruieren) desselben. [@blatz1896: 43]
 >
@@ -861,11 +863,53 @@ Ich schenkte ihm 300 Rubel, und als ich erfuhr, dass derselbe in Kiew einen Anve
 
 ### Kern (1883) *Methodik des deutschen Unterrichts* {#sec:kern1883}
 
-Franz Kern (1830-1894) [@kern1883]
+Franz Kern (1830-1894) was a teacher and school director in Stettin (Szczecin) and Berlin. Most of his writings are literary commentaries for use in schools, but after his hiring in Berlin he published various books on graphical methods for grammatical education. In the following decades, his proposals were discussed extensively in committees dealing with reforming the school curriculum, but in the end the decision went against Kern's proposals. An extensive discussion of Kern's life and linguistic work can be found in Keinasto [-@keinasto2001].
 
-"ein Beckersches Formwort" (p70)
-cites "Hoffmann in seiner Neuhochd. Elementargramm." (p57)
-cites "Sanders Lehrbuch der deutschen Sprache für Schulen" (p43)
+Starting in 1883, Kern published three books in quick succession. The first two were written for a more scientific audience, including teachers, the third was written for a broader audience, including students. In accordance with the typesetting tradition at the time, the first two were printed in an *Antiqua*-typeface, in contrast to the third, which was printed in a *Fraktur*-typeface:
+
+- *Die deutsche Satzlehre: eine Untersuchung ihrer Grundlagen* [@kern1883a]. In this book Kern describes the general background and his theoretical approach to grammatical analysis.
+- *Zur Methodik des deutschen Unterrichts* [@kern1883]. This book contains a practical example how the graphical approach to grammatical education might work. This book is directed to teachers, not to students. Only the first quarter is about graphical methods [@kern1883: 1-34], the rest deals with using literary examples in class.
+- *Grundriss der deutschen Satzlehre* [@kern1884]. This book is much more complete grammar of the German language, though restricted to syntax. It includes graphics, but only as a small addition to the general syntactic description [@kern1884: 30-36, 56-57].
+
+Kern uses line diagrams, probably inspired by Hoffmann (see [@sec:hoffmann1839]), whose grammar is cited positively various times in Kern's work [@kern1883: 57; @kern1888: 159]. 
+
+In *Die deutsche Satzlehre* [@kern1883a], Kern spends many pages on the definition of the notion "subject". He basically concludes that the subject is somehow special, but that it still is depended on the finite verb: *[Das Subjektswort im Nominativ] regiert nicht das finite Verbum, aber er ist seine allernächste Bestimmung* 'The subject in the nominative does not govern the finite verb, but it is its closest modifier' [@kern1883a: 46]. Still, when he explains his idea about drawing pictures, he uses a *Konjunktiv* when discussing the placement of the subject, indicating
+
+> Dem Sachverhalt noch entsprechender freilich wäre es, wenn oben ganz allein stets Verbum finitum stände und auch das Subjektswort am Ende eines nach links unten geführten Striches stände als die Verbalperson bestimmend. [@kern1883a: 110] 
+>
+> ('It would be even more in correspondence with the facts, if the finite verb would be placed alone on top and the subject would also be placed at the end of a line going down left as the determiner of the verbal person.')
+
+- finite verb alone on top, 
+- metaphor of a tree!
+- questions to determine parts
+
+
+
+> Uebrigens besagt der Ausdruck Satzerweiterung gar nichts als Satzverlängerung; denn durch hinzugefügte Bestimmungen wird der Inhalt des Satzes natürlich nicht erweitert, sondern verengert und dadurch bereichert. [@kern1883: 5, footnote; this observation is eerily similar to the one made by Diesterweg -@diesterweg1830: 167; -@diesterweg1834: 151]
+
+However, the verb-centric approach of Kern can probably be attributed to Becker, although his name is only mentioned once in passing [@kern1883a: 71].
+
+> Eine recht überflüssige doch weniger schädliche Terminologie, ist auch die des nackten und bekleideten (oder umkleideten) Satzes. Ich habe oben wiederholt das Bild des Baumes angewendet, um den lebendigen Organismus des Satzes dadurch zu veranschaulichen. In dieser Terminologie wird es vorgezogen, die Bestimmungen, statt als Äste, Zweige und Blätter sich zu denken, sie sich lieber als Hemde, Rock und Weste vorzustellen. Ich finde dieses Bild weder treffend noch geschmackvoll. [@kern1883a: 95-96]
+
+"Schema … dem Bilde des Baumes entsprechend" [@kern1883: iv]
+
+> Richtiger und anschaulicher (dem Bilde des Baumes entsprechend)
+wäre vielleicht das umgekehrte Schema, so daß das finite Verbum unten
+stände, und die verschiedenen Bestimmungen sich als Verästelungen und
+Verzweigungen darstellten; doch habe ich es nicht gewählt, weil erstens
+in der praktischen Durchführung die Vorausberechnung des nötigen
+Raumes dem Schüler Schwierigkeiten machen würde, und zweitens der
+herkömmliche Terminus Abhängigkeit zu dem gewöhnlichen Schema
+besser paßt. — Daß übrigens auf der Stufe, wo der zusammengesetzte Satz eigentliches Pensum ist, das Schema vereinfacht werden
+muß, ist selbstverständlich. [@kern1883: iv-v footnote]
+
+
+
+
+> Am einfachsten bezeugen sie ihre Einsicht in diesen Zusammenhang dadurch, daß sie von dem Satz ein Schema entwerfen, das nur grammatische Termini enthält und in welchem die Abhängigkeit bezeichnet wird durch Striche, die von dem einzelnen Terminus nach unten gezogen werden, dergestalt daß am unteren Ende des Striches das Abhängige, am oberen das Regierende steht. … Dem Sachverhalt noch entsprechender freilich wäre es, wenn oben ganz allein stets Verbum finitum stände und auch das Subjektswort am Ende eines nach links unten geführten Striches stände als die Verbalperson bestimmend [@kern1883a: 110] 
+
+=> The conjunctive is removed in the second edition!!! [@kern1888: 177]
+
 
 Kern cites Hoffmann [@kern1888], but only in the second edition after he already published his "tree" metaphors. The idea for the "trees" is already in "Satzlehre", finished in December 1882, and practically applied in "Methodik" of 1883.
 
@@ -1032,6 +1076,14 @@ Erich Drach (1885-1935) [@drach1937]
 ### Heemstra (1947) *Grundrisz der deutsch-niederländischen Satzlehre*
 
 only graphical display of clause subordination. cites examples from [@kern1884] and [@flothuis1930], does not add anything new [@heemstra1947: 76-79]
+
+### Glinz (1952) *Die innere Form des Deutschen*
+
+- 1952/1965: https://ids-pub.bsz-bw.de/frontdoor/index/index/docId/10209
+- 1957/1965: https://ids-pub.bsz-bw.de/frontdoor/index/index/docId/10160 p.50
+- 1961: https://ids-pub.bsz-bw.de/frontdoor/index/index/docId/10189
+
+reception: https://docserv.uni-duesseldorf.de/servlets/DocumentServlet?id=46205
 
 ### Essen (1956) *Methodik des Deutschunterrichts*
 
