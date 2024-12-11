@@ -613,7 +613,7 @@ The first three examples of Bauer's sentence analysis [@bauer1850: 95]. There ar
 A more complex example discussed by Bauer is the sentence in [@next], analyzed as [@fig:bauer1850_97] [@bauer1850: 97]. Again, there is both an analysis of all main and subordinate clauses, written out with subordination marked by vertical lines, and there is a structural pattern with letters and symbols in the bottom right. This structural pattern has two cases of coordination (marked by a plus symbol), an internal subordination (marked by the brackets), a secondary subordination (marked by a vertical line) and a subordination at the end of the sentence (marked by a comma). Probably it is more accurate to analyze the subordination *c* as a simple frontal embedding of the second conjunct, using a comma in the analysis instead of brackets for a clause-internal embedding (viz. *A+c,A,a+a* instead of *A+A(c)A,a+a*), but that is some minor nitpicking.
 
 ::: ex
-Er schenkte ihr 300 Rubel und als er erfuhr, daß sie in Petersburg einen Vetter habe, stellte er ihre frei, ob sie ihre Reise fortsetzen oder ob sie umkehren wolle. [@bauer1850: 97]
+Er schenkte ihr 300 Rubel und als er erfuhr, daß sie in Petersburg einen Vetter habe, stellte er ihre frei, ob sie ihre Reise fortsetzen oder ob sie umkehren wolle. [@bauer1850: 97, citing an example from Johan Peter Hebel *Herr Charles*]
 :::
 
 ::: {.im #bauer1850_97}
@@ -849,7 +849,15 @@ Clause-internal structure of the example sentence in [@last] from Blatz [-@blatz
 
 ### Zettel (1882) *Unterricht in der deutschen Sprache*
 
-Karl Zettel (1831-1904), Gymnasium Regensburg, Satzbild like Götzinger [@zettel1882: 85-87]
+Karl Zettel (1831-1904) was a teacher in Regensburg and later an editor of de-luxe editions of German poetry in Munich. He wrote a small article about the method of teaching German in schools, called *Auf welche Weise kann der Unterricht in der deutschen Sprache und Literatur an unseren Studienanstalten methodisch und systematisch betrieben werden?* [@zettel1882]. He argues that *Satzbilder* are quite useful in school, as they can readily be displayed on the blackboard [@zettel1882: 85-87]. His graphics look like those of Götzinger (see [@sec:götzinger1836]), although Zettel uses superscript numbers to indicate the parts of a clause that are separated by other clauses. Also telling is his example sentence [@next], which is a reformulation of the example given by Bauer (see [@fig:bauer1850_97]).
+
+::: ex
+Ich schenkte ihm 300 Rubel, und als ich erfuhr, dass derselbe in Kiew einen Anverwandten habe, der ihn zu sehen wünschte, stellte ich ihm frei, ob er seine Reise Fortzusetzen gedenke, oder ob er umkehren wolle.
+:::
+
+::: {.im #zettel1882_86}
+*Satzbild* from Zettel [-@zettel1882: 86] for the example sentence in [@last]. The example is almost identical to the example from Bauer in [@fig:bauer1850_97]. It seems like the placement of the main clause capital *B* (*stellte ich ihm frei*) is a printing error. It should probably be placed at the top, aligned with the capital *A* main clause (*ich schenkte ihm 300 Rubel*).
+:::
 
 ### Kern (1883) *Methodik des deutschen Unterrichts* {#sec:kern1883}
 
