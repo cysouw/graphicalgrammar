@@ -306,6 +306,12 @@ Ušakov, Dmitrij Nikolajevič https://www.prlib.ru/en/history/618974
 Smirnova, A. M
 Ščepetova, Nina Nikolajevna
 
+### Admoni (1961) *Partiturnoje strojenije*
+
+Admoni: Partiturnoje strojenije recevoj cepi i sistema grammaticeskich znacenij ν predlo/.enii [Die „Partitur"-Struktur der Redekette und das System grammatischer Bedeutungen im Satz]. In: Naucnyje doklady vysäej äkoly. Filologiceskije nauki [Wissenschaftliche Beiträge der er Hochschule. Philologische Wissenschaften]. 1961, H° 3. - 253, 272, 278, 288
+
+see also 4th edition 1982, p. 311-317 https://archive.org/details/derdeutschesprac0000admo
+
 ## Chinese
 
 ### Li Jinxi *New Grammar of the National Language* 

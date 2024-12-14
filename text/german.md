@@ -863,59 +863,79 @@ Ich schenkte ihm 300 Rubel, und als ich erfuhr, dass derselbe in Kiew einen Anve
 
 ### Kern (1883) *Methodik des deutschen Unterrichts* {#sec:kern1883}
 
-Franz Kern (1830-1894) was a teacher and school director in Stettin (Szczecin) and Berlin. Most of his writings are literary commentaries for use in schools, but after his hiring in Berlin he published various books on graphical methods for grammatical education. In the following decades, his proposals were discussed extensively in committees dealing with reforming the school curriculum, but in the end the decision went against Kern's proposals. An extensive discussion of Kern's life and linguistic work can be found in Keinasto [-@keinasto2001].
+Franz Kern (1830-1894) was a teacher and school director in Stettin (Szczecin) and Berlin. Most of his writings are literary commentaries for use in schools, but after his hiring in Berlin in 1881 he published various books on graphical methods for grammatical education. In the following decades, these proposals were discussed extensively in committees dealing with reforming the school curriculum, but in the end the decision went against Kern's graphical method. More details on Kern's life and linguistic work can be found in Keinasto [-@keinasto2001; see also @osborne2020].
 
-Starting in 1883, Kern published three books in quick succession. The first two were written for a more scientific audience, including teachers, the third was written for a broader audience, including students. In accordance with the typesetting tradition at the time, the first two were printed in an *Antiqua*-typeface, in contrast to the third, which was printed in a *Fraktur*-typeface:
+Starting in 1883, Kern published four books in quick succession. The first two were written for more learned readers, including teachers, the second two were written for a broader audience, including students. In accordance with the typesetting tradition at the time, the first two were printed in an *Antiqua*-typeface, in contrast to the later two, which were printed in a *Fraktur*-typeface:
 
-- *Die deutsche Satzlehre: eine Untersuchung ihrer Grundlagen* [@kern1883a]. In this book Kern describes the general background and his theoretical approach to grammatical analysis.
-- *Zur Methodik des deutschen Unterrichts* [@kern1883]. This book contains a practical example how the graphical approach to grammatical education might work. This book is directed to teachers, not to students. Only the first quarter is about graphical methods [@kern1883: 1-34], the rest deals with using literary examples in class.
-- *Grundriss der deutschen Satzlehre* [@kern1884]. This book is much more complete grammar of the German language, though restricted to syntax. It includes graphics, but only as a small addition to the general syntactic description [@kern1884: 30-36, 56-57].
+- *Die deutsche Satzlehre: eine Untersuchung ihrer Grundlagen* [@kern1883a]. In this book Kern describes the general background and his theoretical approach to grammatical analysis. It was finished in 1882 before the following book was written.
+- *Zur Methodik des deutschen Unterrichts* [@kern1883]. This book contains practical examples of how the graphical approach to grammatical education might work. This book is directed to teachers, not to students. Only the first quarter of the book is about graphical methods [@kern1883: 1-34], the rest deals with using literary examples in class.
+- *Grundriss der deutschen Satzlehre* [@kern1884]. This book is a much more complete grammar of the German language, though restricted to syntax. It is conceived of as an introductory text for use in class. It includes graphical analyses [@kern1884: 30-36, 56-57], but only as a small addition to the detailed syntactic descriptions of German sentence structure.
+- *Leitfaden für den Anfangsunterricht in der deutschen Grammatik* [@kern1888a]. This book is intended as a description of the lessons to be used in classes before the previous *Grundriss*, roughly for children aged 10-12 years old ("*bis Quinta einschließlich*"). Many examples of the graphical analysis are the same as in the *Grundriss*. A few simple introductory examples are newly addeed [@kern1888a: 59-60, 67-70].
 
-Kern uses line diagrams, probably inspired by Hoffmann (see [@sec:hoffmann1839]), whose grammar is cited positively various times in Kern's work [@kern1883: 57; @kern1888: 159]. 
+For his graphical approach Kern uses line diagrams. This approach is very likely inspired by Hoffmann (see [@sec:hoffmann1839]), whose grammar is cited positively at various times in Kern's work [@kern1883: 57; @kern1888: 74, 156-159]. As an example of Kern's approach, an analysis of the sentence in [@next] is shown in [@fig:kern1883_17]. These kind of line diagrams are already described in words in Kern [-@kern1883a: 110], but the first actual examples are given in Kern [@kern1883: 1-34]. In his graphical analysis, Kern only deals with the dependency structure and he almost completely ignores the actual ordering of the words in the sentence. The left-right ordering of the dependents is always subject-object-adverbial, irrespective of their ordering in the sentence. Such a fixed functional ordering is reminiscent of the approach by Moritz (see [@sec:moritz1782]), although there is no indication of any direct influence from Moritz on Kern. A completely new aspect of Kern's diagrams is the sole placement of the finite verb on top. Earlier diagrams by other scholars always placed both the subject and the verb on top.
 
-In *Die deutsche Satzlehre* [@kern1883a], Kern spends many pages on the definition of the notion "subject". He basically concludes that the subject is somehow special, but that it still is depended on the finite verb: *[Das Subjektswort im Nominativ] regiert nicht das finite Verbum, aber er ist seine allernächste Bestimmung* 'The subject in the nominative does not govern the finite verb, but it is its closest modifier' [@kern1883a: 46]. Still, when he explains his idea about drawing pictures, he uses a *Konjunktiv* when discussing the placement of the subject, indicating
+::: ex
+Als sie nun in ihrem neuen Glanze da stand, kamen die Sperlinge wieder, ihre alten Wohnungen zu suchen. [@kern1883: 13]
+:::
+
+::: {.im #kern1883_17}
+*Schema* for the examples sentence in [@last] from Kern [-@kern1883: 17]. The ordering of the words in the actual sentence is not reflected in this diagram, only the dependency structure. Kern chooses to put the finite verb on top as the principal governor of clause structure. Up to this point in time all analyses of other authors had the subject and the finite verb as co-equal elements on top of the graphical display.
+:::
+
+Kern calls his graphical display a *Schema* and at various times he compares it to a tree [@kern1883: iv-v, footnote; -@kern1883a: 93, 95-96]. He even explicitly discusses the option to draw the *Schema* from bottom to top, like a real tree, but decides against this display for practical reasons. Also note that in the following quotation Kern talks about *dem gewöhnlichen Schema* 'the usual schema', probably referring to other authors, like Hoffmann, who also use a display with words hanging down.
+
+> Richtiger und anschaulicher (dem Bilde des Baumes entsprechend)
+wäre vielleicht das umgekehrte Schema, so daß das finite Verbum unten stände, und die verschiedenen Bestimmungen sich als Verästelungen und Verzweigungen darstellten; doch habe ich es nicht gewählt, weil erstens in der praktischen Durchführung die Vorausberechnung des nötigen Raumes dem Schüler Schwierigkeiten machen würde, und zweitens der herkömmliche Terminus Abhängigkeit zu dem gewöhnlichen Schema besser paßt. [@kern1883: iv-v, footnote]
+>
+> ('The reverse schema would have been more correct and more vivid (corresponding to the image of a tree), in such a way that the finite verb would be placed at the bottom and the various modifiers would be portrayed as branches; however, I did not choose this option because, first, in the practical application the student would have had difficulties with the planning of the required space, and second, the conventional term "dependency" (*Abhängigkeit*) fits better to the usual schema.')
+
+As for the placement of the subject, in the *Satzlehre* [@kern1883a: 30-63] Kern spends many pages on the definition of the notion "subject". He basically concludes that the subject is somehow special, but that it still depends on the finite verb just like other constituents: *[Das Subjektswort im Nominativ] regiert nicht das finite Verbum, aber er ist seine allernächste Bestimmung* '[The subject in the nominative] does not govern the finite verb, but it is its closest modifier' [@kern1883a: 46]. Interestingly, when he explains his idea about drawing pictures, he uses a *Konjunktiv* when discussing the placement of the subject in the graphic (see quote below). This indicates that in late 1882, when he wrote the *Satzlehre*, he was not completely sure about the placement of the subject: either besides the finite verb (just like Hoffmann, see [@sec:hoffmann1839]), or below the finite verb (which he chose eventually). Notably, this *Konjunktiv* is changed to a regular indicative in the second edition of the *Satzlehre* [@kern1888: 177], as by then he is committed to the finite verb as the sole head of the clause with the subject placed below it.
 
 > Dem Sachverhalt noch entsprechender freilich wäre es, wenn oben ganz allein stets Verbum finitum stände und auch das Subjektswort am Ende eines nach links unten geführten Striches stände als die Verbalperson bestimmend. [@kern1883a: 110] 
 >
 > ('It would be even more in correspondence with the facts, if the finite verb would be placed alone on top and the subject would also be placed at the end of a line going down left as the determiner of the verbal person.')
 
-- finite verb alone on top, 
-- metaphor of a tree!
-- questions to determine parts
+The more examples Kern discusses, the more confusing his whole systems becomes. The first problematic aspect is that in the *Grundriss* [@kern1884] he starts leaving out the actual words in his schemas. He mostly just displays the grammatical categories, using constantly changing abbreviations. Such an "empty" schema is called a *Satzbild* [@kern1884: 30, footnote]. It is left up to the reader to reconstruct which abbreviations in the graphic display correspond to which words in the example sentence. This task is often non-trivial, because the ordering in the *Schema* does not necessarily represent the order in the sentence.
 
+Second, Kern starts to use dotted lines without any explanation. At first this seems to be restriced to coordination [@kern1884: 31], but then he also uses dotted lines to indicate levels of embedding in complex sentences [@kern1884: 56]. In the *Leitfaden* [@kern1888a] he starts using dotted lines everywhere between the levels of modification. Instead of clarifying the structure, these dotted lines are mostly just confusing.
 
+Third, for the analysis of complex sentences with many subordinated clauses, Kern introduces additional square brackets and round brackets, as shown in [@fig:kern1884_56] [@kern1884: 56-57]. This graphic is extremely confusing and it indicates that Kern's approach reaches its limits with more complex sentences. This graphic is an analysis of the complex sentences in [@next]. 
 
-> Uebrigens besagt der Ausdruck Satzerweiterung gar nichts als Satzverlängerung; denn durch hinzugefügte Bestimmungen wird der Inhalt des Satzes natürlich nicht erweitert, sondern verengert und dadurch bereichert. [@kern1883: 5, footnote; this observation is eerily similar to the one made by Diesterweg -@diesterweg1830: 167; -@diesterweg1834: 151]
+::: ex
+Wenn dein Bruder, der mir so wert und teuer ist, wie nur irgend ein Mensch es sein kann, in der Not, die ihn bedrängte, sich an mich gewendet hätte, so würde ich, was nur irgend in meinen Kräften stand, aufgeboten haben, damit er damals die Ruhe, deren er so würdig ist, wieder gewonnen hätte. [@kern1884: 56]
+:::
 
-However, the verb-centric approach of Kern can probably be attributed to Becker, although his name is only mentioned once in passing [@kern1883a: 71].
+::: {.im #kern1884_56}
+*Satzbild* for the complex sentence in [@last] as analysed by Kern [-@kern1884: 56]. This graphical display is actually extremely confusing – and even Kern himself has missed a printing error with the square brackets on level 2: they should surround the first and the second element, not the second and the third. 
+:::
 
-> Eine recht überflüssige doch weniger schädliche Terminologie, ist auch die des nackten und bekleideten (oder umkleideten) Satzes. Ich habe oben wiederholt das Bild des Baumes angewendet, um den lebendigen Organismus des Satzes dadurch zu veranschaulichen. In dieser Terminologie wird es vorgezogen, die Bestimmungen, statt als Äste, Zweige und Blätter sich zu denken, sie sich lieber als Hemde, Rock und Weste vorzustellen. Ich finde dieses Bild weder treffend noch geschmackvoll. [@kern1883a: 95-96]
+Instead of visualising all modifications in all clauses, The display in [@fig:kern1884_56] focusses on the relationship between the various subordinate clauses, similar to the tradition of the *Periodenbilder*. Unfortunately, Kern also includes some non-clausal constituents, but not all. For example, the head nouns of relative clauses are included. These few non-clausal constituents are placed inside round brackets and these elements in round brackets then are linked to other parts of their subordinate sentence by using square brackets. 
 
-"Schema … dem Bilde des Baumes entsprechend" [@kern1883: iv]
+The result is confusing enough that even Kern himself missed a printing error in this graphic (from the text it is clear he correctly understood the sentence structure): on subordination level 2 *(N-S. 2)* the element *Präd.꞊N* (=*Prädikatsnominativ*) belongs to the attributive clause to its left *(der mir so wert und teuer ist)*, not to its right *(die ihn bedrängte)*. So, the square brackets should have been placed around the first and the second element, not around the second and the third.
 
-> Richtiger und anschaulicher (dem Bilde des Baumes entsprechend)
-wäre vielleicht das umgekehrte Schema, so daß das finite Verbum unten
-stände, und die verschiedenen Bestimmungen sich als Verästelungen und
-Verzweigungen darstellten; doch habe ich es nicht gewählt, weil erstens
-in der praktischen Durchführung die Vorausberechnung des nötigen
-Raumes dem Schüler Schwierigkeiten machen würde, und zweitens der
-herkömmliche Terminus Abhängigkeit zu dem gewöhnlichen Schema
-besser paßt. — Daß übrigens auf der Stufe, wo der zusammengesetzte Satz eigentliches Pensum ist, das Schema vereinfacht werden
-muß, ist selbstverständlich. [@kern1883: iv-v footnote]
+The graphical analysis would have been much more transparent when only the subordinate clauses would have been shown. The internal structure of each of these clauses could be explained separately. [@fig:kern1884_56_tree] shows an attempt to "clean up" the analysis of Kern.
 
+::: {.tree #kern1884_56_tree}
+Simplified *Schema* of [@fig:kern1884_56], obtained by removing everything in round brackets (and fixing the square-bracket error mentioned above). The result only includes the hierarchical clause structure. Each of these clauses of course has its own internal structure, that could be expanded in Kern's style.
+:::
 
+Kern himself also realised that his system was not ideal for large sentences with many subordinate clauses. Consequently he added the option for a simplified *Satzbild* only consisting of letters and numbers, like the many proposals of *Periodenbilder* ever since Herling. His simplified analysis for [@last] is shown in [@fig:kern1884_57]. It is a very simple one-line *Periodenbild* with a completely idiosyncratic use of letters and numbers. The dots separate the clauses, and for each subordinate clause, the number indicates the depth of the embedding. Lower-case letters are used to indicate that a clause is separated by other clauses, so e.g. all parts labelled *1a* are parts of the same subordinate clause.
 
+::: {.im #kern1884_57}
+Simplified schema for the example sentence in [@last] from Kern [-@kern1884: 57]. This display shows the actual order of the clauses from left to right. The number indicates the level of subordination of the clause, with *H* being used for *Hauptsatz* 'main clause'. The lower-case letters *a, b* indicate that a clause is interrupted by subordinate clauses. Such a bare-bones *Periodenbild* is reminiscent of Hoffmann's approach (see [@sec:hoffmann1839]).
+:::
 
-> Am einfachsten bezeugen sie ihre Einsicht in diesen Zusammenhang dadurch, daß sie von dem Satz ein Schema entwerfen, das nur grammatische Termini enthält und in welchem die Abhängigkeit bezeichnet wird durch Striche, die von dem einzelnen Terminus nach unten gezogen werden, dergestalt daß am unteren Ende des Striches das Abhängige, am oberen das Regierende steht. … Dem Sachverhalt noch entsprechender freilich wäre es, wenn oben ganz allein stets Verbum finitum stände und auch das Subjektswort am Ende eines nach links unten geführten Striches stände als die Verbalperson bestimmend [@kern1883a: 110] 
+Finally following two details from Kern's descriptions might indicate some influences that have led Kern to his graphical approach. First, he argues against the term *Erweiterung* with an argumentation that is eerily similar to the one made by Diesterweg as discussed in [@sec:diesterweg1830] [@diesterweg1830: 167; -@diesterweg1834: 151].
 
-=> The conjunctive is removed in the second edition!!! [@kern1888: 177]
+> Uebrigens besagt der Ausdruck Satzerweiterung gar nichts als Satzverlängerung; denn durch hinzugefügte Bestimmungen wird der Inhalt des Satzes natürlich nicht erweitert, sondern verengert und dadurch bereichert. [@kern1883: 5, footnote]
+>
+> ('Incidentally, the term *Satzerweiterung* 'sentence expansion' just means elongation of the sentence; however, by adding modifications the content of a sentence is not expanded, but narrowed and enriched in the process.')
 
+Second, Kern does not like the notion of *bekleidetet* 'dressed' sentences. His argument is actually quite convincing: the metaphor suggest that parts of the sentence are like shirts or trousers, which is actually a strange image. Even more telling is Kern's mentioning of the alternative term *umkleidet*, which is a very specific term used by Hoffmann [-@hoffmann1839: 146-148].
 
-Kern cites Hoffmann [@kern1888], but only in the second edition after he already published his "tree" metaphors. The idea for the "trees" is already in "Satzlehre", finished in December 1882, and practically applied in "Methodik" of 1883.
-
-"So steht in der von Erdmann mit Recht gelobten Grammatik von Hoffmann" (1888: 159)
-
-Influence from Götzinger? [@forsgren1998: 63] only circumstantial evidence
+> Eine recht überflüssige doch weniger schädliche Terminologie, ist auch die des nackten und bekleideten (oder umkleideten) Satzes. … In dieser Terminologie wird es vorgezogen, die Bestimmungen, statt als Äste, Zweige und Blätter sich zu denken, sie sich lieber als Hemde, Rock und Weste vorzustellen. Ich finde dieses Bild weder treffend noch geschmackvoll. [@kern1883a: 95-96]
+>
+> ('A rather superfluous, though less harmfull terminology, is the one of *nackt* 'naked' and *bekleidet* 'dressed' (or *umkleidet* 'around-dressed') sentences. … In this terminology it is preferred for modifiers, instead of thinking about them as branches and leaves, to preferably imagine them as shirt, skirt and waistcoat. I consider this image to be neither fitting nor tasteful.')
 
 ### Willomitzer (1885) *Deutsche Grammatik* 
 
