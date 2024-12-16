@@ -667,6 +667,20 @@ https://de.wikipedia.org/wiki/Karl_Friedrich_Wilhelm_Wander
 "Abfassung einer Verteidigungsschrift für den angegriffenen Diesterweg, Überwachung wegen angeblich kommunistischer Umtriebe, Einleitung einer disziplinarischen Untersuchung im Auftrag des Ministeriums der geistlichen, Unter-
 richts- und Medizinalangelegenheiten, 1845 Verhaftung, 1845–1847 Suspension vom Dienst, 1847 Freispruch und Wiedereinsetzung ins Amt, 1848 maßgebliche Beteiligung an der Gründung des „Allgemeinen Deutschen Lehrervereins“ in Eisenach, 1849 endgültige Entlassung aufgrund seines politischen Engagements während der Revolution, 1850 Niederlegung der Lehrtätigkeit an der Mädchenschule, 1850 bis 1851 Amerikaaufenthalt," [@schutze2014: 883]
 
+### Schötensack (1856) *Grammatik der neuhochdeutschen Sprache*
+
+Heinrich August Schötensack (1812-1891) was a teach in Stendal.
+
+very simple Periodenbild like Lehmann [@schotensack1856: 800-802]
+
+::: ex
+(A) Er gefiel sich sehr in Scherzen, (a) weil er wusste, (α) dass Nichts mehr den Geist auſheitre, (β) Nichts mehr eine freimüthige Aeusserung gestatte, (𝔄) als der Scherz, (𝔞) der fast immer gut aufgenommen werde, (א) wenn nicht gerade ein murrköpfiger Thor ihn entgegen zu nehmen habe. [@schotensack1856: 801]
+:::
+
+::: {.im #schötensack1856_801}
+
+:::
+
 ### Schlecht (1856) *Denk- und Sprachlehre* {#sec:schlecht1856}
 
 Raymund Schlecht (1811-1891) was director of a teacher's training college in Eichstätt [see @gmelch1931 for biographical details]. Besides being a teacher and theologian, he was a musical researcher. Most of his writings deal with musicology, but he also published a short grammar called *Denk- und Sprachlehre. Ein Leitfaden zur Ertheilung eines organischen Sprachunterrichts* [@schlecht1856]. In the preface he prominently mentions Becker (see [@sec:becker1829]).
@@ -939,7 +953,7 @@ Second, Kern does not like the notion of *bekleidetet* 'dressed' sentences. His 
 
 ### Willomitzer (1885) *Deutsche Grammatik* 
 
-Franz Willomitzer (1847-1910)
+Franz Willomitzer (1847-1910) was a teacher for German language and history in Vienna.
 
 First edition only a single simple table (Becker-influence with numbers) [@willomitzer1879: 123]. Remains in later editions
 
