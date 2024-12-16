@@ -219,6 +219,23 @@ Original from 1939, but not diagrams. Takes over Bonnard-style diagrams in 25th 
 28th edition 1969 in Marburg library
 30th edition 1995 https://archive.org/details/precisdegrammair00grev
 
+## Spanish
+
+### Bouilly (1918) *Bosquejo de un nuevo método de análisis objetivo*
+
+Bouilly, Enrique. (1918). “Bosquejo de un nuevo método de análisis”. El Monitor de la Educación Común. Año 36, n°. 550, p. 39.
+
+http://www.bnm.me.gov.ar/giga1/monitor/monitor/550.pdf p.32
+https://amsacta.unibo.it/id/eprint/7830/1/129-151%20Esteban%20Lidgett%20et%20al.pdf
+
+### More Spanish
+
+Montoro del Arco, Esteban T. (2019). “Métodos y modelos de representación del análisis sintáctico en la gramática escolar española (siglos XIX y XX)”, en: Zamorano Aguilar, A. (coord. y ed.) / González-Fernández, A., Rodríguez-Tapia, S. y González Jiménez, J. M. (eds.): Historiografía de la reflexión sintáctica: metaanálisis y estudios en torno al español, München: LINCOM, 303-335. [Colección: Studies in Spanish Linguistics]
+
+http://hdl.handle.net/10481/67999
+
+https://digibug.ugr.es/bitstream/handle/10481/67999/Metodos_y_modelos_de_representacion_del%20%281%29.pdf?sequence=1
+
 ## Romanian
 
 ### Tiktin (1895) *Gramatica Românǎ*

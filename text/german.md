@@ -664,21 +664,18 @@ reformpädagoge, friend of Diesterweg „Der geschmähte Diester­weg“, well-k
 
 https://de.wikipedia.org/wiki/Karl_Friedrich_Wilhelm_Wander
 
-"Abfassung einer Verteidigungsschrift für den angegriffenen Diesterweg, Überwachung wegen angeblich kommunistischer Umtriebe, Einleitung einer disziplinarischen Untersuchung im Auftrag des Ministeriums der geistlichen, Unter-
-richts- und Medizinalangelegenheiten, 1845 Verhaftung, 1845–1847 Suspension vom Dienst, 1847 Freispruch und Wiedereinsetzung ins Amt, 1848 maßgebliche Beteiligung an der Gründung des „Allgemeinen Deutschen Lehrervereins“ in Eisenach, 1849 endgültige Entlassung aufgrund seines politischen Engagements während der Revolution, 1850 Niederlegung der Lehrtätigkeit an der Mädchenschule, 1850 bis 1851 Amerikaaufenthalt," [@schutze2014: 883]
+"Abfassung einer Verteidigungsschrift für den angegriffenen Diesterweg, Überwachung wegen angeblich kommunistischer Umtriebe, Einleitung einer disziplinarischen Untersuchung im Auftrag des Ministeriums der geistlichen, Unterrichts- und Medizinalangelegenheiten, 1845 Verhaftung, 1845–1847 Suspension vom Dienst, 1847 Freispruch und Wiedereinsetzung ins Amt, 1848 maßgebliche Beteiligung an der Gründung des „Allgemeinen Deutschen Lehrervereins“ in Eisenach, 1849 endgültige Entlassung aufgrund seines politischen Engagements während der Revolution, 1850 Niederlegung der Lehrtätigkeit an der Mädchenschule, 1850 bis 1851 Amerikaaufenthalt," [@schutze2014: 883]
 
 ### Schötensack (1856) *Grammatik der neuhochdeutschen Sprache*
 
-Heinrich August Schötensack (1812-1891) was a teach in Stendal.
-
-very simple Periodenbild like Lehmann [@schotensack1856: 800-802]
+Heinrich August Schötensack (1812-1891) was a teach in Stendal. He wrote a massive (more than 800 pages) *Grammatik der neuhochdeutschen Sprache*. It contains just a very short discussion of *Periodenbilder* with not much detail [@schotensack1856: 800-802]. The example in [@fig:schötensack1856_801] for the sentence in [@next] clearly shows the influence from Lehmann (see [@sec:lehmann1833]) in the use of the different typefaces for the different levels of embedding. However, even Lehmann did not venture into the Hebrew characters, as is shown here by the use of the Alef for the fifth embedding.
 
 ::: ex
 (A) Er gefiel sich sehr in Scherzen, (a) weil er wusste, (α) dass Nichts mehr den Geist auſheitre, (β) Nichts mehr eine freimüthige Aeusserung gestatte, (𝔄) als der Scherz, (𝔞) der fast immer gut aufgenommen werde, (א) wenn nicht gerade ein murrköpfiger Thor ihn entgegen zu nehmen habe. [@schotensack1856: 801]
 :::
 
-::: {.im #schötensack1856_801}
-
+::: {.im #schötensack1856_801}
+*Periodenbild* for the sentence in [@last] from Schötensack [@schotensack1856: 801]. The use of the different typefaces is a clear indication of the influence from Lehmann (see [@fig:lehmann1852_171]). Schötensack does not include any more complex examples, but he introduces a Hebrew character Alef for the fifth level of embedding.
 :::
 
 ### Schlecht (1856) *Denk- und Sprachlehre* {#sec:schlecht1856}
@@ -847,13 +844,13 @@ Durch solche und ähnliche Thorheiten sind reiche und vornehme Leute an den Bett
 *Satzbild* for the example sentence from Benjamin Franklin in [@last] in the analysis of Blatz [-@blatz1879: 869]. The conventions used are quite similar to Gelbe (see [@fig:gelbe1877_152]).
 :::
 
-In the major revision of the *Neuhochdeutsch Grammatik* published in 1896 the analysis of sentence structure is greatly expanded. The discussion of the *Periode* is only slightly increased, with most examples being still almost the same [@blatz1896: 1284-1288]. However, Blatz now adds a new section about the internal structure of a clause [@blatz1896: 43-46], using the term *Satzbild* for both analyses. However, the internal structure of a clause looks completely different (see [@fig:blatz1896_45]). This analysis is probably influenced by Kern (see [@sec:kern1883]), whose proposals were published only after the second edition of Blatz' book, but before the major revision. Although Blatz' graphics look rather different from Kern's, it is particularly telling that the verb is now alone at the top of the analysis, with all constituents depending on it, including the subject. Also the method to determine each part of the sentence by a question seems directly influenced by Kern. However, in his explanation of this method, Blatz quite confusingly uses many different terms in a single introductory sentence:
+In the major revision of the *Neuhochdeutsch Grammatik* published in 1896 the analysis of sentence structure is greatly expanded. The discussion of the *Periode* is only slightly increased, with most examples being still almost the same [@blatz1896: 1284-1288]. However, Blatz now adds a new section about the internal structure of a clause [@blatz1896: 43-46], using the term *Satzbild* for both analyses. However, the internal structure of a clause looks completely different (see [@fig:blatz1896_45]). This analysis is probably influenced by Kern (see [@sec:kern1883]), whose proposals were published only after the second edition of Blatz' book, but before the major revision. Although Blatz' graphics look rather different from Kern's, it is particularly telling that the verb is now alone at the top of the analysis, with all constituents depending on it, including the subject. In his explanation of this method, Blatz quite confusingly uses many different terms in a single introductory sentence:
 
 > Die Zerlegung des Satzes in seine Glieder (Auflösung, Analyse des Satzes) gründet sich auf das Durchfragen (Kontruieren) desselben. [@blatz1896: 43]
 >
 > ('The dismantling of the sentence into its pieces (disbandment, analysis of the sentence) is based on recurrent questioning (construction) of the same.')
 
-The graphical structure in [@fig:blatz1896_45] is an analysis of the sentence in [@next]. The verb *heißen* is positioned at the top and all major constituents are listed below it. It is a bit confusing that there are no lines connecting them to the main predicate above. Further modifiers are linked with lines below the major constituents. Complete phrases are repeated, which again makes this graphical analysis really confusing to interpret.
+The graphical structure in [@fig:blatz1896_45] is an analysis of the sentence in [@next]. The verb *heißen* is positioned at the top and all major constituents are listed below it. It is a bit confusing that there are no lines connecting them to the main predicate above. Further modifiers are linked with lines below the major constituents. Complete phrases are repeated, mixing constituency with dependency (to use moder terminology). This mix makes the graphical analysis really confusing to interpret.
 
 ::: ex
 Heißen Sie den Hausdiener meinen Reisesack in mein Zimmer im zweiten Stockwerk bringen.
@@ -951,7 +948,7 @@ Second, Kern does not like the notion of *bekleidetet* 'dressed' sentences. His 
 >
 > ('A rather superfluous, though less harmfull terminology, is the one of *nackte* 'naked' and *bekleidete* 'dressed' (or *umkleidete* 'around-dressed') sentences. … In this terminology modifiers, instead of thinking about them as branches and leaves, are preferably imagined as shirt, skirt and waistcoat. I consider this image to be neither fitting nor tasteful.')
 
-### Willomitzer (1885) *Deutsche Grammatik* 
+### Willomitzer (1885) *Deutsche Grammatik für österreichische Mittelschulen*
 
 Franz Willomitzer (1847-1910) was a teacher for German language and history in Vienna.
 
@@ -966,7 +963,6 @@ improved in the example in the 6th edition [@willomitzer1894: 114, 121, 127]
 There is also a different notation for *Periode*, which uses letters, but different from all others, already in first edition [@willomitzer1879: 157-158], slightly changed in later editions [@willomitzer1894: 154-155]
 
 Revised by Johann Tschinkel after the death of Willomitzer, later renamed as *Deutsche Sprachlehre für Mittelschulen*, reprinted and revised up to a 23th edition in 1930. The table is gone, and only a single unexplained *Satzbild* remains [@tschinkel1921: 242].
-
 
 ### Utzinger (1887) *Deutsche Grammatik*
 
@@ -1113,7 +1109,7 @@ only graphical display of clause subordination. cites examples from [@kern1884] 
 
 ### Glinz (1952) *Die innere Form des Deutschen*
 
-- 1952/1965: https://ids-pub.bsz-bw.de/frontdoor/index/index/docId/10209
+- 1952/1965: https://ids-pub.bsz-bw.de/frontdoor/index/index/docId/10209 316ff., 472-473
 - 1957/1965: https://ids-pub.bsz-bw.de/frontdoor/index/index/docId/10160 p.50
 - 1961: https://ids-pub.bsz-bw.de/frontdoor/index/index/docId/10189
 
@@ -1127,6 +1123,12 @@ Erika Essen (1914-1986) bio [@muller1996]
 
 https://www.lagis-hessen.de/de/subjects/print/sn/bio/id/18993
 
+### Erben (1958) *Abriss der deutschen Grammatik*
+
+https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/8374/file/Erben_Abriss_der_deutschen_Grammatik_1958.pdf
+
+p.188: citing Tesniere [@tesniere1953]
+
 ### Grosse (1960) *Die deutsche Satzperiode*
 
 [@grosse1960] indented subordinates clauses
@@ -1137,6 +1139,19 @@ https://www.lagis-hessen.de/de/subjects/print/sn/bio/id/18993
 [@rychener1960]
 
 [@rychener1982] Many different ideas by Rychener: underlining of clause-internal structure [@rychener1982: 150-151], Becker-style tables [@rychener1982: 178], tab-inserts [@rychener1982: 176], Vertical displacement of clause-combinations like Flothuis [@rychener1982: 189]
+
+### Engel (1970) *Regelns zur Wortstellung*
+
+https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/595/file/Engel_Regeln_zur_Wortstellung_1970.pdf
+
+- Feldertheorie graphisch? using numbers: p. 42-43
+- nominal template p. 110
+
+### Reis (1980) *On Justifying Topological Frames*
+
+https://www.persee.fr/doc/drlav_0754-9296_1980_num_22_1_957
+
+sentence template p. 63-64
 
 ### Lobentanzer (1986) *Deutsch muß nicht schwer sein*
 
