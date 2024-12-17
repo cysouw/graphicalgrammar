@@ -797,7 +797,7 @@ Wie der bildende Künstler die faltige Fülle der Gewänder um seine Figuren bre
 
 Franz Esser (dates unknown) was a teacher in Weissenburg. In the yearly report of his Gymnasium for the year 1877-1878 he writes a short article with the title *Abhandlung über die Formen der Periode im Nibelungenlied* [@esser1878]. In this article he analyses sentences from the *Nibelungenlied* by using *Periodenbilder*. He organises the article by the complexity of the sentences. 
 
-For the inspiration of the *Periodenbilder* he cites Götzinger (see [@sec:götzinger1836]). However, different from Götzinger, Esser does not use the horizontal brace for post-clausal subordination. Instead, he uses forward slashes like Nägelsbach (see [@sec:nägelsbach1846]) or Menge (see [@sec:menge1873]). For multiple embedding Esser uses apostrophes, similary to Rinne (see [@sec:rinne1840]). As an example, the verse from the *Nibelungenlied* in [@next a], with an approximate translation into English in [@next b], is analysed by Esser as shown in [@fig:esser1878_7].
+For the inspiration of the *Periodenbilder* he cites Götzinger (see [@sec:götzinger1836]). However, different from Götzinger, Esser does not use the horizontal brace for post-clausal subordination. Instead, he uses forward slashes like Nägelsbach (see [@sec:nägelsbach1846]) or Menge (see [@sec:menge1873]). For multiple embedding Esser uses apostrophes, similary to Rinne (see [@sec:rinne1840]). As an example, the verse from the *Nibelungenlied* in [@next a], with an approximate translation into English in [@next b], is analysed by Esser as [@next c]. The original display is shown in [@fig:esser1878_7].
 
 ::: ex
 - Dô die herren sâhen, daz der helt was tôt, \
@@ -808,6 +808,7 @@ For the inspiration of the *Periodenbilder* he cites Götzinger (see [@sec:götz
   they laid him on a shield, which was golden red, \
   and it was discussed, how it should happen, \
   that it stays hidden, that Hagen had done it.
+- (a/a'): A/b, B/a/a'/a''
 :::
 
 ::: {.im #esser1878_7}
@@ -818,12 +819,13 @@ For the inspiration of the *Periodenbilder* he cites Götzinger (see [@sec:götz
 
 Daniel Sanders (1819-1897) was a school director in Strelitz and is most well-known for his lexicographical work [biographical details in @hasszumkehr1995]. He also wrote a German grammar *Deutsche Sprachlehre für Volks- und Bürgerschulen* [@sanders1876], but it contains almost no analysis of sentence structure. Relevant for the topic of graphical analysis are his *Deutsche Sprachbriefe* [@sanders1879], a collection of instructional texts about grammar and style addressed to a general audience. It is a collection of short explanations of grammatical phenomena, illustrated with literary examples. There are also many exercises with solutions appearing in later issues. 
 
-Starting in the 10th issue, he introduces the concept of *Satzbild* [@sanders1879: 167]. Subordinate clauses are indicated by a lower-case letter corresponding to the capital for the main clause. Coordinated subordinate clauses are indicated by a number before the letter (e.g. *2a*), while superscript numbers are used for the depth of the embedding (e.g. *a^2^*). These conventions are closest to the original abbreviations introduced by Herling all the way back in 1823 (see [@fig:herling1832_232]).
+Starting in the 10th issue, he introduces the concept of *Satzbild* [@sanders1879: 167]. Subordinate clauses are indicated by a lower-case letter corresponding to the capital for the main clause. Coordinated subordinate clauses are indicated by a number before the letter (e.g. *2a*), while superscript numbers and different typefaces are used for the depth of the embedding (e.g. *𝔞^2^* using a small fraktur letter *a*). These conventions are closest to the original abbreviations introduced by Herling all the way back in 1823 (see [@fig:herling1832_232]).
 
-Throughout the issues of the *Sprachbriefe* Sanders returns to these *Satzbilder*, adding brackets and horizontal braces. The brackets are particularly interesting, as he uses them hierarchically to enclose multiple embeddings. Horizontal braces are used to link parts of a clause that are separated by internally embedded clauses. An example of his analysis for a sentence from Goethe in [@next] is shown in [@fig:sanders1879_263].
+Throughout the issues of the *Sprachbriefe* Sanders returns to these *Satzbilder*, adding brackets and horizontal braces. The brackets are particularly interesting, as he uses them hierarchically to enclose multiple embeddings. Horizontal braces are used to link parts of a clause that are separated by internally embedded clauses. An example of his analysis for a sentence from Goethe in [@next a] is repeated in [@next b] as shown in the original in [@fig:sanders1879_263].
 
 ::: ex
-Aber auch da noch wehrte sie sich so gewaltsam, dass er, um seine Augen zu erhalten und die Feindin doch nicht zu beschädigen, sein seidnes Halstuch abreißen und ihr die Hände damit auf den Rücken binden musste. [@sanders1879: 250, citing Goethe *Die wunderlichen Nachbarskinder*]
+- Aber auch da noch wehrte sie sich so gewaltsam, dass er, um seine Augen zu erhalten und die Feindin doch nicht zu beschädigen, sein seidnes Halstuch abreißen und ihr die Hände damit auf den Rücken binden musste. [@sanders1879: 250, citing Goethe *Die wunderlichen Nachbarskinder*]
+- *Aber* A *so, dass* (a (, *um zu* 𝔞^2^ *und doch nicht* 2𝔞^2^,) a *und* 2a)
 :::
 
 ::: {.im #sanders1879_263}
@@ -950,19 +952,46 @@ Second, Kern does not like the notion of *bekleidetet* 'dressed' sentences. His 
 
 ### Willomitzer (1885) *Deutsche Grammatik für österreichische Mittelschulen*
 
-Franz Willomitzer (1847-1910) was a teacher for German language and history in Vienna.
+Franz Willomitzer (1847-1910) was a teacher for German language and history in Vienna. His book *Deutsche Grammatik für österreichische Mittelschulen* first appeared in 1879 and was revised and reprinted many times up to a 23th edition in 1930. After the death of Willomitzer the book was further developed by Johann Tschinkel. He renamed the book to *Deutsche Sprachlehre für Mittelschulen* and strongly reduced the number of visualisations, with eventually only a single unexplained graphic remaining [@tschinkel1921: 242].
 
-First edition only a single simple table (Becker-influence with numbers) [@willomitzer1879: 123]. Remains in later editions
+In the first edition Willomitzer uses a numbered table to analyse a sentence, in the style of Becker (see [@sec:becker1829]). The analysis of the sentence *Finsternis bedeckt die Erde* 'darkness envelops the earth' is shown in [@fig:willomitzer1879_123] [@willomitzer1879: 123]. Just like Becker, Willomitzer uses reference to the row-numbers to clarify the dependency structure. However, different from Becker, Willomitzer does not add any dependency between subject and predicate (similar to Fürg, see [@sec:fürg1847]). Unfortunately, this example sentence is actually way too simple to really clarify the intentions of Willomitzer, and there are no other, more complex examples presented of this analytic approach. Exactly the same figure is repeated in later editions [@willomitzer1882: 109; -@willomitzer1885: 122; -@willomitzer1894: 113].
 
-Later editions add *Satzbilder* very much in the style of Kern (without clear attribution), starting with fourth edition from 1885 [@willomitzer1885: 123, 132, 137]
+::: {.im #willomitzer1879_123}
+Numbered table in the style of Becker (cf. [@fig:becker1829_xvii]) from Willomitzer [@willomitzer1879: 123]. Willomitzer also applies Becker's idea of using the numbers to identify the dependency between words. Unfortunately, this example is extremely simple. Willomitzer does not present any other examples to illustruate how this system should be applied to more complex sentences.
+:::
 
-improved in the example in the 6th edition [@willomitzer1894: 114, 121, 127]
+For sentences with multiple subordination like in [@next] Willomitzer uses a different visualisation as shown in [@fig:willomitzer1879_157] [@willomitzer1879: 157-158]. Each clause is indicated by a horizontal line with a letter, and these clauses are connected by slanted lines. A line left-downwards indicates a preposed subordinate clauses, while slanted lines right-downwards indicate postposed subordination. Internal subordination, like with relative clauses, is not discussed. Exactly the same visualisation is also used in the fourth edition [@willomitzer1882: 144-145].
 
-(no change yet in 3rd edition 1882 http://data.onb.ac.at/rep/131CF155)
+::: ex
+- Als Karl der Große den Kaiserstuhl Roms bestieg, war ein Ziel erreicht, dem hochstrebenden deutschen Fürsten seit Jahrhunderten nachgetrachtet haben.
+- Nur der ist unser Wahrer Freund, der mit uns gleiche Bestrebungen teilt und auf den wir uns in guten und bösen Tagen verlassen können.
+- Ich erinnere mich, dass wir in einem alten Haus wohnten, welches eigentlich aus zwei durchbrochenen Häusern bestand.
+:::
 
-There is also a different notation for *Periode*, which uses letters, but different from all others, already in first edition [@willomitzer1879: 157-158], slightly changed in later editions [@willomitzer1894: 154-155]
+::: {.im #willomitzer1879_157}
+Visualisations of multiple subordinated constructions from Willomitzer [-@willomitzer1879: 157-58]. From left to right these displays illustrate the structures of the example sentences in [@last]: (a) one subordination before and one subordination after the main clause, (b) a coordination inside a postposed subordinate clause, (c) a postposed subordination embedded inside another postposed subordination.
+:::
 
-Revised by Johann Tschinkel after the death of Willomitzer, later renamed as *Deutsche Sprachlehre für Mittelschulen*, reprinted and revised up to a 23th edition in 1930. The table is gone, and only a single unexplained *Satzbild* remains [@tschinkel1921: 242].
+There are a few interesting changes in the sixth edition [@willomitzer1894: 154-156]. First, Willomitzer adds a "plus" symbol for coordination instead of the dotted connection in the middle image of [@fig:willomitzer1879_157]. Second, he adds one-line *Periodenbilder* as an additional option, although he does not explain this method at all. He simply adds abbreviations to the end of a few examples sentences, as shown in [@fig:willomitzer1894_156]. The format of these abbreviations is similar to other approaches before him, except for the use of the colon and the forward slash. Willomitzer reverses the use of the colon and the forward slash in comparison to e.g. Nägelsbach (cf. [@fig:nägelsbach1846_286]). Willomitzer uses the forward slash to separate preposed subordination, while the colon separates postposed subordination.
+
+::: {.im #willomitzer1894_156}
+Example sentence with a one-line *Periodenbild* add to the end, from the sixth edition of Willomitzer [-@willomitzer1894: 156]. He reverses the use of the colon and the forward slash in comparison to e.g. Nägelsbach (cf. [@fig:nägelsbach1846_286]). In this analysis from Willomitzer, the forward slash separates preposed subordination, while the colon separates postposed subordination. Internal subordination is indicate with round brackets, a tradition going back to Lehmann (1833), see [@fig:lehmann1833_58].
+:::
+
+Willomitzer adds a new kind of graphical display in the revision between the third edition [@willomitzer1882] and the fourth edition [@willomitzer1885]. In this timeframe Kern published his new graphical approach (see [@sec:kern1883]) and Willomitzer immediately includes Kern's approach in his fourth edition, though without explicit attribution [@willomitzer1885: 123, 132, 137]. The examples below are cited from the almost identical sixth edition because of the better quality of the available scans [@willomitzer1894: 114, 121, 127]. The analysis of the first example [@next a] is shown in [@fig:willomitzer1894_114]. This graphical display is much clearer than the examples from Kern, mostly because Willomitzer does not use any abbreviations. The analysis of [@next b] is shown in [@fig:willomitzer1894_127]. This is an example with a subordinate clause, in which the complementizer *dass* is not a node in the graph, but a relation between nodes, an approach also used by Kern.
+
+::: ex
+- Der Biss der in Amerika einheimischen Klapperschlange tödtet in wenigen Augenblicken den kräftigsten Menschen.
+- Wir fordern, dass jeder seine Pflicht thue.
+:::
+
+::: {.im #willomitzer1894_114}
+Analysis of a monoclausal sentence [@last a] from Willomitzer [-@willomitzer1885: 123;-@willomitzer1894: 114] in the style of Kern (cf. [@fig:kern1883_17]). Within two years after the release of Kern [-@kern1883], Willomitzer uses exactly this approach in the revision of his *Deutsche Grammatik*. This graphic is actually much clearer than Kern's because Willomitzer does not use abbreviations. The analysis is still slightly confusing because the ordering of the actual sentence is not represented in the graphical display.
+:::
+
+::: {.im #willomitzer1894_127}
+Analysis of a complex sentence with subordination [@last b] from Willomitzer [-@willomitzer1894: 127] in the style of Kern (cf. [@fig:kern1884_56]). Again, Willomitzer's graphic is much cleaner and easier to understand than Kern's original. Just like Kern, the complementizer *dass* is not a node in itself, but a relation. 
+:::
 
 ### Utzinger (1887) *Deutsche Grammatik*
 
@@ -988,7 +1017,7 @@ more extensive in *Lektüre als Grundlage* Satzbilder wie Hoffmann [@lyon1897: 1
 
 ### Kuderna (1893) *Sprachliches Mahnwort*
 
-Béla Kuderna (1846-1915) was a captian (*Hauptmann*) in the Austrian army and teacher for German language and style at the *Infanterie-Cadetenschule* in Vienna. He wrote a short article about the general method of teaching German language, called *Sprachliches Mahnwort*. This article includes two quick examples of *Satzbilder* as he uses them in his classes [@kuderna1893: 268-269]. Shortly afterwards he publishes a complete booklet about his approach to graphically analyse sentences, called *Das Satzbild in seiner Anwendung für die Lehre vom Satze* [@kuderna1895]. This book goes into great detail explaining his approach, including numerous practical examples.
+Béla Kuderna (1846-1915) was a captian (*Hauptmann*) in the Austrian army and teacher for German language and style at the *Infanterie-Cadetenschule* in Vienna. He wrote a short article about the method of teaching German language, called *Sprachliches Mahnwort*. This article includes two quick examples of *Satzbilder* as he uses them in his classes [@kuderna1893: 268-269]. Shortly afterwards he publishes a complete booklet about his approach to graphically analyse sentences, called *Das Satzbild in seiner Anwendung für die Lehre vom Satze* [@kuderna1895]. This book goes into great detail explaining his approach, including numerous practical examples.
 
 As for the inspiration for his graphical approach, Kuderna mentions Bauer (see [@sec:bauer1850]) in passing [@kuderna1895: 4], but only to complain about the non-mnemonic usage of letters and symbols by Bauer. For example, instead of using an abstract letter *A* for the main clause, Kuderna proposes to use the letter *H* as abbreviation of the German word *Hauptsatz*.
 
@@ -1140,7 +1169,7 @@ p.188: citing Tesniere [@tesniere1953]
 
 [@rychener1982] Many different ideas by Rychener: underlining of clause-internal structure [@rychener1982: 150-151], Becker-style tables [@rychener1982: 178], tab-inserts [@rychener1982: 176], Vertical displacement of clause-combinations like Flothuis [@rychener1982: 189]
 
-### Engel (1970) *Regelns zur Wortstellung*
+### Engel (1970) *Regeln zur Wortstellung*
 
 https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/595/file/Engel_Regeln_zur_Wortstellung_1970.pdf
 
