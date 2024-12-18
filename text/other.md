@@ -207,11 +207,13 @@ Tesniere knew about Fry [@fry1925], documented in [@mazziotta2024], uses numbers
 
 Petit grammaire russe with trees more like Kern, look very modern [@tesniere1934a: 162]
 
-### Bonnard (1950) Grammaire française des lycées et collèges
+precursor of Elements: [@tesniere1953]
+
+### Bonnard (1950) *Grammaire française des lycées et collèges*
 
 first edition not available in Germany? 9th edition probably same as 1950 edition [@bonnard1970]
 
-### Grevisse (1959) Précis de grammaire française
+### Grevisse (1959) *Précis de grammaire française*
 
 Original from 1939, but not diagrams. Takes over Bonnard-style diagrams in 25th edition (1959)
 
@@ -220,6 +222,16 @@ Original from 1939, but not diagrams. Takes over Bonnard-style diagrams in 25th 
 30th edition 1995 https://archive.org/details/precisdegrammair00grev
 
 ## Spanish
+
+### Bastiniani (1916) *Sintaxis castellana*
+
+Bastianini, René (1916). “Análisis sintáctico inmediato y secundario”. Sintaxis castellana y nociones de lingüística y etimología. Buenos Aires: Librería de A. García Santos, 48-49.
+
+René Bastianini (1877-1953) [@bastianini1916: 42-49]
+
+- https://bsky.app/profile/mjgarciafolgado.bsky.social/post/
+- https://es.wikisource.org/wiki/Índice:Sintaxis_castellana.djvu
+- https://artedelaargentina.com/disciplinas/artista/pintura/rene-bastianini
 
 ### Bouilly (1918) *Bosquejo de un nuevo método de análisis objetivo*
 
@@ -313,21 +325,26 @@ other version 1923: 167 with graphic https://www.prlib.ru/item/363130
 
 [@thummel1993: 171] cites a version from 1906: 127
 
-### Other Russia
-
-- Ušakov, Smirnova & Ščeptova (1929).  Учебная книга по русскому (Učebnaja kniga po russkomu jazyku). Moscú/Leningrado: Gosizdat. 3rd part, pp. 6–7, and 4th part, p. 5
-- Barkhudarov and Princip (1930)
-- Krjučkov and Svetlïev (1936). The Grammar. Moscow. pp. 6–7
+### Ušakov (1930) *Учебная книга по русскому языку*
 
 Ušakov, Dmitrij Nikolajevič https://www.prlib.ru/en/history/618974
 Smirnova, A. M
 Ščepetova, Nina Nikolajevna
+
+volume 2, 15th edition: [@usakov1930: 25-28]
+
+=> 3rd part, pp. 6–7, and 4th part, p. 5
 
 ### Admoni (1961) *Partiturnoje strojenije*
 
 Admoni: Partiturnoje strojenije recevoj cepi i sistema grammaticeskich znacenij ν predlo/.enii [Die „Partitur"-Struktur der Redekette und das System grammatischer Bedeutungen im Satz]. In: Naucnyje doklady vysäej äkoly. Filologiceskije nauki [Wissenschaftliche Beiträge der er Hochschule. Philologische Wissenschaften]. 1961, H° 3. - 253, 272, 278, 288
 
 see also 4th edition 1982, p. 311-317 https://archive.org/details/derdeutschesprac0000admo
+
+### Other Russia
+
+- Barkhudarov and Princip (1930)
+- Krjučkov and Svetlïev (1936). The Grammar. Moscow. pp. 6–7
 
 ## Chinese
 

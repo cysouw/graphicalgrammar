@@ -995,14 +995,27 @@ Analysis of a complex sentence with subordination [@last b] from Willomitzer [-@
 
 ### Utzinger (1887) *Deutsche Grammatik*
 
-Heinrich Utzinger (1842-1913) Zürich [@utzinger1887]
+Heinrich Utzinger (1842-1913) was a teacher and later schooldirector in Küsnacht, Switzerland. He wrote the book *Deutsche Grammatik: Lehr- und Übungsbuch für Sekundarschulen* [@utzinger1887], which was written on behalf of the kanton Zürich to be the official textbook for all secondary schools in the kanton. Utzinger himself delivered various editions during his lifetime, though with only minor changes. The book remained in print after his death up to a 14th edition in 1943. In the preface he mentions various grammars as influences, but none of those could have been the inspiration for his graphical display.
 
-14. Auflage 1943!
+In the discussion of word order in the clause, Utzinger presents a single illustrative *Schema* for the example sentence in [@next] as shown in [@fig:utzinger1887_89] [@utzinger1887: 89]. The word *Schema* and the use of slanted lines might indicate an influence of Kern (see [@sec:kern1883]). However, Utzinger follows the old tradition in placing subject and predicate side-by-side on top of the graphical display. Because there is only a single example of this graphical approach, it remains unclear how Utzinger envisions the left-right ordering of modifiers to be used. Kern quite radically used a strict subject-object-adverbial order, but the single example from Utzinger does not clarify whether he would follow that approach.
 
-probably influences by hoffmann, though he does not cite him in the introduction (he cites götzinger *Anfangsgründe*, Lehrbücher von Sanders)
+::: ex
+Die älteste Geschichte eines jeden Volkes ist gewöhnlich durch mancherlei Sagen verdunkelt.
+:::
 
-- *Schema* [@utzinger1887: 89] subject-predicate on one line!
-- *Satzbild* [@utzinger1887: 122] very simplified like hoffmann
+::: {.im #utzinger1887_89}
+*Schema* for the examples sentence in [@last] from Utzinger [-@utzinger1887: 89]. The visual impression of the display is reminiscent of Kern's approach (cf. [@fig:kern1883_17]), but Utzinger places subject and object side-by-side on top, just like in the original line-diagram from Billroth (cf. [@fig:billroth1832_102]).
+:::
+
+For the analysis of complex sentences with multiple subordinate clauses Utzinger proposes a different format [@utzinger1887: 122]. He uses a one-line summary, which he calls a *Satzbild*, as shown in [@fig:utzinger1887_122] for the examples sentence in [@next]. The depth of embedding is indicated by subscript numbers. Lower-case letters indicate subordinate clauses, but it remains unclear why the letters *a* and *b* are used multiple times in this example. In the example, the two parts marked *a~1~* are actually two separated parts of the same subordinate clause, but all other parts are separate clauses, and might better have been indicated by separate letters.
+
+::: ex
+Als der Graf von Strassberg, welcher über den Brünig ins Unterwaldnerland eingefallen war, von der Niederlage des Herzogs Leopold Kunde erhilet, kehrte er schleunig zurück, da er wohl einsah, dass ein weiteres Vordringen unnütz sein würde.
+:::
+
+::: {.im #utzinger1887_122}
+*Satzbild* for the examples sentence in [@last] from Utzinger [-@utzinger1887: 122]. He follows the tradition to use capital letters for the main clause and lower-case letters for subordinate clauses. Depth of embedding is indicated by subscript numbers. It is actually unclear why only the lower-case letters *a* and *b* are used here. The two parts marked *a~1~* are two parts of the same clause, separated by a different clause marked *a~2~.* The two *b* clauses are different clauses. It seems more consistent to write: *a~1~ b~2~ a~1~ A c~1~ d~2~* or something like that.
+:::
 
 ### Lyon (1889) *Handbuch der deutschen Sprache*
 
