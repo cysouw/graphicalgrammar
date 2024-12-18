@@ -181,6 +181,10 @@ For complex sentences with subordinate clauses, Setälä, Nieminen & Ojajärvi [
 Visualisation of clause subordination for the examples sentence in [@last] from Setälä, Nieminen & Ojajärvi [-@setala1970: 98]. Subordination is indicated by graphically lower placement of the clause, depending on the depth of the embedding.
 :::
 
+## Hungarian
+
+https://google.com/books?id=L5jqQ_fEkJsC
+
 ## Dutch
 
 ### de Groot (1949) *Structural linguistics and syntactic Laws*
