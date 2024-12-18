@@ -1021,12 +1021,35 @@ Als der Graf von Strassberg, welcher über den Brünig ins Unterwaldnerland eing
 
 Otto Lyon (1853-1912) Stadtschulrat in Dresden
 
-simple analysis of constituents with numbers, but does not use the numbers like Becker [@lyon1889: 101]
-Satzbilder like Lehmann [@lyon1889: 269-270]
+Handbuch, 2 volumes (I: sexta bis tertia, II: obere Klassen) zweiter teil fast keine syntax
 
-more extensive in *Lektüre als Grundlage* Satzbilder wie Hoffmann [@lyon1897: 130-154]
+1. 1885
+2. 1889: sexta numbering [@lyon1889: 101]
+4. 1893: sexta numbering 101 (https://google.com/books?id=0dhEAAAAIAAJ)
+II 6. 1902
+II 7. 1907 (https://google.com/books?vid=OSU:32435022678213)
+6. 1911 (Willy Scheel): 87-88 (https://google.com/books?vid=Wisc:89001856020)
+8. 1919 (Albert Sieke und Richard Reißig) => Lehreranstalten!
+16. 1920 (https://google.com/books?id=hYIxAQAAMAAJ): 87 but very unclear typesetting: "schriftliche Satzzerlegung" p.4-5
 
-*Handbuch* has seen many revision and editions. The 8th edition from 1919 (strongly revised) includes Utzinger-style tree graphic [@lyon1919: 122, 136]. The section about *Satzbilder* under the heading *Periode* [@lyon1919: 196-198] is verbatim identical to the 1889 version.
+Bilder clause
+
+8. [@lyon1919: 122, 136] (passiv)
+16. 157
+
+(perioden) satzbilder
+
+2. [@lyon1889: 269-270]
+6. 164-165
+8. [@lyon1919: 196-198]
+
+
+Abriss 1891 (https://google.com/books?vid=UCAL:%24B267241) "Der Kernschen Reform ist die gebührende Berücksichtigung zu teil geworden" (vorwort). Keine graphiken!
+
+more extensive "Periodenbilder" (are called *Satzbilder*) in *Lektüre als Grundlage* Satzbilder wie Hoffmann 
+
+1. 1897: obertertia [@lyon1897: 130-154]
+3. 1908
 
 ### Kuderna (1893) *Sprachliches Mahnwort*
 
