@@ -1014,11 +1014,11 @@ Der Löwe schenkte im Walde der bittenden Maus großmütig das Leben.
 :::
 
 ::: {.im #lyon1889_101}
-*Satzanalyse* of the example sentence in [@last] from the A-variant [@lyon1889: 101]. Exactly the same analysis, but with roman numerals, is found in the D~1~-variant [@lyon1911: 88]. In total Lyon distinguishes 10 different functions, which were all indicated by a totally non-transparent alphanumeric code.
+*Satzanalyse* of the example sentence in [@last] from the A-variant [@lyon1889: 101]. Exactly the same analysis, but with roman numerals, is found in the D~1~-variant [@lyon1911: 88]. In total Lyon distinguishes 10 different syntactic functions, which are all indicated by a totally non-transparent alphanumeric code.
 :::
 
 ::: {.im #lyon1920_87}
-*Schriftliche Satzzerlegung* of the sentence in [@last] from the D~2~-version [@lyon1920: 87]. The abbreviations are replaced with slightly more mnemonic letter-sequences. The new abbreviations are introduced already starting on page four of the book, so it is considered a rather basic aspect of linguistic analysis by the authors. Different from Lyon's original approach, these abbreviations are a mix of word classes and syntactic functions. The capitals indicate the function, the lower-case letters the word class, e.g. *s.O.=substantivisches Objekt*, *part.A.=partizipiales Attribut*, etc.
+*Schriftliche Satzzerlegung* of the sentence in [@last] from the D~2~-version [@lyon1920: 87]. The abbreviations are replaced with slightly more mnemonic letter-sequences. The new abbreviations are introduced already starting on page four of the book, so it is considered to be a fundamental aspect of linguistic analysis by the authors. Different from Lyon's original approach, these abbreviations are a mix of word classes and syntactic functions. The capitals indicate the syntactic function, the lower-case letters the word class, e.g. *s.O.=substantivisches Objekt*, *part.A.=partizipiales Attribut*, etc.
 :::
 
 ::: {.im #lyon1902_32}
@@ -1075,7 +1075,7 @@ Es ist wahr, mit dergleichen leidigen Nachahmungen fängt das Genie an zu lernen
 :::
 
 ::: {.im #lyon1897_140}
-*Satzbild* for the example from Lessing in [@last] in the analysis of Lyon [-@lyon1897: 140]. This was Lyon's idea of the level that 15-year olds should be able to tackle in school.
+*Satzbild* for the example from Lessing in [@last] in the analysis of Lyon [-@lyon1897: 140]. This was Lyon's idea of what 15-year olds should be able to achieve at school in the later part of the 19th Century.
 :::
 
 ### Utzinger (1887) *Deutsche Grammatik* {#sec:utzinger1887}
