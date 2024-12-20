@@ -1017,39 +1017,60 @@ Als der Graf von Strassberg, welcher über den Brünig ins Unterwaldnerland eing
 *Satzbild* for the examples sentence in [@last] from Utzinger [-@utzinger1887: 122]. He follows the tradition to use capital letters for the main clause and lower-case letters for subordinate clauses. Depth of embedding is indicated by subscript numbers. It is actually unclear why only the lower-case letters *a* and *b* are used here. The two parts marked *a~1~* are two parts of the same clause, separated by a different clause marked *a~2~.* The two *b* clauses are different clauses. It seems more consistent to write: *a~1~ b~2~ a~1~ A c~1~ d~2~* or something like that.
 :::
 
-### Lyon (1889) *Handbuch der deutschen Sprache*
+### Lyon (1885) *Handbuch der deutschen Sprache*
 
 Otto Lyon (1853-1912) Stadtschulrat in Dresden
 
-Handbuch, 2 volumes (I: sexta bis tertia, II: obere Klassen) zweiter teil fast keine syntax
+His main linguistic work is the *Handbuch der Deutschen Sprache für höhere Schulen*, published originally in 1885. There have been many different versions of this handbook, which are often indexed incompletely in catalogues. I have tried to reconstruct the developments, but this edition-mess is in need of a more proper clean-up.
 
-1. 1885
-2. 1889: sexta numbering [@lyon1889: 101]
-4. 1893: sexta numbering 101 (https://google.com/books?id=0dhEAAAAIAAJ)
-II 6. 1902
-II 7. 1907 (https://google.com/books?vid=OSU:32435022678213)
-6. 1911 (Willy Scheel): 87-88 (https://google.com/books?vid=Wisc:89001856020)
-8. 1919 (Albert Sieke und Richard Reißig) => Lehreranstalten!
-16. 1920 (https://google.com/books?id=hYIxAQAAMAAJ): 87 but very unclear typesetting: "schriftliche Satzzerlegung" p.4-5
+The original handbook is spread out over two volumes and separates the topics by schoolyear. The majority of the grammatical analysis falls in the first volume prepared for the *untere und mittlere Klassen (Sexta bis Tertia).* This first volume will be cited here from the second edition [@lyon1889], because I have not been able to find a first edition. Lyon has updated his handbook up to a seventh edition in 1907.^[The second volume of Lyon's original seventh edition from 1907 is available online at <https://google.com/books?vid=OSU:32435022678213>.]
 
-Bilder clause
+Different variants of the handbook were introduced starting with the sixth edition in 1902.^[The second volume of Lyon's original sixth edition from 1902 is available online at <https://google.com/books?id=ZQkYT08lhVYC>.] A distinction into four different versions was made, which were sometimes (but not always) indicated by the letters A through D:
 
-8. [@lyon1919: 122, 136] (passiv)
-16. 157
+- **A**-variant: The original handbook by Otto Lyon published as two volumes up to a 7th edition from 1907.
+- **B**-variant: The same handbook, but published as smaller booklets. It appears that the first volume was subdivided into four booklets and the second volums was separated into three booklets.
+- **C~1~**-variant: A special summary version for teachers. This version started a new edition count. The first edition was prepared together with Paul Polack under the name *Handbuch der deutschen Sprache für Präparandenanstalten und Seminare* [@lyon1902]. 
+- **C~2~**-variant: Sometime after the 5th edition from 1910 the further development of the C~1~-variant was taken over by Albert Sieke und Richard Reißig under the name *Otto Lyons Handbuch der deutschen Sprache für Lehrerbildungsanstalten*, cited here in the 8th edition from 1919 [@lyon1919]
+- **D~1~**-variant: A shorter version of the A-variant tailored for use in Prussian schools, adding a subtitle *für preußische höhere Schulen*. This version also started a new edition count. The first edition of this version was prepared together with Willy Scheel. It will be cited here from the 6th edition from 1911 [@lyon1911]. 
+- **D~2~**-variant: Starting with the 12th edition from 1914 the further development of the D~1~-variant was taken over by Curt Müller and Alfred Roedel under the name *Otto Lyons Handbuch der deutschen Sprache für höhere Schulen mit Übungsaufgaben*, cited here from the 16th edition from 1920 [@lyon1920].
+
+Already in the very first edition, Lyon proposes a set of abbreviations for different syntactic functions [@lyon1889: 99-100]. Unfortunately, these abbreviations are completely opaque and they have almost no mnemonic value. For example, subject is called "I", the predicate is "II", the direct object is "IIIa", etc.
+
+::: ex
+Der Löwe schenkte im Walde der bittenden Maus großmütig das Leben.
+:::
+
+::: {.im #lyon1889_101}
+*Satzanalyse* of the example sentence in [@last] from the A-version [@lyon1889: 101]. Exactly the same analysis, but with roman numerals, is found in the D~1~ version [@lyon1911: 88]. In total Lyon distinguishes 10 different functions, which were all named with a totally non-transparent alphanumeric code.
+:::
+
+::: {.im #lyon1920_87}
+*schriftliche Satzzerlegung* of the sentence in [@last] from the D~2~-version [@lyon1920: 87].
+:::
+
+::: {.im #lyon1902_32}
+*Satzbild* of the sentence in [@last] from the C~1~-version [@lyon1902: 32].
+:::
+
+Clausal analysis with lines only in the later revisions:
+
+C~2~-verion [@lyon1919: 122, 136] (passiv!)
+
+::: {.im #lyon1920_157}
+Unnamed graphic from the D~2~-version [@lyon1920: 157].
+:::
 
 (perioden) satzbilder
 
-2. [@lyon1889: 269-270]
-6. 164-165
-8. [@lyon1919: 196-198]
+- A [@lyon1889: 269-270]
+- C~1~ [@lyon1902: 154-156]
+- D~1~ [@lyon1911: 164-165]
+- C~2~ [@lyon1919: 196-198]
+- D~2~ [@lyon1920: 268]
 
+more extensive "Periodenbilder" (are called *Satzbilder*) in *Lektüre als Grundlage* Satzbilder wie Hoffmann obertertia [@lyon1897: 130-154]
 
-Abriss 1891 (https://google.com/books?vid=UCAL:%24B267241) "Der Kernschen Reform ist die gebührende Berücksichtigung zu teil geworden" (vorwort). Keine graphiken!
-
-more extensive "Periodenbilder" (are called *Satzbilder*) in *Lektüre als Grundlage* Satzbilder wie Hoffmann 
-
-1. 1897: obertertia [@lyon1897: 130-154]
-3. 1908
+Abriss 1891 (https://google.com/books?vid=UCAL:%24B267241) "Der Kernschen Reform ist die gebührende Berücksichtigung zu teil geworden" (vorwort). Keine graphiken! 
 
 ### Kuderna (1893) *Sprachliches Mahnwort*
 

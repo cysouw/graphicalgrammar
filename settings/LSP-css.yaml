@@ -151,9 +151,6 @@ header-includes:
   .footnote-ref {
     font-size: small;
   }
-  sup {
-    vertical-align: top;
-  }
   sub, sup {
     line-height: 0;
   }
