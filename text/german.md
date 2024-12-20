@@ -660,7 +660,7 @@ In the lower right corner there is a graphical analysis of the sentence in [@las
 
 Karl Friedrich Wilhelm Wander (1803-1879) Biographical information in [@hohendorf1979]
 
-reformpädagoge, friend of Diesterweg „Der geschmähte Diester­weg“, well-known for collection of German proverbs
+reformpädagoge, friend of Diesterweg „Der geschmähte Diester­weg“, well-known for collection of German proverbs. Satzbilderschule [@wander1856]
 
 https://de.wikipedia.org/wiki/Karl_Friedrich_Wilhelm_Wander
 
@@ -815,7 +815,7 @@ For the inspiration of the *Periodenbilder* he cites Götzinger (see [@sec:götz
 *Periodenbild* for the verse from the *Nibelungenlied* in [@last] as analysed by Esser [-@esser1878: 7]. Although he cites Götzinger, the details of the graphical display are more similar to the Latin tradition from Nägelbach, most prominently the use of the forward slash instead of a horizontal brace as used by Götzinger.
 :::
 
-### Sanders (1879) *Deutsche Sprachbriefe*
+### Sanders (1879) *Deutsche Sprachbriefe* {#sec:sanders1879}
 
 Daniel Sanders (1819-1897) was a school director in Strelitz and is most well-known for his lexicographical work [biographical details in @hasszumkehr1995]. He also wrote a German grammar *Deutsche Sprachlehre für Volks- und Bürgerschulen* [@sanders1876], but it contains almost no analysis of sentence structure. Relevant for the topic of graphical analysis are his *Deutsche Sprachbriefe* [@sanders1879], a collection of instructional texts about grammar and style addressed to a general audience. It is a collection of short explanations of grammatical phenomena, illustrated with literary examples. There are also many exercises with solutions appearing in later issues. 
 
@@ -832,7 +832,7 @@ Throughout the issues of the *Sprachbriefe* Sanders returns to these *Satzbilder
 *Satzbild* for the example sentence from Goethe in [@last] as proposed by Sanders [@sanders1879: 263]. Linking words (conjunction, complementisers, etc.) are retained in the *Satzbild*. The hierarchical structure of the subordination is indicated by brackets inside brackets. The horizontal brace is used to link elements of a clause that are separted by other clauses.
 :::
 
-### Blatz (1879) *Neuhochdeutsche Grammatik*
+### Blatz (1879) *Neuhochdeutsche Grammatik* {#sec:blatz1879}
 
 Friedrich Blatz (1824-1900) was a teacher in Offenburg and later *Oberschulinspektor* in Ober-Elsaß [biographical details in @oster1906]. Towards the end of his career he wrote the massive (almost 900 pages) *Neuhochdeutsche Grammatik mit Berücksichtigung der historischen Entwicklung der deutschen Sprache* [@blatz1879], only to be outdone by his third edition, which is expanded up to almost 2200 pages in two volumes, published after his retirement. The second volume contains a much expanded analysis of sentences structure [@blatz1896]. There exists also a shorter version of the book, the *Neuhochdeutsche Schulgrammatik*, which saw eleven editions between 1881 and 1918, but this shortened version does not contain any graphical analysis.
 
@@ -862,7 +862,7 @@ Heißen Sie den Hausdiener meinen Reisesack in mein Zimmer im zweiten Stockwerk 
 Clause-internal structure of the example sentence in [@last] from Blatz [-@blatz1896: 45]. This analysis has the verb (*heißen*) alone at the top, with all constituents hanging down from it (not all lines are explicitly drawn, which makes the image quite confusing). All earlier line-drawing have subject and predicate equally placed on the top. This verb-centric analysis is probably inspired by Kern (see Figure ???), whose method was published between the second and third edition of Blatz' book.
 :::
 
-### Zettel (1882) *Unterricht in der deutschen Sprache*
+### Zettel (1882) *Unterricht in der deutschen Sprache* {#sec:zettel1882}
 
 Karl Zettel (1831-1904) was a teacher in Regensburg and later an editor of de-luxe editions of German poetry in Munich. He wrote a small article about the method of teaching German in schools, called *Auf welche Weise kann der Unterricht in der deutschen Sprache und Literatur an unseren Studienanstalten methodisch und systematisch betrieben werden?* [@zettel1882]. He argues that *Satzbilder* are quite useful in school, as they can readily be displayed on the blackboard [@zettel1882: 85-87]. His graphics look like those of Götzinger (see [@sec:götzinger1836]), although Zettel uses superscript numbers to indicate the parts of a clause that are separated by other clauses. Also telling is his example sentence [@next], which is a reformulation of the example given by Bauer (see [@fig:bauer1850_97]).
 
@@ -950,7 +950,7 @@ Second, Kern does not like the notion of *bekleidetet* 'dressed' sentences. His 
 >
 > ('A rather superfluous, though less harmfull terminology, is the one of *nackte* 'naked' and *bekleidete* 'dressed' (or *umkleidete* 'around-dressed') sentences. … In this terminology modifiers, instead of thinking about them as branches and leaves, are preferably imagined as shirt, skirt and waistcoat. I consider this image to be neither fitting nor tasteful.')
 
-### Willomitzer (1885) *Deutsche Grammatik für österreichische Mittelschulen*
+### Willomitzer (1885) *Deutsche Grammatik für österreichische Mittelschulen* {#sec:willomitzer1885}
 
 Franz Willomitzer (1847-1910) was a teacher for German language and history in Vienna. His book *Deutsche Grammatik für österreichische Mittelschulen* first appeared in 1879 and was revised and reprinted many times up to a 23th edition in 1930. After the death of Willomitzer the book was further developed by Johann Tschinkel. He renamed the book to *Deutsche Sprachlehre für Mittelschulen* and strongly reduced the number of visualisations, with eventually only a single unexplained graphic remaining [@tschinkel1921: 242].
 
@@ -993,7 +993,92 @@ Analysis of a monoclausal sentence [@last a] from Willomitzer [-@willomitzer1885
 Analysis of a complex sentence with subordination [@last b] from Willomitzer [-@willomitzer1894: 127] in the style of Kern (cf. [@fig:kern1884_56]). Again, Willomitzer's graphic is much cleaner and easier to understand than Kern's original. Just like Kern, the complementizer *dass* is not a node in itself, but a relation. 
 :::
 
-### Utzinger (1887) *Deutsche Grammatik*
+### Lyon (1885) *Handbuch der deutschen Sprache* {#sec:lyon1885}
+
+Otto Lyon (1853-1912) was a teacher and *Stadtschulrat* in Dresden [biographical details in @kolb1987]. He was an extremely productive author, revising and reissuing classical linguistic works of the likes of Heyse, Becker and Eberhard, editing an anthology of German literature for use in schools, and producing a textbook for teaching all aspects of German. He also co-founded the journal *Zeitschrift für den deutschen Unterricht*.
+
+His textbook *Handbuch der Deutschen Sprache für höhere Schulen* was originally published in 1885. There have been many different versions of this handbook. I have counted at least 36 editions among seven different variants, some having multiple volumes, including six different co-authors. These books are often indexed incompletely or wrongly in catalogues, so it takes some effort to identify which version is available at any library. I have tried to reconstruct the editorial developments, but this edition-mess is in need of a more proper clean-up. Different variants of the handbook were introduced starting with the sixth edition in 1902.^[The second volume of Lyon's original sixth edition from 1902 is available online at <https://google.com/books?id=ZQkYT08lhVYC>.] A distinction into four different versions was made, which are sometimes (but not always) indicated by the letters A through D. I will use these letters as a shortcut to identify the different versions, and I will add a subscript for major revisions of the C and D variants.
+
+- **A-variant**: The original handbook written by Otto Lyon is spread out over two volumes and separates the topics by schoolyear. The majority of the grammatical analysis is included in the first volume, which was written for the lower classes of secondary education (*untere und mittlere Klassen, Sexta bis Tertia).* This first volume will be cited here from the second edition [@lyon1889] because I have not been able to find a first edition. Lyon has updated his handbook up to a seventh edition in 1907.^[The second volume of Lyon's original seventh edition from 1907 is available online at <https://google.com/books?vid=OSU:32435022678213>.]
+- **B-variant**: This is the same A-variant, but published as smaller booklets. It appears that the first volume was subdivided into four booklets and the second volums into three booklets. I have not been able to access this version.
+- **C~1~-variant**: A special summary version for teachers. This version started a new edition count. The first edition was prepared together with Paul Polack under the name *Handbuch der deutschen Sprache für Präparandenanstalten und Seminare* [@lyon1902] and saw at least five editions.
+- **C~2~-variant**: Sometime after the 5th edition from 1910 the further development of the C-variant was taken over by Albert Sieke und Richard Reißig under the name *Otto Lyons Handbuch der deutschen Sprache für Lehrerbildungsanstalten*, cited here in the 8th edition from 1919 [@lyon1919], which was published as two volumes with continuously numbered pages. The grammatical analysis can be found in the first volume.
+- **D~1~-variant**: A version of the A-variant tailored for use in Prussian schools, adding a subtitle *für preußische höhere Schulen*. This version also started a new edition count. The first edition of this version was prepared together with Willy Scheel. It will be cited here from the 6th edition from 1911 [@lyon1911]. 
+- **D~2~-variant**: Starting with the 12th edition from 1914, the further development of the D-variant was taken over by Curt Müller and Alfred Roedel under the name *Otto Lyons Handbuch der deutschen Sprache für höhere Schulen mit Übungsaufgaben*, cited here from the 16th edition from 1920 [@lyon1920].
+- **Abriß**: There is also a summarised version called *Abriß der deutschen Grammatik und kurze Geschichte der deutschen Sprache* [@lyon1891]. This variant does not include any graphical analyses and will not be further discussed here.
+
+Already in the first edition, Lyon proposes a set of abbreviations for different syntactic functions within the clause [@lyon1889: 99-100]. Unfortunately, these abbreviations are completely opaque and they have almost no mnemonic value. For example, subject is called "I", the predicate is "II", the direct object is "IIIa", a causal adverbial is "IVd", etc. These abbreviations are used to analyse a sentence. The example sentence [@next] is used in almost all variants to illustrate the process. The names for these methods and their details differ between the variants, as shown in [@fig:lyon1889_101] for the A and the D~1~ variant (called *Satzanalyse*), [@fig:lyon1920_87] for the D~2~-variant (called *schriftliche Satzzerlegung*) and [@fig:lyon1902_32] for the C~1~-variant (called *Satzbild*).
+
+::: ex
+Der Löwe schenkte im Walde der bittenden Maus großmütig das Leben.
+:::
+
+::: {.im #lyon1889_101}
+*Satzanalyse* of the example sentence in [@last] from the A-variant [@lyon1889: 101]. Exactly the same analysis, but with roman numerals, is found in the D~1~-variant [@lyon1911: 88]. In total Lyon distinguishes 10 different functions, which were all indicated by a totally non-transparent alphanumeric code.
+:::
+
+::: {.im #lyon1920_87}
+*Schriftliche Satzzerlegung* of the sentence in [@last] from the D~2~-version [@lyon1920: 87]. The abbreviations are replaced with slightly more mnemonic letter-sequences. The new abbreviations are introduced already starting on page four of the book, so it is considered a rather basic aspect of linguistic analysis by the authors. Different from Lyon's original approach, these abbreviations are a mix of word classes and syntactic functions. The capitals indicate the function, the lower-case letters the word class, e.g. *s.O.=substantivisches Objekt*, *part.A.=partizipiales Attribut*, etc.
+:::
+
+::: {.im #lyon1902_32}
+*Satzbild* of the sentence in [@last] from the C~1~-version [@lyon1902: 32], analysing the sentence as GAUB͜EUE (broad version), GAU~o~B͜E~3~U~w~E~4~ (detailed version), or as SPA~v~A͜OA~v~O (version with Latin abbreviations). The use of letters is slightly more memorable than the alphanumeric codes. Also note the little arc below the letters indicating that the combination of attributive adjective and noun (*bittende Maus*) should be considered as a single constituent.
+:::
+
+New graphical approaches were introduced in the 1910s, both in the C~2~ and in the D~2~ variants. Both variants introduce line diagrams, but with some interesting differences. The D~2~-variant introduces a verb-centric diagram as shown for example [@next a] in [@fig:lyon1920_157]. This graphic is very similar to Kern's approach (see [@sec:kern1883]). Kern is not explicitly mentioned, but in the preface the authors mention that: *wir [sind] wie die meisten neueren Sprachmethodiker vom Prädikat ausgegangen* 'just like most newer linguistic methods, we started with the predicate' [@lyon1920: iii].
+
+The line diagram in the C~2~-variant does not have a verb-centric approach, but instead places subject and finite verb equally on top, cf. [@fig:lyon1919_122] for the example sentence [@next b]. Both the C~2~ and the D~2~-variant add syntactic labels to all words in the line diagrams. In both cases, these labels are abbreviations that consists of two parts: an indication of word class with a lower-case letter and a symbol for the syntactic function using capitalised abbreviations. However, the naming conventions are completely different as explained in the figure-captions.
+
+::: ex
+- Die strahlende Sonne leuchtet am wolkenlosen Himmel.
+- Der fleißige Schmied hämmert das glühende Eisen auf dem harten Amboß.
+:::
+
+::: {.im #lyon1920_157}
+Unnamed graphic for the examples sentence in [@last a] from the D~2~-version [@lyon1920: 157]. The verb-centric display is very similar to Kern's approach (cf. [@fig:kern1883_17]). The abbrevations for syntactic functions are the same as in [@fig:lyon1920_87] above, e.g. *v.P.=verbales Prädikat*, *s.S.=substantivisches Subjekt*, etc.
+:::
+
+::: {.im #lyon1919_122}
+Unnamed graphic for the example sentence in [@last b] from the C~2~-version [@lyon1919: 122]. Different from the previous D~2~-variant, this display has subject and predicate equally on top. However, similar to the D~2~-variant the abbreviations also consist of two parts, the lower-case letter indicates the word class *(d=Dingwort, e=Eigenschaftswort, z=Zeitwort, m=Mittelwort)* and the capitalised abbreviations indicate syntactic function *(Sg.=Satzgegenstand, Sa.=Satzaussage, Erg.=Ergänzung, Bf.=Beifügung, Ub.=Umstandsbestimmung).* The number four refers to the accusative case.
+:::
+
+In the C~2~-variant there is a fascinating application of the line diagram to explain a syntactic detail of German [@lyon1919: 136]. The authors observe that with the *lassen+Infinitiv* and the *heißen+Infinitiv* construction in German there is a crucial difference between using an accusative or a dative. Their examples are repeated here in [@next] with the crucial parts italicised. When accusative, the participant is the patient of the finite verb *lassen/heißen*, while when dative, this participant is the recipient of the infinitive verb *vorlesen/bringen*. This difference is illustrated by the contrasting graphical syntactic analyses in [@fig:lyon1919_136].
+
+::: ex
+- Mein Freund ließ *mich*~~​~AKK~​~~ die Zeitung vorlesen. \
+  Mein Freund ließ *mir*~~​~DAT~​~~ die Zeitung vorlesen.
+- Der Graf hieß *den Knecht*~~​~AKK~​~~ das Roß bringen. \
+  Der Graf hieß *dem Knecht*~~​~DAT~​~~ das Roß bringen.
+:::
+
+::: {.im #lyon1919_136}
+Application of diagrams from the C~2~-variant [@lyon1919: 136] to explain the difference between the use of the accusative or dative in the examples in [@last]. The leftmost diagrams illustrate the use of the accusative, which is an argument to the finite verb *ließ/hieß*. The rightmost diagrams show that the dative is a recipient of the verb in the infinitive *vorlesen/bringen*. The use of the large braces in the leftmost diagrams is confusing. It would have been clearer to use slanted lines here as well.
+:::
+
+Separate from the clause-internal analysis, Lyon also discusses *Satzbilder* in the tradition of Lehmann (see [@sec:lehmann1833]) for sentences consisting of multiple clauses. Lyon presents a very short one-page summary of his notational variant [@lyon1889: 269-270]. He uses different lower-case letters for different kinds of subordinate clauses (*a*=complement clause, *b*=relative clause, *c*=adverbial clause), round brackets for non-finite clauses and superscript numbers for levels of embedding. The punctuation of the original sentence is repeated verbatim in the *Satzbild*. As an example he presents the graphical analysis in [@fig:lyon1889_270] for the sentence from Schiller in [@next].
+
+Exactly the same explanations and examples are found in the D~1~-variant [@lyon1911: 164-165], the D~2~-variant [@lyon1920: 268] and the C~2~-variant [@lyon1919: 197-198]. Only in the C~1~-variant  there is a short note offering an alternative notation [@lyon1902: 154-156]. In this variation, a superscript *v* is used for non-finite clauses (cf. Gelbe, [@sec:gelbe1877]) and a fractional number is used for parts of clauses that are separated by another clause (cf. Herling, [@sec:herling1823]).
+
+::: ex
+Obgleich er in seinen Anstalten weit genug vorwärts gerückt war, um die Stadt zu beängstigen, so wared doch noch sehr viele Schritte zu thun, um sich wirklich zum Meister derselben zu machen. [@lyon1889: 270, citing an example from Schiller *Geschichte des Abfalls der vereinigten Niederlande*]
+:::
+
+::: {.im #lyon1889_270}
+*Satzbild* for the examples sentence in [@last] from Lyon [-@lyon1889: 270]. The lower-case letters for subordinated clauses indicate the kind of clause (here: *c*=adverbial clause), the round brackets indicate non-finite clauses (here: *um zu+Infinitiv*) and the superscript numbers indicate the level of embedding.
+:::
+
+Lyon also wrote a separate series of anthologies of German literature called *Die Lektüre als Grundlage eines einheitlichen und naturgemäßen Unterrichtes in der deutschen Sprache*. In volume 2, part 1 (for *Obertertia*, i.e roughly for teenagers of age 15) there is an extensive discussion of the use of these *Satzbilder* with numerous examples [@lyon1897: 130-154]. To finish the discussion of Otto Lyon's graphical analysis, I have repeated here in [@next] one of Lyon's examples from Lessing with the corresponding *Satzbild* in [@fig:lyon1897_140]. The reader is invited to follow along, just like the teenage students were supposed to do back at the later part of the 19th Century.
+
+::: ex
+Es ist wahr, mit dergleichen leidigen Nachahmungen fängt das Genie an zu lernen; es sind seine Vorübungen; auch braucht es sie in größeren Werken zu Füllungen, zu Ruhepunkten unserer wärmeren Teilnehmung: allein mit der Anlage und Ausbildung seiner Hauptcharaktere verbindet es weitere und größere Absichten: die Absicht, uns zu unterrichten, was wir zu tun oder zu lassen haben, die Absicht, uns mit den eigentlichen Merkmalen des Guten und Bösen, des Anständigen und Lächerlichen bekannt zu machen; die Absicht, uns jenes in allen seinen Verbindungen und Folgen als schön und als glücklich selbst im Unglücke, dieses hingegen als häßlich und unglücklich selbst im Glücke zu zeigen, die Absicht, bei Vorwürfen, wo keine unmittelbare Nacheiferung, keine unmittelbare Abschreckung für uns statthat, wenigstens unsere Begehrungs- und Verabscheuungskräfte mit solchen Gegenständen zu beschäftigen, die es zu sein verdienen, und diese Gegenstände jederzeit in ihr wahres Licht zu stellen, damit uns kein falscher Tag verführt, was wir begehren sollten, zu verabscheuen, und was wir verabscheuen sollten, zu begehren. \
+[@lyon1897: 140, citing Lessing's *Hamburgische Dramaturgie*]
+:::
+
+::: {.im #lyon1897_140}
+*Satzbild* for the example from Lessing in [@last] in the analysis of Lyon [-@lyon1897: 140]. This was Lyon's idea of the level that 15-year olds should be able to tackle in school.
+:::
+
+### Utzinger (1887) *Deutsche Grammatik* {#sec:utzinger1887}
 
 Heinrich Utzinger (1842-1913) was a teacher and later schooldirector in Küsnacht, Switzerland. He wrote the book *Deutsche Grammatik: Lehr- und Übungsbuch für Sekundarschulen* [@utzinger1887], which was written on behalf of the kanton Zürich to be the official textbook for all secondary schools in the kanton. Utzinger himself delivered various editions during his lifetime, though with only minor changes. The book remained in print after his death up to a 14th edition in 1943. In the preface he mentions various grammars as influences, but none of those could have been the inspiration for his graphical display.
 
@@ -1016,61 +1101,6 @@ Als der Graf von Strassberg, welcher über den Brünig ins Unterwaldnerland eing
 ::: {.im #utzinger1887_122}
 *Satzbild* for the examples sentence in [@last] from Utzinger [-@utzinger1887: 122]. He follows the tradition to use capital letters for the main clause and lower-case letters for subordinate clauses. Depth of embedding is indicated by subscript numbers. It is actually unclear why only the lower-case letters *a* and *b* are used here. The two parts marked *a~1~* are two parts of the same clause, separated by a different clause marked *a~2~.* The two *b* clauses are different clauses. It seems more consistent to write: *a~1~ b~2~ a~1~ A c~1~ d~2~* or something like that.
 :::
-
-### Lyon (1885) *Handbuch der deutschen Sprache*
-
-Otto Lyon (1853-1912) Stadtschulrat in Dresden
-
-His main linguistic work is the *Handbuch der Deutschen Sprache für höhere Schulen*, published originally in 1885. There have been many different versions of this handbook, which are often indexed incompletely in catalogues. I have tried to reconstruct the developments, but this edition-mess is in need of a more proper clean-up.
-
-The original handbook is spread out over two volumes and separates the topics by schoolyear. The majority of the grammatical analysis falls in the first volume prepared for the *untere und mittlere Klassen (Sexta bis Tertia).* This first volume will be cited here from the second edition [@lyon1889], because I have not been able to find a first edition. Lyon has updated his handbook up to a seventh edition in 1907.^[The second volume of Lyon's original seventh edition from 1907 is available online at <https://google.com/books?vid=OSU:32435022678213>.]
-
-Different variants of the handbook were introduced starting with the sixth edition in 1902.^[The second volume of Lyon's original sixth edition from 1902 is available online at <https://google.com/books?id=ZQkYT08lhVYC>.] A distinction into four different versions was made, which were sometimes (but not always) indicated by the letters A through D:
-
-- **A**-variant: The original handbook by Otto Lyon published as two volumes up to a 7th edition from 1907.
-- **B**-variant: The same handbook, but published as smaller booklets. It appears that the first volume was subdivided into four booklets and the second volums was separated into three booklets.
-- **C~1~**-variant: A special summary version for teachers. This version started a new edition count. The first edition was prepared together with Paul Polack under the name *Handbuch der deutschen Sprache für Präparandenanstalten und Seminare* [@lyon1902]. 
-- **C~2~**-variant: Sometime after the 5th edition from 1910 the further development of the C~1~-variant was taken over by Albert Sieke und Richard Reißig under the name *Otto Lyons Handbuch der deutschen Sprache für Lehrerbildungsanstalten*, cited here in the 8th edition from 1919 [@lyon1919]
-- **D~1~**-variant: A shorter version of the A-variant tailored for use in Prussian schools, adding a subtitle *für preußische höhere Schulen*. This version also started a new edition count. The first edition of this version was prepared together with Willy Scheel. It will be cited here from the 6th edition from 1911 [@lyon1911]. 
-- **D~2~**-variant: Starting with the 12th edition from 1914 the further development of the D~1~-variant was taken over by Curt Müller and Alfred Roedel under the name *Otto Lyons Handbuch der deutschen Sprache für höhere Schulen mit Übungsaufgaben*, cited here from the 16th edition from 1920 [@lyon1920].
-
-Already in the very first edition, Lyon proposes a set of abbreviations for different syntactic functions [@lyon1889: 99-100]. Unfortunately, these abbreviations are completely opaque and they have almost no mnemonic value. For example, subject is called "I", the predicate is "II", the direct object is "IIIa", etc.
-
-::: ex
-Der Löwe schenkte im Walde der bittenden Maus großmütig das Leben.
-:::
-
-::: {.im #lyon1889_101}
-*Satzanalyse* of the example sentence in [@last] from the A-version [@lyon1889: 101]. Exactly the same analysis, but with roman numerals, is found in the D~1~ version [@lyon1911: 88]. In total Lyon distinguishes 10 different functions, which were all named with a totally non-transparent alphanumeric code.
-:::
-
-::: {.im #lyon1920_87}
-*schriftliche Satzzerlegung* of the sentence in [@last] from the D~2~-version [@lyon1920: 87].
-:::
-
-::: {.im #lyon1902_32}
-*Satzbild* of the sentence in [@last] from the C~1~-version [@lyon1902: 32].
-:::
-
-Clausal analysis with lines only in the later revisions:
-
-C~2~-verion [@lyon1919: 122, 136] (passiv!)
-
-::: {.im #lyon1920_157}
-Unnamed graphic from the D~2~-version [@lyon1920: 157].
-:::
-
-(perioden) satzbilder
-
-- A [@lyon1889: 269-270]
-- C~1~ [@lyon1902: 154-156]
-- D~1~ [@lyon1911: 164-165]
-- C~2~ [@lyon1919: 196-198]
-- D~2~ [@lyon1920: 268]
-
-more extensive "Periodenbilder" (are called *Satzbilder*) in *Lektüre als Grundlage* Satzbilder wie Hoffmann obertertia [@lyon1897: 130-154]
-
-Abriss 1891 (https://google.com/books?vid=UCAL:%24B267241) "Der Kernschen Reform ist die gebührende Berücksichtigung zu teil geworden" (vorwort). Keine graphiken! 
 
 ### Kuderna (1893) *Sprachliches Mahnwort*
 
