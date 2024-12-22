@@ -1124,11 +1124,37 @@ Als der Graf von Strassberg, welcher über den Brünig ins Unterwaldnerland eing
 *Satzbild* for the examples sentence in [@last] from Utzinger [-@utzinger1887: 122]. He follows the tradition to use capital letters for the main clause and lower-case letters for subordinate clauses. Depth of embedding is indicated by subscript numbers. It is actually unclear why only the lower-case letters *a* and *b* are used here. The two parts marked *a~1~* are two parts of the same clause, separated by a different clause marked *a~2~.* The two *b* clauses are different clauses. It seems more consistent to write: *a~1~ b~2~ a~1~ A c~1~ d~2~* or something like that.
 :::
 
-### Kuderna (1893) *Sprachliches Mahnwort*
+### Kuderna (1895) *Das Satzbild in seiner Anwendung* {#sec:kuderna1985}
 
-Béla Kuderna (1846-1915) was a captian (*Hauptmann*) in the Austrian army and teacher for German language and style at the *Infanterie-Cadetenschule* in Vienna. He wrote a short article about the method of teaching German language, called *Sprachliches Mahnwort*. This article includes two quick examples of *Satzbilder* as he uses them in his classes [@kuderna1893: 268-269]. Shortly afterwards he publishes a complete booklet about his approach to graphically analyse sentences, called *Das Satzbild in seiner Anwendung für die Lehre vom Satze* [@kuderna1895]. This book goes into great detail explaining his approach, including numerous practical examples.
+Béla Kuderna (1846-1915) was a captian (*Hauptmann*) in the Austrian army and teacher for German language and style at the *Infanterie-Cadetenschule* in Vienna, Austria. In 1893 he wrote a short article on teaching German, called *Sprachliches Mahnwort* [@kuderna1893]. This article includes two mostly unexplained examples of *Satzbilder* as he used them in his classes [@kuderna1893: 268-269]. Shortly afterwards he published a complete booklet about his approach to graphically analyse sentences, called *Das Satzbild in seiner Anwendung für die Lehre vom Satze* [@kuderna1895]. This book goes into great detail explaining his approach, including numerous practical examples.
 
-As for the inspiration for his graphical approach, Kuderna mentions Bauer (see [@sec:bauer1850]) in passing [@kuderna1895: 4], but only to complain about the non-mnemonic usage of letters and symbols by Bauer. For example, instead of using an abstract letter *A* for the main clause, Kuderna proposes to use the letter *H* as abbreviation of the German word *Hauptsatz*.
+As for the inspiration for his graphical approach, Kuderna mentions Bauer (see [@sec:bauer1850]) in passing [@kuderna1895: 4], but only to complain about Bauer's non-mnemonic usage of letters and symbols. For example, instead of using an abstract letter *A* for the main clause, Kuderna proposes to use the letter *H* as an abbreviation of the German word *Hauptsatz* 'main clause'. There are no further clear indications for specific influences. Kuderna uses line diagrams and letters with superscripts and subscripts, just like most other authors around this time. However, the combination of line-diagram with abbreviations as nodes is an idiosyncratic mixture of Kuderna. Subject and predicate are both placed on top, indicating a more traditional approach, not following Kern's verb-centric proposal (cf. [@sec:kern1883]).
+
+Kuderna's *Satzbild* comes in two different variants, one for single clauses (using lower-case letters) and one for complex sentences consisting of multiple clauses (using capital letters). To explain his system, Kuderna presents the two example sentences in [@next], graphically analysed in [@fig:kuderna1895_6]. Sentence [@next a] is an example of a single clause and [@next b] is a complex sentence with multiple clauses. Kuderna's diagrams are shown to the left in [@fig:kuderna1895_6] (using letters). The diagrams to the right with the actual words are only added as explanation. This is the only time in the book that show the actual words, all other examples only have the abstract letters.
+
+::: ex
+- Die grausame Wirklichkeit zerstört oft unsere schönsten Hoffnungen.
+- Es ist natürlich, dass man wahrhaft große Männer bewundert und verehrt; den sie heiligen das Volk zu dem sie gehören.
+:::
+
+::: {.im #kuderna1895_6}
+Introductory examples of *Satzbilder* from Kuderna [-@kuderna1895: 6] for the examples sentences in [@last]. Shown to the left are the letter-based displays Kuderna uses throughout the book. The versions to the right with the full words are only added as explanation this one time.
+:::
+
+Kuderna extols his own system because of the transparent usage of the letters (*s=Subjekt*, *a=Attribut*, *o=Objekt*, *H=Hauptsatz*, etc.). However, he complicates his analysis by adding superscripts and subscript, ending up with more than 50 different abbreviations [summarised in @kuderna1895: 10-11]. As a result, more involved examples very quickly become unwieldy and difficult to interpret. For example, the sentence in [@next] are analysed by Kuderna as shown in [@fig:kuderna1895_33] and [@fig:kuderna1895_52]. Instead of simplifying the interpretation of the sentence structure, these *Satzbilder* become puzzles in their own right.
+
+::: ex
+- Finsteren Blickes, aber erhobenen Hauptes folgte die lange Reihe der Gefangenen dem mit allen erdenklichen Zeichen von Pracht und Glanz geschmückten Wagen des Imperators bis zu dem weiten, jetzt dicht mit lärmendem Volke besetzten Festplatz des Forums. [@kuderna1895: 33]
+- Die Bundesgenossen, welche dazu bestimmt waren, an dem Kampfe unmittelbar theilzunehmen, und denen man deshalb besondere Führer zugeweisen hatte, erhielten die Weisung, sich in der Hafenstadt zu sammeln, um von da, wenn alles beisammen wäre, nach den bedrohten Südprovinzen eingeschifft zu werden. [@kuderna1895: 52]
+:::
+
+::: {.im #kuderna1895_33}
+*Satzbild* for a single clause [@last a] from Kuderna [-@kuderna1895: 33]. Subject and predicate are placed both on top. However, as shown here, the ordering can be reversed when the German sentence is structures accordingly. More involved *Satzbilder*, like the current example, very quickly become difficult to interpret.
+:::
+
+::: {.im #kuderna1895_52}
+*Satzbild* for a complex clause with multiple subordinate clauses [@last b] from Kuderna [-@kuderna1895: 52]. The striked-through *N* indicates a non-finite *zu-Infinitiv* subordinate clause. The ordering of the subordinate clauses in the *Satzbild* is strictly left-to-right and top-to-bottom. However, Kuderna does not mark clause-internal subordination. This leads to clauses that are separated into multiple parts, and these impede the interpretation of a *Satzbild*.
+:::
 
 ### Gloël (1895) *Schriftliche Übersetzung aus dem Griechischen*
 

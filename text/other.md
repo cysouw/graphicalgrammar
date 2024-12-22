@@ -130,9 +130,9 @@ body-worker--for-insurance---committee----the-statement.
 
 Carl Rebbe, Walter Fischer, Birger Bjerre
 
-## Finnish
+## Finnish^[I thank Fred Karlsson and Matti Miestamo for their assistance with the Finnisch language and linguistic tradition.]
 
-### Setälä & Nieminen (1939) *Suomen kielen oppikirja*^[I thank Fred Karlsson and Matti Miestamo for their assistance with the Finnisch language and linguistic tradition.]
+### Setälä & Nieminen (1939) *Suomen kielen oppikirja*
 
 Eemil Nestor Setälä (1864-1935) was a well-known Finnish politician and author of the Finnish declaration of independence. However, he was also a professor for Finnish language and literature at Helsinki University and among many other grammatical works he wrote a little booklet *Suomen kielen oppikirja* 'Finnisch language textbook'. The first edition appeared in 1898 and has been reprinted various time. The version from 1925, that I have consulted, does not have any graphical analyses [@setala1925].
 
@@ -225,7 +225,7 @@ Original from 1939, but not diagrams. Takes over Bonnard-style diagrams in 25th 
 28th edition 1969 in Marburg library
 30th edition 1995 https://archive.org/details/precisdegrammair00grev
 
-## Spanish
+## Spanish^[I thank María José García Folgado for many suggestions.]
 
 ### Bastiniani (1916) *Sintaxis castellana*
 
@@ -251,6 +251,10 @@ Montoro del Arco, Esteban T. (2019). “Métodos y modelos de representación de
 http://hdl.handle.net/10481/67999
 
 https://digibug.ugr.es/bitstream/handle/10481/67999/Metodos_y_modelos_de_representacion_del%20%281%29.pdf?sequence=1
+
+Montoy, Joaquim (1882, mayo 12). “Análisis gramatical razonado”. El Clamor del Magisterio, año 17, n°. 19
+
+https://bsky.app/profile/mjgarciafolgado.bsky.social/post/3ldscj467zc2n
 
 ## Romanian
 
