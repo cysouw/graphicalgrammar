@@ -225,7 +225,25 @@ Original from 1939, but not diagrams. Takes over Bonnard-style diagrams in 25th 
 28th edition 1969 in Marburg library
 30th edition 1995 https://archive.org/details/precisdegrammair00grev
 
-## Spanish^[I thank María José García Folgado for many suggestions.]
+## Spanish
+
+I thank María José García Folgado for many suggestions
+
+### Cordero (1907) *Gramática de la lengua castellana*
+
+Francisco Febres Cordero (1854-1910), also known as "brother Miguel" in the Ecuadorian brotherhood *Hermanos de las Escuelas Christiana* [@montoro-del-arco2023: 169-171].
+
+[@cordero1907alumno; @cordero1907maestro]
+
+Cordero was sent to europe, and probably this version was published under his auspices in Paris [@montoro-del-arco2023: 181]. Earlier versions from Ecuador do not have any graphical analyses.
+
+"análysis lógico" [@cordero1907maestro: 28-36]
+
+A different level of granularity for the analysis of the sentence is the *quadro de subordination* 'subordination scheme' [explained in @cordero1907alumno: 28; more examples in @cordero1907maestro: 78, 92, 97, 105]
+
+### Solana (1911) *Tratado de análisis lógico y gramatical*
+
+[@solana1911]
 
 ### Bastiniani (1916) *Sintaxis castellana*
 
@@ -254,7 +272,8 @@ https://digibug.ugr.es/bitstream/handle/10481/67999/Metodos_y_modelos_de_represe
 
 Montoy, Joaquim (1882, mayo 12). “Análisis gramatical razonado”. El Clamor del Magisterio, año 17, n°. 19
 
-https://bsky.app/profile/mjgarciafolgado.bsky.social/post/3ldscj467zc2n
+- https://bsky.app/profile/mjgarciafolgado.bsky.social/post/3ldscj467zc2n
+- https://ca.wikipedia.org/wiki/Joaquim_Montoy_i_Escuer
 
 ## Romanian
 
@@ -302,6 +321,19 @@ grafické [@novotna2012; @novotna2006; @vernerova2019]
 
 ## Polish
 
+Digitalisations:
+
+- https://polona.pl
+- https://pbc.biaman.pl/
+- http://pbc.up.krakow.pl/
+- https://pbc.gda.pl/
+
+not accessible?
+
+- http://pbc.up.krakow.pl/dlibra/publication/5776/edition/5662
+- http://pbc.up.krakow.pl/dlibra/publication/6574/edition/6439
+- http://pbc.up.krakow.pl/dlibra/publication/6356/edition/6230
+
 ### Lehr-Spławiński & Kubiński (1927) *Gramatyka języka polskiego*
 
 Tadeusz Lehr-Spławiński (1891-1965)
@@ -309,11 +341,53 @@ Roman Kubiński (1886-1957)
 
 https://gramatyki.uw.edu.pl/book/544?lang=en
 
-first edition 1927, cited here in 2nd edition [@lehr-spawinski1928: 150] single tree-image of sentence
+first edition 1927, cited here in 2nd edition [@lehr-spawinski1928: 150] single tree-image of sentence.
+
+::: ex
+- Dziś rano przez dwie godziny padał bezustannie bardzo gęsty śnieg.
+- This morning it snowed very heavily for two hours straight.
+:::
+
+::: {.im #lehr1928_150}
+[@lehr-spawinski1928: 150] 
+:::
+
+### Klemenciewicz (1935) *Język Polski*
+
+Zenon Klemenciewicz (1891-1969) structure of complex sentences consisting of multiple clauses [@klemensiewicz1935: 66-67]
+
+::: ex
+- \(1) Przed burza bywa chwila cicha i ponura, (2) kiedy, (3) nad glowy
+ludzi przyleciawszy, (2 c.d.) chmura stanie (4) i (5) grozac twarza,
+(4 c.d.) dech wiatrów zatrzyma, (6) milezy, (7) obiega ziemie blyskawic oczyma, (8) znaczac te miejsca, (9) gdzie wnet cisnie grom po gromie.
+- \(1) Before a storm there is a quiet and gloomy moment, (2) when, (3) flying over people's heads, (2 c.d.) a cloud stands (4) and (5) threatening with its face, (4 c.d.) stopping the winds' breath, (6) passing by, (7) flashing lightning with its eyes, (8) marking those places, (9) where it will immediately hurl thunder after thunder
+:::
+
+::: {.im #klemensiewicz1935_67}
+[@klemensiewicz1935: 67]
+:::
+
+https://gramatyki.uw.edu.pl/book/506
+
+Encyklopedia języka polskiego (ed. by Urbańczyk, 2nd ed. 1991) calls it wykres składniowy (syntactic graph) and says that as a didactic convention it was popularised (scil. in Poland) by Klemensiewicz. One ex. can indeed be found in his Zarys składni polskiej (Outline of Pol. syntax) of 1953, p. 62.
+
+Various textbooks by Klemenciewicz in the 1930s, but no graphics:
+
+- https://pbc.biaman.pl/dlibra/doccontent?id=47579
+- https://pbc.biaman.pl/dlibra/doccontent?id=47595
+- https://pbc.biaman.pl/dlibra/doccontent?id=49283
+- https://pbc.biaman.pl/dlibra/doccontent?id=49305
+- https://pbc.biaman.pl/dlibra/doccontent?id=48885
 
 ### Other Polish
 
-More on polish grammars, but apparaently no other graphics: https://gramatyki-uw-edu-pl.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp
+More on old polish grammars, but apparaently no other syntactic graphics: https://gramatyki-uw-edu-pl.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp
+
+Info from Tomasz (Ma)ksymil(ian) Majtczak: https://bsky.app/profile/ksymil.bsky.social
+
+- wykres zdania złożonego (graph of a compound sentence)
+- Piotr Bąk, Gramatyka języka polskiego (the illustrations are from 4th ed. of 1984; 1st ed. in 1977; 15th ed. in 2016).
+- Modern summary: Gruszczyński & Bralczyk (ed.), Słownik gramatyki języka polskiego, 2002 [@gruszczynskiego2002: 302-304]
 
 ## Russian
 
