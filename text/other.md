@@ -183,7 +183,24 @@ Visualisation of clause subordination for the examples sentence in [@last] from 
 
 ## Hungarian
 
-https://google.com/books?id=L5jqQ_fEkJsC
+### Brassai (1873) *Paraleipomena kai diorthoumena* {#sec:brassai1873}
+
+Sámuel Brassai (1800-1897) was a polymath in the Austro-Hungarian empire, who worked most of his life at the university of Klausenburg (today Cluj, Rumania). He published in Hungarian about a wide variety of subjects, including linguistics [more details about his linguistic work in @imrenyi2020a].
+
+Of particular interest is his *Paraleipomena kai diorthoumena. A mit nem mondtak s a mit roszul mondtak a commentatorok Virg. Aeneise II. könyvére* 'Omissions and corrections: What was not said and what was wrongly said by the commentators on Book II of Virgil's Aeneid' [@brassai1873]. As the title clearly states, this book is a discussion of classical literature. The graphical analyses are inside a (long) footnote, explaining that adverbial modifiers can have different interpretations, depending on which word they modify. The graphical illustrations are thus only used as an aside, it is not the central topic of the discussion at all.
+
+To exemplify the problem of adverbial modification, Brassai chooses a sentence rather randomly from classical literature, ending up with a sentence from Ovid, shown here in [@next a] with a poetic translation in [@next b]. Ovid's sentence structure is infamous for being particularly unwieldy. Out of context, the adverbial phrase *imbre per indignas usque cadente genas* 'a shower (of tears) falling on innocent cheeks' could either modify the verb *tenebat* 'she held him' ([@fig:brassai1873_7] I), the accusative *flentem* 'the weeping one' ([@fig:brassai1873_7] II) or the nominative *uxor flens* 'wife weeping' ([@fig:brassai1873_7] III). Brassai uses the images to explain the structural difference between these possibilities.
+
+::: ex
+- uxor amans flentem flens acrius ipsa tenebat imbre per indignas usque cadente genas. [@brassai1873: 7, citing Ovid *Tristia*]
+- My loving wife was in my arms as I wept, herself weeping more bitterly, tears raining constantly over her innocent cheeks.^[Translation by A. L. Wheeler. Revised by G. P. Goold for the Loeb Classical Library. Available online at <https://www.loebclassics.com/view/ovid-tristia/1924/pb_LCL151.21.xml>.]
+:::
+
+::: {.im #brassai1873_7}
+*Schemaja* from Brassai [-@brassai1873: 7-8] of the examples sentence in [@last a]. With these graphics, Brassai explains that the adverbial phrase *imbre per indignas usque cadente genas* 'a shower (of tears) falling on innocent cheeks' could be interpreted in different ways, modifying different elements of the sentence. The Latin structure does not tell which is the right interpretation, it has to be decided from context.
+:::
+
+Brassai uses a similar graphic later in his book [@brassai1873: 37], also in a footnote. There he calls his graphic a *schemaja*. It is unclear where the inspiration for this graphical display originates. Imrényi & Vladár [-@imrenyi2020a: 166-169] propose that it is Brassai's own interpretation of Priscian, with possibly an influence from Billroth (cf. [@sec:billroth1832]). Particularly noteworthy is the verb-centric display, which is not previously attested. Brassai appears to be the first to use such an analysis. The next author to use rather similar looking graphical displays is Kern (cf. [@sec:kern1883]), but there is no evidence that Kern knew about Brassai's graphical analysis.
 
 ## Dutch
 
