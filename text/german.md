@@ -1158,9 +1158,19 @@ Kuderna extols his own system because of the transparent usage of the letters (*
 
 ### Gloël (1895) *Schriftliche Übersetzung aus dem Griechischen*
 
-Heinrich Gloël, Gymnasiallehrer in Wesel
+Heinrich Gloël (1855-1940) was a teacher and literary scholar, first in Wesel and and later in Wetzlar. He started as a classical scholar, writing a disseration about the Greek play *Hippolytos* by Eurypides and teaching classical languages. Later in life he specialized in critical evaluations of texts of Goeths (more biographical information in Flender 1983).
 
-Satzbilder [@gloel1895: 75]
+In an article about the role of translation from Greek to German in secondary education, Gloël discussed various examples from classical Greek and the problems with their translation into German [@gloel1895]. The final example he discusses is an excerpt from Plato's *Crito* [@gloel1895: 67-76]. For two complex sentences with many subordinated clauses in this excerpt, Gloël uses *Satzbilder* to illustrate their syntactic structure. For example, the *Satzbild* in [@fig:gloël1895_75] is an analysis of the sentence in [@next a]. I have added the letters from Gloël's *Satzbild* into this example, something which Gloël assumes that the reader is able to do. The translation in [@next b] is by Harald Fowler.^[Plato in Twelve Volumes, Vol. 1 translated by Harold North Fowler; Introduction by W.R.M. Lamb. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1966. Available online at <https://www.perseus.tufts.edu/>.]
+
+::: ex
+- \(A) ἢ πρὸς μὲν ἄρα σοι τὸν πατέρα οὐκ ἐξ ἴσου ἦν τὸ δίκαιον καὶ πρὸς δεσπότην, (a) εἴ σοι ὢν ἐτύγχανεν, (b) ὥστε (β) ἅπερ πάσχοις ταῦτα (b) καὶ ἀντιποιεῖν, (1) οὔτε κακῶς ἀκούοντα ἀντιλέγειν (2) οὔτε τυπτόμενον ἀντιτύπτειν (3) οὔτε ἄλλα τοιαῦτα πολλά· (B) πρὸς δὲ τὴν πατρίδα ἄρα καὶ τοὺς νόμους ἐξέσται σοι, (c) ὥστε, (γ) ἐάν σε ἐπιχειρῶμεν ἡμεῖς ἀπολλύναι (~~P~~) δίκαιον ἡγούμενοι εἶναι, (c) καὶ σὺ δὲ ἡμᾶς τοὺς νόμους καὶ τὴν πατρίδα (δ) καθʼ ὅσον δύνασαι (c) ἐπιχειρήσεις ἀνταπολλύναι, (1) καὶ φήσεις ταῦτα ποιῶν (2) δίκαια πράττειν, (~~P~~) ὁ τῇ ἀληθείᾳ τῆς ἀρετῆς ἐπιμελόμενος; \
+  [@gloel1895: 67, citing Plato *Crito*. Clause-symbols are not given in the original, but inserted here to coincide with the *Satzbild* below]
+- \(A) There was no such equality of right between you and your father or your master, (a) if you had one, (b) so that (β) whatever treatment you received (b) you might return it, (1) answering them if you were reviled, (2) or striking back if you were struck, (3) and the like; (B) and do you think that it will be proper for you to act so toward your country and the laws, (c) so that (γ) if we undertake to destroy you, (~~P~~) thinking it is right, (c) you, to our laws and our country, (δ) so far as you are able, (c) will undertake in return to destroy them (1) and will say that in doing this (2) you are doing right, (~~P~~) you who really care for virtue?^[Translation by Harold North Fowler with a few very minor edits, available online at <https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg003.perseus-grc2:51/?right=perseus-eng2>.] 
+:::
+
+::: {.im #gloël1895_75}
+*Satzbild* for the sentence from Plato's *Crito* in [@last a] as analysed by Gloël [-@gloel1895: 75]. Capital letters are main clauses, lower-case Latin letters are subordinated clauses, greek letters are second-grade subordination. The letter "~~P~~" indicates a non-finite clause using a participles. Numbers indicate conjoined clauses to the previous letter-marked clause. The marker *B* for the second main clause should probably by placed on the same level as the main clause *A*. This appears to be a printing error.
+:::
 
 ### Dinkel (1895) *Zum Umsturz der Vulgärgrammatik*
 
