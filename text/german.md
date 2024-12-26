@@ -884,6 +884,16 @@ Heißen Sie den Hausdiener meinen Reisesack in mein Zimmer im zweiten Stockwerk 
 Clause-internal structure of the example sentence in [@last] from Blatz [-@blatz1896: 45]. This analysis has the verb (*heißen*) alone at the top, with all constituents hanging down from it (not all lines are explicitly drawn, which makes the image quite confusing). All earlier line-drawing have subject and predicate equally placed on the top. This verb-centric analysis is probably inspired by Kern (see Figure ???), whose method was published between the second and third edition of Blatz' book.
 :::
 
+### Götzinger (1880) *Deutsche Grammatik in genetischer Darstelllung* {#sec:götzinger1880}
+
+Ernst Götzinger (1837-1896), son of Maximilian Götzinger (see [@sec:götzinger1836]), was a teacher in St. Gallen (Switzerland). He wrote extensively about local history, German literature and he reissued his father's books after his death [more biographical details in @dierauer1897]. He also wrote a grammar *Deutsche Grammatik in genetischer Darstelllung* [@gotzinger1880] in which he criticised the *Periodenbilder* of Lehmann (see [@sec:lehmann1833]) and proposes an alternative. Intriguingly, he does not mention his father's graphical approach, with which he would have been intimately familiar.
+
+Götzinger proposes a very simple model for sentence analysis, consisting only of a plus symbol and hierarchically ordered brackets [@gotzinger1880: 155-156]. He uses the term *algebraische Gleichungen* 'algebraic formulae' for his approach. Although the method is described very clearly in words, as quoted below, Götzinger does not give any examples of how his grammatical algebra works in practice for more complex sentences. A few concrete examples of Götzinger's approach are given much later by Dinkel (see [@sec:dinkel1895]).
+
+> Will man das Satzgefüge in schematischen Bildern darstellen, so wird man sich besser der Methode der algebraischen Gleichungen bedienen. Angenommen, S heiße Subject, SS Subjectsubstantiv, P Prädicat, PV Prädicatverb, so ist die Formel jedes Satzes: S+P oder SS+PV. Beide Satzglieder lassen sich nun erweitern; ist das Subject-substantiv durch ein Adjectiv (a) oder durch eine Apposition (A) oder durch einen Genitiv (G) oder durch einen indirecten Casus (IC) erweitert, so würden die Formeln entstehen: (a+SS)+PV; (SS+A)+PV; (SS+G)+PV oder (G+SS)+PV; (SS+IC)+PV. Wäre das Prädicatsverb durch einen Accusativ (Acc.) oder Genitiv (Gen.) oder Dativ (D) oder einen indirecten Casus (IC) oder durch ein Adverb erweitert, so würde sich der Buchstabe dafür mit PV zusammenklammern lassen müssen, z.B. SS+(PV+Gen). Jede neue Erweiterung beiordnender oder unterordnender Natur ließe sich dergestalt in die Grundgleichung einfügen, ebenso jeder Nebensatz, der entweder dem Subject oder dem Prädicat angehört; das wesentlichste Mittel dieser Satztypen ist immer die Klammer, vermittelst welcher die zu einer begrifflichen Einheit zusammentretenden Einzelglieder aneinandergefügt werden. [@gotzinger1880: 156]
+>
+> When one wants to display the sentence structure in a schematic image, then it is to be preferred to use the method of algebraic equations. Suppose S is called subject, SS subjective substantive, P predicate, PV predicative verb, then the formula for each sentence is: S+P or SS+PV. Both these constituents can be expanded; when the subjective substantive is expanded with an adjective (a) or with an apposition (A) or with a genitive (G) or with an indirect case (IC), then the following formulae would arise: (a+SS)+PV; (SS+A)+PV; (SS+G)+PV or (G+SS)+PV; (SS+IC)+PV. When the predicative verb is expanded with an accusative (Acc.) or a genitive (Gen.) or dative (D) or an indirect case (IC) or with an adverb, than the letter for this expansion would be encapsulated together with the PV, e.g. SS+(PV+Gen). Likewise, each new expansion of a coordinating or subordinating nature can be inserted into the basic formula, and likewise each subordinate clause, which belong either to the subject or the predicate. The crucial method for these [more complex, MC] sentence types is the bracket, by which the elements, which are to be assembled into a conceptual unit, are joined together.
+
 ### Zettel (1882) *Unterricht in der deutschen Sprache* {#sec:zettel1882}
 
 Karl Zettel (1831-1904) was a teacher in Regensburg and later an editor of de-luxe editions of German poetry in Munich. He wrote a small article about the method of teaching German in schools, called *Auf welche Weise kann der Unterricht in der deutschen Sprache und Literatur an unseren Studienanstalten methodisch und systematisch betrieben werden?* [@zettel1882]. He argues that *Satzbilder* are quite useful in school, as they can readily be displayed on the blackboard [@zettel1882: 85-87]. His graphics look like those of Götzinger (see [@sec:götzinger1836]), although Zettel uses superscript numbers to indicate the parts of a clause that are separated by other clauses. Also telling is his example sentence [@next], which is a reformulation of the example given by Bauer (see [@fig:bauer1850_97]).
@@ -1172,9 +1182,17 @@ In an article about the role of translation from Greek to German in secondary ed
 *Satzbild* for the sentence from Plato's *Crito* in [@last a] as analysed by Gloël [-@gloel1895: 75]. Capital letters are main clauses, lower-case Latin letters are subordinated clauses, greek letters are second-grade subordination. The letter "~~P~~" indicates a non-finite clause using a participles. Numbers indicate conjoined clauses to the previous letter-marked clause. The marker *B* for the second main clause should probably by placed on the same level as the main clause *A*. This appears to be a printing error.
 :::
 
-### Dinkel (1895) *Zum Umsturz der Vulgärgrammatik*
+### Dinkel (1895) *Zum Umsturz der Vulgärgrammatik* {#sec:dinkel1895}
 
-Georg Dinkel, Nürnberg [@dinkel1895]
+Georg Dinkel (dates unknown) from Nürnberg wrote a small article in the *Bayerische Lehrerzeitung* about his *Plan einer einfachen Grammatik des Deutschen auf historischer Grundlage* 'plan for a simple German grammar on a historical basis' [@dinkel1895]. In this article he proposes a *Satzbild* that is based on the proposals from Ernst Götzinger (see [@sec:götzinger1880]), who is explicitly cited by Dinkel. Götzinger himself did not give any concrete examples of his approach, so the few examples in Dinkel's article are the only available examples. Of particular interest is the principle to use nested brackets to indicate hierarchical structure. For example, the sentence in [@next] is analysed with the *Satzbild* in [@fig:dinkel1895_634] 
+
+::: ex
+Ein munterer Sennbub aus einem Dorfe in der Schweiz stieg eines Tages auf einem steilen Gebirgspfade ins Thal herab.
+:::
+
+::: {.im #dinkel1895_634}
+*Satzbild* for the example sentenence in [@last] from Dinkel [-@dinkel1895: 634]. The numbers indicate cases (2=genitive, 3=dative, 4=accusative), ignoring the fact that the cases are governed by prepositions. Of particular interest is the use of nested brackets to indicate hierarchical structure.
+:::
 
 ### Toifel (1896) *Satzstellung in der Kudrun*
 
