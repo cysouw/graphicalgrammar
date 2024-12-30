@@ -1194,17 +1194,55 @@ Ein munterer Sennbub aus einem Dorfe in der Schweiz stieg eines Tages auf einem 
 *Satzbild* for the example sentenence in [@last] from Dinkel [-@dinkel1895: 634]. The numbers indicate cases (2=genitive, 3=dative, 4=accusative), ignoring the fact that the cases are governed by prepositions. Of particular interest is the use of nested brackets to indicate hierarchical structure.
 :::
 
+### Trunk (1895) *Über Satzbilder*
+
+Hans Trunk (1847-1929) was a teacher and school director in Graz (Austria).^[I have not been able to find much biographical information about Hans Trunk. HathiTrust provides a birthyear (<https://catalog.hathitrust.org/Record/102143919>) and *Kürschners Deutscher Literatur-Kalender* (1930: 1524) lists his death, but without precise date (<https://doi.org/10.1515/9783112340301>).] Most of his writings deal with pedagogical methods. In this context he writes a small article *Über Satzbilder* [@trunk1895]. Much of the content of this article is included in a more wide-ranging book about teaching German language *Zur Hebung des deutschen Sprachunterrichtes* [@trunk1898: 123-127]. 
+
+Trunk's graphical analysis is inspired by Kern (see [@sec:kern1883]), who is explicitly cited [@trunk1895: 309; @trunk1898: 123]. Trunk complains about missing simplicity and clarity of all previous proposals for *Satzbilder*, so he devised his own variant. Although he mostly based his approach on Kern (using line-diagrams with the verb as the sole governor of the sentence), he adds the requirement that all leaves of the graph should be placed in the order as they occur in the sentence [@trunk1895: 310]. Specifically, the direction of the slanted lines in this graphical display is meaningful: slanted down left means the element comes before its head, while slanted down right indicates placement after the head.
+
+Just like Kern, Trunk uses code-letters in his graphical displays, which makes it actually quite hard to interpret them. This is particularly troubling when many elements with the same code co-occur in the analysis, as in [@fig:trunk1895_312] for sentence [@next a]. Noting this problm, Trunk suggests to write the words themselves on the board for clarity [@trunk1895: 314]. Alo just like Kern, Trunk uses a slightly different approach for complex sentences consisting of multiple clauses, as in [@fig:trunk1895_314] for sentence [@next b]. Here each letter indicates a clause, not an individual word.
+
+::: ex
+- Gestern schlug der Blitz in die alte Linde vor dem Hause unseres Nachbarns. [@trunk1895: 312] 
+- Wenn dein Bruder, der mir so wert und teuer ist, wie nur irgend ein Mensch es sein kann, in der Not, die ihn bedrängte, sich an mich gewendet hätte, so würde ich, was nur irgend in meinen Kräften stand, aufgeboten haben, damit er damals die Ruhe, deren er so würdig ist, wieder gewonnen hätte. [@trunk1895: 314; citing @kern1884: 56]
+:::
+
+::: {.im #trunk1895_312}
+Single-clause *Satzbild* for example sentence [@last a] from Trunk [-@trunk1895: 312]. Left-slanted lines indicate position before the head, while right-slanted lines are for elements that occur after their head. The many letters *B (=Beifügung)* are rather confusing because it is not immediately clear to which word they belong. The whole constituent marked *Uo* refers to the phrase: *in die alte* (=B left) *Linde* (=Uo) *vor dem Hause* (=B right top) *unseres* (=B right bottom) *Nachbarns* (=B right middle).
+:::
+
+::: {.im #trunk1895_314}
+Multi-clause *Satzbild* for example sentence [@last b] from Trunk [-@trunk1895: 314], analysing same as example as Kern in [@fig:kern1884_56]. Trunk's approach is much clearer that Kern's original. In this graphic, the direction of the slanted lines indicates position before of after the head. The curved lines between letters mark that this clause is interrupted by a subordinate clause. Following tradition, Trunk uses lower-case letter for subordinate clauses: *ug=Umstand des Grundes*, *uw=Umstand der Weise*, *e=Ergänzungs­satz*, *b=Beifügungssatz*.
+:::
+
+### Herič (1896) *Einige Bemerkungen zu den Trunk'schen Satzbildern*
+
+Matija (Matthias) Herič (1855-1927) was a teacher in Neukirchen (Novi Cerkvi) near Pettau (Ptuj) in the region Steiermark (today part of Slovenia).
+
+https://www.biographien.ac.at/oebl/oebl_H/Heric_Matija_1855_1927.xml
+https://www.slovenska-biografija.si/oseba/sbi229703/
+
+[@heric1896; @heric1897]
+
+Obrazci
+
 ### Toifel (1896) *Satzstellung in der Kudrun*
 
-Lehrer in Salzburg, later Ried im Innkreis
+Otto Toifel (dates unknown) was a teacher in Salzburg and later in Ried im Innkreis (Austria). He wrote a few articles in which he applied Lehmann's approach (see [@sec:lehmann1833]) to the analysis of German literature. In particular, Toifel used one-line *Satzbilder* alike to Lehmann [-@lehmann1856]. However, instead of using different script-symbols for levels of subordination, Toifel uses lower-case latin letters with superscript numbers.
 
 Many Satzbilder, Lehmann, but with supersccripts [@toifel1896;@toifel1897]
 
 Later the same with another text: [@toifel1901]
 
-### Trunk (1898) *Zur Hebung des deutschen Sprachunterrichtes*
+[@toifel1896: 19] a1 : A , b1 , b3 : b2
 
-inspired by Kern? combination Kern with Periodenbilder?
+und haete ich hundert swester, die lieze ich sterben ê,
+dann ich mich alsô starke in vremeden landen haele,
+die man mir nam mit sturme, daz ich die minen grimmen vinden staele.
+
+(a1) und hätte ich hundert Schwestern, (A) die ließ ich sterben hier,
+(b1) Eh ich mich so [gewalttätig?] in fremden Länder [verstecke?],
+(b3) die mann mir nam im Kampf, (b2) dass ich sie (von) meinen wütenden Feinden [stehle?].
 
 ### Raumer (1902) *Das Periodenbild*
 
@@ -1256,6 +1294,14 @@ Deutsche Sprachkunde in der Arbeitsschule, Leipzig 1923
 ### Langholf (1969) *Die Syntax des deutschen Amadisromans* {#sec:langholf1969}
 
 [@langholf1969: 10] own version of Periodenbau, cites Menge as inspiration!
+
+### More
+
+Trunk mentions other grammars, but not available online https://babel.hathitrust.org/cgi/pt?id=uiuo.ark:/13960/s2zqj4w2gwz&seq=60
+
+- Jauker: deutsche Sprachlehre für Lehrerbildungsanstalten https://google.com/books?id=ljGpzgEACAAJ
+- Binstorfer: deutsche Sprachschule https://google.com/books?id=tPMw0AEACAAJ
+- Löhrl: deutsches Sprachbuch https://google.com/books?id=AwtkzwEACAAJ
 
 ## Other approaches
 
