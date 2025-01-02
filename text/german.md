@@ -1230,21 +1230,28 @@ Matija (Matthias) Heric (1855-1927) was a teacher in Neukirchen (Novi Cerkvi) ne
 
 ### Toifel (1896) *Satzstellung in der Kudrun*
 
-Otto Toifel (dates unknown) was a teacher in Salzburg and later in Ried im Innkreis (Austria). He wrote a few articles in which he applied Lehmann's approach (see [@sec:lehmann1833]) to the analysis of German literature. In particular, Toifel used one-line *Satzbilder* alike to Lehmann [-@lehmann1856]. However, instead of using different script-symbols for levels of subordination, Toifel uses lower-case latin letters with superscript numbers.
+Otto Toifel (dates unknown) was a teacher in Austria, first in Salzburg and later in Ried im Innkreis. He wrote a few articles in which he applied Lehmann's graphical approach (see [@sec:lehmann1833]) to analyse examples from Middle High German literature. In particular, Toifel used one-line *Satzbilder* following Lehmann [-@lehmann1856], whom he explicitly cites. However, Toifel employs lower-case latin letters with superscript numbers for levels of subordination, instead of the different scripts used by Lehmann. 
 
-Many Satzbilder, Lehmann, but with supersccripts [@toifel1896;@toifel1897]
+Toifel applies this approach in two short articles to analyse "unusual" sentence structures in the German epic *Kudrun* [@toifel1896; @toifel1897]. A few years later he did the same for special constructions in texts by Bertold of Regensburg [@toifel1901]. An example of his analysis is the *Satzbild* shown in [@fig:toifel1896_19] for the quotation from the *Kudrun* in [@next]. The symbols in the example are not in Toifel's original, but added here for comparison with the *Satzbild*. An attempted English translation is given in [@nnext]. The special phenomenon highlighted by Toifel is the relative clause *b^3^*, which he analyses as a preposed relative clause, refering to *die* 'them' in the following clause *b^2^*.
 
-Later the same with another text: [@toifel1901]
+In his graphical analysis, Toifel uses the colon in a special way. Lehmann originally used the colon only to indicate subordinate clauses that are preposed to the main clause (i.e. clauses in the German *Vorfeld* like *a^1^* ). Toifel additionally uses the colon for subordinate clauses that are preposed to another subordinate clause, which is a highly unusual structure in German. Specifically, the fact that clause *b^3^* is subordinated and preposed to clause *b^2^* is indicated by the colon between these clauses in [@fig:toifel1896_19].
 
-[@toifel1896: 19] a1 : A , b1 , b3 : b2
+::: ex
+\(a^1^) und haete ich hundert swester, (A) die lieze ich sterben ê, \
+(b^1^) dann ich mich alsô starke in vremeden landen haele, \
+(b^3^) die man mir nam mit sturme, (b^2^) daz ich die minen grimmen vinden staele. \
+[@toifel1896: 19, citing *Kudrun* verse 1256, abbreviations added]
+:::
 
-und haete ich hundert swester, die lieze ich sterben ê,
-dann ich mich alsô starke in vremeden landen haele,
-die man mir nam mit sturme, daz ich die minen grimmen vinden staele.
+::: ex
+\(a^1^) and even if I had a hundred sisters, (A) I would rather let them die, \
+(b^1^) before I would so strong in strange lands hide, \
+(b^3^) the ones that were taken from me in battle, (b^2^) to steal them from my furious enemies.
+:::
 
-(a1) und hätte ich hundert Schwestern, (A) die ließ ich sterben hier,
-(b1) Eh ich mich so [gewalttätig?] in fremden Länder [verstecke?],
-(b3) die mann mir nam im Kampf, (b2) dass ich sie (von) meinen wütenden Feinden [stehle?].
+::: {.im #toifel1896_19}
+*Satzbild* for the example in [@llast] from Toifel [-@toifel1896: 19]. Toifel argues that the relative clause *b^3^* is actually a preposed relative clause, referring to *die* 'them' in the following clause *b^2^*. This special proposing is indicated by the colon betwen *b^3^* and *b^2^* in the figure.
+:::
 
 ### Raumer (1902) *Das Periodenbild*
 

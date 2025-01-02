@@ -246,6 +246,14 @@ Original from 1939, but not diagrams. Takes over Bonnard-style diagrams in 25th 
 
 I thank María José García Folgado for many suggestions
 
+### Escriche y Mieg & Fernández Iparraguirre (1884)
+
+Tomás Escriche y Mieg (1844-1918) and Francisco Fernández Iparraguirre (1852-1889)
+
+large fold-out page between p124-125 (word classes) and between p146-147 (syntactic functions)
+
+> Es muy práctico y útil para el conocimiento de esta parte de la Gramática, que los alumnos se acostumbren a ordenar, en la forma que hemos dicho, los diversos elementos de la proposicion; este trabajo no es nuevo, es precisamente el que resulta de practicar el análisis de aquélla por medio del cuadro de la página 146, que nos hace ver desde luego todas las inversiones que existen. [@escriche1884: 153]
+
 ### Cordero (1907) *Gramática de la lengua castellana*
 
 Francisco Febres Cordero (1854-1910), also known as "brother Miguel" in the Ecuadorian brotherhood *Hermanos de las Escuelas Christiana* [@montoro-del-arco2023: 169-171].
