@@ -1194,7 +1194,7 @@ Ein munterer Sennbub aus einem Dorfe in der Schweiz stieg eines Tages auf einem 
 *Satzbild* for the example sentenence in [@last] from Dinkel [-@dinkel1895: 634]. The numbers indicate cases (2=genitive, 3=dative, 4=accusative), ignoring the fact that the cases are governed by prepositions. Of particular interest is the use of nested brackets to indicate hierarchical structure.
 :::
 
-### Trunk (1895) *Über Satzbilder*
+### Trunk (1895) *Über Satzbilder* {#sec:trunk1895}
 
 Hans Trunk (1847-1929) was a teacher and school director in Graz (Austria).^[I have not been able to find much biographical information about Hans Trunk. HathiTrust provides a birthyear (<https://catalog.hathitrust.org/Record/102143919>) and *Kürschners Deutscher Literatur-Kalender* (1930: 1524) lists his death, but without precise date (<https://doi.org/10.1515/9783112340301>).] Most of his writings deal with pedagogical methods. In this context he writes a small article *Über Satzbilder* [@trunk1895]. Much of the content of this article is included in a more wide-ranging book about teaching German language *Zur Hebung des deutschen Sprachunterrichtes* [@trunk1898: 123-127]. 
 
@@ -1215,16 +1215,18 @@ Single-clause *Satzbild* for example sentence [@last a] from Trunk [-@trunk1895:
 Multi-clause *Satzbild* for example sentence [@last b] from Trunk [-@trunk1895: 314], analysing same as example as Kern in [@fig:kern1884_56]. Trunk's approach is much clearer that Kern's original. In this graphic, the direction of the slanted lines indicates position before of after the head. The curved lines between letters mark that this clause is interrupted by a subordinate clause. Following tradition, Trunk uses lower-case letter for subordinate clauses: *ug=Umstand des Grundes*, *uw=Umstand der Weise*, *e=Ergänzungs­satz*, *b=Beifügungssatz*.
 :::
 
-### Herič (1896) *Einige Bemerkungen zu den Trunk'schen Satzbildern*
+### Heric (1896) *Einige Bemerkungen zu den Trunk'schen Satzbildern* {#sec:heric1896}
 
-Matija (Matthias) Herič (1855-1927) was a teacher in Neukirchen (Novi Cerkvi) near Pettau (Ptuj) in the region Steiermark (today part of Slovenia).
+Matija (Matthias) Heric (1855-1927) was a teacher in Neukirchen (Novi Cerkvi) near Pettau (Ptuj) in the region Steiermark (today part of Slovenia). More biographical details are available in Šlebinger [-@slebinger1926]. He wrote a short article expanding upon Trunk's approach (see [@sec:trunk1895]), specifically discussion nominal predication. Heric used the same graphical approach also in a short article about his native Slovene, using the name *obrazec* 'formula' (plural *obrazci*) for the graphical display [@heric1897]. As an example of Heric's approach, the analysis for his examples in [@next] is shown in [@fig:heric1896_268].
 
-https://www.biographien.ac.at/oebl/oebl_H/Heric_Matija_1855_1927.xml
-https://www.slovenska-biografija.si/oseba/sbi229703/
+::: ex
+- Diese Blume wird Schneeglöckchen genannt.
+- Wir nennen diese Blume Schneeglöckchen.
+:::
 
-[@heric1896; @heric1897]
-
-Obrazci
+::: {.im #heric1896_268}
+*Satzbilder* for the example sentences in [@last] from Herič [-@heric1896: 264]. He analyses the noun *Schneeglöckchen* as a predicative element, either in the nominative case as *Pn* [@last a] or the accusative case as *Pa* [@last b].  The finite verb is always the centre of the display, so in a passive senctence like [@last a] all arguments are attached to the finite auxiliary *wird* and the lexical verb *genannt* is linked to the auxiliary with an arch.
+:::
 
 ### Toifel (1896) *Satzstellung in der Kudrun*
 
