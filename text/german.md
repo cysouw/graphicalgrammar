@@ -839,7 +839,7 @@ For the inspiration of the *Periodenbilder* he cites Götzinger (see [@sec:götz
 
 ### Sanders (1879) *Deutsche Sprachbriefe* {#sec:sanders1879}
 
-Daniel Sanders (1819-1897) was a school director in Strelitz and is most well-known for his lexicographical work [biographical details in @hasszumkehr1995]. He also wrote a German grammar *Deutsche Sprachlehre für Volks- und Bürgerschulen* [@sanders1876], but it contains almost no analysis of sentence structure. Relevant for the topic of graphical analysis are his *Deutsche Sprachbriefe* [@sanders1879], a collection of instructional texts about grammar and style addressed to a general audience. It is a collection of short explanations of grammatical phenomena, illustrated with literary examples. There are also many exercises with solutions appearing in later issues. 
+Daniel Sanders (1819-1897) was a school director in Strelitz and private scholar after his shool had to close. He is most well-known for his lexicographical work [biographical details in @hasszumkehr1995]. He also wrote a German grammar *Deutsche Sprachlehre für Volks- und Bürgerschulen* [@sanders1876], but it contains almost no analysis of sentence structure. Relevant for the topic of graphical analysis are his *Deutsche Sprachbriefe* [@sanders1879], a collection of instructional texts about grammar and style addressed to a general audience. It is a collection of short explanations of grammatical phenomena, illustrated with literary examples. There are also many exercises with solutions appearing in later issues. 
 
 Starting in the 10th issue, he introduces the concept of *Satzbild* [@sanders1879: 167]. Subordinate clauses are indicated by a lower-case letter corresponding to the capital for the main clause. Coordinated subordinate clauses are indicated by a number before the letter (e.g. *2a*), while superscript numbers and different typefaces are used for the depth of the embedding (e.g. *𝔞^2^* using a small fraktur letter *a*). These conventions are closest to the original abbreviations introduced by Herling all the way back in 1823 (see [@fig:herling1832_232]).
 
@@ -1255,9 +1255,19 @@ In his graphical analysis, Toifel uses the colon in a special way. Lehmann origi
 
 ### Raumer (1902) *Das Periodenbild*
 
-Siegmund von Raumer (1860-1939), Gymnasiallehrer in Erlangen
+Siegmund von Raumer (1860-1939) was a teacher in Erlangen. He wrote a short article about *Periodenbilder* complaining about their complexity and unsuitability for usage in education. He is particularly critical of Kern (cf. [@sec:kern1883]), discussing the example shown earlier in [@fig:kern1884_56]. Just like Kern himself, Raumer also misses that there is an error in that graphic. 
 
-New proposal for *Periode*, reaction to Lehmann and subsequent proposals. Very short, only one example of his proposal (using multiple lines) [@raumer1902: 63]
+As a summary of his criticism Raumer presents various renditions of *Periodenbilder* for the same complex sentence, repeated here in [@next]. Two different proposals by Kern are illustrated, alongside displays in the style of Nägelsbach (cf. [@sec:nägelsbach1846]) and Götzinger (cf. [@sec:götzinger1836]). I have not been able to find the source of proposal number (3) in [@fig:raumer1902_63]. There is no citation in the article itself, and none of the proposals currently discussed in this book look like this *Periodenbild*.
+
+The last proposal (6) is the one preferred by Raumer. He argues for a simple illustration, that is easy to grasp and might actually help to understand the sentence. Each clause is given a different letter, with main clauses in capitals and subordinate clauses in lower-case letters. Multiple occurrences of the same letter indicate that the clause is separated into parts by another clause. The left-right ordering follows the order of the sentence, while the top-down ordering indicates the depth of the embedding. In effect, Raumer's proposal is very close the the various music-score visualisation for complex sentences, for example by Diesterweg (see [@fig:diesterweg1834_169]) or Schlecht (see [@fig:schlecht1856_79]). However, Raumer does not explicitly cite any of these earlier proposals.
+
+::: ex
+Bei der grossen Trennung, welche das Evangelium Jesu, sobald es gepredigt wurde, zwischen seinen Anhängern und zwischen Juden und Heiden hervorbrachte, mussten unzählige Handlungen, die man sonst für erlaubt oder wohl gar für pflichmässig hielt, zweideutig und verdächtig werden. [@raumer1902: 63, citing an example from Götzinger]
+:::
+
+::: {.im #raumer1902_63}
+Various *Periodenbilder* for the complex sentence in [@last] from the article of Raumer [-@raumer1902: 63]. The proposals (1) through (5) are only shown to argue that they are not practical for use in education. The last proposal (6) is the one preferred by Raumer. In this visualisation, each clause is given a different letter, repeated letters indicate separated parts of the same clause. Left-right direction follows the order of the sentence, top-bottom direction indicates depth of embedding. In effect, this display is quite similar to the various music-score visualisations, 
+:::
 
 ### Mensing (1903) *Deutsche Grammatik für höhere Schulen*
 
@@ -1303,6 +1313,15 @@ Deutsche Sprachkunde in der Arbeitsschule, Leipzig 1923
 ### Langholf (1969) *Die Syntax des deutschen Amadisromans* {#sec:langholf1969}
 
 [@langholf1969: 10] own version of Periodenbau, cites Menge as inspiration!
+
+### Schulze (1883) *Adiumenta Latinitatis*
+
+Ernst Hendrik Ferdinand Schulze (1842-???) teacher and school director in St. Petersburg. 
+
+Very simple *Periodenbilder*, showing differences between German and Latin [@schulze1883: 116-122]
+
+https://babel.hathitrust.org/cgi/pt?id=uiug.30112023846709&seq=67
+https://babel.hathitrust.org/cgi/pt?id=mdp.39015062946952&seq=133
 
 ### More
 
