@@ -1304,11 +1304,26 @@ Gustav Schuberth (1850-1922) was a director of a school in Großenhain. In the 3
 
 ### Erman (1913) *Stellung und Funktion der Nebensätze*
 
-Konrad Bessel Erman (1888-)
+Konrad Bessel Erman (1888-1915) died a young man in the First World War, shortly after he finished his dissertation in Bonn [@erman1913a; the actual dissertation was only the first part, see @erman1913]. A short obituary is given by Schulze [-@schulze1917] and a biographical eulology is provided by his mourning father [@erman1916]. 
 
-Dissertation *Beziehungen zwischen Stellung und Funktion der Nebensätze mehrfacher Unterordnung im Althochdeutschen* [@erman1913]
+In his dissertation, called *Beziehungen zwischen Stellung und Funktion der Nebensätze mehrfacher Unterordnung im Althochdeutschen*, Erman investigates different kinds of subordination in Old High German texts. He uses a symbolic representation to characterise the structure of complex sentences [@erman1913a: 4-5], but refrains from calling them *Periodenbild* or *Satzbild*, although he cites various authors that use *Periodenbilder* for similar purposes [viz. @lehmann1856; @esser1878; @toifel1897; @toifel1901]. 
 
-cites [@lehmann1856; @esser1878; @toifel1897; @toifel1901]
+Erman's symbolic representation is rather different from his predecessors. An example of his display is shown in [@fig:erman1913_38] for the Old High German sentence in [@next a]. This sentence is from the 9th Century *Tatian* translation of the the Gospel of Luke. A word-by-word etymological equivalence into modern German is given in [@next b]. The Old High German translation follows the Latin structure [@next c], in which the verb *venit* of the first subordinate clause (marked *b* in the graphic) is separated by the second subordinate clause (marked *c* in the graphic). All this is placed before the main clause (marked *a* in the graphic).
+
+::: ex
+- \(b) ouh after thiu theser thin sun, (c) ther thar fraz alla sina heht mit huorun, (b) quam, (a) arsluogi imo gifuotrit calb. \
+  [@erman1913a: 39, citing Tatian 97,7,7. Letters added akin to the figure]
+- \(b) auch achter-dem dieser dein Sohn, (c) der dort fraß all seine Echt mit Huren, (b) kam, (c) erschlägst ihm gefuttertes Kalb. \
+  (Modern German etymological equivalence)
+- \(b) sed postquam filius tuus hic (c) qui devoravit substantiam suam cum meretricibus (b) venit (a) occidisti illi vitulum saginatum. \
+  (Vulgate, Luke 15:30)
+- But when this son of yours came, who has devoured your property with prostitutes, you killed the fattened calf for him! \
+  (English Standard Version, Luke 15:30)
+:::
+
+::: {.im #erman1913_38}
+Symbolic representation of the Old High German sentence from Luke 15:30 [@last] in the analysis of Erman [-@erman1913a: 38]. Erman uses his own symbolic representation, starting with *a* for the main clause, followed by subsequent letters for subordinate clauses. The arches combine parts of a clause that are separated by another clause. The "less-than" sign indicates the direction of subordination, though this is also evident from the alphabetical order.
+:::
 
 ### Pfannkuchen (1914) *Periodenbau*
 
@@ -1353,6 +1368,10 @@ Trunk mentions other grammars, but not available online https://babel.hathitrust
 - Jauker: deutsche Sprachlehre für Lehrerbildungsanstalten https://google.com/books?id=ljGpzgEACAAJ
 - Binstorfer: deutsche Sprachschule https://google.com/books?id=tPMw0AEACAAJ
 - Löhrl: deutsches Sprachbuch https://google.com/books?id=AwtkzwEACAAJ
+
+Meyer-Lübke uses SVOPA abbreviations https://archive.org/details/grammatikderrom00meyegoog/page/799/mode/2up
+
+Inspiration for Friedrich Feigl: https://opac.ku.de/s/uei/de/2/-1+%3D+%22Friedrich+feigl%22+filter%281280%3D%22%3C%3D1908%22%29
 
 ## Other approaches
 
