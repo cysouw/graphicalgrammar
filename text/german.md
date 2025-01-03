@@ -1271,13 +1271,36 @@ Various *Periodenbilder* for the complex sentence in [@last] from the article of
 
 ### Mensing (1903) *Deutsche Grammatik für höhere Schulen*
 
-cited here "Hilfsbuch" from 1927, but from preface it seems like the graphics have not changed [@mensing1927]. biography [@molzow2000]
+Otto Ludwig Theodor Mensing (1868-1939) was a teacher in Kiel and wrote extensively about Low German grammar. He is most well-known for his *Schleswig-Holsteinische Wörterbuch*. More biographical information is available in Molzow [-@molzow2000].
 
-Only schema in [@mensing1913: 54], no concrete examples. Same schema as [@mensing1927: 86]
+Mensing wrote various textbooks, among them the *Deutsche Grammatik für höhere Schulen*. His textbooks were very popular and appeared in various editions up to 1965. As Molzow [-@molzow2000: 1759] notes, textbooks are often treated as consumer goods and are not always properly archived. The many versions and editions of Mensing's textbooks needs a more detailed investigation. As for the grammar, there appear to be four main versions:
+
+- The first edition of the *Deutsche Grammatik für höhere Schulen* appeared in 1903. 
+- A separate *Ausgabe B für höhere Mädchenschulen* appeared with the 8th edition of 1910. This version is cited here as Mensing [-@mensing1913].
+- A revised *Ausgabe C* appeared with the 25th edition of 1925, following a revision of the Prussian teaching guidelines. Probably coinciding with this revision, the grammar was renamed *Deutsche Sprachlehre* and it became volume 2 of the series *Hilfsbuch für den deutschen Unterricht auf höheren Schulen*. This version is cited here as Mensing [-@mensing1927].
+- In 1954 a revision was prepared by Wolfgang Petersen, reprinted at least until an 8th edition of 1965.
+
+Only schema in [@mensing1913: 54], no concrete examples. Same schema as [@mensing1927: 86]. In the 1927 version there are concrete examples under the heading *Satzbilder*. *Satzbild* very similar to C~2~ revision of Lyon's *Handbuch* [@lyon1919], see [@fig:lyon1919_122].
+
+::: ex
+Der kleine Sohn des Bauerns brachte den durstigen Wanderer schnell einen Trunk kühlen Wassers.
+:::
+
+::: {.im #mensing1927_88}
+*Satzbild* for the examples sentence in [@last] from Mensing [-@mensing1927: 88].
+:::
 
 ### Schuberth (1908) *Deutsche Satzbilder*
 
-Gustav Schuberth (1850-1922), Schuldirektor in Großenhain [@schuberth1908]
+Gustav Schuberth (1850-1922) was a director of a school in Großenhain. In the 33th yearbook of his school he wrote a short paper [@schuberth1908], exemplifying how *Satzbilder* can be used to analyse a text. He took the first few pages of Schiller's *Geschichte des dreißigjährigen Kriegs* and analysed all sentences with a simplified one-lined *Satzbild*. As an example of his notational system, Schiller's sentence in [@next] is analysed by Schuberth as shown in [@fig:schuberth1908_7]. I have added the abbreviations from the figure into the example below in italics.
+
+::: ex
+*A/~2~* In keinem andere Falle, *(v)* als unter diesem, *A/~2~* war es den schwächern Fürsten möglich, *(g)* die außerordentlichen Anstrengungen von ihren Ständen zu erzwingen, *e* wodurch sie der österreichischen Macht widerstanden; *(A)* in keinem andern Falle den Staaten möglich, *(g)* sich gegen einen gemeinschaftlichen Feind zu vereinigen.
+:::
+
+::: {.im #schuberth1908_7}
+*Satzbild* for the example from Schiller in [@last] as analysed by Schuberth [-@schuberth1908: 7]. He uses the notation */~2~* for parts of separated clauses, round brackets for non-finite clauses, and different letters for kinds of subordinate clauses (e.g. *g=Gegenstand* for complement clauses or *e=Eigentschaft* for relative clauses). He considers the indication of the depth of embedding to be superfluous [@schuberth1908: 4].
+:::
 
 ### Erman (1913) *Stellung und Funktion der Nebensätze*
 
