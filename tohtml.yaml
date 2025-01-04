@@ -15,6 +15,7 @@ defaults:
 filters:
 - filters/setdate.lua
 - filters/setCaptions.lua
+- filters/setGrey.lua
 - filters/inline-footnotes.lua
 - filters/strikeout-to-smallcaps.lua
 - filters/toc-css.lua

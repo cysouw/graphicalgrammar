@@ -1292,10 +1292,10 @@ Der kleine Sohn des Bauerns brachte den durstigen Wanderer schnell einen Trunk k
 
 ### Schuberth (1908) *Deutsche Satzbilder*
 
-Gustav Schuberth (1850-1922) was a director of a school in Großenhain. In the 33th yearbook of his school he wrote a short paper [@schuberth1908], exemplifying how *Satzbilder* can be used to analyse a text. He took the first few pages of Schiller's *Geschichte des dreißigjährigen Kriegs* and analysed all sentences with a simplified one-lined *Satzbild*. As an example of his notational system, Schiller's sentence in [@next] is analysed by Schuberth as shown in [@fig:schuberth1908_7]. I have added the abbreviations from the figure into the example below in italics.
+Gustav Schuberth (1850-1922) was a director of a school in Großenhain. In the 33th yearbook of his school he wrote a short paper [@schuberth1908], exemplifying how *Satzbilder* can be used to analyse a text. He took the first few pages of Schiller's *Geschichte des dreißigjährigen Kriegs* and analysed all sentences with a simplified one-lined *Satzbild*. As an example of his notational system, Schiller's sentence in [@next] is analysed by Schuberth as shown in [@fig:schuberth1908_7]. I have added the abbreviations from the figure into the example below.
 
 ::: ex
-*A/~2~* In keinem andere Falle, *(v)* als unter diesem, *A/~2~* war es den schwächern Fürsten möglich, *(g)* die außerordentlichen Anstrengungen von ihren Ständen zu erzwingen, *e* wodurch sie der österreichischen Macht widerstanden; *(A)* in keinem andern Falle den Staaten möglich, *(g)* sich gegen einen gemeinschaftlichen Feind zu vereinigen.
+[A/~2~]{.grey} In keinem andere Falle, [(v)]{.grey} als unter diesem, [A/~2~]{.grey} war es den schwächern Fürsten möglich, [(g)]{.grey} die außerordentlichen Anstrengungen von ihren Ständen zu erzwingen, [e]{.grey} wodurch sie der österreichischen Macht widerstanden; [(A)]{.grey} in keinem andern Falle den Staaten möglich, [(g)]{.grey} sich gegen einen gemeinschaftlichen Feind zu vereinigen.
 :::
 
 ::: {.im #schuberth1908_7}
@@ -1311,11 +1311,11 @@ In his dissertation, called *Beziehungen zwischen Stellung und Funktion der Nebe
 Erman's symbolic representation is rather different from his predecessors. An example of his display is shown in [@fig:erman1913_38] for the Old High German sentence in [@next a]. This sentence is from the 9th Century *Tatian* translation of the the Gospel of Luke. A word-by-word etymological equivalence into modern German is given in [@next b]. The Old High German translation follows the Latin structure [@next c], in which the verb *venit* of the first subordinate clause (marked *b* in the graphic) is separated by the second subordinate clause (marked *c* in the graphic). All this is placed before the main clause (marked *a* in the graphic).
 
 ::: ex
-- \(b) ouh after thiu theser thin sun, (c) ther thar fraz alla sina heht mit huorun, (b) quam, (a) arsluogi imo gifuotrit calb. \
-  [@erman1913a: 39, citing Tatian 97,7,7. Letters added akin to the figure]
-- \(b) auch achter-dem dieser dein Sohn, (c) der dort fraß all seine Echt mit Huren, (b) kam, (c) erschlägst ihm gefuttertes Kalb. \
+- [b]{.grey} ouh after thiu theser thin sun, [c]{.grey} ther thar fraz alla sina heht mit huorun, [b]{.grey} quam, [a]{.grey} arsluogi imo gifuotrit calb. \
+  [@erman1913a: 39, citing Tatian 97,7,7]
+- [b]{.grey} auch achter-dem dieser dein Sohn, [c]{.grey} der dort fraß all seine Echt mit Huren, [b]{.grey} kam, [a]{.grey} erschlägst ihm gefuttertes Kalb. \
   (Modern German etymological equivalence)
-- \(b) sed postquam filius tuus hic (c) qui devoravit substantiam suam cum meretricibus (b) venit (a) occidisti illi vitulum saginatum. \
+- [b]{.grey} sed postquam filius tuus hic [c]{.grey} qui devoravit substantiam suam cum meretricibus [b]{.grey} venit [a]{.grey} occidisti illi vitulum saginatum. \
   (Vulgate, Luke 15:30)
 - But when this son of yours came, who has devoured your property with prostitutes, you killed the fattened calf for him! \
   (English Standard Version, Luke 15:30)
@@ -1327,18 +1327,23 @@ Symbolic representation of the Old High German sentence from Luke 15:30 [@last] 
 
 ### Pfannkuchen (1914) *Periodenbau*
 
-Wilhelm Pfannkuchen (1887-), dissertation in Giessen with Otto Behagel [@pfannkuchen1914], teacher in Darmstadt. cites Kern, Gelbe, Lehmann, but seems mainly influenced by [@lehmann1852]
+Wilhelm Pfannkuchen (born 1887) wrote a dissertation in Giessen with Otto Behagel [@pfannkuchen1914]. I have not been able to find any further reliable information about his biography.^[Pfannkuchen writes in his dissertation that he started teaching at the Ludwig-Georgs-Gymnasium in Darmstadt in 1914 [@pfannkuchen1914: 67]. The yearbook of that Gymnasium for 1915 notes that he is let go to become the director of a private school, see page 10 of <https://nbn-resolving.org/urn:nbn:de:hbz:061:1-718811>. Pfannkuchen appears to have edited some plays by Schiller in 1930. There is an entry for a Dr. phil. Wilhelm Pfannkuchen in the Addressbook of Gotha in 1949 <http://www.adressbuecher.net/addressbook/entry/54747dd11e6272f5d1ca01dc>.] Pfannkuchen's dissertation *Periodenbau in Goethes und Schillers größeren Dichtungen* is basically a long list of references to sentences in the works of Goethe and Schiller, organised by the structure of their subordination. For complex sentences, consisting of three or more clauses, he uses a graphical display to illustrate their structure [@pfannkuchen1914: 39-63]. He cites various previous authors who use a graphical display with similar goals [viz. @lehmann1852; @diringer1878; @gelbe1880; @kern1883a], but in the end Pfannkuchen's graphics are a new combination of these widespread ideas. 
+
+An example of Pfannkuchen's graphical analysis is shown in [@fig:pfannkuchen1914_60] for the *Periode* from Friedrich Schiller in [@next]. The top-down ordering indicates depth of embedding and the left-right ordering corresponds to the actual ordering of the clauses in the sentence. Dots are used when a clause is separated by another clause and the plus-symbols is used for coordination.
 
 ::: ex
-Und hast du dem Befehle deines Gottes,
-Der in des Feld dich rief, genug getan
-So wirst du deine Waffen von dir legen
-Und wiederkehren zu dem sanfteren
-Geschlecht, das du verleugnet hast, das nicht
-Berufen ist zum blut'gen Werk der Waffen. (Schiller, Jungfrau von Orleans)
+[Kond]{.grey} Und hast du dem Befehle deines Gottes, \
+[Relſ.]{.grey} Der in des Feld dich rief, [..ſ.]{.grey} genug getan \
+[Ausſ.]{.grey} So wirst du deine Waffen von dir legen \
+[+Ausſ.]{.grey} Und wiederkehren zu dem sanfteren \
+Geschlecht, [Relſ.]{.grey} das du verleugnet hast, [+Relſ.]{.grey} das nicht \
+Berufen ist zum blut'gen Werk der Waffen. \
+[@pfannkuchen1914: 56, citing Schiller *Jungfrau von Orleans*]
 :::
 
-example p.60
+::: {.im #pfannkuchen1914_60}
+*Periodenbau* for the example from Schiller in [@last] as analysed by Pfannkuchen [-@pfannkuchen1914: 60]. The vertical dimension indicates depth of embedding, the left-to-right ordering corresponds to the actual ordering of the clauses. Abbreviations apparently mean: *Ausſ.=Aussagesatz*, *Kondſ.=Konditionalsatz*, *Relſ.=Relativsatz*. The plus-symbol marks coordination. The dots indicate that the clause is separated by another subordinated clause.
+:::
 
 ### Müller (1921) *Vom Deutschunterricht in der Arbeitsschule*
 
