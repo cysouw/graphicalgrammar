@@ -884,7 +884,7 @@ Heißen Sie den Hausdiener meinen Reisesack in mein Zimmer im zweiten Stockwerk 
 Clause-internal structure of the example sentence in [@last] from Blatz [-@blatz1896: 45]. This analysis has the verb (*heißen*) alone at the top, with all constituents hanging down from it (not all lines are explicitly drawn, which makes the image quite confusing). All earlier line-drawing have subject and predicate equally placed on the top. This verb-centric analysis is probably inspired by Kern (see Figure ???), whose method was published between the second and third edition of Blatz' book.
 :::
 
-### Götzinger (1880) *Deutsche Grammatik in genetischer Darstelllung* {#sec:götzinger1880}
+### Götzinger (1880) *Deutsche Grammatik* {#sec:götzinger1880}
 
 Ernst Götzinger (1837-1896), son of Maximilian Götzinger (see [@sec:götzinger1836]), was a teacher in St. Gallen (Switzerland). He wrote extensively about local history, German literature and he reissued his father's books after his death [more biographical details in @dierauer1897]. He also wrote a grammar *Deutsche Grammatik in genetischer Darstelllung* [@gotzinger1880] in which he criticised the *Periodenbilder* of Lehmann (see [@sec:lehmann1833]) and proposes an alternative. Intriguingly, he does not mention his father's graphical approach, with which he would have been intimately familiar.
 
@@ -982,9 +982,9 @@ Second, Kern does not like the notion of *bekleidetet* 'dressed' sentences. His 
 >
 > ('A rather superfluous, though less harmfull terminology, is the one of *nackte* 'naked' and *bekleidete* 'dressed' (or *umkleidete* 'around-dressed') sentences. … In this terminology modifiers, instead of thinking about them as branches and leaves, are preferably imagined as shirt, skirt and waistcoat. I consider this image to be neither fitting nor tasteful.')
 
-### Willomitzer (1885) *Deutsche Grammatik für österreichische Mittelschulen* {#sec:willomitzer1885}
+### Willomitzer (1885) *Deutsche Grammatik* {#sec:willomitzer1885}
 
-Franz Willomitzer (1847-1910) was a teacher for German language and history in Vienna. His book *Deutsche Grammatik für österreichische Mittelschulen* first appeared in 1879 and was revised and reprinted many times up to a 23th edition in 1930. After the death of Willomitzer the book was further developed by Johann Tschinkel. He renamed the book to *Deutsche Sprachlehre für Mittelschulen* and strongly reduced the number of visualisations, with eventually only a single unexplained graphic remaining [@tschinkel1921: 242].
+Franz Willomitzer (1847-1910) was a teacher for German language and history in Vienna, Austria. His book *Deutsche Grammatik für österreichische Mittelschulen* first appeared in 1879 and was revised and reprinted many times up to a 23th edition in 1930. After the death of Willomitzer the book was further developed by Johann Tschinkel. He renamed the book to *Deutsche Sprachlehre für Mittelschulen* and strongly reduced the number of visualisations, with eventually only a single unexplained graphic remaining [@tschinkel1921: 242].
 
 In the first edition Willomitzer uses a numbered table to analyse a sentence, in the style of Becker (see [@sec:becker1829]). The analysis of the sentence *Finsternis bedeckt die Erde* 'darkness envelops the earth' is shown in [@fig:willomitzer1879_123] [@willomitzer1879: 123]. Just like Becker, Willomitzer uses reference to the row-numbers to clarify the dependency structure. However, different from Becker, Willomitzer does not add any dependency between subject and predicate (similar to Fürg, see [@sec:fürg1847]). Unfortunately, this example sentence is actually way too simple to really clarify the intentions of Willomitzer, and there are no other, more complex examples presented of this analytic approach. Exactly the same figure is repeated in later editions [@willomitzer1882: 109; -@willomitzer1885: 122; -@willomitzer1894: 113].
 
@@ -1166,7 +1166,7 @@ Kuderna extols his own system because of the transparent usage of the letters (*
 *Satzbild* for a complex clause with multiple subordinate clauses [@last b] from Kuderna [-@kuderna1895: 52]. The striked-through *N* indicates a non-finite *zu-Infinitiv* subordinate clause. The ordering of the subordinate clauses in the *Satzbild* is strictly left-to-right and top-to-bottom. However, Kuderna does not mark clause-internal subordination. This leads to clauses that are separated into multiple parts, and these impede the interpretation of a *Satzbild*.
 :::
 
-### Gloël (1895) *Schriftliche Übersetzung aus dem Griechischen*
+### Gloël (1895) *Schriftliche Übersetzung aus dem Griechischen* {#sec:gloël1895}
 
 Heinrich Gloël (1855-1940) was a teacher and literary scholar, first in Wesel and and later in Wetzlar. He started as a classical scholar, writing a disseration about the Greek play *Hippolytos* by Eurypides and teaching classical languages. Later in life he specialized in critical evaluations of texts of Goeths (more biographical information in Flender 1983).
 
@@ -1215,7 +1215,7 @@ Single-clause *Satzbild* for example sentence [@last a] from Trunk [-@trunk1895:
 Multi-clause *Satzbild* for example sentence [@last b] from Trunk [-@trunk1895: 314], analysing same as example as Kern in [@fig:kern1884_56]. Trunk's approach is much clearer that Kern's original. In this graphic, the direction of the slanted lines indicates position before of after the head. The curved lines between letters mark that this clause is interrupted by a subordinate clause. Following tradition, Trunk uses lower-case letter for subordinate clauses: *ug=Umstand des Grundes*, *uw=Umstand der Weise*, *e=Ergänzungs­satz*, *b=Beifügungssatz*.
 :::
 
-### Heric (1896) *Einige Bemerkungen zu den Trunk'schen Satzbildern* {#sec:heric1896}
+### Heric (1896) *Bemerkungen zu den Trunk'schen Satzbildern* {#sec:heric1896}
 
 Matija (Matthias) Heric (1855-1927) was a teacher in Neukirchen (Novi Cerkvi) near Pettau (Ptuj) in the region Steiermark (today part of Slovenia). More biographical details are available in Šlebinger [-@slebinger1926]. He wrote a short article expanding upon Trunk's approach (see [@sec:trunk1895]), specifically discussion nominal predication. Heric used the same graphical approach also in a short article about his native Slovene, using the name *obrazec* 'formula' (plural *obrazci*) for the graphical display [@heric1897]. As an example of Heric's approach, the analysis for his examples in [@next] is shown in [@fig:heric1896_268].
 
@@ -1228,7 +1228,7 @@ Matija (Matthias) Heric (1855-1927) was a teacher in Neukirchen (Novi Cerkvi) ne
 *Satzbilder* for the example sentences in [@last] from Herič [-@heric1896: 264]. He analyses the noun *Schneeglöckchen* as a predicative element, either in the nominative case as *Pn* [@last a] or the accusative case as *Pa* [@last b].  The finite verb is always the centre of the display, so in a passive senctence like [@last a] all arguments are attached to the finite auxiliary *wird* and the lexical verb *genannt* is linked to the auxiliary with an arch.
 :::
 
-### Toifel (1896) *Satzstellung in der Kudrun*
+### Toifel (1896) *Satzstellung in der Kudrun* {#sec:toifel1896}
 
 Otto Toifel (dates unknown) was a teacher in Austria, first in Salzburg and later in Ried im Innkreis. He wrote a few articles in which he applied Lehmann's graphical approach (see [@sec:lehmann1833]) to analyse examples from Middle High German literature. In particular, Toifel used one-line *Satzbilder* following Lehmann [-@lehmann1856], whom he explicitly cites. However, Toifel employs lower-case latin letters with superscript numbers for levels of subordination, instead of the different scripts used by Lehmann. 
 
@@ -1253,7 +1253,7 @@ In his graphical analysis, Toifel uses the colon in a special way. Lehmann origi
 *Satzbild* for the example in [@llast] from Toifel [-@toifel1896: 19]. Toifel argues that the relative clause *b^3^* is actually a preposed relative clause, referring to *die* 'them' in the following clause *b^2^*. This special proposing is indicated by the colon betwen *b^3^* and *b^2^* in the figure.
 :::
 
-### Raumer (1902) *Das Periodenbild*
+### Raumer (1902) *Das Periodenbild* {#sec:raumer1902}
 
 Siegmund von Raumer (1860-1939) was a teacher in Erlangen. He wrote a short article about *Periodenbilder* complaining about their complexity and unsuitability for usage in education. He is particularly critical of Kern (cf. [@sec:kern1883]), discussing the example shown earlier in [@fig:kern1884_56]. Just like Kern himself, Raumer also misses that there is an error in that graphic. 
 
@@ -1269,7 +1269,7 @@ Bei der grossen Trennung, welche das Evangelium Jesu, sobald es gepredigt wurde,
 Various *Periodenbilder* for the complex sentence in [@last] from the article of Raumer [-@raumer1902: 63]. The proposals (1) through (5) are only shown to argue that they are not practical for use in education. The last proposal (6) is the one preferred by Raumer. In this visualisation, each clause is given a different letter, repeated letters indicate separated parts of the same clause. Left-right direction follows the order of the sentence, top-bottom direction indicates depth of embedding. In effect, this display is quite similar to the various music-score visualisations, 
 :::
 
-### Mensing (1903) *Deutsche Grammatik für höhere Schulen*
+### Mensing (1903) *Deutsche Grammatik für höhere Schulen* {#sec:mensing1903}
 
 Otto Ludwig Theodor Mensing (1868-1939) was a teacher in Kiel and wrote extensively about Low German grammar. He is most well-known for his *Schleswig-Holsteinische Wörterbuch*. More biographical information is available in Molzow [-@molzow2000].
 
@@ -1290,7 +1290,7 @@ Der kleine Sohn des Bauerns brachte den durstigen Wanderer schnell einen Trunk k
 *Satzbild* for the examples sentence in [@last] from Mensing [-@mensing1927: 88].
 :::
 
-### Schuberth (1908) *Deutsche Satzbilder*
+### Schuberth (1908) *Deutsche Satzbilder* {#sec:schuberth1908}
 
 Gustav Schuberth (1850-1922) was a director of a school in Großenhain. In the 33th yearbook of his school he wrote a short paper [@schuberth1908], exemplifying how *Satzbilder* can be used to analyse a text. He took the first few pages of Schiller's *Geschichte des dreißigjährigen Kriegs* and analysed all sentences with a simplified one-lined *Satzbild*. As an example of his notational system, Schiller's sentence in [@next] is analysed by Schuberth as shown in [@fig:schuberth1908_7]. I have added the abbreviations from the figure into the example below.
 
@@ -1302,7 +1302,7 @@ Gustav Schuberth (1850-1922) was a director of a school in Großenhain. In the 3
 *Satzbild* for the example from Schiller in [@last] as analysed by Schuberth [-@schuberth1908: 7]. He uses the notation */~2~* for parts of separated clauses, round brackets for non-finite clauses, and different letters for kinds of subordinate clauses (e.g. *g=Gegenstand* for complement clauses or *e=Eigentschaft* for relative clauses). He considers the indication of the depth of embedding to be superfluous [@schuberth1908: 4].
 :::
 
-### Erman (1913) *Stellung und Funktion der Nebensätze*
+### Erman (1913) *Stellung und Funktion der Nebensätze* {#sec:erman1913}
 
 Konrad Bessel Erman (1888-1915) died a young man in the First World War, shortly after he finished his dissertation in Bonn [@erman1913a; the actual dissertation was only the first part, see @erman1913]. A short obituary is given by Schulze [-@schulze1917] and a biographical eulology is provided by his mourning father [@erman1916]. 
 
@@ -1325,7 +1325,7 @@ Erman's symbolic representation is rather different from his predecessors. An ex
 Symbolic representation of the Old High German sentence from Luke 15:30 [@last] in the analysis of Erman [-@erman1913a: 38]. Erman uses his own symbolic representation, starting with *a* for the main clause, followed by subsequent letters for subordinate clauses. The arches combine parts of a clause that are separated by another clause. The "less-than" sign indicates the direction of subordination, though this is also evident from the alphabetical order.
 :::
 
-### Pfannkuchen (1914) *Periodenbau*
+### Pfannkuchen (1914) *Periodenbau in Goethe und Schiller* {#sec:pfannkuchen1914}
 
 Wilhelm Pfannkuchen (born 1887) wrote a dissertation in Giessen with Otto Behagel [@pfannkuchen1914]. I have not been able to find any further reliable information about his biography.^[Pfannkuchen writes in his dissertation that he started teaching at the Ludwig-Georgs-Gymnasium in Darmstadt in 1914 [@pfannkuchen1914: 67]. The yearbook of that Gymnasium for 1915 notes that he is let go to become the director of a private school, see page 10 of <https://nbn-resolving.org/urn:nbn:de:hbz:061:1-718811>. Pfannkuchen appears to have edited some plays by Schiller in 1930. There is an entry for a Dr. phil. Wilhelm Pfannkuchen in the Addressbook of Gotha in 1949 <http://www.adressbuecher.net/addressbook/entry/54747dd11e6272f5d1ca01dc>.] Pfannkuchen's dissertation *Periodenbau in Goethes und Schillers größeren Dichtungen* is basically a long list of references to sentences in the works of Goethe and Schiller, organised by the structure of their subordination. For complex sentences, consisting of three or more clauses, he uses a graphical display to illustrate their structure [@pfannkuchen1914: 39-63]. He cites various previous authors who use a graphical display with similar goals [viz. @lehmann1852; @diringer1878; @gelbe1880; @kern1883a], but in the end Pfannkuchen's graphics are a new combination of these widespread ideas. 
 
@@ -1345,13 +1345,20 @@ Berufen ist zum blut'gen Werk der Waffen. \
 *Periodenbau* for the example from Schiller in [@last] as analysed by Pfannkuchen [-@pfannkuchen1914: 60]. The vertical dimension indicates depth of embedding, the left-to-right ordering corresponds to the actual ordering of the clauses. Abbreviations apparently mean: *Ausſ.=Aussagesatz*, *Kondſ.=Konditionalsatz*, *Relſ.=Relativsatz*. The plus-symbol marks coordination. The dots indicate that the clause is separated by another subordinated clause.
 :::
 
-### Müller (1921) *Vom Deutschunterricht in der Arbeitsschule*
+### Müller (1921) *Vom Deutschunterricht in der Arbeitsschule* {#sec:müller1921}
 
-Lotte Müller (1893-1972) https://de.wikipedia.org/wiki/Charlotte_Müller_(Pädagogin)
+Charlotte (Lotte) Müller (1893-1972) was a teacher and pedagogue at the university of Leipzig, propagating the didactic principles of Hugo Gaudig. After the division of Germany she became a school director in West Berlin.
 
-cited second edition [@muller1922: 49] one tree example like Kern, with verb on top, but strange position of the subject.
+Her first published work is a little booklet from 1921 *Vom Deutschunterricht in der Arbeitsschule* [@muller1922, cited here from the second edition]. In this book she describes in detail how a teacher could approach the analysis of a sentence like [@next] and might end up with a graphical analysis as shown in [@fig:müller1922_49]. Rather curiously, this graphic seems to consists of two different parts, placed on top of each other. The two parts are headed by the subject noun *Die Klasse* 'the class' and predicate *spielte* 'played', respectively. However, from Müller's description it becomes clear that these two parts are supposed to be placed side-by-side and it is probably simply due to the lack of space on the printed page that they are place on top of each other. Placing them side-by-side puts this line-based graphical display in the tradition of Utzinger (see [@sec:utzinger1887]) and Mensing (see [@sec:mensing1903]).
 
-Deutsche Sprachkunde in der Arbeitsschule, Leipzig 1923
+::: ex
+Unter den schattigen Bäumen auf der Debrahofwiese spielte gestern die
+wilde Klasse des Herrn R. ganz toll ein lustiges Spiel, Sackhüpfen.
+:::
+
+::: {.im #müller1922_49}
+*Satzbild* for the example in [@last] from Müller [-@muller1922: 49]. From the accompanying text it becomes clear that the subject (*die Klasse* 'the class') and the predicate (*spielte* 'played') are supposed to be placed side-by-side. The peculiar placement on top of each other in this graphic is probably due to the limited size of the printing page. As with all line diagrams the ordering of the words in the original sentence is not transparantly reflected in this graphical analysis.
+:::
 
 ### Langholf (1969) *Die Syntax des deutschen Amadisromans* {#sec:langholf1969}
 
