@@ -1362,16 +1362,28 @@ wilde Klasse des Herrn R. ganz toll ein lustiges Spiel, Sackhüpfen.
 
 ### Langholf (1969) *Die Syntax des deutschen Amadisromans* {#sec:langholf1969}
 
-[@langholf1969: 10] own version of Periodenbau, cites Menge as inspiration!
+Barbara Langholf wrote a dissertation at the university of Hamburg in 1969. She appears not to have pursued an academtic career after her dissertation as I have not been able to locate any subsequent scholarly works by her. Her dissertation investigates syntactic structures in the 16th Century anonymous German translation of the French novel *Amadis de Gaule*. The syntactic analyses used by Langholf are a direct descendant of the *Periodenbilder* of the 19th Century, although by the time of her dissertation the syntactic theories of Chomsky and Tesnière already had become widespread in the linguistic community. Langholf does not seem to have been aware of (or not interested in) those theories.
 
-### Schulze (1883) *Adiumenta Latinitatis*
+For her syntactic analyses, Langholf devised her own scheme, which she calls a *Formel* [-@langholf1969: 10]. She cites a 1955 edition of Menge's *Repetitorium* (cf. [@sec:menge1873]) as inspiration for her formulas. Menge's approach dates back to 1873, almost 100 years before Langholf's dissertation. Langholf's (and Menge's) formulas include various notational aspects that can be traced back to Lehmann's original approach from 1833 (see [@sec:lehmann1833]), including the colon for preposed clauses and brackets for internal clauses. Langholf uses forward slashes for postposed clauses, a proposal originally from Nägelsbach in 1848 (see [@sec:nägelsbach1846]). Similar to Lehmann, Langholf uses different kind of symbols for the depth of embedding:
 
-Ernst Hendrik Ferdinand Schulze (1842-???) teacher and school director in St. Petersburg. 
+- Main clause: capital letters *A, B, C*
+- First level subordination: lower-case letters *a, b, c*: 
+- Second level: accented lower-case *a', b', c'*
+- Third level: digits *1, 2, 3*
+- Fourth level: roman numerals *I, II, III*
+- Fifth level: lower-case letters *x, y, z*
+- Sixth level: accented lower-case *x', y', z'*
 
-Very simple *Periodenbilder*, showing differences between German and Latin [@schulze1883: 116-122]
+Langholf adds a functional category to each clause, written as a superscript abbreviation (e.g. ^rel^=relative clause, ^obj^=object clause, etc.). She also adds superscript numbers as labels to identify the clauses. This is particularly useful to link the analysis to the original sentence and to connect separated parts of the same clause, which often are positioned far apart (e.g. clause 4 in the example below). As an example of her approach, consider the example in [@next] and the corresponding analysis in [@fig:langholf1969_142]. Langholf notes that this example is extraordinary complex. Such complex constructions typically appear when the sentence is not in the French original, but added by the anonymous German translator.
 
-https://babel.hathitrust.org/cgi/pt?id=uiug.30112023846709&seq=67
-https://babel.hathitrust.org/cgi/pt?id=mdp.39015062946952&seq=133
+::: ex
+[^1^A^wunsch^]{.grey} Doch daß E.May. zuuor bey Königlichem glauben, [^2^(a^rel^)]{.grey} der in allen dingen vor jederman gantz warhafftig vnd der tugend anhengig sein soll, [^1^A^wunsch^]{.grey} und bey Ritters Orden, [^3^(b^rel^)]{.grey} welcher zu handthabung der trew vnd gerechtigkeit erfunden vnd eingesetzt, [^1^A^wunsch^]{.grey} bestettigen vnd zusagen, [^4^/c^obj^]{.grey} daß, [^5^(a'^kond^]{.grey} wo E.May. mit meinen gnedigsten Freuwlin Elisena so weit handlen, vnd sie dahin bewegen möchten, [^6^/1^obj^]{.grey} das jhr biß zu vollstreckung der Liebe fürschritten, [^7^/I^rel^]{.grey} (welches gleichwol ich nicht gedenck, angesehen jr hohe Keuscheit vnd fürsichtigkeit, [^8^/II^fin^]{.grey} Nichts desto weniger aber, damit allem, [^9^\[x^rel^\]]{.grey} so begegnen möcht, [^8^II^fin^]{.grey} genugsam, vnd bey der zeit fürkommen, vnd die Ehr, als das höchste Gut, in allweg allerseits erhalten werde, [^10^/III^kaus^]{.grey} Denn Menschliches, insonders Weibliches Geschlecht gar schmach, [^11^/y^kons^]{.grey} also daß mein gnedigstes Frewlin, [^12^<x'^rel^>]{.grey} die vielleicht E.May. gleichermassen hertzlichen liebet, [^11^y^kons^)]{.grey} sich etwas vnbedachts vbersehen wünde) [^4^c^obj^]{.grey} das denn zumal vad hernach, [^13^(b'^rel^)]{.grey}wo es die zeit vnnd not erfordert, [^4^c^obj^]{.grey} E.May. sie zu dero Ehegemahel auffnemmen wöllen. \
+[@langholf1969: 141-142, citing page 19-20 of the Feyerabend edition]
+:::
+
+::: {.im #langholf1969_142}
+*Formel* for the example in [@last] in the analysis of Langholf [-@langholf1969: 142]. The superscript abbreviations are functional classifications, the actual syntactic analysis are the base letters of the superscripts. Brackets indicate internal subordination, forward slashes are for final subordination. The numbers are just a counter for the clauses, but they also function as identification for the parts of separated clauses, e.g. 1, 4, 8 and 11.
+:::
 
 ### More
 
@@ -1384,6 +1396,11 @@ Trunk mentions other grammars, but not available online https://babel.hathitrust
 Meyer-Lübke uses SVOPA abbreviations https://archive.org/details/grammatikderrom00meyegoog/page/799/mode/2up
 
 Inspiration for Friedrich Feigl: https://opac.ku.de/s/uei/de/2/-1+%3D+%22Friedrich+feigl%22+filter%281280%3D%22%3C%3D1908%22%29
+
+Schulze (1883) *Adiumenta Latinitatis* Ernst Hendrik Ferdinand Schulze (1842-???) teacher and school director in St. Petersburg. Very simple *Periodenbilder*, showing differences between German and Latin [@schulze1883: 116-122]
+
+https://babel.hathitrust.org/cgi/pt?id=uiug.30112023846709&seq=67
+https://babel.hathitrust.org/cgi/pt?id=mdp.39015062946952&seq=133
 
 ## Other approaches
 
