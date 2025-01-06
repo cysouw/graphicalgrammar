@@ -716,6 +716,22 @@ Wie das innere Bewegen, das im Herbst die Schaaren der wandernden Vögel mit unw
 Music-score analysis of the complex sentence in [@last] from Schlecht [@schlecht1856: 79]. The main clauses are placed on the highest line, with subordinate clauses below, depending on the depth of their embedding. Vertical bars separate major parts, with the double vertical bar separating the preposed subordinated clauses from the main clause. The arches are used for conjunction reduction (first arch) and clauses that are interrupted by a subordinate clause (other two arches). The following abbreviations are used: *Vrgl*=*Vergleichssatz*=comparative clause, *B*=*Beifügesatz*=relative clause, *U*=*Umstandssatz*=adverbial clause, *Pr.Th*=*mit dem Prädicat verbundene Thätigkeit*. The intended meaning of the *P* just before the vertical double bar is unclear.
 :::
 
+### Bachmann (1864) *Satz- und Wortlehre*
+
+Ferdinand Bachmann (1817-1891) was a teacher and later director of a teachers' seminary in Prague [more biographical details in @jahne1897]. He was chosen for this job partly because of the popularity of his lectures, published 1864 as a textbook *Die Satz- und Wortlehre in praktischen Vorträgen. Ein methodischer Leitfaden zur Behandlung des grammatischen Theils unserer Lesebücher in der Volksschule. Für angehende Lehrer und Lehrerinnen* [@bachmann1868, cited here from the second edition]. The book saw reprints at least up to a fifth edition in 1884.
+
+Bachmann uses *Satzbilder* to illustrate the structure of complex sentences, copying the style from Bauer (see [@sec:bauer1850]), who is not cited. The construction of this graphical display is explained in great detail [@bachmann1868: 97-104] and exemplary applied for various longer sentences in an appendix [@bachmann1868: 244-255]. An example is given below in [@fig:bachmann1868_251] for the example sentence in [@next]. The graphical analysis only deals with the clause structure, but note that conjoined predicates like *schön und edel* 'beautiful and noble' are treated as two conjoined clauses marked with a plus-symbol and a large arch above. Commas are used both for preposed and postposed subordination, while internal subordination is marked by round brackets (not shown in the figure). Secondary and deeper subordination is placed downwards connected by lines and additionally marked by superscript numbers. Strikethrough indicates non-finite clauses. 
+
+Bachmann also uses tables, with the each word as a row and two columns for the analysis: one row is called *syntaktisch* (for the syntactic function) and the other row is called *etymologisch* (for the morphological analysis). This approach is very similary to Becker (see [@sec:becker1829]), but Bachmann does not use numbers to explicate the dependencies. This table-style approach is first introduced only for syntactic functions [@bachmann1868: 38], but later applied in great detail in the appendix including morphological analysis [@bachmann1868: 244-255].
+
+::: ex
+[a+a,]{.grey} Wenn es schön und edel ist, [s̶^2^]{.grey} für das Vaterland zu sterben; [A+A]{.grey} so ist es noch schöner und edler, [,s̶]{.grey} so ganz für das Vaterland zu leben. [@bachmann1868: 250, with obvious reference to Horace's *dulce et decorum est pro patria mori*]
+:::
+
+::: {.im #bachmann1868_251}
+*Satzbild* for the example sentence in [@last] in the analysis of Bachmann [-@bachmann1868: 251]. The style of this graphic is copied from the structural summaries of Bauer (cf. [@fig:bauer1850_95]). Commas are used to separate both preposed and postposed subordinate clauses. Deeper embedded clauses use vertical lines and superscript numbers. Strikethrough indicates non-finite clauses.
+:::
+
 ### Wetzel & Wetzel (1865) *Die deutsche Sprache* {#sec:wetzel1865}
 
 Eduard and Friedrich Wetzel were brothers and both teachers in Berlin. Friedrich Ludwig Eduard Wetzel (1819-1895) was a teacher at the *Lehrerinnenseminar* and the *Augustaschule* and Friedrich Wilhelm Eduard Wetzel (1824-1897) was teacher at the *Elisabethschule*. A few more biographical details are available in the *Personenregister* of Schütze [-@schutze2014: 885-886]. 
@@ -731,6 +747,18 @@ Es ist ein altes Sprichwort (A), daß der Mensch dann beten lernt (a^1^), wenn e
 ::: {.im #wetzel1871_313}
 Example of the analysis of a multi-clause sentence from Wetzel & Wetzel [-@wetzel1871: 313]. Their basic approach is to add letters inside the sentence, similar to the approach of Herling [-@herling1823] as shown in [@fig:herling1832_232]. The schema to the side is a secondary depiction of the internal structure.
 :::
+
+### Lehmann (1870) *Leitfaden für den Unterricht*
+
+Josef Lehmann (1838-1911) Lehrerinnenbildungsanstalt in Wien.
+
+https://www.biographien.ac.at/oebl?frames=yes
+
+*Leitfaden* [@lehmann1870], 2nd edition 1874 mostly unchanged <http://data.onb.ac.at/rep/103E8F81>, 9th edition 1894
+
+*Deutsche Schulgrammatik* first edition 1875, 2nd 1878 (cited), 3rd 1879, 11th edition 1912
+
+*Sprachbuch für österreichische Volksschulen* 1879, Neu bearbeitet Löhrl (1910, up to 1934?) with new title: *deutsches Sprachbuch* https://google.com/books?id=AwtkzwEACAAJ (cited by Trunk)
 
 ### Zitzlsperger (1871) *Leitfaden für den Unterricht* {#sec:zitzlsperger1871}
 
@@ -905,6 +933,13 @@ Ich schenkte ihm 300 Rubel, und als ich erfuhr, dass derselbe in Kiew einen Anve
 ::: {.im #zettel1882_86}
 *Satzbild* from Zettel [-@zettel1882: 86] for the example sentence in [@last]. The example is almost identical to the example from Bauer in [@fig:bauer1850_97]. It seems like the placement of the main clause capital *B* (*stellte ich ihm frei*) is a printing error. It should probably be placed at the top, aligned with the capital *A* main clause (*ich schenkte ihm 300 Rubel*).
 :::
+
+### Schulze (1883) *Adiumenta Latinitatis* 
+
+Ernst Hendrik Ferdinand Schulze (1842-???) teacher and school director in St. Petersburg. Very simple *Periodenbilder*, showing differences between German and Latin [@schulze1883: 116-122]
+
+https://babel.hathitrust.org/cgi/pt?id=uiug.30112023846709&seq=67
+https://babel.hathitrust.org/cgi/pt?id=mdp.39015062946952&seq=133
 
 ### Kern (1883) *Methodik des deutschen Unterrichts* {#sec:kern1883}
 
@@ -1391,18 +1426,22 @@ Trunk mentions other grammars, but not available online https://babel.hathitrust
 
 - Jauker: deutsche Sprachlehre für Lehrerbildungsanstalten https://google.com/books?id=ljGpzgEACAAJ
 - Binstorfer: deutsche Sprachschule https://google.com/books?id=tPMw0AEACAAJ
-- Löhrl: deutsches Sprachbuch https://google.com/books?id=AwtkzwEACAAJ
 
-Meyer-Lübke uses SVOPA abbreviations https://archive.org/details/grammatikderrom00meyegoog/page/799/mode/2up
+nothing yet in 1880 version of Sprachschule, only in Binstorfer revision?:
 
-Inspiration for Friedrich Feigl: https://opac.ku.de/s/uei/de/2/-1+%3D+%22Friedrich+feigl%22+filter%281280%3D%22%3C%3D1908%22%29
-
-Schulze (1883) *Adiumenta Latinitatis* Ernst Hendrik Ferdinand Schulze (1842-???) teacher and school director in St. Petersburg. Very simple *Periodenbilder*, showing differences between German and Latin [@schulze1883: 116-122]
-
-https://babel.hathitrust.org/cgi/pt?id=uiug.30112023846709&seq=67
-https://babel.hathitrust.org/cgi/pt?id=mdp.39015062946952&seq=133
+- https://onb.digital/result/117D5246
+- https://onb.digital/result/117D523D
+- https://onb.digital/result/117D5224
 
 ## Other approaches
+
+### Lonkay (1855) *Gyakorlati Német Nyelvtan*
+
+Antal Lonkay (1827-1888)
+
+https://www.biographien.ac.at/oebl?frames=yes
+
+German grammar for speakers of Hungarian. Table for German sentence structure with position for finite verb and position for non-finite parts at the end [@lonkay1855: 175],
 
 ### Stöhr (1898) *Algebra der Grammatik*
 
@@ -1417,6 +1456,18 @@ Adolf Stamm (1857-???)
 idisyncratic graphics [@stamm1899]
 critique of Stamm: [@arens1902]
 (other reaction to Stamm: [@mossner1960])
+
+### Meyer-Lübke (1899) *Grammatik der Romanischen Sprachen*
+
+uses SVOPA abbreviations
+
+https://archive.org/details/grammatikderrom00meyegoog/page/799/mode/2up
+
+### Feigl (1904) *Die Stellung der Satzglieder*
+
+Friedrich Feigl, inspired by Meyer-Lübke
+
+https://opac.ku.de/s/uei/de/2/-1+%3D+%22Friedrich+feigl%22+filter%281280%3D%22%3C%3D1908%22%29
 
 ### Eberhard (1905) *Graphische Darstellung in der Sprachlehre* 
 
