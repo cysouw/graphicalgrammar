@@ -750,15 +750,18 @@ Example of the analysis of a multi-clause sentence from Wetzel & Wetzel [-@wetze
 
 ### Lehmann (1870) *Leitfaden für den Unterricht*
 
-Josef Lehmann (1838-1911) Lehrerinnenbildungsanstalt in Wien.
+Josef Lehmann (1838-1911) was a teacher at the teachers' seminary in Vienna (Austria). A few biographical details are available in Klein [-@klein1993]. He wrote various popular textbooks that saw many different editions:
 
-https://www.biographien.ac.at/oebl?frames=yes
+- *Leitfaden für den Unterricht in der deutschen Grammatik. Für Real- und Bürgerschulen*. First edition 1870 [@lehmann1870], reissued at least until the 9th edition of 1894.
+- *Deutsche Schulgrammatik: Für Lehrerbildungsanstalten und zum Selbstunterrichte*. First edition in 1875, reissued at least until the 11th edition of 1912. Cited here from the second edition [@lehmann1878]. This book became an official textbook for use in teacher's education in 1876 [as mentioned in the *Vorrede zur zweiten Auflage* of @lehmann1878].
+- *Sprachbuch für österreichische Volks- und Bürgerschulen*. First edition 1878, consisting of four volumes. Cited here is the fourth volume for classes six to eight [@lehmann1878a]. Revised after Lehmann's death by Rudolf Löhrl with a slightly changed title as *Deutsches Sprachbuch für österreichische Bürgerschulen*.
+- *Sprachbuch für österreichische Volksschulen*. First edition 1879, consisting of two volumes, apparently a simplified version of the previous book. This version does not contain any graphical display [@lehmann1879]. Revised after Lehmann's death by Rodulf Löhrl under the title *Deutsches Sprachbuch für österreichische allgemeine Volksschulen*.
 
-*Leitfaden* [@lehmann1870], 2nd edition 1874 mostly unchanged <http://data.onb.ac.at/rep/103E8F81>, 9th edition 1894
+cites Bauer and Götzinger [@lehmann1870: v], tabular analysis *Wort- und Satzanalyse* without numbers, like Bachmann [@lehmann1870: 186-187], *Satzbild* for complex sentences [@lehmann1870: 217-218] *Bild der Periode* [@lehmann1870: 223-224] like Diesterweg/Wander
 
-*Deutsche Schulgrammatik* first edition 1875, 2nd 1878 (cited), 3rd 1879, 11th edition 1912
+*Satzbild* [@lehmann1878: 281-282] same as above, a few more examples. *Periode* [@lehmann1878: 288] same as above
 
-*Sprachbuch für österreichische Volksschulen* 1879, Neu bearbeitet Löhrl (1910, up to 1934?) with new title: *deutsches Sprachbuch* https://google.com/books?id=AwtkzwEACAAJ (cited by Trunk)
+[@lehmann1878a: 128] very short discussion with only simple and very few examples.
 
 ### Zitzlsperger (1871) *Leitfaden für den Unterricht* {#sec:zitzlsperger1871}
 
@@ -1323,6 +1326,38 @@ Der kleine Sohn des Bauerns brachte den durstigen Wanderer schnell einen Trunk k
 
 ::: {.im #mensing1927_88}
 *Satzbild* for the examples sentence in [@last] from Mensing [-@mensing1927: 88].
+:::
+
+### Bartmann (1907) *Sprachübungen für die Hand des Lehrers*
+
+Josef Bartmann (1868-1947) was a teacher in Nixdorf (today Mikulášovicích in the Czech Republic). Some biographical information is available on Wikipedia.^[<https://cs.wikipedia.org/wiki/Josef_Bartmann>, accessed 6 January 2025.] He wrote various textbooks, one for teachers in 1907: *Sprachübungen für die Hand des Lehrers* [@bartmann1913, cited here in the second edition] and another one for students in 1908: *Deutsches Sprachbuch für Bürgerschulen* [@bartmann1917, cited here in the sixth edition].
+
+For the analysis of sentences, Bartmann uses two different methods. For single-clause sentences he proposes the method of *zergliedern* 'to dissect' [@bartmann1913: 8-11], citing Kern (see [@sec:kern1883]). Like Kern, Bartmann uses line diagrams headed by the verb and he also compares these analyses to trees. The first example even has the verb at the bottom, with the verb being compared to the roots of the tree. But, also following Kern, Bartmann immediately reversed the display *der besseren Raumverteilung wegen* 'for the better use of space' [@bartmann1913: 9]. In the *Sprachbuch* he starts with a few simple line diagrams on the first page of the book [@bartmann1917: 1], only to return to it with a bit more detail towards the end [@bartmann1917: 174-176]. An example of Bartmann's diagrams is shown in [@fig:bartmann1913_11] for the example in [@next].
+
+::: ex
+Die Sonne neigt sich zum Untergange und die Blumen schließen ihre Kelche.
+:::
+
+::: {.im #bartmann1913_11}
+*Satzbild* for two coordinated simple clauses [@last] from Bartmann [-@bartmann1913: 9]. Bartmann uses verb-centric line diagrams like Kern (cf. [@fig:kern1883_17]), but the examples remain extremely simple. It remains unclear why the reflexive *sich* ist positioned as first dependent in this example.
+:::
+
+For complex sentences with multiple clauses Bartmann uses *Satzbilder* with various abbreviations for each clause [@bartmann1913: 172-176; @bartmann1917: 106-109]. An example of a complex *Gliedersatz* in the analysis of Bartmann is shown in [@fig:bartmann1913_176] for the example in [@next]. Bartmann's abbreviations are an idiosyncratic mix of the many different proposals available in the literature:
+
+- capital letters for main clauses;
+- lower-case abbreviations of functions for subordinated clauses (e.g. *erg=Ergänzung*, *beif=Beifügung*);
+- superscript numbers for depth of embedding;
+- numbers below for clauses, when they are separated into non-contiguous parts;
+- superscript letter for various special forms (e.g. *v=verkürzt*, *m=mehrteilig*);
+- optional arches to link subordinated clauses to their matrix clauses;
+- multi-clause *Gliedersätze (Perioden)* are separated into a rising part (*Hebung*) and a falling part (*Senkung*), placed on top of each other with a line in between.
+
+::: ex
+[erg]{.grey} Daß der Trunkenbold sein meist mühsam erworbenes Geld in der unsinnigsten Weise verpraßt; [erg]{.grey} daß er nach und nach seine geistige und leibliche Gesundheit zerrüttet; [erg]{.grey} daß sein gesellschaftliches Ansehen mehr und mehr schwindet; [erg/2]{.grey} daß er, [beif^2^]{.grey} was das Schlimmste von allem ist, [erg/2]{.grey} seine meist völlig schuldlose Familie in Not und Verderben stürzt: [A]{.grey} das überlegt er nicht, [B]{.grey} oder es kommt ihm erst zum Bewußtsein, [zeit]{.grey} wenn es oft schon zu spät ist.
+:::
+
+::: {.im #bartmann1913_176}
+*Satzbild* for a multi-clause *Gliedersatz* in [@last] from Bartmann [-@bartmann1913: 176]. Except for the different abbreviations (*erg*=complement clause, *beif*=relative clause, *zeit*=temporal adverbial clause), the sentence is divided into a rising part (*Hebung*) on top and a falling part (*Senkung*) at the bottom of the central line.
 :::
 
 ### Schuberth (1908) *Deutsche Satzbilder* {#sec:schuberth1908}
