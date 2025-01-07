@@ -716,13 +716,11 @@ Wie das innere Bewegen, das im Herbst die Schaaren der wandernden Vögel mit unw
 Music-score analysis of the complex sentence in [@last] from Schlecht [@schlecht1856: 79]. The main clauses are placed on the highest line, with subordinate clauses below, depending on the depth of their embedding. Vertical bars separate major parts, with the double vertical bar separating the preposed subordinated clauses from the main clause. The arches are used for conjunction reduction (first arch) and clauses that are interrupted by a subordinate clause (other two arches). The following abbreviations are used: *Vrgl*=*Vergleichssatz*=comparative clause, *B*=*Beifügesatz*=relative clause, *U*=*Umstandssatz*=adverbial clause, *Pr.Th*=*mit dem Prädicat verbundene Thätigkeit*. The intended meaning of the *P* just before the vertical double bar is unclear.
 :::
 
-### Bachmann (1864) *Satz- und Wortlehre*
+### Bachmann (1864) *Satz- und Wortlehre* {#sec:bachmann1864}
 
 Ferdinand Bachmann (1817-1891) was a teacher and later director of a teachers' seminary in Prague [more biographical details in @jahne1897]. He was chosen for this job partly because of the popularity of his lectures, published 1864 as a textbook *Die Satz- und Wortlehre in praktischen Vorträgen. Ein methodischer Leitfaden zur Behandlung des grammatischen Theils unserer Lesebücher in der Volksschule. Für angehende Lehrer und Lehrerinnen* [@bachmann1868, cited here from the second edition]. The book saw reprints at least up to a fifth edition in 1884.
 
 Bachmann uses *Satzbilder* to illustrate the structure of complex sentences, copying the style from Bauer (see [@sec:bauer1850]), who is not cited. The construction of this graphical display is explained in great detail [@bachmann1868: 97-104] and exemplary applied for various longer sentences in an appendix [@bachmann1868: 244-255]. An example is given below in [@fig:bachmann1868_251] for the example sentence in [@next]. The graphical analysis only deals with the clause structure, but note that conjoined predicates like *schön und edel* 'beautiful and noble' are treated as two conjoined clauses marked with a plus-symbol and a large arch above. Commas are used both for preposed and postposed subordination, while internal subordination is marked by round brackets (not shown in the figure). Secondary and deeper subordination is placed downwards connected by lines and additionally marked by superscript numbers. Strikethrough indicates non-finite clauses. 
-
-Bachmann also uses tables, with the each word as a row and two columns for the analysis: one row is called *syntaktisch* (for the syntactic function) and the other row is called *etymologisch* (for the morphological analysis). This approach is very similary to Becker (see [@sec:becker1829]), but Bachmann does not use numbers to explicate the dependencies. This table-style approach is first introduced only for syntactic functions [@bachmann1868: 38], but later applied in great detail in the appendix including morphological analysis [@bachmann1868: 244-255].
 
 ::: ex
 [a+a,]{.grey} Wenn es schön und edel ist, [s̶^2^]{.grey} für das Vaterland zu sterben; [A+A]{.grey} so ist es noch schöner und edler, [,s̶]{.grey} so ganz für das Vaterland zu leben. [@bachmann1868: 250, with obvious reference to Horace's *dulce et decorum est pro patria mori*]
@@ -730,6 +728,12 @@ Bachmann also uses tables, with the each word as a row and two columns for the a
 
 ::: {.im #bachmann1868_251}
 *Satzbild* for the example sentence in [@last] in the analysis of Bachmann [-@bachmann1868: 251]. The style of this graphic is copied from the structural summaries of Bauer (cf. [@fig:bauer1850_95]). Commas are used to separate both preposed and postposed subordinate clauses. Deeper embedded clauses use vertical lines and superscript numbers. Strikethrough indicates non-finite clauses.
+:::
+
+Bachmann also uses tables, with the each word as a row and two columns for the analysis: one row is called *syntaktisch* (for the syntactic function) and the other row is called *etymologisch* (for the morphological analysis). This approach, including the term "etymology" for what we would today call morphology, is highly reminiscent of the british tradition of parsing as proposed by Murray [-@murray1824: 195]. It could also be an influence from Becker (see [@sec:becker1829]), but Bachmann does not use numbers to explicate the dependencies. This table-style approach is first introduced only for syntactic functions [@bachmann1868: 38], but later applied in great detail in the appendix including morphological analysis [@bachmann1868: 244-255]. A tabular analysis of the first subordinate part of example [@last] is showhn in [@fig:bachmann1868_251a].
+
+::: {.im #bachmann1868_251a}
+Tabular analysis of the first subordinate part of examples sentence [@last]. This tabular analysis both has a column for syntactic function *(syntaktisch)* and a column for morphological structure *(etymologisch)*. This might be an influence from Becker (cf. [@fig:becker1829_xvii]), but the absence of any numbering and the use of the term "etymology" also points to a direct influence from the english tradition of Murray [e.g. -@murray1824: 195].
 :::
 
 ### Wetzel & Wetzel (1865) *Die deutsche Sprache* {#sec:wetzel1865}
@@ -748,20 +752,40 @@ Es ist ein altes Sprichwort (A), daß der Mensch dann beten lernt (a^1^), wenn e
 Example of the analysis of a multi-clause sentence from Wetzel & Wetzel [-@wetzel1871: 313]. Their basic approach is to add letters inside the sentence, similar to the approach of Herling [-@herling1823] as shown in [@fig:herling1832_232]. The schema to the side is a secondary depiction of the internal structure.
 :::
 
-### Lehmann (1870) *Leitfaden für den Unterricht*
+### Lehmann (1870) *Leitfaden für den Unterricht* {#sec:lehmann1870}
 
-Josef Lehmann (1838-1911) was a teacher at the teachers' seminary in Vienna (Austria). A few biographical details are available in Klein [-@klein1993]. He wrote various popular textbooks that saw many different editions:
+Josef Lehmann (1838-1911) was a teacher at the teachers' seminary in Vienna (Austria), not related to Johann Lehmann (see [@sec:lehmann1833]). A few biographical details about Josef Lehmann are available in Klein [-@klein1993]. Lehmann wrote various popular textbooks that all saw many different editions:
 
-- *Leitfaden für den Unterricht in der deutschen Grammatik. Für Real- und Bürgerschulen*. First edition 1870 [@lehmann1870], reissued at least until the 9th edition of 1894.
-- *Deutsche Schulgrammatik: Für Lehrerbildungsanstalten und zum Selbstunterrichte*. First edition in 1875, reissued at least until the 11th edition of 1912. Cited here from the second edition [@lehmann1878]. This book became an official textbook for use in teacher's education in 1876 [as mentioned in the *Vorrede zur zweiten Auflage* of @lehmann1878].
+- *Leitfaden für den Unterricht in der deutschen Grammatik. Für Real- und Bürgerschulen*. First edition 1870, reissued at least until the 9th edition of 1894. It is cited her from the first edition [@lehmann1870].
+- *Deutsche Schulgrammatik: Für Lehrerbildungsanstalten und zum Selbstunterrichte*. First edition in 1875, reissued at least until the 11th edition of 1912. It is cited here from the second edition [@lehmann1878]. This book became an official textbook for use in teacher's education in 1876 [as mentioned in the *Vorrede zur zweiten Auflage* of @lehmann1878].
 - *Sprachbuch für österreichische Volks- und Bürgerschulen*. First edition 1878, consisting of four volumes. Cited here is the fourth volume for classes six to eight [@lehmann1878a]. Revised after Lehmann's death by Rudolf Löhrl with a slightly changed title as *Deutsches Sprachbuch für österreichische Bürgerschulen*.
 - *Sprachbuch für österreichische Volksschulen*. First edition 1879, consisting of two volumes, apparently a simplified version of the previous book. This version does not contain any graphical display [@lehmann1879]. Revised after Lehmann's death by Rodulf Löhrl under the title *Deutsches Sprachbuch für österreichische allgemeine Volksschulen*.
 
-cites Bauer and Götzinger [@lehmann1870: v], tabular analysis *Wort- und Satzanalyse* without numbers, like Bachmann [@lehmann1870: 186-187], *Satzbild* for complex sentences [@lehmann1870: 217-218] *Bild der Periode* [@lehmann1870: 223-224] like Diesterweg/Wander
+All visual methods for grammatical analysis used by Lehmann are already present in the *Leitfaden*, in which he cites Bauer (see [@sec:bauer1850]) and Götzinger (see [@sec:götzinger1836]) among his sources [@lehmann1870: v]. Lehmann uses three different approaches for syntactic analysis. First, he uses a tabular analysis like Bachmann (see [@sec:bachmann1864]), which is called *Wort- und Satzanalyse*. Shown in [@fig:lehmann1870_186] is only the first part of a long sentence analysed by Lehmann [-@lehmann1870: 186-187]. As discussed for Bachmann (cf. [@fig:bachmann1868_251a]), this might be an influence from Becker (cf. [@fig:becker1829_xvii]), though crucially the idea of using numbered rows is missing.
 
-*Satzbild* [@lehmann1878: 281-282] same as above, a few more examples. *Periode* [@lehmann1878: 288] same as above
+::: {.im #lehmann1870_186}
+Tabular *Wort- und Satzanalyse* from Lehmann [-@lehmann1870: 186]. This approach is very likely taken from Bachmann (cf. [@fig:bachmann1868_251a]). The table does not have clear separate columns for the announced "word" and "sentence" analysis like the two columns used by Bachmann. However, on closer inspection it can be discerned that the last word on each line of this table from Lehmann is reserved for the functional sentence analysis, except for the functionwords.
+:::
 
-[@lehmann1878a: 128] very short discussion with only simple and very few examples.
+Second, for complex sentences Lehmann uses a letter-based *Satzbild* [@lehmann1870: 217-218; see also *Schulgrammatik*: @lehmann1878: 281-282; and *Sprachbuch*: @lehmann1878a: 128]. He use a simplified one-line approach with lower-case letters indicating the function of the subordinate clause (e.g. *o=Objektsatz*, *k=Kausalsatz*, *m=Modalsatz).* Depth of embedding is indicated by a number after the letter and non-finite clauses by an additional letter *v=verkürzt*. An example is shown in [@fig:lehmann1870_218] for the example sentence in [@next].
+
+::: ex
+[A]{.grey} Thu', [o]{.grey} was jeder loben müsste, [k2]{.grey} wenn die ganze Welt es wüsste; [B]{.grey} thu' es, [m]{.grey} dass es niemand weiß, und [C]{.grey} gedoppelt ist dein Preis. [@lehmann1870: 218, citing an aphorism of Friedrich Rückert]
+:::
+
+::: {.im #lehmann1870_218}
+*Satzbild* for the example sentence in [@last] from Lehmann [-@lehmann1870: 218]. This is stripped-down one-lined *Satzbild*, with the syntactic function of subordinated clauses being shown by the letters (e.g. *o=Objektsatz*, *k=Kausalsatz*, *m=Modalsatz).* The depth of embedding is indicated by numbers after the letters. 
+:::
+
+Finally, for even larger syntactic complexes Lehmann uses a *Bild der Periode* [@lehmann1870: 223-224; see also *Schulgrammatik*: @lehmann1878: 288]. This graphical display, as shown in [@fig:lehmann1870_224] for the *Periode* in [@next], is obviously similar to the approach of Diesterweg (see [@sec:diesterweg1830]). However, it might also have been an influence from Wander (see [@sec:wander1856]), who himself was influenced by Diesterweg. The separation of the *Periode* in a rising and a falling part is indicated by the slanted lines, the letters represent the various clauses.
+
+::: ex
+[s]{.grey} Dass die goldenen Tage der harmlosen Kindheit so schnell verschwinden; [s]{.grey} dass die Blüten unsrer edelsten Freuden so bald abfallen; [s]{.grey} dass Freunde, [a]{.grey} die es oft am treuesten meinen, [s]{.grey} am ehesten von unsrer Seite geriffen werden: [A]{.grey} das versetzt den gefühlvollen Menschen nicht selten in stille Wehmuth.
+:::
+
+::: {.im #lehmann1870_224}
+*Bild der Periode* for the sentence in [@last] from Lehmann [-@lehmann1870: 224]. This graphical approach with rising and falling sections is clearly inspired by Diesterweg (cf. [@fig:diesterweg1834_169]) or possibly by Wander (cf. [@fig:wander1856_ix]), who himself took it from Diesterweg. The abbreviations stand for *s=Subjektsatz* and *a=Attributsatz*, with the arch connecting parts of the same clause that is separated by another clause. The depth of embedding is left out, though this might be an error, as it should be *a2* instead of just *a* according to Lehmann's rules.
+:::
 
 ### Zitzlsperger (1871) *Leitfaden für den Unterricht* {#sec:zitzlsperger1871}
 

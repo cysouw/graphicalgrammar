@@ -7,7 +7,7 @@ setGrey = function(el)
       -- remove color attributes
       el.attributes['color'] = nil
       -- use style attribute instead
-      el.attributes['style'] = 'color: lightgray;'
+      el.attributes['style'] = 'color: silver;'
       -- return full span element
       return el
     elseif FORMAT:match 'latex' then
