@@ -690,7 +690,7 @@ Alternative *Satzbild* of the examples sentence in [@last] from Wander [-@wander
 
 ### Schötensack (1856) *Grammatik der neuhochdeutschen Sprache*
 
-Heinrich August Schötensack (1812-1891) was a teach in Stendal. He wrote a massive (more than 800 pages) *Grammatik der neuhochdeutschen Sprache*. It contains just a very short discussion of *Periodenbilder* with not much detail [@schotensack1856: 800-802]. The example in [@fig:schötensack1856_801] for the sentence in [@next] clearly shows the influence from Lehmann (see [@sec:lehmann1833]) in the use of the different typefaces for the different levels of embedding. However, even Lehmann did not venture into the Hebrew characters, as is shown here by the use of the Alef for the fifth embedding.
+Heinrich August Schötensack (1812-1891) was a teacher in Stendal. He wrote a massive (more than 800 pages) *Grammatik der neuhochdeutschen Sprache*. It contains just a very short discussion of *Periodenbilder* without much detail [@schotensack1856: 800-802]. The example in [@fig:schötensack1856_801] for the sentence in [@next] clearly shows the influence from Lehmann (see [@sec:lehmann1833]) in the use of the different typefaces for the different levels of embedding. However, even Lehmann did not venture into the Hebrew characters, as is shown here by the use of the Alef for the fifth embedding.
 
 ::: ex
 (A) Er gefiel sich sehr in Scherzen, (a) weil er wusste, (α) dass Nichts mehr den Geist auſheitre, (β) Nichts mehr eine freimüthige Aeusserung gestatte, (𝔄) als der Scherz, (𝔞) der fast immer gut aufgenommen werde, (א) wenn nicht gerade ein murrköpfiger Thor ihn entgegen zu nehmen habe. [@schotensack1856: 801]
@@ -961,12 +961,24 @@ Ich schenkte ihm 300 Rubel, und als ich erfuhr, dass derselbe in Kiew einen Anve
 *Satzbild* from Zettel [-@zettel1882: 86] for the example sentence in [@last]. The example is almost identical to the example from Bauer in [@fig:bauer1850_97]. It seems like the placement of the main clause capital *B* (*stellte ich ihm frei*) is a printing error. It should probably be placed at the top, aligned with the capital *A* main clause (*ich schenkte ihm 300 Rubel*).
 :::
 
-### Schulze (1883) *Adiumenta Latinitatis* 
+### Schulze (1883) *Adiumenta Latinitatis* {#sec:schulze1883}
 
-Ernst Hendrik Ferdinand Schulze (1842-???) teacher and school director in St. Petersburg. Very simple *Periodenbilder*, showing differences between German and Latin [@schulze1883: 116-122]
+Ernst Hendrik Ferdinand Schulze (1842-1911) was a teacher and school director, first in St. Petersburg and later in Bad Homburg vor der Höhe. Biographical details are available in Schulze [-@schulze1901: 46-47].^[A good overview is also available on <https://de.wikipedia.org/wiki/Ernst_Schulze_(Historiker)>, accessed 7 January 2025.] He wrote an advanced Latin textbook *Adiumenta Latinitatis. Grundzüge des lateinischen Stils in Verbindung mit Übersetzungsstücken für die oberste Stufe des Gymnasiums* [@schulze1883].
 
-https://babel.hathitrust.org/cgi/pt?id=uiug.30112023846709&seq=67
-https://babel.hathitrust.org/cgi/pt?id=mdp.39015062946952&seq=133
+In this book he used very simple *Periodenbilder* for the analysis of Latin sentences [@schulze1883: 116-122]. He only uses the letters *A* for main clause, *a* for subordinate clause, and *α* for secondary subordinate clause. Specifcally, he used this graphical analysis to explain differences between German and Latin sentence structure.  The regular Latin word order would be *a α A*, as shown in [@next]. However, the Latin word order is quite flexible, and many different orders are possible. Schulze then gives the table shown in [@fig:schulze1883_121] with the orders that are possible in Latin, but not in German.
+
+::: ex
+a. [a]{.grey} *facias me certiorem* [α]{.grey} *quid istic agatur* [A]{.grey}* velim*.
+b.
+|
+| faci-as me certior-em quid istic ag-atur velim.
+| make-2SG 1SG.OBJ surer-ACC.SG what there do-PASS.3SG wish.1SG
+| I would like you to inform me what is going on there.
+:::
+
+::: {.im #schulze1883_121}
+*Periodenbilder* from Schulze [-@schulze1883: 121] showing possible sentence orders in Latin that are impossible in German. He uses a very reduced system of symbols with *A* for main clause, *a* for subordinate clause, and *α* for secondary subordinate clause.
+:::
 
 ### Kern (1883) *Methodik des deutschen Unterrichts* {#sec:kern1883}
 
@@ -1421,7 +1433,7 @@ Symbolic representation of the Old High German sentence from Luke 15:30 [@last] 
 
 ### Pfannkuchen (1914) *Periodenbau in Goethe und Schiller* {#sec:pfannkuchen1914}
 
-Wilhelm Pfannkuchen (born 1887) wrote a dissertation in Giessen with Otto Behagel [@pfannkuchen1914]. I have not been able to find any further reliable information about his biography.^[Pfannkuchen writes in his dissertation that he started teaching at the Ludwig-Georgs-Gymnasium in Darmstadt in 1914 [@pfannkuchen1914: 67]. The yearbook of that Gymnasium for 1915 notes that he is let go to become the director of a private school, see page 10 of <https://nbn-resolving.org/urn:nbn:de:hbz:061:1-718811>. Pfannkuchen appears to have edited some plays by Schiller in 1930. There is an entry for a Dr. phil. Wilhelm Pfannkuchen in the Addressbook of Gotha in 1949 <http://www.adressbuecher.net/addressbook/entry/54747dd11e6272f5d1ca01dc>.] Pfannkuchen's dissertation *Periodenbau in Goethes und Schillers größeren Dichtungen* is basically a long list of references to sentences in the works of Goethe and Schiller, organised by the structure of their subordination. For complex sentences, consisting of three or more clauses, he uses a graphical display to illustrate their structure [@pfannkuchen1914: 39-63]. He cites various previous authors who use a graphical display with similar goals [viz. @lehmann1852; @diringer1878; @gelbe1880; @kern1883a], but in the end Pfannkuchen's graphics are a new combination of these widespread ideas. 
+Wilhelm Pfannkuchen (born 1887) wrote a dissertation in Giessen with Otto Behagel [@pfannkuchen1914]. I have not been able to find any further reliable information about his biography.^[Pfannkuchen writes in his dissertation that he started teaching at the Ludwig-Georgs-Gymnasium in Darmstadt in 1914 [@pfannkuchen1914: 67]. The yearbook of that Gymnasium for 1915 notes that he is let go to become the director of a private school, see page 10 of <https://nbn-resolving.org/urn:nbn:de:hbz:061:1-718811>. Pfannkuchen appears to have edited some plays by Schiller in 1930. There is an entry for a Dr. phil. Wilhelm Pfannkuchen in the Addressbook of Gotha in 1949 <http://www.adressbuecher.net/addressbook/entry/54747dd11e6272f5d1ca01dc>.] Pfannkuchen's dissertation *Periodenbau in Goethes und Schillers größeren Dichtungen* is basically a long list of references to sentences in the works of Goethe and Schiller, organised by the structure of their subordination. For complex sentences, consisting of three or more clauses, he uses a graphical display to illustrate their structure [@pfannkuchen1914: 39-63]. He cites various previous authors who use a graphical display with similar goals [viz. @lehmann1852; @diringer1878; @gelbe1880; @kern1883a; @schulze1883 as discussed here previously], but in the end Pfannkuchen's graphics are a new combination of these widespread ideas. 
 
 An example of Pfannkuchen's graphical analysis is shown in [@fig:pfannkuchen1914_60] for the *Periode* from Friedrich Schiller in [@next]. The top-down ordering indicates depth of embedding and the left-right ordering corresponds to the actual ordering of the clauses in the sentence. Dots are used when a clause is separated by another clause and the plus-symbols is used for coordination.
 
