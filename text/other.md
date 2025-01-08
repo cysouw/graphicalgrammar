@@ -64,8 +64,8 @@ He knew about Hansen, but never cited it. acknowledgement in 1964 Festschrift fo
 
 ### Lindwall (1903) *Några ord om satsanalys*
 
-In the second part of a review of a grammatical text book he proposes a graphical display for the blackboard [@lindwall1903]
-
+In the second part of a review of a grammatical text book he proposes a graphical display for the blackboard [@lindwall1903]. some similarity to Stamm (1899) ?!
+ 
 ### Beckman (1904) *Svensk Språklära* {#sec:beckman1904}
 
 Karl Frederik Natanael Beckman (1868-1946) professor of Scandinavian languages at Gothenburg University [@beckman1904a: 194-198, 202, 219]
@@ -130,11 +130,11 @@ body-worker--for-insurance---committee----the-statement.
 
 Carl Rebbe, Walter Fischer, Birger Bjerre
 
-## Finnish^[I thank Fred Karlsson and Matti Miestamo for their assistance with the Finnisch language and linguistic tradition.]
+## Finnish
 
 ### Setälä & Nieminen (1939) *Suomen kielen oppikirja*
 
-Eemil Nestor Setälä (1864-1935) was a well-known Finnish politician and author of the Finnish declaration of independence. However, he was also a professor for Finnish language and literature at Helsinki University and among many other grammatical works he wrote a little booklet *Suomen kielen oppikirja* 'Finnisch language textbook'. The first edition appeared in 1898 and has been reprinted various time. The version from 1925, that I have consulted, does not have any graphical analyses [@setala1925].
+Eemil Nestor Setälä (1864-1935) was a well-known Finnish politician and author of the Finnish declaration of independence.^[I thank Fred Karlsson and Matti Miestamo for their assistance with the Finnisch language and linguistic tradition.] However, he was also a professor for Finnish language and literature at Helsinki University and among many other grammatical works he wrote a little booklet *Suomen kielen oppikirja* 'Finnisch language textbook'. The first edition appeared in 1898 and has been reprinted various time. The version from 1925, that I have consulted, does not have any graphical analyses [@setala1925].
 
 Kaarlo Nieminen (1887-1955) was a Finnish language teacher and acting professor of Finnish
 literature at Helsinki University for a few years. After the death of Setälä he revised the *Suomen kielen oppikirja* in 1939, which was reprinted many times. In this revision Nieminen added a graphical analysis for the example sentence in [@next] as shown in [@fig:setälä1946_68], cited here from a later reprint [@setala1946: 68]. It is unclear whether this approach with arrows for modification has any precursors, or whether this is an original idea from Nieminen:
@@ -182,6 +182,14 @@ Visualisation of clause subordination for the examples sentence in [@last] from 
 :::
 
 ## Hungarian
+
+### Lonkay (1855) *Gyakorlati Német Nyelvtan*
+
+Antal Lonkay (1827-1888)
+
+https://www.biographien.ac.at/oebl?frames=yes
+
+German grammar for speakers of Hungarian. Table for German sentence structure with position for finite verb and position for non-finite parts at the end [@lonkay1855: 175],
 
 ### Brassai (1873) *Paraleipomena kai diorthoumena* {#sec:brassai1873}
 

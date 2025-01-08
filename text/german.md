@@ -1466,6 +1466,24 @@ wilde Klasse des Herrn R. ganz toll ein lustiges Spiel, Sackhüpfen.
 *Satzbild* for the example in [@last] from Müller [-@muller1922: 49]. From the accompanying text it becomes clear that the subject (*die Klasse* 'the class') and the predicate (*spielte* 'played') are supposed to be placed side-by-side. The peculiar placement on top of each other in this graphic is probably due to the limited size of the printing page. As with all line diagrams the ordering of the words in the original sentence is not transparantly reflected in this graphical analysis.
 :::
 
+### Flothuis (1930) *Kurzgefaszte deutsche Syntax* 
+
+Marius Hendrikus Flothuis (1873-1950) was a teacher of German language and literature in Amsterdam and the father of the composer with exactly the same name.^[Registration from the Amsterdam archive: <https://archief.amsterdam/indexen/deeds/98533401-2df7-56a3-e053-b784100ade19?person=98533401-2df8-56a3-e053-b784100ade19>.] He wrote a German grammar *Einfache kurzgefaszte deutsche Syntax*, which contains many examples of graphical analyses of complex sentences called *Satzbilder* [@flothuis1930: 136-145]. Throughout his book, Flothuis is exceptionally precise in referencing the works of other scholars, but the section about the *Satzbilder* does not make any reference to previous approaches. Possibly, he considered the graphical display to be his own invention.
+
+Flothuis' *Satzbild* for the example in [@next] is shown in [@fig:flothuis1930_136]. He uses a music-score metaphor with the main clause on top and subordinated clauses positioned downwards. The left-right order follows the actual ordering of the clauses in the sentence. The graphic includes the syntactic function of each clause, not the actual content. Parts of clauses, that are separated by another clause, are connected by a small horizontal arrow.
+
+::: ex
+[kausaler]{.grey} Da seine Wohnung nahe am Eschenheimer Tore lag, [Haupt-]{.grey} so führte mich, [temporaler]{.grey} wenn ich ihn besucht hatte, [Satz]{.grey} mein Weg gewöhnlich zur Stadt hinaus und [adv.Best.]{.grey} zu den Grundstücken, [unterscheidender]{.grey} welche mein Vater vor den Toren besaß. [@flothuis1930: 136, citing Goethe *Dichtung und Wahrheit*]
+:::
+
+::: {.im #flothuis1930_136}
+*Satzbild* for the examples in [@last] in the analysis of Flothuis [-@flothuis1930: 136]. Subordinated clauses are positioned downwards relative to the main clause. Separated parts of a clause are linked by an arrow. The head of a relative clause is separated from the rest of the clause by tiny vertical lines.
+:::
+
+### Heemstra (1947) *Grundrisz der deutsch-niederländischen Satzlehre*
+
+only graphical display of clause subordination. cites examples from [@kern1884] and [@flothuis1930], does not add anything new [@heemstra1947: 76-79]
+
 ### Langholf (1969) *Die Syntax des deutschen Amadisromans* {#sec:langholf1969}
 
 Barbara Langholf wrote a dissertation at the university of Hamburg in 1969. She appears not to have pursued an academtic career after her dissertation as I have not been able to locate any subsequent scholarly works by her. Her dissertation investigates syntactic structures in the 16th Century anonymous German translation of the French novel *Amadis de Gaule*. The syntactic analyses used by Langholf are a direct descendant of the *Periodenbilder* of the 19th Century, although by the time of her dissertation the syntactic theories of Chomsky and Tesnière already had become widespread in the linguistic community. Langholf does not seem to have been aware of (or not interested in) those theories.
@@ -1506,14 +1524,6 @@ nothing yet in 1880 version of Sprachschule, only in Binstorfer revision?:
 
 ## Other approaches
 
-### Lonkay (1855) *Gyakorlati Német Nyelvtan*
-
-Antal Lonkay (1827-1888)
-
-https://www.biographien.ac.at/oebl?frames=yes
-
-German grammar for speakers of Hungarian. Table for German sentence structure with position for finite verb and position for non-finite parts at the end [@lonkay1855: 175],
-
 ### Stöhr (1898) *Algebra der Grammatik*
 
 [@stohr1898]
@@ -1522,7 +1532,7 @@ German grammar for speakers of Hungarian. Table for German sentence structure wi
 
 Adolf Stamm (1857-???)
 
-(1896 Oberlehrer in Iserlohn, 1911 erster Leiter des staatlichen Gymnasiums in Mülheim an der Ruhr?) 
+(1896 Oberlehrer in Iserlohn, 1910 erster Leiter des staatlichen Gymnasiums in Mülheim an der Ruhr: https://nbn-resolving.org/urn:nbn:de:hbz:061:1-899851 p.11
 
 idisyncratic graphics [@stamm1899]
 critique of Stamm: [@arens1902]
@@ -1550,21 +1560,11 @@ new proposal as a reaction to Adolf Stamm (1899) [@eberhard1905]
 
 > Das die graphische Darstellung ein erwünschtes Mittel ist, um Übersicht über ein verwickeltes Satzbilde zu erzielen, unterliegt keinem Zweifel. Nach meinen Erfahrungen bringen alle Schüler, auch die Minderbefähigten, der bezeichneten Darstellung ein großes Interesse entgegen – gewiss ein wichtiges Moment bei dem trockenen Lehrstoff! Die graphische Darstellung solcher Sätze, die in der Schule zergeliedert sind, ist deshalb auch eine viel begehrte Hausaufgabe. [@eberhard1905: 284]
 
-### Flothuis (1930) *Kurzgefaszte deutsche Syntax* 
-
-Marius Hendrikus Flothuis (1873-1950), teacher of german language and literature in Amsterdam. 
-Father of composer Marius Flothuis.
-https://archief.amsterdam/indexen/deeds/98533401-2df7-56a3-e053-b784100ade19?person=98533401-2df8-56a3-e053-b784100ade19
-
-Adds idiosyncratic diagrams of subordinate clauses to the end of his grammar. cites Kern and Wundt, but his graphics do not look like theirs [@flothuis1930]
+## Felderanalyse
 
 ### Drach (1937) *Grundgedanken der deutschen Satzlehre*
 
 Erich Drach (1885-1935) [@drach1937]
-
-### Heemstra (1947) *Grundrisz der deutsch-niederländischen Satzlehre*
-
-only graphical display of clause subordination. cites examples from [@kern1884] and [@flothuis1930], does not add anything new [@heemstra1947: 76-79]
 
 ### Glinz (1952) *Die innere Form des Deutschen*
 
@@ -1574,6 +1574,32 @@ only graphical display of clause subordination. cites examples from [@kern1884] 
 
 reception: https://docserv.uni-duesseldorf.de/servlets/DocumentServlet?id=46205
 
+### Erben (1958) *Abriss der deutschen Grammatik*
+
+https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/8374/file/Erben_Abriss_der_deutschen_Grammatik_1958.pdf
+
+p.188: citing Tesniere [@tesniere1953]
+
+vorfeld/nachfeld
+
+### Engel (1970) *Regeln zur Wortstellung*
+
+https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/595/file/Engel_Regeln_zur_Wortstellung_1970.pdf
+
+- Feldertheorie graphisch? using numbers: p. 42-43
+- nominal template p. 110
+
+https://d-nb.info/112594563X/34
+http://nbn-resolving.de/urn:nbn:de:bsz:mh39-5959
+
+### Reis (1980) *On Justifying Topological Frames*
+
+https://www.persee.fr/doc/drlav_0754-9296_1980_num_22_1_957
+
+sentence template p. 63-64
+
+## Post-WW2 didactic approaches
+
 ### Essen (1956) *Methodik des Deutschunterrichts*
 
 Erika Essen (1914-1986) bio [@muller1996]
@@ -1581,12 +1607,6 @@ Erika Essen (1914-1986) bio [@muller1996]
 [@essen1956; @essen1958] very nice curved lines!
 
 https://www.lagis-hessen.de/de/subjects/print/sn/bio/id/18993
-
-### Erben (1958) *Abriss der deutschen Grammatik*
-
-https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/8374/file/Erben_Abriss_der_deutschen_Grammatik_1958.pdf
-
-p.188: citing Tesniere [@tesniere1953]
 
 ### Grosse (1960) *Die deutsche Satzperiode*
 
@@ -1598,19 +1618,6 @@ p.188: citing Tesniere [@tesniere1953]
 [@rychener1960]
 
 [@rychener1982] Many different ideas by Rychener: underlining of clause-internal structure [@rychener1982: 150-151], Becker-style tables [@rychener1982: 178], tab-inserts [@rychener1982: 176], Vertical displacement of clause-combinations like Flothuis [@rychener1982: 189]
-
-### Engel (1970) *Regeln zur Wortstellung*
-
-https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/595/file/Engel_Regeln_zur_Wortstellung_1970.pdf
-
-- Feldertheorie graphisch? using numbers: p. 42-43
-- nominal template p. 110
-
-### Reis (1980) *On Justifying Topological Frames*
-
-https://www.persee.fr/doc/drlav_0754-9296_1980_num_22_1_957
-
-sentence template p. 63-64
 
 ### Lobentanzer (1986) *Deutsch muß nicht schwer sein*
 

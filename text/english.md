@@ -104,7 +104,7 @@ tables [@nesfield1898: 105-117]
 
 Charles Talbut Onions (1873-1965) Many editions, at least untill 1932
 
-tables and indented complex sentences [@onions1904]
+tables and indented complex sentences [@onions1904] *sentence picture* p.25
 
 ## Proto-Diagramming
 
