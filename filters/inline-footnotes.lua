@@ -51,7 +51,7 @@ padding-left: 2px;
 font-weight: bold;
 }
 .fn-number:before{
-  content: '▸ ';
+  content: '▸ ';
   vertical-align: super;
   font-size: small;
 }
