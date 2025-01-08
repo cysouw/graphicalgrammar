@@ -1466,7 +1466,7 @@ wilde Klasse des Herrn R. ganz toll ein lustiges Spiel, Sackhüpfen.
 *Satzbild* for the example in [@last] from Müller [-@muller1922: 49]. From the accompanying text it becomes clear that the subject (*die Klasse* 'the class') and the predicate (*spielte* 'played') are supposed to be placed side-by-side. The peculiar placement on top of each other in this graphic is probably due to the limited size of the printing page. As with all line diagrams the ordering of the words in the original sentence is not transparantly reflected in this graphical analysis.
 :::
 
-### Flothuis (1930) *Kurzgefaszte deutsche Syntax* 
+### Flothuis (1930) *Kurzgefaszte deutsche Syntax* {#sec:flothuis1930}
 
 Marius Hendrikus Flothuis (1873-1950) was a teacher of German language and literature in Amsterdam and the father of the composer with exactly the same name.^[Registration from the Amsterdam archive: <https://archief.amsterdam/indexen/deeds/98533401-2df7-56a3-e053-b784100ade19?person=98533401-2df8-56a3-e053-b784100ade19>.] He wrote a German grammar *Einfache kurzgefaszte deutsche Syntax*, which contains many examples of graphical analyses of complex sentences called *Satzbilder* [@flothuis1930: 136-145]. Throughout his book, Flothuis is exceptionally precise in referencing the works of other scholars, but the section about the *Satzbilder* does not make any reference to previous approaches. Possibly, he considered the graphical display to be his own invention.
 
@@ -1480,9 +1480,17 @@ Flothuis' *Satzbild* for the example in [@next] is shown in [@fig:flothuis1930_1
 *Satzbild* for the examples in [@last] in the analysis of Flothuis [-@flothuis1930: 136]. Subordinated clauses are positioned downwards relative to the main clause. Separated parts of a clause are linked by an arrow. The head of a relative clause is separated from the rest of the clause by tiny vertical lines.
 :::
 
-### Heemstra (1947) *Grundrisz der deutsch-niederländischen Satzlehre*
+### Heemstra (1947) *Grundrisz der deutsch-niederländischen Satzlehre* #{#sec:heemstra1947}
 
-only graphical display of clause subordination. cites examples from [@kern1884] and [@flothuis1930], does not add anything new [@heemstra1947: 76-79]
+Johannes Heemstra (1882-1961) was a teacher for German in Haarlem (Netherlands).^[It is probably this person: <https://gw.geneanet.org/pveenboer?n=heemstra&oc=&p=johannes>, but the birthdate is probably wrong there, cf. <https://www.erfgoedleiden.nl/collecties/personen/zoek-op-personen/deeds/f91c6f4d-a72c-7bf0-c389-d331292bb661?person=c4f023b1-de49-408f-eb22-ed91108d4107>, both pages accessed 8 January 2025.] He studied in Leiden, defended a PhD-thesis about German participles in Groningen and later wrote various textbooks for Dutch students of German. After his retirement he wrote the *Grundrisz der deutsch-niederländischen Satzlehre* [@heemstra1947]. In this book he used a *Satzbild* as shown in [@fig:heemstra1947_76] for the example sentence in [@next]. This display is inspired by Kern (see [@sec:kern1883]), whose approach is discussed explicitly by Heemstra [@heemstra1947: 77-78]. For good measure, Heemstra also reproduces an example from Flothuis (see [@sec:flothuis1930]) as another possibility to illustrate the structure of a complex sentence [@heemstra1947: 78-79].
+
+::: ex
+[NS 1]{.grey} Als er nach Hause kam, [HS]{.grey} fragte er seine Frau, [NS 1]{.grey} was der Arzt, [NS 2]{.grey} nach dem sie geschickt hatte, [NS 3]{.grey} weil das jüngste Kind plötzlich erkrankt war, zu seinem Befinden gesagt habe.
+:::
+
+::: {.im #heemstra1947_76}
+*Satzbild* for the example sentence in [@last] from Heemstra [-@heemstra1947: 76]. The only syntactic aspect that is somewhat hidden in this graphic is the fact that the first postposed clause is separated into two parts. The second part *(zu seinem Befinden gesagt habe)* only occurs at the end of the complex sentence.
+:::
 
 ### Langholf (1969) *Die Syntax des deutschen Amadisromans* {#sec:langholf1969}
 
@@ -1578,7 +1586,7 @@ reception: https://docserv.uni-duesseldorf.de/servlets/DocumentServlet?id=46205
 
 https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/8374/file/Erben_Abriss_der_deutschen_Grammatik_1958.pdf
 
-p.188: citing Tesniere [@tesniere1953]
+p.188: citing Tesniere [@tesniere1953], in the 1964 edition p. 266 adds a quib about the simplicity of the american constituent analysis https://doi.org/10.1515/9783112763575
 
 vorfeld/nachfeld
 
