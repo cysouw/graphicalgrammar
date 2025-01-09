@@ -1307,13 +1307,33 @@ In his graphical analysis, Toifel uses the colon in a special way. Lehmann origi
 
 ### Stamm (1899) *Graphische Darstellung* 
 
-Adolf Stamm (1857-???)
+Adolf Stamm (born 1857) was a teacher in Iserlohn and later a school director in Anklam and in Mülheim an der Ruhr.^[I have not been able to find more biographical information about him, except for the footnote on page 11 of this school report <https://nbn-resolving.org/urn:nbn:de:hbz:061:1-899851>. He is mentioned as the first director of the Gymnasium in Mülheim on <https://de.wikipedia.org/wiki/Otto-Pankok-Schule>. Both websites accessed 9 January 2025.] He wrote a small booklet called *Graphische Darstellung der deutschen Satzlehre nebst einer Interpunktionslehre* [@stamm1899] in which he presents his own, completely idiosyncratic, system of graphical sentence analysis. The few scholars who took notice of Stamm's work appear to be quite critical [@arens1902; @mossner1960], mostly because his images are too complex to be practical. Actually, Stamm's system of visual analysis is beautiful, well though-through and explained in much detail with very many examples. But indeed, it is not practical. It is very hard to remember what all symbols mean because they are completely arbitrary representations of linguistic structure.
 
-(1896 Oberlehrer in Iserlohn, 1910 erster Leiter des staatlichen Gymnasiums in Mülheim an der Ruhr: https://nbn-resolving.org/urn:nbn:de:hbz:061:1-899851 p.11
+Stamm proposes different systems for the analysis of single-clause sentences and for multi-clause complex sentences. The images for single-clause sentences at first seem reasonably easy to grasp, as illustrated here with example [@next a] displayed in [@fig:stamm1899_7]. They follow the traditional subject-predicate basis with various elements "growing" upwards out of this basis. However, there are different kinds of squiggly lines representing different kinds of structures, with numbers and letters arbitrary assigned to various functions. The same numbers even have different meanings depending upon which squiggly line they are used with.
 
-idisyncratic graphics [@stamm1899]
-critique of Stamm: [@arens1902]
-(other reaction to Stamm: [@mossner1960])
+For a multi-clause sentences *(Satzgefüge)* Stamm uses a variant of the music-score metaphor, illustrated here with example [@next b] displayed in [@fig:stamm1899_17]. The vertical line representes the main clause, and all subordinated clauses are indicated by horizontal lines, appearing in the order as they occur in the sentence. The height of the horizontal clauses represents the depth of the embedding. Different letters and dashes all have different meaning, which again are assigned completely arbitrarily. For example, the double dash for clause e^3̱̱^ indicates that it is a conditional clause, and the double vertical dashes with clauses d^2^ and e^4^ indicate that these are non-finite participle clauses.
+
+::: ex
+- Das neue Haus meines lieben endlich zurückgekehrten Freundes liegt im Walde. [@stamm1899: 7]
+- Es haut nach mir mit grimmen Zähnen, [c^2^]{.grey} als meine Hunde, [d^2^]{.grey} wutentbrannt, [c^2^]{.grey} an seinen Bauch mit grimmigen Bissen sich warfen, [e^3̱̱^]{.grey} dass es heulend stand, [e^4^]{.grey} von ungeheueren Schmerz zerissen. [@stamm1899: 17, citing Schiller *Der Kampf mit dem Drachen*]
+:::
+
+::: {.im #stamm1899_7}
+Graphical display of a single clause [@last a] from Stamm [-@stamm1899: 7]. The basic subject-predicate structure is easy to grasp. However, the different squiggly lines on top are completely arbritrarily assigned. For example, the number *1* with the three upwards-growing lines indicates (from left to right) an adjective *neu*, a genitive *meines* and a locative *im Walde*, respectively.
+:::
+
+::: {.im #stamm1899_17}
+Graphical display of a multi-clause *Satzgefüge* [@last b] from Stamm [@stamm1899: 17]. The main clause is represented by the vertical line, and all subordinate clauses are displayed as horizontal lines in the order as they appear in the sentence (with a striped arch for discontinuous clauses). The height of the horizontal lines indicates the depth of embedding. The letters, numbers and dashes are again completely arbritrarily assigned to specific grammatical structures.
+:::
+
+### Golling (1900) *Chrestomathie aus Livius*
+
+https://de.wikipedia.org/wiki/Josef_Golling
+
+2nd edition [@golling1900], but first edition from 1892 is nowhere to be found
+5th edition 1922
+
+cites Nägelsbach and follows his abbreviations, e.g. vi-viii
 
 ### Raumer (1902) *Das Periodenbild* {#sec:raumer1902}
 
@@ -1554,7 +1574,7 @@ Georg Dinkel (dates unknown) from Nürnberg wrote a small article in the *Bayeri
 
 ### Stöhr (1898) *Algebra der Grammatik*
 
-Adolf Stöhr (1855–1921) was a professor for philosophy in Vienna [biographical details in @angetter2009]. He wrote a rather curious book called *Algebra der Grammatik* [@stohr1898], which was assessed as "rather fanstastic" by Jespersen [-@jespersen1937: 83]. Although idiosyncratic, Stöhr's book is not as crazy as Jespersen makes it sound. Stöhr assigns codes to linguistic elements, which are subsequently combined into larger expressions. However, his primary goal does not appear to be any detailed description of linguistics structures, but rather an attempt to try and "calculate" with these larger expressions, somewhat akin to what today would be called deriving semantic inferences.
+Adolf Stöhr (1855–1921) was professor for philosophy in Vienna [biographical details in @angetter2009]. He wrote a rather curious book called *Algebra der Grammatik* [@stohr1898], which was assessed as "rather fantastic" by Jespersen [-@jespersen1937: 83]. Although idiosyncratic, Stöhr's book is not as crazy as Jespersen makes it sound. Stöhr assigns codes to linguistic elements, which are subsequently combined into larger expressions. However, his primary goal does not appear to be any detailed description of linguistics structures, but rather an attempt to try and "calculate" with these larger expressions, somewhat akin to what today would be called deriving semantic inferences.
 
 Stöhr [-@stohr1898: 6-11] differentiates between elements *a* (=*Ausdruck*, today we would say "lexical morpheme") and *d* (=*Derivation*, today we would say "grammatical morpheme"). Different morphemes are distinguished by a numeric identifier that is written above the letter. Stöhr goes into great detail for the grammatical morphemes, defining many different kinds of *d* elements. Although he explicitly states not to pursue completeness [*nicht ein erschöpfendes Verzeichnis*, @stohr1898: 15], I have counted more than 200 different defined codes in his book, classified into 15 different classes indicated by different letters.^[Just scrolling through his book, I found 46 different grammatical elements designated as *i*, 47 elements called *m*, 62 times *o*, 6 times *v*, 9 times *t*, 5 times *e*, 2 times *p*, 3 times *n*, 4 times *b*, 2 times *h*, 4 times *l*, 4 times *f*, 11 times *q*, 2 times *g* and 2 times *s*. It is beyond the scope of this book to go into more detail here.]
 
