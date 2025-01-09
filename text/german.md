@@ -939,16 +939,6 @@ Heißen Sie den Hausdiener meinen Reisesack in mein Zimmer im zweiten Stockwerk 
 Clause-internal structure of the example sentence in [@last] from Blatz [-@blatz1896: 45]. This analysis has the verb (*heißen*) alone at the top, with all constituents hanging down from it (not all lines are explicitly drawn, which makes the image quite confusing). All earlier line-drawing have subject and predicate equally placed on the top. This verb-centric analysis is probably inspired by Kern (see Figure ???), whose method was published between the second and third edition of Blatz' book.
 :::
 
-### Götzinger (1880) *Deutsche Grammatik* {#sec:götzinger1880}
-
-Ernst Götzinger (1837-1896), son of Maximilian Götzinger (see [@sec:götzinger1836]), was a teacher in St. Gallen (Switzerland). He wrote extensively about local history, German literature and he reissued his father's books after his death [more biographical details in @dierauer1897]. He also wrote a grammar *Deutsche Grammatik in genetischer Darstelllung* [@gotzinger1880] in which he criticised the *Periodenbilder* of Lehmann (see [@sec:lehmann1833]) and proposes an alternative. Intriguingly, he does not mention his father's graphical approach, with which he would have been intimately familiar.
-
-Götzinger proposes a very simple model for sentence analysis, consisting only of a plus symbol and hierarchically ordered brackets [@gotzinger1880: 155-156]. He uses the term *algebraische Gleichungen* 'algebraic formulae' for his approach. Although the method is described very clearly in words, as quoted below, Götzinger does not give any examples of how his grammatical algebra works in practice for more complex sentences. A few concrete examples of Götzinger's approach are given much later by Dinkel (see [@sec:dinkel1895]).
-
-> Will man das Satzgefüge in schematischen Bildern darstellen, so wird man sich besser der Methode der algebraischen Gleichungen bedienen. Angenommen, S heiße Subject, SS Subjectsubstantiv, P Prädicat, PV Prädicatverb, so ist die Formel jedes Satzes: S+P oder SS+PV. Beide Satzglieder lassen sich nun erweitern; ist das Subject-substantiv durch ein Adjectiv (a) oder durch eine Apposition (A) oder durch einen Genitiv (G) oder durch einen indirecten Casus (IC) erweitert, so würden die Formeln entstehen: (a+SS)+PV; (SS+A)+PV; (SS+G)+PV oder (G+SS)+PV; (SS+IC)+PV. Wäre das Prädicatsverb durch einen Accusativ (Acc.) oder Genitiv (Gen.) oder Dativ (D) oder einen indirecten Casus (IC) oder durch ein Adverb erweitert, so würde sich der Buchstabe dafür mit PV zusammenklammern lassen müssen, z.B. SS+(PV+Gen). Jede neue Erweiterung beiordnender oder unterordnender Natur ließe sich dergestalt in die Grundgleichung einfügen, ebenso jeder Nebensatz, der entweder dem Subject oder dem Prädicat angehört; das wesentlichste Mittel dieser Satztypen ist immer die Klammer, vermittelst welcher die zu einer begrifflichen Einheit zusammentretenden Einzelglieder aneinandergefügt werden. [@gotzinger1880: 156]
->
-> When one wants to display the sentence structure in a schematic image, then it is to be preferred to use the method of algebraic equations. Suppose S is called subject, SS subjective substantive, P predicate, PV predicative verb, then the formula for each sentence is: S+P or SS+PV. Both these constituents can be expanded; when the subjective substantive is expanded with an adjective (a) or with an apposition (A) or with a genitive (G) or with an indirect case (IC), then the following formulae would arise: (a+SS)+PV; (SS+A)+PV; (SS+G)+PV or (G+SS)+PV; (SS+IC)+PV. When the predicative verb is expanded with an accusative (Acc.) or a genitive (Gen.) or dative (D) or an indirect case (IC) or with an adverb, than the letter for this expansion would be encapsulated together with the PV, e.g. SS+(PV+Gen). Likewise, each new expansion of a coordinating or subordinating nature can be inserted into the basic formula, and likewise each subordinate clause, which belong either to the subject or the predicate. The crucial method for these [more complex, MC] sentence types is the bracket, by which the elements, which are to be assembled into a conceptual unit, are joined together.
-
 ### Zettel (1882) *Unterricht in der deutschen Sprache* {#sec:zettel1882}
 
 Karl Zettel (1831-1904) was a teacher in Regensburg and later an editor of de-luxe editions of German poetry in Munich. He wrote a small article about the method of teaching German in schools, called *Auf welche Weise kann der Unterricht in der deutschen Sprache und Literatur an unseren Studienanstalten methodisch und systematisch betrieben werden?* [@zettel1882]. He argues that *Satzbilder* are quite useful in school, as they can readily be displayed on the blackboard [@zettel1882: 85-87]. His graphics look like those of Götzinger (see [@sec:götzinger1836]), although Zettel uses superscript numbers to indicate the parts of a clause that are separated by other clauses. Also telling is his example sentence [@next], which is a reformulation of the example given by Bauer (see [@fig:bauer1850_97]).
@@ -1256,18 +1246,6 @@ In an article about the role of translation from Greek to German in secondary ed
 *Satzbild* for the sentence from Plato's *Crito* in [@last a] as analysed by Gloël [-@gloel1895: 75]. Capital letters are main clauses, lower-case Latin letters are subordinated clauses, greek letters are second-grade subordination. The letter "~~P~~" indicates a non-finite clause using a participles. Numbers indicate conjoined clauses to the previous letter-marked clause. The marker *B* for the second main clause should probably by placed on the same level as the main clause *A*. This appears to be a printing error.
 :::
 
-### Dinkel (1895) *Zum Umsturz der Vulgärgrammatik* {#sec:dinkel1895}
-
-Georg Dinkel (dates unknown) from Nürnberg wrote a small article in the *Bayerische Lehrerzeitung* about his *Plan einer einfachen Grammatik des Deutschen auf historischer Grundlage* 'plan for a simple German grammar on a historical basis' [@dinkel1895]. In this article he proposes a *Satzbild* that is based on the proposals from Ernst Götzinger (see [@sec:götzinger1880]), who is explicitly cited by Dinkel. Götzinger himself did not give any concrete examples of his approach, so the few examples in Dinkel's article are the only available examples. Of particular interest is the principle to use nested brackets to indicate hierarchical structure. For example, the sentence in [@next] is analysed with the *Satzbild* in [@fig:dinkel1895_634] 
-
-::: ex
-Ein munterer Sennbub aus einem Dorfe in der Schweiz stieg eines Tages auf einem steilen Gebirgspfade ins Thal herab.
-:::
-
-::: {.im #dinkel1895_634}
-*Satzbild* for the example sentenence in [@last] from Dinkel [-@dinkel1895: 634]. The numbers indicate cases (2=genitive, 3=dative, 4=accusative), ignoring the fact that the cases are governed by prepositions. Of particular interest is the use of nested brackets to indicate hierarchical structure.
-:::
-
 ### Trunk (1895) *Über Satzbilder* {#sec:trunk1895}
 
 Hans Trunk (1847-1929) was a teacher and school director in Graz (Austria).^[I have not been able to find much biographical information about Hans Trunk. HathiTrust provides a birthyear (<https://catalog.hathitrust.org/Record/102143919>) and *Kürschners Deutscher Literatur-Kalender* (1930: 1524) lists his death, but without precise date (<https://doi.org/10.1515/9783112340301>).] Most of his writings deal with pedagogical methods. In this context he writes a small article *Über Satzbilder* [@trunk1895]. Much of the content of this article is also included in a more wide-ranging book about teaching German language *Zur Hebung des deutschen Sprachunterrichtes* [@trunk1898: 123-127]. 
@@ -1327,6 +1305,16 @@ In his graphical analysis, Toifel uses the colon in a special way. Lehmann origi
 *Satzbild* for the example in [@llast] from Toifel [-@toifel1896: 19]. Toifel argues that the relative clause *b^3^* is actually a preposed relative clause, referring to *die* 'them' in the following clause *b^2^*. This special proposing is indicated by the colon betwen *b^3^* and *b^2^* in the figure.
 :::
 
+### Stamm (1899) *Graphische Darstellung* 
+
+Adolf Stamm (1857-???)
+
+(1896 Oberlehrer in Iserlohn, 1910 erster Leiter des staatlichen Gymnasiums in Mülheim an der Ruhr: https://nbn-resolving.org/urn:nbn:de:hbz:061:1-899851 p.11
+
+idisyncratic graphics [@stamm1899]
+critique of Stamm: [@arens1902]
+(other reaction to Stamm: [@mossner1960])
+
 ### Raumer (1902) *Das Periodenbild* {#sec:raumer1902}
 
 Siegmund von Raumer (1860-1939) was a teacher in Erlangen. He wrote a short article about *Periodenbilder* complaining about their complexity and unsuitability for usage in education. He is particularly critical of Kern (cf. [@sec:kern1883]), discussing the example shown earlier in [@fig:kern1884_56]. Just like Kern himself, Raumer also misses that there is an error in that graphic. 
@@ -1363,6 +1351,16 @@ Der kleine Sohn des Bauerns brachte den durstigen Wanderer schnell einen Trunk k
 ::: {.im #mensing1927_88}
 *Satzbild* for the examples sentence in [@last] from Mensing [-@mensing1927: 88].
 :::
+
+### Eberhard (1905) *Graphische Darstellung in der Sprachlehre* 
+
+Johann Eberhard (1838-?)
+
+(Direktor in Sigmaringen in 1889?)
+
+new proposal as a reaction to Adolf Stamm (1899) [@eberhard1905]
+
+> Das die graphische Darstellung ein erwünschtes Mittel ist, um Übersicht über ein verwickeltes Satzbilde zu erzielen, unterliegt keinem Zweifel. Nach meinen Erfahrungen bringen alle Schüler, auch die Minderbefähigten, der bezeichneten Darstellung ein großes Interesse entgegen – gewiss ein wichtiges Moment bei dem trockenen Lehrstoff! Die graphische Darstellung solcher Sätze, die in der Schule zergeliedert sind, ist deshalb auch eine viel begehrte Hausaufgabe. [@eberhard1905: 284]
 
 ### Bartmann (1907) *Sprachübungen für die Hand des Lehrers*
 
@@ -1530,21 +1528,50 @@ nothing yet in 1880 version of Sprachschule, only in Binstorfer revision?:
 - https://onb.digital/result/117D523D
 - https://onb.digital/result/117D5224
 
-## Other approaches
+## Algebraic formulae
+
+### Götzinger (1880) *Deutsche Grammatik in genetischer Darstelllung* {#sec:götzinger1880}
+
+Ernst Götzinger (1837-1896), son of Maximilian Götzinger (see [@sec:götzinger1836]), was a teacher in St. Gallen (Switzerland). He wrote extensively about local history, German literature and he reissued his father's books after his death [more biographical details in @dierauer1897]. He also wrote a grammar *Deutsche Grammatik in genetischer Darstelllung* [@gotzinger1880] in which he criticised the *Periodenbilder* of Lehmann (see [@sec:lehmann1833]) and proposes an alternative. Intriguingly, he does not mention his father's graphical approach, with which he would have been intimately familiar.
+
+Götzinger proposes a very simple model for sentence analysis, consisting only of a plus symbol and hierarchically ordered brackets [@gotzinger1880: 155-156]. He uses the term *algebraische Gleichungen* 'algebraic formulae' for his approach. Although the method is described very clearly in words, as quoted below, Götzinger does not give any examples of how his grammatical algebra works in practice for more complex sentences. A few concrete examples of Götzinger's approach are given much later by Dinkel (see [@sec:dinkel1895]).
+
+> Will man das Satzgefüge in schematischen Bildern darstellen, so wird man sich besser der Methode der algebraischen Gleichungen bedienen. Angenommen, S heiße Subject, SS Subjectsubstantiv, P Prädicat, PV Prädicatverb, so ist die Formel jedes Satzes: S+P oder SS+PV. Beide Satzglieder lassen sich nun erweitern; ist das Subject-substantiv durch ein Adjectiv (a) oder durch eine Apposition (A) oder durch einen Genitiv (G) oder durch einen indirecten Casus (IC) erweitert, so würden die Formeln entstehen: (a+SS)+PV; (SS+A)+PV; (SS+G)+PV oder (G+SS)+PV; (SS+IC)+PV. Wäre das Prädicatsverb durch einen Accusativ (Acc.) oder Genitiv (Gen.) oder Dativ (D) oder einen indirecten Casus (IC) oder durch ein Adverb erweitert, so würde sich der Buchstabe dafür mit PV zusammenklammern lassen müssen, z.B. SS+(PV+Gen). Jede neue Erweiterung beiordnender oder unterordnender Natur ließe sich dergestalt in die Grundgleichung einfügen, ebenso jeder Nebensatz, der entweder dem Subject oder dem Prädicat angehört; das wesentlichste Mittel dieser Satztypen ist immer die Klammer, vermittelst welcher die zu einer begrifflichen Einheit zusammentretenden Einzelglieder aneinandergefügt werden. [@gotzinger1880: 156]
+>
+> ('When one wants to display the sentence structure in a schematic image, then it is to be preferred to use the method of algebraic equations. Suppose S is called subject, SS subjective substantive, P predicate, PV predicative verb, then the formula for each sentence is: S+P or SS+PV. Both these constituents can be expanded; when the subjective substantive is expanded with an adjective (a) or with an apposition (A) or with a genitive (G) or with an indirect case (IC), then the following formulae would arise: (a+SS)+PV; (SS+A)+PV; (SS+G)+PV or (G+SS)+PV; (SS+IC)+PV. When the predicative verb is expanded with an accusative (Acc.) or a genitive (Gen.) or dative (D) or an indirect case (IC) or with an adverb, than the letter for this expansion would be encapsulated together with the PV, e.g. SS+(PV+Gen). Likewise, each new expansion of a coordinating or subordinating nature can be inserted into the basic formula, and likewise each subordinate clause, which belong either to the subject or the predicate. The crucial method for these [more complex, MC] sentence types is the bracket, by which the elements, which are to be assembled into a conceptual unit, are joined together.')
+
+### Dinkel (1895) *Zum Umsturz der Vulgärgrammatik* {#sec:dinkel1895}
+
+Georg Dinkel (dates unknown) from Nürnberg wrote a small article in the *Bayerische Lehrerzeitung* about his *Plan einer einfachen Grammatik des Deutschen auf historischer Grundlage* 'plan for a simple German grammar on a historical basis' [@dinkel1895]. In this article he proposes a *Satzbild* that is based on the proposals from Ernst Götzinger (see [@sec:götzinger1880]), who is explicitly cited by Dinkel. Götzinger himself did not give any concrete examples of his approach, so the few examples in Dinkel's article are the only available examples. Of particular interest is the principle to use nested brackets to indicate hierarchical structure. For example, the sentence in [@next] is analysed with the *Satzbild* in [@fig:dinkel1895_634] 
+
+::: ex
+[Ew]{.grey} Ein munterer Sennbub [3.]{.grey} aus einem Dorfe [3.]{.grey} in der Schweiz [P]{.grey} stieg [2.]{.grey} eines Tages [3.]{.grey} auf einem steilen Gebirgspfade [4.]{.grey} ins Thal herab.
+:::
+
+::: {.im #dinkel1895_634}
+*Satzbild* for the example sentenence in [@last] from Dinkel [-@dinkel1895: 634]. The numbers indicate cases (2=genitive, 3=dative, 4=accusative), ignoring the fact that the cases are governed by prepositions. Of particular interest is the use of nested brackets to indicate hierarchical structure.
+:::
 
 ### Stöhr (1898) *Algebra der Grammatik*
 
-[@stohr1898]
+Adolf Stöhr (1855–1921) was a professor for philosophy in Vienna [biographical details in @angetter2009]. He wrote a rather curious book called *Algebra der Grammatik* [@stohr1898], which was assessed as "rather fanstastic" by Jespersen [-@jespersen1937: 83]. Although idiosyncratic, Stöhr's book is not as crazy as Jespersen makes it sound. Stöhr assigns codes to linguistic elements, which are subsequently combined into larger expressions. However, his primary goal does not appear to be any detailed description of linguistics structures, but rather an attempt to try and "calculate" with these larger expressions, somewhat akin to what today would be called deriving semantic inferences.
 
-### Stamm (1899) *Graphische Darstellung* 
+Stöhr [-@stohr1898: 6-11] differentiates between elements *a* (=*Ausdruck*, today we would say "lexical morpheme") and *d* (=*Derivation*, today we would say "grammatical morpheme"). Different morphemes are distinguished by a numeric identifier that is written above the letter. Stöhr goes into great detail for the grammatical morphemes, defining many different kinds of *d* elements. Although he explicitly states not to pursue completeness [*nicht ein erschöpfendes Verzeichnis*, @stohr1898: 15], I have counted more than 200 different defined codes in his book, classified into 15 different classes indicated by different letters.^[Just scrolling through his book, I found 46 different grammatical elements designated as *i*, 47 elements called *m*, 62 times *o*, 6 times *v*, 9 times *t*, 5 times *e*, 2 times *p*, 3 times *n*, 4 times *b*, 2 times *h*, 4 times *l*, 4 times *f*, 11 times *q*, 2 times *g* and 2 times *s*. It is beyond the scope of this book to go into more detail here.]
 
-Adolf Stamm (1857-???)
+Elements can be combined by writing them side-by-side, called *Ableitung*, which is typically used for examples of composition and derivation (in modern terminology). This *Ableitung* is opposed to *Apposition* [@stohr1898: 51ff.] for syntactic combination, written with a star-symbol in between the elements. Stöhr notes that such *Apposition* is hierarchically organised and he proposes to use brackets to indicate this hierarchy. He exemplifies this with the example [@next] as graphically represented in [@fig:stöhr1898_87].
 
-(1896 Oberlehrer in Iserlohn, 1910 erster Leiter des staatlichen Gymnasiums in Mülheim an der Ruhr: https://nbn-resolving.org/urn:nbn:de:hbz:061:1-899851 p.11
+> Das geeignetste Zeichen für die Apposition eines selbst wiederum
+durch Apposition gebildeten Ausdruckes zu anderen Ausdrücken, dürften zwei Klammern sein, zwischen welche man den zusammengesetzten Ausdruck schreibt. [@stohr1898: 87]
+>
+> ('The most suitable sign for the *Apposition* of an expression, which itself is formed by *Apposition* to other expressions, is probably two brackets, between which the compound expression is written.')
 
-idisyncratic graphics [@stamm1899]
-critique of Stamm: [@arens1902]
-(other reaction to Stamm: [@mossner1960])
+::: ex
+[a^1^]{.grey} ein [a^2^]{.grey} Mann, [o^6^]{.grey} in [a^1^]{.grey} einem [a^3^]{.grey} langen [a^4^]{.grey} Mantel, [o^4^]{.grey} mit [l^4^]{.grey} dem [a^5^]{.grey} Hut [o^44^]{.grey} auf [l^4^]{.grey} dem [a^6^]{.grey} Kopfe
+:::
+
+::: {.im #stöhr1898_87}
+Complex *Apposition* with hierarchically ordered brackets for the noun phrase in [@last] as proposed by Stöhr [-@stohr1898: 87]. The individual letters stand for linguistic expressions, *a* for lexical material and other letters for various grammatical elements. Although Stöhr claims some general "univeral" nature for the grammatical elements, they corresponds one-to-one to German words.
+:::
 
 ### Meyer-Lübke (1899) *Grammatik der Romanischen Sprachen*
 
@@ -1557,16 +1584,6 @@ https://archive.org/details/grammatikderrom00meyegoog/page/799/mode/2up
 Friedrich Feigl, inspired by Meyer-Lübke
 
 https://opac.ku.de/s/uei/de/2/-1+%3D+%22Friedrich+feigl%22+filter%281280%3D%22%3C%3D1908%22%29
-
-### Eberhard (1905) *Graphische Darstellung in der Sprachlehre* 
-
-Johann Eberhard (1838-?)
-
-(Direktor in Sigmaringen in 1889?)
-
-new proposal as a reaction to Adolf Stamm (1899) [@eberhard1905]
-
-> Das die graphische Darstellung ein erwünschtes Mittel ist, um Übersicht über ein verwickeltes Satzbilde zu erzielen, unterliegt keinem Zweifel. Nach meinen Erfahrungen bringen alle Schüler, auch die Minderbefähigten, der bezeichneten Darstellung ein großes Interesse entgegen – gewiss ein wichtiges Moment bei dem trockenen Lehrstoff! Die graphische Darstellung solcher Sätze, die in der Schule zergeliedert sind, ist deshalb auch eine viel begehrte Hausaufgabe. [@eberhard1905: 284]
 
 ## Felderanalyse
 
