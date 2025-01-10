@@ -234,8 +234,6 @@ Jakob schickte seinen jüngsten Sohn nicht mit den übrigen nach Aegypten, weil 
 Tabular analysis from Becker [-@becker1833a: 43] of the complex sentence [@last] with various subordinate clauses, . The term *Eigenschaftssatz* is used for relative clauses, *Bestimmungssatz* for adverbial clauses and *Dingsatz* for complement clauses.
 :::
 
-## *Periodenbild* and *Satzbild*
-
 ### Diesterweg (1830) *Praktischer Lehrgang für den Unterricht*  {#sec:diesterweg1830}
 
 Friedrich Adolph Wilhelm Diesterweg (1790-1866) was a teacher and a prolific author of textbooks. He also wrote extensively about didactic methods in general, strongly influenced by the ideas of Pestalozzi. Later in life he was politically active in an attempt to reform the Prussian educational system. His practical textbooks mainly dealt with mathematics and German linguistics. A comprehensive analysis of his linguistic work can be found in Czoska [-@czoska1984]. His linguistic proposals did not have much influence on the further development of syntactic analysis, which is unfortunate, because there are a lot of useful insights hidden there.
@@ -431,6 +429,8 @@ Finally, Lehmann wrote a literary analysis *Forschungen über Lessings Sprache* 
 
 Lehmann's examples of the application of the scheme to actual literary texts inspired many philological analyses in the decades to come. For example, via the *Repetitorium* of Menge (see [@sec:menge1873]) there is a direct line to the 1969 dissertation on the *Amadisroman* from Langholf (see [@sec:langholf1969]) using similar graphical analyses as Lehmann, more than a century after the original proposals.
 
+## *Periodenbild* and *Satzbild*
+
 ### Götzinger (1836) *Die deutsche Sprache* {#sec:götzinger1836}
 
 Maximilian Wilhelm Götzinger (1799–1856) was a teacher of German, most of his life working in Schaffhausen (Switzerland). He wrote extensively about grammar, literature and dialectology, see Olsson [-@olsson2009] for an comprehensive appraisal of his work. Besides his didactic writings, Götzinger also provided material for Grimm's dictionary project [@olsson2009: 37] and he was even awarded a doctorate *honoris causa* from the University of Basel in 1838 [@olsson2009: 36], probably through his personal contact with Wilhelm Wackernagel (the father of Jacob Wackernagel of *Wackernagel's law*-fame).
@@ -570,18 +570,6 @@ The abbreviations that are used in the graphical analysis can be reconstructed f
 
 ::: {.im #haupt1841_viii}
 Graphical analysis of the example [@last] from Haupt [-@haupt1841: viii]. The internal structure of the six clauses is depicted by hierarchically ordered horizontal braces.
-:::
-
-### Nägelsbach (1846) *Lateinische Stilistik* {#sec:nägelsbach1846}
-
-Carl Friedrich Nägelsbach (1806-1859) was professor for classical studies in Erlangen. He wrote various commentaries on classical texts and a didactic explanation of Latin style, called *Lateinische Stilistik für Deutsche, ein sprachvergleichender Versuch* [@nagelsbach1846]. The book saw various editions up to a ninth edition in 1905, prepared by Iwan Müller. This ninth edition has been reprinted up to at least 1980.
-
-In the *Lateinische Stilistik* Nägelsbach uses *Periodenbilder* to analyse latin constructions, citing both Lehmann [@nagelsbach1846: 281] and Götzinger [@nagelsbach1846: 282] as inspiration. He simplifies the structure of the *Periodenbild* to be able to write them on a single line, using slashes instead of horizontal braces, as illustrated in [@fig:nägelsbach1846_286] [@nagelsbach1846: 286].
-
-Another innovation proposed by Nägelsbach is to use brackets for relative modification at the front of the sentence. Specifically, he notes that in Latin it is quite common to have multiple *Vordersätze*, i.e. clauses in front of the main clause, as indicated by the colon in Lehmann's notation. Because of the ordering of modification, Nägelsbach proposed *Periodenbilder* like "a:(b:A)" and even "a:(b:[c:A])" for reverse-nested frontal clauses [@nagelsbach1846: 286, 289].
-
-::: {.im #nägelsbach1846_286}
-Simplified *Periodenbild* from Nägelsbach [-@nagelsbach1846: 286]. To be able to write *Periodenbilder* as a single line, he replaces the horizontal brace from Lehmann and Götzinger with a simple forward slash. This makes them much easier to typeset.
 :::
 
 ### Fürg (1847) *Satz und Styllehre* {#sec:fürg1847}
@@ -803,15 +791,6 @@ Es ist ein Lob für einen Mann, wenn man seine Fehler sagen darf, ohne daß er a
 Graphical analysis of the sentence in [@last] from Zitzlsperger [-@zitzlsperger1871: 135]. The notational details are very similar to those of Bauer (see [@sec:bauer1850]). The underlining is new: it is used to indicate the complexity of the clause. Also the meaning of the superscripts is different from Bauer: it is used to indicate the semantic kind of the adverbial clause.
 :::
 
-### Menge (1873) *Repetitorium der lateinischen Syntax* {#sec:menge1873}
-
-Hermann August Menge (1841-1939) was a teacher and is widely known as the translator of the infamous German *Menge-Bibel*. Based on his practical experience as a teacher he wrote textbooks for Latin and Greek. The Latin textbook was still in use far into the 20th Century, though in a slightly revised version [e.g. a 1955 edition is cited in @langholf1969: 10]. I will use here the sixth edition, which is the earliest edition I have been able to access [@menge1890]. The prefaces to the earlier editions do not mention any changes as far as the graphical analysis is concerned, so I assume that they were already present in the first edition of 1873.
-
-Menge [-@menge1890: 357-364] uses a graphical analysis of the *Periode* in the tradition of Lehmann (see [@sec:lehmann1833]). However, he uses a forward slash instead of a horizontal brace, just like Nägelsbach (see [@sec:nägelsbach1846]). In the preface to the first edition Menge cites the influence of many different grammars of Latin [@menge1890: v], but not Nägelsbach. However, Nägelsbach is mentioned in passing at various times throughout the book [e.g. @menge1890: v, 342]. So it seems very likely that the use of the forward slashes is inspired by Nägelsbach.
-
-::: {.im #menge1890_364}
-Analysis of *Periode* from Menge [-@menge1890: 364]. In this example he presents various ways in which a subordinate clause can be positionen in Latin, nicely summarising the syntactic possibilities by using the different abbreviations. Menge here uses the forward slash for clause-final subordination, like Nägelsbach (see [@fig:nägelsbach1846_286]).
-:::
 
 ### Schütze (1875) *Über den deutschen Gliedsatz* {#sec:schütze1875}
 
@@ -951,24 +930,6 @@ Ich schenkte ihm 300 Rubel, und als ich erfuhr, dass derselbe in Kiew einen Anve
 *Satzbild* from Zettel [-@zettel1882: 86] for the example sentence in [@last]. The example is almost identical to the example from Bauer in [@fig:bauer1850_97]. It seems like the placement of the main clause capital *B* (*stellte ich ihm frei*) is a printing error. It should probably be placed at the top, aligned with the capital *A* main clause (*ich schenkte ihm 300 Rubel*).
 :::
 
-### Schulze (1883) *Adiumenta Latinitatis* {#sec:schulze1883}
-
-Ernst Hendrik Ferdinand Schulze (1842-1911) was a teacher and school director, first in St. Petersburg and later in Bad Homburg vor der Höhe. Biographical details are available in Schulze [-@schulze1901: 46-47].^[A good overview is also available on <https://de.wikipedia.org/wiki/Ernst_Schulze_(Historiker)>, accessed 7 January 2025.] He wrote an advanced Latin textbook *Adiumenta Latinitatis. Grundzüge des lateinischen Stils in Verbindung mit Übersetzungsstücken für die oberste Stufe des Gymnasiums* [@schulze1883].
-
-In this book he used very simple *Periodenbilder* for the analysis of Latin sentences [@schulze1883: 116-122]. He only uses the letters *A* for main clause, *a* for subordinate clause, and *α* for secondary subordinate clause. Specifcally, he used this graphical analysis to explain differences between German and Latin sentence structure.  The regular Latin word order would be *a α A*, as shown in [@next]. However, the Latin word order is quite flexible, and many different orders are possible. Schulze then gives the table shown in [@fig:schulze1883_121] with the orders that are possible in Latin, but not in German.
-
-::: ex
-a. [a]{.grey} *facias me certiorem* [α]{.grey} *quid istic agatur* [A]{.grey}* velim*.
-b.
-|
-| faci-as me certior-em quid istic ag-atur velim.
-| make-2SG 1SG.OBJ surer-ACC.SG what there do-PASS.3SG wish.1SG
-| I would like you to inform me what is going on there.
-:::
-
-::: {.im #schulze1883_121}
-*Periodenbilder* from Schulze [-@schulze1883: 121] showing possible sentence orders in Latin that are impossible in German. He uses a very reduced system of symbols with *A* for main clause, *a* for subordinate clause, and *α* for secondary subordinate clause.
-:::
 
 ### Kern (1883) *Methodik des deutschen Unterrichts* {#sec:kern1883}
 
@@ -1230,22 +1191,6 @@ Kuderna extols his own system because of the transparent usage of the letters (*
 *Satzbild* for a complex clause with multiple subordinate clauses [@last b] from Kuderna [-@kuderna1895: 52]. The striked-through *N* indicates a non-finite *zu-Infinitiv* subordinate clause. The ordering of the subordinate clauses in the *Satzbild* is strictly left-to-right and top-to-bottom. However, Kuderna does not mark clause-internal subordination. This leads to clauses that are separated into multiple parts, and these impede the interpretation of a *Satzbild*.
 :::
 
-### Gloël (1895) *Schriftliche Übersetzung aus dem Griechischen* {#sec:gloël1895}
-
-Heinrich Gloël (1855-1940) was a teacher and literary scholar, first in Wesel and and later in Wetzlar. He started as a classical scholar, writing a disseration about the Greek play *Hippolytos* by Eurypides and teaching classical languages. Later in life he specialized in critical evaluations of texts of Goeths (more biographical information in Flender 1983).
-
-In an article about the role of translation from Greek to German in secondary education, Gloël discussed various examples from classical Greek and the problems with their translation into German [@gloel1895]. The final example he discusses is an excerpt from Plato's *Crito* [@gloel1895: 67-76]. For two complex sentences with many subordinated clauses in this excerpt, Gloël uses *Satzbilder* to illustrate their syntactic structure. For example, the *Satzbild* in [@fig:gloël1895_75] is an analysis of the sentence in [@next a]. I have added the letters from Gloël's *Satzbild* into this example, something which Gloël assumes that the reader is able to do. The translation in [@next b] is by Harald Fowler.^[Plato in Twelve Volumes, Vol. 1 translated by Harold North Fowler; Introduction by W.R.M. Lamb. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1966. Available online at <https://www.perseus.tufts.edu/>.]
-
-::: ex
-- \(A) ἢ πρὸς μὲν ἄρα σοι τὸν πατέρα οὐκ ἐξ ἴσου ἦν τὸ δίκαιον καὶ πρὸς δεσπότην, (a) εἴ σοι ὢν ἐτύγχανεν, (b) ὥστε (β) ἅπερ πάσχοις ταῦτα (b) καὶ ἀντιποιεῖν, (1) οὔτε κακῶς ἀκούοντα ἀντιλέγειν (2) οὔτε τυπτόμενον ἀντιτύπτειν (3) οὔτε ἄλλα τοιαῦτα πολλά· (B) πρὸς δὲ τὴν πατρίδα ἄρα καὶ τοὺς νόμους ἐξέσται σοι, (c) ὥστε, (γ) ἐάν σε ἐπιχειρῶμεν ἡμεῖς ἀπολλύναι (~~P~~) δίκαιον ἡγούμενοι εἶναι, (c) καὶ σὺ δὲ ἡμᾶς τοὺς νόμους καὶ τὴν πατρίδα (δ) καθʼ ὅσον δύνασαι (c) ἐπιχειρήσεις ἀνταπολλύναι, (1) καὶ φήσεις ταῦτα ποιῶν (2) δίκαια πράττειν, (~~P~~) ὁ τῇ ἀληθείᾳ τῆς ἀρετῆς ἐπιμελόμενος; \
-  [@gloel1895: 67, citing Plato *Crito*. Clause-symbols are not given in the original, but inserted here to coincide with the *Satzbild* below]
-- \(A) There was no such equality of right between you and your father or your master, (a) if you had one, (b) so that (β) whatever treatment you received (b) you might return it, (1) answering them if you were reviled, (2) or striking back if you were struck, (3) and the like; (B) and do you think that it will be proper for you to act so toward your country and the laws, (c) so that (γ) if we undertake to destroy you, (~~P~~) thinking it is right, (c) you, to our laws and our country, (δ) so far as you are able, (c) will undertake in return to destroy them (1) and will say that in doing this (2) you are doing right, (~~P~~) you who really care for virtue?^[Translation by Harold North Fowler with a few very minor edits, available online at <https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg003.perseus-grc2:51/?right=perseus-eng2>.] 
-:::
-
-::: {.im #gloël1895_75}
-*Satzbild* for the sentence from Plato's *Crito* in [@last a] as analysed by Gloël [-@gloel1895: 75]. Capital letters are main clauses, lower-case Latin letters are subordinated clauses, greek letters are second-grade subordination. The letter "~~P~~" indicates a non-finite clause using a participles. Numbers indicate conjoined clauses to the previous letter-marked clause. The marker *B* for the second main clause should probably by placed on the same level as the main clause *A*. This appears to be a printing error.
-:::
-
 ### Trunk (1895) *Über Satzbilder* {#sec:trunk1895}
 
 Hans Trunk (1847-1929) was a teacher and school director in Graz (Austria).^[I have not been able to find much biographical information about Hans Trunk. HathiTrust provides a birthyear (<https://catalog.hathitrust.org/Record/102143919>) and *Kürschners Deutscher Literatur-Kalender* (1930: 1524) lists his death, but without precise date (<https://doi.org/10.1515/9783112340301>).] Most of his writings deal with pedagogical methods. In this context he writes a small article *Über Satzbilder* [@trunk1895]. Much of the content of this article is also included in a more wide-ranging book about teaching German language *Zur Hebung des deutschen Sprachunterrichtes* [@trunk1898: 123-127]. 
@@ -1305,9 +1250,9 @@ In his graphical analysis, Toifel uses the colon in a special way. Lehmann origi
 *Satzbild* for the example in [@llast] from Toifel [-@toifel1896: 19]. Toifel argues that the relative clause *b^3^* is actually a preposed relative clause, referring to *die* 'them' in the following clause *b^2^*. This special proposing is indicated by the colon betwen *b^3^* and *b^2^* in the figure.
 :::
 
-### Stamm (1899) *Graphische Darstellung* 
+### Stamm (1899) *Graphische Darstellung* {#sec:stamm1899}
 
-Adolf Stamm (born 1857) was a teacher in Iserlohn and later a school director in Anklam and in Mülheim an der Ruhr.^[I have not been able to find more biographical information about him, except for the footnote on page 11 of this school report <https://nbn-resolving.org/urn:nbn:de:hbz:061:1-899851>. He is mentioned as the first director of the Gymnasium in Mülheim on <https://de.wikipedia.org/wiki/Otto-Pankok-Schule>. Both websites accessed 9 January 2025.] He wrote a small booklet called *Graphische Darstellung der deutschen Satzlehre nebst einer Interpunktionslehre* [@stamm1899] in which he presents his own, completely idiosyncratic, system of graphical sentence analysis. The few scholars who took notice of Stamm's work appear to be quite critical [@arens1902; @mossner1960], mostly because his images are too complex to be practical. Actually, Stamm's system of visual analysis is beautiful, well though-through and explained in much detail with very many examples. But indeed, it is not practical. It is very hard to remember what all symbols mean because they are completely arbitrary representations of linguistic structure.
+Adolf Stamm (born 1857) was a teacher in Iserlohn and later a school director in Anklam and in Mülheim an der Ruhr.^[I have not been able to find more biographical information about him, except for the footnote on page 11 of this school report <https://nbn-resolving.org/urn:nbn:de:hbz:061:1-899851>. He is mentioned as the first director of the Gymnasium in Mülheim on <https://de.wikipedia.org/wiki/Otto-Pankok-Schule>. Both websites accessed 9 January 2025.] He wrote a small booklet called *Graphische Darstellung der deutschen Satzlehre nebst einer Interpunktionslehre* [@stamm1899] in which he presents his own, completely idiosyncratic, system of graphical sentence analysis. The scholars who took notice of Stamm's work appear to be quite critical [@arens1902; @eberhard1905; @mossner1960], mostly because his images are too complex to be practical. Actually, Stamm's system of visual analysis is beautiful, well though-through and explained in much detail with very many examples. But indeed, it is not practical. It is very hard to remember what all symbols mean because they are completely arbitrary representations of linguistic structure.
 
 Stamm proposes different systems for the analysis of single-clause sentences and for multi-clause complex sentences. The images for single-clause sentences at first seem reasonably easy to grasp, as illustrated here with example [@next a] displayed in [@fig:stamm1899_7]. They follow the traditional subject-predicate basis with various elements "growing" upwards out of this basis. However, there are different kinds of squiggly lines representing different kinds of structures, with numbers and letters arbitrary assigned to various functions. The same numbers even have different meanings depending upon which squiggly line they are used with.
 
@@ -1325,15 +1270,6 @@ Graphical display of a single clause [@last a] from Stamm [-@stamm1899: 7]. The 
 ::: {.im #stamm1899_17}
 Graphical display of a multi-clause *Satzgefüge* [@last b] from Stamm [@stamm1899: 17]. The main clause is represented by the vertical line, and all subordinate clauses are displayed as horizontal lines in the order as they appear in the sentence (with a striped arch for discontinuous clauses). The height of the horizontal lines indicates the depth of embedding. The letters, numbers and dashes are again completely arbritrarily assigned to specific grammatical structures.
 :::
-
-### Golling (1900) *Chrestomathie aus Livius*
-
-https://de.wikipedia.org/wiki/Josef_Golling
-
-2nd edition [@golling1900], but first edition from 1892 is nowhere to be found
-5th edition 1922
-
-cites Nägelsbach and follows his abbreviations, e.g. vi-viii
 
 ### Raumer (1902) *Das Periodenbild* {#sec:raumer1902}
 
@@ -1374,17 +1310,37 @@ Der kleine Sohn des Bauerns brachte den durstigen Wanderer schnell einen Trunk k
 
 ### Eberhard (1905) *Graphische Darstellung in der Sprachlehre* 
 
-Johann Eberhard (1838-?)
-
-(Direktor in Sigmaringen in 1889?)
-
-new proposal as a reaction to Adolf Stamm (1899) [@eberhard1905]
+Johann Eberhard (born 1838) was a school direktor in Sigmaringen.^[Not much is available about his biography. He retired as director in 1903 and apparantly moved to Trier, see page 30 of the school report of 1904 <https://nbn-resolving.org/urn:nbn:de:hbz:061:1-882473>, accessed 10 January 2025.] After his retirement he wrote a small article about the graphical analysis of sentences [@eberhard1905], mostly as a reaction to the proposals of Stamm (see [@sec:stamm1899]). Eberhard criticises Stamm for the complexity of his analyses, which are not suitable for use in school. However, Eberhard is very positive about the idea of using graphical displays for teaching grammar.
 
 > Das die graphische Darstellung ein erwünschtes Mittel ist, um Übersicht über ein verwickeltes Satzbilde zu erzielen, unterliegt keinem Zweifel. Nach meinen Erfahrungen bringen alle Schüler, auch die Minderbefähigten, der bezeichneten Darstellung ein großes Interesse entgegen – gewiss ein wichtiges Moment bei dem trockenen Lehrstoff! Die graphische Darstellung solcher Sätze, die in der Schule zergeliedert sind, ist deshalb auch eine viel begehrte Hausaufgabe. [@eberhard1905: 284]
+>
+> ('There is no doubt that graphic representation is a desirable means of gaining an overview of a complicated sentence structure. In my experience, all students, even those with less ability, show great interest in the representation shown - certainly an important aspect given the dry subject matter! The graphic representation of such sentences, which are broken down in school, is therefore also a much sought-after homework assignment.')
+
+Eberhard's proposal for the graphical analysis of sentences is illustrated in [@fig:eberhard1905_284] for the example sentence in [@next]. Unfortunately, Eberhard still uses arbitrary numerals to indicate syntactic functions [@eberhard1905: 283], but there are not very many of those, and they are used both for phrases and for clauses.
+
+- 1: subject *(Satzding)*
+- 2: predicate *(Satzaussage)*
+- 3: attribute *(Beifügung)*
+- 4: argument *(Ergänzung)*
+- 5: adjunct *(Umstandsbestimmung)*
+  - 5a: local *(Ort)*
+  - 5b: temporal *(Zeit)*
+  - 5c: modal *(Weise)*
+  - 5d: reason *(Grund)*
+
+His approach is quite close to a constituent analysis, as words are hierarchically grouped by the horizontal lines. There are three large groups, which are the main clause and two subordinate clauses, although there is no graphical indication of the fact that the third clause is recursively subordinate to the second. Inside each clause the various phrases are grouped. Eberhard refrains from adding more than two hierarchical levels (e.g. *fremden* might have been analysed as a third level), but this restraint is probably didactically intended. There are a few slight inconsistencies, but those seem mostly to be a problem with the printing (e.g. *sich* should not be part of the argument in the main clause, there is a line missing below *5c* in the third clause, and the line at *Kassenanweisung* should also include the article).
+
+::: ex
+Ehrfurchtsvoll verneigte er sich vor dem fremden Herrn, der diesen Augenblick benutzte, um still eine Kassenanweisung auf den Tisch zu legen. [@eberhard1905: 284, citing Wilhelm Petsch *Der Kronprinz Friedrich Wilhelm in Karlsbad*]
+:::
+
+::: {.im #eberhard1905_284}
+Graphical display of the sentence in [@last] as analysed by Eberhard [-@eberhard1905: 284]. This approach is a two-level constituency analysis, with the three clauses being subdivided into phrases. The numbers are completely arbitrary, but they are consistently used both for phrase and for subordinate clauses (roughly: 1=subject, 2=predicate, 3=attribute, 4=argument, 5=adjunct).
+:::
 
 ### Bartmann (1907) *Sprachübungen für die Hand des Lehrers*
 
-Josef Bartmann (1868-1947) was a teacher in Nixdorf (today Mikulášovicích in the Czech Republic). Some biographical information is available on Wikipedia.^[<https://cs.wikipedia.org/wiki/Josef_Bartmann>, accessed 6 January 2025.] He wrote various textbooks, one for teachers in 1907: *Sprachübungen für die Hand des Lehrers* [@bartmann1913, cited here in the second edition] and another one for students in 1908: *Deutsches Sprachbuch für Bürgerschulen* [@bartmann1917, cited here in the sixth edition].
+Josef Bartmann (1868-1947) was a teacher in Nixdorf (today Mikulášovicích in the Czech Republic).^[Some biographical information is available on Wikipedia: <https://cs.wikipedia.org/wiki/Josef_Bartmann>, accessed 6 January 2025.] He wrote various textbooks, one for teachers in 1907: *Sprachübungen für die Hand des Lehrers* [@bartmann1913, cited here in the second edition] and another one for students in 1908: *Deutsches Sprachbuch für Bürgerschulen* [@bartmann1917, cited here in the sixth edition].
 
 For the analysis of sentences, Bartmann uses two different methods. For single-clause sentences he proposes the method of *zergliedern* 'to dissect' [@bartmann1913: 8-11], citing Kern (see [@sec:kern1883]). Like Kern, Bartmann uses line diagrams headed by the verb and he also compares these analyses to trees. The first example even has the verb at the bottom, with the verb being compared to the roots of the tree. But, also following Kern, Bartmann immediately reversed the display *der besseren Raumverteilung wegen* 'for the better use of space' [@bartmann1913: 9]. In the *Sprachbuch* he starts with a few simple line diagrams on the first page of the book [@bartmann1917: 1], only to return to it with a bit more detail towards the end [@bartmann1917: 174-176]. An example of Bartmann's diagrams is shown in [@fig:bartmann1913_11] for the example in [@next].
 
@@ -1643,7 +1599,7 @@ https://www.persee.fr/doc/drlav_0754-9296_1980_num_22_1_957
 
 sentence template p. 63-64
 
-## Post-WW2 didactic approaches
+## Newer didactic approaches
 
 ### Essen (1956) *Methodik des Deutschunterrichts*
 
