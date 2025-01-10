@@ -4,7 +4,7 @@
 
 ### German linguistics at its prime
 
-The 19th Century is widely considered to be the heyday of German linguistics. Many of the great names from the history of linguistics are German scholars from the 19th Century, e.g. von Humboldt, Grimm, Schleicher, Paul, Delbrück. Yet, none of the greats will be mentioned in this chapter. In contrast, many of the scholars that will be discussed here will be completely unfamiliar to most contemporeneous linguists.
+The 19th Century is widely considered to be the heyday of German linguistics. Many of the great names from the history of linguistics were German scholars from this time period, like von Humboldt, Bopp, Grimm, Schleicher, Paul, and so on. Yet, none of these greats will be mentioned in this chapter. In contrast, most of the scholars that will be discussed here will be completely unfamiliar to most contemporeneous linguists. The main reason is that the well-known scholars from the 19th Century were not very much interested in syntactic analysis. In contrast, the more philologically and didactically interested linguists constantly were dealing with those long, complicated and even strange sentence structures that were produced by the well-respected and maybe even idolated authors and poets they were studying. To elucidate these long-winding sentences, either as part of their research into stilistic characteristics or to explain these structures to newer generations of philological students, many scholars started using graphical methods for syntactic analysis. Although many of the authors to be discussed in this chapter were pondering didactic consideration, there is also an important strain of stilistic research that was an important impetus for these developments.
 
 ### *Nackte Sätze*
 
@@ -16,27 +16,31 @@ The origin of this terminological distinction can probably be traced back to Mei
 > 
 > ('Such sentences can be called "developed", "extended" or (opposite to "naked") "dressed" sentences.')
 
-The term *bekleidet* leads to a lot of discussion, because of the sexual connotations. The term *nackt* is not so much the problem, because this German word in general is used to refer to situation without cover, like *nackter Boden* 'bare floor', and it is also regularly used metaphorically, like in *nackte Angst* 'sheer terror'. So, there is no sexual connotation with the usage of the word *nackt* when used in opposition to the words *ausgebildet* or *erweitert*. However, in opposition to the word *bekleidet* 'dressed' the meaning of the word *nackt* suddenly obtains a strong sexual connotation, clearly meaning 'nude'. Some authors [e.g. @billroth1834; @gotzinger1835] use *bekleidet*, maybe because they find it funny and consider it a nice joke to motivate students, while others strongly object to this choice of words as being vulgar, or at least tasteless.
+The term *bekleidet* leads to a lot of discussion, because of the sexual connotations. The term *nackt* is not so much the problem, because this German word is used to refer to many situations without cover, like *nackter Boden* 'bare floor', and it is also regularly used metaphorically, like in *nackte Angst* 'sheer terror'. So, there is no sexual connotation with the usage of the word *nackt* when used in opposition to the words *ausgebildet* or *erweitert*. However, in opposition to the word *bekleidet* 'dressed' the meaning of the word *nackt* suddenly obtains a strong sexual connotation, clearly meaning 'nude'. Some authors [e.g. @billroth1834; @gotzinger1835] use *bekleidet*, maybe because they find it funny and consider it a nice joke to motivate students, while others strongly object to this choice of words as being vulgar, or at least tasteless.
 
 > Man nennt solche Sätze, welche nur die wesentlichen (Haupt-) Satztheile enthalten, ~~nackte~~, und solche, welche auch noch andere Theile enthalten, (nicht: ~~bekleidete~~, sondern) ~~ausgebildete~~ oder erweiterte Sätze. [@diesterweg1830: 166]
+>
+> ('Sentences which contain only the essential (main) parts are called *nackt* 'naked', and those which also contain other parts are called (not: *bekleidet* 'dressed', but) *ausgebildet* 'developed' or *erweitert* 'expanded' sentences.)
 
 > Von nackten und bekleideten Sätzen zu reden ist geschmacklos, von nackten und erweiterten ist nicht viel geschmackvoller und enthält außerdem einen schiefen Gegensatz, den man in keiner Schülerarbeit dulden würde. [@kern1883: 5]
-
-Hoffmann 1839 uses nackter und umkleideter Satz 146-148
-
-[@kern1880]
+>
+> ('To speak of naked and dressed sentences is tasteless, to speak of naked and extended sentences is not much more tasteful and also contains a distorted contrast that would not be tolerated in any student's work.')
 
 ### *Periode*
 
-He uses the term *Periode* for the complex sentence, a term that goes straight back to antiquity. Aristotle uses the term *περίοδος* 'periodos' to describe something akin to a complete sentence, consisting of multiple clauses (with *κῶλον* 'kolon' being used for something akin to a clause). Burkett explains that "the term *periodos* is one of Aristotle‘s visual metaphors, suggesting a circular motion or completeness of thought and rhythm." [@burkett2011: 206].
+The term *Periode* as a grammatical term for the complex sentence is widespread in German 18th and 19th Century grammatical texts. It is used already by Meiner [-@meiner1781: 446] and Heyse [-@heyse1814: 491] and appears in many works to be discussed in this chapter. The precise definition is constantly being disputed, but most authors use the term *Periode* for a complex sentence with many subordinated clauses.
+
+This term that goes straight back to antiquity. Aristotle used the term *περίοδος* 'periodos' to describe something akin to a complete sentence, consisting of multiple clauses (with *κῶλον* 'kolon' being used for something akin to a clause). Burkett explains that "the term *periodos* is one of Aristotle‘s visual metaphors, suggesting a circular motion or completeness of thought and rhythm." [@burkett2011: 206].
 
 > λέγω δὲ περίοδον λέξιν ἔχουσαν ἀρχὴν καὶ τελευτὴν αὐτὴν καθ᾽ αὑτὴν καὶ μέγεθος εὐσύνοπτον (Aristoteles, Rhetorica III 9.3)^[Original online at the Perseus Digital Library < http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg038.perseus-grc1:3.9.3>.]
 > 
 > ['I call a period an expression having a beginning and an end in itself and a magnitude easily taken in at a glance.' translation from @burkett2011: 206]
 
-The term *Periode* as a grammatical term for the complex sentence is widespread in German 18th and 19th Century grammatical texts. It is used already by Meiner [-@meiner1781: 446] and Heyse [-@heyse1814: 491] and appears in almost all works to be discussed later in this chapter.
+The desire to summarise the structure of a complex *Periode* is a crucial starting point for the graphical analysis of sentences in 19th Century Germany, starting with Herling [-@herling1823, see [@sec:herling1823]]. The main tool that is used is a so-called *Periodenbild* 'image of a Period'. The basic idea is to assign some symbols to each clause, and then combine these symbols into a visualisation to illustrate the interrelation between the many clauses that make up a *Periode*. The term *Periodenbild* for the analysis of a multi-clause sentence was first used by August Lehmann [-@lehmann1833, see [@sec:lehmann1833]]. His proposal includes a distinction between capital letters for main clauses and lower-case letters for subordinate clauses, a principle that remains a fixture throughout all variants of these *Periodenbilder*. In contrast, almost all other details differ widely from author to author.
 
-## Groundwork
+Friedrich Diesterweg [-@diesterweg1834, see [@sec:diesterweg1830]] adopted Lehmann's terminology and added the term *Satzbild* for the structure of a monoclausal sentence. The two terms *Periodenbild* and *Satzbild* return throughout the 19th Century, but they are used quite interchangeably. Even though many authors distinguish between two different graphical analyses, one for single-clause sentences and one for multi-clause sentences, Diesterweg's terminological distinction did not persist. Linguistic *Bilder* remain virulent for about 90 years, but then gradually fade away from linguistic memory at the start of the 20th Century.
+
+## *Periodenbild* and *Satzbild*
 
 ### Moritz (1782) *Deutsche Sprachlehre* {#sec:moritz1782}
 
@@ -429,7 +433,7 @@ Finally, Lehmann wrote a literary analysis *Forschungen über Lessings Sprache* 
 
 Lehmann's examples of the application of the scheme to actual literary texts inspired many philological analyses in the decades to come. For example, via the *Repetitorium* of Menge (see [@sec:menge1873]) there is a direct line to the 1969 dissertation on the *Amadisroman* from Langholf (see [@sec:langholf1969]) using similar graphical analyses as Lehmann, more than a century after the original proposals.
 
-## *Periodenbild* and *Satzbild*
+## The many guises of linguistic *Bilder*
 
 ### Götzinger (1836) *Die deutsche Sprache* {#sec:götzinger1836}
 
@@ -791,7 +795,6 @@ Es ist ein Lob für einen Mann, wenn man seine Fehler sagen darf, ohne daß er a
 Graphical analysis of the sentence in [@last] from Zitzlsperger [-@zitzlsperger1871: 135]. The notational details are very similar to those of Bauer (see [@sec:bauer1850]). The underlining is new: it is used to indicate the complexity of the clause. Also the meaning of the superscripts is different from Bauer: it is used to indicate the semantic kind of the adverbial clause.
 :::
 
-
 ### Schütze (1875) *Über den deutschen Gliedsatz* {#sec:schütze1875}
 
 Adolf Schütze (born 1824) was a teacher at the Karls-Gymnasium in Bernburg. In the school's yearbook of 1875 he wrote a small essay *Über den deutschen Gliedersatz (Periode) und die Gesetze seines Baues* [@schutze1875], which includes an interesting graphical syntactic analysis. He analyses a long quote from Friedrich Schiller [@next], consisting of four sentences with numerous subordinate clauses. This long and complex linguistic structure is very concisely summarised by the graphic in [@fig:schütze1875_15]. In a footnote he cites Herling, Lehmann, Becker and Haupt [@schutze1875: 8], but the graphical display is more similar to Diesterwegs's approach (see [@fig:diesterweg1834_169]). However, the details are completely idiosyncratic:
@@ -929,7 +932,6 @@ Ich schenkte ihm 300 Rubel, und als ich erfuhr, dass derselbe in Kiew einen Anve
 ::: {.im #zettel1882_86}
 *Satzbild* from Zettel [-@zettel1882: 86] for the example sentence in [@last]. The example is almost identical to the example from Bauer in [@fig:bauer1850_97]. It seems like the placement of the main clause capital *B* (*stellte ich ihm frei*) is a printing error. It should probably be placed at the top, aligned with the capital *A* main clause (*ich schenkte ihm 300 Rubel*).
 :::
-
 
 ### Kern (1883) *Methodik des deutschen Unterrichts* {#sec:kern1883}
 
@@ -1310,7 +1312,7 @@ Der kleine Sohn des Bauerns brachte den durstigen Wanderer schnell einen Trunk k
 
 ### Eberhard (1905) *Graphische Darstellung in der Sprachlehre* 
 
-Johann Eberhard (born 1838) was a school direktor in Sigmaringen.^[Not much is available about his biography. He retired as director in 1903 and apparantly moved to Trier, see page 30 of the school report of 1904 <https://nbn-resolving.org/urn:nbn:de:hbz:061:1-882473>, accessed 10 January 2025.] After his retirement he wrote a small article about the graphical analysis of sentences [@eberhard1905], mostly as a reaction to the proposals of Stamm (see [@sec:stamm1899]). Eberhard criticises Stamm for the complexity of his analyses, which are not suitable for use in school. However, Eberhard is very positive about the idea of using graphical displays for teaching grammar.
+Johann Eberhard (born 1838) was a school director in Sigmaringen.^[Not much is available about his biography. He retired as director in 1903 and apparantly moved to Trier, see page 30 of the school report of 1904 <https://nbn-resolving.org/urn:nbn:de:hbz:061:1-882473>, accessed 10 January 2025.] After his retirement he wrote a small article about the graphical analysis of sentences [@eberhard1905], mostly as a reaction to the proposals of Stamm (see [@sec:stamm1899]). Eberhard criticises Stamm for the complexity of his analyses, which are not suitable for use in school. However, Eberhard is very positive about the idea of using graphical displays for teaching grammar.
 
 > Das die graphische Darstellung ein erwünschtes Mittel ist, um Übersicht über ein verwickeltes Satzbilde zu erzielen, unterliegt keinem Zweifel. Nach meinen Erfahrungen bringen alle Schüler, auch die Minderbefähigten, der bezeichneten Darstellung ein großes Interesse entgegen – gewiss ein wichtiges Moment bei dem trockenen Lehrstoff! Die graphische Darstellung solcher Sätze, die in der Schule zergeliedert sind, ist deshalb auch eine viel begehrte Hausaufgabe. [@eberhard1905: 284]
 >
@@ -1599,7 +1601,7 @@ https://www.persee.fr/doc/drlav_0754-9296_1980_num_22_1_957
 
 sentence template p. 63-64
 
-## Newer didactic approaches
+## More recent didactic approaches
 
 ### Essen (1956) *Methodik des Deutschunterrichts*
 
