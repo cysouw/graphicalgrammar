@@ -132,8 +132,33 @@ He knew about Hansen, but never cited it. acknowledgement in 1964 Festschrift fo
 
 ### Lindwall (1903) *Några ord om satsanalys*
 
-In the second part of a review of a grammatical text book he proposes a graphical display for the blackboard [@lindwall1903]. some similarity to Stamm (1899) ?!
- 
+Anshelm Fredrik Wilhelm Lindwall (1859-1931) was a teacher in Stockholm.^[Some biographical information is available on the swedish Wikipedia <https://sv.wikipedia.org/wiki/Wilhelm_Lindwall>, accessed 11 January 2025.] In 1903 he writes a short paper with the title *Några ord om satsanalys* 'a few words about sentence analysis' [@lindwall1903]. This paper starts out as a review of a grammatical textbook by Rebbe & Fischer, but in the second part of this review Lindwall proposes a graphical display for the exaplanation of syntax *med tillhjälp af svarta taflan* 'with the help of the blackboard' [@lindwall1903: 137]. There is no indication given by Lindwall about the inspiration for his drawings.
+
+Lindwall uses two different visualisation, one for the internal structure of single-clause sentences and another one for the structure of multi-clause sentences. His single-clause analysis is illustrated here with [@fig:lindwall1903_138] for the example in [@next a]. The predicate is depicted as a double horizontal line, while the subject is a vertical line upwards, the object a vertical line downwards and prepositional phrases are shown as the diagonal line downwards. Adverbials are crosses on the line, adjectives are diagonal slashes through the line (not shown in this example).
+
+For multi-clause sentences, each clause is depicted by a line, as shown here in [@fig:lindwall1903_146] for the example in [@next b]. In these graphics, all lines are drawn in the same order as they occur in the sentence. Main clauses are horizontal lines, while subordinate clauses are vertical lines. Secondary embedded subordination is indicated by diagonal lines. So, the example in [@fig:lindwall1903_146] has a main clause (horizontal: *jag hoppas*), a subordinate clause (vertical: *att du kommer*), then a secondary subordinate clause (slanted down rightwards: *när du slutat arbetet*) and finally even a tertiary subordinate clause (slanted down leftwards: *hvarmed du varit sysselsatt*). Lindwall proposes a few more techniques (not shown here), e.g. a plus-symbol for coordination and dashed lines for non-finite clauses.
+
+::: ex
+a.
+| 
+| Man-nen gaf genast en slant ât den fattige.
+| man-DEF gave immediately a coin to the poor
+| The man immediately gave a coin to the beggar.
+b.
+|
+| jag hoppas, att du kommer, när du slutat arbetet, hvarmed du varit sysselsatt.
+| I hope that you come when you stop work with.which you are busy
+| I hope you will come when you have finished the work with which you were busy.
+:::
+
+::: {.im #lindwall1903_138}
+Single-clause sentence [@last a] in the analysis of Lindwall [-@lindwall1903: 138]. The predicate is indicated by the double horizontal line and departing from this each line is a constituent of the clause (subject upwards, object downwards, prepositional phrases diagonally downwards). Modifiers are graphicall represented on the lines (adverbials with a cross, adjectives with a dash).
+:::
+
+::: {.im #lindwall1903_146}
+Multi-clause sentence [@last b] in the analysis of Lindwall [-@lindwall1903: 146]. Each line represents a clause in the order as they occur in the sentence. Main clause are shown horizontally, primary subordinate clauses vertically. Any subsequent subordination is shown by a diagonal line, alternating in direction.
+:::
+
 ### Beckman (1904) *Svensk Språklära* {#sec:beckman1904}
 
 Karl Frederik Natanael Beckman (1868-1946) professor of Scandinavian languages at Gothenburg University [@beckman1904a: 194-198, 202, 219]
@@ -194,7 +219,12 @@ body-worker--for-insurance---committee----the-statement.
 
 ### Rebbe *svensk språklära*
 
+Rebbe, Carl, 1862-1948 (författare)
+Fischer, Walter, 1872-1953 (författare)
+Bjerre, Birger, 1902-1993 (medarbetare)
+
 "Kortfattad svensk språklära för realskolan" Författare: 
+"Exempelsamling till svenska språkläran"
 
 Carl Rebbe, Walter Fischer, Birger Bjerre
 
