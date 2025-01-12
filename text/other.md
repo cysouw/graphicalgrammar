@@ -161,11 +161,17 @@ Multi-clause sentence [@last b] in the analysis of Lindwall [-@lindwall1903: 146
 
 ### Beckman (1904) *Svensk Språklära* {#sec:beckman1904}
 
-Karl Frederik Natanael Beckman (1868-1946) professor of Scandinavian languages at Gothenburg University [@beckman1904a: 194-198, 202, 219]
+Karl Frederik *Natanael* Beckman (1868-1946) professor of Scandinavian languages at Gothenburg University [@beckman1904: 194-198, 202, 219]
+
+biographical details in [@friesen1922]
 
 cites Kern and Lindwall (p. 273)
 
-his school textbooks do not seem to have been noticed?
+- 1904: Svensk språklära för den högre elementarundervisningen (9th edition into the 1960s)
+- 1908: Svensk språklära för elementarundervisningen p147ff. <https://books.google.com/books?vid=SRLF:A0013759279>
+- 19012: Svensk språklära för folkskolan <https://babel.hathitrust.org/cgi/pt?id=uc1.a0013574959&seq=9>
+
+~~karta~~
 
 Beckman studied in Uppsala, where he received his doctor’s degree and became a lecturer in 1895.
 In 1918, he was appointed professor of Scandinavian languages in Gothenburg, a post he retained until 1935. But Beckman was also headmaster at a high school, and several of his contributions were thus pedagogical in nature. He created popular textbooks that were reprinted many times, for example his study of Swedish metrics (1898) and especially his Svensk språklära för den högre elementarundervisningen (A Swedish Grammar for Higher Elementary Schools, 1904). He also studied the ongoing disappearance of plural verb forms in Swedish, the peculiar relations between social rank and personal pronouns in Sweden, and the syntactic phenomena that had spread across linguistic borders in Western European, such as the definite article and the perfect tense. p. 247-248
@@ -234,8 +240,7 @@ Carl Rebbe, Walter Fischer, Birger Bjerre
 
 Eemil Nestor Setälä (1864-1935) was a well-known Finnish politician and author of the Finnish declaration of independence.^[I thank Fred Karlsson and Matti Miestamo for their assistance with the Finnisch language and linguistic tradition.] However, he was also a professor for Finnish language and literature at Helsinki University and among many other grammatical works he wrote a little booklet *Suomen kielen oppikirja* 'Finnisch language textbook'. The first edition appeared in 1898 and has been reprinted various time. The version from 1925, that I have consulted, does not have any graphical analyses [@setala1925].
 
-Kaarlo Nieminen (1887-1955) was a Finnish language teacher and acting professor of Finnish
-literature at Helsinki University for a few years. After the death of Setälä he revised the *Suomen kielen oppikirja* in 1939, which was reprinted many times. In this revision Nieminen added a graphical analysis for the example sentence in [@next] as shown in [@fig:setälä1946_68], cited here from a later reprint [@setala1946: 68]. It is unclear whether this approach with arrows for modification has any precursors, or whether this is an original idea from Nieminen:
+Kaarlo Nieminen (1887-1955) was a Finnish language teacher and acting professor of Finnish literature at Helsinki University for a few years. After the death of Setälä he revised the *Suomen kielen oppikirja* in 1939, which was reprinted many times. In this revision Nieminen added a graphical analysis for the example sentence in [@next] as shown in [@fig:setälä1946_68], cited here from a later reprint [@setala1946: 68]. It is unclear whether this approach with arrows for modification has any precursors, or whether this is an original idea from Nieminen:
 
 > Lauseenosien keskinäisiä suhteita voidaan havainnollistaa piirroksen avulla. Jos merkitsemme subjektin paksulla pystysuoralla viivalla, predikaatin siitä lähtevällä paksulla vaakasuoralla viivalla, kumpaisenkin määräykset niihin vinosti suuntautuvilla ohuemmilla viivoilla sekä määräysten määräykset taas niihin suuntautuvilla viivoilla. [@setala1946: 68]
 > 
@@ -249,7 +254,7 @@ literature at Helsinki University for a few years. After the death of Setälä h
 :::
 
 ::: {.im #setälä1946_68}
-Dependency graph with arrows for the example sentence in [@last] from Setälä & Nieminen [-@setala1946: 68]. The diagonal placement of the arrows is faintly reminiscent of the USA-style diagramming, but the details of the positioning are completely different. This display might very well be an innovation by Nieminen.
+Dependency graph with arrows for the example sentence in [@last] from Setälä & Nieminen [-@setala1946: 68]. There is some similarity to the diagrom of Lindwall (cf. [@fig:lindwall1903_138]). The diagonal placement of the arrows is also faintly reminiscent of the USA-style diagramming, but the details of the positioning are completely different. This display might very well be an innovation by Nieminen.
 :::
 
 Aulis Ojajärvi (1913-1968) was a language teacher and in 1964, after the death of Kaarlo Nieminen, he once again revised the *Suomen kielen oppikirja*. The version from 1970, that I have consulted, is rather different from earlier versions and contains completely different graphical analyses [@setala1970]. The structure from the examples sentence [@next] is illustrated in two different ways in [@fig:setälä1970_77]. The upper version is strongly reminiscent of the visualisation of Beckman (see [@sec:beckman1904]). The lower display is structurally identical, but the words are placed in their regular sentence order.
