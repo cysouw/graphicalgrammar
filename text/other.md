@@ -181,7 +181,7 @@ b.
 :::
 
 ::: {.im #beckman1904_194}
-*Karta* of the single-clause sentence in [@last a] in the analysis of Beckman [@beckman1904: 194-195]. This image is a composite of parts that are explained separately, but I decided to follow Beckman's invitation *Du kan nu själf rita en karta öfver hela satsen* 'You can now draw a map of the entire set yourself'. Note that the arrows appear to be used only for attributes and adverbials, not for arguments.
+*Karta* of the single-clause sentence in [@last a] in the analysis of Beckman [@beckman1904: 194-195]. This image is a composite of parts that are explained separately, but I decided to follow Beckman's invitation *Du kan nu själf rita en karta öfver hela satsen* 'You can now draw a map of the entire sentence yourself'. Note that the arrows appear to be used only for attributes and adverbials, not for arguments.
 :::
 
 ::: {.im #beckman1904_202}
