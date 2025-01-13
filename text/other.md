@@ -161,9 +161,11 @@ Multi-clause sentence [@last b] in the analysis of Lindwall [-@lindwall1903: 146
 
 ### Beckman (1904) *Svensk Språklära* {#sec:beckman1904}
 
-Karl Frederik *Natanael* Beckman (1868-1946) professor of Scandinavian languages at Gothenburg University [@beckman1904: 194-198, 202, 219]
+Karl Frederik *Natanael* Beckman (1868-1946) was a high school teacher and later professor of Scandinavian languages at Gothenburg University. More biographical details are available in Friesen [@friesen1922]. Beckman wrote many different analyses of Swedish, both synchronically and diachronically. His *Svensk språklära för den högre elementarundervisningen* [@beckman1904] has been widely used and remained in print at least until a 9th edition in the 1960s. He also prepared two reduced versions of this work, namely the *Svensk språklära för elementarundervisningen* [@beckman1908] and the *Svensk språklära för folkskolan* [@beckman1912]. These do not seem to add anything new and they will not further be discussed here.
 
-biographical details in [@friesen1922]
+[@beckman1904: 194-198, 202, 219]
+
+biographical details in 
 
 cites Kern and Lindwall (p. 273)
 
