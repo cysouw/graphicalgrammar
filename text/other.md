@@ -190,50 +190,27 @@ b.
 
 ### Noreen (1906) *Vårt språk*
 
-influence ??? of Adolf Gotthard Noreen (1854-1925) professor at Uppsala University
-[@doreen1906: 32-33] Hierarchical morphology with dashes:
+Adolf Gotthard Noreen (1854-1925) was a professor for Germanic languages at Uppsala University [More biographical information in @elmevik1990]. His work was of great influence on all of scandinavian linguistics, but he does not seem to have used graphical analyses for sentence structure. However, he used an interesting graphical approach to morphological structure in the 7th volume of his magnum opus *Vårt språk* [@noreen1906].
 
-Exempel på dylika ord äro följande, i hvilka jag låter den primära sammansättningens leder skiljas af ett bindestreck, den sekundäras af två osv.
+Noreen uses dashes to separate morphemes, but additionally the number of dashes is crucial for the hierarchical morphological structure. The more dashes, the more distant the morphological connection: *jag låter den primära sammansättningens leder skiljas af ett bindestreck, den sekundäras af två osv.* 'I separate the primary compounds by a hyphen, the secondary by two, etc.' [@noreen1906: 32-33]. Two of his examples are shown in [@next] and a modern rendition of the intended hierarchical structure is displayed in [@fig:noreen1906_33tree].
 
-Sekundära: 
-salt-sjö--fisk, 
-förgät-mig-ej--krans, 
-kompani--trum-slagare, 
-bo-lags--ord-förande, 
-upp-och-ned--vänd, 
-svarta-hafs--flottan. 
+::: ex
+a.
+| 
+| sprit-handels\-\-\-aktie\-\-bo-lags\-\-\-\-ord-förande
+| liquor-trading\-\-\-share\-\-asset-alliance\-\-\-\-word-carrier
+| chairman of a liquor trading company
+b.
+|
+| kropps-arbetare\-\-för-säkrings\-\-\-kommitté\-\-\-\-ut-låtandet
+| body-worker\-\-for-safety\-\-\-committee\-\-\-\-out-letting
+| statement of the manual worker's safety committee 
+:::
 
-Tertiära: 
-brand-stods--bo-lags---ord-förande, 
-fattig---sopp-koknings--in-rättning, 
-infanteri-regements--kompani---trum-slagare--pojkar, 
-högsta--dom-stols---ledamöterna, 
-metallarbetare--fack-förenings---samman-träde. 
+::: {.tree #noreen1906_33tree}
+Hierarchical morphological structure of the compound in [@last a] from Noreen [-@noreen1906: 33]. Noreen did not visualise the structure as a tree, but he used dashes to indicate the hierarchical structure. The number of dashes was intended as an indication of the hierarchical structure, which is depicted here in a modern way.
+:::
 
-Kvartära: 
-sprit-handels---aktie--bo-lags----ord-förande,
-kropps-arbetare--för-säkrings---kommitté----ut-låtandet.
-
-Examples of such words are the following, in which I let the primary compound be separated by a hyphen, the secondary by two, etc.
-
-Secondary:
-salt-sea--fish,
-forget-me-not wreath,
-company--drummer,
-chairman of housing association,
-upside-down--turned,
-black-sea--fleet.
-
-Tertiary:
-fire-resistance--housing-law---chairman,
-poor---soup-boiling--in-rectification,
-infantry regiments--company---drummer--boys,
-the members of the Supreme Court,
-metalworkers--union---meeting.
-
-Quaternary:
-spirit-trading---shares--community-laws----speaker,
-body-worker--for-insurance---committee----the-statement.
 
 ### Rebbe *svensk språklära*
 
