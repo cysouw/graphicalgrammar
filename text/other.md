@@ -211,7 +211,6 @@ b.
 Hierarchical morphological structure of the compound in [@last a] from Noreen [-@noreen1906: 33]. Noreen did not visualise the structure as a tree, but he used dashes to indicate the hierarchical structure. The number of dashes was intended as an indication of the hierarchical structure, which is depicted here in a modern way.
 :::
 
-
 ### Rebbe *svensk språklära*
 
 Rebbe, Carl, 1862-1948 (författare)

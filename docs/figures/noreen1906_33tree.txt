@@ -17,7 +17,7 @@
     ]
     [aktie\-\-bo\-lags
       [aktie]
-      [bo\-lag
+      [bo\-lags
         [bo]
         [lags]
       ]
