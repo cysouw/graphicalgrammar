@@ -45,7 +45,7 @@ b.
 
 ### Gloël (1895) *Schriftliche Übersetzung aus dem Griechischen* {#sec:gloël1895}
 
-Heinrich Gloël (1855-1940) was a teacher and literary scholar, first in Wesel and and later in Wetzlar. He started as a classical scholar, writing a disseration about the Greek play *Hippolytos* by Eurypides and teaching classical languages. Later in life he specialized in critical evaluations of texts of Goeths (more biographical information in Flender 1983).
+Heinrich Gloël (1855-1940) was a teacher and literary scholar, first in Wesel and and later in Wetzlar. He started as a classical scholar, writing a disseration about the Greek play *Hippolytos* by Eurypides and teaching classical languages. Later in life he specialized in critical evaluations of texts of Goeths [more biographical information in @flender1983].
 
 In an article about the role of translation from Greek to German in secondary education, Gloël discussed various examples from classical Greek and the problems with their translation into German [@gloel1895]. The final example he discusses is an excerpt from Plato's *Crito* [@gloel1895: 67-76]. For two complex sentences with many subordinated clauses in this excerpt, Gloël uses *Satzbilder* to illustrate their syntactic structure. For example, the *Satzbild* in [@fig:gloël1895_75] is an analysis of the sentence in [@next a]. I have added the letters from Gloël's *Satzbild* into this example, something which Gloël assumes that the reader is able to do. The translation in [@next b] is by Harald Fowler.^[Plato in Twelve Volumes, Vol. 1 translated by Harold North Fowler; Introduction by W.R.M. Lamb. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1966. Available online at <https://www.perseus.tufts.edu/>.]
 
