@@ -1295,8 +1295,12 @@ Otto Ludwig Theodor Mensing (1868-1939) was a teacher in Kiel and wrote extensiv
 
 Mensing wrote various textbooks, among them the *Deutsche Grammatik für höhere Schulen*. His textbooks were very popular and appeared in various editions up to 1965. As Molzow [-@molzow2000: 1759] notes, textbooks are often treated as consumer goods and are not always properly archived. The many versions and editions of Mensing's textbooks needs a more detailed investigation. As for the grammar, there appear to be four main versions:
 
-- The first edition of the *Deutsche Grammatik für höhere Schulen* appeared in 1903. 
-- A separate *Ausgabe B für höhere Mädchenschulen* appeared with the 8th edition of 1910. This version is cited here as Mensing [-@mensing1913].
+There is also a *Vorstufe*, later volume 1 of *Hilfsbuch* already with 3rd edition in 1915
+
+Vorstufe has *Satzbilder* [@mensing1914: 77-80], later editions removed [@mensing1922]
+
+- The first edition of the *Deutsche Grammatik für höhere Schulen* appeared in 1903. This becomes *Ausgabe A*
+- A separate *Ausgabe B für höhere Mädchenschulen* appeared with the 8th edition of 1910. This version is cited here from the unchanged sixth edition [@mensing1913].
 - A revised *Ausgabe C* appeared with the 25th edition of 1925, following a revision of the Prussian teaching guidelines. Probably coinciding with this revision, the grammar was renamed *Deutsche Sprachlehre* and it became volume 2 of the series *Hilfsbuch für den deutschen Unterricht auf höheren Schulen*. This version is cited here as Mensing [-@mensing1927].
 - In 1954 a revision was prepared by Wolfgang Petersen, reprinted at least until an 8th edition of 1965.
 

@@ -130,7 +130,7 @@ He knew about Hansen, but never cited it. acknowledgement in 1964 Festschrift fo
 
 ## Swedish
 
-### Lindwall (1903) *Några ord om satsanalys*
+### Lindwall (1903) *Några ord om satsanalys* {#sec:lindwall1903}
 
 Anshelm Fredrik Wilhelm Lindwall (1859-1931) was a teacher in Stockholm.^[Some biographical information is available on the swedish Wikipedia <https://sv.wikipedia.org/wiki/Wilhelm_Lindwall>, accessed 11 January 2025.] In 1903 he writes a short paper with the title *Några ord om satsanalys* 'a few words about sentence analysis' [@lindwall1903]. This paper starts out as a review of a grammatical textbook by Rebbe & Fischer, but in the second part of this review Lindwall proposes a graphical display for the exaplanation of syntax *med tillhjälp af svarta taflan* 'with the help of the blackboard' [@lindwall1903: 137]. There is no indication given by Lindwall about the inspiration for his drawings.
 
@@ -161,22 +161,32 @@ Multi-clause sentence [@last b] in the analysis of Lindwall [-@lindwall1903: 146
 
 ### Beckman (1904) *Svensk Språklära* {#sec:beckman1904}
 
-Karl Frederik *Natanael* Beckman (1868-1946) was a high school teacher and later professor of Scandinavian languages at Gothenburg University. More biographical details are available in Friesen [@friesen1922]. Beckman wrote many different analyses of Swedish, both synchronically and diachronically. His *Svensk språklära för den högre elementarundervisningen* [@beckman1904] has been widely used and remained in print at least until a 9th edition in the 1960s. He also prepared two reduced versions of this work, namely the *Svensk språklära för elementarundervisningen* [@beckman1908] and the *Svensk språklära för folkskolan* [@beckman1912]. These do not seem to add anything new and they will not further be discussed here.
+Karl Frederik *Natanael* Beckman (1868-1946) was a high school teacher and later professor of Scandinavian languages at Gothenburg University [more biographical details are available in @friesen1922]. He wrote many different analyses of Swedish, both synchronically and diachronically. His *Svensk språklära för den högre elementarundervisningen* [@beckman1904] has been widely used and has remained in print at least until a 9th edition in the 1960s. He also prepared two reduced versions of this work, namely the *Svensk språklära för elementarundervisningen* [@beckman1908] and the *Svensk språklära för folkskolan* [@beckman1912]. These do not seem to add anything new and will not be further discussed here. 
 
-[@beckman1904: 194-198, 202, 219]
+Beckman [-@beckman1904: 273] cites Kern (see [@sec:kern1883]) and Lindwall (see [@sec:lindwall1903]) as inspiration for his graphical display, which he calls a *karta* 'map'. He uses a balanced display with subject and object at the top linked by a line [@beckman1904: 194-198, 202, 219], explicitly distancing his approach from Kern's verb-centric display [@beckman1904: 273]. An example for a single-clause sentence is shown in [@fig:beckman1904_194] for the sentence in [@next a]. This figure is actually a compositive from parts that are explained separately by Beckman. However, Beckman invites the reader to produce this combined picture, to which I have happily obliged: *Du kan nu själf rita en karta öfver hela satsen* 'You can now draw a map of the entire set yourself' [@beckman1904: 195].
 
-biographical details in 
+Dependencies are linked by upwards-pointing arrows. Multiple dependencies to the same head are indicated by horizontal brackets. Somewhat confusingly, sometimes the arrows are missing, as with *fädernesland* 'homeland' and *från välde* 'from the reign' in [@fig:beckman1904_194]. It is unclear whether this is an error, or whether Beckman intended to omit the arrows for arguments. For multi-clause sentences Beckman simply draws separate figures for each clause, and indicates with the word *bisatz* where the subordinate clause has to be inserted into the matrix clause. An example of a multi-clause sentence in shown in [@fig:beckman1904_202] for the example in [@next b].
 
-cites Kern and Lindwall (p. 273)
+::: ex
+a.
+|
+| Vår store och ädle konung Gustaf Vasa har befriat vårt gamla fädernesland från danskarnas tryckande välde.
+| our great and noble king Gustaf Vasa has freed our old homeland from Danish oppressive reign
+| Our great and noble King Gustaf Vasa has liberated our old homeland from the oppressive rule of the Danes.
+b.
+|
+| Den af er, som kan svara på denna fråga, skall få en slant.
+| DEM of 2PL REL can answer on DEM question shall get a coin
+| Whoever of you can answer this question will receive a coin.
+:::
 
-- 1904: Svensk språklära för den högre elementarundervisningen (9th edition into the 1960s)
-- 1908: Svensk språklära för elementarundervisningen p147ff. <https://books.google.com/books?vid=SRLF:A0013759279>
-- 19012: Svensk språklära för folkskolan <https://babel.hathitrust.org/cgi/pt?id=uc1.a0013574959&seq=9>
+::: {.im #beckman1904_194}
+*Karta* of the single-clause sentence in [@last a] in the analysis of Beckman [@beckman1904: 194-195]. This image is a composite of parts that are explained separately, but I decided to follow Beckman's invitation *Du kan nu själf rita en karta öfver hela satsen* 'You can now draw a map of the entire set yourself'. Note that the arrows appear to be used only for attributes and adverbials, not for arguments.
+:::
 
-~~karta~~
-
-Beckman studied in Uppsala, where he received his doctor’s degree and became a lecturer in 1895.
-In 1918, he was appointed professor of Scandinavian languages in Gothenburg, a post he retained until 1935. But Beckman was also headmaster at a high school, and several of his contributions were thus pedagogical in nature. He created popular textbooks that were reprinted many times, for example his study of Swedish metrics (1898) and especially his Svensk språklära för den högre elementarundervisningen (A Swedish Grammar for Higher Elementary Schools, 1904). He also studied the ongoing disappearance of plural verb forms in Swedish, the peculiar relations between social rank and personal pronouns in Sweden, and the syntactic phenomena that had spread across linguistic borders in Western European, such as the definite article and the perfect tense. p. 247-248
+::: {.im #beckman1904_202}
+*Karta* of the multi-clause sentence in [@last b] in the analysis of Beckman [@beckman1904: 202]. The main clause *(Hufvudsats)* and the subordinate clause *(Bisatz)* are drawn separately, with the insertion point of the subordinate clause noted by the word *bisats* in the main clause.
+:::
 
 ### Noreen (1906) *Vårt språk*
 
