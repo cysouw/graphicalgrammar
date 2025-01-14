@@ -72,23 +72,23 @@ cites Nägelsbach and follows his abbreviations, e.g. vi-viii
 
 ### Broberg (1882) *Manuel de la langue danoise*
 
-Severin Carl Olfert Fischer Broberg (1822-1900) was a danish author and occasional lecturer at the Universities of Randers and Odense. He wrote a Danish language guide for French speakers, called *Manuel de la langue danoise* [@broberg1882]. To explain the Danish sentence structure he used a special graphical technique of an indented table [@broberg1882: 95-102]. There is no indication towards any inspiration that might have led Broberg to propose this kind of analysis.
+*Severin* Carl Olfert Fischer Broberg (1822-1900) was a danish author and occasional lecturer at the Universities of Randers and Odense. He wrote a Danish language guide for French speakers, called *Manuel de la langue danoise* [@broberg1882]. To explain the Danish sentence structure he used a special graphical technique of an indented table [@broberg1882: 95-102]. There is no indication towards any inspiration that might have led Broberg to propose this kind of analysis.
 
-Repeated here is one of Broberg's Danish example sentence in [@next a], with his own French translation [@next b] and an additional English translation by me [@next c]. Broberg's graphical analysis is shown in [@fig:broberg1882_95]. The basic sentence *Datter viste et Maleri* 'Daughter showed a painting' is shown in bold typeface at the left side of the tabular display. All modifier phrases are shown below their head phrases, indented to the right. The order of the phrases from top to bottom reflects their modification order. For example, *Datter* 'daughter' is first modified by *ældste* 'oldest' and then by *Generalens* 'of the general'. However, the order of these elements in a Danish sentence is reversed: the real order in which the words occur in the Danish sentence is indicated by the numbers in the table.
+Repeated here is one of Broberg's Danish example sentence in [@next a], with his own French translation [@next b]. An glossed version with English translation is added in [@next c]. Broberg's graphical analysis is shown in [@fig:broberg1882_95]. The basic sentence *Datter viste et Maleri* 'Daughter showed a painting' is shown in bold typeface at the left side of the tabular display. All modifier phrases are shown below their head phrases, indented to the right. The order of the phrases from top to bottom reflects their modification order. For example, *Datter* 'daughter' is first modified by *ældste* 'oldest' and then by *Generalens* 'of the general'. However, the order of these elements in a Danish sentence is reversed: the real order in which the words occur in the Danish sentence is indicated by the numbers in the table.
 
 ::: ex
 - Generalens ældste Datter viste, for at give Samtalen en anden Vending, en af Gjæsterne et fra Kjøbenhavn ankommet, en læsende Hyrde forestillende Maleri.
 - La fille aînée du général, pour faire diversion à l'entretien, montra à l'un des convives un tableau venu de Copenhague et représentant un berger lisant.
-- The general's eldest daughter, to give the conversation a different turn, showed one of the guests a painting that had arrived from Copenhagen, depicting a reading shepherd.
+- 
+|
+| Generalens ældste Datter viste, for at give Samtalen en anden Vending, en af Gjæsterne et fra Kjøbenhavn ankommet, en læsende Hyrde forestillende Maleri.
+| general oldest daughter showed for to give talk an other turn one of guests the from Copenhague arrived a reading shepherd showing painting
+| The general's eldest daughter, to give the conversation a different turn, showed one of the guests a painting that had arrived from Copenhagen, depicting a reading shepherd.
 :::
 
 ::: {.im #broberg1882_95}
 Indented table by Broberg [-@broberg1882: 95] to explain the sentence structure of the Danish example sentence in [@last a]. The actual order of the words is indicated by the numbers. The top to bottom order in the table indicates relative modification, i.e. each indented phrase modifies the head phrase above it. The placement of phrase 8 (*en af Gjæsterne*) is probably a printing error, it should be placed much more to the right.
 :::
-
-### Jespersen (1913) *Sprogets logik*
-
-Notion *rang* 'rank', different levels. First attempt at symbolic representation [@jespersen1913: 32-33], further develop in 1937
 
 ### Brøndal (1928) *Ordklasserne*
 
@@ -113,6 +113,10 @@ arrows on [@hjelmslev1972: 52-53], but not real language analysis, just an examp
 lots of graphics, but only paradigms, structure, illustration
 
 ### Jespersen (1937) *Analytic syntax*
+
+Jespersen (1913) *Sprogets logik*
+
+Notion *rang* 'rank', different levels. First attempt at symbolic representation [@jespersen1913: 31, 63, 80-81], further develop in 1937
 
 symbolic analysis, [@jespersen1937: 83] citing a graphic from [@fry1925] 
 
@@ -503,6 +507,18 @@ Various textbooks by Klemenciewicz in the 1930s, but no graphics:
 - https://pbc.biaman.pl/dlibra/doccontent?id=49305
 - https://pbc.biaman.pl/dlibra/doccontent?id=48885
 
+### Bąk (1977) *Gramatyka języka polskiego*
+
+Piotr Bąk (1911-2000) dialectologist, teacher and later lecturer at the university of Łódź
+
+*Gramatyka języka polskiego: zarys popularny* 'Polish grammar: a popular outline' [@bak1977] (sentence 400-402, complex sentences: 428-430, 435-442, generative: 446-450)
+
+only major revision in 4th edition [@bak1984]
+(sentence 442, complex sentences: 459, 470-487, generative: 497-502)
+(the illustrations are from 4th ed. of 1984; 1st ed. in 1977; 15th ed. in 2016).
+
+https://pl.wikipedia.org/wiki/Piotr_Bąk_(językoznawca)
+
 ### Other Polish
 
 More on old polish grammars, but apparaently no other syntactic graphics: https://gramatyki-uw-edu-pl.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp
@@ -510,7 +526,6 @@ More on old polish grammars, but apparaently no other syntactic graphics: https:
 Info from Tomasz (Ma)ksymil(ian) Majtczak: https://bsky.app/profile/ksymil.bsky.social
 
 - wykres zdania złożonego (graph of a compound sentence)
-- Piotr Bąk, Gramatyka języka polskiego (the illustrations are from 4th ed. of 1984; 1st ed. in 1977; 15th ed. in 2016).
 - Modern summary: Gruszczyński & Bralczyk (ed.), Słownik gramatyki języka polskiego, 2002 [@gruszczynskiego2002: 302-304]
 
 ## Russian

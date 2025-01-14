@@ -1589,6 +1589,10 @@ p.188: citing Tesniere [@tesniere1953], in the 1964 edition p. 266 adds a quib a
 
 vorfeld/nachfeld
 
+### Esser (1961) *Grammatische und psychologische Kategorien in der deutschen Satzanalyse*
+
+Very close to Drach [@esser1961]
+
 ### Engel (1970) *Regeln zur Wortstellung*
 
 https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/595/file/Engel_Regeln_zur_Wortstellung_1970.pdf
@@ -1620,14 +1624,31 @@ https://www.lagis-hessen.de/de/subjects/print/sn/bio/id/18993
 [@grosse1960] indented subordinates clauses
 [@grosse1966] many modern approaches
 
+### Meinel (1961) *Der Satz als Sinneinheit*
+
+[@meinel1961: 21] lines with different height for subordination
+
 ### Rychener (1960) *Freude an Grammatik*
 
 [@rychener1960]
 
 [@rychener1982] Many different ideas by Rychener: underlining of clause-internal structure [@rychener1982: 150-151], Becker-style tables [@rychener1982: 178], tab-inserts [@rychener1982: 176], Vertical displacement of clause-combinations like Flothuis [@rychener1982: 189]
 
+### Ulshöfer (1967) *Methodik des Deutschunterrichts*
+
+Satzbaukasten: [@ulshofer1967: 133-138]
+
 ### Lobentanzer (1986) *Deutsch muß nicht schwer sein*
 
 Satzbilder with lines in [@lobentanzer1986: 60, 72-73]
+
+## Other
+
+### Weisgerber (1954) *Vom Weltbild der deutschen Sprache*
+
+[@weisgerber1954: 190-192] internal subordination with brackets
+
+[@weisgerber1954: 252] internal subordination with chinese boxes
+
 
 
