@@ -70,7 +70,7 @@ cites Nägelsbach and follows his abbreviations, e.g. vi-viii
 
 ## Danish
 
-### Broberg (1882) *Manuel de la langue danoise*
+### Broberg (1882) *Manuel de la langue danoise* {#sec:broberg1882}
 
 *Severin* Carl Olfert Fischer Broberg (1822-1900) was a danish author and occasional lecturer at the Universities of Randers and Odense. He wrote a Danish language guide for French speakers, called *Manuel de la langue danoise* [@broberg1882]. To explain the Danish sentence structure he used a special graphical technique of an indented table [@broberg1882: 95-102]. There is no indication towards any inspiration that might have led Broberg to propose this kind of analysis.
 
@@ -90,15 +90,38 @@ Repeated here is one of Broberg's Danish example sentence in [@next a], with his
 Indented table by Broberg [-@broberg1882: 95] to explain the sentence structure of the Danish example sentence in [@last a]. The actual order of the words is indicated by the numbers. The top to bottom order in the table indicates relative modification, i.e. each indented phrase modifies the head phrase above it. The placement of phrase 8 (*en af Gjæsterne*) is probably a printing error, it should be placed much more to the right.
 :::
 
-### Brøndal (1928) *Ordklasserne*
+### Brøndal (1932) *Morfologi og syntax* {#sec:brøndal1932}
 
-[@brondal1928] System of categories for morphology, build from limited set of primitives. complex schema in appendix
+Rasmus *Viggo* Brøndal (1887-1942) was a professor at Copenhagen and a co-founder of the *Lingvistkredsen* 'Linguistic Circle of Copenhagen' [biographical information is available in @hallon1989: xvi-xxvi]. In his books *Ordklasserne: partes orationis. Studier over de sproglige kategorier* [@brondal1928] and more specifically in *Morfologi og syntax* [@brondal1932; translated in @hallon1989] Brøndal develops a highly idiosyncratic system for linguistic analysis based on symbolic combinations of the letters *D, d, R, r*, as summarised in the fold-out appendix to the *Ordklasserne* [@brondal1928], shown here in [@fig:brøndal1928_appendix].
 
-syntax in *morfologi of syntax* (1932) [cf. @hallon1989: 79-155] cites kern, sheffield, wundt [@brondal1932]
+::: {.im #brøndal1928_appendix}
+[@brondal1928]
+:::
 
-[@togeby1989: 109] gives an actual example how a sentence analysis might look like in Brøndal's system
+In his books, Brøndal applies combinations of these letters (extended with colons and italic typesetting) for all kinds of different linguistic phenomena. Unfortunately, his examples for the application of this system to actual linguistic data are very short and difficult to interpret. For example, there are no real analyses of longer sentences in the discussion about syntax [@brondal1932: Chapter 2]. Togeby [-@togeby1989] proposes an interpretation of Brøndal ideas in more modern terms and visualisations. Specifically, he argues that Brøndal actually describes a hierarchichal constituency structure for sentences as shown in [@fig:togeby1989_109] for the example in [@next a]. For the internal structure of noun phrases, Brøndal [-@brondal1932: §70] uses roman numerals I through VI, which Togeby [-@togeby1989: 110] interprets as a templatic structure, shown in [@fig:togeby1989_110] for the examples in [@next b]. Such a templatic structure only becomes mainstream with the work of Diderichsen (see [@sec:diderichsen1947]).
 
-### Hansen (1933) *Sætningen og dens led in moderne dansk*
+::: ex
+a.
+|
+| … at dreng-en ikke omhyggeligt har malet porten rød.
+| … that boy-DEF not carefully has painted gate red.
+| … that the boy has not carefully painted the gate red.
+b.
+|
+| de mange uartige små børn du så i går
+| the many naughty little child.PL you see.PAST yesterday
+| the many naughty little children that you saw yesterday
+:::
+
+::: {.im #togeby1989_109}
+Graphical application of Brøndal's system to the clause in [@last a] as proposed by Togeby [-@togeby1989: 109]. Such graphics are not attested in Brøndal's own work, but are implicit in his descriptions. However, it is quite hard to interpret how Brøndal really intended his system to be used [cf. @brondal1932: §48-55].
+:::
+
+::: {.im #togeby1989_110}
+Tabular representation of Brøndal's categories inside of a noun phrase like [@last b] as proposed by Togeby [-@togeby1989: 110]. The roman numerals (I through VI) are directly taken from Brøndal [-@brondal1932: §70]. Brøndal's text is really hard to interpret, and he does not directly say that these roman numerals represent ordering classes as implied by the graphic shown here. However, Togeby's interpretation is consistent with the examples as discussed by Brøndal.
+:::
+
+### Hansen (1933) *Sætningen og dens led in moderne dansk* {#sec:hansen1933}
 
 Aage Hansen (1894-1983) studied with Jespersen in Copenhagen. Book is dedicated to him.
 
@@ -124,7 +147,7 @@ compares his analysis with Stöhr [@stohr1898], Sapir (morpheme analysis), mauri
 
 discussion in [@cigana2020]
 
-### Diderichsen (1947) *Elementær dansk grammatik*
+### Diderichsen (1947) *Elementær dansk grammatik* {#sec:diderichsen1947}
 
 Feldertheorie [@diderichsen1957], giving nested schema like hansen [@diderichsen1957: 146] does not cite drach (1935) uses term "chinese boxes"
 
@@ -320,6 +343,8 @@ basic underline-style diagramming in [@paardekooper1955], published version iden
 ## French
 
 ### Gaultier (1819) *Leçons de grammaire en action*
+
+l’abbé Louis Gaultier (1746-1818)[ @gaultier1817] parsing tables, but without numbers
 
 [@gaultier1819] using colors and circles to teach word classes to small kids
 
