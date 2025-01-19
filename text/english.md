@@ -634,7 +634,7 @@ cited by Jespersen
 
 ## Immediate constituents
 
-### Wundt (1880) *Logik*
+### Wundt (1880) *Logik* {#sec:wundt1880}
 
 Hypothesis that Wundt influenced Bloomfield: [@percival1976: 234-235 gives various detailed arguments]
 
@@ -648,7 +648,7 @@ See [@picardi2022: 24-26] for the relation with Frege
 
 See [@dittrich1902] for a direct following of Wundt in Germany, otherwise nothing found
 
-### Sheffield (1912) *Grammar and thinking*
+### Sheffield (1912) *Grammar and thinking* {#sec:sheffield1912}
 
 Alfred Dwight Sheffield [@sheffield1912: 50-51] Grammar and Thinking (citing Wundt prominently) Brittain (1973:204) says “linguists seem to have been unaware of his work”. This is not true!
 

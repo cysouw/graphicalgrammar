@@ -123,9 +123,43 @@ Tabular representation of Brøndal's categories inside of a noun phrase like [@l
 
 ### Hansen (1933) *Sætningen og dens led in moderne dansk* {#sec:hansen1933}
 
-Aage Hansen (1894-1983) studied with Jespersen in Copenhagen. Book is dedicated to him.
+Aage Hansen (1894-1983) studied with Otto Jespersen in Copenhagen and worked at that university for the rest of his career. He was a central author in the preparation of two major encyclopaedic works about the Danish language, namely the dictionary *Ordbog over det danske Sprog* and the grammar *Moderne Dansk* [more biographical information in @hjorth2025]. 
 
-various graphics [@hansen1933], mentioned in the preface of Jespersen 1937 [@jespersen1937]
+Earlier in his career Hansen wrote a rather programmatic book about language analysis, called *Sætningen og dens led in moderne dansk* 'sentences and its parts in modern danish' [@hansen1933]. This book is dedicated to Jespersen and contains various graphical analyses. However, the graphics do not play a central role in his argumentation and are only used sporadically as illustrations. Hansen cites the work of Sheffield (see [@sec:sheffield1912]) and Wundt (see [@sec:wundt1880]), so the diagrams of Hansen are probably related to the immediate constituent tradition developing in the USA at the time Hansen is writing this book. Hansen uses examples from danish literature throughout his book, and he is particularly precise in referencing these examples. The examples in [@next] used for the graphics shown below are from the author Karl Larsen.
+
+The whole book is centered around the assumption that a sentence consists of two parts, which Hansen called the *A-led* 'part A' and *B-led* 'part B' [@hansen1933: 23]. He explicitly explains that this division is not equivalent to the subject/predicate devision, but more alike to a topic/comment opposition or the classical onoma/rhema distinction [@hansen1933: 69].
+
+> en meddelelse består af to nødvendige elementer: en angivelse af den størrelse, man vil meddele noget om, og en angivelse af selve det, man
+vil meddele om denne størrelse. [@hansen1933: 22]
+>
+> ('A message consists of two necessary elements: a statement of the quantity you want to communicate, and a statement of what you want to communicate about this quantity.')
+
+The graphical illustrations in his book only deal with the internal structure of the part B, although this might be a coincidence due to the sparse usage of the illustrations. Hansen uses three different graphical approaches, all intended to illustrate hierarchical modification of constituents. The first approach is a "chinese boxes" or "Matryoshka dolls" visualisation in which modifiers are hierachically organised by drawing enclosing circles or boxes. One of his drawings is shown here in [@fig:hansen1933_93a] for a small part of the example [@next a]. Hansen's second approach is particularly innovative, and I have not seen anything like this before or since. As shown in [@fig:hansen1933_93b] Hansen draws a *Planetskemaet* 'planetary scheme', in which a modifier is metaphorically compared to a planet or moon circling around another celectial body. Finally, he also uses a more widespread visualisation of hierarchically ordered brackets, with a Roman numeral I for the modified element and a Roman numeral II for the modifier. This approach is shown in [@fig:hansen1933_105] for part of the sentence [@next b].
+
+::: ex
+a.
+|
+| saa har vi her en lille Samling ganske særligt fremragende Videnskabsmænd.
+| so here we have a small collection very special outstanding scientists
+| So here we have a small collection of very outstanding scientists.
+b.
+|
+| Han udmærk‑ede sig ganske særligt ved en naiv Mangel paa Kendskab til alle praktiske Ting.
+| he mark-PAST REFL very special by a naive lack of knowledge for all practical matters
+| He was particularly distinguished by a naive lack of knowledge of all practical matters.
+:::
+
+::: {.im #hansen1933_93a}
+"Chinese boxes" or "Matryoshka dolls" visualisation of relative modification of part of the noun phrase in [@last a] as used by Hansen [-@hansen1933: 93]. In this approach a modifier is placed inside the area of the modified element, and this placement of modifiers can be repeated hierarchically.
+:::
+
+::: {.im #hansen1933_93b}
+*Planetskemaet* 'planetary scheme' for the noun phrase in [@last a] as proposed by Hansen [-@hansen1933: 93]. Modification is metaphorically displayed here as a planet surrounding its head. The letters at the bottom help to identify the words represented: *(l=lille, s=samling v=videnskabsmænd f=fremragende s=særligt g=ganske)*.
+:::
+
+::: {.im #hansen1933_105}
+Hierarchical brackets for the structure of sentence [@last b] as used by Hansen [-@hansen1933: 105]. The roman numeral I indicates the *bestemmes* 'modified' and the numeral II indicates the *bestemmer* 'modifier'. The subject *han* 'he' is left out of the analysis.
+:::
 
 ### Hjelmslev (1935) *La catégorie de cas*
 
