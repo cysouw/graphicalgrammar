@@ -1295,11 +1295,8 @@ Otto Ludwig Theodor Mensing (1868-1939) was a teacher in Kiel and wrote extensiv
 
 Mensing wrote various textbooks, among them the *Deutsche Grammatik für höhere Schulen*. His textbooks were very popular and appeared in various editions up to 1965. As Molzow [-@molzow2000: 1759] notes, textbooks are often treated as consumer goods and are not always properly archived. The many versions and editions of Mensing's textbooks needs a more detailed investigation. As for the grammar, there appear to be four main versions:
 
-There is also a *Vorstufe*, later volume 1 of *Hilfsbuch* already with 3rd edition in 1915
-
-Vorstufe has *Satzbilder* [@mensing1914: 77-80], later editions removed [@mensing1922]
-
-- The first edition of the *Deutsche Grammatik für höhere Schulen* appeared in 1903. This becomes *Ausgabe A*
+- The first edition of the *Deutsche Grammatik für höhere Schulen* appeared in 1903. [@mensing1903] no Satzbilder in the original version, only the "summary"! This becomes *Ausgabe A* around 1910 with the appearance of the special version for girl's-schools.
+- There is also a *Vorstufe*, later volume 1 of *Hilfsbuch*, already with 3rd edition in 1915. Vorstufe has *Satzbilder* [@mensing1914: 77-80], later editions of Vorstufe removed [@mensing1922]
 - A separate *Ausgabe B für höhere Mädchenschulen* appeared with the 8th edition of 1910. This version is cited here from the unchanged sixth edition [@mensing1913].
 - A revised *Ausgabe C* appeared with the 25th edition of 1925, following a revision of the Prussian teaching guidelines. Probably coinciding with this revision, the grammar was renamed *Deutsche Sprachlehre* and it became volume 2 of the series *Hilfsbuch für den deutschen Unterricht auf höheren Schulen*. This version is cited here as Mensing [-@mensing1927].
 - In 1954 a revision was prepared by Wolfgang Petersen, reprinted at least until an 8th edition of 1965.
@@ -1573,6 +1570,28 @@ https://opac.ku.de/s/uei/de/2/-1+%3D+%22Friedrich+feigl%22+filter%281280%3D%22%3
 
 Erich Drach (1885-1935) [@drach1937]
 
+Nachfeld: today Mittelfeld! *Zielpol* last element of *Nachfeld*: both used for objects and what today would be called "reche Klammer".
+
+discussion of *Umklammerung* is more interesting: using different kinds of brackets for hierarchical structure in many examples, e.g. p.46, 49. Also note notation of "1/2a" (p.39), reminiscent of Herling!
+
+Er {ging, [ohne (auf die <sich bei ihr wiederholenden> Klagen) einzugehen] aus dem Zimmer}
+
+### Weisgerber (1950) *Vom Weltbild der deutschen Sprache*
+
+Already in 1939 "Die volkhaften Kräfte" ?
+
+[@weisgerber1954: 190-192] internal subordination with brackets
+
+already in 1950. Chinese boxes added in revision 1954, adapted from Gipper 1950!
+
+[@weisgerber1954: 252] internal subordination with chinese boxes
+
+=> Gesetz der Umklammerung!
+
+### Gipper (1950) *Sprachliche und geistige Metamorphosen*
+
+Cited here from 1966 published version, but introduction says a "fast unveränderten Druck" (p.8)
+
 ### Glinz (1952) *Die innere Form des Deutschen*
 
 - 1952/1965: https://ids-pub.bsz-bw.de/frontdoor/index/index/docId/10209 316ff., 472-473
@@ -1641,14 +1660,5 @@ Satzbaukasten: [@ulshofer1967: 133-138]
 ### Lobentanzer (1986) *Deutsch muß nicht schwer sein*
 
 Satzbilder with lines in [@lobentanzer1986: 60, 72-73]
-
-## Other
-
-### Weisgerber (1954) *Vom Weltbild der deutschen Sprache*
-
-[@weisgerber1954: 190-192] internal subordination with brackets
-
-[@weisgerber1954: 252] internal subordination with chinese boxes
-
 
 
