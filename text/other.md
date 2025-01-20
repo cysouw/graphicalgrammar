@@ -410,6 +410,13 @@ Original from 1939, but not diagrams. Takes over Bonnard-style diagrams in 25th 
 
 I thank María José García Folgado for many suggestions
 
+### Montoy (1882) *Análisis gramatical razonado*
+
+Montoy, Joaquim (1882, mayo 12). “Análisis gramatical razonado”. El Clamor del Magisterio, año 17, n°. 19
+
+- https://bsky.app/profile/mjgarciafolgado.bsky.social/post/3ldscj467zc2n
+- https://ca.wikipedia.org/wiki/Joaquim_Montoy_i_Escuer
+
 ### Escriche y Mieg & Fernández Iparraguirre (1884)
 
 Tomás Escriche y Mieg (1844-1918) and Francisco Fernández Iparraguirre (1852-1889)
@@ -432,13 +439,13 @@ A different level of granularity for the analysis of the sentence is the *quadro
 
 ### Solana (1911) *Tratado de análisis lógico y gramatical*
 
-[@solana1911]
+[@solana1911], nicer pictures in 5th edition [@solana1911]
 
 ### Bastiniani (1916) *Sintaxis castellana*
 
 Bastianini, René (1916). “Análisis sintáctico inmediato y secundario”. Sintaxis castellana y nociones de lingüística y etimología. Buenos Aires: Librería de A. García Santos, 48-49.
 
-René Bastianini (1877-1953) [@bastianini1916: 42-49]
+René Bastianini (1877-1953) [@bastianini1916: 42-49], see also [@garcia2017]
 
 - https://bsky.app/profile/mjgarciafolgado.bsky.social/post/
 - https://es.wikisource.org/wiki/Índice:Sintaxis_castellana.djvu
@@ -458,11 +465,6 @@ Montoro del Arco, Esteban T. (2019). “Métodos y modelos de representación de
 http://hdl.handle.net/10481/67999
 
 https://digibug.ugr.es/bitstream/handle/10481/67999/Metodos_y_modelos_de_representacion_del%20%281%29.pdf?sequence=1
-
-Montoy, Joaquim (1882, mayo 12). “Análisis gramatical razonado”. El Clamor del Magisterio, año 17, n°. 19
-
-- https://bsky.app/profile/mjgarciafolgado.bsky.social/post/3ldscj467zc2n
-- https://ca.wikipedia.org/wiki/Joaquim_Montoy_i_Escuer
 
 ## Romanian
 
