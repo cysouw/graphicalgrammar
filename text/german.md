@@ -1291,24 +1291,43 @@ Various *Periodenbilder* for the complex sentence in [@last] from the article of
 
 ### Mensing (1903) *Deutsche Grammatik für höhere Schulen* {#sec:mensing1903}
 
-Otto Ludwig Theodor Mensing (1868-1939) was a teacher in Kiel and wrote extensively about Low German grammar. He is most well-known for his *Schleswig-Holsteinische Wörterbuch*. More biographical information is available in Molzow [-@molzow2000].
+Otto Ludwig Theodor Mensing (1868-1939) was a teacher in Kiel and wrote extensively about Low German grammar. He is most well-known for his *Schleswig-Holsteinische Wörterbuch* [more biographical information is available in @molzow2000]. He also wrote various different textbooks for teaching German language and literature, among them the *Deutsche Grammatik für höhere Schulen*. His textbooks were very popular and appeared in various editions up to 1965. I have tried to access many different versions, but as Molzow [-@molzow2000: 1759] notes, textbooks are often treated as consumer goods and are not always properly archived. The many versions and editions of Mensing's textbooks needs a more detailed investigation than I am able to provide here. 
 
-Mensing wrote various textbooks, among them the *Deutsche Grammatik für höhere Schulen*. His textbooks were very popular and appeared in various editions up to 1965. As Molzow [-@molzow2000: 1759] notes, textbooks are often treated as consumer goods and are not always properly archived. The many versions and editions of Mensing's textbooks needs a more detailed investigation. As for the grammar, there appear to be four main versions:
+Mensing originally wrote various separate textbooks, but around 1915 they are combined into a series, called *Hilfsbuch für den deutschen Unterricht auf höheren Schulen*. As for the *Deutsche Grammatik für höhere Schulen*, there appear to be five main versions:
 
-- The first edition of the *Deutsche Grammatik für höhere Schulen* appeared in 1903. [@mensing1903] no Satzbilder in the original version, only the "summary"! This becomes *Ausgabe A* around 1910 with the appearance of the special version for girl's-schools.
-- There is also a *Vorstufe*, later volume 1 of *Hilfsbuch*, already with 3rd edition in 1915. Vorstufe has *Satzbilder* [@mensing1914: 77-80], later editions of Vorstufe removed [@mensing1922]
-- A separate *Ausgabe B für höhere Mädchenschulen* appeared with the 8th edition of 1910. This version is cited here from the unchanged sixth edition [@mensing1913].
-- A revised *Ausgabe C* appeared with the 25th edition of 1925, following a revision of the Prussian teaching guidelines. Probably coinciding with this revision, the grammar was renamed *Deutsche Sprachlehre* and it became volume 2 of the series *Hilfsbuch für den deutschen Unterricht auf höheren Schulen*. This version is cited here as Mensing [-@mensing1927].
-- In 1954 a revision was prepared by Wolfgang Petersen, reprinted at least until an 8th edition of 1965.
+- The first edition of the grammar appeared in 1903. This original version contains no Satzbilder [@mensing1903], only a graphical summary of possible parts of a sentence (see [@fig:mensing1903_44]). This version becomes *Ausgabe A* around 1910 with the appearance of the special *Ausgabe B* for girl's schools. From around 1915 this grammar becomes volume 2 of the *Hilfsbuch*-series.
+- Around 1913 Mensing also prepared a slimmed-down version intended for ages 11-13, called *Vorstufe zur deutsche Grammatik für höhere Schulen*. This version later becomes volume 1 of the *Hilfsbuch*-series. This *Vorstufe* originally has *Satzbilder* [@mensing1914: 77-80], but they are removed from later editions [@mensing1922].
+- A separate *Ausgabe B für höhere Mädchenschulen* appeared with the 8th edition of 1910. This version is cited here from the unchanged sixth edition [@mensing1913] and does not contain *Satzbilder*.
+- A revised *Ausgabe C* appeared with the 25th edition of 1925, following a revision of the Prussian teaching guidelines. This version is cited here from the 26th edition [@mensing1927].
+- In 1954 a revision was prepared by Wolfgang Petersen, reprinted at least until an 8th edition of 1965, cited here from the fourth edition [@petersen1955]
 
-Only schema in [@mensing1913: 54], no concrete examples. Same schema as [@mensing1927: 86]. In the 1927 version there are concrete examples under the heading *Satzbilder*. *Satzbild* very similar to C~2~ revision of Lyon's *Handbuch* [@lyon1919], see [@fig:lyon1919_122].
+::: {.im #mensing1903_44}
+Schema of possible sentences structures appearing in various version of Mensing's grammar [@mensing1903: 44; @mensing1913: 54; @mensing1927: 86]. It looks like a graphical sentence analysis, but it actually shows the possible parts of a sentence, which cannot all coocurr in a single sentence. Real *Satzbilder* are added 10 years later, as shown below.
+:::
+
+Starting around 1913 Mensing adds *Satzbilder* to analyse individual sentences with a graphical display. An example from the *Vorstufe* from 1914 in shown in [@fig:mensing1914_78]. Mensing explains that the words of the sentence are part of the graph, but that they can be replaced by functional abbreviations. Only slight cosmetic changes are made in the various later revision, as shown in [@fig:mensing1927_88] from 1927 and [@fig:mensing1955_116] from 1955.
 
 ::: ex
-Der kleine Sohn des Bauerns brachte den durstigen Wanderer schnell einen Trunk kühlen Wassers.
+- Die hellen Sternen zeigen dem einsamen Wanderer den Weg.
+- Der kleine Sohn des Bauerns brachte den durstigen Wanderer schnell einen Trunk kühlen Wassers.
+:::
+
+::: {.im #mensing1914_78}
+*Satzbild* for example [@last a] from the first edition of the *Vorstufe* [@mensing1914: 78]. It is both possible to insert the actual words in the graphic, or only use functional abbreviations. The superscripts numbers indicate case (3=dative, 4=accusative).
 :::
 
 ::: {.im #mensing1927_88}
-*Satzbild* for the examples sentence in [@last] from Mensing [-@mensing1927: 88].
+*Satzbild* for the examples sentence in [@last b] from the *Ausgabe C* [@mensing1927: 88]. In this edition, this example is the only one with the full words inserted. Mensing prefers to only use the abbreviations (here in brackets) to indicate the structure of the sentence. Note that the adverb *schnell* 'quickly' is placed after the objects, although in the actual sentence it occurs between the objects.
+:::
+
+::: {.im #mensing1955_116}
+*Satzbild* for the same example sentence in [@last b] from 1955 revision of Mensing's grammar [@petersen1955: 116]. This is just a cosmetic change from the 1927 version in [@fig:mensing1927_88], but interestingly the position of the adverb has been changed to coincide with the actual placement in the sentence. The abbreviations are extended with various modifiers (e.g. *d=Dativ*, *s=Genitiv*).
+:::
+
+In the 1954 revision of Mensing's grammar by Petersen there is a graphical display added for the structure of complex sentences consisting of multiple clauses [@petersen1955: 133-134]. An example is shown in [@fig:mensing1955_134]. Main clauses are indicated by a low horizontal line and subordinate clauses by high horizontal lines. Start and end of a clause are shown with the small vertical lines, and double vertical lines indicate that the clause is separated into two parts by another clause. Multiply-embedded subordinate clauses are not specifically indicated in this approach.
+
+::: {.im #mensing1955_134}
+Graphical display of the hierarchical clause structure by underlining, from Petersen's revision of Mensing's grammar [@petersen1955: 134]. Main clauses have a low underline, while subordinate clauses have a high underline. Levels of subordination are not indicated. Clauses that are separated by other clauses are marked by small double vertical lines at the point of insertion.
 :::
 
 ### Eberhard (1905) *Graphische Darstellung in der Sprachlehre* 
@@ -1578,19 +1597,19 @@ Er {ging, [ohne (auf die <sich bei ihr wiederholenden> Klagen) einzugehen] aus d
 
 ### Weisgerber (1950) *Vom Weltbild der deutschen Sprache*
 
-Already in 1939 "Die volkhaften Kräfte" ?
+Drach Felder [@weisgerber1939: 53-54; @weisgerber1950: 120-121]
 
-[@weisgerber1954: 190-192] internal subordination with brackets
+=> *Gesetz der Umklammerung* [@weisgerber1939: 57-58; @weisgerber1950: 188; @weisgerber1954: 187] from Drach
 
-already in 1950. Chinese boxes added in revision 1954, adapted from Gipper 1950!
+[@weisgerber1954: 190-192] internal subordination with brackets. Example already in [@weisgerber1939: 58] but without visualisation. Visualisation already in 1950 [@weisgerber1950: 191-193]. 
 
-[@weisgerber1954: 252] internal subordination with chinese boxes
-
-=> Gesetz der Umklammerung!
+Chinese boxes added in revision 1954, adapted from Gipper 1950! [@weisgerber1954: 252] internal subordination with chinese boxes
 
 ### Gipper (1950) *Sprachliche und geistige Metamorphosen*
 
-Cited here from 1966 published version, but introduction says a "fast unveränderten Druck" (p.8)
+Original dissertation from 1950, cited here from 1966 published version [@gipper1966], but introduction says a "fast unveränderten Druck" (p.8)
+
+Based on example from Weisgerber, Gipper adds "Zur Erläuterung führe ich das … Beispiel an, und zwar in einer besonders anschaulichen Form" [@gipper1966: 118]. Chinese boxes diagram on p.119
 
 ### Glinz (1952) *Die innere Form des Deutschen*
 
@@ -1604,7 +1623,7 @@ reception: https://docserv.uni-duesseldorf.de/servlets/DocumentServlet?id=46205
 
 https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/8374/file/Erben_Abriss_der_deutschen_Grammatik_1958.pdf
 
-p.188: citing Tesniere [@tesniere1953], in the 1964 edition p. 266 adds a quib about the simplicity of the american constituent analysis https://doi.org/10.1515/9783112763575
+p.188: citing Tesniere [@tesniere1953], in the 1964 edition p. 266 adds a quib about the simplicity of the american constituent analys is https://doi.org/10.1515/9783112763575
 
 vorfeld/nachfeld
 
