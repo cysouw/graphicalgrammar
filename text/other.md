@@ -90,6 +90,31 @@ Repeated here is one of Broberg's Danish example sentence in [@next a], with his
 Indented table by Broberg [-@broberg1882: 95] to explain the sentence structure of the Danish example sentence in [@last a]. The actual order of the words is indicated by the numbers. The top to bottom order in the table indicates relative modification, i.e. each indented phrase modifies the head phrase above it. The placement of phrase 8 (*en af Gjæsterne*) is probably a printing error, it should be placed much more to the right.
 :::
 
+### Hjelmslev (1928) *Principes de grammaire générale*
+
+Louis Trolle Hjelmslev (1899-1965) was a linguist at the university of Copenhagen and co-founder of the *Lingvistkredsen* 'Linguistic Circle of Copenhagen' with Brøndal (see [@sec:brøndal1932]). Hjelmslev developed an intricate system of linguistic analysis under the label *glossomatik*, but he does not appear to have applied this to the analysis of longer stretches of text. There are many graphics in his work, but they mostly deal with paradigmatic structures. A rare syntactic visualisation is the rather trivial example shown in [@fig:hjelmslev1928_138] [@hjelmslev1928: 138] for the Latin sentence in [@next a]. A few years later he adds another trivial visualisation, as shown in [@fig:hjelmslev1935_52] [@hjelmslev1935: 52] for the Latin example in [@next b]. These visualisations are probably better analysed as showing government/agreement relations, and not as a real syntactic sentence analysis.
+
+::: ex
+a.
+| Latin [@hjelmslev1928: 138]
+| dā‑b‑ō frātrī librum
+| give‑FUT‑1SG brother.DAT book.AKK
+| I will give (my) brother a book.
+b.
+| Latin [@hjelmslev1935: 52]
+| rosa est pulchra
+| rose.NOM BE.3SG beautiful.NOM
+| The rose is beautiful.
+:::
+
+::: {.im #hjelmslev1928_138}
+A trivial graphical analysis of the case government relations in the Latin sentence [@last a] as visualised by Hjelmslev [-@hjelmslev1928: 138].
+:::
+
+::: {.im #hjelmslev1935_52}
+Analysis of government (top) and agreement (bottom) relations inside the Latin sentence [@last b] as visualised by Hjelmslev [-@hjelmslev1935: 52].
+:::
+
 ### Brøndal (1932) *Morfologi og syntax* {#sec:brøndal1932}
 
 Rasmus *Viggo* Brøndal (1887-1942) was a professor at Copenhagen and a co-founder of the *Lingvistkredsen* 'Linguistic Circle of Copenhagen' [biographical information is available in @hallon1989: xvi-xxvi]. In his books *Ordklasserne: partes orationis. Studier over de sproglige kategorier* [@brondal1928] and more specifically in *Morfologi og syntax* [@brondal1932; translated in @hallon1989] Brøndal develops a highly idiosyncratic system for linguistic analysis based on symbolic combinations of the letters *D, d, R, r*, as summarised in the fold-out appendix to the *Ordklasserne* [@brondal1928], shown here in [@fig:brøndal1928_appendix].
@@ -162,14 +187,6 @@ b.
 ::: {.im #hansen1933_105}
 Hierarchical brackets for the structure of sentence [@last b] as used by Hansen [-@hansen1933: 105]. The roman numeral I indicates the *bestemmes* 'modified' and the numeral II indicates the *bestemmer* 'modifier'. The subject *han* 'he' is left out of the analysis.
 :::
-
-### Hjelmslev (1935) *La catégorie de cas*
-
-stupid graphic in [@hjelmslev1928: 138]
-
-arrows on [@hjelmslev1972: 52-53], but not real language analysis, just an example of interdependence of elements in language
-
-lots of graphics, but only paradigms, structure, illustration
 
 ### Jespersen (1937) *Analytic syntax*
 
