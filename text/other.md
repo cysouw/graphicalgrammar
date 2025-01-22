@@ -190,16 +190,14 @@ Hierarchical brackets for the structure of sentence [@last b] as used by Hansen 
 
 ### Jespersen (1937) *Analytic syntax*
 
-Jespersen (1913) *Sprogets logik* Notion *rang* 'rank', different levels. First attempt at symbolic representation [@jespersen1913: 31, 63, 80-81], further develop in 1937
+Otto Jespersen (1860-1943) was professor of English at Copenhagen. He was already an established linguist before the previously discussed Hjelmslev, Brøndal and Hansen were even born. Jespersen worked on a wide variety of linguistic topics, and throughout his life prepared the massive 7-volume *Modern English grammar on historical principles*. He proposed various influential structural principles for linguistic analysis, above all his notion of *rang* 'rank'. However, for most of his career he did not apply graphical or algebraic methods to linguistic analysis. There are just a few incidental symbolic representation in *Sprogets logik* [@jespersen1913: 80-81]. Only towards the end of his life he published *Analytic syntax* [@jespersen1937], in which he laid out a completely symbolic framework for linguistic analysis. It feels like an idea he probably had been working on for a long time, but only published late in his career.
 
-symbolic analysis, [@jespersen1937: 83] citing a graphic from [@fry1925] 
+The approach in *Analytic syntax* is algebraic, using symbols and brackets to analyse linguistic utterances. He does not draw any graphical representations, although Francis [-@francis1989: 83] shows that is clearly possible to interpret the bracketing as a constituent tree. For comparison, Jespersen [-@jespersen1937: 83] includes a graphical analysis from Fry (see [@sec:fry1925]), so he was clearly aware of the possibility to use images to analyse language. In earlier work [@jespersen1913: 95] he cites Wundt (see [@sec:wundt1880]) and Sheffield (see [@sec:sheffield1912]), so Jespersen knew about the basic ideas of what later became constituency trees in the USA. However, for some reason Jespersen preferred an algebraical approach, citing Stöhr (see [@sec:stöhr1898]), Sapir (see [@sec:sapir1921]), Bologne (see [@sec:bologne1935]) and Brøndal (see [@sec:brøndal1932]) as having similar approaches.
 
-compares his analysis with Stöhr [@stohr1898], Sapir (morpheme analysis), maurice bologne, Brøndal, cites Fry
-
-discussion in [@cigana2020], [@francis1989: 83] interpreting brackets as constituent tree
+Jespersen uses letters, superscripts and brackets to represent syntactic structure, and, being the detailed grammarian that he has been for his whole life, he presents many pages with hundreds of examples of this system for a plethora of different grammatical phenomena from a dozen different languages [@jespersen1937: 6-84]. This is hands-down the most well-documented system of all approaches discussed in this book. A more in-depth discussion of Jespersen's approach can be found in Francis [-@francis1989] and Cigana [-@cigana2020]. As an illustration of his approach an example is shown here in [@fig:jespersen1937_83] for an example sentence taken from Fry [-@fry1925: 64].
 
 ::: {.im #jespersen1937_83}
-[@jespersen1937: 83] citing example from Fry in [@fig:fry1925_64]
+Analysis of a complex sentence from Jespersen [-@jespersen1937: 83] citing an example from Fry [-@fry1925: 64] that originally was used to illustrate a graphical analysis (cf. [@fig:fry1925_64]). The brackets are not consistently closed in this example, but that appears to be a printing error (there should have been a closing bracket below *knife* and below *feeding*). All other examples in his book that I have checked have properly closed brackets.
 :::
 
 ### Diderichsen (1947) *Elementær dansk grammatik* {#sec:diderichsen1947}
@@ -412,6 +410,10 @@ Tesniere knew about Fry [@fry1925], documented in [@mazziotta2024], uses numbers
 Petit grammaire russe with trees more like Kern, look very modern [@tesniere1934a: 162]
 
 precursor of Elements: [@tesniere1953]
+
+### Bologne (1935) *Analyse grammaticale* {#sec:bologne1935}
+
+maurice bologne, cited by Jespersen [@jespersen1937: 87-88] *Analyse grammaticale a l'aide de Signes conventionells*
 
 ### Bonnard (1950) *Grammaire française des lycées et collèges*
 

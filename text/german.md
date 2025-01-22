@@ -1550,7 +1550,7 @@ Georg Dinkel (dates unknown) from Nürnberg wrote a small article in the *Bayeri
 *Satzbild* for the example sentenence in [@last] from Dinkel [-@dinkel1895: 634]. The numbers indicate cases (2=genitive, 3=dative, 4=accusative), ignoring the fact that the cases are governed by prepositions. Of particular interest is the use of nested brackets to indicate hierarchical structure.
 :::
 
-### Stöhr (1898) *Algebra der Grammatik*
+### Stöhr (1898) *Algebra der Grammatik* {#sec:stöhr1898}
 
 Adolf Stöhr (1855–1921) was professor for philosophy in Vienna [biographical details in @angetter2009]. He wrote a rather curious book called *Algebra der Grammatik* [@stohr1898], which was assessed as "rather fantastic" by Jespersen [-@jespersen1937: 83]. Although idiosyncratic, Stöhr's book is not as crazy as Jespersen makes it sound. Stöhr assigns codes to linguistic elements, which are subsequently combined into larger expressions. However, his primary goal does not appear to be any detailed description of linguistics structures, but rather an attempt to try and "calculate" with these larger expressions, somewhat akin to what today would be called deriving semantic inferences.
 
