@@ -190,15 +190,17 @@ Hierarchical brackets for the structure of sentence [@last b] as used by Hansen 
 
 ### Jespersen (1937) *Analytic syntax*
 
-Jespersen (1913) *Sprogets logik*
-
-Notion *rang* 'rank', different levels. First attempt at symbolic representation [@jespersen1913: 31, 63, 80-81], further develop in 1937
+Jespersen (1913) *Sprogets logik* Notion *rang* 'rank', different levels. First attempt at symbolic representation [@jespersen1913: 31, 63, 80-81], further develop in 1937
 
 symbolic analysis, [@jespersen1937: 83] citing a graphic from [@fry1925] 
 
-compares his analysis with Stöhr [@stohr1898], Sapir (morpheme analysis), maurice bologne, Brøndal
+compares his analysis with Stöhr [@stohr1898], Sapir (morpheme analysis), maurice bologne, Brøndal, cites Fry
 
-discussion in [@cigana2020]
+discussion in [@cigana2020], [@francis1989: 83] interpreting brackets as constituent tree
+
+::: {.im #jespersen1937_83}
+[@jespersen1937: 83] citing example from Fry in [@fig:fry1925_64]
+:::
 
 ### Diderichsen (1947) *Elementær dansk grammatik* {#sec:diderichsen1947}
 

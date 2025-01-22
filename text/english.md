@@ -624,13 +624,15 @@ diagramming? [@palser1923] Also used in “Memorandum on the teaching of English
 
 citing: Adamson and Dale (citing Kern!)
 
-### Fry (1925) *A key to language*
+### Fry (1925) *A key to language* {#sec:fry1925}
 
 own graphics
 
 Fry [@fry1925: 12] commenting on Palser/Lewis: “all the chief features of my method have been used by myself and a few of my pupils for something like twenty years.”
 
-cited by Jespersen
+::: {.im #fry1925_64}
+[@fry1925: 64], cited by Jespersen [@jespersen1937: 83]
+:::
 
 ## Immediate constituents
 
@@ -658,7 +660,7 @@ also Alfred Dwight Sheffield [@sheffield1929: 53]
 - Jespersen cites him in 1913 Sprogets Logic
 - review by Bloomfield, quite critical [@bloomfield1912]
 
-### Sapir (1921) *Language*
+### Sapir (1921) *Language* {#sec:sapir1921}
 
 morphology-formula [@sapir1921]
 
