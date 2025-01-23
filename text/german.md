@@ -1330,6 +1330,30 @@ In the 1954 revision of Mensing's grammar by Petersen there is a graphical displ
 Graphical display of the hierarchical clause structure by underlining, from Petersen's revision of Mensing's grammar [@petersen1955: 134]. Main clauses have a low underline, while subordinate clauses have a high underline. Levels of subordination are not indicated. Clauses that are separated by other clauses are marked by small double vertical lines at the point of insertion.
 :::
 
+### Jauker (1904) *Deutsche Sprachlehre*
+
+Karl Jauker (born 1850) was director of the teacher's seminary in Graz, Austria.^[Karl Jauker is regularly included in the *Kürschners Deutscher Literatur-Kalender*. The last, very short, mention of is from 1924 (page 426) <https://doi.org/10.1515/9783111438030>. Afterwards he is removed, and there is no announcement of his passing.] He appears to have written various German textbooks, but I have only been able to access the *Deutsche Sprachlehre für Lehrer- und Lehrerinnen-Bildungsanstalten*. The first edition was published in 1904, but this book is cited here from the third, mostly unchanged, edition [@jauker1910]. More in-depth research is needed to compare Jauker's various textbooks. The *Zergliederung* or *Analyse* of sentences in the *Deutsche Sprachlehre* [@jauker1910: 96-99, 129-138] is clearly influenced by Trunk, who also lived and worked in Graz (see [@sec:trunk1895]). 
+
+Jauker uses different visualisations for (i) the internal structure of single-clause sentences and (ii) the clausal hierarchical structure of multi-clause sentences. In both kinds of images he follows Trunk in including sentence ordering of a dependent relative to its immediate head: lines going down-left means that the dependent is placed before its head, while lines going down-right indicate placement after the head.
+
+Jauker's *Satzbild* for single-clause sentences is illustrated here in [@fig:jauker1910_98] for the example [@next a]. The figure only includes functional abbreviations, so it is not immediately obvious how this figure relates to the example sentence. In this figure, the clause is headed by the finite verb *stand* 'stood', which is indicated as *Ausſag. Ztw.=Aussage Zeitwort*. Relative to this verb, there is one line going down-left to the preposed adverbial phrase headed by *Stelle* 'place', which is indicated as *U.d.O.=Umstand des Ortes*. To the right is the postposed subject *Menge* 'large number', which is indicated by *Subjw=Subjektwort*. Both the adverbial phrase and the subject have various attributive modifiers, called *Beif=Beifügung*.
+
+The *Satzbild* for a multi-clause sentence only indicates the various clauses in the graphic, as illustrated in [@fig:jauker1910_131] for the sentence [@next b]. The capital letter *H* indicates the main clause, while subordinated clauses are indicated by lower-case letters. The depth of embedding is indicated by superscript numbers. In this example there is a preposed temporal clause *uz=Umstand der Zeit*, a postposed causal clause *ug=Umstand des Grundes* and a postposed object clause *o=Objektsatz*. There are two second-order relative clauses *b=Beifügungssatz*. The rounded arch at the left indicates that the two abbreviations *uz^1^* are actually two parts of the same clause. The round brackets to the right *(ug^1^)* indicate that this clause is non-finite.
+
+::: ex
+- An einer sonnigen Stelle inmitten hoher schlanker Buchen stand eine Menge weißer Anemonen und gelber Schlüsselblumen.
+- [uz^1^]{.grey} Als der römische Stadtpräfekt, [b^2^]{.grey} der später Papst Gregor I. wurde, [uz^1^]{.grey} auf dem Sklavenmarkte Knaben aus Angeln aufgestellt sah, [b^2^]{.grey} die ein Händler eingeführt hatte, [H]{.grey} fragte er, [(ug^1^)]{.grey} von den blonden Locken, den weißen Leibern und den holden Kindergesichtern ergriffen: [o^1^]{.grey} "Woher sind sie gebracht?"
+:::
+
+::: {.im #jauker1910_98}
+*Satzbild* for a single-clause sentence [@last a] from Jauker [-@jauker1910: 98]. The graphical display only includes abbreviations for functional categories, so it is not immediately obvious how this image relates to the actual sentence. It can be seen as an exercise in syntactic analysis to find out why this figure is actually a representation of the structure of [@last a].
+:::
+
+::: {.im #jauker1910_131}
+*Satzbild* for a multi-clause sentence [@last b] from Jauker [-@jauker1910: 131]. Capital *H=Hauptsatz* indicates the main clause, lower-case letters indicate subordinate clauses. Superscript numbers mark the level of embedding; brackets mark non-finite clauses. The direction of the lines indicate the ordering of the modifiers: down-left means before its head, down-right means after its head. The rounded arch at the left side indicates that these two abbreviations are actually separated parts of the same clause.
+:::
+
+
 ### Eberhard (1905) *Graphische Darstellung in der Sprachlehre* 
 
 Johann Eberhard (born 1838) was a school director in Sigmaringen.^[Not much is available about his biography. He retired as director in 1903 and apparantly moved to Trier, see page 30 of the school report of 1904 <https://nbn-resolving.org/urn:nbn:de:hbz:061:1-882473>, accessed 10 January 2025.] After his retirement he wrote a small article about the graphical analysis of sentences [@eberhard1905], mostly as a reaction to the proposals of Stamm (see [@sec:stamm1899]). Eberhard criticises Stamm for the complexity of his analyses, which are not suitable for use in school. However, Eberhard is very positive about the idea of using graphical displays for teaching grammar.

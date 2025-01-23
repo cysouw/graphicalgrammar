@@ -202,6 +202,8 @@ Analysis of a complex sentence from Jespersen [-@jespersen1937: 83] citing an ex
 
 ### Diderichsen (1947) *Elementær dansk grammatik* {#sec:diderichsen1947}
 
+https://de.wikipedia.org/wiki/Paul_Diderichsen
+
 Feldertheorie [@diderichsen1957], giving nested schema like hansen [@diderichsen1957: 146] does not cite drach (1935) uses term "chinese boxes"
 
 1964 English translation
@@ -295,7 +297,7 @@ Hierarchical morphological structure of the compound in [@last a] from Noreen [-
 
 ### Rebbe (1935) *Svensk språklära för realskolan*
 
-Carl Rebbe (1862-1948) was a teacher in Gothenburg. In 1912 he wrote the *Svensk språklära för realskolan* 'Swedish language-teaching for middle school'. This book has been extremely popular and remained in print in various editions and revisions until the 1970s, revised by either Nils Ivan, Helge Gullberg and/or Birger Bjerre. I have only been able to access the tenth edition from 1935 [@rebbe1935]. Starting in 1920 Rebbe also prepared a frequently reprinted *kortfattad* 'concise' version of the *Svensk språklära*. And in 1902 he published a collection of examples called *Exempelsamling till inöfvande af allmänna satsläran och skiljetecknens bruk* 'Collection of examples for practicing general syntax and the use of punctuation marks'. Walter Fischer revised this collection in 1914 with a minor change in title (*svenska satsläran* instead of *allmänna satsläran*). All these different textbooks and their numerous editions need a more in-depth investigation and comparison.
+Carl Rebbe (1862-1948) was a teacher in Gothenburg [some basic biographical information is available in @sjogren1949]. In 1912 he wrote the *Svensk språklära för realskolan* 'Swedish language-teaching for middle school'. This book has been extremely popular and remained in print in various editions and revisions until the 1970s, revised by either Nils Ivan, Helge Gullberg and/or Birger Bjerre. I have only been able to access the tenth edition from 1935 [@rebbe1935]. Starting in 1917 Rebbe also prepared a frequently reprinted *kortfattad* 'concise' version of the *Svensk språklära*. And in 1902 he published a collection of examples called *Exempelsamling till inöfvande af allmänna satsläran och skiljetecknens bruk* 'Collection of examples for practicing general syntax and the use of punctuation marks'. Walter Fischer revised this collection in 1914 with a minor change in title (*svenska satsläran* instead of *allmänna satsläran*). All these different textbooks and their numerous editions need a more in-depth investigation and comparison.
 
 In the 1935 version, there is a single page with various examples of the graphical analysis of single-clause sentences [@rebbe1935: 188]. An example is shown in [@fig:rebbe1935_118] for the example in [@next]. The pointing arrows are clearly similar to the approach from Beckman (see [@sec:beckman1904]). The other examples also show various details that indicate that this visual display was inspired by Beckman (e.g. adverbials pointing to the line connecting subject and predicate).
 
