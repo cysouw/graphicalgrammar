@@ -204,6 +204,8 @@ Analysis of a complex sentence from Jespersen [-@jespersen1937: 83] citing an ex
 
 Feldertheorie [@diderichsen1957], giving nested schema like hansen [@diderichsen1957: 146] does not cite drach (1935) uses term "chinese boxes"
 
+1964 English translation
+
 details about history: https://da.wikipedia.org/wiki/Sætningsskema
 
 He knew about Hansen, but never cited it. acknowledgement in 1964 Festschrift for Hansen [@diderichsen1966: 364].
@@ -291,16 +293,22 @@ b.
 Hierarchical morphological structure of the compound in [@last a] from Noreen [-@noreen1906: 33]. Noreen did not visualise the structure as a tree, but he used dashes to indicate the hierarchical structure. The number of dashes was intended as an indication of the hierarchical structure, which is depicted here in a modern way.
 :::
 
-### Rebbe *svensk språklära*
+### Rebbe (1935) *Svensk språklära för realskolan*
 
-Rebbe, Carl, 1862-1948 (författare)
-Fischer, Walter, 1872-1953 (författare)
-Bjerre, Birger, 1902-1993 (medarbetare)
+Carl Rebbe (1862-1948) was a teacher in Gothenburg. In 1912 he wrote the *Svensk språklära för realskolan* 'Swedish language-teaching for middle school'. This book has been extremely popular and remained in print in various editions and revisions until the 1970s, revised by either Nils Ivan, Helge Gullberg and/or Birger Bjerre. I have only been able to access the tenth edition from 1935 [@rebbe1935]. Starting in 1920 Rebbe also prepared a frequently reprinted *kortfattad* 'concise' version of the *Svensk språklära*. And in 1902 he published a collection of examples called *Exempelsamling till inöfvande af allmänna satsläran och skiljetecknens bruk* 'Collection of examples for practicing general syntax and the use of punctuation marks'. Walter Fischer revised this collection in 1914 with a minor change in title (*svenska satsläran* instead of *allmänna satsläran*). All these different textbooks and their numerous editions need a more in-depth investigation and comparison.
 
-"Kortfattad svensk språklära för realskolan" Författare: 
-"Exempelsamling till svenska språkläran"
+In the 1935 version, there is a single page with various examples of the graphical analysis of single-clause sentences [@rebbe1935: 188]. An example is shown in [@fig:rebbe1935_118] for the example in [@next]. The pointing arrows are clearly similar to the approach from Beckman (see [@sec:beckman1904]). The other examples also show various details that indicate that this visual display was inspired by Beckman (e.g. adverbials pointing to the line connecting subject and predicate).
 
-Carl Rebbe, Walter Fischer, Birger Bjerre
+::: ex
+| Swedish [@rebbe1935: 188]
+| Eriks far har givit honom en dyrbar färglåda.
+| Erik‑GEN father has given 3SG.OBJ ART precious paintbox
+| Erik's father has given him a precious paint box.
+:::
+
+::: {.im #rebbe1935_118}
+Graphical analysis of the sentence [@last] from Rebbe [-@rebbe1935: 188]. The pointing arrows for modification are similar to Beckman's approach (cf. [@fig:beckman1904_194]).
+:::
 
 ## Finnish
 
