@@ -366,11 +366,29 @@ Visualisation of clause subordination for the examples sentence in [@last] from 
 
 ### Lonkay (1855) *Gyakorlati Német Nyelvtan*
 
-Antal Lonkay (1827-1888)
+Antal Lonkay (1827-1888) was a teacher in Pest, Hungary [some biographical information is available in @benda1971]. He wrote a German grammar for speakers of Hungarian, called *Gyakorlati Nemet Nyelvtan az ausztriai birodalombeli elemi tanodak masodik es harmadik osztalyainak szamara* 'Practical German grammar for the second and third grades of elementary school students in the Austrian Empire' [@lonkay1855]. 
 
-https://www.biographien.ac.at/oebl?frames=yes
+In this grammar Lonkay used a templatic table for German sentence structure [see @good2016 for the linguistic notion of a template]. Most interestingly, Lonkay distinguishes specific positions for the finite verb at the second position and for non-finite parts at the end. The table is shown here in [@fig:lonkay1855_175] [@lonkay1855: 175]. This syntactic analysis is very similar to what today in German grammar is called a "topological model", which is commonly attributed to Drach (1937, see [@sec:drach1937]) and/or Diderichsen (1946, see [@sec:diderichsen1947]). However, as shown by this example from Lonkay, this approach is much older, possibly even dating back to Becker (1830, see [@sec:becker1830]). There is no indication in the book for any inspiration that Lonkay might have had for this approach.
 
-German grammar for speakers of Hungarian. Table for German sentence structure with position for finite verb and position for non-finite parts at the end [@lonkay1855: 175],
+The first position in this table is called *alany* 'subject' and the rest *allitmány* 'predicate'. Lonkay also explicitly discusses examples with non-subjects in first position on the next page as deviating from the structure shown in this table. The section called 'predicate' is separated into the following columns:
+
+- *Ige vagy esak segédige* 'Verb or auxiliary verb'
+- *Idöt*  'Time'
+- *Helyet* 'Place'
+- *Ohot* 'Reason'
+- *Módot* 'Manner'
+- *Kiegészitö nevek különféle esetekben elöljárók nélkül* 'Proper nouns in various cases without prepositions'
+- *Igenév v. határtalan mod és az igének hátratett elöljárók* 'Participle or non-finite mode and prepositions placed behind the verb'
+
+Lonkay explains in a bit more detail which elements are placed in this final position, which today is commonly called the *Rechte Satzklammer* 'rightmost sentence bracket'. This proposal to combine non-finite verbs together with separable preverbs ('prepositions') into a single slot at the end of a sentence is, for example, not yet found in Drach [-@drach1937].
+
+> … végre az igenév vagy a határtalan mód, vagy bezárhatja még a mondatot az igének elülröl elszakított s hátratett elöljárója. [@lonkay1855: 175]
+>
+> ('… finally the participle or indefinite mood, or the sentence may be closed by the preposition of the verb that has been separated from the front and placed behind.')
+
+::: {.im #lonkay1855_175}
+Templatic table for German sentence structure from Lonkay [-@lonkay1855: 175]. The *allitmány* 'predicate' starts with a slot *Ige vagy esak segédige* 'Verb or auxiliary verb' and ends with a slot *Igenév v. határtalan mod és az igének hátratett elöljárók* 'Participle or non-finite mode and prepositions placed behind the verb'. This is very similar to the contemporary German grammatical sentence analysis using a *Verbalklammer* "sentence bracket".
+:::
 
 ### Brassai (1873) *Paraleipomena kai diorthoumena* {#sec:brassai1873}
 

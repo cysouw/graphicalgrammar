@@ -1611,7 +1611,7 @@ https://opac.ku.de/s/uei/de/2/-1+%3D+%22Friedrich+feigl%22+filter%281280%3D%22%3
 
 ## Felderanalyse
 
-### Drach (1937) *Grundgedanken der deutschen Satzlehre*
+### Drach (1937) *Grundgedanken der deutschen Satzlehre* {#sec:drach1937}
 
 Erich Drach (1885-1935) [@drach1937]
 
