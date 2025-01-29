@@ -90,6 +90,27 @@ Repeated here is one of Broberg's Danish example sentence in [@next a], with his
 Indented table by Broberg [-@broberg1882: 95] to explain the sentence structure of the Danish example sentence in [@last a]. The actual order of the words is indicated by the numbers. The top to bottom order in the table indicates relative modification, i.e. each indented phrase modifies the head phrase above it. The placement of phrase 8 (*en af Gjæsterne*) is probably a printing error, it should be placed much more to the right.
 :::
 
+### Jespersen (1921) *De to hovedarter av grammattiske forbindelser* {#sec:jespersen1921}
+
+Jespersen [-@jespersen1921: 3] repeats the use of capital roman numerals *I, II, III* for the different *rang* from his earlier work [@jespersen1913: 31], but later introduces the letters *S* and *P*, very probably an influence from Wundt (see [@sec:wundt1880]).
+
+*den består av to led, som vi for at undgå forvexlinger ikke tør kalde subjekt og prædikat, men foreløbig betegner ved bogstaverne S og P* 'it consists of two parts, which, to avoid confusion, we dare not call subject and predicate, but for the time being denoted by the letters S and P' [-@jespersen1921: 7].
+
+citing an imcomplete quotation from Quintus Curtius Rufus' *Historiae Alexandri Magni*
+
+*vi det ejendommelige at S i den ene nexus selv er en nexus* 'we have the peculiarity that S in one nexus is itself a nexus' [@jespersen1921: 18]
+
+::: ex
+| Latin [@jespersen1921: 18, quoting Quintus Curtius Rufus]
+| Alexander, audito Dareum movisse ab Ecbatanis, fugientem insequi pergit
+| Alexander hear.PART Darius.AKK move.INF from Ecbatana fleeing man follow.INF continue.3SG
+| Alexander, hearing that Darius had moved away from Ecbatana, continued to pursue the fleeing man.
+:::
+
+::: {.im #jespersen1921_18}
+Hierarchical *nexus* for a small part of the example [@last] as analysed by Jespersen [-@jespersen1921: 18]. The use of the letters *S* and *P* in this hierarchical fashion is possibly an influence from Wundt.
+:::
+
 ### Hjelmslev (1928) *Principes de grammaire générale*
 
 Louis Trolle Hjelmslev (1899-1965) was a linguist at the university of Copenhagen and co-founder of the *Lingvistkredsen* 'Linguistic Circle of Copenhagen' with Brøndal (see [@sec:brøndal1932]). Hjelmslev developed an intricate system of linguistic analysis under the label *glossomatik*, but he does not appear to have applied this to the analysis of longer stretches of text. There are many graphics in his work, but they mostly deal with paradigmatic structures. A rare syntactic visualisation is the rather trivial example shown in [@fig:hjelmslev1928_138] [@hjelmslev1928: 138] for the Latin sentence in [@next a]. A few years later he adds another trivial visualisation, as shown in [@fig:hjelmslev1935_52] [@hjelmslev1935: 52] for the Latin example in [@next b]. These visualisations are probably better analysed as showing government/agreement relations, and not as a real syntactic sentence analysis.
@@ -113,6 +134,18 @@ A trivial graphical analysis of the case government relations in the Latin sente
 
 ::: {.im #hjelmslev1935_52}
 Analysis of government (top) and agreement (bottom) relations inside the Latin sentence [@last b] as visualised by Hjelmslev [-@hjelmslev1935: 52].
+:::
+
+### Hammerich (1930) *Nexus, Subjekt und Objekt, Aktiv und Passiv* {#sec:hammerich1930}
+
+In *Liber americorum* for Jespersen's 70th birthday, closely following Jespersen (see [@sec:jespersen1921])
+
+> Sage ich: "Der Knabe schlägt den Hund", so haben wir hier zwei Gedanken 1) *der Knabe schlägt*, dadurch 2) *der Hund wird geschlagen*. [@hammerich1930: 312]
+>
+> ('When I say "the boy hits the dog", then we have two thoughts 1) "the boy hits", and therefore 2) "the dog is begin hit".')
+
+::: {.im #hammerich1930_312}
+Hierarchical analysis of Hammerich [-@hammerich1930: 312] following the proposal by Jespersen (see [@fig:jespersen1921_18]).
 :::
 
 ### Brøndal (1932) *Morfologi og syntax* {#sec:brøndal1932}
@@ -161,7 +194,9 @@ vil meddele om denne størrelse. [@hansen1933: 22]
 >
 > ('A message consists of two necessary elements: a statement of the quantity you want to communicate, and a statement of what you want to communicate about this quantity.')
 
-The graphical illustrations in his book only deal with the internal structure of the part B, although this might be a coincidence due to the sparse usage of the illustrations. Hansen uses three different graphical approaches, all intended to illustrate hierarchical modification of constituents. The first approach is a "chinese boxes" or "Matryoshka dolls" visualisation in which modifiers are hierachically organised by drawing enclosing circles or boxes. One of his drawings is shown here in [@fig:hansen1933_93a] for a small part of the example [@next a]. Hansen's second approach is particularly innovative, and I have not seen anything like this before or since. As shown in [@fig:hansen1933_93b] Hansen draws a *Planetskemaet* 'planetary scheme', in which a modifier is metaphorically compared to a planet or moon circling around another celectial body. Finally, he also uses a more widespread visualisation of hierarchically ordered brackets, with a Roman numeral I for the modified element and a Roman numeral II for the modifier. This approach is shown in [@fig:hansen1933_105] for part of the sentence [@next b].
+The graphical illustrations in his book only deal with the internal structure of the part B, although this might be a coincidence due to the sparse usage of the illustrations. Hansen uses three different graphical approaches, all intended to illustrate hierarchical modification of constituents. The first approach is a "chinese boxes" or "Matryoshka dolls" visualisation in which modifiers are hierachically organised by drawing enclosing circles or boxes. One of his drawings is shown here in [@fig:hansen1933_93a] for a small part of the example [@next a]. Hansen's second approach is particularly innovative, and I have not seen anything like this before or since. As shown in [@fig:hansen1933_93b] Hansen draws a *Planetskemaet* 'planetary scheme', in which a modifier is metaphorically compared to a planet or moon circling around another celectial body. 
+
+Finally, he also uses a more 'regular' visualisation using hierarchically ordered brackets, with a Roman numeral I for the modified element and a Roman numeral II for the modifier. This approach is shown in [@fig:hansen1933_105] for part of the sentence [@next b]. The use of Roman numerals is probably taken from Jespersen's *rang* notation [@jespersen1913: 31]. The hierarchical brackets are also found in Jespersen's work (see [@sec:jespersen1921]), but Jespersen never seems to have applied this visualisation as consistently as Hansen does here.
 
 ::: ex
 a.
