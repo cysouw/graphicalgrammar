@@ -1275,6 +1275,46 @@ Graphical display of a single clause [@last a] from Stamm [-@stamm1899: 7]. The 
 Graphical display of a multi-clause *Satzgefüge* [@last b] from Stamm [@stamm1899: 17]. The main clause is represented by the vertical line, and all subordinate clauses are displayed as horizontal lines in the order as they appear in the sentence (with a striped arch for discontinuous clauses). The height of the horizontal lines indicates the depth of embedding. The letters, numbers and dashes are again completely arbritrarily assigned to specific grammatical structures.
 :::
 
+### Jauker (1900) *Deutsche Sprachlehre*
+
+Karl Jauker (1850-1924?) was director of the teacher's seminary in Graz, Austria.^[Karl Jauker is regularly included in the *Kürschners Deutscher Literatur-Kalender*. The last, very short, mention of is from 1924 (page 426) <https://doi.org/10.1515/9783111438030>. Afterwards he is removed, and there is no announcement of his passing.] He wrote a German textbook called *Deutsche Sprachlehre*, which appeared in various version for different audiences. I have been able to access the version *für österreichische Bürgerschulen* [@jauker1900] and the version *für Lehrer- und Lehrerinnen-Bildungsanstalten*. This second version was first published in 1904, but it is cited here from the third, mostly unchanged, edition [@jauker1910]. More in-depth research is needed to compare Jauker's various textbooks and their different editions.
+
+The visual analysis of sentences, called *Zergliederung* or *Analyse*  [@jauker1900: 78-81, 108-111; @jauker1910: 96-99, 129-138] is clearly influenced by Trunk (see [@sec:trunk1895]), who also lived and worked in Graz. Jauker uses different visualisations for (i) the internal structure of single-clause sentences and (ii) the clausal hierarchical structure of multi-clause sentences. In both kinds of images he follows Trunk in including sentence ordering of a dependent in relation to its immediate head: lines going down-left means that the dependent is placed before its head, while lines going down-right indicate placement after the head.
+
+Jauker's *Satzbild* for single-clause sentences is illustrated here in [@fig:jauker1900_80] for the example in [@next a], from the version *für österreichische Bürgerschulen* [@jauker1900: 80]. The different parts of the sentence are marked with abbreviations for syntactic functions. The placement of the consituents follow the ordering of the sentence, except for the attributive modifiers, called *Beif=Beifügung*, which are placed exactly below their heads. A few years later, in the version *für Lehrer- und Lehrerinnen-Bildungsanstalten* [@jauker1910], there are two minor changes to this display. First, as shown in [@fig:jauker1910_98] for the example [@next b], the figure only includes the functional abbreviations, so it is not immediately obvious how this figure relates to the example sentence (this was earlier presented as an alternative option). Additionally, the attributive modifiers *Beif=Beifügung* are now placed in such a way as to indicate their ordering relative to their heads..
+
+Because of the omission of the actual words in [@fig:jauker1910_98], it becomes a syntactic exercise to related the figure tot the actual example. In this figure, the clause is headed by the finite verb *stand* 'stood', which is indicated as *Ausſag. Ztw.=aussagendes Zeitwort*. Relative to this verb, there is one line going down-left to the preposed adverbial phrase headed by *Stelle* 'place', which is indicated as *U.d.O.=Umstand des Ortes*. To the right is the postposed subject *Menge* 'large number', which is indicated by *Subjw=Subjektwort*. Both the adverbial phrase and the subject have various attributive modifiers, called *Beif=Beifügung*.
+
+::: ex
+- In einem strengen Winter trieb der Hunger ein ganz erschöpftes Rothkehlchen an das Fenster eines frommen Landmannes.
+- An einer sonnigen Stelle inmitten hoher schlanker Buchen stand eine Menge weißer Anemonen und gelber Schlüsselblumen.
+:::
+
+::: {.im #jauker1900_80}
+*Satzbild* for a single-clause sentence [@last a] from Jauker [-@jauker1900: 81]. The complete words of the sentence are included in the graphical display together with grammatical abbreviations. The placement of the elements follows the order of the sentence. However, the modifiers *Beifüg=Beifügung* are not explicitly marked as appearing before their heads.
+:::
+
+::: {.im #jauker1910_98}
+*Satzbild* for a single-clause sentence [@last b] from Jauker [-@jauker1910: 98]. The graphical display in this version only includes abbreviations for functional categories, so it is not immediately obvious how this image relates to the actual sentence. It can be seen as an exercise in syntactic analysis to find out why this figure is actually a representation of the structure of [@last b]. The placement of the modifiers *Beif=Beifügung* now also shows their ordering, different from the earlier version in [@fig:jauker1900_80]
+:::
+
+The *Satzbild* for a multi-clause sentence only indicates the various clauses in the graphic, as illustrated in [@fig:jauker1900_110] for the sentence [@next a] and in the highly similar [@fig:jauker1910_131] for the sentence [@next b]. These examples come from different versions and use different example sentences, but they have almost the same structure. Probably Jauker changed the example to appeal to the audience of these books, the first being for *Bürgerschulen*, the second for the students at his teacher's seminary.
+
+The capital letter *H* indicates the main clause, while subordinated clauses are indicated by lower-case letters. The depth of embedding is indicated by superscript numbers. The rounded arches indicate that the linked abbreviations are actually two parts of the same clause, interrupted by a subordinate clause. There are various different abbreviations for the syntactic function of the subordinate clause in these figures, e.g. a manner adverbial clause *uw=Umstand der Weise*, a causal adverbial clause *ug=Umstand des Grundes*, an object clause *o=Objektsatz*, various relative clauses *b=Beifügungssatz*. The round brackets for the clause *(ug^1^)* indicate that this clause is non-finite.
+
+::: ex
+- [uw^1^]{.grey} Wie mehrere Fensterscheiben, [b^2^]{.grey} die einzeln vollkommen durchsichtig erscheinen, [uw^1^]{.grey} eine grünlich-blaue Färbung haben, [ub^1^]{.grey} wenn man sie aufeinanderlegt, [H]{.grey} so zeigt auch die atmosphärische Luft, [b^1^]{.grey} die in dünnen Schichten farblos ist, [H]{.grey} ein schönes Blau, [ub^1^]{.grey} wenn wir durch größere Strecken hindurch sehen.
+- [uz^1^]{.grey} Als der römische Stadtpräfekt, [b^2^]{.grey} der später Papst Gregor I. wurde, [uz^1^]{.grey} auf dem Sklavenmarkte Knaben aus Angeln aufgestellt sah, [b^2^]{.grey} die ein Händler eingeführt hatte, [H]{.grey} fragte er, [(ug^1^)]{.grey} von den blonden Locken, den weißen Leibern und den holden Kindergesichtern ergriffen: [o^1^]{.grey} "Woher sind sie gebracht?"
+:::
+
+::: {.im #jauker1900_110}
+*Satzbild* for a multi-clause sentence [@last a] from Jauker [-@jauker1900: 110]. Capital *H=Hauptsatz* indicates the main clause, lower-case letters indicate subordinate clauses. Superscript numbers mark the level of embedding. The direction of the lines indicate the ordering of the modifiers: down-left means before its head, down-right means after its head. The rounded arches indicates that these abbreviations are separated parts of the same clause, so the subordinate clause is inserted between these parts.
+:::
+
+::: {.im #jauker1910_131}
+*Satzbild* for a multi-clause sentence [@last b] from Jauker [-@jauker1910: 131]. The graphic is almost identical to the previous example in [@fig:jauker1900_110] from a few years earlier, but the example sentence is completely different. This example also includes a non-finite clause, marked by round brackets around the abbreviation.
+:::
+
 ### Raumer (1902) *Das Periodenbild* {#sec:raumer1902}
 
 Siegmund von Raumer (1860-1939) was a teacher in Erlangen. He wrote a short article about *Periodenbilder* complaining about their complexity and unsuitability for usage in education. He is particularly critical of Kern (cf. [@sec:kern1883]), discussing the example shown earlier in [@fig:kern1884_56]. Just like Kern himself, Raumer also misses that there is an error in that graphic. 
@@ -1331,40 +1371,6 @@ In the 1954 revision of Mensing's grammar by Petersen there is a graphical displ
 ::: {.im #mensing1955_134}
 Graphical display of the hierarchical clause structure by underlining, from Petersen's revision of Mensing's grammar [@petersen1955: 134]. Main clauses have a low underline, while subordinate clauses have a high underline. Levels of subordination are not indicated. Clauses that are separated by other clauses are marked by small double vertical lines at the point of insertion.
 :::
-
-### Jauker (1904) *Deutsche Sprachlehre*
-
-Karl Jauker (1850-1924?) was director of the teacher's seminary in Graz, Austria.^[Karl Jauker is regularly included in the *Kürschners Deutscher Literatur-Kalender*. The last, very short, mention of is from 1924 (page 426) <https://doi.org/10.1515/9783111438030>. Afterwards he is removed, and there is no announcement of his passing.] He appears to have written various German textbooks, but I have only been able to access the *Deutsche Sprachlehre für Lehrer- und Lehrerinnen-Bildungsanstalten*. The first edition was published in 1904, but this book is cited here from the third, mostly unchanged, edition [@jauker1910]. More in-depth research is needed to compare Jauker's various textbooks. The *Zergliederung* or *Analyse* of sentences in the *Deutsche Sprachlehre* [@jauker1910: 96-99, 129-138] is clearly influenced by Trunk, who also lived and worked in Graz (see [@sec:trunk1895]). 
-
-Jauker uses different visualisations for (i) the internal structure of single-clause sentences and (ii) the clausal hierarchical structure of multi-clause sentences. In both kinds of images he follows Trunk in including sentence ordering of a dependent relative to its immediate head: lines going down-left means that the dependent is placed before its head, while lines going down-right indicate placement after the head.
-
-Jauker's *Satzbild* for single-clause sentences is illustrated here in [@fig:jauker1910_98] for the example [@next a]. The figure only includes functional abbreviations, so it is not immediately obvious how this figure relates to the example sentence. In this figure, the clause is headed by the finite verb *stand* 'stood', which is indicated as *Ausſag. Ztw.=Aussage Zeitwort*. Relative to this verb, there is one line going down-left to the preposed adverbial phrase headed by *Stelle* 'place', which is indicated as *U.d.O.=Umstand des Ortes*. To the right is the postposed subject *Menge* 'large number', which is indicated by *Subjw=Subjektwort*. Both the adverbial phrase and the subject have various attributive modifiers, called *Beif=Beifügung*.
-
-The *Satzbild* for a multi-clause sentence only indicates the various clauses in the graphic, as illustrated in [@fig:jauker1910_131] for the sentence [@next b]. The capital letter *H* indicates the main clause, while subordinated clauses are indicated by lower-case letters. The depth of embedding is indicated by superscript numbers. In this example there is a preposed temporal clause *uz=Umstand der Zeit*, a postposed causal clause *ug=Umstand des Grundes* and a postposed object clause *o=Objektsatz*. There are two second-order relative clauses *b=Beifügungssatz*. The rounded arch at the left indicates that the two abbreviations *uz^1^* are actually two parts of the same clause. The round brackets to the right *(ug^1^)* indicate that this clause is non-finite.
-
-::: ex
-- An einer sonnigen Stelle inmitten hoher schlanker Buchen stand eine Menge weißer Anemonen und gelber Schlüsselblumen.
-- In einem strengen Winter trieb der Hunger ein ganz erschöpftes Rothkehlchen an das Fenster eines frommen Landmannes.
-- Wie mehrere Fensterscheiben, die einzeln vollkommen durchsichtig erscheinen, eine grünlich-blaue Färbung haben, wenn man sie aufeinanderlegt, so zeigt auch die atmosphärische Luft, die in dünnen Schichten farblos ist, ein schönes Blau, wenn wir durch größere Strecken hindurch sehen.
-- [uz^1^]{.grey} Als der römische Stadtpräfekt, [b^2^]{.grey} der später Papst Gregor I. wurde, [uz^1^]{.grey} auf dem Sklavenmarkte Knaben aus Angeln aufgestellt sah, [b^2^]{.grey} die ein Händler eingeführt hatte, [H]{.grey} fragte er, [(ug^1^)]{.grey} von den blonden Locken, den weißen Leibern und den holden Kindergesichtern ergriffen: [o^1^]{.grey} "Woher sind sie gebracht?"
-:::
-
-::: {.im #jauker1910_98}
-*Satzbild* for a single-clause sentence [@last a] from Jauker [-@jauker1910: 98]. The graphical display only includes abbreviations for functional categories, so it is not immediately obvious how this image relates to the actual sentence. It can be seen as an exercise in syntactic analysis to find out why this figure is actually a representation of the structure of [@last a].
-:::
-
-::: {.im #jauker1900_80}
-*Satzbild* for a single-clause sentence [@last b] from Jauker [-@jauker1900: 81]. The complete words of the sentence are shown here, together with grammatical abbreviations.
-:::
-
-::: {.im #jauker1900_110}
-*Satzbild* for a multi-clause sentence [@last c] from Jauker [-@jauker1900: 110].
-:::
-
-::: {.im #jauker1910_131}
-*Satzbild* for a multi-clause sentence [@last d] from Jauker [-@jauker1910: 131]. Capital *H=Hauptsatz* indicates the main clause, lower-case letters indicate subordinate clauses. Superscript numbers mark the level of embedding; brackets mark non-finite clauses. The direction of the lines indicate the ordering of the modifiers: down-left means before its head, down-right means after its head. The rounded arch at the left side indicates that these two abbreviations are actually separated parts of the same clause.
-:::
-
 
 ### Eberhard (1905) *Graphische Darstellung in der Sprachlehre* 
 
@@ -1553,7 +1559,6 @@ Langholf adds a functional category to each clause, written as a superscript abb
 
 Trunk mentions other grammars, but not available online https://babel.hathitrust.org/cgi/pt?id=uiuo.ark:/13960/s2zqj4w2gwz&seq=60
 
-- Jauker: deutsche Sprachlehre für Lehrerbildungsanstalten https://google.com/books?id=ljGpzgEACAAJ
 - Binstorfer: deutsche Sprachschule https://google.com/books?id=tPMw0AEACAAJ
 
 nothing yet in 1880 version of Sprachschule, only in Binstorfer revision?:
@@ -1698,15 +1703,15 @@ https://www.lagis-hessen.de/de/subjects/print/sn/bio/id/18993
 [@grosse1960] indented subordinates clauses
 [@grosse1966] many modern approaches
 
-### Meinel (1961) *Der Satz als Sinneinheit*
-
-[@meinel1961: 21] lines with different height for subordination
-
 ### Rychener (1960) *Freude an Grammatik*
 
 [@rychener1960]
 
 [@rychener1982] Many different ideas by Rychener: underlining of clause-internal structure [@rychener1982: 150-151], Becker-style tables [@rychener1982: 178], tab-inserts [@rychener1982: 176], Vertical displacement of clause-combinations like Flothuis [@rychener1982: 189]
+
+### Meinel (1961) *Der Satz als Sinneinheit*
+
+[@meinel1961: 21] lines with different height for subordination
 
 ### Ulshöfer (1967) *Methodik des Deutschunterrichts*
 
