@@ -92,13 +92,19 @@ Indented table by Broberg [-@broberg1882: 95] to explain the sentence structure 
 
 ### Jespersen (1921) *De to hovedarter av grammattiske forbindelser* {#sec:jespersen1921}
 
-Jespersen [-@jespersen1921: 3] repeats the use of capital roman numerals *I, II, III* for the different *rang* from his earlier work [@jespersen1913: 31], but later introduces the letters *S* and *P*, very probably an influence from Wundt (see [@sec:wundt1880]).
+Otto Jespersen (1860-1943) was professor of English at Copenhagen. Jespersen worked on a wide variety of linguistic topics and throughout his long life he prepared a massive 7-volume *Modern English grammar on historical principles*. For most of his career he did not apply graphical or algebraic methods to linguistic analysis. There are just a few incidental symbolic representation in *Sprogets logik* 'The logic of language' [@jespersen1913: 80-81] and a single graphical representation in *De to hovedarter av grammattiske forbindelser* 'The two main types of grammatical connections' [@jespersen1921: 18]. Only towards the end of his life he published *Analytic syntax* [@jespersen1937], in which he laid out a completely symbolic framework for linguistic analysis. It feels like an idea he probably had been working on for a long time, but only published late in his career.
 
-*den består av to led, som vi for at undgå forvexlinger ikke tør kalde subjekt og prædikat, men foreløbig betegner ved bogstaverne S og P* 'it consists of two parts, which, to avoid confusion, we dare not call subject and predicate, but for the time being denoted by the letters S and P' [-@jespersen1921: 7].
+Jespersen proposed various structural principles for linguistic analysis, above all his notion of *rang* 'rank' [first introduced in @jespersen1913: 31]. The basic idea of *rang* is that there are different levels of modification in language. Jespersen uses roman capital letters *I, II, III* for these levels. He named the first three levels as *overled*, *adled* and *underled* [@jespersen1913: 31] or in a different publication *primær*, *sekundær* and *tertiær* [@jespersen1921: 3] and in English *principal*, *adjunct* and *subjunct* [@jespersen1913: 31]. He clearly intends there to be more levels, but he claims without much argumentation that further levels are inherently the same as the third level [@jespersen1921: 3]. 
 
-citing an imcomplete quotation from Quintus Curtius Rufus' *Historiae Alexandri Magni*
+Jespersen considers the first two levels to be the most interesting: *Da de tertiære elementer ikke gir anledning til videre bemærkninger, skal jeg nu helt forlade dem for at holde mig til forbindelserne mellem primære og sekundære elementer* 'Since the tertiary elements do not warrant further comment, I must now leave them entirely in order to stick to the connections between primary and secondary elements' [@jespersen1921: 4]. Jespersen goes into great detail about the many different ways level I and II occur in language. Curiously, he quickly stops using the letter I and II and changes to *P* and *S* instead. These letters are reminiscent of the terms "predicate" and "subject", though Jespersen does not want to use these terms:
 
-*vi det ejendommelige at S i den ene nexus selv er en nexus* 'we have the peculiarity that S in one nexus is itself a nexus' [@jespersen1921: 18]
+> den består av to led, som vi for at undgå forvexlinger ikke tør kalde subjekt og prædikat, men foreløbig betegner ved bogstaverne S og P. [@jespersen1921: 7]
+> 
+> ('it consists of two parts, which, to avoid confusion, we dare not call subject and predicate, but for the time being denoted by the letters S and P.')
+
+The abstract use of the letters *S* and *P* is probably an influence from Wundt (see [@sec:wundt1880]) and Sheffield (see [@sec:sheffield1912]). Jespersen cites both these authors at various places throughout his work, although not directly in connection to the abbreviations *S* and *P*. The impression arises that Jespersen had better used different terms like "dependent" and "head", but was stuck in the Wundtian tradition.
+
+The only graphical analysis that I have been able to find in Jespersen's work also points to an influence from Wundt. Jespersen uses the letters *S* and *P* recursively, similar to Wundt, in a footnote citing an incomplete quotation from Quintus Curtius Rufus' *Historiae Alexandri Magni* [@next]. He then explains that *vi det ejendommelige at S i den ene nexus selv er en nexus* 'we have the peculiarity that S in one nexus is itself a nexus' [@jespersen1921: 18]. The subsequent graphical represenation of this analysis is shown in [@fig:jespersen1921_18].
 
 ::: ex
 | Latin [@jespersen1921: 18, quoting Quintus Curtius Rufus]
@@ -108,7 +114,15 @@ citing an imcomplete quotation from Quintus Curtius Rufus' *Historiae Alexandri 
 :::
 
 ::: {.im #jespersen1921_18}
-Hierarchical *nexus* for a small part of the example [@last] as analysed by Jespersen [-@jespersen1921: 18]. The use of the letters *S* and *P* in this hierarchical fashion is possibly an influence from Wundt.
+Hierarchical *nexus* for a small part of the example [@last], *audito Dareum movisse* 'hearing that Darius had moved away', as analysed by Jespersen [-@jespersen1921: 18]. The use of the letters *S* and *P* in this hierarchical fashion is possibly an influence from Wundt.
+:::
+
+At the end of his long life Jespersen published the book *Analytic syntax* [@jespersen1937], in which he laid out a completely symbolic framework for linguistic analysis, leaving the simplistic *S/P* approach behind.. The approach in *Analytic syntax* is algebraic, using symbols and brackets to analyse linguistic utterances. He does not draw any graphical representations, although Francis [-@francis1989: 83] shows that is clearly possible to interpret the bracketing as a constituent tree. Also, Jespersen [-@jespersen1937: 83] includes a graphical syntactic analysis in his book, citing Fry (see [@sec:fry1925]), so he was clearly aware of the possibility to use images to analyse language. However, for some reason Jespersen preferred an algebraical approach, citing Stöhr (see [@sec:stöhr1898]), Sapir (see [@sec:sapir1921]), Bologne (see [@sec:bologne1935]) and Brøndal (see [@sec:brøndal1932]) as having similar approaches.
+
+Jespersen uses letters, superscripts and brackets to represent syntactic structure, and, being the detailed grammarian that he has been for his whole life, he presents many pages with hundreds of examples of this system for a plethora of different grammatical phenomena from a dozen different languages [@jespersen1937: 6-84]. This is hands-down the most well-documented system of all approaches discussed in this book. A more in-depth discussion of Jespersen's approach can be found in Francis [-@francis1989] and Cigana [-@cigana2020]. As an illustration of his approach an example is shown here in [@fig:jespersen1937_83] for an example sentence taken from Fry [-@fry1925: 64].
+
+::: {.im #jespersen1937_83}
+Analysis of a complex sentence from Jespersen [-@jespersen1937: 83] citing an example from Fry [-@fry1925: 64] that originally was used to illustrate a graphical analysis (cf. [@fig:fry1925_64]). The brackets are not consistently closed in this example, but that appears to be a printing error (there should have been a closing bracket below *knife* and below *feeding*). All other examples in his book that I have checked have properly closed brackets.
 :::
 
 ### Hjelmslev (1928) *Principes de grammaire générale*
@@ -181,9 +195,7 @@ Tabular representation of Brøndal's categories inside of a noun phrase like [@l
 
 ### Hansen (1933) *Sætningen og dens led in moderne dansk* {#sec:hansen1933}
 
-Aage Hansen (1894-1983) studied with Otto Jespersen in Copenhagen and worked at that university for the rest of his career. He was a central author in the preparation of two major encyclopaedic works about the Danish language, namely the dictionary *Ordbog over det danske Sprog* and the grammar *Moderne Dansk* [more biographical information in @hjorth2025]. 
-
-Earlier in his career Hansen wrote a rather programmatic book about language analysis, called *Sætningen og dens led in moderne dansk* 'sentences and its parts in modern danish' [@hansen1933]. This book is dedicated to Jespersen and contains various graphical analyses. However, the graphics do not play a central role in his argumentation and are only used sporadically as illustrations. 
+Aage Hansen (1894-1983) studied with Otto Jespersen in Copenhagen and worked at that university for the rest of his career. He was a central author in the preparation of two major encyclopaedic works about the Danish language, namely the dictionary *Ordbog over det danske Sprog* and the grammar *Moderne Dansk* [more biographical information in @hjorth2025]. Earlier in his career Hansen wrote a rather programmatic book about language analysis, called *Sætningen og dens led in moderne dansk* 'sentences and its parts in modern danish' [@hansen1933]. This book is dedicated to Jespersen and contains various graphical analyses. However, the graphics do not play a central role in his argumentation and are only used sporadically as illustrations. 
 
 Hansen uses examples from danish literature throughout his book, and he is particularly precise in referencing these examples. The examples in [@next], used for the graphics shown below, are from the author Karl Larsen. In contrast, Hansen does not cite much scientific literature, so it remains unclear how his diagrams originated. However, he regularly mentions his teacher Jesperson, who cites [e.g. in @jespersen1913] the work of Sheffield (see [@sec:sheffield1912]) and Wundt (see [@sec:wundt1880]). So the diagrams of Hansen are probably related to the immediate constituent tradition developing in the USA at the time Hansen is writing this book. 
 
@@ -196,16 +208,16 @@ vil meddele om denne størrelse. [@hansen1933: 22]
 
 The graphical illustrations in his book only deal with the internal structure of the part B, although this might be a coincidence due to the sparse usage of the illustrations. Hansen uses three different graphical approaches, all intended to illustrate hierarchical modification of constituents. The first approach is a "chinese boxes" or "Matryoshka dolls" visualisation in which modifiers are hierachically organised by drawing enclosing circles or boxes. One of his drawings is shown here in [@fig:hansen1933_93a] for a small part of the example [@next a]. Hansen's second approach is particularly innovative, and I have not seen anything like this before or since. As shown in [@fig:hansen1933_93b] Hansen draws a *Planetskemaet* 'planetary scheme', in which a modifier is metaphorically compared to a planet or moon circling around another celectial body. 
 
-Finally, he also uses a more 'regular' visualisation using hierarchically ordered brackets, with a Roman numeral I for the modified element and a Roman numeral II for the modifier. This approach is shown in [@fig:hansen1933_105] for part of the sentence [@next b]. The use of Roman numerals is probably taken from Jespersen's *rang* notation [@jespersen1913: 31]. The hierarchical brackets are also found in Jespersen's work (see [@sec:jespersen1921]), but Jespersen never seems to have applied this visualisation as consistently as Hansen does here.
+Finally, he also uses a more 'regular' visualisation using hierarchically ordered brackets, with a Roman numeral I for the modified element and a Roman numeral II for the modifier. This approach is shown in [@fig:hansen1933_105] for part of the sentence [@next b]. The use of Roman numerals is probably taken from Jespersen's *rang* notation [@jespersen1913: 31]. The hierarchical brackets are also found in Jespersen's work (see [@sec:jespersen1921]), but Jespersen never seems to have applied this visualisation as consistently as Hansen does here (see [@sec:jespersen1921]).
 
 ::: ex
 a.
-|
+| Danish [@hansen1933: 92, citing Karl Larsen]
 | saa har vi her en lille Samling ganske særligt fremragende Videnskabsmænd.
 | so here we have a small collection very special outstanding scientists
 | So here we have a small collection of very outstanding scientists.
 b.
-|
+| Danish [@hansen1933: 105, citing Karl Larsen]
 | Han udmærk‑ede sig ganske særligt ved en naiv Mangel paa Kendskab til alle praktiske Ting.
 | he mark-PAST REFL very special by a naive lack of knowledge for all practical matters
 | He was particularly distinguished by a naive lack of knowledge of all practical matters.
@@ -221,18 +233,6 @@ b.
 
 ::: {.im #hansen1933_105}
 Hierarchical brackets for the structure of sentence [@last b] as used by Hansen [-@hansen1933: 105]. The roman numeral I indicates the *bestemmes* 'modified' and the numeral II indicates the *bestemmer* 'modifier'. The subject *han* 'he' is left out of the analysis.
-:::
-
-### Jespersen (1937) *Analytic syntax*
-
-Otto Jespersen (1860-1943) was professor of English at Copenhagen. He was already an established linguist before the previously discussed Hjelmslev, Brøndal and Hansen were even born. Jespersen worked on a wide variety of linguistic topics, and throughout his life prepared the massive 7-volume *Modern English grammar on historical principles*. He proposed various influential structural principles for linguistic analysis, above all his notion of *rang* 'rank'. However, for most of his career he did not apply graphical or algebraic methods to linguistic analysis. There are just a few incidental symbolic representation in *Sprogets logik* [@jespersen1913: 80-81]. Only towards the end of his life he published *Analytic syntax* [@jespersen1937], in which he laid out a completely symbolic framework for linguistic analysis. It feels like an idea he probably had been working on for a long time, but only published late in his career.
-
-The approach in *Analytic syntax* is algebraic, using symbols and brackets to analyse linguistic utterances. He does not draw any graphical representations, although Francis [-@francis1989: 83] shows that is clearly possible to interpret the bracketing as a constituent tree. For comparison, Jespersen [-@jespersen1937: 83] includes a graphical analysis from Fry (see [@sec:fry1925]), so he was clearly aware of the possibility to use images to analyse language. In earlier work [@jespersen1913: 95] he cites Wundt (see [@sec:wundt1880]) and Sheffield (see [@sec:sheffield1912]), so Jespersen knew about the basic ideas of what later became constituency trees in the USA. However, for some reason Jespersen preferred an algebraical approach, citing Stöhr (see [@sec:stöhr1898]), Sapir (see [@sec:sapir1921]), Bologne (see [@sec:bologne1935]) and Brøndal (see [@sec:brøndal1932]) as having similar approaches.
-
-Jespersen uses letters, superscripts and brackets to represent syntactic structure, and, being the detailed grammarian that he has been for his whole life, he presents many pages with hundreds of examples of this system for a plethora of different grammatical phenomena from a dozen different languages [@jespersen1937: 6-84]. This is hands-down the most well-documented system of all approaches discussed in this book. A more in-depth discussion of Jespersen's approach can be found in Francis [-@francis1989] and Cigana [-@cigana2020]. As an illustration of his approach an example is shown here in [@fig:jespersen1937_83] for an example sentence taken from Fry [-@fry1925: 64].
-
-::: {.im #jespersen1937_83}
-Analysis of a complex sentence from Jespersen [-@jespersen1937: 83] citing an example from Fry [-@fry1925: 64] that originally was used to illustrate a graphical analysis (cf. [@fig:fry1925_64]). The brackets are not consistently closed in this example, but that appears to be a printing error (there should have been a closing bracket below *knife* and below *feeding*). All other examples in his book that I have checked have properly closed brackets.
 :::
 
 ### Diderichsen (1947) *Elementær dansk grammatik* {#sec:diderichsen1947}

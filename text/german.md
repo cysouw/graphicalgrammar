@@ -1334,7 +1334,7 @@ Graphical display of the hierarchical clause structure by underlining, from Pete
 
 ### Jauker (1904) *Deutsche Sprachlehre*
 
-Karl Jauker (born 1850) was director of the teacher's seminary in Graz, Austria.^[Karl Jauker is regularly included in the *Kürschners Deutscher Literatur-Kalender*. The last, very short, mention of is from 1924 (page 426) <https://doi.org/10.1515/9783111438030>. Afterwards he is removed, and there is no announcement of his passing.] He appears to have written various German textbooks, but I have only been able to access the *Deutsche Sprachlehre für Lehrer- und Lehrerinnen-Bildungsanstalten*. The first edition was published in 1904, but this book is cited here from the third, mostly unchanged, edition [@jauker1910]. More in-depth research is needed to compare Jauker's various textbooks. The *Zergliederung* or *Analyse* of sentences in the *Deutsche Sprachlehre* [@jauker1910: 96-99, 129-138] is clearly influenced by Trunk, who also lived and worked in Graz (see [@sec:trunk1895]). 
+Karl Jauker (1850-1924?) was director of the teacher's seminary in Graz, Austria.^[Karl Jauker is regularly included in the *Kürschners Deutscher Literatur-Kalender*. The last, very short, mention of is from 1924 (page 426) <https://doi.org/10.1515/9783111438030>. Afterwards he is removed, and there is no announcement of his passing.] He appears to have written various German textbooks, but I have only been able to access the *Deutsche Sprachlehre für Lehrer- und Lehrerinnen-Bildungsanstalten*. The first edition was published in 1904, but this book is cited here from the third, mostly unchanged, edition [@jauker1910]. More in-depth research is needed to compare Jauker's various textbooks. The *Zergliederung* or *Analyse* of sentences in the *Deutsche Sprachlehre* [@jauker1910: 96-99, 129-138] is clearly influenced by Trunk, who also lived and worked in Graz (see [@sec:trunk1895]). 
 
 Jauker uses different visualisations for (i) the internal structure of single-clause sentences and (ii) the clausal hierarchical structure of multi-clause sentences. In both kinds of images he follows Trunk in including sentence ordering of a dependent relative to its immediate head: lines going down-left means that the dependent is placed before its head, while lines going down-right indicate placement after the head.
 
@@ -1344,6 +1344,8 @@ The *Satzbild* for a multi-clause sentence only indicates the various clauses in
 
 ::: ex
 - An einer sonnigen Stelle inmitten hoher schlanker Buchen stand eine Menge weißer Anemonen und gelber Schlüsselblumen.
+- In einem strengen Winter trieb der Hunger ein ganz erschöpftes Rothkehlchen an das Fenster eines frommen Landmannes.
+- Wie mehrere Fensterscheiben, die einzeln vollkommen durchsichtig erscheinen, eine grünlich-blaue Färbung haben, wenn man sie aufeinanderlegt, so zeigt auch die atmosphärische Luft, die in dünnen Schichten farblos ist, ein schönes Blau, wenn wir durch größere Strecken hindurch sehen.
 - [uz^1^]{.grey} Als der römische Stadtpräfekt, [b^2^]{.grey} der später Papst Gregor I. wurde, [uz^1^]{.grey} auf dem Sklavenmarkte Knaben aus Angeln aufgestellt sah, [b^2^]{.grey} die ein Händler eingeführt hatte, [H]{.grey} fragte er, [(ug^1^)]{.grey} von den blonden Locken, den weißen Leibern und den holden Kindergesichtern ergriffen: [o^1^]{.grey} "Woher sind sie gebracht?"
 :::
 
@@ -1351,8 +1353,16 @@ The *Satzbild* for a multi-clause sentence only indicates the various clauses in
 *Satzbild* for a single-clause sentence [@last a] from Jauker [-@jauker1910: 98]. The graphical display only includes abbreviations for functional categories, so it is not immediately obvious how this image relates to the actual sentence. It can be seen as an exercise in syntactic analysis to find out why this figure is actually a representation of the structure of [@last a].
 :::
 
+::: {.im #jauker1900_80}
+*Satzbild* for a single-clause sentence [@last b] from Jauker [-@jauker1900: 81]. The complete words of the sentence are shown here, together with grammatical abbreviations.
+:::
+
+::: {.im #jauker1900_110}
+*Satzbild* for a multi-clause sentence [@last c] from Jauker [-@jauker1900: 110].
+:::
+
 ::: {.im #jauker1910_131}
-*Satzbild* for a multi-clause sentence [@last b] from Jauker [-@jauker1910: 131]. Capital *H=Hauptsatz* indicates the main clause, lower-case letters indicate subordinate clauses. Superscript numbers mark the level of embedding; brackets mark non-finite clauses. The direction of the lines indicate the ordering of the modifiers: down-left means before its head, down-right means after its head. The rounded arch at the left side indicates that these two abbreviations are actually separated parts of the same clause.
+*Satzbild* for a multi-clause sentence [@last d] from Jauker [-@jauker1910: 131]. Capital *H=Hauptsatz* indicates the main clause, lower-case letters indicate subordinate clauses. Superscript numbers mark the level of embedding; brackets mark non-finite clauses. The direction of the lines indicate the ordering of the modifiers: down-left means before its head, down-right means after its head. The rounded arch at the left side indicates that these two abbreviations are actually separated parts of the same clause.
 :::
 
 
