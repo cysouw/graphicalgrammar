@@ -27,8 +27,8 @@ header-includes:
     font-style: normal;
   }
   h1, h2, h3 {
-    text-indent: -50px;
-    padding-left: 50px;
+    text-indent: -5px;
+    padding-left: 65px;
     hyphens: none;
   }
   #title-block-header {
@@ -101,7 +101,8 @@ header-includes:
     float: right;
   }
   .header-section-number {
-    padding-right: 0.2em;
+    display: inline-flex;
+    text-indent: -60px;
   }
   header {
     margin-bottom: 1em;
