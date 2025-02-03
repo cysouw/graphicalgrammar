@@ -481,6 +481,17 @@ Wenn ich mich in einer mittleren oder großen Stadt umsehe und bemerke, wo denn 
 Complex *Periodenbild* from Götzinger [-@gotzinger1839: 391] for the example from Goethe in [@last]. Note in comparison to Lehmann's *Periodenbild* (see [@sec:lehmann1833]) the different script letters are simplified to only lower-case latin letters and coordination is additionally indicated by using the equal sign.
 :::
 
+### Honcamp (1838) *Leitfaden für die Sprachbildung*
+
+Franz Cornelius Honcamp (1805-1866) Numbered tables like Becker
+
+- Leitfaden für die Sprachbildung in deutschen Volksschulen 1838
+- Vollständige Anleitung zum Elementar-Unterrichte in der Sprachlehre 1841
+- Gedanken über den Unterricht in der Sprachlehre [@honcamp1845: 29] (Widmung Diesterweg!)
+- Lehr- und Ubungsbuch für den Sprachunterricht [@honcamp1851: 19-20]
+
+https://www.lexikon-westfaelischer-autorinnen-und-autoren.de/autoren/honcamp-franz-cornelius/
+
 ### Hoffmann (1839) *Neuhochdeutsche Schulgrammatik* {#sec:hoffmann1839}
 
 Karl August Julius Hoffmann (1812-1869) was a schooldirector in Lüneburg. He wrote about such disparate topics as Homer, rhetoric, logic, and German grammar. In 1839 he published the first edition of his *Neuhochdeutsche Schulgrammatik* [@hoffmann1839], which he revised in the second edition [@hoffmann1856], but which did not get reprinted after that. In parallel, he also delivered a summarised version of the same work, the *Neuhochdeutsche Elementargrammatik*. This version was much more popular and got reprinted at least up to an eleventh edition in 1885. In the preface of the *Schulgrammatik*, he explicitly cites Becker (see [@sec:becker1829]) and Billroth (see [@sec:billroth1832]). About Billroth he says: *unter den Grammatiken der fremden Sprachen verdanke ich der Lateinischen von Billroth am meisten* 'among the grammars of foreign language I owe most to is the Latin grammar of Billroth' [@hoffmann1839: xiii].
