@@ -399,7 +399,7 @@ Visualisation of clause subordination for the examples sentence in [@last] from 
 
 ## Hungarian
 
-### Lonkay (1855) *Gyakorlati Német Nyelvtan*
+### Lonkay (1855) *Gyakorlati Német Nyelvtan* {#sec:lonkay1855}
 
 Antal Lonkay (1827-1888) was a teacher in Pest, Hungary [some biographical information is available in @benda1971]. He wrote a German grammar for speakers of Hungarian, called *Gyakorlati Nemet Nyelvtan az ausztriai birodalombeli elemi tanodak masodik es harmadik osztalyainak szamara* 'Practical German grammar for the second and third grades of elementary school students in the Austrian Empire' [@lonkay1855]. 
 
@@ -476,7 +476,24 @@ precursor of Elements: [@tesniere1953]
 
 ### Bologne (1935) *Analyse grammaticale* {#sec:bologne1935}
 
-maurice bologne, cited by Jespersen [@jespersen1937: 87-88] *Analyse grammaticale a l'aide de Signes conventionells*
+maurice bologne (1900-1984), cited by Jespersen [@jespersen1937: 87-88] *L'analyse grammaticale à l'aide de signes conventionnels*, originally published 1935 with Georges Thone in Liège. Reissued version with inspiration from Jespersen [@bologne1963]
+
+https://nl.wikipedia.org/wiki/Maurice_Bologne
+
+::: ex
+| French [@jespersen1937: 65; cited by @bologne1963: 17]
+| L' homme qu' il a tué était Jaures
+| the man that he have killed was Jaures
+| The man whom he killed was Jaurès.
+:::
+
+::: {.im #bologne1963_17}
+*Analyse géométrique* [@bologne1963: 17]
+:::
+
+::: {.im #bologne1963_23}
+*Analyse algébrique* [@bologne1963: 23]
+:::
 
 ### Bonnard (1950) *Grammaire française des lycées et collèges*
 

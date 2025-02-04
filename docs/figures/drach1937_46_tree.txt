@@ -1,0 +1,23 @@
+# =============================
+# This file contains a hierarchically structured sentence
+# in the format of the RSyntaxTree tool.
+#
+# The format is documented here:
+# https://yohasebe.github.io/rsyntaxtree/documentation
+#
+# Use the following website to generate a graphical tree
+# https://yohasebe.com/rsyntaxtree/
+# =============================
+
+[<> Er
+  [\{<><><><>\} ging,
+    [<>\[<><><><>\]<> ohne
+      [\(<><><><>\) auf die
+        [\<<><><><>\> <><><> sich bei ihr wiederholende] 
+        Klagen
+      ]
+      einzugehen
+    ]
+    aus dem Zimmer
+  ]
+]

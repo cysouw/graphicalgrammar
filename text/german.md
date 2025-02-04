@@ -1639,13 +1639,21 @@ https://opac.ku.de/s/uei/de/2/-1+%3D+%22Friedrich+feigl%22+filter%281280%3D%22%3
 
 ### Drach (1937) *Grundgedanken der deutschen Satzlehre* {#sec:drach1937}
 
-Erich Drach (1885-1935) [@drach1937]
+Erich Drach (1885-1935) was a professor for speech science in Berlin [some basic biographical information is available in @winkler1959]. His posthumously published book *Grundgedanken der deutschen Satzlehre* [@drach1937] is regularly cited as the foundation of the contemporary *Felderanalyse* as used in German syntax. However, while Drach indeed uses the term *Feld* 'field', other than that his templatic analysis of the German clause (see [@fig:drach1937_18]) is far from original nor innovative. First, the idea to name positions in relation to the verb-position in a German sentence was already used by Lehmann in 1833 (see [@sec:lehmann1833]). Further, Drach does not distinguish between what today would be called a *Mittelfeld* and a *Nachfeld* and simply collapses everything in one position called *Nachfeld*. Drach's analysis omits the crucial idea of a fixed position for non-finite part of the verbal complex, which today is often referred to as a *rechte Satzklammer*. This position was already identified by Lonkay in 1855 (see [@sec:lonkay1855]). Drach instead talks about the end of his *Nachfeld* ans the *Zielpol* 'goal pole', but this is not a syntactic position in Drach's analysis. The *Zielpol* is simply the focus of the sentence, which could just as well be an object or an adverb.
 
-Nachfeld: today Mittelfeld! *Zielpol* last element of *Nachfeld*: both used for objects and what today would be called "reche Klammer".
+::: {.im #drach1937_18}
+*Grundplan* of the German sentence according to Drach [-@drach1937: 18]. Although Drach is often mentioned as the founder of the German *Felderanalyse*, his templatic structure was much simpler as the contemporary analysis. Specifically, Drach does not specify a *rechte Satzklammer* and his term *Nachfeld* corresponds roughly to what today would be called *Mittelfeld* combined with the *rechte Satzklammer*.
+:::
 
-discussion of *Umklammerung* is more interesting: using different kinds of brackets for hierarchical structure in many examples, e.g. p.46, 49. Also note notation of "1/2a" (p.39), reminiscent of Herling!
+discussion of *Umklammerung* is more interesting: using different kinds of brackets for hierarchical structure in many examples, e.g. p.46, 49. Also note notation of "1/2a" (p.39), reminiscent of Herling! "unmögliches Deutsch" (p.46):
 
-Er {ging, [ohne (auf die <sich bei ihr wiederholenden> Klagen) einzugehen] aus dem Zimmer}
+::: ex
+Er { ging, [ ohne ( auf die < sich bei ihr wiederholenden > Klagen ) einzugehen ] aus dem Zimmer }.
+:::
+
+::: {.tree #drach1937_46tree}
+Tree-visualisation of the bracketed sentence structure [@last] from Drach [-@drach1937: 46]. The bracketed structure is clearly a constituent structure, although Drach does not use any labels for the constituents. In lieu of labels I have used the brackets itself in this graphical representation.
+:::
 
 ### Weisgerber (1950) *Vom Weltbild der deutschen Sprache*
 
