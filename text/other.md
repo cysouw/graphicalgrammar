@@ -239,9 +239,11 @@ Hierarchical brackets for the structure of sentence [@last b] as used by Hansen 
 
 https://de.wikipedia.org/wiki/Paul_Diderichsen
 
+second edition seems identical to first edition from 1947
+
 Feldertheorie [@diderichsen1957], giving nested schema like hansen [@diderichsen1957: 146] does not cite drach (1935) uses term "chinese boxes"
 
-1964 English translation
+1964 English translation???
 
 details about history: https://da.wikipedia.org/wiki/Sætningsskema
 
