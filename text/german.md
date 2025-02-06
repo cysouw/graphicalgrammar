@@ -1533,7 +1533,7 @@ Flothuis' *Satzbild* for the example in [@next] is shown in [@fig:flothuis1930_1
 
 Franz Wollmann (1871-1961) has written many more books! https://de.wikipedia.org/wiki/Franz_Wollmann
 
-Teichl, Robert (1951): Österreicher der Gegenwart: Lexikon schöpferischer und schaffender Zeitgenossen. Wien: Verl. d. Österr. Staatsdr.
+Teichl, Robert (1951): Österreicher der Gegenwart: Lexikon schöpferischer und schaffender Zeitgenossen. Wien: Verl. d. Österr. Staatsdr. p.344
 
 first edition 1935, cited here from third edition [@wollmann1946], 7th edition 1963
 
@@ -1554,7 +1554,10 @@ Johannes Heemstra (1882-1961) was a teacher for German in Haarlem (Netherlands).
 *Satzbild* for the example sentence in [@last] from Heemstra [-@heemstra1947: 76]. The only syntactic aspect that is somewhat hidden in this graphic is the fact that the first postposed clause is separated into two parts. The second part *(zu seinem Befinden gesagt habe)* only occurs at the end of the complex sentence.
 :::
 
-### Killinger & Dobler (1950) *Deutsch: richtig gesprochen, richtig geschrieben*
+### Killinger & Doppler (1950) *Deutsch: richtig gesprochen, richtig geschrieben*
+
+Robert Killinger (1925-2006) no information, wrote many different textbooks
+Alfred Doppler (born 1921) https://de.wikipedia.org/wiki/Alfred_Doppler
 
 Original 1950 in Austria with subtitle *ein unterhaltsames Buch zur Aneigung einer fehlerfreien Sprache, zur Vervollkommung vorhandenen Wissens u. zum Nachschlagen in Zweifelsfällen*. Cited here from 3rd edition for German audience without the subtitle [@killinger1955].
 
@@ -1674,17 +1677,33 @@ Er { ging, [ ohne ( auf die < sich bei ihr wiederholenden > Klagen ) einzugehen 
 Constituency tree-visualisation of the bracketed sentence structure [@last] from Drach [-@drach1937: 46]. The bracketed structure is clearly a constituent structure, although Drach does not use any labels for the constituents. In lieu of labels I have used the brackets itself in this graphical representation.
 :::
 
-### Weisgerber (1950) *Vom Weltbild der deutschen Sprache*
+### Weisgerber (1950) *Vom Weltbild der deutschen Sprache* {#sec:weisgerber1950}
 
-Drach Felder [@weisgerber1939: 53-54; @weisgerber1950: 120-121]
+Johann *Leo* Weisgerber (1899-1985) was a professor for comparative linguistics in Rostock, Marburg and Bonn. An extensive discussion of his life and work is provided by Roth [-@Roth2004]. In his syntactic analyses, Weisgerber was strongly influenced by the posthumously published work of Drach (see [@sec:drach1937]). Already in *Die volkhaften Kräfte der Muttersprache* [@weisgerber1939] he cites Drach's *Grundplan* 'outline' (see [@fig:drach1937_18]) and he re-iterates the importance of Drach's notion of *Umklammerung* 'bracketing' for the syntactic stucture of German [@weisgerber1939: 54-58]. After the war, Weisgerber published his 4-volume *opus magnum*, called *Von den Kräften der deutschen Sprache*, in which he again discusses the proposals from Drach in volume 3: *Die Muttersprache im Aufbau unserer Kultur* [@weisgerber1950: *Grundplan* 120-121, *Umklammerung* 188-193]. In this discussion Weisgerber includes various different visualisation for the hierarchical structure of the *Umklammerung*. 
 
-=> *Gesetz der Umklammerung* [@weisgerber1939: 57-58; @weisgerber1950: 188; @weisgerber1954: 187] from Drach
+The first visualisation is used for the example [@next a], which Weisgerber already used in his earlier work [@weisgerber1939: 58]. However, he now adds the hierarchical visualisation as shown here in [@fig:weisgerber1950_191a]. This sentence is an example of a single hierarchical bracketing, but Weisgerber notes that it is perfectly possible, though slightly cumbersome, to have multiple such complex brackets in a single sentence. As an example he uses the sentence [@next b], visualised as [@fig:weisgerber1950_191b]. This analysis uses Drach's *Grundplan* (consisting of *Vorfeld-Mitte-Nachfeld*), but in a rather different way from all other examples from both Drach and Weisgerber. Normally only the verb *fand* 'found' would be placed in the middle, the rest would be placed in the *Nachfeld*. Also note that the predicative bracket *fand…statt* from the verb *stattfinden* 'to take place' is not considered as a bracket. This kind of "particle-verb" bracket is very common in German, and Weisgerber includes such structures as a bracket in the other examples shown here [@next a,c]. For the more complex example in [@next b] he is clearly stimified by Drach's simplistic *Grundplan*, which does not include a separate position for the verb particle. Such a position is commonly added in contemporary analyses of German (e.g. as a *rechte Satzklammer*). Finally, Weisgerber presents yet another example of a single hierarchically complex bracketing in [@next c] with a visually pleasing diagram as shown in [@fig:weisgerber1950_193]. In this illustration he tries to emphasize the ordering and the hierarchichal depth of the bracketing.
 
-[@weisgerber1954: 190-192] internal subordination with brackets. Example already in [@weisgerber1939: 58] but without visualisation. Visualisation already in 1950 [@weisgerber1950: 191-193]. 
+In the second, much expanded, edition of this work, Weisgerber repeats the same illustrations [@weisgerber1954: 190-192]. Furthermore, he adds another approach for the visualisation of hierarchical structure by using a "chinese boxes" diagram with hierarchically enclosed rectangles [@weisgerber1954: 252]. However, this illustration is copied verbatim from the work of his student Gipper (see [@sec:gipper1950]) and will be discussed there.
 
-Chinese boxes added in revision 1954, adapted from Gipper 1950! [@weisgerber1954: 252] internal subordination with chinese boxes
+::: ex
+- Sie zogen [ in die [ reich [ mit [ bunten ] Fahnen ] geschmückte ] Stadt ] ein.
+- [Vorfeld]{.grey} Am [ dem [ seiner [ unerwarteten ] Rückkehr ] folgenden ] Abend [Mitte]{.grey} fand [ in dem [ lange [ von seinen [ rechtmäßigen ] Bewohnern ] verlassenen ] Schloß ] [Nachfeld]{.grey} ein [ mit [ aller [ aus [ früheren ] Zeiten ] gewohnten ] Pracht gefeiertes ] Fest statt.
+- Sie kamen [ mit [ einer [ infolge der [ plötzlichen [ in der [ vorangegan‍genen ] Nacht ] eingebrochenen ] Kälte ] ungewöhnlich großen ] Verspätung ] an.
+:::
 
-### Gipper (1950) *Sprachliche und geistige Metamorphosen*
+::: {.im #weisgerber1950_191a}
+Visualisation of the hierarchical structure of [@last a] from Weisgerber [-@weisgerber1950: 191]. This example was already used by Weisgerber in earlier work, but without visualisation [@weisgerber1939: 58]. The method of using brackets here is completely isomorphic to contemporary post-Chomsky constituency analyses.
+:::
+
+::: {.im #weisgerber1950_191b}
+Visualisation of the hierarchical structure of [@last b] from Weisgerber [-@weisgerber1950: 191]. This example is added to show that a sentence can have multiple hierarchical brackets. Curiously, Weisgerber ignores the verb+particle bracket *fand…statt*. Similar structures are implicitly analysed as a bracket in the other visualisations of Weisgerber. In this example, Weisgerber is probably confused by the simplistic *Grundplan* from Drach (see [@fig:drach1937_18]) which does not include a position for the sentence-final particle ("*rechte Satzklammer*").
+:::
+
+::: {.im #weisgerber1950_193}
+Visualisation of the hierarchical structure of [@last c] from Weisgerber [-@weisgerber1950: 193]. This is basically the same approach as shown in the earlier illustrations, but with an extra indication of the word order (by arrows) and the depth (by numbers) of the embeddings.
+:::
+
+### Gipper (1950) *Sprachliche und geistige Metamorphosen* {#sec:gipper1950}
 
 Original dissertation from 1950, cited here from 1966 published version [@gipper1966], but introduction says a "fast unveränderten Druck" (p.8)
 
