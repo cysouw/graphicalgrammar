@@ -243,9 +243,17 @@ second edition seems identical to first edition from 1947
 
 Feldertheorie [@diderichsen1957], giving nested schema like hansen [@diderichsen1957: 146] does not cite drach (1935) uses term "chinese boxes"
 
+*kinesisk Æskesystem* 'Chinese box-system' (146)
+
+"Disse Led markerer da Afsnit inden for den større Helhed, som vi vil kalde „Felter"; inden for Felterne kan der saa atter markeres en Række „Pladser"." (151)
+
+These parts mark sections within the larger whole, which we will call "fields"; within the fields a series of "places" can then again be marked.
+
 1964 English translation???
 
 details about history: https://da.wikipedia.org/wiki/Sætningsskema
+
+example p. 162, 167 (only later editions), 186
 
 He knew about Hansen, but never cited it. acknowledgement in 1964 Festschrift for Hansen [@diderichsen1966: 364].
 
