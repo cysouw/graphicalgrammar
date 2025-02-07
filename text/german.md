@@ -1715,18 +1715,27 @@ Chinese boxes visualisation for the sentence [@last a] by Gipper [-@gipper1966: 
 
 ### Glinz (1952) *Die innere Form des Deutschen*
 
-Das Buch wurde im Februar 1942 und im Januar 1943 ein erstes Mal skizziert, im Februar 1944
-begonnen und im Juli 1948 zur Hauptsache abgeschlossen. Im Dezember
-1948 wurde es von der philosophischen Fakultät I der Universität Zürich
-als Habilitationsschrift angenommen. Äußere Umstände verzögerten den
-Beginn der Drucklegung bis zum Vorsommer 1950, die letzten Änderungen
-und Ergänzungen erfolgten im Herbst 1951.
+Hanz Glinz (1913-2008) was professor for German philology in Aachen. A biographical summary and an in-depth discussion of his work is provided by Zlobinska-Görtz [-@zlobinska-gortz2018]. His *Habilitationsschrift* was accepted in Zürich in 1948 and published as *Die innere Form des Deutschen. Eine neue deutsche Grammatik* [@glinz1952]. This book was widely discussed in Germany and is generally considered to be an early example of a structuralist grammar for German. Glinz consistently uses *Proben*, i.e. syntactic constituency tests, to analyse the grammatical structure of German.
 
-- 1952/1965: https://ids-pub.bsz-bw.de/frontdoor/index/index/docId/10209 316ff., 472-473
-- 1957/1965: https://ids-pub.bsz-bw.de/frontdoor/index/index/docId/10160 p.50
-- 1961: https://ids-pub.bsz-bw.de/frontdoor/index/index/docId/10189
+Glinz' book contains two large examples in which he uses a literary text to illustrate graphically how his analysis works in practice. The first example uses a paragraph from Goethe's *Wilhelm Meisters theatralische Sendung* and a paragraph from Heinrich Keller's *Der grüne Heinrich* [@glinz1952: 71-72]. The full analysis takes up ten whole pages [@glinz1952: 316-325]. The last sentence from this exemplary analysis [@next] is reproduced here in [@fig:glinz1952_325]. This visualisation places the words from top to bottom with thick black indicators for the verbal elements of the sentence. Glinz very clearly includes both the "finite" second position and the sentence-final "infinite" position in his analysis of the German sentence. The arrows indicate the governer of the case assignment. In the complex noun phrases the horizontal lines indicate the hierarchical structure. Subordinate clauses (not shown in the figure here) are not visually distinguished in this large example.
 
-reception: https://docserv.uni-duesseldorf.de/servlets/DocumentServlet?id=46205
+::: ex
+und die kühle erfrischende Luft atmend schlief ich sozusagen an der Brust der gewaltigen Natur ein. [@glinz1952: 325, citing Heinrich Keller]
+:::
+
+::: {.im #glinz1952_325}
+Analysis of [@last] from Glinz [-@glinz1952: 325], citing an example from Heinrich Keller. The words of the sentence are placed vertically with the verbal elements highlighed on the vertical line. Case-assignment is indicated by arrows pointing to the governing element. Within the complex noun phrases the horizontal lines indicate the hierarchical structure.
+:::
+
+Glinz' second large example is introduced as a massive 10-page fold-out sheet inserted between pages 472 and 473. For this exemplary analysis Glinz uses a paragraph from a letter from Goethe, sent on the 12th of november 1779 and published in the collection *Briefen aus der Schweiz*. The graphical analysis of the first sentence of this letter [@next b] is shown here in [@fig:glinz1952_472]. The linked high-resolution image shows a panorama of the complete fold-out sheet. In this visualisation the words are ordered horizontally and there are lines added on top of the whole example. These lines indicates the depth of clausal embedding: deeper embedding is indicated by lines that are higher positioned.
+
+::: ex
+Es war ein seltsamer Anblick, wenn man einen Moment seine Aufmerksamkeit vom Wege ab und auf sich selbst und die Gesellschaft wendet. [@glinz1952: 472, citing Goethe]
+:::
+
+::: {.im #glinz1952_472}
+Analysis of [@last b] from Glinz [-@glinz1952: 472], citing an example sentence from Goethe. This analysis is basically the same as the one shown in [@fig:glinz1952_325], but ordered horizontally. The additional lines on top indicate the depth of the clausal embedding, with higher lines indicating deeper embedding. The linked high-resolution image shows a panoramic overview of the whole 10-page fold-out sheet.
+:::
 
 ### Erben (1958) *Abriss der deutschen Grammatik*
 
