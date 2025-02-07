@@ -1705,15 +1705,22 @@ Visualisation of the hierarchical structure of [@last c] from Weisgerber [-@weis
 
 ### Gipper (1950) *Sprachliche und geistige Metamorphosen* {#sec:gipper1950}
 
-Helmut Gipper (1919-2005) was a professor for general linguistics in Münster and a student of Weisgerber (see [@sec:weisgerber1950]). He finished his dissertation *Sprachliche und geistige Metamorphosen bei Gedicht-Übersetzungen* in 1950, but it was only published in 1966 in *einen fast unveränderten Druck* 'an almost unchanged edition' [@gipper1966: 8]. In the preparation of his dissertation, Gipper had access to a pre-print version of Weisgerber's [-@weisgerber1950] *Von den Kräften der deutschen Sprache* and he cites Weisgerber's example [@last a] as an example of hierarchical embedding. However, Gipper develops his own visualisation using a "Chinese boxes" approach to show the hierarchical structure *in einer besonders anschaulichen Form* 'in a particularly vivid manner' [@gipper1966: 118]. As shown in [@fig:gipper1966: 119], he compares the central embedding of German with the right-modifying structure of the French translation. This visualisation is quoted verbatim by Weisgerber in the second edition of *Von den Kräften der deutschen Sprache* [@weisgerber1954: 252].
+Helmut Gipper (1919-2005) was a professor for general linguistics in Münster and a student of Weisgerber (see [@sec:weisgerber1950]).^[The best biographical summary for Gipper that I could find is on the German Wikipedia at <https://de.wikipedia.org/wiki/Helmut_Gipper>.] He finished his dissertation *Sprachliche und geistige Metamorphosen bei Gedicht-Übersetzungen* in 1950, but it was only published in 1966 in *einen fast unveränderten Druck* 'an almost unchanged edition' [@gipper1966: 8]. In the preparation of his dissertation, Gipper had access to a pre-print version of Weisgerber's [-@weisgerber1950] *Von den Kräften der deutschen Sprache* and he cites Weisgerber's example [@last a] as an example of hierarchical embedding. 
 
-https://de.wikipedia.org/wiki/Helmut_Gipper
+Gipper develops his own visualisation using a "Chinese boxes" approach to show the hierarchical structure *in einer besonders anschaulichen Form* 'in a particularly vivid manner' [@gipper1966: 118]. As shown in [@fig:gipper1966_119], he compares the central embedding of German with the right-modifying structure of the French translation. This visualisation is quoted verbatim by Weisgerber in the second edition of *Von den Kräften der deutschen Sprache* [@weisgerber1954: 252]. Gipper does not cite Pike (see [@sec:pike1943]), Diderichsen (see [@sec:diderichsen1947]) or Mikuš (see [@sec:mikuš1947]), who also use this visualisation in the same period in which Gipper wrote his dissertation. Apparently, this visual idea became *en vogue* in the 1940s.
 
 ::: {.im #gipper1966_119}
-[@gipper1966: 119]
+Chinese boxes visualisation for the sentence [@last a] by Gipper [-@gipper1966: 119]. This example is cited from Weisgerber, who uses another visualisation (see [@fig:weisgerber1950_191a]). Exactly this visualisation is later quoted verbatim in the second edition of Weisgerber's book. During the 1940s various other, apparently independent, example of this visualisations are found in the linguistic literatur.
 :::
 
 ### Glinz (1952) *Die innere Form des Deutschen*
+
+Das Buch wurde im Februar 1942 und im Januar 1943 ein erstes Mal skizziert, im Februar 1944
+begonnen und im Juli 1948 zur Hauptsache abgeschlossen. Im Dezember
+1948 wurde es von der philosophischen Fakultät I der Universität Zürich
+als Habilitationsschrift angenommen. Äußere Umstände verzögerten den
+Beginn der Drucklegung bis zum Vorsommer 1950, die letzten Änderungen
+und Ergänzungen erfolgten im Herbst 1951.
 
 - 1952/1965: https://ids-pub.bsz-bw.de/frontdoor/index/index/docId/10209 316ff., 472-473
 - 1957/1965: https://ids-pub.bsz-bw.de/frontdoor/index/index/docId/10160 p.50

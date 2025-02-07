@@ -674,7 +674,7 @@ morphology-formula [@sapir1921]
 
 [@ajdukiewicz1935]
 
-### Pike (1943) *Taxemes and immediate constituents*
+### Pike (1943) *Taxemes and immediate constituents* {#sec:pike1943}
 
 [@pike1943: 70], citing bloomfield
 
@@ -682,7 +682,7 @@ morphology-formula [@sapir1921]
 
 [@wells1947: 84]
 
-### Mikuš (1947) *Le Syntagme EST-IL Binaire?*
+### Mikuš (1947) *Le Syntagme EST-IL Binaire?* {#sec:mikuš1947}
 
 Francis Mikuš from Ljubljana, cf [@graffi2001: 201]
 
