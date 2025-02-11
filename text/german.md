@@ -240,7 +240,7 @@ Tabular analysis from Becker [-@becker1833a: 43] of the complex sentence [@last]
 
 ### Diesterweg (1830) *Praktischer Lehrgang für den Unterricht*  {#sec:diesterweg1830}
 
-Friedrich Adolph Wilhelm Diesterweg (1790-1866) was a teacher and a prolific author of textbooks. He also wrote extensively about didactic methods in general, strongly influenced by the ideas of Pestalozzi. Later in life he was politically active in an attempt to reform the Prussian educational system. His practical textbooks mainly dealt with mathematics and German linguistics. A comprehensive analysis of his linguistic work can be found in Czoska [-@czoska1984]. His linguistic proposals did not have much influence on the further development of syntactic analysis, which is unfortunate, because there are a lot of useful insights hidden there.
+Friedrich *Adolph* Wilhelm Diesterweg (1790-1866) was a teacher and a prolific author of textbooks. He also wrote extensively about didactic methods in general, strongly influenced by the ideas of Pestalozzi. Later in life he was politically active in an attempt to reform the Prussian educational system. His practical textbooks mainly dealt with mathematics and German linguistics. A comprehensive analysis of his linguistic work can be found in Czoska [-@czoska1984]. His linguistic proposals did not have much influence on the further development of syntactic analysis, which is unfortunate, because there are a lot of useful insights hidden there.
 
 The *Praktischer Lehrgang für den Unterricht in der deutschen Sprache* is a massive three-volume guide for teachers. As it says in the subtitle, it is *ein Leitfaden für Lehrer, welche die Muttersprache naturgemäß lehren wollen* ('a guide for teachers who want to teach the mother tongue in a natural way'). In the current context I will concentrate on the second volume *Die Wortformen und die Satzlehre*. This second volume first appeared in 1830 [@diesterweg1830], but there have been some important changes in the second edition from 1834 [@diesterweg1834]. The third edition from 1838 [@diesterweg1838] and the fourth from 1847 only saw minor changes. I will cite the 1830 and 1834 version where appropriate, but often include references to the 1838 version as well, as this is the highest-quality openly available digital version. For that reasons I have also used the 1838 for the images included here, as they do not change from the 1830 or 1834 versions.
 
@@ -481,17 +481,6 @@ Wenn ich mich in einer mittleren oder großen Stadt umsehe und bemerke, wo denn 
 Complex *Periodenbild* from Götzinger [-@gotzinger1839: 391] for the example from Goethe in [@last]. Note in comparison to Lehmann's *Periodenbild* (see [@sec:lehmann1833]) the different script letters are simplified to only lower-case latin letters and coordination is additionally indicated by using the equal sign.
 :::
 
-### Honcamp (1838) *Leitfaden für die Sprachbildung*
-
-Franz Cornelius Honcamp (1805-1866) Numbered tables like Becker
-
-- Leitfaden für die Sprachbildung in deutschen Volksschulen 1838
-- Vollständige Anleitung zum Elementar-Unterrichte in der Sprachlehre 1841
-- Gedanken über den Unterricht in der Sprachlehre [@honcamp1845: 29] (Widmung Diesterweg!)
-- Lehr- und Ubungsbuch für den Sprachunterricht [@honcamp1851: 19-20]
-
-https://www.lexikon-westfaelischer-autorinnen-und-autoren.de/autoren/honcamp-franz-cornelius/
-
 ### Hoffmann (1839) *Neuhochdeutsche Schulgrammatik* {#sec:hoffmann1839}
 
 Karl August Julius Hoffmann (1812-1869) was a schooldirector in Lüneburg. He wrote about such disparate topics as Homer, rhetoric, logic, and German grammar. In 1839 he published the first edition of his *Neuhochdeutsche Schulgrammatik* [@hoffmann1839], which he revised in the second edition [@hoffmann1856], but which did not get reprinted after that. In parallel, he also delivered a summarised version of the same work, the *Neuhochdeutsche Elementargrammatik*. This version was much more popular and got reprinted at least up to an eleventh edition in 1885. In the preface of the *Schulgrammatik*, he explicitly cites Becker (see [@sec:becker1829]) and Billroth (see [@sec:billroth1832]). About Billroth he says: *unter den Grammatiken der fremden Sprachen verdanke ich der Lateinischen von Billroth am meisten* 'among the grammars of foreign language I owe most to is the Latin grammar of Billroth' [@hoffmann1839: xiii].
@@ -556,6 +545,22 @@ Daß sich alles verändert, was uns hier umgibt; daß sich alles auflöst, was u
 ::: {.im #rinne1840_274}
 Symbolic sentence analysis of the example in [@last] by Rinne [-@rinne1840: 274]. Different from Lehmann and Götzinger, this approach keeps the symbols on a single line, which makes it easier to include in written text, but much less visually appealing. Note that for easier interpretation, the period-symbols in thie analysis might better be replaced by the actual commas or semicolons as they occur in the example sentence.
 :::
+
+### Honcamp (1841) *Vollständige Anleitung zum Elementar-Unterrichte in der Sprachlehre*
+
+*Franz* Cornelius Honcamp (1805-1866) was a teacher in Büren (Westfalen). He wrote various grammatical textbooks, strongly influenced by Becker (see [@sec:becker1829]) and Diesterweg (see [@sec:diesterweg1830]). Because of a small article in which he implicitly criticised the role of the church in schools, he was eventualy laid off by the Prussian state in 1854 and worked as a private teacher for the last few years of his life. More biographical details and a detailed discussion of the unfortunate clash with church and state is provided by Diesterweg [-@diesterweg1866].^[A useful summary of Honcamps life and work is available online at <https://www.lexikon-westfaelischer-autorinnen-und-autoren.de/autoren/honcamp-franz-cornelius>, accessed 11 February 2025.]
+
+The most extensive explanation of Honcamp's syntactic analysis is provided in his *Vollständige Anleitung zum Elementar-Unterrichte in der Sprachlehre* [@honcamp1841: 13, 21, 30, 87, 90, 224-226]. This book is dedicated to Becker and follows his proposals almost verbatim. Specifically, Honcamp uses the tabular analysis from Becker, in which each row is numbered. An example from Honcamp is shown in [@fig:honcamp1841_224] for the biblical example in [@next]. This numbering allows for concrete reference of dependent words to their heads. Exactly the same use of numbered reference is (again) used by contemporary dependency grammar formats like *Universal Dependencies* (UD). Similar examples of syntactic analysis are also included in later books by Honcamp, e.g. in his *Gedanken über den Unterricht in der Sprachlehre* [@honcamp1845: 29, dedicated to Diesterweg] and *Lehr- und Übungsbuch für den Sprachunterricht in niederdeutschen Landschulen* [@honcamp1851: 19-20].
+
+::: ex
+Als in Kanaan die Theurung ausgebrochen war schickte Jakob zehn seiner Söhne nach Aegypten, weil er hörte, daß man dort noch Getreide kaufen könnte.
+:::
+
+::: {.im #honcamp1841_224}
+Tabular analysis of the structure of [@last] from Honcamp [-@honcamp1841: 224], following the system of Becker (see [@fig:becker1833_43]). By using numbered rows and references to these numbers, this analysis almost perfectly represents the notation of a contemporary dependency tree.
+:::
+
+Honcamp also wrote *Leitfaden für die Sprachbildung in deutschen Volksschulen* (1838), but I have not yet been able to access this book.
 
 ### Haupt (1841) *Deutsche Prosa* {#sec:haupt1841}
 
