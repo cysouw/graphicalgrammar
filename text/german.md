@@ -1536,16 +1536,15 @@ Flothuis' *Satzbild* for the example in [@next] is shown in [@fig:flothuis1930_1
 
 ### Wollmann (1935) *Deutsche Sprachkunde* {#sec:wollmann1935}
 
-Franz Wollmann (1871-1961) has written many more books! https://de.wikipedia.org/wiki/Franz_Wollmann
+Franz Wollmann (1871-1961) was director of the teacher's seminary in Krems and later in Vienna (Austria).^[Basic biographical information is available on Wikipedia at <https://de.wikipedia.org/wiki/Franz_Wollmann>, accessed 11 February 2025. The list of publications on Wikipedia does not correspond to entries in various library catalogues that I checked.] He wrote various textbooks with *Sprachübungen* 'language exercises' for teaching German. In 1935, towards the end of his active career, he wrote the *Deutsche Sprachkunde auf sprachgeschichtlicher Grundlage*, which appears in various edition at least up to a seventh edition in 1963. It is cited here from the third edition [@wollmann1946].
 
-Teichl, Robert (1951): Österreicher der Gegenwart: Lexikon schöpferischer und schaffender Zeitgenossen. Wien: Verl. d. Österr. Staatsdr. p.344
+::: ex
+Die gute Mutter bringt dem noch im Bett liegenden kranken Kinde heißen Tee gegen den bößen Husten.
+:::
 
-first edition 1935, cited here from third edition [@wollmann1946], 7th edition 1963
-
-- Der Deutsche Sprachunterricht in der Volks- und Bürgerschule nach den Grundsätzen Rudolf Hildebrands (1902)
-- Sprachübungen für 1-3-klassige Volksschulen (1902)
-- Sprachlehrübungen für 4- und mehrklassige Volksschulen (1906)
-- Sprachübungen für österr. allg. Volksschulen. Ausg. für 5-klassige Volksschulen (1909)
+::: {.im #wollmann1946_15}
+[@wollmann1946: 15]
+:::
 
 ### Heemstra (1947) *Grundrisz der deutsch-niederländischen Satzlehre* #{#sec:heemstra1947}
 
