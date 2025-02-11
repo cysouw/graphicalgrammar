@@ -1534,7 +1534,7 @@ Flothuis' *Satzbild* for the example in [@next] is shown in [@fig:flothuis1930_1
 *Satzbild* for the examples in [@last] in the analysis of Flothuis [-@flothuis1930: 136]. Subordinated clauses are positioned downwards relative to the main clause. Separated parts of a clause are linked by an arrow. The head of a relative clause is separated from the rest of the clause by tiny vertical lines.
 :::
 
-### Wollmann (1935) *Deutsche Sprachkunde*
+### Wollmann (1935) *Deutsche Sprachkunde* {#sec:wollmann1935}
 
 Franz Wollmann (1871-1961) has written many more books! https://de.wikipedia.org/wiki/Franz_Wollmann
 
@@ -1559,12 +1559,17 @@ Johannes Heemstra (1882-1961) was a teacher for German in Haarlem (Netherlands).
 *Satzbild* for the example sentence in [@last] from Heemstra [-@heemstra1947: 76]. The only syntactic aspect that is somewhat hidden in this graphic is the fact that the first postposed clause is separated into two parts. The second part *(zu seinem Befinden gesagt habe)* only occurs at the end of the complex sentence.
 :::
 
-### Killinger & Doppler (1950) *Deutsch: richtig gesprochen, richtig geschrieben*
+### Killinger & Doppler (1950) *Deutsch: richtig gesprochen, richtig geschrieben* {#sec:killinger1950}
 
-Robert Killinger (1925-2006) no information, wrote many different textbooks
-Alfred Doppler (born 1921) https://de.wikipedia.org/wiki/Alfred_Doppler
+Robert Killinger (1925-2006, no further biographical information available) and Alfred Doppler (born 1921, professor for literature in Innsbruck, Austria),^[Some basic biographical information on Alfred Doppler is available on Wikipediat at <https://de.wikipedia.org/wiki/Alfred_Doppler>, accessed 11 February 2025.] wrote a somewhat amusing German textbook intended to be less dry than a regular grammar. It is called *Deutsch: richtig gesprochen, richtig geschrieben* and was originally published in 1950 in Austria with the subtitle *Ein unterhaltsames Buch zur Aneigung einer fehlerfreien Sprache, zur Vervollkommung vorhandenen Wissens und zum Nachschlagen in Zweifelsfällen* 'An entertaining book to acquire error-free language, to perfect existing knowledge and for reference in cases of doubt'. It is cited here from the third edition for a German audience [@killinger1955]. In the discussion of *Satzbau* 'syntax' they use a verb-centric dependency tree, shown here in [@fig:killinger1955_131] for the example sentence in [@next]. For this graphical analysis they cite Wollmann (see [@sec:wollmann1935]).
 
-Original 1950 in Austria with subtitle *ein unterhaltsames Buch zur Aneigung einer fehlerfreien Sprache, zur Vervollkommung vorhandenen Wissens u. zum Nachschlagen in Zweifelsfällen*. Cited here from 3rd edition for German audience without the subtitle [@killinger1955].
+::: ex
+Ein guter Mensch in seinem dunklen Drange ist sich des rechten Weges wohl bewußt.
+:::
+
+::: {.im #killinger1955_131}
+Graphical analysis of the sentence [@last] from Killinger & Doppler [-@killinger1955: 131]. Such dependency-trees are widespread in the German-speaking countries. Specifically, Killinger & Doppler cite the grammar of Wollmann as inspiration.
+:::
 
 ### Langholf (1969) *Die Syntax des deutschen Amadisromans* {#sec:langholf1969}
 
