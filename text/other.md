@@ -292,13 +292,13 @@ Multi-clause sentence [@last b] in the analysis of Lindwall [-@lindwall1903: 146
 
 Karl Frederik *Natanael* Beckman (1868-1946) was a high school teacher and later professor of Scandinavian languages at Gothenburg University [more biographical details are available in @friesen1922]. He wrote many different analyses of Swedish, both synchronically and diachronically. His *Svensk språklära för den högre elementarundervisningen* [@beckman1904] has been widely used and has remained in print at least until a 9th edition in the 1960s. He also prepared two reduced versions of this work, namely the *Svensk språklära för elementarundervisningen* [@beckman1908] and the *Svensk språklära för folkskolan* [@beckman1912]. These do not seem to add anything new and will not be further discussed here. 
 
-Beckman [-@beckman1904: 273] cites Kern (see [@sec:kern1883]) and Lindwall (see [@sec:lindwall1903]) as inspiration for his graphical display, which he calls a *karta* 'map'. He uses a balanced display with subject and object at the top linked by a line [@beckman1904: 194-198, 202, 219], explicitly distancing his approach from Kern's verb-centric display [@beckman1904: 273]. An example for a single-clause sentence is shown in [@fig:beckman1904_194] for the sentence in [@next a]. This figure is actually a compositive from parts that are explained separately by Beckman. However, Beckman invites the reader to produce this combined picture, to which I have happily obliged: *Du kan nu själf rita en karta öfver hela satsen* 'You can now draw a map of the entire set yourself' [@beckman1904: 195].
+Beckman [-@beckman1904: 273] cites Kern (see [@sec:kern1883]) and Lindwall (see [@sec:lindwall1903]) as inspiration for his graphical display, which he calls a *karta* 'map'. He uses a balanced display with subject and object at the top linked by a line [@beckman1904: 194-198, 202, 219], explicitly distancing his approach from Kern's verb-centric display [@beckman1904: 273]. An example for a single-clause sentence is shown in [@fig:beckman1904_194] for the sentence in [@next a]. This figure is actually a compositive from parts that are explained separately by Beckman. However, Beckman invites the reader to produce this combined picture, to which I have happily obliged: *Du kan nu själf rita en karta öfver hela satsen* 'You can now draw a map of the entire sentence yourself' [@beckman1904: 195].
 
-Dependencies are linked by upwards-pointing arrows. Multiple dependencies to the same head are indicated by horizontal brackets. Somewhat confusingly, sometimes the arrows are missing, as with *fädernesland* 'homeland' and *från välde* 'from the reign' in [@fig:beckman1904_194]. It is unclear whether this is an error, or whether Beckman intended to omit the arrows for arguments. For multi-clause sentences Beckman simply draws separate figures for each clause, and indicates with the word *bisatz* where the subordinate clause has to be inserted into the matrix clause. An example of a multi-clause sentence in shown in [@fig:beckman1904_202] for the example in [@next b].
+Dependencies are linked by upwards-pointing arrows. Multiple dependencies to the same head are indicated by horizontal brackets. Somewhat confusingly, sometimes the arrows are missing, as with *fädernesland* 'homeland' and *från välde* 'from the reign' in [@fig:beckman1904_194]. It is unclear whether this is an error, or whether Beckman intended to omit the arrows for arguments. For multi-clause sentences Beckman simply draws separate figures for each clause, and indicates with the word *bisatz* 'subordinate clause' where the subordinate clause has to be inserted into the matrix clause. An example of a multi-clause sentence in shown in [@fig:beckman1904_202] for the example in [@next b].
 
 ::: ex
 a.
-|
+| 
 | Vår store och ädle konung Gustaf Vasa har befriat vårt gamla fädernesland från danskarnas tryckande välde.
 | our great and noble king Gustaf Vasa has freed our old homeland from Danish oppressive reign
 | Our great and noble King Gustaf Vasa has liberated our old homeland from the oppressive rule of the Danes.
@@ -306,7 +306,7 @@ b.
 |
 | Den af er, som kan svara på denna fråga, skall få en slant.
 | DEM of 2PL REL can answer on DEM question shall get a coin
-| Whoever of you can answer this question will receive a coin.
+| Whoever of you can answer this question will receive a coin. [@beckman1904: 194, 202]
 :::
 
 ::: {.im #beckman1904_194}

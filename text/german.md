@@ -1607,6 +1607,11 @@ nothing yet in 1880 version of Sprachschule, only in Binstorfer revision?:
 - https://onb.digital/result/117D523D
 - https://onb.digital/result/117D5224
 
+Also: Bernhard Merth (1864-1922, Sprachübungen, Sprachbuch, Sprachunterricht) => Wollmann, Killinger, Sernko as co-authors/revisers
+
+- https://www.biographien.ac.at/oebl?frames=yes
+- https://books.google.de/books?id=HXkXAAAAIAAJ
+
 ## Algebraic formulae
 
 ### Götzinger (1880) *Deutsche Grammatik in genetischer Darstelllung* {#sec:götzinger1880}
