@@ -481,6 +481,20 @@ Wenn ich mich in einer mittleren oder großen Stadt umsehe und bemerke, wo denn 
 Complex *Periodenbild* from Götzinger [-@gotzinger1839: 391] for the example from Goethe in [@last]. Note in comparison to Lehmann's *Periodenbild* (see [@sec:lehmann1833]) the different script letters are simplified to only lower-case latin letters and coordination is additionally indicated by using the equal sign.
 :::
 
+### Honcamp (1838) *Leitfaden für die Sprachbildung*
+
+*Franz* Cornelius Honcamp (1805-1866) was a teacher in Büren (Westfalen). He wrote various grammatical textbooks, strongly influenced by Becker (see [@sec:becker1829]) and Diesterweg (see [@sec:diesterweg1830]). Because of a small article, in which he implicitly criticised the role of the church in schools, he was eventualy laid off by the Prussian state in 1854 and worked as a private teacher for the last few years of his life. More biographical details and a detailed discussion of the unfortunate clash with church and state is provided by Diesterweg [-@diesterweg1866].^[A useful summary of Honcamps life and work is available online at <https://www.lexikon-westfaelischer-autorinnen-und-autoren.de/autoren/honcamp-franz-cornelius>, accessed 11 February 2025.]
+
+Honcamp's first grammatical book is called *Leitfaden für die Sprachbildung in deutschen Volkschulen* [@honcamp1838]. In the subtitle he mentions the explicit influence from the work of Becker: *Begründet auf Dr. K.F.Becker’s grammatische Ansicht, und fachgemäß methodologisch angeordnet* 'based on Dr. K.F.Becker’s grammatical view, and properly methodologically arranged'. Specifically, Honcamp uses the tabular analysis from Becker, in which each row is numbered [@honcamp1838: 259-260, 271-275]. An extensive explanation of Honcamp's syntactic analysis is provided in his *Vollständige Anleitung zum Elementar-Unterrichte in der Sprachlehre* [@honcamp1841: 13, 21, 30, 87, 90, 224-226]. This book is dedicated to Becker and follows his proposals almost verbatim. An example of a Becker-style numbered table from this book is shown in [@fig:honcamp1841_224] for the biblical example in [@next]. This numbering allows for concrete reference of dependent words to their heads. Exactly the same use of numbered reference is (again) used by contemporary dependency grammar formats like *Universal Dependencies* (UD). Similar examples of syntactic analysis are also included in later books by Honcamp, e.g. in his *Gedanken über den Unterricht in der Sprachlehre* [@honcamp1845: 29, dedicated to Diesterweg] and *Lehr- und Übungsbuch für den Sprachunterricht in niederdeutschen Landschulen* [@honcamp1851: 19-20].
+
+::: ex
+Als in Kanaan die Theurung ausgebrochen war schickte Jakob zehn seiner Söhne nach Aegypten, weil er hörte, daß man dort noch Getreide kaufen könnte.
+:::
+
+::: {.im #honcamp1841_224}
+Tabular analysis of the structure of [@last] from Honcamp [-@honcamp1841: 224], following the system of Becker (see [@fig:becker1833_43]). By using numbered rows and references to these numbers, this analysis almost perfectly represents the notation of a contemporary dependency tree.
+:::
+
 ### Hoffmann (1839) *Neuhochdeutsche Schulgrammatik* {#sec:hoffmann1839}
 
 Karl August Julius Hoffmann (1812-1869) was a schooldirector in Lüneburg. He wrote about such disparate topics as Homer, rhetoric, logic, and German grammar. In 1839 he published the first edition of his *Neuhochdeutsche Schulgrammatik* [@hoffmann1839], which he revised in the second edition [@hoffmann1856], but which did not get reprinted after that. In parallel, he also delivered a summarised version of the same work, the *Neuhochdeutsche Elementargrammatik*. This version was much more popular and got reprinted at least up to an eleventh edition in 1885. In the preface of the *Schulgrammatik*, he explicitly cites Becker (see [@sec:becker1829]) and Billroth (see [@sec:billroth1832]). About Billroth he says: *unter den Grammatiken der fremden Sprachen verdanke ich der Lateinischen von Billroth am meisten* 'among the grammars of foreign language I owe most to is the Latin grammar of Billroth' [@hoffmann1839: xiii].
@@ -545,22 +559,6 @@ Daß sich alles verändert, was uns hier umgibt; daß sich alles auflöst, was u
 ::: {.im #rinne1840_274}
 Symbolic sentence analysis of the example in [@last] by Rinne [-@rinne1840: 274]. Different from Lehmann and Götzinger, this approach keeps the symbols on a single line, which makes it easier to include in written text, but much less visually appealing. Note that for easier interpretation, the period-symbols in thie analysis might better be replaced by the actual commas or semicolons as they occur in the example sentence.
 :::
-
-### Honcamp (1841) *Vollständige Anleitung zum Elementar-Unterrichte in der Sprachlehre*
-
-*Franz* Cornelius Honcamp (1805-1866) was a teacher in Büren (Westfalen). He wrote various grammatical textbooks, strongly influenced by Becker (see [@sec:becker1829]) and Diesterweg (see [@sec:diesterweg1830]). Because of a small article in which he implicitly criticised the role of the church in schools, he was eventualy laid off by the Prussian state in 1854 and worked as a private teacher for the last few years of his life. More biographical details and a detailed discussion of the unfortunate clash with church and state is provided by Diesterweg [-@diesterweg1866].^[A useful summary of Honcamps life and work is available online at <https://www.lexikon-westfaelischer-autorinnen-und-autoren.de/autoren/honcamp-franz-cornelius>, accessed 11 February 2025.]
-
-The most extensive explanation of Honcamp's syntactic analysis is provided in his *Vollständige Anleitung zum Elementar-Unterrichte in der Sprachlehre* [@honcamp1841: 13, 21, 30, 87, 90, 224-226]. This book is dedicated to Becker and follows his proposals almost verbatim. Specifically, Honcamp uses the tabular analysis from Becker, in which each row is numbered. An example from Honcamp is shown in [@fig:honcamp1841_224] for the biblical example in [@next]. This numbering allows for concrete reference of dependent words to their heads. Exactly the same use of numbered reference is (again) used by contemporary dependency grammar formats like *Universal Dependencies* (UD). Similar examples of syntactic analysis are also included in later books by Honcamp, e.g. in his *Gedanken über den Unterricht in der Sprachlehre* [@honcamp1845: 29, dedicated to Diesterweg] and *Lehr- und Übungsbuch für den Sprachunterricht in niederdeutschen Landschulen* [@honcamp1851: 19-20].
-
-::: ex
-Als in Kanaan die Theurung ausgebrochen war schickte Jakob zehn seiner Söhne nach Aegypten, weil er hörte, daß man dort noch Getreide kaufen könnte.
-:::
-
-::: {.im #honcamp1841_224}
-Tabular analysis of the structure of [@last] from Honcamp [-@honcamp1841: 224], following the system of Becker (see [@fig:becker1833_43]). By using numbered rows and references to these numbers, this analysis almost perfectly represents the notation of a contemporary dependency tree.
-:::
-
-Honcamp also wrote *Leitfaden für die Sprachbildung in deutschen Volksschulen* (1838), but I have not yet been able to access this book.
 
 ### Haupt (1841) *Deutsche Prosa* {#sec:haupt1841}
 
