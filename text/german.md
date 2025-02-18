@@ -1534,7 +1534,7 @@ Flothuis' *Satzbild* for the example in [@next] is shown in [@fig:flothuis1930_1
 
 ### Wollmann (1935) *Deutsche Sprachkunde* {#sec:wollmann1935}
 
-Franz Wollmann (1871-1961) was director of the teacher's seminary in Krems and later in Vienna (Austria).^[Basic biographical information is available on Wikipedia at <https://de.wikipedia.org/wiki/Franz_Wollmann>, accessed 11 February 2025. The list of publications on Wikipedia does not correspond to entries in various library catalogues that I checked.] He wrote various textbooks with *Sprachübungen* 'language exercises' for teaching German. In 1935, towards the end of his active career, he wrote the *Deutsche Sprachkunde auf sprachgeschichtlicher Grundlage*, which appears in various edition at least up to a seventh edition in 1963. It is cited here from the third edition [@wollmann1946].
+Franz Wollmann (1871-1961) was director of the teacher's seminary in Krems and later in Vienna (Austria).^[Basic biographical information is available on Wikipedia at <https://de.wikipedia.org/wiki/Franz_Wollmann>, accessed 11 February 2025. The list of publications on Wikipedia does not correspond to entries in various library catalogues that I checked.] He wrote various textbooks with *Sprachübungen* 'language exercises' for teaching German. These have appeared in many editions and are in need of a more detailed investigation. In 1935, towards the end of his active career, he wrote the *Deutsche Sprachkunde auf sprachgeschichtlicher Grundlage*, which appears in various edition at least up to a seventh edition in 1963. It is cited here from the third edition [@wollmann1946].
 
 ::: ex
 Die gute Mutter bringt dem noch im Bett liegenden kranken Kinde heißen Tee gegen den bößen Husten.
@@ -1605,10 +1605,11 @@ nothing yet in 1880 version of Sprachschule, only in Binstorfer revision?:
 - https://onb.digital/result/117D523D
 - https://onb.digital/result/117D5224
 
-Also: Bernhard Merth (1864-1922, Sprachübungen, Sprachbuch, Sprachunterricht) => Wollmann, Killinger, Sernko as co-authors/revisers
+Also: Bernhard Merth (1864-1922, Sprachübungen, Sprachbuch, Sprachunterricht) => Wollmann, Killinger, Sernko as co-authors/revisers. no apparent graphics.
 
-- https://www.biographien.ac.at/oebl?frames=yes
-- https://books.google.de/books?id=HXkXAAAAIAAJ
+- https://www.suedmaehren.at/persoenlichkeit/bernhard-merth/
+- https://www.biographien.ac.at/oebl/oebl_M/Merth_Bernhard_1864_1922.xml
+- nothing in part 1: https://books.google.de/books?id=HXkXAAAAIAAJ
 
 ## Algebraic formulae
 
