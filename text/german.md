@@ -1534,14 +1534,16 @@ Flothuis' *Satzbild* for the example in [@next] is shown in [@fig:flothuis1930_1
 
 ### Wollmann (1935) *Deutsche Sprachkunde* {#sec:wollmann1935}
 
-Franz Wollmann (1871-1961) was director of the teacher's seminary in Krems and later in Vienna (Austria).^[Basic biographical information is available on Wikipedia at <https://de.wikipedia.org/wiki/Franz_Wollmann>, accessed 11 February 2025. The list of publications on Wikipedia does not correspond to entries in various library catalogues that I checked.] He wrote various textbooks with *Sprachübungen* 'language exercises' for teaching German. These have appeared in many editions and are in need of a more detailed investigation. In 1935, towards the end of his active career, he wrote the *Deutsche Sprachkunde auf sprachgeschichtlicher Grundlage*, which appears in various edition at least up to a seventh edition in 1963. It is cited here from the third edition [@wollmann1946].
+Franz Wollmann (1871-1961) was director of the teacher's seminary in Krems and later in Vienna (Austria).^[Basic biographical information is available on Wikipedia at <https://de.wikipedia.org/wiki/Franz_Wollmann>, accessed 11 February 2025. The list of publications on Wikipedia does not correspond to entries in various library catalogues that I checked.] He co-authored various textbooks with *Sprachübungen* 'language exercises' for teaching German. These were initiated by Bernhard Merth (1864-1922). There are many different editions with numerous different booklets for different grades in this series [an early example without graphical grammar is @merth1909]. The many editions are in need of a more detailed investigation. 
+
+In 1935, towards the end of his active career, Wollmann wrote the *Deutsche Sprachkunde auf sprachgeschichtlicher Grundlage*, which appears in various edition at least up to a seventh edition in 1963.
 
 ::: ex
 Die gute Mutter bringt dem noch im Bett liegenden kranken Kinde heißen Tee gegen den bößen Husten.
 :::
 
 ::: {.im #wollmann1946_15}
-[@wollmann1946: 15]
+[@wollmann1935: 15]
 :::
 
 ### Heemstra (1947) *Grundrisz der deutsch-niederländischen Satzlehre* #{#sec:heemstra1947}
@@ -1566,6 +1568,16 @@ Ein guter Mensch in seinem dunklen Drange ist sich des rechten Weges wohl bewuß
 
 ::: {.im #killinger1955_131}
 Graphical analysis of the sentence [@last] from Killinger & Doppler [-@killinger1955: 131]. Such dependency-trees are widespread in the German-speaking countries. Specifically, Killinger & Doppler cite the grammar of Wollmann as inspiration.
+:::
+
+Killinger remains active as an author of textbooks for many decades, specifically with the series *Sprachübungen*. This series was originally established by Bernhard Merth (1864-1922) and was also temporarily co-authored by Wollmann (see [@sec:wollmann1935]). There are many different editions with numerous different booklets for different grades in this series [an early example without graphical grammar is @merth1909]. I have not been able to inspect all these different versions and editions. Notably, in a version for the sixth grade, Killinger [-@killinger1975: 88] uses the music-score metaphor for the analysis of a complex multi-clause sentence [@next] as shown in [@fig:killinger1975_88]
+
+::: ex
+[1]{.grey} Den Knecht legten sie gebunden auf die Erde, [2]{.grey} steckten ihm ein Sperrholtz ins Maul und [3]{.grey} schütteten ihm einen Melckkübel voll garstig Mistlachen-Wasser in Leib, [4]{.grey} das nanten sie eine schwedischen Trunck, [5]{.grey} der ihm aber gar nicht schmeckte, [6]{.grey} sondern in seinem Gesicht sehr wunderliche Minen verursachte, [7]{.grey} wodurch sie ihn zwungen, [8]{.grey} eine Parthey anderwerts zuführen, [9]{.grey} allda sie Menschen und viehe hinweg namen und [10]{.grey} in unseren Hof brachten, [11]{.grey} unter welchen mein Knän, meine Meuder, und unsere Ursele auch waren. [@killinger1975: 88, citing Hans Jakob Christoffel von Grimmelshausen *Der Abentheuerliche Simplicissimus Teutsch*]
+:::
+
+::: {.im #killinger1975_88}
+*Textpartitur* for the multi-clause sentence in [@last] in the analysis of Killinger [-@killinger1975: 88]. Different from all other examples of this visualisation, Killinger places the main clauses at the bottom and subordinated clauses upwards. Coordination is indicated by arches. The part between double vertical lines and bridged by a dotted line is analysed as an *Einschub* 'insertion'.
 :::
 
 ### Langholf (1969) *Die Syntax des deutschen Amadisromans* {#sec:langholf1969}
