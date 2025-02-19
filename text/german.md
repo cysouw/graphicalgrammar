@@ -1525,7 +1525,7 @@ Marius Hendrikus Flothuis (1873-1950) was a teacher of German language and liter
 Flothuis' *Satzbild* for the example in [@next] is shown in [@fig:flothuis1930_136]. He uses a music-score metaphor with the main clause on top and subordinated clauses positioned downwards. The left-right order follows the actual ordering of the clauses in the sentence. The graphic includes the syntactic function of each clause, not the actual content. Parts of clauses, that are separated by another clause, are connected by a small horizontal arrow.
 
 ::: ex
-[kausaler]{.grey} Da seine Wohnung nahe am Eschenheimer Tore lag, [Haupt-]{.grey} so führte mich, [temporaler]{.grey} wenn ich ihn besucht hatte, [Satz]{.grey} mein Weg gewöhnlich zur Stadt hinaus und [adv.Best.]{.grey} zu den Grundstücken, [unterscheidender]{.grey} welche mein Vater vor den Toren besaß. [@flothuis1930: 136, citing Goethe *Dichtung und Wahrheit*]
+[kausaler N.-S.]{.grey} Da seine Wohnung nahe am Eschenheimer Tore lag, [Haupt-]{.grey} so führte mich, [temporaler N.-S.]{.grey} wenn ich ihn besucht hatte, [Satz]{.grey} mein Weg gewöhnlich zur Stadt hinaus und [adv.Best.z.d.Grundst.]{.grey} zu den Grundstücken, [unterscheidender Rel.-S.]{.grey} welche mein Vater vor den Toren besaß. [@flothuis1930: 136, citing Goethe *Dichtung und Wahrheit*]
 :::
 
 ::: {.im #flothuis1930_136}
@@ -1534,16 +1534,28 @@ Flothuis' *Satzbild* for the example in [@next] is shown in [@fig:flothuis1930_1
 
 ### Wollmann (1935) *Deutsche Sprachkunde* {#sec:wollmann1935}
 
-Franz Wollmann (1871-1961) was director of the teacher's seminary in Krems and later in Vienna (Austria).^[Basic biographical information is available on Wikipedia at <https://de.wikipedia.org/wiki/Franz_Wollmann>, accessed 11 February 2025. The list of publications on Wikipedia does not correspond to entries in various library catalogues that I checked.] He co-authored various textbooks with *Sprachübungen* 'language exercises' for teaching German. These were initiated by Bernhard Merth (1864-1922). There are many different editions with numerous different booklets for different grades in this series [an early example without graphical grammar is @merth1909]. The many editions are in need of a more detailed investigation. 
+Franz Wollmann (1871-1961) was director of the teacher's seminary in Krems and later in Vienna (Austria).^[Basic biographical information is available on Wikipedia at <https://de.wikipedia.org/wiki/Franz_Wollmann>, accessed 11 February 2025. The list of publications on Wikipedia does not correspond to entries in various library catalogues that I checked.] He co-authored various textbooks with *Sprachübungen* 'language exercises' for teaching German. This series of textbooks was initiated by Bernhard Merth (1864-1922).^[Some basic biographical information on Bernhard Merth is available online at <https://www.biographien.ac.at/oebl/oebl_M/Merth_Bernhard_1864_1922.xml>.] There are many different editions with numerous different booklets for different grades in this series. The many editions are in need of a more detailed investigation [an early example without graphical grammar is @merth1909].
 
-In 1935, towards the end of his active career, Wollmann wrote the *Deutsche Sprachkunde auf sprachgeschichtlicher Grundlage*, which appears in various edition at least up to a seventh edition in 1963.
+Towards the end of his active career, Wollmann wrote the *Deutsche Sprachkunde auf sprachgeschichtlicher Grundlage* [@wollmann1935], which appeared mostly unchanged in various editions at least up to a seventh edition in 1963. In this book he applies various different methods for visual syntactic analysis. First, clause-internal structure is visualised using a dependency tree as shown in [@fig:wollmann1935_15] for the examples sentence [@next a].
+
+For complex multi-clausal sentences he uses a simplified variant of a *Periodenbild*, only using the capital letter *H=Hauptsatz* 'main clause' and the lower-case letter *n=Nebensatz* 'subordinate clause, as shown in [@fig:wollmann1935_248] for the example sentence [@next b]. Multiple subordination is indicated by lower placement. Non-finite clauses are placed inside round brackets (here *s.b.=Satzbestimmung* 'clausal modifier'). As an alternative visualisation, Wollmann also proposes to analyse multi-clause sentences using the dependency model, but now the individual nodes are complete clauses. An example of this approach is shown in [@fig:wollmann1935_250] for the example in [@next c].
 
 ::: ex
-Die gute Mutter bringt dem noch im Bett liegenden kranken Kinde heißen Tee gegen den bößen Husten.
+- Die gute Mutter bringt dem noch im Bett liegenden kranken Kinde heißen Tee gegen den bößen Husten.
+- [n]{.grey} Wenn wir sehen, [n]{.grey} daß die Sonne wieder wärmer scheint, [H]{.grey} gehen wir ins Freie [(s.b.)]{.grey} um nach den ersten Frühlingsblumen zu suchen.
+- Auch dann, wenn du ein Buch liest, das nicht deinen Verstand bilden will, unterbrich zuweilen das Vergnügen, das dir die Erzählung verschafft, so lange, bis du mit ein paar Worten ausdrücken kannst, was der Verfasser in einem ganzen Abschnitt gesagt hat.
 :::
 
-::: {.im #wollmann1946_15}
-[@wollmann1935: 15]
+::: {.im #wollmann1935_15}
+*Satzbild* for the clause-internal structure of [@last a] in the analysis of Wollmann [-@wollmann1935: 15]. This kind of dependency-tree is widespread at this point in German educational textbooks.
+:::
+
+::: {.im #wollmann1935_248}
+*Satzbild* for a multi-clause complex sentence [@last b] in the analysis of Wollmann [-@wollmann1935: 248]. Each abbreviations indicates a clause, with *H=Hauptsatz* 'main clause', *n=Nebensatz* 'subordinate clause' and *s.b.=Satzbestimmung* 'clausal modifier'. Multiple subordination is indicated by vertically lower placement. Non-finite clauses are indicated by the round brackets.
+:::
+
+::: {.im #wollmann1935_250}
+Alternative *Satzbild* for multi-clause complex sentences like [@last c] as proposed by Wollmann [-@wollmann1935: 250]. This visualisation builds upon the dependency tree from [@fig:wollmann1935_15] but adding subordinate clauses as individual nodes in the tree. Wollmann did not take the next step and analysing the internal structure of the subordinate clauses as well.
 :::
 
 ### Heemstra (1947) *Grundrisz der deutsch-niederländischen Satzlehre* #{#sec:heemstra1947}
