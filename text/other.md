@@ -704,6 +704,39 @@ Info from Tomasz (Ma)ksymil(ian) Majtczak: https://bsky.app/profile/ksymil.bsky.
 
 ## Russian
 
+### Buslaev (1844) *О преподавании отечественного языка*
+
+Fedor Ivanovich Buslaev (1818-1897) was professor for Russian linguistics in Moscow. He was strongly influenced by the German tradition of historical linguistics, specifically by Jacob Grimm.^[Some basic biographical information is available on Wikipedia <https://en.wikipedia.org/wiki/Fyodor_Buslaev>, accessed 20 February 2025.]
+
+In his book *О преподавании отечественного языка* ('On the teaching of the native language') he discusses the analysis of large sentences with multiple subordinate clauses [@buslaev1844: 260]. As an example he give an analysis of a fable [@next] by using a graphical structure with large horizontal braces, as shown in [@fig:buslaev1844_260]. The original structure of this sentence has a lot of clausal centre-embedding. This is indicated in the graphical analysis by the braces, indicating the insertion point of the subordinate clause.
+
+::: ex
+Krylov's Fable *The wolf and the shepherds*, cited in Buslaev [-@buslaev1844: 260]
+:::
+
+- [А]{.grey} Волкь \
+      ('the wolf')
+  - [Б.1]{.grey} близко обходя пастуший дворь \
+         ('walking closely around the shepherd's yard')
+  - [Б.2]{.grey} и видя сквозь заборь \
+         ('and seeing through the fence')
+    - [В.1]{.grey} что \
+           ('that')
+      - [Г.1]{.grey} выбравь лучшего себь барана вь стадь \
+             ('having chosen the best ram for himself in the flock')
+    - [В.1]{.grey} спокойно пастухи барашка потрошать \
+           ('the shepherds were quietly gutting the lamb')
+    - [В.2]{.grey} а псы смирнехонько лежать \
+           ('and the dogs were lying quietly')
+- [А]{.grey} самь молвиль про себя \
+      ('he said to himself')
+  - [Б.3]{.grey} прочь уходя вь досадь [: "какой бы …"]{.grey} \
+         ('walking away in annoyance: …')
+
+::: {.im #buslaev1844_260}
+Structure of subordination of the fable in [@last] as analysed by Buslaev [-@buslaev1844: 260]. The original sentence has a complex centre-embedded structure. The large brackets indicate that this part should be placed internal to the part above it.
+:::
+
 ### Lugebil (1883)
 
 [@lugebil1883: 127-128]
@@ -712,11 +745,24 @@ Info from Tomasz (Ma)ksymil(ian) Majtczak: https://bsky.app/profile/ksymil.bsky.
 
 Konstantin Fedorovich Petrov (1849-1914)
 
-Version from 1898 does not have graphics: https://books.google.de/books?id=h1M5AQAAMAAJ&pg=PA122
+1881 syntax version https://vivaldi.dspl.ru/bx0005325 https://www.prlib.ru/en/node/363131
+1886 etymology version https://vivaldi.dspl.ru/bx0005310
 
-1923: 115 version does have graphic http://e-heritage.ru/Book/10075936
+first edition? Version from 1898 ("Syntax") does not have graphics: https://books.google.de/books?id=h1M5AQAAMAAJ&pg=PA122
 
-other version 1923: 167 with graphic https://www.prlib.ru/item/363130
+1912 (20th edtion, syntax): graphs on p.127 https://google.com/books?id=qsJTzwEACAAJ
+better edition: https://google.com/books?id=08gzAQAAMAAJ
+
+1913 (24th edition, etymology): 77 https://rusneb.ru/catalog/000202_000006_2570896/
+
+1915 (27th edtion): 77 https://imwerden.de/publ-1047
+"PRACTICAL TEXTBOOK OF RUSSIAN GRAMMAR. ETYMOLOGY"
+
+1923: 167 (31st edition)  with graphic https://www.prlib.ru/item/363130
+
+https://www.prlib.ru/en/node/363130#i=5640518_doc1_A22FE1CB-0AC5-435A-AF11-A60467AC2B73.tiff
+
+1923: 115 version (32nd edition) does have graphic http://e-heritage.ru/Book/10075936, reprint 1928 as 32nd edtion
 
 [@thummel1993: 171] cites a version from 1906: 127
 
@@ -740,6 +786,8 @@ see also 4th edition 1982, p. 311-317 https://archive.org/details/derdeutschespr
 
 - Barkhudarov and Princip (1930)
 - Krjučkov and Svetlïev (1936). The Grammar. Moscow. pp. 6–7
+- Beskrovny, Andrey Efimovich (1940: 14): https://www.prlib.ru/en/node/337185
+- Peshkovsky, Alexander Matveyevich (1878-1933), (1914: 293-294) https://www.prlib.ru/en/node/363105
 
 ## Chinese
 
