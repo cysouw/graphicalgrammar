@@ -706,12 +706,12 @@ Info from Tomasz (Ma)ksymil(ian) Majtczak: https://bsky.app/profile/ksymil.bsky.
 
 ### Buslaev (1844) *О преподавании отечественного языка*
 
-Fedor Ivanovich Buslaev (1818-1897) was professor for Russian linguistics in Moscow. He was strongly influenced by the German tradition of historical linguistics, specifically by Jacob Grimm.^[Some basic biographical information is available on Wikipedia <https://en.wikipedia.org/wiki/Fyodor_Buslaev>, accessed 20 February 2025.]
+Fedor Ivanovich Buslaev (1818-1897) was professor for Russian linguistics in Moscow.^[Some basic biographical information is available on Wikipedia <https://en.wikipedia.org/wiki/Fyodor_Buslaev>, accessed 20 February 2025.] He was strongly influenced by the German linguistic tradition and cites broadly throughout the German literature. Although he does not explicity cite any influence for his graphical approach, he might have been inspired by Diesterweg (see [@sec:diesterweg1830]) and Mager (see [@sec:mager1842]), both of which are cited recurrently by Buslaev.
 
 In his book *О преподавании отечественного языка* ('On the teaching of the native language') he discusses the analysis of large sentences with multiple subordinate clauses [@buslaev1844: 260]. As an example he give an analysis of a fable [@next] by using a graphical structure with large horizontal braces, as shown in [@fig:buslaev1844_260]. The original structure of this sentence has a lot of clausal centre-embedding. This is indicated in the graphical analysis by the braces, indicating the insertion point of the subordinate clause.
 
 ::: ex
-Krylov's Fable *The wolf and the shepherds*, cited in Buslaev [-@buslaev1844: 260]
+Krylov's fable *The wolf and the shepherds*, cited in Buslaev [-@buslaev1844: 260]
 :::
 
 - [А]{.grey} Волкь \
@@ -722,15 +722,15 @@ Krylov's Fable *The wolf and the shepherds*, cited in Buslaev [-@buslaev1844: 26
          ('and seeing through the fence')
     - [В.1]{.grey} что \
            ('that')
-      - [Г.1]{.grey} выбравь лучшего себь барана вь стадь \
-             ('having chosen the best ram for himself in the flock')
+      - [Г.1]{.grey} выбравь лучшего себе барана вь стаде \
+             ('having chosen himself the best ram in the flock')
     - [В.1]{.grey} спокойно пастухи барашка потрошать \
            ('the shepherds were quietly gutting the lamb')
     - [В.2]{.grey} а псы смирнехонько лежать \
            ('and the dogs were lying quietly')
 - [А]{.grey} самь молвиль про себя \
       ('he said to himself')
-  - [Б.3]{.grey} прочь уходя вь досадь [: "какой бы …"]{.grey} \
+  - [Б.3]{.grey} прочь уходя вь досаде [: "какой бы …"]{.grey} \
          ('walking away in annoyance: …')
 
 ::: {.im #buslaev1844_260}
@@ -776,6 +776,8 @@ volume 2, 15th edition: [@usakov1930: 25-28]
 
 => 3rd part, pp. 6–7, and 4th part, p. 5
 
+nothing in https://www.prlib.ru/en/node/341406
+
 ### Admoni (1961) *Partiturnoje strojenije*
 
 Admoni: Partiturnoje strojenije recevoj cepi i sistema grammaticeskich znacenij ν predlo/.enii [Die „Partitur"-Struktur der Redekette und das System grammatischer Bedeutungen im Satz]. In: Naucnyje doklady vysäej äkoly. Filologiceskije nauki [Wissenschaftliche Beiträge der er Hochschule. Philologische Wissenschaften]. 1961, H° 3. - 253, 272, 278, 288
@@ -784,10 +786,12 @@ see also 4th edition 1982, p. 311-317 https://archive.org/details/derdeutschespr
 
 ### Other Russia
 
+- Peshkovsky, Alexander Matveyevich (1878-1933), (1914: 293-294) https://www.prlib.ru/en/node/363105
+- Zeltser, Sofya Afanasyevna (1925: 68) https://www.prlib.ru/en/node/335800
 - Barkhudarov and Princip (1930)
 - Krjučkov and Svetlïev (1936). The Grammar. Moscow. pp. 6–7
+- Barkhudarov, Stepan Grigorievich (1894-1983). 1940: 7ff. https://www.prlib.ru/en/node/330280
 - Beskrovny, Andrey Efimovich (1940: 14): https://www.prlib.ru/en/node/337185
-- Peshkovsky, Alexander Matveyevich (1878-1933), (1914: 293-294) https://www.prlib.ru/en/node/363105
 
 ## Chinese
 

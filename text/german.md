@@ -590,6 +590,20 @@ The abbreviations that are used in the graphical analysis can be reconstructed f
 Graphical analysis of the example [@last] from Haupt [-@haupt1841: viii]. The internal structure of the six clauses is depicted by hierarchically ordered horizontal braces.
 :::
 
+### Mager (1842) *Deutsches Sprachbuch* {#sec:mager1842}
+
+*Karl* Wilhelm Eduard Mager (1810-1858) was a school teacher and educator. He was a close collaborator of Diesterweg (see [@sec:diesterweg1830]). Among Mager's many books there is also a textbook about German grammar, called *Deutsches Sprachbuch. Anfänge der Grammatik, Onomatik und Sprachkunst* [@mager1842]. In this book he uses a quite elaborate system of graphical syntactic analysis, illustrating his system with many examples [@mager1842: 115-119]. Mager uses multiple visual approaches to illustrate the structure of a sentence, all of which appear to be inspired by Hoffmann (see [@sec:hoffmann1839]), although Hoffmann is not cited by Mager. Mager's analytic system is illustrated here in [@fig:mager1842_118] for the multi-clause sentence [@next].
+
+First, each clause is placed on a separate line. Second, clausal subordination is indicated by indentation, with multiple subordination leading to multiple indentation. Additionally, sometimes vertical lines are added for subordination, but it is not explained when to do this – and the examples given are also inconclusive. Third, he uses arbitrary letters for different kinds of subordination *(a=Attributivsatz, b=Substantivsatz, c=Adverbialsatz)*. Fourth, secondary subordination is indicated with lower-case greek letters *α, β, γ* and third-grade subordination is marked by lower-case Fraktur letters *𝔞, 𝔟, 𝔠*. Fifth, non-finite clauses are indicated by an additional apostrophe. Finally, coordinated clauses have an additional numeral. 
+
+::: ex
+Sein Vater, [a1]{.grey} der ihn herzlich liebte, und [a2]{.grey} Alles aufbot [γ']{.grey} um ihm eine gute Erziehung zu geben, aber doch [a3]{.grey} wenig Freude an ihm erlebte, mußte sich endlich entschließen, [b'1]{.grey} ihn zu einem strengen Lehrherrn zu thun und [b'2]{.grey} diesen zu bitten, [β']{.grey} den Taugenichts in harter Zucht zu halten.
+:::
+
+::: {.im #mager1842_118}
+Analysis of the multi-clause sentence [@last] from Mager [-@mager1842: 118]. His system of analysis seems very close to the approach of Hoffmann (cf. [@fig:hoffmann1839_224]). Each clause is placed on a new line, with indentations indicating the level of subordination. Additionally alphanumeric codes are used to mark the different kinds of clauses. The application of vertical lines appears to be haphazard.
+:::
+
 ### Fürg (1847) *Satz und Styllehre* {#sec:fürg1847}
 
 Johann Baptist Fürg (1802-1864) was a teacher in München. Not much is known about him, except for a glowing necrolog [@heitz1864]. He wrote various small booklets for use in school, among them a four volume grammar *Die deutsche Sprache dargestellt in Aufgaben sammt den nöthigsten Erläuterungen für die Volksschulen Bayerns* [@furg1850]. However, in that work there are no graphical methods used.
