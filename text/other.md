@@ -737,9 +737,26 @@ Krylov's fable *The wolf and the shepherds*, cited in Buslaev [-@buslaev1844: 26
 Structure of subordination of the fable in [@last] as analysed by Buslaev [-@buslaev1844: 260]. The original sentence has a complex centre-embedded structure. The large brackets indicate that this part should be placed internal to the part above it.
 :::
 
-### Lugebil (1883)
+### Lugebil (1883) *Синтаксись Аполлонія Даскола* {#sec:lugebil1883}
 
-[@lugebil1883: 127-128]
+Karl Yakimovich Lugebil (1830-1887) was a classical scholar, teacher and from 1864 professor in St. Petersburg.^[Some basic biographical information is available online at <https://www.biografija.ru/biography/ljugebil-karl-yakimovich.htm>, accessed 22 February 2025.] In a review of a book by Anton Dobiasz about the *Syntax* of Apollonius Dyscolus he uses various graphical syntactic analyses [@lugebil1883: 127-128]. In his review, Lugebil mostly cites German grammatical literature, for example there is a long discussion about the merits of Becker's grammatical ideas (cf. [@sec:becker1829]). Later, in a discussion about different interpretations of copula constructions, Lugebil cites Lehmann (see [@sec:lehmann1833]) and Nägelsbach (see [@sec:nägelsbach1846]) as important proponents of the idea to use graphical representations to explain grammatical structure:
+
+> По этому поводу обращаю вниманіе гг. преподавателей на то, какь важнодля нагляднаго объясненія-прибегать кь графическому изображенію какь отношеній различныхь составныхь частей предложенія другь кь другу, такь и отношеній подчиненія ихь другь другу или сочетанія различныхь предложеній, входящихь вь составь періодовь античной речи. [@lugebil1883: 128, fn. 1]
+> 
+> ('In this regard, I would like to draw the attention of Messrs. teachers to the importance of resorting to a graphic representation for a visual explanation of both the relationships of the various constituent parts of a sentence to each other, as well as the subordinate relationships to each other or the combination of various sentences that make up a period in classical language.')
+
+Lugebil uses a completely different graphical format from Lehmann and Nägelsbach, illustrated here in [@fig:lugebil1883_127]. Crucially, Lugebil uses a system of hierarchical bracketing, which does not appear at this point in time in the German tradition. Lugebil's graphics are used to illustrate two different interpretations of the Latin sentence [@next]. Although this sentence clearly means 'Cicero became consul in that year', Lugebil argues that there is an "older" *(прежній)* interpretation, roughly equivalent to 'Cicero is a consul, installed in that year'. This "older" interpretation is shown to the left in [@fig:lugebil1883_127], while the regular "newer" *(позднійшій)* interpretation is shown to the right.
+
+::: ex
+| Latin [@lugebil1883: 128]
+| Cicero illo anno consul factus est
+| Cicero DEM.ABL year.ABL consul make.PART COP.3SG
+| Cicero became (lit. was made) consul in that year.
+:::
+
+::: {.im #lugebil1883_127}
+Different analyses of the Latin sentence [@last] from Lugebil [-@lugebil1883: 127]. According to Lugebil, the regular "newer" interpretation of this sentence is shown to the right, while the "older" meaning is shown to the left. In this "older" interpretation the sentence would be something like 'Cicero is a consul, installed in that year'.
+:::
 
 ### Petrov (1906) *Русскій язык*
 
