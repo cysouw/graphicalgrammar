@@ -652,7 +652,7 @@ See [@dittrich1902] for a direct following of Wundt in Germany, otherwise nothin
 
 ### Sheffield (1912) *Grammar and thinking* {#sec:sheffield1912}
 
-Alfred Dwight Sheffield [@sheffield1912: 50-51] Grammar and Thinking (citing Wundt prominently) Brittain (1973:204) says “linguists seem to have been unaware of his work”. This is not true!
+Alfred Dwight Sheffield (1871-1961) [@sheffield1912: 50-51] Grammar and Thinking (citing Wundt prominently) Brittain (1973:204) says “linguists seem to have been unaware of his work”. This is not true!
 
 also Alfred Dwight Sheffield [@sheffield1929: 53]
 
