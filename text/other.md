@@ -758,42 +758,89 @@ Lugebil uses a completely different graphical format from Lehmann and Nägelsbac
 Different analyses of the Latin sentence [@last] from Lugebil [-@lugebil1883: 127]. According to Lugebil, the regular "newer" interpretation of this sentence is shown to the right, while the "older" meaning is shown to the left. In this "older" interpretation the sentence would be something like 'Cicero is a consul, installed in that year'.
 :::
 
-### Petrov (1906) *Русскій язык*
+### Petrov (1906) *Русскій язык* {#sec:petrov1906}
 
-Konstantin Fedorovich Petrov (1849-1914)
+Konstantin Fedorovich Petrov (1850-1914) wrote an introductory grammar of Russian, called *Русскій язык* 'Russian language' in 1880. The first volume, called *синтаксис* 'syntax', contains two dependency-like sentence analyses. Petrov also writes a second volume about morphology, called *этимологія* 'etymology', which will not be further discussed here.^[Various editions of the etymology volume are available online: the second edition from 1886 at <https://vivaldi.dspl.ru/bx0005310>, the 24th edition from 1913 at <https://rusneb.ru/catalog/000202_000006_2570896>, the 27th edtion from 1915 at <https://imwerden.de/publ-1047> and the 32nd edition from 1922 (revised by Ushakov after Petrov's death) at <https://www.prlib.ru/en/node/363128>.] These books were popular and appeared in at least 32 editions up to the end of the 1920s.
 
-1881 syntax version https://vivaldi.dspl.ru/bx0005325 https://www.prlib.ru/en/node/363131
-1886 etymology version https://vivaldi.dspl.ru/bx0005310
+In the early editions of the syntax that I have been able to access there is no graphical grammar, neither in the second edition [@petrov1881] not in the eight edition [@petrov1898]. However, a graphical display is added around the turn of the century. Thümmel [-@thummel1993: 171] cites an example from the 12th edition of 1906 and apparently the same graphics (on exactly the same page number, viz. page 127) are also found in the 20th edition, as cited below [@petrov1912: 127]. Petrov adds the graphical analyses to his grammar without any explanation and as a separate page at the end of the book, quite detached from the rest of the grammar. I have not been able to find any indications about what compelled Petrov to add these graphics, nor whether there was any influence from other authors. Petrov uses vertical arrows, which is reminiscent of Beckman (see [@sec:beckman1904]). However, the details differ substantially between Beckman's and Petrov's approach, specifically the arrows are pointing in opposite directions.
 
-first edition? Version from 1898 ("Syntax") does not have graphics: https://books.google.de/books?id=h1M5AQAAMAAJ&pg=PA122
+Petrov's analysis of a single-clause sentence from Pushkin [@next] is shown in [@fig:petrov1912_127a]. This graphic has the subject *полоса* 'stripe' and predicate *объемлетъ* 'include' on top. The dependents are placed below linked by arrows. However, the two lower arrows are quite unusual, because they link the words at the bottom to the words in the middle, but that does not reflect the meaning of the sentence. To the left, the adjective *багряной* 'red' modifies *полоса* 'stripe' and not *зари* 'dawn'. Likewise to the right, the object *небеса* 'sky' should be linked directly to the predicate *объемлетъ* 'include' and not the the adverb *ярко* 'brightly'.
 
-1912 (20th edtion, syntax): graphs on p.127 https://google.com/books?id=qsJTzwEACAAJ
-better edition: https://google.com/books?id=08gzAQAAMAAJ
+::: ex
+| Russian [@petrov1912: 127, citing from a poem of Pushkin]
+| Зари багряной полоса объемлетъ ярко небеса
+| dawn red stripe include brightly sky
+| The red stripe of dawn brightly embraces the sky.
+:::
 
-1913 (24th edition, etymology): 77 https://rusneb.ru/catalog/000202_000006_2570896/
+::: {.im #petrov1912_127a}
+Analysis of a single-clause sentence [@last] from Petrov [-@petrov1912: 127]. It looks like a typical analysis found in the German literature around this time, with subject and predicate on top and dependents linked below. However, the subsequent linking of the words on the bottom seems to be wrong: they should be linked directly to the words on top and not to the words in the middle.
+:::
 
-1915 (27th edtion): 77 https://imwerden.de/publ-1047
-"PRACTICAL TEXTBOOK OF RUSSIAN GRAMMAR. ETYMOLOGY"
+Petrov also presents an analysis of a multi-clause sentence [@next] as shown in [@fig:petrov1912_127b]. This sentence is from a fable by Igor Dmitriev and it is shown in [@next] in the original clause order. Note that, strictly speaking, [@next b,d] are phrases, not clauses. In this analysis Petrov uses the arrows to show the relationship between the different clauses, like in a *Periodenbild* in the German tradition. The positioning of the arrows quite deliberately appears to start at the exact word that governs the subordinate element.
 
-1923: 167 (31st edition)  with graphic https://www.prlib.ru/item/363130
+::: ex
+-
+| (linked to *бѣжать* 'run' in (c) as *когда?* 'when' )
+| Оставя нашу нору и перебравшись черезъ гору,
+| leave our hole and move across mountain
+| Leaving our hole and crossing the mountain,
+-
+| (linked to *гору* 'mountain' in (a) as *прилож(еніе)* 'apposition')
+| границу нашихъ странъ, 
+| boundary our country
+| the border of our country,
+-
+| (main clause on top)
+| пустился я бѣжать, 
+| start I run
+| I started running,
+-
+| (linked to *бѣжать* 'run' in (c) as *какъ?* 'how')
+| какъ молодой мышенокъ,
+| like young little.mouse
+| like a young mouse,
+-
+| (linked to *мышенокъ* 'mouse' in (d) as *какой?* 'which')
+| который хочеть показать, 
+| who want show
+| who wants to show
+-
+| (linked to *показать* 'show' in (e) as *что?* 'what')
+| что онъ ужъ не ребенокъ.
+| what he really not child
+| that he is no longer a child.
+:::
 
-https://www.prlib.ru/en/node/363130#i=5640518_doc1_A22FE1CB-0AC5-435A-AF11-A60467AC2B73.tiff
+::: {.im #petrov1912_127b}
+Analysis of a multi-clause sentence [@last] from Petrov [@petrov1912: 127]. The arrows are positioned starting at the word that is modified by the subsequent clause. The left-right placement of the clauses suggests the actual order of the clauses in the sentence.
+:::
 
-1923: 115 version (32nd edition) does have graphic http://e-heritage.ru/Book/10075936, reprint 1928 as 32nd edtion
+After the death of Petrov the books are updated by Ušakov (see [@sec:ušakov1926]). He makes a few minor changes to the graphical display as well. First, Ušakov updates the Russian orthography. More interestingly, he reverses one arrow in the analysis of the multi-clause sentence. The new display is shown in [@fig:petrov1923_167b]. Ušakov reverses the arrow to the first subordinate clause, viz. the arrow marked *когда?* 'when?' now points upwards. The effect of this change is that the arrows can now be read as indicating the order in which the elements occur in the original sentence. I also found a 32nd edition with apparently the same content, but a different page-layout, in which also an arrow in the first graphic from [@fig:petrov1912_127a] is changed [@petrov1923a: 115]. This change does not make any sense to me. 
 
-[@thummel1993: 171] cites a version from 1906: 127
+::: {.im #petrov1923_167b}
+The same analysis of [@last] as shown in [@fig:petrov1912_127b] from the grammar by Petrov in the revision by Ushakov [-@petrov1923: 167]. The graphic is basically the same, though Ušakov updated the Russian orthography and, curiously, he reversed the direction of the arrow for the inital subordinate clause (marked *когда?* 'when'). Instead of pointing to the dependents, the arrows now seem to indicate the ordering of the clauses in the original sentence.
+:::
 
-### Ušakov (1930) *Учебная книга по русскому языку*
+### Ušakov (1926) *Учебная книга по русскому языку* {#sec:ušakov1926}
 
-Ušakov, Dmitrij Nikolajevič https://www.prlib.ru/en/history/618974
+Dmitrij Nikolajevič Ušakov, https://www.prlib.ru/en/history/618974
 Smirnova, A. M
 Ščepetova, Nina Nikolajevna
 
-volume 2, 15th edition: [@usakov1930: 25-28]
+1925: nothing in https://www.prlib.ru/en/node/341406 and https://www.prlib.ru/en/node/341405
 
+Russian language: a workbook for preparation to the university (1928: p29, 33-34, 79, 138, 167-168) https://www.prlib.ru/en/node/363134
+
+(1930) *Учебная книга по русскому языку*
+volume 2, 15th edition: [@usakov1930: 25-28]
 => 3rd part, pp. 6–7, and 4th part, p. 5
 
-nothing in https://www.prlib.ru/en/node/341406
+probably from around 1925!
+
+1926: https://rusneb.ru/catalog/000199_000009_009041739/
+1927: https://rusneb.ru/catalog/000199_000009_009075097/
+
 
 ### Admoni (1961) *Partiturnoje strojenije*
 
@@ -809,6 +856,10 @@ see also 4th edition 1982, p. 311-317 https://archive.org/details/derdeutschespr
 - Krjučkov and Svetlïev (1936). The Grammar. Moscow. pp. 6–7
 - Barkhudarov, Stepan Grigorievich (1894-1983). 1940: 7ff. https://www.prlib.ru/en/node/330280
 - Beskrovny, Andrey Efimovich (1940: 14): https://www.prlib.ru/en/node/337185
+
+## Lithuanian
+
+https://journals.lki.lt/bendrinekalba/article/view/2210
 
 ## Chinese
 
