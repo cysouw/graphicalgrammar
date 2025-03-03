@@ -780,32 +780,32 @@ Analysis of a single-clause sentence [@last] from Petrov [-@petrov1912: 127]. It
 Petrov also presents an analysis of a multi-clause sentence [@next] as shown in [@fig:petrov1912_127b]. This sentence is from a fable by Igor Dmitriev and it is shown in [@next] in the original clause order. Note that, strictly speaking, [@next b,d] are phrases, not clauses. In this analysis Petrov uses the arrows to show the relationship between the different clauses, like in a *Periodenbild* in the German tradition. The positioning of the arrows quite deliberately appears to start at the exact word that governs the subordinate element.
 
 ::: ex
--
+a.
 | (linked to *бѣжать* 'run' in (c) as *когда?* 'when' )
 | Оставя нашу нору и перебравшись черезъ гору,
 | leave our hole and move across mountain
 | Leaving our hole and crossing the mountain,
--
+b.
 | (linked to *гору* 'mountain' in (a) as *прилож(еніе)* 'apposition')
 | границу нашихъ странъ, 
 | boundary our country
 | the border of our country,
--
+c.
 | (main clause on top)
 | пустился я бѣжать, 
 | start I run
 | I started running,
--
+d.
 | (linked to *бѣжать* 'run' in (c) as *какъ?* 'how')
 | какъ молодой мышенокъ,
 | like young little.mouse
 | like a young mouse,
--
+e.
 | (linked to *мышенокъ* 'mouse' in (d) as *какой?* 'which')
 | который хочеть показать, 
 | who want show
 | who wants to show
--
+f.
 | (linked to *показать* 'show' in (e) as *что?* 'what')
 | что онъ ужъ не ребенокъ.
 | what he really not child
@@ -816,11 +816,19 @@ Petrov also presents an analysis of a multi-clause sentence [@next] as shown in 
 Analysis of a multi-clause sentence [@last] from Petrov [@petrov1912: 127]. The arrows are positioned starting at the word that is modified by the subsequent clause. The left-right placement of the clauses suggests the actual order of the clauses in the sentence.
 :::
 
-After the death of Petrov the books are updated by Ušakov (see [@sec:ušakov1926]). He makes a few minor changes to the graphical display as well. First, Ušakov updates the Russian orthography. More interestingly, he reverses one arrow in the analysis of the multi-clause sentence. The new display is shown in [@fig:petrov1923_167b]. Ušakov reverses the arrow to the first subordinate clause, viz. the arrow marked *когда?* 'when?' now points upwards. The effect of this change is that the arrows can now be read as indicating the order in which the elements occur in the original sentence. I also found a 32nd edition with apparently the same content, but a different page-layout, in which also an arrow in the first graphic from [@fig:petrov1912_127a] is changed [@petrov1923a: 115]. This change does not make any sense to me. 
+After the death of Petrov the books are updated by Ušakov (see [@sec:ušakov1926]). He makes a few minor changes to the graphical display as well [@petrov1923: 167]. First, Ušakov updates the Russian orthography. More interestingly, he reverses one arrow in the analysis of the multi-clause sentence. The new display is shown in [@fig:petrov1923_167b]. Ušakov reverses the arrow to the first subordinate clause, viz. the arrow marked *когда?* 'when?' now points upwards. The effect of this change is that the arrows can now be read as indicating the order in which the elements occur in the original sentence. I also found a 32nd edition with apparently the same content, but a different page-layout, in which also an arrow in the first graphic from [@fig:petrov1912_127a] is changed [@petrov1923a: 115]. This change does not make any sense to me. 
 
 ::: {.im #petrov1923_167b}
 The same analysis of [@last] as shown in [@fig:petrov1912_127b] from the grammar by Petrov in the revision by Ushakov [-@petrov1923: 167]. The graphic is basically the same, though Ušakov updated the Russian orthography and, curiously, he reversed the direction of the arrow for the inital subordinate clause (marked *когда?* 'when'). Instead of pointing to the dependents, the arrows now seem to indicate the ordering of the clauses in the original sentence.
 :::
+
+### Peshkovsky (1914)
+
+Peshkovsky, Alexander Matveyevich (1878-1933), (1914: 293-294) https://www.prlib.ru/en/node/363105
+
+### Zeltser (1925)
+
+Zeltser, Sofya Afanasyevna (1925: 68) https://www.prlib.ru/en/node/335800
 
 ### Ušakov (1926) *Учебная книга по русскому языку* {#sec:ušakov1926}
 
@@ -841,6 +849,13 @@ probably from around 1925!
 1926: https://rusneb.ru/catalog/000199_000009_009041739/
 1927: https://rusneb.ru/catalog/000199_000009_009075097/
 
+### Barkhudarov (1940)
+
+Barkhudarov, Stepan Grigorievich (1894-1983). 1940: 7ff. https://www.prlib.ru/en/node/330280
+
+### Beskrovny (1940)
+
+Beskrovny, Andrey Efimovich (1940: 14): https://www.prlib.ru/en/node/337185
 
 ### Admoni (1961) *Partiturnoje strojenije*
 
@@ -850,12 +865,8 @@ see also 4th edition 1982, p. 311-317 https://archive.org/details/derdeutschespr
 
 ### Other Russia
 
-- Peshkovsky, Alexander Matveyevich (1878-1933), (1914: 293-294) https://www.prlib.ru/en/node/363105
-- Zeltser, Sofya Afanasyevna (1925: 68) https://www.prlib.ru/en/node/335800
 - Barkhudarov and Princip (1930)
 - Krjučkov and Svetlïev (1936). The Grammar. Moscow. pp. 6–7
-- Barkhudarov, Stepan Grigorievich (1894-1983). 1940: 7ff. https://www.prlib.ru/en/node/330280
-- Beskrovny, Andrey Efimovich (1940: 14): https://www.prlib.ru/en/node/337185
 
 ## Lithuanian
 
