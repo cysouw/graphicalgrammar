@@ -706,7 +706,7 @@ Info from Tomasz (Ma)ksymil(ian) Majtczak: https://bsky.app/profile/ksymil.bsky.
 
 ### Buslaev (1844) *О преподавании отечественного языка*
 
-Fedor Ivanovich Buslaev (1818-1897) was professor for Russian linguistics in Moscow.^[Some basic biographical information is available on Wikipedia <https://en.wikipedia.org/wiki/Fyodor_Buslaev>, accessed 20 February 2025.] He was strongly influenced by the German linguistic tradition and cites broadly throughout the German literature. Although he does not explicity cite any influence for his graphical approach, he might have been inspired by Diesterweg (see [@sec:diesterweg1830]) and Mager (see [@sec:mager1842]), both of which are cited recurrently by Buslaev.
+Fedor Ivanovich Buslaev (1818-1897) was professor for Russian linguistics in Moscow.^[Some basic biographical information is available on Wikipedia <https://en.wikipedia.org/wiki/Fyodor_Buslaev>, accessed 20 February 2025.] He was strongly influenced by the German linguistic tradition and cites broadly throughout the German literature. Although he does not explicity cite any influence for his graphical approach, he might have been inspired by Diesterweg (see [@sec:diesterweg1830]) and Mager (see [@sec:mager1840]), both of which are cited recurrently by Buslaev.
 
 In his book *О преподавании отечественного языка* ('On the teaching of the native language') he discusses the analysis of large sentences with multiple subordinate clauses [@buslaev1844: 260]. As an example he give an analysis of a fable [@next] by using a graphical structure with large horizontal braces, as shown in [@fig:buslaev1844_260]. The original structure of this sentence has a lot of clausal centre-embedding. This is indicated in the graphical analysis by the braces, indicating the insertion point of the subordinate clause.
 
@@ -822,9 +822,42 @@ After the death of Petrov the books are updated by Ušakov (see [@sec:ušakov192
 The same analysis of [@last] as shown in [@fig:petrov1912_127b] from the grammar by Petrov in the revision by Ushakov [-@petrov1923: 167]. The graphic is basically the same, though Ušakov updated the Russian orthography and, curiously, he reversed the direction of the arrow for the inital subordinate clause (marked *когда?* 'when'). Instead of pointing to the dependents, the arrows now seem to indicate the ordering of the clauses in the original sentence.
 :::
 
-### Peshkovsky (1914)
+### Peshkovsky (1914) *Русскій синтаксисъ*
 
-Peshkovsky, Alexander Matveyevich (1878-1933), (1914: 293-294) https://www.prlib.ru/en/node/363105
+Alexander Matveyevich Peshkovsky (1878-1933) 'Russian syntax' [@peshkovsky1914: 293-294] thanks Ušakov [@peshkovsky1914: iii]
+
+Discussing conjunctions, he uses graphics without much explanation
+
+::: ex
+a.
+|
+| куплю столь и стуль
+| buy.1SG table and chair
+| I buy a table and a chair.
+b.
+|
+| куплю столь или стуль 
+| buy.1SG table or chair
+| I buy a table or a chair.
+c.
+|
+| куплю не столь а стуль
+| buy.1SG not table but chair
+| I do not buy a table but a chair.
+d.
+|
+| столь маль а тяжель 
+| table small but heavy
+| a small but heavy table
+:::
+
+::: {.im #peshkovsky1914_293}
+[@peshkovsky1914: 293]
+:::
+
+::: {.im #peshkovsky1914_294}
+[@peshkovsky1914: 294]
+:::
 
 ### Zeltser (1925)
 
@@ -832,7 +865,7 @@ Zeltser, Sofya Afanasyevna (1925: 68) https://www.prlib.ru/en/node/335800
 
 ### Ušakov (1926) *Учебная книга по русскому языку* {#sec:ušakov1926}
 
-Dmitrij Nikolajevič Ušakov, https://www.prlib.ru/en/history/618974
+Dmitrij Nikolajevič Ušakov (1873-1942), https://www.prlib.ru/en/history/618974
 Smirnova, A. M
 Ščepetova, Nina Nikolajevna
 

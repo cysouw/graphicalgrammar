@@ -544,6 +544,41 @@ The use of letters in different typefaces is clearly inspired by Lehmann (see [@
 
 In summary, Hoffmann tried to expand the proposals from Billroth by applying the grammatical line-graphics to subordinate clauses. Although his system is not well documented in his writings, it is comprehensible enough the be understood by experienced linguists. It has inspired Bauer (see [@sec:bauer1850]) and Kern ([@sec:kern1883]) to further develop the idea of line-based gramatical analyses.
 
+### Mager (1840) *Französisches Sprachbuch* {#sec:mager1840}
+
+*Karl* Wilhelm Eduard Mager (1810-1858) was a school teacher and educator. He was a close collaborator of Diesterweg (see [@sec:diesterweg1830]). Some basic biographical information is provided by Kronen [-@kronen1987].
+
+Early in his career, Mager wrote a French textbook that includes graphical grammar [@mager1840: 249-253], revised in the fourth edition [@mager1847: 316-322]. Exactly the same edition is reprinted at least up to the seventh edition [@mager1854: 316-322]. 
+
+Exactly the same system that was used for German multi-clause sentences is used here for French sentences, like [@next a] analysed in [@fig:mager1847_319]. This example is a quotation from the *Sermon pour le premier dimanche de carême* of Jean-Baptiste Massillon. However, the precise formulation of the quotation indicates that this example is not quoted directly from Massillon, but indirectly from the *Cours d'études* of Étienne Bonnot de Condillac. Remarkably, Condillac cites this example as *une période qui n'est pas si bein faite, parce qu'il y a trop de propositions incidentes dans le premier membre* 'a period that is not so well constructed, because there are too many auxiliary propositions in the first member' [@condillac1775: 87-88]. Mager just notes that *[…] Regeln über Richtigkeit, Deutlichkeit, Schönheit u.s.w. der Perioden hier nicht am Orte sind* 'rules about correctness, clarity, beauty, etc. of the periods are not at issue here' [@mager1840: 250].
+
+Mager uses multiple visual clues to illustrate the structure of a sentence, many of which appear to be inspired by Lehmann (see [@sec:lehmann1833]) and Hoffmann (see [@sec:hoffmann1839]), neither of whom are cited by Mager. Mager's analytic system is illustrated here in [@fig:mager1842_118] for the multi-clause sentence [@next].
+
+First, each clause is placed on a separate line. Second, clausal subordination is indicated by indentation, with multiple subordination leading to multiple indentation. Additionally, sometimes vertical lines are added for subordination, but it is not explained when to do this – and the examples given are also inconclusive. Third, he uses arbitrary letters for different kinds of subordination *(a=Attributivsatz, b=Substantivsatz, c=Adverbialsatz)*. Fourth, secondary subordination is indicated with lower-case greek letters *αβγ* and third-grade subordination is marked by lower-case Fraktur letters *𝔞𝔟𝔠*. Fifth, non-finite clauses are indicated by an additional apostrophe. Finally, coordinated clauses have an additional numeral. 
+
+::: ex
+- [A]{.grey} Souvenez-vous de ce jeune roi de Juda [a1]{.grey} qui, [γ]{.grey} pour avoir préféré les avis d'une jeunesse inconsidérée à la sagesse et à la maturité de ceux [𝔞1]{.grey} aux conseils desquels Salomon son père étoit redevable de la gloire et de la prospérité de son règne, [𝔞2]{.grey} et qui lui conseilloient d'affermir les commencements du sien par le soulagement des ses peuples, [a1 continued]{.grey} vit un nouveau royaume se former des débris de celui de Juda [a2]{.grey} et qui, [γ]{.grey} pour avoir voulu exiger de ses sujets au delà de [𝔟]{.grey} ce qu'ils lui devaient, [a2 continued]{.grey} perdit leur amour et leur fidélité [α]{.grey} qui lui étaient dûs.
+- [A]{.grey} Remember that young king of Judah [a1]{.grey} who, [γ]{.grey} for having preferred the advice of a thoughtless youth above the wisdom and maturity of those [𝔞1]{.grey} to whose counsel Solomon, his father, was indebted for the glory and prosperity of his reign, [𝔞2]{.grey} and who advised him to strengthen his own start by the relief of his people, [a1 continued]{.grey} saw a new kingdom formed from the ruins of that of Judah [a2]{.grey} and who, [γ]{.grey} for having wanted to demand from his subjects beyond [𝔟]{.grey} what they owed him, [a2 continued]{.grey} lost their love and their fidelity [α]{.grey} which were due to him.
+:::
+
+::: {.im #mager1840_251}
+Analysis of [@last a] by Mager [-@mager1840: 251], a quotation from Massillon, probably cited after Condillac.
+:::
+
+::: {.im #mager1847_319}
+The same analysis as [@fig:mager1840_251] from the revision by Mager [-@mager1847: 319]. Note that the bracket for *a1* is a bit too short: it should have been extended two lines further down. Also non-finite clauses now are indicated by an apostrophe (cf. *γ'*).
+:::
+
+Two years after the French textbook, Mager also wrote a similar textbook about German grammar, called *Deutsches Sprachbuch. Anfänge der Grammatik, Onomatik und Sprachkunst* [@mager1842]. In this book he uses a slightly different graphical approach (though based on the same principles) for the analysis for complex sentences, illustrating his system with many examples [@mager1842: 115-119].
+
+::: ex
+Sein Vater, [a1]{.grey} der ihn herzlich liebte, und [a2]{.grey} Alles aufbot [γ']{.grey} um ihm eine gute Erziehung zu geben, aber doch [a3]{.grey} wenig Freude an ihm erlebte, mußte sich endlich entschließen, [b'1]{.grey} ihn zu einem strengen Lehrherrn zu thun und [b'2]{.grey} diesen zu bitten, [β']{.grey} den Taugenichts in harter Zucht zu halten.
+:::
+
+::: {.im #mager1842_118}
+Analysis of the multi-clause sentence [@last] from Mager [-@mager1842: 118]. His system of analysis seems very close to the approach of Hoffmann (cf. [@fig:hoffmann1839_224]). Each clause is placed on a new line, with indentations indicating the level of subordination. Additionally alphanumeric codes are used to mark the different kinds of clauses. The application of vertical lines appears to be haphazard.
+:::
+
 ### Rinne (1840) *Die Lehre vom deutschen Stile* {#sec:rinne1840}
 
 Karl Johann Friedrich Rinne (1802-1887) was a teacher in Erfurt and Zeitz. He wrote various textbooks including *Die deutsche Grammatik* in 1836. This textbook is an introduction to the latest developments in historical comparative grammar written specifically "for teachers and all those, who want to become acquainted with the contemporary position of this science" (*für Lehrer und für alle, welche sich mit dem gegenwärte Standpunkte dieser Wissenschaft vertraut machen wollen*). However, this textbook does not have any graphical grammatical analyses.
@@ -588,31 +623,6 @@ The abbreviations that are used in the graphical analysis can be reconstructed f
 
 ::: {.im #haupt1841_viii}
 Graphical analysis of the example [@last] from Haupt [-@haupt1841: viii]. The internal structure of the six clauses is depicted by hierarchically ordered horizontal braces.
-:::
-
-### Mager (1842) *Deutsches Sprachbuch* {#sec:mager1842}
-
-*Karl* Wilhelm Eduard Mager (1810-1858) was a school teacher and educator. He was a close collaborator of Diesterweg (see [@sec:diesterweg1830]). Among Mager's many works there is also a textbook about German grammar, called *Deutsches Sprachbuch. Anfänge der Grammatik, Onomatik und Sprachkunst* [@mager1842]. In this book he uses a quite elaborate system of graphical syntactic analysis for complex sentences, illustrating his system with many examples [@mager1842: 115-119]. Mager uses multiple visual clues to illustrate the structure of a sentence, many of which appear to be inspired by Hoffmann (see [@sec:hoffmann1839]), although Hoffmann is not cited by Mager. Mager's analytic system is illustrated here in [@fig:mager1842_118] for the multi-clause sentence [@next].
-
-First, each clause is placed on a separate line. Second, clausal subordination is indicated by indentation, with multiple subordination leading to multiple indentation. Additionally, sometimes vertical lines are added for subordination, but it is not explained when to do this – and the examples given are also inconclusive. Third, he uses arbitrary letters for different kinds of subordination *(a=Attributivsatz, b=Substantivsatz, c=Adverbialsatz)*. Fourth, secondary subordination is indicated with lower-case greek letters *αβγ* and third-grade subordination is marked by lower-case Fraktur letters *𝔞𝔟𝔠*. Fifth, non-finite clauses are indicated by an additional apostrophe. Finally, coordinated clauses have an additional numeral. 
-
-::: ex
-Sein Vater, [a1]{.grey} der ihn herzlich liebte, und [a2]{.grey} Alles aufbot [γ']{.grey} um ihm eine gute Erziehung zu geben, aber doch [a3]{.grey} wenig Freude an ihm erlebte, mußte sich endlich entschließen, [b'1]{.grey} ihn zu einem strengen Lehrherrn zu thun und [b'2]{.grey} diesen zu bitten, [β']{.grey} den Taugenichts in harter Zucht zu halten.
-:::
-
-::: {.im #mager1842_118}
-Analysis of the multi-clause sentence [@last] from Mager [-@mager1842: 118]. His system of analysis seems very close to the approach of Hoffmann (cf. [@fig:hoffmann1839_224]). Each clause is placed on a new line, with indentations indicating the level of subordination. Additionally alphanumeric codes are used to mark the different kinds of clauses. The application of vertical lines appears to be haphazard.
-:::
-
-Before the German textbook, Mager already wrote a French textbook, originally published 1840, but cited here from fourth edition [@mager1847: 316-322]. Exactly the same edition is reprinted at least up to the seventh edition [@mager1854: 316-322]. Exactly the same system that was used for German multi-clause sentences is used here for French sentences, like [@next a] analysed in [@fig:mager1847_319]. This example is a quotation from the *Sermon pour le premier dimanche de carême* of Jean-Baptiste Massillon. However, the precise formulation of the quotation indicates that this example is not quoted directly from Massillon, but indirectly from the *Cours d'études* of Étienne Bonnot de Condillac. Remarkably, Condillac cites this example as *une période qui n'est pas si bein faite, parce qu'il y a trop de propositions incidentes dans le premier membre* 'a period that is not so well constructed, because there are too many auxiliary propositions in the first member' [@condillac1775: 87-88].
-
-::: ex
-- Souvenez-vous de ce jeune roi de Juda [a1]{.grey} qui, [γ']{.grey} pour avoir préféré les avis d'une jeunesse inconsidérée à la sagesse et à la maturité de ceux [𝔞1]{.grey} aux conseils desquels Salomon son père étoit redevable de la gloire et de la prospérité de son règne, [𝔞2]{.grey} et qui lui conseilloient d'affermir les commencements du sien par le soulagement des ses peuples, [a1 cont.]{.grey} vit un nouveau royaume se former des débris de celui de Juda [a2]{.grey} et qui, [γ]{.grey} pour avoir voulu exiger de ses sujets au delà de [𝔟]{.grey} ce qu'ils lui devaient, [a2 cont.]{.grey} perdit leur amour et leur fidélité [α]{.grey} qui lui étaient dûs.
-- Remember that young king of Judah [a1]{.grey} who, [γ']{.grey} for having preferred the advice of a thoughtless youth above the wisdom and maturity of those [𝔞1]{.grey} to whose counsel Solomon, his father, was indebted for the glory and prosperity of his reign, [𝔞2]{.grey} and who advised him to strengthen his own start by the relief of his people, [a1 cont.]{.grey} saw a new kingdom formed from the ruins of that of Judah [a2]{.grey} and who, [γ]{.grey} for having wanted to demand from his subjects beyond [𝔟]{.grey} what they owed him, [a2 cont.]{.grey} lost their love and their fidelity [α]{.grey} which were due to him.
-:::
-
-::: {.im #mager1847_319}
-Analysis of [@last a], a quotation from Massillon, probably cited after Condillac by Mager [-@mager1847: 319]. Note that the bracket for *a1* is a bit too short: it should have been extended two lines further down.
 :::
 
 ### Fürg (1847) *Satz und Styllehre* {#sec:fürg1847}
@@ -1200,6 +1210,17 @@ Als der Graf von Strassberg, welcher über den Brünig ins Unterwaldnerland eing
 *Satzbild* for the examples sentence in [@last] from Utzinger [-@utzinger1887: 122]. He follows the tradition to use capital letters for the main clause and lower-case letters for subordinate clauses. Depth of embedding is indicated by subscript numbers. It is actually unclear why only the lower-case letters *a* and *b* are used here. The two parts marked *a~1~* are two parts of the same clause, separated by a different clause marked *a~2~.* The two *b* clauses are different clauses. It seems more consistent to write: *a~1~ b~2~ a~1~ A c~1~ d~2~* or something like that.
 :::
 
+### Wilke (1892) *Das vereinfachte grammatische System* {#sec:wilke1892}
+
+Edwin Wilke (1861-) Rektor in Ratzebuhr (now Okonek in Poland), Quedlinburg in 1899, Coeslin 1890. Follower of Diesterweg: https://books.google.de/books?vid=OSU:32435007786817
+
+- "Sprachhefte für Volksschulen" 1st edition 1896 - 14th edtion 1921. nothing in <https://nbn-resolving.org/urn:nbn:de:101:1-201707099117>
+- 1923: Moegelin, Johannes: Sprachhefte für die neue deutsche Volksschule (after death Wilke?)
+
+::: {.im #wilke1892_465}
+[@wilke1892: 465]
+:::
+
 ### Kuderna (1895) *Das Satzbild in seiner Anwendung* {#sec:kuderna1985}
 
 Béla Kuderna (1846-1915) was a captian (*Hauptmann*) in the Austrian army and teacher for German language and style at the *Infanterie-Cadetenschule* in Vienna, Austria. In 1893 he wrote a short article on teaching German, called *Sprachliches Mahnwort* [@kuderna1893]. This article includes two mostly unexplained examples of *Satzbilder* as he used them in his classes [@kuderna1893: 268-269]. Shortly afterwards he published a complete booklet about his approach to graphically analyse sentences, called *Das Satzbild in seiner Anwendung für die Lehre vom Satze* [@kuderna1895]. This book goes into great detail explaining his approach, including numerous practical examples.
@@ -1559,7 +1580,7 @@ Flothuis' *Satzbild* for the example in [@next] is shown in [@fig:flothuis1930_1
 
 ### Wollmann (1935) *Deutsche Sprachkunde* {#sec:wollmann1935}
 
-Franz Wollmann (1871-1961) was director of the teacher's seminary in Krems and later in Vienna (Austria).^[Basic biographical information is available on Wikipedia at <https://de.wikipedia.org/wiki/Franz_Wollmann>, accessed 11 February 2025. The list of publications on Wikipedia does not correspond to entries in various library catalogues that I checked.] He co-authored various textbooks with *Sprachübungen* 'language exercises' for teaching German. This series of textbooks was initiated by Bernhard Merth (1864-1922).^[Some basic biographical information on Bernhard Merth is available online at <https://www.biographien.ac.at/oebl/oebl_M/Merth_Bernhard_1864_1922.xml>.] There are many different editions with numerous different booklets for different grades in this series. The many editions are in need of a more detailed investigation [an early example without graphical grammar is @merth1909].
+Franz Wollmann (1871-1961) was director of the teacher's seminary in Krems and later in Vienna (Austria).^[Basic biographical information is available on Wikipedia at <https://de.wikipedia.org/wiki/Franz_Wollmann>, accessed 11 February 2025. The list of publications on Wikipedia does not correspond to entries in various library catalogues that I checked.] Early in his career he wrote a small booklet *Der deutsche Sprachunterricht* [@wollmann1902] in which he cites the *Satzbilder* of Kern (see [@sec:kern1883]), Wilke (see [@sec:wilke1892]) and Trunk (see [@sec:trunk1895]), but he does not give any examples himself [@wollmann1902: 32, 55-56]. Later, he co-authored various textbooks with *Sprachübungen* 'language exercises' for teaching German. This series of textbooks was initiated by Bernhard Merth (1864-1922).^[Some basic biographical information on Bernhard Merth is available online at <https://www.biographien.ac.at/oebl/oebl_M/Merth_Bernhard_1864_1922.xml>.] There are many different editions with numerous different booklets for different grades in this series. The many editions are in need of a more detailed investigation [an early example without graphical grammar is @merth1909].
 
 Towards the end of his active career, Wollmann wrote the *Deutsche Sprachkunde auf sprachgeschichtlicher Grundlage* [@wollmann1935], which appeared mostly unchanged in various editions at least up to a seventh edition in 1963. In this book he applies various different methods for visual syntactic analysis. First, clause-internal structure is visualised using a dependency tree as shown in [@fig:wollmann1935_15] for the examples sentence [@next a].
 
