@@ -859,9 +859,18 @@ d.
 [@peshkovsky1914: 294]
 :::
 
+1925: 59 footnote, https://www.prlib.ru/en/node/391069
+
 ### Zeltser (1925)
 
-Zeltser, Sofya Afanasyevna (1925: 68) https://www.prlib.ru/en/node/335800
+Zeltser, Sofya Afanasyevna (1925: 68) 
+
+- 2nd edtion https://www.prlib.ru/en/node/335800
+- 4th edition https://www.prlib.ru/en/node/335799
+
+::: {.im #zeltser1926_68}
+from fourth edition because of better quality, but identical to second edition.
+:::
 
 ### Ušakov (1926) *Учебная книга по русскому языку* {#sec:ušakov1926}
 
