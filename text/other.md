@@ -861,15 +861,19 @@ d.
 
 1925: 59 footnote, https://www.prlib.ru/en/node/391069
 
-### Zeltser (1925)
+### Zeltser & Vvedensky (1925) *Как самому изучать русский язык*
 
-Zeltser, Sofya Afanasyevna (1925: 68) 
+Sofya Afanasyevna Zeltser and Dmitry Nikolaevich Vvedensky wrote *Как самому изучать русский язык* 'How to learn Russian yourself' around 1925 [the second edition is @zeltser1925]. The book includes a single dependency-like tree for the sentence [@next] as shown in [@fig:zeltser1926_68]. As in many other such graphics, the subject-predicate pair is placed on top. However, different from all other approaches, the other elements are linked to this whole pair, not to the predicate alone. Also notewhorthy is the fact, that the words are not themselves interpreted as the the nodes in the graph, but placed along the edges.
 
-- 2nd edtion https://www.prlib.ru/en/node/335800
-- 4th edition https://www.prlib.ru/en/node/335799
+::: ex
+| 
+| председатель предоставляет Мухину слово для доклада о партийном преступлении Терентьева.
+| chairman give Mukhin word to report on political offense Terentyev
+| The chairman gives Mukhin the floor to report on Terentyev’s political offense.
+:::
 
 ::: {.im #zeltser1926_68}
-from fourth edition because of better quality, but identical to second edition.
+Analysis of the examples in [@last] from Zeltser & Vvedensky, cited here from the third edition because of better image quality [@zeltser1926: 68], but almost completely identical to second edition [@zeltser1925: 68]. The subject-predicate pairing at the top here forms a unit on which the other element depend.
 :::
 
 ### Ušakov (1926) *Учебная книга по русскому языку* {#sec:ušakov1926}
