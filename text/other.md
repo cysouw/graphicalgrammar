@@ -895,9 +895,57 @@ probably from around 1925!
 1926: https://rusneb.ru/catalog/000199_000009_009041739/
 1927: https://rusneb.ru/catalog/000199_000009_009075097/
 
-### Barkhudarov (1940)
+### Barkhudarov (1938) *Грамматика русского языка*
 
-Barkhudarov, Stepan Grigorievich (1894-1983). 1940: 7ff. https://www.prlib.ru/en/node/330280
+Stepan Grigorievich Barkhudarov (1894-1983) was the head of the Leningrad Pedagogical Institute and lifelong active member of the USSR Academy of Sciences. A major aspect of his work was supervising the work on the 17-Volume *Словарь русского языка XVIII века* ('Dictionary of the Russian Language of the XVIII century'), which started appearing only after his death [more biographical details are presented by @ivanchikova1994]. All through his long career he wrote various textbooks about Russian grammar, which remain in use at least up to the 1970s. He also wrote various books about English grammar in Russian, and in this context Barkhudarov was intemately familiar with immediate constituents and the developing transformation generative grammar. For example Barkhudarov [-@barkhudarov1966] includes many syntactic trees in the style of Chomsky, though Chomsky himself is not cited. Barkhudarov seem most strongly influenced by Postal [-@postal1964a].
+
+Much earlier, in 1938, Barkhudarov published the two-volume *Грамматика русского языка* ('Grammar of the Russian language'). The second volume deals with syntax and this book is cited here from the third edition [@barkhudarov1940]. There are various examples of dependency-style graphics in this book. The first *схемы* 'scheme' [from @barkhudarov1940: 7] is shown in [@fig:barkhudarov1940_7] for the sentence in [@next a]. In this scheme, subject and predicate are placed on top with the dependencies linked below. Note that the left/right-direction of the dependency-lines indicates the order of the dependents relative to its head: a line slanted down left indicates that the dependent comes before the head, while down right indicates that it comes after the head. This idea was introduced by Trunk (see [@sec:trunk1895]), but there is no indication that Barkhudarov knew about this work. The next graph [from @barkhudarov1940: 9] is shown in [@fig:barkhudarov1940_9] for the example in [@next b]. In this example he does not use this left/right-direction, but adds different kinds of connecting lines. These lines follow a basic tripartite syntactic distinction introducted by Barkhudarov [-@barkhudarov1940: 8]. He distinguishes:
+
+- согласованием 'agreement' (double line)
+- управлением 'government' (dotted line)
+- примыканием 'adjacency' (single line)
+
+Later in this book there are also example for NP-coordination [@barkhudarov1940: 42] and a few simple examples of multi-clause sentences [@barkhudarov1940: 115-118], which are not shown here.
+
+::: ex
+a.
+| Russian [@barkhudarov1974: 7]
+| Душный жар внезапно сменился влажным холодом.
+| stifling heat suddenly switch humid cold
+| The stifling heat suddenly gave way to a damp cold.
+b.
+| Russian [@barkhudarov1974: 9]
+| Впереди огромная лиловая туча медленно поднималась из-за леса.
+| ahead huge purple cloud slowly rise through forest
+| Ahead, a huge purple cloud slowly rose from behind the forest.
+:::
+
+::: {.im #barkhudarov1940_7}
+*схемы* 'schema' for the example sentence in [@last a] from Barkhudarov [-@barkhudarov1940: 7]. The left/right-direction of the dependency lines indicates the placement of the dependent relative to its head: a line to the left indicates placement before, while a line to the right indicates placement after the head.
+:::
+
+::: {.im #barkhudarov1940_9}
+*схемы* 'schema' for the example sentence in [@last b] from Barkhudarov [-@barkhudarov1940: 9]. The different kind of dependency lines indicate different kinds of grammatical relationships: agreement (double line), government (dotted line) and adjacency (single line).
+:::
+
+With various co-authors, Burkhudarov wrote many grammar textbooks for use in school which remained in print at least up to the 1970s [e.g. @barkhudarov1974]. There are still examples of a *схему разбора* 'parsing scheme' in these books, but in detail they look different again. The lines are replaced by arrows and syntactic functions of the words in the sentence are indicated by different kinds of underlining:
+
+- подлежащее 'subject' (single line)
+- сказуемое 'predicate' (double line)
+- определение 'attribute' (wriggly line)
+- дополнение 'complement' (dashed line)
+- обстоятельство 'adverbial' (dot-dashed line)
+
+::: ex
+| Russian [@barkhudarov1974: 38, citing Sergey P. Antonov]
+| Внизу виднелся закованный льдом ручей. 
+| below be.visible covered ice stream
+| A stream covered in ice was visible below.
+:::
+
+::: {.im #barkhuderov1974_38}
+*схему разбора* 'parsing scheme' for the sentence [@last] from Barkhudarov *et al.* [-@barkhudarov1974: 38]. The different kinds of underlining indicate the syntactic function of the words: subject (single line), predicate (double line), complement (dashed line), attribute (wriggly line), adverbial (dot-dashed line).
+:::
 
 ### Beskrovny (1940)
 
@@ -911,7 +959,6 @@ see also 4th edition 1982, p. 311-317 https://archive.org/details/derdeutschespr
 
 ### Other Russia
 
-- Barkhudarov and Princip (1930)
 - Krjučkov and Svetlïev (1936). The Grammar. Moscow. pp. 6–7
 
 ## Lithuanian
