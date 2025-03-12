@@ -902,7 +902,7 @@ probably from around 1925!
 | Wild ducks fly to the lake in the evening.
 :::
 
-::: {.im #ušakov1930_28}
+::: {.im #usakov1930_28}
 [@usakov1930: 28]
 :::
 
