@@ -879,14 +879,14 @@ Analysis of the examples in [@last] from Zeltser & Vvedensky, cited here from th
 ### Ušakov (1926) *Учебная книга по русскому языку* {#sec:ušakov1926}
 
 Dmitrij Nikolajevič Ušakov (1873-1942), https://www.prlib.ru/en/history/618974
+
+1925 (originally 1913): nothing in https://www.prlib.ru/en/node/341406 and https://www.prlib.ru/en/node/341405
+
+(1930) *Учебная книга по русскому языку*
+
 Smirnova, A. M
 Ščepetova, Nina Nikolajevna
 
-1925: nothing in https://www.prlib.ru/en/node/341406 and https://www.prlib.ru/en/node/341405
-
-Russian language: a workbook for preparation to the university (1928: p29, 33-34, 79, 138, 167-168) https://www.prlib.ru/en/node/363134
-
-(1930) *Учебная книга по русскому языку*
 volume 2, 15th edition: [@usakov1930: 25-28]
 => 3rd part, pp. 6–7, and 4th part, p. 5
 
@@ -894,6 +894,19 @@ probably from around 1925!
 
 1926: https://rusneb.ru/catalog/000199_000009_009041739/
 1927: https://rusneb.ru/catalog/000199_000009_009075097/
+
+::: ex
+| 
+| Дикие утки летят вечером на озеро.
+| wild ducks fly evening to lake
+| Wild ducks fly to the lake in the evening.
+:::
+
+::: {.im #ušakov1930_28}
+[@usakov1930: 28]
+:::
+
+Russian language: a workbook for preparation to the university (1928: p29, 33-34, 79, 138, 167-168) https://www.prlib.ru/en/node/363134
 
 ### Barkhudarov (1938) *Грамматика русского языка*
 
