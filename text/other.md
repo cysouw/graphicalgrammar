@@ -536,6 +536,8 @@ large fold-out page between p124-125 (word classes) and between p146-147 (syntac
 
 > Es muy práctico y útil para el conocimiento de esta parte de la Gramática, que los alumnos se acostumbren a ordenar, en la forma que hemos dicho, los diversos elementos de la proposicion; este trabajo no es nuevo, es precisamente el que resulta de practicar el análisis de aquélla por medio del cuadro de la página 146, que nos hace ver desde luego todas las inversiones que existen. [@escriche1884: 153]
 
+https://www.bvfe.es/es/autor/9670-escriche-y-meig-c-tomas-y-francisco-fernandez-iparraguirre.html
+
 ### Cordero (1907) *Gramática de la lengua castellana*
 
 Francisco Febres Cordero (1854-1910), also known as "brother Miguel" in the Ecuadorian brotherhood *Hermanos de las Escuelas Christiana* [@montoro-del-arco2023: 169-171].
@@ -576,6 +578,9 @@ Montoro del Arco, Esteban T. (2019). “Métodos y modelos de representación de
 http://hdl.handle.net/10481/67999
 
 https://digibug.ugr.es/bitstream/handle/10481/67999/Metodos_y_modelos_de_representacion_del%20%281%29.pdf?sequence=1
+
+Oca y Merino, Esteban (1851-1924), no real graphical grammar
+https://www.bvfe.es/es/autor/10340-oca-y-merino-esteban.html
 
 ## Romanian
 
@@ -878,10 +883,9 @@ Analysis of the examples in [@last] from Zeltser & Vvedensky, cited here from th
 
 ### Ušakov (1926) *Учебная книга по русскому языку* {#sec:ušakov1926}
 
-Dmitrij Nikolajevič Ušakov (1873-1942) was professor at the Russian language department of Moscow University and most well known for his work on the Russian spelling reform and for the *Толковым словарём русского языка* 'Explanatory Dictionary of the Russian Language'.^[Some basic biographical information is available online at <https://www.prlib.ru/en/history/618974>, accessed 13 March 2025.] Throughout his life he wrote various pedagogical textbooks about Russian. His *Brief introduction to the science of language* [@usakov1913] was reprinted various times, but it did not contain any graphical grammar. In 1923, after the death of Petrov (see [@sec:petrov1906]) Ušakov revised Petrov's grammar, which already included a few graphical representations of sentence structures. Only after this revision graphical analyses also appear in Ušakov's textbooks.
+Dmitrij Nikolajevič Ušakov (1873-1942) was professor at the Russian language department of Moscow University and most well known for his work on the Russian spelling reform and for the *Толковым словарём русского языка* 'Explanatory Dictionary of the Russian Language'.^[Some basic biographical information is available online at <https://www.prlib.ru/en/history/618974>, accessed 13 March 2025.] Throughout his life he wrote various pedagogical textbooks about Russian. His *Brief introduction to the science of language* [@usakov1913] was reprinted various times, but it did not contain any graphical grammar. In 1923, after the death of Petrov (see [@sec:petrov1906]) Ušakov revised Petrov's grammar, which already included a few graphical representations of sentence structures. Only after this revision graphical analyses also appear in Ušakov's textbooks. Ušakov is also mentioned as the "editor" of Pustalov's textbook (see [@sec:pustovalov1928]) and he is acknowledged for his help by Peshkovsky (see [@sec:peshkovsky1914]).
 
-In 1926 Ušakov wrote a two-volume introductory textbook together with A.M. Smirnova
-and N.N. Nikolajevna called *Учебная книга по русскому языку* 'Textbook on the Russian language', cited here from the 15th edition [@usakov1930: 25-28]. It includes a few basic dependency-style trees like the one shown in [@fig:usakov1930_28] for the example in [@next]. Just like the graphics from Petrov, the relationships between the words are annotated with question words. This book is mentioned by Tesnière as a main influence on the development of his stemmata [@tesniere1959: 15, fn. 1].
+In 1926 Ušakov wrote a two-volume introductory textbook together with A.M. Smirnova and N.N. Nikolajevna called *Учебная книга по русскому языку* 'Textbook on the Russian language', cited here from the 15th edition [@usakov1930: 25-28]. It includes a few basic dependency-style trees like the one shown in [@fig:usakov1930_28] for the example in [@next]. Just like the graphics from Petrov, the relationships between the words are annotated with question words. This book is mentioned by Tesnière as a main influence on the development of his stemmata [@tesniere1959: 15, fn. 1].
 
 ::: ex
 | Russian [@usakov1930: 28]
@@ -894,7 +898,7 @@ and N.N. Nikolajevna called *Учебная книга по русскому я�
 *схема* 'scheme' for the example in [@last] from Ušakov, Smirnova & Nikolajevna [-@usakov1930: 28]. The annotation of the relationships with questionwords is reminiscent of the graphics of Petrov (see [@fig:petrov1912_127a]). Differently from Petrov, the arrows are replaced with simple lines.
 :::
 
-### Pustovalov (1928) *Русский язык*
+### Pustovalov (1928) *Русский язык* {#sec:pustovalov1928}
 
 I.I. Pustalov (???)
 
