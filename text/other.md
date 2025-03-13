@@ -900,7 +900,7 @@ In 1926 Ušakov wrote a two-volume introductory textbook together with A.M. Smir
 
 ### Pustovalov (1928) *Русский язык* {#sec:pustovalov1928}
 
-I.I. Pustalov (???)
+I.I. Pustovalov (???)
 
 Russian language: a workbook for preparation to the university (1928: p29, 33-34, 79, 138, 167-168) https://www.prlib.ru/en/node/363134
 
@@ -956,6 +956,8 @@ With various co-authors, Burkhudarov wrote many grammar textbooks for use in sch
 *схему разбора* 'parsing scheme' for the sentence [@last] from Barkhudarov *et al.* [-@barkhudarov1974: 38]. The different kinds of underlining indicate the syntactic function of the words: subject (single line), predicate (double line), complement (dashed line), attribute (wriggly line), adverbial (dot-dashed line).
 :::
 
+Basic scheme in [@barkhudarov1963: 11]
+
 ### Beskrovny (1940)
 
 Beskrovny, Andrey Efimovich (1940: 14): https://www.prlib.ru/en/node/337185
@@ -966,9 +968,15 @@ Admoni: Partiturnoje strojenije recevoj cepi i sistema grammaticeskich znacenij 
 
 see also 4th edition 1982, p. 311-317 https://archive.org/details/derdeutschesprac0000admo
 
-### Other Russia
+### Krjučkov/Svetlajev/Zemskij
 
-- Krjučkov and Svetlïev (1936). The Grammar. Moscow. pp. 6–7
+- Krjučkov and Svetlïev (1936) cited by Tesniere! <https://www.osmikon.de/osmikonsearch/search?id=rgk14500941&sid=39503189>
+Грамматика. Учебник для шк. взрослых (Grammar. Textbook for adult schools)
+- [@zemskij1950: 62]
+
+- Andrej Michajlovič Zemskij (1892-1946) https://library.upol.cz/arl-upol/en/detail-upol_us_auth-0295050-Zemskij-Andrej-Michajlovic-18921946/?iset=3&qt=mg
+- Sergej Jefimovič Krjučkov (1897-1969) https://library.upol.cz/arl-upol/cs/detail-upol_us_auth-0301642-Krjuckov-Sergej-Jefimovic-18971969/?qt=mg
+- Michail Vasil'jevič Svetlajev (1898-1959) https://library.upol.cz/arl-upol/en/detail-upol_us_auth-0336498-Svetlajev-Michail-Vasiljevic-18981959/
 
 ## Lithuanian
 
