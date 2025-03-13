@@ -704,7 +704,7 @@ Info from Tomasz (Ma)ksymil(ian) Majtczak: https://bsky.app/profile/ksymil.bsky.
 
 ## Russian
 
-### Buslaev (1844) *О преподавании отечественного языка*
+### Buslaev (1844) *О преподавании отечественного языка* {#sec:buslaev1844}
 
 Fedor Ivanovich Buslaev (1818-1897) was professor for Russian linguistics in Moscow.^[Some basic biographical information is available on Wikipedia <https://en.wikipedia.org/wiki/Fyodor_Buslaev>, accessed 20 February 2025.] He was strongly influenced by the German linguistic tradition and cites broadly throughout the German literature. Although he does not explicity cite any influence for his graphical approach, he might have been inspired by Diesterweg (see [@sec:diesterweg1830]) and Mager (see [@sec:mager1840]), both of which are cited recurrently by Buslaev.
 
@@ -822,7 +822,7 @@ After the death of Petrov the books are updated by Ušakov (see [@sec:ušakov192
 The same analysis of [@last] as shown in [@fig:petrov1912_127b] from the grammar by Petrov in the revision by Ushakov [-@petrov1923: 167]. The graphic is basically the same, though Ušakov updated the Russian orthography and, curiously, he reversed the direction of the arrow for the inital subordinate clause (marked *когда?* 'when'). Instead of pointing to the dependents, the arrows now seem to indicate the ordering of the clauses in the original sentence.
 :::
 
-### Peshkovsky (1914) *Русскій синтаксисъ*
+### Peshkovsky (1914) *Русскій синтаксисъ* {#sec:peshkovsky1914}
 
 Alexander Matveyevich Peshkovsky (1878-1933) 'Russian syntax' [@peshkovsky1914: 293-294] thanks Ušakov [@peshkovsky1914: iii]
 
@@ -861,7 +861,7 @@ d.
 
 1925: 59 footnote, https://www.prlib.ru/en/node/391069
 
-### Zeltser & Vvedensky (1925) *Как самому изучать русский язык*
+### Zeltser & Vvedensky (1925) *Как самому изучать русский язык* {#sec:zeltser1925}
 
 Sofya Afanasyevna Zeltser and Dmitry Nikolaevich Vvedensky wrote *Как самому изучать русский язык* 'How to learn Russian yourself' around 1925 [the second edition is @zeltser1925]. The book includes a single dependency-like tree for the sentence [@next] as shown in [@fig:zeltser1926_68]. As in many other such graphics, the subject-predicate pair is placed on top. However, different from all other approaches, the other elements are linked to this whole pair, not to the predicate alone. Also notewhorthy is the fact, that the words are not themselves interpreted as the the nodes in the graph, but placed along the edges.
 
@@ -878,33 +878,25 @@ Analysis of the examples in [@last] from Zeltser & Vvedensky, cited here from th
 
 ### Ušakov (1926) *Учебная книга по русскому языку* {#sec:ušakov1926}
 
-Dmitrij Nikolajevič Ušakov (1873-1942), https://www.prlib.ru/en/history/618974
+Dmitrij Nikolajevič Ušakov (1873-1942) was professor at the Russian language department of Moscow University and most well known for his work on the Russian spelling reform and for the *Толковым словарём русского языка* 'Explanatory Dictionary of the Russian Language'.^[Some basic biographical information is available online at <https://www.prlib.ru/en/history/618974>, accessed 13 March 2025.] Throughout his life he wrote various pedagogical textbooks about Russian. His *Brief introduction to the science of language* [@usakov1913] was reprinted various times, but it did not contain any graphical grammar. In 1923, after the death of Petrov (see [@sec:petrov1906]) Ušakov revised Petrov's grammar, which already included a few graphical representations of sentence structures. Only after this revision graphical analyses also appear in Ušakov's textbooks.
 
-1925 (originally 1913): nothing in https://www.prlib.ru/en/node/341406 and https://www.prlib.ru/en/node/341405
-
-(1930) *Учебная книга по русскому языку*
-
-Smirnova, A. M
-Ščepetova, Nina Nikolajevna
-
-volume 2, 15th edition: [@usakov1930: 25-28]
-=> 3rd part, pp. 6–7, and 4th part, p. 5
-
-probably from around 1925!
-
-1926: https://rusneb.ru/catalog/000199_000009_009041739/
-1927: https://rusneb.ru/catalog/000199_000009_009075097/
+In 1926 Ušakov wrote a two-volume introductory textbook together with A.M. Smirnova
+and N.N. Nikolajevna called *Учебная книга по русскому языку* 'Textbook on the Russian language', cited here from the 15th edition [@usakov1930: 25-28]. It includes a few basic dependency-style trees like the one shown in [@fig:usakov1930_28] for the example in [@next]. Just like the graphics from Petrov, the relationships between the words are annotated with question words. This book is mentioned by Tesnière as a main influence on the development of his stemmata [@tesniere1959: 15, fn. 1].
 
 ::: ex
-| 
+| Russian [@usakov1930: 28]
 | Дикие утки летят вечером на озеро.
 | wild ducks fly evening to lake
 | Wild ducks fly to the lake in the evening.
 :::
 
 ::: {.im #usakov1930_28}
-[@usakov1930: 28]
+*схема* 'scheme' for the example in [@last] from Ušakov, Smirnova & Nikolajevna [-@usakov1930: 28]. The annotation of the relationships with questionwords is reminiscent of the graphics of Petrov (see [@fig:petrov1912_127a]). Differently from Petrov, the arrows are replaced with simple lines.
 :::
+
+### Pustovalov (1928) *Русский язык*
+
+I.I. Pustalov (???)
 
 Russian language: a workbook for preparation to the university (1928: p29, 33-34, 79, 138, 167-168) https://www.prlib.ru/en/node/363134
 
