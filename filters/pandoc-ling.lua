@@ -1,7 +1,7 @@
 --[[
 pandoc-linguex: make interlinear glossing with pandoc
 
-Version 1.5
+Version 1.6
 Copyright © 2021, 2022 Michael Cysouw <cysouw@mac.com>
 
 Permission to use, copy, modify, and/or distribute this software for any
@@ -37,6 +37,7 @@ local rev_indexRef = {} -- "reversed" indexRef, i.e. key/value: refID/exID = ord
 ------------------------------------
 
 local formatGloss = false -- format interlinear examples
+local samePage = true -- keep example on one page in Latex
 local xrefSuffixSep = " " -- &nbsp; separator to be inserted after number in example references
 local restartAtChapter = false -- restart numbering at highest header without adding local chapternumbers
 local addChapterNumber = false -- add chapternumbers to counting and restart at highest header
@@ -48,6 +49,9 @@ local documentclass = "article"
 function getUserSettings (meta)
   if meta.formatGloss ~= nil then
     formatGloss = meta.formatGloss
+  end
+  if meta.samePage ~= nil then
+    samePage = meta.samePage
   end
   if meta.noFormat ~= nil then
     noFormat = meta.noFormat
@@ -242,6 +246,11 @@ function processDiv (div)
       formatGloss = div.attributes.formatGloss
     end
 
+    local saveGlobalsamePage = samePage
+    if div.attributes.samePage ~= nil then
+      samePage = div.attributes.samePage
+    end
+
     local saveGlobalnoFormat = noFormat
     if div.attributes.noFormat ~= nil then
       noFormat = div.attributes.noFormat
@@ -269,6 +278,7 @@ function processDiv (div)
 
     -- return to global setting
     formatGloss = saveGlobalformatGloss
+    samePage = saveGlobalsamePage
     noFormat = saveGlobalnoFormat
 
     return { tmpCite, example }
@@ -444,7 +454,7 @@ end
 function formatGlossLine (s)
   -- turn uppercase in gloss into small caps
   local split = {}
-  for lower,upper in string.gmatch(s, "(.-)([%u%d][%u%d]+)") do
+  for lower,upper in string.gmatch(s, "(.-)([%u%d]+)") do
     if lower ~= "" then
       lower = pandoc.Str(lower)
       table.insert(split, lower)
@@ -452,7 +462,7 @@ function formatGlossLine (s)
     upper = pandoc.SmallCaps(pandoc.text.lower(upper))
     table.insert(split, upper)
   end
-  for leftover in string.gmatch(s, "[%u%d][%u%d]+(.-[^%u%s])$") do
+  for leftover in string.gmatch(s, "[%u%d]+(.-[^%u%s])$") do
     leftover = pandoc.Str(leftover)
     table.insert(split, leftover)
   end
@@ -664,7 +674,9 @@ function pandocMakeInterlinear (parsedDiv, label, forceJudge)
   end
   -- add preamble
   local preamble = parsedDiv.preamble
-  if label ~= nil then preamble = nil end
+  if label ~= nil and label > 1 then
+    preamble = nil -- Only remove for subexamples, but keep it for the first one
+  end
   if preamble ~= nil then
     table.insert(rowContent, 1, {{ preamble }} )
     nRows = nRows + 1
@@ -691,7 +703,11 @@ function pandocMakeInterlinear (parsedDiv, label, forceJudge)
   -- set class of label
   if label ~= nil then
     ls = 1
-    example.bodies[1].body[1].cells[2+ps].attr = {class = "linguistic-example-label"}
+    if preamble ~= nil then
+      example.bodies[1].body[2].cells[1+ps].attr = {class = "linguistic-example-label"}
+    else
+      example.bodies[1].body[1].cells[2+ps].attr = {class = "linguistic-example-label"}
+    end
   end
   -- set class of header and extend cell
   if headerPresent then
@@ -807,8 +823,9 @@ function pandocMakeMixedList (parsedDiv)
   local judgements = parsedDiv.judgements
   local judgeSize = 0
   local forceJudge = false 
-  for i=1,#judgements do
-    judgeSize = math.max(judgeSize, utf8.len(judgements[i]))
+  for _, judgement in pairs(judgements) do
+    local text = pandoc.utils.stringify(judgement)
+    judgeSize = math.max(judgeSize, utf8.len(text))
   end
   -- if judgeSize > 0 then 
     forceJudge = true
@@ -841,8 +858,11 @@ function pandocMakeMixedList (parsedDiv)
     -- For better alignment with example number
     -- add invisibles in first column 
     -- not a very elegant solution, but portable across formats
-    result[i].bodies[1].body[1].cells[1].contents[1] = 
-      pandoc.Plain(spaceForNumber)
+    if isInterlinear[1] and i == 1 then
+      result[i].bodies[1].body[2].cells[1].contents[1] = pandoc.Plain(spaceForNumber)
+    else
+      result[i].bodies[1].body[1].cells[1].contents[1] = pandoc.Plain(spaceForNumber)
+    end
     -- For even better alignment, add column-width to judgement column
     -- note: this is probably not portable outside html
     if forceJudge  then
@@ -1021,7 +1041,11 @@ function texMakeExpex (parsedDiv)
   else
     texFront("\\pex"..judgeOffset.."<"..ID.."> ", preamble)
   end
-  texFront("\\begin{samepage}\n", preamble)
+  if samePage == true then
+    texFront("\\begin{samepage}\n", preamble)
+  else  
+    texFront("", preamble)
+  end
 
   for i=1,#kind do
     if kind[i] == "single" then
@@ -1074,7 +1098,11 @@ function texMakeExpex (parsedDiv)
 
     end
   end
-  texEnd("\n\\xe\n\\end{samepage}", preamble)
+  if samePage == true then
+    texEnd("\n\\xe\n\\end{samepage}", preamble)
+  else
+    texEnd("\n\\xe", preamble)
+  end
   return pandoc.Plain(preamble)
 end
 
@@ -1109,7 +1137,11 @@ function texMakeLinguex (parsedDiv)
   end
 
   -- build Latex code starting with preamble and adding rest to it
-  texFront("\\begin{samepage}\n\n\\ex. \\label{"..ID.."} ", preamble)
+  if samePage == true then
+    texFront("\\begin{samepage}\n\n\\ex. \\label{"..ID.."} ", preamble)
+  else
+    texFront("\n\\ex. \\label{"..ID.."} ", preamble)
+  end
 
   for i=1,#kind do
     if kind[i] == "single" then
@@ -1145,8 +1177,8 @@ function texMakeLinguex (parsedDiv)
         texFront("\n  \\a. ", header)
       elseif #kind > 1 and i > 1 then
         texFront("\n  \\b. ", header)
-      else
-        texFront("\n  ", header)
+      --else
+      --  texFront("\n  ", header)
       end
 
       preamble:extend(header)
@@ -1162,7 +1194,11 @@ function texMakeLinguex (parsedDiv)
 
     end
   end
-  texEnd("\n\n\\end{samepage}", preamble)
+  if samePage == true then
+    texEnd("\n\n\\end{samepage}", preamble)
+  else
+    texEnd("\n", preamble)
+  end
   return pandoc.Plain(preamble)
 end
 
@@ -1204,7 +1240,11 @@ function texMakeGb4e (parsedDiv)
   end
 
   -- build Latex code starting with preamble and adding rest to it
+  if samePage == true then
     texFront("\\begin{samepage}\n\\begin{exe} "..judgeOffset.."\n  \\ex ", preamble)
+  else
+    texFront("\\begin{exe} "..judgeOffset.."\n  \\ex ", preamble)
+  end
 
   for i=1,#kind do
     if kind[i] == "single" then
@@ -1263,7 +1303,11 @@ function texMakeGb4e (parsedDiv)
     end
   end
   if #kind > 1 then texEnd("\n  \\end{xlist}", preamble) end
-  texEnd("\n  \\label{"..ID.."}\n\\end{exe}\n\\end{samepage}", preamble)
+  if samePage == true then
+    texEnd("\n  \\label{"..ID.."}\n\\end{exe}\n\\end{samepage}", preamble)
+  else
+    texEnd("\n  \\label{"..ID.."}\n\\end{exe}", preamble)
+  end
   return pandoc.Plain(preamble)
 end
 
@@ -1321,7 +1365,11 @@ function texMakeLangsci (parsedDiv)
   else
     texFront("\\ea "..judgeOffset.." \\label{"..ID.."} ", preamble)
   end
-  texFront("\\begin{samepage}\n", preamble)
+  if samePage == true then
+    texFront("\\begin{samepage}\n", preamble)
+  else
+    texFront("", preamble)
+  end
 
   for i=1,#kind do
     if kind[i] == "single" then
@@ -1386,7 +1434,11 @@ function texMakeLangsci (parsedDiv)
     end
   end
   if #kind > 1 then texEnd("\n  \\z", preamble) end
-  texEnd("\n\\z\n\\end{samepage}", preamble)
+  if samePage == true then
+    texEnd("\n\\z\n\\end{samepage}", preamble)
+  else
+    texEnd("\n\\z", preamble)
+  end
   return pandoc.Plain(preamble)
 end
 
@@ -1526,7 +1578,6 @@ return {
    -- now finally all cross-references can be set
    { Cite = makeCrossrefs }
 }
-
 
 
 
