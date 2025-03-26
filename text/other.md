@@ -709,6 +709,8 @@ Info from Tomasz (Ma)ksymil(ian) Majtczak: https://bsky.app/profile/ksymil.bsky.
 
 ## Russian
 
+<http://bibl.tikva.ru/base/B358/B358Addon3.php>
+
 ### Buslaev (1844) *О преподавании отечественного языка* {#sec:buslaev1844}
 
 Fedor Ivanovich Buslaev (1818-1897) was professor for Russian linguistics in Moscow.^[Some basic biographical information is available on Wikipedia <https://en.wikipedia.org/wiki/Fyodor_Buslaev>, accessed 20 February 2025.] He was strongly influenced by the German linguistic tradition and cites broadly throughout the German literature. Although he does not explicity cite any influence for his graphical approach, he might have been inspired by Diesterweg (see [@sec:diesterweg1830]) and Mager (see [@sec:mager1840]), both of which are cited recurrently by Buslaev.
@@ -742,6 +744,8 @@ Krylov's fable *The wolf and the shepherds*, cited in Buslaev [-@buslaev1844: 26
 Structure of subordination of the fable in [@last] as analysed by Buslaev [-@buslaev1844: 260]. The original sentence has a complex centre-embedded structure. The large brackets indicate that this part should be placed internal to the part above it.
 :::
 
+Philip Fedorovich Fortunatov (1948-1914) was a student of Buslaev and the teacher of many of the later authors discussed here (Peshkovsky, Porzhezinsky, Ushakov) https://en.wikipedia.org/wiki/Filipp_Fortunatov
+
 ### Lugebil (1883) *Синтаксись Аполлонія Даскола* {#sec:lugebil1883}
 
 Karl Yakimovich Lugebil (1830-1887) was a classical scholar, teacher and from 1864 professor in St. Petersburg.^[Some basic biographical information is available online at <https://www.biografija.ru/biography/ljugebil-karl-yakimovich.htm>, accessed 22 February 2025.] In a review of a book by Anton Dobiasz about the *Syntax* of Apollonius Dyscolus he uses various graphical syntactic analyses [@lugebil1883: 127-128]. In his review, Lugebil mostly cites German grammatical literature, for example there is a long discussion about the merits of Becker's grammatical ideas (cf. [@sec:becker1829]). Later, in a discussion about different interpretations of copula constructions, Lugebil cites Lehmann (see [@sec:lehmann1833]) and Nägelsbach (see [@sec:nägelsbach1846]) as important proponents of the idea to use graphical representations to explain grammatical structure:
@@ -761,6 +765,21 @@ Lugebil uses a completely different graphical format from Lehmann and Nägelsbac
 
 ::: {.im #lugebil1883_127}
 Different analyses of the Latin sentence [@last] from Lugebil [-@lugebil1883: 127]. According to Lugebil, the regular "newer" interpretation of this sentence is shown to the right, while the "older" meaning is shown to the left. In this "older" interpretation the sentence would be something like 'Cicero is a consul, installed in that year'.
+:::
+
+### Smirnovsky (1899) *Учебник русской грамматики* {#sec:smirnovksy1899}
+
+Pyotr Vladimirovich Smirnovsky (1846—1904) was a teacher in St. Petersburg.^[Some basic biographical information is available on Wikipedia at <https://ru.wikipedia.org/wiki/Смирновский,_Пётр_Владимирович>, accessed 26 March 2025.] He wrote various textbooks, among them the two-volume *Textbook of Russian grammar for junior grades of secondary educational institutions*. This textbook was probably first published in 1884, but I have only been able to access a version from 1899. The second volume of this textbook deals with elementary syntax [@smirnovsky1899] and this volume includes a few examples of graphical grammar. The example in [@next] is a sentence taken from Sergey Timofeyevich Aksakov's *Childhood years of the Bagrov grandson* (1858). Smirnovsky proposes a *графическимь способомь* 'graphical method' to analyse this sentence as shown in [@fig:smirnovsky1899_4].
+
+::: ex
+| Russian [@smirnovsky1899: 4, citing Aksakov]
+| Русскій народу глубоко чувствуеть правственныя качества голубей
+| russian people deeply feel moral quality pigeon
+| Russian people deeply feel the moral qualities of pigeons.
+:::
+
+::: {.im #smirnovsky1899_4}
+*Графическимь способомь* 'graphical method' for the example [@last] from Smirnovsky [-@smirnovsky1899: 4]. This analysis has a basic subject-predicate distinction with modifiers placed below their heads. Interestingly, the adverb *глубоко* 'deeply' is placed at the end of this dependency tree, although the word occurs in front of the predicate.
 :::
 
 ### Petrov (1906) *Русскій язык* {#sec:petrov1906}
@@ -827,9 +846,14 @@ After the death of Petrov the books are updated by Ušakov (see [@sec:ušakov192
 The same analysis of [@last] as shown in [@fig:petrov1912_127b] from the grammar by Petrov in the revision by Ushakov [-@petrov1923: 167]. The graphic is basically the same, though Ušakov updated the Russian orthography and, curiously, he reversed the direction of the arrow for the inital subordinate clause (marked *когда?* 'when'). Instead of pointing to the dependents, the arrows now seem to indicate the ordering of the clauses in the original sentence.
 :::
 
-### Peshkovsky (1914) *Русскій синтаксисъ* {#sec:peshkovsky1914}
+### Peshkovsky (1914) *Русскій синтаксисъ въ научномъ освѣщеніи* {#sec:peshkovsky1914}
 
-Alexander Matveyevich Peshkovsky (1878-1933) 'Russian syntax' [@peshkovsky1914: 293-294] thanks Ušakov [@peshkovsky1914: iii]
+Alexander Matveyevich Peshkovsky (1878-1933) 'Russian syntax in scientific education' [@peshkovsky1914: 293-294] thanks Ušakov [@peshkovsky1914: iii]
+
+https://www.marxists.org/portugues/dicionario/verbetes/p/peshkovsky_alexander_matveyevich.htm
+https://ru.wikipedia.org/wiki/Пешковский,_Александр_Матвеевич
+
+3rd edition 1928:67 https://www.prlib.ru/en/node/363106 reprinted many times 
 
 Discussing conjunctions, he uses graphics without much explanation
 
@@ -864,7 +888,12 @@ d.
 [@peshkovsky1914: 294]
 :::
 
-1925: 59 footnote, https://www.prlib.ru/en/node/391069
+::: {.im #peshkovsky1956_60}
+3rd edition 1928:67, cited here from 1956:60 because of better quality
+:::
+
+second edtion 1922: 73
+fifth edtion 1925: 59 footnote, https://www.prlib.ru/en/node/391069
 
 ### Zeltser & Vvedensky (1925) *Как самому изучать русский язык* {#sec:zeltser1925}
 
@@ -968,15 +997,33 @@ Admoni: Partiturnoje strojenije recevoj cepi i sistema grammaticeskich znacenij 
 
 see also 4th edition 1982, p. 311-317 https://archive.org/details/derdeutschesprac0000admo
 
-### Krjučkov/Svetlajev/Zemskij
+### Krjučkov & Svetlajev (1936) *Грамматика учебник для школ взрослых*
 
-- Krjučkov and Svetlïev (1936) cited by Tesniere! <https://www.osmikon.de/osmikonsearch/search?id=rgk14500941&sid=39503189>
-Грамматика. Учебник для шк. взрослых (Grammar. Textbook for adult schools)
+first edition from 1925?
+
+Krjučkov and Svetlïev (1936) cited by Tesniere! <https://www.osmikon.de/osmikonsearch/search?id=rgk14500941&sid=39503189>
+ (Grammar textbook for adult schools)
+
+https://libr.msu.by/handle/123456789/20940
+
+S. E. KRYUCHKOV and M. V, SVETLAEV
+GRAMMAR
+TEXTBOOK
+for SCHOOLS FOR ADULTS
+Edited by prof. D. N. USHAKOV
+13TH EDITION
+Approved by
+Iarkompros RSFSR
+STATE
+EDUCATIONAL PEDAGOGICAL PUBLISHING HOUSE
+MOSCOW — 1936
+
+
 - [@zemskij1950: 62]
 
 - Andrej Michajlovič Zemskij (1892-1946) https://library.upol.cz/arl-upol/en/detail-upol_us_auth-0295050-Zemskij-Andrej-Michajlovic-18921946/?iset=3&qt=mg
-- Sergej Jefimovič Krjučkov (1897-1969) https://library.upol.cz/arl-upol/cs/detail-upol_us_auth-0301642-Krjuckov-Sergej-Jefimovic-18971969/?qt=mg
-- Michail Vasil'jevič Svetlajev (1898-1959) https://library.upol.cz/arl-upol/en/detail-upol_us_auth-0336498-Svetlajev-Michail-Vasiljevic-18981959/
+- Sergej Jefimovič Krjučkov (1897-1969) teacher and educator at the Moscow State Pedagogical Institute and the Lomonosov Moscow State University https://library.upol.cz/arl-upol/cs/detail-upol_us_auth-0301642-Krjuckov-Sergej-Jefimovic-18971969/?qt=mg https://ru.wikipedia.org/wiki/Крючков,_Сергей_Ефимович
+- Michail Vasil'jevič Svetlajev (1898-1959) https://library.upol.cz/arl-upol/en/detail-upol_us_auth-0336498-Svetlajev-Michail-Vasiljevic-18981959/ https://ru.wikipedia.org/wiki/Светлаев,_Михаил_Васильевич
 
 ## Lithuanian
 
