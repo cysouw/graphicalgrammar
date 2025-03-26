@@ -713,7 +713,7 @@ Info from Tomasz (Ma)ksymil(ian) Majtczak: https://bsky.app/profile/ksymil.bsky.
 
 ### Buslaev (1844) *О преподавании отечественного языка* {#sec:buslaev1844}
 
-Fedor Ivanovich Buslaev (1818-1897) was professor for Russian linguistics in Moscow.^[Some basic biographical information is available on Wikipedia <https://en.wikipedia.org/wiki/Fyodor_Buslaev>, accessed 20 February 2025.] He was strongly influenced by the German linguistic tradition and cites broadly throughout the German literature. Although he does not explicity cite any influence for his graphical approach, he might have been inspired by Diesterweg (see [@sec:diesterweg1830]) and Mager (see [@sec:mager1840]), both of which are cited recurrently by Buslaev.
+Fedor Ivanovich Buslaev (1818-1897) was professor for Russian linguistics in Moscow.^[Some basic biographical information is available on Wikipedia <https://en.wikipedia.org/wiki/Fyodor_Buslaev>, accessed 20 February 2025.] He was strongly influenced by the German linguistic tradition and broadly cites the German literature. Although he does not explicity cite any influence for his graphical approach, he might have been inspired by Diesterweg (see [@sec:diesterweg1830]) and Mager (see [@sec:mager1840]), both of which are cited recurrently by Buslaev.
 
 In his book *О преподавании отечественного языка* ('On the teaching of the native language') he discusses the analysis of large sentences with multiple subordinate clauses [@buslaev1844: 260]. As an example he give an analysis of a fable [@next] by using a graphical structure with large horizontal braces, as shown in [@fig:buslaev1844_260]. The original structure of this sentence has a lot of clausal centre-embedding. This is indicated in the graphical analysis by the braces, indicating the insertion point of the subordinate clause.
 
@@ -744,7 +744,7 @@ Krylov's fable *The wolf and the shepherds*, cited in Buslaev [-@buslaev1844: 26
 Structure of subordination of the fable in [@last] as analysed by Buslaev [-@buslaev1844: 260]. The original sentence has a complex centre-embedded structure. The large brackets indicate that this part should be placed internal to the part above it.
 :::
 
-Philip Fedorovich Fortunatov (1948-1914) was a student of Buslaev and the teacher of many of the later authors discussed here (Peshkovsky, Porzhezinsky, Ushakov) https://en.wikipedia.org/wiki/Filipp_Fortunatov
+Philip Fedorovich Fortunatov (1948-1914)^[Some basic biographical information is available online at <https://en.wikipedia.org/wiki/Filipp_Fortunatov>, accessed 25 March 2025.] was a student of Buslaev and the teacher of Peshkovsky (see [@sec:peshkovsky1914]) and Ushakov (see [@sec:ushakov1926]), who in turn had a great influence on the post-revolution russian grammarians. However, Fortunatov does not appear to have used any graphical grammar. Also, the post-revolution grammatical visualisation in the russian tradition do not follow Buslaev's approach, so there does not seem to have been a direct influence.
 
 ### Lugebil (1883) *Синтаксись Аполлонія Даскола* {#sec:lugebil1883}
 
@@ -767,9 +767,9 @@ Lugebil uses a completely different graphical format from Lehmann and Nägelsbac
 Different analyses of the Latin sentence [@last] from Lugebil [-@lugebil1883: 127]. According to Lugebil, the regular "newer" interpretation of this sentence is shown to the right, while the "older" meaning is shown to the left. In this "older" interpretation the sentence would be something like 'Cicero is a consul, installed in that year'.
 :::
 
-### Smirnovsky (1899) *Учебник русской грамматики* {#sec:smirnovksy1899}
+### Smirnovsky (1899) *Учебник русской грамматики* {#sec:smirnovsky1899}
 
-Pyotr Vladimirovich Smirnovsky (1846—1904) was a teacher in St. Petersburg.^[Some basic biographical information is available on Wikipedia at <https://ru.wikipedia.org/wiki/Смирновский,_Пётр_Владимирович>, accessed 26 March 2025.] He wrote various textbooks, among them the two-volume *Textbook of Russian grammar for junior grades of secondary educational institutions*. This textbook was probably first published in 1884, but I have only been able to access a version from 1899. The second volume of this textbook deals with elementary syntax [@smirnovsky1899] and this volume includes a few examples of graphical grammar. The example in [@next] is a sentence taken from Sergey Timofeyevich Aksakov's *Childhood years of the Bagrov grandson* (1858). Smirnovsky proposes a *графическимь способомь* 'graphical method' to analyse this sentence as shown in [@fig:smirnovsky1899_4].
+Pyotr Vladimirovich Smirnovsky (1846—1904) was a teacher in St. Petersburg.^[Some basic biographical information is available on Wikipedia at <https://ru.wikipedia.org/wiki/Смирновский,_Пётр_Владимирович>, accessed 26 March 2025.] He wrote various textbooks, among them the two-volume *Textbook of Russian grammar for junior grades of secondary educational institutions*. This textbook was probably first published in 1884, but I have only been able to access a version from 1899. The second volume of this textbook deals with elementary syntax [@smirnovsky1899] and this volume includes a few examples of graphical grammar. The example in [@next] is a sentence taken from Sergey Timofeyevich Aksakov's *Childhood years of the Bagrov grandson* (1858). Smirnovsky proposes a *графическимь способомь* 'graphical method' to analyse this sentence as shown in [@fig:smirnovsky1899_4]. Given the details (viz. subject/predicate on top and vertical lines for dependency) and the early date of this graphical analysis, the only possible inspiration seems to be the approach by Hoffman (see [@sec:hoffmann1839]), though there is no explicit evidence in the work of Smirnovsky for such a connection.
 
 ::: ex
 | Russian [@smirnovsky1899: 4, citing Aksakov]
@@ -786,7 +786,7 @@ Pyotr Vladimirovich Smirnovsky (1846—1904) was a teacher in St. Petersburg.^[S
 
 Konstantin Fedorovich Petrov (1850-1914) wrote an introductory grammar of Russian, called *Русскій язык* 'Russian language' in 1880. The first volume, called *синтаксис* 'syntax', contains two dependency-like sentence analyses. Petrov also writes a second volume about morphology, called *этимологія* 'etymology', which will not be further discussed here.^[Various editions of the etymology volume are available online: the second edition from 1886 at <https://vivaldi.dspl.ru/bx0005310>, the 24th edition from 1913 at <https://rusneb.ru/catalog/000202_000006_2570896>, the 27th edtion from 1915 at <https://imwerden.de/publ-1047> and the 32nd edition from 1922 (revised by Ushakov after Petrov's death) at <https://www.prlib.ru/en/node/363128>.] These books were popular and appeared in at least 32 editions up to the end of the 1920s.
 
-In the early editions of the syntax that I have been able to access there is no graphical grammar, neither in the second edition [@petrov1881] not in the eight edition [@petrov1898]. However, a graphical display is added around the turn of the century. Thümmel [-@thummel1993: 171] cites an example from the 12th edition of 1906 and apparently the same graphics (on exactly the same page number, viz. page 127) are also found in the 20th edition, as cited below [@petrov1912: 127]. Petrov adds the graphical analyses to his grammar without any explanation and as a separate page at the end of the book, quite detached from the rest of the grammar. I have not been able to find any indications about what compelled Petrov to add these graphics, nor whether there was any influence from other authors. Petrov uses vertical arrows, which is reminiscent of Beckman (see [@sec:beckman1904]). However, the details differ substantially between Beckman's and Petrov's approach, specifically the arrows are pointing in opposite directions.
+In the early editions of the syntax that I have been able to access there is no graphical grammar, neither in the second edition [@petrov1881] not in the eight edition [@petrov1898]. However, a graphical display is added around the turn of the century. Thümmel [-@thummel1993: 171] cites an example from the 12th edition of 1906 and apparently the same graphics (on exactly the same page number, viz. page 127) are also found in the 20th edition, as cited below [@petrov1912: 127]. Petrov adds the graphical analyses to his grammar without any explanation and as a separate page at the end of the book, quite detached from the rest of the grammar. I have not been able to find any indications about what compelled Petrov to add these graphics, nor whether there was any influence from other authors. Petrov migh very well be influenced by Smirnovsky (see [@sec:smirnovsky1899]). However, differently from Smirnovsky, Petrov uses vertical arrows, which is reminiscent of Beckman (see [@sec:beckman1904]). However, the details differ substantially between Beckman's and Petrov's approach, specifically the arrows are pointing in opposite directions.
 
 Petrov's analysis of a single-clause sentence from Pushkin [@next] is shown in [@fig:petrov1912_127a]. This graphic has the subject *полоса* 'stripe' and predicate *объемлетъ* 'include' on top. The dependents are placed below linked by arrows. However, the two lower arrows are quite unusual, because they link the words at the bottom to the words in the middle, but that does not reflect the meaning of the sentence. To the left, the adjective *багряной* 'red' modifies *полоса* 'stripe' and not *зари* 'dawn'. Likewise to the right, the object *небеса* 'sky' should be linked directly to the predicate *объемлетъ* 'include' and not the the adverb *ярко* 'brightly'.
 
@@ -840,17 +840,16 @@ f.
 Analysis of a multi-clause sentence [@last] from Petrov [@petrov1912: 127]. The arrows are positioned starting at the word that is modified by the subsequent clause. The left-right placement of the clauses suggests the actual order of the clauses in the sentence.
 :::
 
-After the death of Petrov the books are updated by Ušakov (see [@sec:ušakov1926]). He makes a few minor changes to the graphical display as well [@petrov1923: 167]. First, Ušakov updates the Russian orthography. More interestingly, he reverses one arrow in the analysis of the multi-clause sentence. The new display is shown in [@fig:petrov1923_167b]. Ušakov reverses the arrow to the first subordinate clause, viz. the arrow marked *когда?* 'when?' now points upwards. The effect of this change is that the arrows can now be read as indicating the order in which the elements occur in the original sentence. I also found a 32nd edition with apparently the same content, but a different page-layout, in which also an arrow in the first graphic from [@fig:petrov1912_127a] is changed [@petrov1923a: 115]. This change does not make any sense to me. 
+After the death of Petrov the books are updated by Ushakov (see [@sec:ushakov1926]). He makes a few minor changes to the graphical display as well [@petrov1923: 167]. First, Ushakov updates the Russian orthography. More interestingly, he reverses one arrow in the analysis of the multi-clause sentence. The new display is shown in [@fig:petrov1923_167b]. Ushakov reverses the arrow to the first subordinate clause, viz. the arrow marked *когда?* 'when?' now points upwards. The effect of this change is that the arrows can now be read as indicating the order in which the elements occur in the original sentence. I also found a 32nd edition with apparently the same content, but a different page-layout, in which also an arrow in the first graphic from [@fig:petrov1912_127a] is changed [@petrov1923a: 115]. This change does not make any sense to me. 
 
 ::: {.im #petrov1923_167b}
-The same analysis of [@last] as shown in [@fig:petrov1912_127b] from the grammar by Petrov in the revision by Ushakov [-@petrov1923: 167]. The graphic is basically the same, though Ušakov updated the Russian orthography and, curiously, he reversed the direction of the arrow for the inital subordinate clause (marked *когда?* 'when'). Instead of pointing to the dependents, the arrows now seem to indicate the ordering of the clauses in the original sentence.
+The same analysis of [@last] as shown in [@fig:petrov1912_127b] from the grammar by Petrov in the revision by Ushakov [-@petrov1923: 167]. The graphic is basically the same, though Ushakov updated the Russian orthography and, curiously, he reversed the direction of the arrow for the inital subordinate clause (marked *когда?* 'when'). Instead of pointing to the dependents, the arrows now seem to indicate the ordering of the clauses in the original sentence.
 :::
 
 ### Peshkovsky (1914) *Русскій синтаксисъ въ научномъ освѣщеніи* {#sec:peshkovsky1914}
 
-Alexander Matveyevich Peshkovsky (1878-1933) 'Russian syntax in scientific education' [@peshkovsky1914: 293-294] thanks Ušakov [@peshkovsky1914: iii]
+Alexander Matveyevich Peshkovsky (1878-1933) 'Russian syntax in scientific education' [@peshkovsky1914: 293-294] thanks Ushakov [@peshkovsky1914: iii]
 
-https://www.marxists.org/portugues/dicionario/verbetes/p/peshkovsky_alexander_matveyevich.htm
 https://ru.wikipedia.org/wiki/Пешковский,_Александр_Матвеевич
 
 3rd edition 1928:67 https://www.prlib.ru/en/node/363106 reprinted many times 
@@ -892,7 +891,7 @@ d.
 3rd edition 1928:67, cited here from 1956:60 because of better quality
 :::
 
-second edtion 1922: 73
+second edtion 1922: 73 (preface signed 1918!)
 fifth edtion 1925: 59 footnote, https://www.prlib.ru/en/node/391069
 
 ### Zeltser & Vvedensky (1925) *Как самому изучать русский язык* {#sec:zeltser1925}
@@ -910,21 +909,21 @@ Sofya Afanasyevna Zeltser and Dmitry Nikolaevich Vvedensky wrote *Как сам�
 Analysis of the examples in [@last] from Zeltser & Vvedensky, cited here from the third edition because of better image quality [@zeltser1926: 68], but almost completely identical to second edition [@zeltser1925: 68]. The subject-predicate pairing at the top here forms a unit on which the other element depend.
 :::
 
-### Ušakov (1926) *Учебная книга по русскому языку* {#sec:ušakov1926}
+### Ushakov (1926) *Учебная книга по русскому языку* {#sec:ushakov1926}
 
-Dmitrij Nikolajevič Ušakov (1873-1942) was professor at the Russian language department of Moscow University and most well known for his work on the Russian spelling reform and for the *Толковым словарём русского языка* 'Explanatory Dictionary of the Russian Language'.^[Some basic biographical information is available online at <https://www.prlib.ru/en/history/618974>, accessed 13 March 2025.] Throughout his life he wrote various pedagogical textbooks about Russian. His *Brief introduction to the science of language* [@usakov1913] was reprinted various times, but it did not contain any graphical grammar. In 1923, after the death of Petrov (see [@sec:petrov1906]) Ušakov revised Petrov's grammar, which already included a few graphical representations of sentence structures. Only after this revision graphical analyses also appear in Ušakov's textbooks. Ušakov is also mentioned as the "editor" of Pustalov's textbook (see [@sec:pustovalov1928]) and he is acknowledged for his help by Peshkovsky (see [@sec:peshkovsky1914]).
+Dmitrij Nikolajevich Ushakov (1873-1942) was professor at the Russian language department of Moscow University and most well known for his work on the Russian spelling reform and for the *Толковым словарём русского языка* 'Explanatory Dictionary of the Russian Language'.^[Some basic biographical information is available online at <https://www.prlib.ru/en/history/618974>, accessed 13 March 2025.] Throughout his life he wrote various pedagogical textbooks about Russian. His *Brief introduction to the science of language* [@ushakov1913] was reprinted various times, but it did not contain any graphical grammar. In 1923, after the death of Petrov (see [@sec:petrov1906]) Ushakov revised Petrov's grammar, which already included a few graphical representations of sentence structures. Only after this revision graphical analyses also appear in Ushakov's textbooks. Ushakov is also mentioned as the "editor" of Pustalov's textbook (see [@sec:pustovalov1928]) and the grammar of Kryuchkov & Svetlaev (see [@sec:kryuchkov1936]). He is also acknowledged for his help by Peshkovsky (see [@sec:peshkovsky1914]).
 
-In 1926 Ušakov wrote a two-volume introductory textbook together with A.M. Smirnova and N.N. Nikolajevna called *Учебная книга по русскому языку* 'Textbook on the Russian language', cited here from the 15th edition [@usakov1930: 25-28]. It includes a few basic dependency-style trees like the one shown in [@fig:usakov1930_28] for the example in [@next]. Just like the graphics from Petrov, the relationships between the words are annotated with question words. This book is mentioned by Tesnière as a main influence on the development of his stemmata [@tesniere1959: 15, fn. 1].
+In 1926 Ushakov wrote a two-volume introductory textbook together with A.M. Smirnova and N.N. Shchepetova called *Учебная книга по русскому языку* 'Textbook on the Russian language', cited here from the 15th edition [@ushakov1930: 25-28]. It includes a few basic dependency-style trees like the one shown in [@fig:ushakov1930_28] for the example in [@next]. Just like the graphics from Petrov, the relationships between the words are annotated with question words. This book is mentioned by Tesnière as a main influence on the development of his stemmata, together with the grammar by Kryuchkov & Svetlaev [@tesniere1959: 15, fn. 1].
 
 ::: ex
-| Russian [@usakov1930: 28]
+| Russian [@ushakov1930: 28]
 | Дикие утки летят вечером на озеро.
 | wild ducks fly evening to lake
 | Wild ducks fly to the lake in the evening.
 :::
 
-::: {.im #usakov1930_28}
-*схема* 'scheme' for the example in [@last] from Ušakov, Smirnova & Nikolajevna [-@usakov1930: 28]. The annotation of the relationships with questionwords is reminiscent of the graphics of Petrov (see [@fig:petrov1912_127a]). Differently from Petrov, the arrows are replaced with simple lines.
+::: {.im #ushakov1930_28}
+*схема* 'scheme' for the example in [@last] from Ushakov, Smirnova & Nikolajevna [-@ushakov1930: 28]. The annotation of the relationships with questionwords is reminiscent of the graphics of Petrov (see [@fig:petrov1912_127a]). Differently from Petrov, the arrows are replaced with simple lines.
 :::
 
 ### Pustovalov (1928) *Русский язык* {#sec:pustovalov1928}
@@ -932,6 +931,23 @@ In 1926 Ušakov wrote a two-volume introductory textbook together with A.M. Smir
 I.I. Pustovalov (???)
 
 Russian language: a workbook for preparation to the university (1928: p29, 33-34, 79, 138, 167-168) https://www.prlib.ru/en/node/363134
+
+### Kryuchkov & Svetlaev (1936) *Грамматика учебник для школ взрослых* {#sec:kryuchkov1936}
+
+Sergey Efimovich Kryuchkov (1897-1969) was a teacher and educator at the Moscow State Pedagogical Institute and the Lomonosov Moscow State University.^[Some basic biographical information is available on Wikipedia at <https://ru.wikipedia.org/wiki/Крючков,_Сергей_Ефимович>, accessed 26 March 2025.] Mikhail Vasilyevich Svetlaev (1898-1959) was a teacher at the Moscow Pedagogical Defectological Institute and also worked at the Moscow Polygraphic Institute.^[Some basic biographical information is available on Wikipedia at <https://ru.wikipedia.org/wiki/Светлаев,_Михаил_Васильевич>, accessed 26 March 2025.] Both these authors wrote various textbooks in collaboration with other linguists. Together they wrote the *Грамматика учебник для школ взрослых* 'Grammar textbook for adult schools'. This book probably first appeared in 1925 but I have only been able to access the widespread 13th edition from 1936 [@kryuchkov1936]. Exactly this edition is mentioned by Tesnière as a main influence on the development of his stemmata [@tesniere1959: 15, fn. 1].
+
+Kryuchkov & Svetlaev use a *схе́ма* 'scheme' that is very similar to the visualisations of Smirnovksy (see [@sec:smirnovsky1899]) and Ushakov (see [@sec:ushakov1926]). The content of the example in [@next] shows that the revolution has also permeated the grammatical textbooks by this point in time.
+
+::: ex
+| Russian [@kryuchkov1936: 6]
+| Классовый враг бешено сопротивляется социалистическому наступлению.
+| class enemy furiously resist socialist offensive
+| The class enemy is furiously resisting the socialist offensive.
+:::
+
+::: {.im #kryuchkov1936_6}
+*схе́ма* 'scheme' for the example [@last] from Kryuchkov & Svetlaev [-@kryuchkov1936: 6]. This graphical analysis is very similar to the approaches of Smirnovsky in [@fig:smirnovsky1899_4] and of Ushakov *et al.* in [@fig:ushakov1930_28].
+:::
 
 ### Barkhudarov (1938) *Грамматика русского языка*
 
@@ -991,39 +1007,19 @@ Basic scheme in [@barkhudarov1963: 11]
 
 Beskrovny, Andrey Efimovich (1940: 14): https://www.prlib.ru/en/node/337185
 
+### Zemskij, Kruchkov & Svetlajev (1950)
+
+[@zemskij1950: 62]
+
+- Andrej Michajlovič Zemskij (1892-1946) https://library.upol.cz/arl-upol/en/detail-upol_us_auth-0295050-Zemskij-Andrej-Michajlovic-18921946/?iset=3&qt=mg
+- Sergej Jefimovič Krjučkov (1897-1969) teacher and educator at the Moscow State Pedagogical Institute and the Lomonosov Moscow State University https://library.upol.cz/arl-upol/cs/detail-upol_us_auth-0301642-Krjuckov-Sergej-Jefimovic-18971969/?qt=mg https://ru.wikipedia.org/wiki/Крючков,_Сергей_Ефимович
+- Michail Vasil'jevič Svetlajev (1898-1959) https://library.upol.cz/arl-upol/en/detail-upol_us_auth-0336498-Svetlajev-Michail-Vasiljevic-18981959/ https://ru.wikipedia.org/wiki/Светлаев,_Михаил_Васильевич
+
 ### Admoni (1961) *Partiturnoje strojenije*
 
 Admoni: Partiturnoje strojenije recevoj cepi i sistema grammaticeskich znacenij ν predlo/.enii [Die „Partitur"-Struktur der Redekette und das System grammatischer Bedeutungen im Satz]. In: Naucnyje doklady vysäej äkoly. Filologiceskije nauki [Wissenschaftliche Beiträge der er Hochschule. Philologische Wissenschaften]. 1961, H° 3. - 253, 272, 278, 288
 
 see also 4th edition 1982, p. 311-317 https://archive.org/details/derdeutschesprac0000admo
-
-### Krjučkov & Svetlajev (1936) *Грамматика учебник для школ взрослых*
-
-first edition from 1925?
-
-Krjučkov and Svetlïev (1936) cited by Tesniere! <https://www.osmikon.de/osmikonsearch/search?id=rgk14500941&sid=39503189>
- (Grammar textbook for adult schools)
-
-https://libr.msu.by/handle/123456789/20940
-
-S. E. KRYUCHKOV and M. V, SVETLAEV
-GRAMMAR
-TEXTBOOK
-for SCHOOLS FOR ADULTS
-Edited by prof. D. N. USHAKOV
-13TH EDITION
-Approved by
-Iarkompros RSFSR
-STATE
-EDUCATIONAL PEDAGOGICAL PUBLISHING HOUSE
-MOSCOW — 1936
-
-
-- [@zemskij1950: 62]
-
-- Andrej Michajlovič Zemskij (1892-1946) https://library.upol.cz/arl-upol/en/detail-upol_us_auth-0295050-Zemskij-Andrej-Michajlovic-18921946/?iset=3&qt=mg
-- Sergej Jefimovič Krjučkov (1897-1969) teacher and educator at the Moscow State Pedagogical Institute and the Lomonosov Moscow State University https://library.upol.cz/arl-upol/cs/detail-upol_us_auth-0301642-Krjuckov-Sergej-Jefimovic-18971969/?qt=mg https://ru.wikipedia.org/wiki/Крючков,_Сергей_Ефимович
-- Michail Vasil'jevič Svetlajev (1898-1959) https://library.upol.cz/arl-upol/en/detail-upol_us_auth-0336498-Svetlajev-Michail-Vasiljevic-18981959/ https://ru.wikipedia.org/wiki/Светлаев,_Михаил_Васильевич
 
 ## Lithuanian
 
