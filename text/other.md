@@ -991,7 +991,7 @@ In 1926 Ushakov wrote a two-volume introductory textbook together with A.M. Smir
 
 I.I. Pustovalov (???)
 
-Russian language: a workbook for preparation to the university (1928: p29, 33-34, 79, 138, 167-168) https://www.prlib.ru/en/node/363134
+Russian language: a workbook for preparation to the university (1928: p29, 33-34, 75, 138, 167-168) https://www.prlib.ru/en/node/363134
 
 ### Kryuchkov & Svetlaev (1936) *Грамматика учебник для школ взрослых* {#sec:kryuchkov1936}
 
@@ -1119,3 +1119,9 @@ https://journals.lki.lt/bendrinekalba/article/view/2210
 ### Li Jinxi *New Grammar of the National Language* 
 
 Chinese version of reed/kellog: Li Jinxi *New Grammar of the National Language* [@mossner1960; @peverelli2015: 97-104]
+
+## Japanese
+
+Hori Hidenari (1819-87) 弖爾乎波略図義解 'A simple illustrated explanation of Telhoba' (1858) https://dl.ndl.go.jp/pid/13387055
+
+bio: https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9559
