@@ -288,7 +288,7 @@ Single-clause sentence [@last a] in the analysis of Lindwall [-@lindwall1903: 13
 Multi-clause sentence [@last b] in the analysis of Lindwall [-@lindwall1903: 146]. Each line represents a clause in the order as they occur in the sentence. Main clause are shown horizontally, primary subordinate clauses vertically. Any subsequent subordination is shown by a diagonal line, alternating in direction.
 :::
 
-### Beckman (1904) *Svensk Språklära* {#sec:beckman1904}
+### Beckman (1904) *Svensk språklära* {#sec:beckman1904}
 
 Karl Frederik *Natanael* Beckman (1868-1946) was a high school teacher and later professor of Scandinavian languages at Gothenburg University [more biographical details are available in @friesen1922]. He wrote many different analyses of Swedish, both synchronically and diachronically. His *Svensk språklära för den högre elementarundervisningen* [@beckman1904] has been widely used and has remained in print at least until a 9th edition in the 1960s. He also prepared two reduced versions of this work, namely the *Svensk språklära för elementarundervisningen* [@beckman1908] and the *Svensk språklära för folkskolan* [@beckman1912]. These do not seem to add anything new and will not be further discussed here. 
 
@@ -340,21 +340,23 @@ b.
 Hierarchical morphological structure of the compound in [@last a] from Noreen [-@noreen1906: 33]. Noreen did not visualise the structure as a tree, but he used dashes to indicate the hierarchical structure. The number of dashes was intended as an indication of the hierarchical structure, which is depicted here in a modern way.
 :::
 
-### Rebbe (1935) *Svensk språklära för realskolan*
+### Rebbe (1912) *Svensk språklära för realskolan*
 
 Carl Rebbe (1862-1948) was a teacher in Gothenburg [some basic biographical information is available in @sjogren1949]. In 1912 he wrote the *Svensk språklära för realskolan* 'Swedish language-teaching for middle school'. This book has been extremely popular and remained in print in various editions and revisions until the 1970s, revised by either Nils Ivan, Helge Gullberg and/or Birger Bjerre. I have only been able to access the tenth edition from 1935 [@rebbe1935]. Starting in 1917 Rebbe also prepared a frequently reprinted *kortfattad* 'concise' version of the *Svensk språklära*. And in 1902 he published a collection of examples called *Exempelsamling till inöfvande af allmänna satsläran och skiljetecknens bruk* 'Collection of examples for practicing general syntax and the use of punctuation marks'. Walter Fischer revised this collection in 1914 with a minor change in title (*svenska satsläran* instead of *allmänna satsläran*). All these different textbooks and their numerous editions need a more in-depth investigation and comparison.
 
-In the 1935 version, there is a single page with various examples of the graphical analysis of single-clause sentences [@rebbe1935: 188]. An example is shown in [@fig:rebbe1935_118] for the example in [@next]. The pointing arrows are clearly similar to the approach from Beckman (see [@sec:beckman1904]). The other examples also show various details that indicate that this visual display was inspired by Beckman (e.g. adverbials pointing to the line connecting subject and predicate).
+Already verbatim in first edition [@rebbe1912: 116].
+
+In the 1935 version, there is a single page with various examples of the graphical analysis of single-clause sentences [@rebbe1935: 118]. An example is shown in [@fig:rebbe1935_118] for the example in [@next]. The pointing arrows are clearly similar to the approach from Beckman (see [@sec:beckman1904]). The other examples also show various details that indicate that this visual display was inspired by Beckman (e.g. adverbials pointing to the line connecting subject and predicate).
 
 ::: ex
-| Swedish [@rebbe1935: 188]
+| Swedish [@rebbe1935: 118]
 | Eriks far har givit honom en dyrbar färglåda.
 | Erik‑GEN father has given 3SG.OBJ ART precious paintbox
 | Erik's father has given him a precious paint box.
 :::
 
 ::: {.im #rebbe1935_118}
-Graphical analysis of the sentence [@last] from Rebbe [-@rebbe1935: 188]. The pointing arrows for modification are similar to Beckman's approach (cf. [@fig:beckman1904_194]).
+Graphical analysis of the sentence [@last] from Rebbe [-@rebbe1935: 118]. The pointing arrows for modification are similar to Beckman's approach (cf. [@fig:beckman1904_194]).
 :::
 
 ## Finnish
@@ -744,8 +746,8 @@ Krylov's fable *The wolf and the shepherds*, cited in Buslaev [-@buslaev1844: 26
 Structure of subordination of the fable in [@last] as analysed by Buslaev [-@buslaev1844: 260]. The original sentence has a complex centre-embedded structure. The large brackets indicate that this part should be placed internal to the part above it.
 :::
 
-Philip Fedorovich Fortunatov (1948-1914)^[Some basic biographical information is available online at <https://en.wikipedia.org/wiki/Filipp_Fortunatov>, accessed 25 March 2025.] was a student of Buslaev and the teacher of Peshkovsky (see [@sec:peshkovsky1914]) and Ushakov (see [@sec:ushakov1926]), who in turn had a great influence on the post-revolution russian grammarians. However, Fortunatov does not appear to have used any graphical grammar. Also, the post-revolution grammatical visualisation in the russian tradition do not follow Buslaev's approach, so there does not seem to have been a direct influence.
-
+Philip Fedorovich Fortunatov (1948-1914)^[Some basic biographical information is available online at <https://en.wikipedia.org/wiki/Filipp_Fortunatov>, accessed 25 March 2025.] was a student of Buslaev and the teacher of Ushakov (born 1873, see [@sec:ushakov1926]) and Peshkovsky (born 1878, see [@sec:peshkovsky1914]), who in turn both had a great influence on the post-revolution russian grammarians (born after 1890). However, Fortunatov does not appear to have used any graphical grammar. Also, the post-revolution grammatical visualisation in the russian tradition do not follow Buslaev's approach, so there does not seem to have been a direct influence. In their effort to renew grammatical analysis, Ushakov and Peshkovsky appear to be influenced by Petrov (see [@sec:petrov1906]), who in turn seems to be influenced by Smirnovsky (see [@sec:smirnovsky1899]). However, Ushakov and Peshkovsky only seem to have 'discovered' Petrov's graphical grammar after the revolution in the early 1920s.
+ 
 ### Lugebil (1883) *Синтаксись Аполлонія Даскола* {#sec:lugebil1883}
 
 Karl Yakimovich Lugebil (1830-1887) was a classical scholar, teacher and from 1864 professor in St. Petersburg.^[Some basic biographical information is available online at <https://www.biografija.ru/biography/ljugebil-karl-yakimovich.htm>, accessed 22 February 2025.] In a review of a book by Anton Dobiasz about the *Syntax* of Apollonius Dyscolus he uses various graphical syntactic analyses [@lugebil1883: 127-128]. In his review, Lugebil mostly cites German grammatical literature, for example there is a long discussion about the merits of Becker's grammatical ideas (cf. [@sec:becker1829]). Later, in a discussion about different interpretations of copula constructions, Lugebil cites Lehmann (see [@sec:lehmann1833]) and Nägelsbach (see [@sec:nägelsbach1846]) as important proponents of the idea to use graphical representations to explain grammatical structure:
@@ -768,6 +770,8 @@ Different analyses of the Latin sentence [@last] from Lugebil [-@lugebil1883: 12
 :::
 
 ### Smirnovsky (1899) *Учебник русской грамматики* {#sec:smirnovsky1899}
+
+8th edition 1896 exactly identical [@smirnovsky1896]
 
 Pyotr Vladimirovich Smirnovsky (1846—1904) was a teacher in St. Petersburg.^[Some basic biographical information is available on Wikipedia at <https://ru.wikipedia.org/wiki/Смирновский,_Пётр_Владимирович>, accessed 26 March 2025.] He wrote various textbooks, among them the two-volume *Textbook of Russian grammar for junior grades of secondary educational institutions*. This textbook was probably first published in 1884, but I have only been able to access a version from 1899. The second volume of this textbook deals with elementary syntax [@smirnovsky1899] and this volume includes a few examples of graphical grammar. The example in [@next] is a sentence taken from Sergey Timofeyevich Aksakov's *Childhood years of the Bagrov grandson* (1858). Smirnovsky proposes a *графическимь способомь* 'graphical method' to analyse this sentence as shown in [@fig:smirnovsky1899_4]. Given the details (viz. subject/predicate on top and vertical lines for dependency) and the early date of this graphical analysis, the only possible inspiration seems to be the approach by Hoffman (see [@sec:hoffmann1839]), though there is no explicit evidence in the work of Smirnovsky for such a connection.
 
@@ -848,13 +852,9 @@ The same analysis of [@last] as shown in [@fig:petrov1912_127b] from the grammar
 
 ### Peshkovsky (1914) *Русскій синтаксисъ въ научномъ освѣщеніи* {#sec:peshkovsky1914}
 
-Alexander Matveyevich Peshkovsky (1878-1933) 'Russian syntax in scientific education' [@peshkovsky1914: 293-294] thanks Ushakov [@peshkovsky1914: iii]
+Alexander Matveyevich Peshkovsky (1878-1933) was an educator and prolific author of grammatical textbooks.^[Some basic biographical information is available online at <https://ru.wikipedia.org/wiki/Пешковский,_Александр_Матвеевич>, accessed 27 March 2025.] In his textbooks he used various different approaches to graphically explain syntactic structures. It appears like he is experimenting with different formats. His most influential work was *Русскій синтаксисъ въ научномъ освѣщеніи* 'Russian syntax in scientific education', which was first published in 1914 [@peshkovsky1914]. In the introduction [@peshkovsky1914: iii] he thanks Ushakov (see [@sec:ushakov1926]), who is just a few years older and they both studied with Fortunatov in Moscow. 
 
-https://ru.wikipedia.org/wiki/Пешковский,_Александр_Матвеевич
-
-3rd edition 1928:67 https://www.prlib.ru/en/node/363106 reprinted many times 
-
-Discussing conjunctions, he uses graphics without much explanation
+The first edition of the *Russian Syntax* from 1914 has a peculiar attempt to graphically explain different kinds of conjunctions in [@next] by using different kind of lines, but these graphics are used without much explanation. Although there is some dependency implied in these graphics (see [@fig:peshkovsky1914_293]) it remains unclear why Peshkovsky added these graphics only for this grammatical topic.
 
 ::: ex
 a.
@@ -880,26 +880,87 @@ d.
 :::
 
 ::: {.im #peshkovsky1914_293}
-[@peshkovsky1914: 293]
+Graphical illustration of [@last a,b] from Peshkovsky [-@peshkovsky1914: 293].
 :::
 
 ::: {.im #peshkovsky1914_294}
-[@peshkovsky1914: 294]
+Graphical illustration of [@last c,d] from Peshkovsky [-@peshkovsky1914: 294].
+:::
+
+The second edition of the *Russian syntax* is basically unchanged [@peshkovsky1920], but the third edition introduces major changes [@peshkovsky1928]. It is this edition that has had the most influence and it has been reprinted many times. In this edition Peshkovsky adds graphical representations as shown in [@fig:peshkovsky1956_60] for the examples sentences in [@next]. The graphics are not labelled, so it becomes a bit of a puzzle to interpret the intended structure. The little circles are supposed to be words linked by dependency, with heads being on top and dependents below. Crucially, the graphics all start with the subject on top and the predicate directly below. The left-right orientation of the branching appears to have been chosen purely on an ad-hoc basis to allow for a nice display. The graphical decision to use small circles might have been an influence of the graphic by Zelser & Vvedensky (see [@sec:zeltser1925]), which was published a few years earlier than the third edition of Peshkovksy's book.
+
+::: ex
+a.
+| Schema А [@peshkovsky1928: 63, 68]
+| сестра нашла мой ручку
+| sister found my pen
+| (My) sister found my pen.
+b.
+| Schema Б [@peshkovsky1928: 64]
+| я быстро пишу тупым карандаш‑ом требование прислать немедленно вооруженный отряд милиции
+| I quickly write blunt pencil‑with demand send immediately armed squad police
+| With a blunt pencil I quickly write a demand to immediately send an armed police squad.
+c.
+| Schema В [@peshkovsky1928: 68, citing Tolstoi *War and Peace*)
+| слабый, свежий ветерок играл волос‑ам‑и открыты‑х голов и лентам‑и
+| weak fresh breeze play hair‑with‑PL open head‑PL and ribbon‑PL
+| A weak, fresh breeze played with the hair of the uncovered heads and the ribbons.
+d.
+| Schema Г [@peshkovsky1928: 65, citing Pushkin *The Mermaid*]
+| в лесу ночной порой и дикий зверь, и лютый человек, и леший бродит
+| in forest night sometimes and wild beast and fierce man and goblin wander
+| In the forest at night, a wild beast, a fierce man and a goblin roam.
 :::
 
 ::: {.im #peshkovsky1956_60}
-3rd edition 1928:67, cited here from 1956:60 because of better quality
+Newly added *схема* 'schemas' to the third edition of the Russian Syntax of Peshkovsky [-@peshkovsky1928: 67], cited here from the seventh edition [@peshkovsky1956: 60] because of the better image quality. This visualisation with the open circels migth have been inspired by Zeltser & Vvedensky (see [@fig:zeltser1926_68]). Peshkovsky's images are not annotated, so it is a puzzle to interpret them. Subject-predicate is placed top-down. Coordination is indicated by round arches. The left-right order of the branching appears to be chosen in such a way as to be visually pleasing.
 :::
 
-second edtion 1922: 73 (preface signed 1918!)
-fifth edtion 1925: 59 footnote, https://www.prlib.ru/en/node/391069
+Together with the *Russian syntax* Peshkovsky in 1914 also wrote a companion essay directed to teachers: *Школьная и научная грамматика* 'School and scientific grammar'. In the second revised edition Peshkovsky adds a single graphical analysis in a footnote [@peshkovsky1918: 73].^[The third edtion [@peshkovsky1922] and the fifth edition [@peshkovsky1925] are basically identical to the second edition.] In the introduction to the second edition, Peshkovsky describes that his thinking has changed so much that a major revision of his *Russian syntax* is also necessary, which will lead to the major revision of 1928 as dicussed above. However, the graphic from 1918, as shown in [@fig:peshkovsky1918_73] for the example in [@next], is visually much closer to the proposals of Petrov (see [@sec:petrov1906]), using arrows to indicate dependency.
+
+::: ex
+| [@peshkovsky1918: 73, citing Turgenev's *Bezhin Meadow*]
+| погрузится в лиловый её туман
+| sink in purple her fog
+| (The sun) will sink into her purple fog.
+:::
+
+::: {.im #peshkovsky1918_73}
+*Схематического рисунка* 'schematic drawing' for the example [@last] from Peshkovsky [-@peshkovsky1918: 73]. The use of arrows is reminiscent of Petrov (see [@fig:petrov1912_127a]).
+:::
+
+The developement of Peshkovky's thinking on the graphical representation of syntactic structures can be discerned from the paper *Понятие отдельного слова* 'the concept of a single word'. This paper was probably published before 1918, but I have not been able to locate the original. It is cited here from a later collection of papers by Peshkovsky [-@peshkovsky1925a: 122-140]. In this paper Peshkovsky uses a visualisation of the dependencies in a sentence as illustrated in [@fig:peshkovsky1925_127] for the example [@next]. The use of arrows is basically the same as in the previous example, but they are placed above and below the sentence in its original form. This allows for the order of the sentence to be shown in the illustration, which is more difficult when using the vertical arrangment of dependency as shown above in [@fig:peshkovsky1918_73].
+
+::: ex
+| [@peshkovsky1925a: 127]
+| старый дом отца красив
+| old house father.GEN beautiful
+| Father's old house is beautiful.
+:::
+
+::: {.im #peshkovsky1925_127}
+Illustration of the dependency for the sentence [@last] from Peshkovsky [-@peshkovsky1925a: 127]. The arrows show the dependencies, with the arrow at the bottom pointing from the subject to the predicate. The arrows on top indicate dependencies inside the subject.
+:::
+
+Later, Peshkovsky wrote a four volume introductory grammatical textbook *Первые уроки русского языка* 'First Russian language lessons' together with M. N. Andreevskaya and A. P. Gubskaya, cited here from the second edition. In the fourth volume they use various graphical displays of sentence structure in the Petrov-Ushakov tradition [@peshkovsky1931: 14-15, 27-28, 30, 35, 37-38], for example in [@fig:peshkovsky1931_35] for the example sentence in [@next]. The only notewhorthy difference is the fact that the subject and the predicate are connected by an arrow, pointing in the direction of the predicate. This interpretation that the predicate is a dependent of the subject is a recurrent theme in Peshkovsky's graphical display.
+
+::: ex
+| [@peshkovsky1931: 35]
+| Трудная постройка Туркестано‑сибирской железной дороги недавно закончилась.
+| difficult construction Turkestan‑Siberian iron road recently completed
+| The difficult construction of the Turkestan‑Siberian Railway was recently completed.
+:::
+
+::: {.im #peshkovsky1931_35}
+*Чертежи хода зависимости* 'dependency line figure' for the example in [@last] from Peshkovsky *et al.* [-@peshkovsky1931: 35]. Different from the other Russian examples, the subject is connected to the predicate with an arrow.
+:::
 
 ### Zeltser & Vvedensky (1925) *Как самому изучать русский язык* {#sec:zeltser1925}
 
 Sofya Afanasyevna Zeltser and Dmitry Nikolaevich Vvedensky wrote *Как самому изучать русский язык* 'How to learn Russian yourself' around 1925 [the second edition is @zeltser1925]. The book includes a single dependency-like tree for the sentence [@next] as shown in [@fig:zeltser1926_68]. As in many other such graphics, the subject-predicate pair is placed on top. However, different from all other approaches, the other elements are linked to this whole pair, not to the predicate alone. Also notewhorthy is the fact, that the words are not themselves interpreted as the the nodes in the graph, but placed along the edges.
 
 ::: ex
-| 
+| [@zeltser1925: 68]
 | председатель предоставляет Мухину слово для доклада о партийном преступлении Терентьева.
 | chairman give Mukhin word to report on political offense Terentyev
 | The chairman gives Mukhin the floor to report on Terentyev’s political offense.
@@ -1006,6 +1067,34 @@ Basic scheme in [@barkhudarov1963: 11]
 ### Beskrovny (1940)
 
 Beskrovny, Andrey Efimovich (1940: 14): https://www.prlib.ru/en/node/337185
+
+### Barkhudarov & Shcherba (1946)
+
+Lev Vladimirovich Shcherba (1880-1944) https://ru.wikipedia.org/wiki/Щерба,_Лев_Владимирович
+
+https://sovetskie-uchebniki.ru/grammatika-russkogo-yazyka-shcherba-1946/ page 8
+
+GRAMMAR
+OF THE RUSSIAN LANGUAGE
+PART ONE
+PHONETICS AND MORPHOLOGY
+SEVENTH EDITION
+
+TEXTBOOK FOR GRADES 5 AND 6
+OF SEVEN-YEAR AND SECONDARY SCHOOL
+
+Edited by
+Academician L. V. SHCHERBA
+Approved by the Education Management Committee of the RSFSR
+STATE EDUCATIONAL AND PEDAGOGICAL PUBLISHING HOUSE
+OF THE MINISTRY OF EDUCATION OF THE RSFSR
+MOSCOW # 1946
+
+FROM THE EDITOR.
+The first four editions of this textbook (1 part, Phonetics and Morphology"), published during 1938-1941, were printed without changes.
+In the fifth edition, released in 1944, the main author of the textbook, Professor S. G. Barkhudarov, together with the editor, Academician L. V. Shcherba, made some additions and changes, which were mostly retained in the sixth edition of 1945.
+As a result of these changes, starting with the fifth edition, the numbering of paragraphs in the textbook and the exercises given in it does not always coincide with the numbering in the editions of previous years.
+This, my edition is printed according to the sixth without alterations, with the exception of the replacement of individual texts made in it by Professor S. G. Barkhudarov in some exercises.
 
 ### Zemskij, Kruchkov & Svetlajev (1950)
 
