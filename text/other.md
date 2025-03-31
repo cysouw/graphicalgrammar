@@ -779,14 +779,6 @@ Lugebil uses a completely different graphical format from Lehmann and Nägelsbac
 Different analyses of the Latin sentence [@last] from Lugebil [-@lugebil1883: 127]. According to Lugebil, the regular "newer" interpretation of this sentence is shown to the right, while the "older" meaning is shown to the left. In this "older" interpretation the sentence would be something like 'Cicero is a consul, installed in that year'.
 :::
 
-### Polivanov
-
-Lev Ivanovich Polivanov (1838-1899), student of Buslaev
-
-- https://bigenc.ru/c/polivanov-lev-ivanovich-53a79c
-- https://fedordostoevsky.ru/around/Polivanov_L_I/
-- etymology: https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11814581-0
-
 ### Smirnovsky (1899) *Учебник русской грамматики* {#sec:smirnovsky1899}
 
 7th edition 1895 exactly identical, 8th edition 1896 exactly identical [@smirnovsky1896]
@@ -1129,6 +1121,14 @@ This, my edition is printed according to the sixth without alterations, with the
 Admoni: Partiturnoje strojenije recevoj cepi i sistema grammaticeskich znacenij ν predlo/.enii [Die „Partitur"-Struktur der Redekette und das System grammatischer Bedeutungen im Satz]. In: Naucnyje doklady vysäej äkoly. Filologiceskije nauki [Wissenschaftliche Beiträge der er Hochschule. Philologische Wissenschaften]. 1961, H° 3. - 253, 272, 278, 288
 
 see also 4th edition 1982, p. 311-317 https://archive.org/details/derdeutschesprac0000admo
+
+### Polivanov
+
+Lev Ivanovich Polivanov (1838-1899), student of Buslaev
+
+- https://bigenc.ru/c/polivanov-lev-ivanovich-53a79c
+- https://fedordostoevsky.ru/around/Polivanov_L_I/
+- etymology: https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11814581-0
 
 ## Lithuanian
 
