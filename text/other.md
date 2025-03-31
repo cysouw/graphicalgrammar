@@ -257,6 +257,16 @@ example p. 162, 167 (only later editions), 186
 
 He knew about Hansen, but never cited it. acknowledgement in 1964 Festschrift for Hansen [@diderichsen1966: 364].
 
+### Rehling (1951) *Det danske Sprog*
+
+Erik Johan Gerhard Rehling (1890-1978) https://biografiskleksikon.lex.dk/Erik_Rehling
+
+first edition 1932, third completely revised edtion 1951
+
+::: {.im #rehling1951_232}
+[@rehling1951: 232-233]
+:::
+
 ## Swedish
 
 ### Lindwall (1903) *Några ord om satsanalys* {#sec:lindwall1903}
@@ -769,9 +779,19 @@ Lugebil uses a completely different graphical format from Lehmann and Nägelsbac
 Different analyses of the Latin sentence [@last] from Lugebil [-@lugebil1883: 127]. According to Lugebil, the regular "newer" interpretation of this sentence is shown to the right, while the "older" meaning is shown to the left. In this "older" interpretation the sentence would be something like 'Cicero is a consul, installed in that year'.
 :::
 
+### Polivanov
+
+Lev Ivanovich Polivanov (1838-1899), student of Buslaev
+
+- https://bigenc.ru/c/polivanov-lev-ivanovich-53a79c
+- https://fedordostoevsky.ru/around/Polivanov_L_I/
+- etymology: https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11814581-0
+
 ### Smirnovsky (1899) *Учебник русской грамматики* {#sec:smirnovsky1899}
 
-8th edition 1896 exactly identical [@smirnovsky1896]
+7th edition 1895 exactly identical, 8th edition 1896 exactly identical [@smirnovsky1896]
+
+"I have made quite significant changes in the fourth edition of my book"
 
 Pyotr Vladimirovich Smirnovsky (1846—1904) was a teacher in St. Petersburg.^[Some basic biographical information is available on Wikipedia at <https://ru.wikipedia.org/wiki/Смирновский,_Пётр_Владимирович>, accessed 26 March 2025.] He wrote various textbooks, among them the two-volume *Textbook of Russian grammar for junior grades of secondary educational institutions*. This textbook was probably first published in 1884, but I have only been able to access a version from 1899. The second volume of this textbook deals with elementary syntax [@smirnovsky1899] and this volume includes a few examples of graphical grammar. The example in [@next] is a sentence taken from Sergey Timofeyevich Aksakov's *Childhood years of the Bagrov grandson* (1858). Smirnovsky proposes a *графическимь способомь* 'graphical method' to analyse this sentence as shown in [@fig:smirnovsky1899_4]. Given the details (viz. subject/predicate on top and vertical lines for dependency) and the early date of this graphical analysis, the only possible inspiration seems to be the approach by Hoffman (see [@sec:hoffmann1839]), though there is no explicit evidence in the work of Smirnovsky for such a connection.
 
