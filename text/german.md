@@ -1212,7 +1212,7 @@ Als der Graf von Strassberg, welcher über den Brünig ins Unterwaldnerland eing
 
 ### Wilke (1892) *Das vereinfachte grammatische System* {#sec:wilke1892}
 
-Edwin Wilke (1861-) Rektor in Ratzebuhr (now Okonek in Poland), Coeslin 1890, Quedlinburg in 1899, 1903 and 1909. Follower of Diesterweg: https://books.google.de/books?vid=OSU:32435007786817. Cites Kern and Wundt.
+Edwin Wilke (1861-) Rektor in Ratzebuhr (now Okonek in Poland), Coeslin (Koszalin) 1890, Quedlinburg in 1899, 1903 and 1909. Follower of Diesterweg: https://books.google.de/books?vid=OSU:32435007786817. Cites Kern and Wundt.
 
 - "Sprachhefte für Volksschulen" 1st edition 1896 - 14th edtion 1921. nothing in <https://nbn-resolving.org/urn:nbn:de:101:1-201707099117>
 - 1923: Moegelin, Johannes: Sprachhefte für die neue deutsche Volksschule (after death Wilke?)

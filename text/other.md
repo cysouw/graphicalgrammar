@@ -606,11 +606,25 @@ Figures look very much like Kern, but no attribution
 
 ## Czech
 
+### Zikmund (1863) *Skladba jazyka českého*
+
+Václav Zikmund (1816-1873) https://www.ctenizpisku.cz/cteni_autori/zikmund-vaclav/
+
+[@zikmund1863: 8] dependency tree [@zikmund1863: 322] boxes for subordination [@zikmund1963: 689-693] Periodenbild like Nägelsbach [@zikmund1863: 7] *enuntiatio nuda* vs. *enuntiatio amplificata, dilatata*. Other digital version: http://aleph.nkp.cz/eod/nkc/1001803878/20/
+
+*Mluvnice jazyka českého pro střední školy* third edition [@zikmund1876: 365-370] complex sentences with one-line periodenbild. identical second edition 1874 https://google.com/books?id=nTaru0ikQlYC first edition probably from 1866
+
+*Mluvnice jazyka českého. II. oddělení, Větosloví, vidy a rozměry řeči vázané*
+
+- part 1 (1865), no graphics: https://google.com/books?id=jBaMTyHPSZoC
+- part 2 (1864): same periodenbild p. 146-149 http://aleph.nkp.cz/eod/nkc/1001800565
+
 ### Gebauer (1890)
 
 Jan Gebauer (1838-1907) [@gebauer1900: 237, 249, 257, 265] hierarchical bracketing
 
 1890: https://books.google.de/books?id=QaM3AQAAMAAJ p. 26, 38, 46, 186?
+1894: https://www.digitalniknihovna.cz/nkp/view/uuid:1ba7c2b0-cce1-11dd-b12f-000d606f5dc6?page=uuid:5fb942b0-9c9f-11e8-830e-005056825209 p. 28, 40, 48
 
 ČECHOVÁ, M. Místo tzv. školských mluvnic J. Gebauera v jeho tvorbě a ve vývoji vyučování češtině. In Acta Universitatis Carolinae – Philologica 1–2, Slavica Pragensia XXXV, 1992, s. 79–91.
 
@@ -630,7 +644,7 @@ Panevová, J. 2016. Syntax Vladimíra Šmilauera včera a dnes. Jazykovědné ak
 
 ### Other Czech
 
-grafické [@novotna2012; @novotna2006; @vernerova2019]
+grafické [@novotna2013; @novotna2012; @novotna2006; @vernerova2019]
 
 - Autrata ???
 - VÍTEK−SIROTEK, II. díl, 1935, s. 112 [@novotna2012: 190]
@@ -1078,7 +1092,7 @@ Basic scheme in [@barkhudarov1963: 11]
 
 ### Beskrovny (1940)
 
-Beskrovny, Andrey Efimovich (1940: 14): https://www.prlib.ru/en/node/337185
+Andrey Efimovich Beskrovny  (1940: 14): https://www.prlib.ru/en/node/337185
 
 ### Barkhudarov & Shcherba (1946)
 
