@@ -606,39 +606,56 @@ Figures look very much like Kern, but no attribution
 
 ## Czech
 
+https://vokabular.ujc.cas.cz/moduly/mluvnice/
+
 ### Zikmund (1863) *Skladba jazyka českého*
 
-Václav Zikmund (1816-1873) https://www.ctenizpisku.cz/cteni_autori/zikmund-vaclav/
+Václav Zikmund (1816-1873) was a teacher in Písek and later in Prague.^[Some basic biographical information is available at <https://www.ctenizpisku.cz/cteni_autori/zikmund-vaclav/>, accessed 14 April 2025.]
 
-[@zikmund1863: 8] dependency tree [@zikmund1863: 322] boxes for subordination [@zikmund1963: 689-693] Periodenbild like Nägelsbach [@zikmund1863: 7] *enuntiatio nuda* vs. *enuntiatio amplificata, dilatata*. Other digital version: http://aleph.nkp.cz/eod/nkc/1001803878/20/
+obrázce 'diagram' (689) comparison with German
 
-*Mluvnice jazyka českého pro střední školy* third edition [@zikmund1876: 365-370] complex sentences with one-line periodenbild. identical second edition 1874 https://google.com/books?id=nTaru0ikQlYC first edition probably from 1866
+Zikmund was intemately familiar with the German grammatical literature. The book is litterred with contrastive examples, comparing Czech structure with German.
 
-*Mluvnice jazyka českého. II. oddělení, Větosloví, vidy a rozměry řeči vázané*
+he moved to prague in 1858, Ferdinand Bachmann in 1857
 
-- part 1 (1865), no graphics: https://google.com/books?id=jBaMTyHPSZoC
-- part 2 (1864): same periodenbild p. 146-149 http://aleph.nkp.cz/eod/nkc/1001800565
+[@zikmund1863: 8] dependency tree [@zikmund1863: 322] boxes for subordination [@zikmund1963: 688-694] Periodenbild like Bachmann!!! [@zikmund1863: 7] *enuntiatio nuda* vs. *enuntiatio amplificata, dilatata*. Other digital version: http://aleph.nkp.cz/eod/nkc/1001803878/20/
 
-### Gebauer (1890)
+*Mluvnice jazyka českého pro střední školy* third edition  complex sentences with one-line periodenbild. identical second edition 1874 https://google.com/books?id=nTaru0ikQlYC first edition probably from 1866
 
-Jan Gebauer (1838-1907) [@gebauer1900: 237, 249, 257, 265] hierarchical bracketing
+A few years later Zikmund wrote a two volume *Grammatika jazyka českého pro nižší gymnasia* ('Grammar of the Czech language for lower gymnasia'). The first volume deals with phonology and morphology [@zikmund1865]. For the second volume he changed the title, using *mluvnice*, the Czech word for grammar, instead of the latinate term *grammatika* [@zikmund1866]. The second volume deals with sentence and text structure and includes an extensive discussion of *obrázce* 'diagram' for the analysis of complex sentences [@zikmund1866: 146-149]. A second revised edition, combining both volumes from the first edition using the title *Mluvnice jazyka českého*, was in preparation when Zikmund died and was finished after his death by Jan Gebauer (see [@sec:gebauer1890]). The discussion of *obrazcích* 'figures' appears unchanged from the first edition [@zikmund1874: 365-370]. An unchanged third edition appeared a few years later [@zikmund1876: 365-370].
 
-1890: https://books.google.de/books?id=QaM3AQAAMAAJ p. 26, 38, 46, 186?
-1894: https://www.digitalniknihovna.cz/nkp/view/uuid:1ba7c2b0-cce1-11dd-b12f-000d606f5dc6?page=uuid:5fb942b0-9c9f-11e8-830e-005056825209 p. 28, 40, 48
+### Gebauer (1890) *Mluvnice česká* {#sec:gebauer1890}
+
+Jan Gebauer (1838-1907) https://de.wikipedia.org/wiki/Jan_Gebauer
+
+*Mluvnice česká pro školy střední a ústavy učitelské* 'Czech grammar for secondary schools and teacher training institutes'
+
+- first edition 1890: https://books.google.de/books?id=QaM3AQAAMAAJ p. 26, 38, 46, 186? also https://aleph.nkp.cz/eod/nkc/1001247889/
+- second edition 1894: https://www.digitalniknihovna.cz/nkp/view/uuid:1ba7c2b0-cce1-11dd-b12f-000d606f5dc6?page=uuid:5fb942b0-9c9f-11e8-830e-005056825209 p. 28, 40, 48
+- combined thrid edition 1900: [@gebauer1900: 237, 249, 257, 265] also here: https://kramerius5.nkp.cz/view/uuid:be80e6c0-1658-11e5-b9a6-5ef3fc9ae867?page=uuid:3adda7b0-1a57-11e5-8401-001018b5eb5c
+- first volume revision 1914 after death of gebauer by vaclav Ertl (graphics removed?): https://ndk.cz/uuid/uuid:d2a2c090-c25f-11e3-bb44-5ef3fc9bb22f
+- second volume revision 1926 https://ndk.cz/view/uuid:4d8dd430-8804-11ec-bc36-005056827e51?page=uuid:adf9e29b-1bd4-4a1c-8926-90cf41ff8240
 
 ČECHOVÁ, M. Místo tzv. školských mluvnic J. Gebauera v jeho tvorbě a ve vývoji vyučování češtině. In Acta Universitatis Carolinae – Philologica 1–2, Slavica Pragensia XXXV, 1992, s. 79–91.
 
-1894: Historicka Mluvnice Jazyka Ceskeho https://archive.org/details/HistorickaMluvniceJazykaCeskeho.DilI.Hlaskoslovi.JanGebauer./page/n9/mode/2up
+*Krátká mluvnice česká*
 
-1914: Mluvnice česká pro školy střední a ústavy učitelské https://ndk.cz/uuid/uuid:d2a2c090-c25f-11e3-bb44-5ef3fc9bb22f no graphics?
+- 1891: https://aleph.nkp.cz/eod/nkc/1001804860 periode: 113-116, 126
+- 1902 (third revised edition): https://google.com/books?id=4lw-AQAAIAAJ added dependencies with arches, but only very limited p. 127-128, same very simple periodenbild 133-137, more interesting 147
 
-### Šmilauer (1947)
+1894: *Historicka Mluvnice Jazyka Ceskeho* https://archive.org/details/HistorickaMluvniceJazykaCeskeho.DilI.Hlaskoslovi.JanGebauer./page/n9/mode/2up
 
-[@panevova2024]
+### Šmilauer (1947) *Novočeská skladba*
+
+[@panevova2024] https://en.wikipedia.org/wiki/Vladimír_Šmilauer https://comenius-bibl.wz.cz/Smilauer.html
 
 - Vladimír Šmilauer (1955) Učebnice větného rozboru
 - Vladimír Šmilauer (1947) Novočeská skladba, Appendix with
 the title: Klíč k mluvnickému rozboru větnému (pro školní potřebu) ‘A key to syntax analysis of sentences (for schooling purposes)’
+
+https://ndk.cz/view/uuid:9520aaa0-c56d-11e3-b110-005056827e51?page=uuid:5e70e340-ed2b-11e3-adbd-5ef3fc9bb22f
+
+Šmilauer probably knew of Tesnière's work:
 
 Panevová, J. 2016. Syntax Vladimíra Šmilauera včera a dnes. Jazykovědné aktuality 53 (1 a 2): 30–35. https://www.jazykovednesdruzeni.cz/wp-content/uploads/2020/04/2016_1-2.pdf
 
