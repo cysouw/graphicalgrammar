@@ -655,13 +655,11 @@ Josef Mrázek (1936: 6) [@novotna2012: 190-191]
 
 [@panevova2024] https://en.wikipedia.org/wiki/Vladimír_Šmilauer https://comenius-bibl.wz.cz/Smilauer.html
 
-- Vladimír Šmilauer (1955) Učebnice větného rozboru
-- Vladimír Šmilauer (1947) Novočeská skladba, Appendix with
-the title: Klíč k mluvnickému rozboru větnému (pro školní potřebu) ‘A key to syntax analysis of sentences (for schooling purposes)’
+[@smilauer1947: 416-425] Appendix with graphics
 
-https://ndk.cz/view/uuid:9520aaa0-c56d-11e3-b110-005056827e51?page=uuid:5e70e340-ed2b-11e3-adbd-5ef3fc9bb22f
+Vladimír Šmilauer (1955) fifth edition [@smilauer1968]
 
-Šmilauer probably knew of Tesnière's work:
+Šmilauer probably knew of Tesnière's work. Tesniere 1953 is cited in Šmilauer (1968: 6)
 
 Panevová, J. 2016. Syntax Vladimíra Šmilauera včera a dnes. Jazykovědné aktuality 53 (1 a 2): 30–35. https://www.jazykovednesdruzeni.cz/wp-content/uploads/2020/04/2016_1-2.pdf
 
