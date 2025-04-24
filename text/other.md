@@ -610,19 +610,19 @@ https://vokabular.ujc.cas.cz/moduly/mluvnice/
 
 ### Zikmund (1863) *Skladba jazyka českého*
 
-Václav Zikmund (1816-1873) was a teacher in Písek and later in Prague.^[Some basic biographical information is available at <https://www.ctenizpisku.cz/cteni_autori/zikmund-vaclav/>, accessed 14 April 2025.]
+Václav Zikmund (1816-1873) was a teacher in Písek and later in Prague.^[Some basic biographical information is available at <https://www.ctenizpisku.cz/cteni_autori/zikmund-vaclav/>, accessed 14 April 2025.] 
 
-obrázce 'diagram' (689) comparison with German
+He starts the preface with a note that the Czech language was recently reintroduced as a regular language for secondary school in 1849.
 
-Zikmund was intemately familiar with the German grammatical literature. The book is litterred with contrastive examples, comparing Czech structure with German.
+Zikmund moved to Prague in 1858, just a year after Ferdinand Bachmann moved to Prague in 1857 (see [@sec:bachmann1864]). Zikmund belongs to the Czech-speaking community and Bachmann to the German-speaking community at a time when in Prague the tension between Czech and German speakers is rising. Also, Zikmung and Bachmann do not cite each other. Yet, Zikmund's *obrázce* 'diagram' [@zikmund1863: 689] is very similar to the *Satzbild* from Bachmann. Bachmann's book was first published in 1864, but it was based on a series of lectures that Bachmann had been presenting for various years before. It seems very likely that Bachmann was the inspiration for Zikmund's diagrams. 
 
-he moved to prague in 1858, Ferdinand Bachmann in 1857
+In general, Zikmund was intimately familiar with the German grammatical literature. The book is litterred with contrastive examples, comparing Czech structure with German structure. A telling detail is Zikmund's usage of the latinate terms *enuntiatio nuda* 'naked sentence' and *enuntiatio amplificata, dilatata* 'amplified, expanded sentence' [@zikmund1863: 7]. These terms clearly point to a German influence, as these terms were widely used and discussed in the previous decades (see [@sec:nackt]), although never using Latin words.
 
 [@zikmund1863: 8] dependency tree [@zikmund1863: 322] boxes for subordination [@zikmund1963: 688-694] Periodenbild like Bachmann!!! [@zikmund1863: 7] *enuntiatio nuda* vs. *enuntiatio amplificata, dilatata*. Other digital version: http://aleph.nkp.cz/eod/nkc/1001803878/20/
 
 *Mluvnice jazyka českého pro střední školy* third edition  complex sentences with one-line periodenbild. identical second edition 1874 https://google.com/books?id=nTaru0ikQlYC first edition probably from 1866
 
-A few years later Zikmund wrote a two volume *Grammatika jazyka českého pro nižší gymnasia* ('Grammar of the Czech language for lower gymnasia'). The first volume deals with phonology and morphology [@zikmund1865]. For the second volume he changed the title, using *mluvnice*, the Czech word for grammar, instead of the latinate term *grammatika* [@zikmund1866]. The second volume deals with sentence and text structure and includes an extensive discussion of *obrázce* 'diagram' for the analysis of complex sentences [@zikmund1866: 146-149]. A second revised edition, combining both volumes from the first edition using the title *Mluvnice jazyka českého*, was in preparation when Zikmund died and was finished after his death by Jan Gebauer (see [@sec:gebauer1890]). The discussion of *obrazcích* 'figures' appears unchanged from the first edition [@zikmund1874: 365-370]. An unchanged third edition appeared a few years later [@zikmund1876: 365-370].
+A few years later Zikmund wrote a two volume *Grammatika jazyka českého pro nižší gymnasia* ('Grammar of the Czech language for lower gymnasia'). The first volume deals with phonology and morphology [@zikmund1865]. For the second volume he changed the title, using *mluvnice*, the Czech word for grammar, instead of the latinate term *grammatika* [@zikmund1866]. The second volume deals with sentence and text structure and includes an extensive discussion of *obrázce* 'diagrams' for the analysis of complex sentences [@zikmund1866: 146-149]. A second revised edition, combining both volumes from the first edition and now using the title *Mluvnice jazyka českého*, was in preparation when Zikmund died and was finished after his death by Jan Gebauer (see [@sec:gebauer1890]). The discussion of *obrazcích* 'figures' appears unchanged from the first edition [@zikmund1874: 365-370]. An unchanged third edition appeared a few years later [@zikmund1876: 365-370].
 
 ### Gebauer (1890) *Mluvnice česká* {#sec:gebauer1890}
 
@@ -645,6 +645,10 @@ Jan Gebauer (1838-1907) https://de.wikipedia.org/wiki/Jan_Gebauer
 
 1894: *Historicka Mluvnice Jazyka Ceskeho* https://archive.org/details/HistorickaMluvniceJazykaCeskeho.DilI.Hlaskoslovi.JanGebauer./page/n9/mode/2up
 
+### Mrázek (1936)
+
+Josef Mrázek (1936: 6) [@novotna2012: 190-191]
+
 ### Šmilauer (1947) *Novočeská skladba*
 
 [@panevova2024] https://en.wikipedia.org/wiki/Vladimír_Šmilauer https://comenius-bibl.wz.cz/Smilauer.html
@@ -666,7 +670,6 @@ grafické [@novotna2013; @novotna2012; @novotna2006; @vernerova2019]
 - Autrata ???
 - VÍTEK−SIROTEK, II. díl, 1935, s. 112 [@novotna2012: 190]
 - BOJANOVSKÁ−KOHOUTEK−SEDLÁKOVÁ, I. díl, 1936, s. 29; též II. díl, 1936, s. 38 [@novotna2012: 187-189]
-- MRÁZEK, 1936, s. 6 [@novotna2012: 190-191]
 - KOHOUTEK−KOMÁREK, 1937, s. 135−136 [@novotna2012: 184]
 
 ## Polish
