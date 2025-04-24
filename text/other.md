@@ -535,7 +535,7 @@ I thank María José García Folgado for many suggestions
 
 ### Montoy (1882) *Análisis gramatical razonado*
 
-Montoy, Joaquim (1882, mayo 12). “Análisis gramatical razonado”. El Clamor del Magisterio, año 17, n°. 19
+Montoy, Joaquim (1882, mayo 12). “Análisis gramatical razonado”. El Clamor del Magisterio, año 17, n°. 19 [@folgado2023]
 
 - https://bsky.app/profile/mjgarciafolgado.bsky.social/post/3ldscj467zc2n
 - https://ca.wikipedia.org/wiki/Joaquim_Montoy_i_Escuer
@@ -564,7 +564,7 @@ A different level of granularity for the analysis of the sentence is the *quadro
 
 ### Solana (1911) *Tratado de análisis lógico y gramatical*
 
-[@solana1911], nicer pictures in 5th edition [@solana1911]
+[@solana1911], nicer pictures in 5th edition [@solana1920]
 
 ### Bastiniani (1916) *Sintaxis castellana*
 
@@ -593,6 +593,8 @@ https://digibug.ugr.es/bitstream/handle/10481/67999/Metodos_y_modelos_de_represe
 
 Oca y Merino, Esteban (1851-1924), no real graphical grammar
 https://www.bvfe.es/es/autor/10340-oca-y-merino-esteban.html
+
+Antonio Valcárcel [@garrido-vilchez2023] ???
 
 ## Romanian
 
