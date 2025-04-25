@@ -116,7 +116,7 @@ All these theoretical concepts are quite charmingly summarised by his graphical 
 
 ### Herling (1823) *Periodenbau der deutschen Sprache* {#sec:herling1823}
 
-Simon Heinrich Adolf Herling (1780-1849) was a teacher in Frankfurt am Main and founding member, and later main organiser, of the *Frankfurter Gelehrtenverein für deutsche Sprache*. His analysis of multi-clause sentences is widely considered foundational for the grammatical analysis of German. A wide-ranging appraisal of Herling's work can be found in Elmentaler [-@elmentaler1996]. Herling is a close friend and colleague to Ferdinand Becker (see [@sec:becker1829]), who is also an active member of the *Frankfurter Gelehrtenvereion*. A plan to write a joint grammar fell apart, indicating different opinions in their approach to grammatical analysis [@haselbach1966: 69]. Their relation remains amicable, as indicated by the fact that the first part of Herling's *Syntax der deutschen Sprache* [@herling1830] is dedicated to Becker.
+Simon Heinrich Adolf Herling (1780-1849) was a teacher in Frankfurt am Main and founding member, and later main organiser, of the *Frankfurter Gelehrtenverein für deutsche Sprache*. His analysis of multi-clause sentences is widely considered foundational for the grammatical analysis of German. A wide-ranging appraisal of Herling's work can be found in Elmentaler [-@elmentaler1996]. Herling is a close friend and colleague to Ferdinand Becker (see [@sec:becker1829]), who is also an active member of the *Frankfurter Gelehrtenverein*. A plan to write a joint grammar fell apart, indicating different opinions in their approach to grammatical analysis [@haselbach1966: 69]. Their relation remains amicable, as indicated by the fact that the first part of Herling's *Syntax der deutschen Sprache* [@herling1830] is dedicated to Becker.
 
 Strictly speaking, the work of Herling does not include any graphical display of grammatical analysis. However, his work is still included here because he introduces some notation that will be expanded upon graphically by later authors, especially Lehmann (see [@sec:lehmann1833]) and Götzinger (see [@sec:götzinger1836]). Herling's notational framework is first introduced in the *Grundregeln des deutschen Stils oder der Periodenbau der deutschen Sprache. Ein Lehrbuch für den stilistischen Unterricht* [@herling1823], which later becomes the second part of *Die Syntax der deutschen Sprache* (second edition 1827, third edition 1832).
 
@@ -1822,6 +1822,8 @@ Es war ein seltsamer Anblick, wenn man einen Moment seine Aufmerksamkeit vom Weg
 ::: {.im #glinz1952_472}
 Analysis of [@last b] from Glinz [-@glinz1952: 472], citing an example sentence from Goethe. This analysis is basically the same as the one shown in [@fig:glinz1952_325], but ordered horizontally. The additional lines on top indicate the depth of the clausal embedding, with higher lines indicating deeper embedding. The linked high-resolution image shows a panoramic overview of the whole 10-page fold-out sheet.
 :::
+
+Meeting with US americans at International Congres of Linguists in London (52) and Oslo (58), especially Fries is mentioned (Introduction second edition of Innere Form, 1961: 4-5)
 
 ### Erben (1958) *Abriss der deutschen Grammatik*
 

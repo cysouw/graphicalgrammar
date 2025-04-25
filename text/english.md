@@ -753,7 +753,11 @@ Pb = down
 
 ### Fries (1952) *The structure of English*
 
-[@fries1952: 272] (Pike is a student of Fries, Fries might have been inspired by Pike 1943 here)
+Charles Carpenter Fries (November 29, 1887 – December 8, 1967)
+
+no graphics in "American English Grammar" (1940), probably one of the first real corpos-linguistic grammars of English.
+
+graphics in [@fries1952: 272] (Pike is a student of Fries, Fries might have been inspired by Pike 1943 here)
 
 ### Bar-Hillel (1953) *A Quasi-Arithmetical Notation for Syntactic Description*
 
@@ -761,7 +765,9 @@ Pb = down
 
 ### Gleason (1955) *An introduction to descriptive linguistics*
 
-[@gleason1955: 129-131]
+Henry Allan 'Al' Gleason Jr. (April 18, 1917 – January 13, 2007)
+
+[@gleason1955: 129-131] also accompanying workbook (no graphics)
 
 second edition from 1961 extended, Chomsky mentioned in introduction [@gleason1961]. Includes generation and transformation. But still the old IC-stuff as well [@gleason1961]
 
@@ -771,13 +777,15 @@ second edition from 1961 extended, Chomsky mentioned in introduction [@gleason19
 
 [@chomsky1955]
 
-Chomsky (1955: 277) Note the reversal of the usage of dashes, here more alike to brackets. The dashes seem to represent some kind of intonation structure, though.
+Chomsky (1955: 277) Note the reversal of the usage of dashes, here more alike to brackets.
 
 Chomsky (1955: 316b) Similar to Pike/Fries/Hockett
 
 Chomsky cites Bar-Hillel (1953: 57)
 
-also in [@chomsky1975: 229, 258]
+line diagrams, but without actual words: 205-206, 214-215, 222, 232, 734-735
+
+also in [@chomsky1975: 181, 229, 258] https://archive.org/details/logicalstructure00noam
 
 ### Hockett (1958) *A course in modern linguistics*
 
