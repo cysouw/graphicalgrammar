@@ -612,19 +612,53 @@ https://vokabular.ujc.cas.cz/moduly/mluvnice/
 
 ### Zikmund (1863) *Skladba jazyka českého*
 
-Václav Zikmund (1816-1873) was a teacher in Písek and later in Prague.^[Some basic biographical information is available at <https://www.ctenizpisku.cz/cteni_autori/zikmund-vaclav/>, accessed 14 April 2025.] 
+Václav Zikmund (1816-1873) was a teacher in Písek and later in Prague.^[Some basic biographical information is available at <https://www.ctenizpisku.cz/cteni_autori/zikmund-vaclav/>, accessed 14 April 2025.] He taught Czech language in a time of newly blooming Czech nationalism. The preface of his *Skladba jazyka českého* ['syntax of the Czech language', @zikmund1863] starts with a note that the Czech language was recently reintroduced as a regular language for secondary school in 1849, which raised the need for new descriptive and didactic material in and about the Czech language.
 
-He starts the preface with a note that the Czech language was recently reintroduced as a regular language for secondary school in 1849.
+Zikmund moved from Písek to Prague in 1858, just a year after Ferdinand Bachmann moved to Prague in 1857 (see [@sec:bachmann1864]). Zikmund belongs to the Czech-speaking community and Bachmann to the German-speaking community at a time when in Prague the tension between Czech and German speakers is rising. Also, Zikmund and Bachmann do not cite each other. Yet, Zikmund's *obrázce* 'diagram' [@zikmund1863: 689] is very similar to the *Satzbild* from Bachmann. Bachmann's book was first published in 1864, but it was based on a series of lectures that Bachmann had been presenting for various years before. It seems very likely that Bachmann was the inspiration for Zikmund's diagrams. 
 
-Zikmund moved to Prague in 1858, just a year after Ferdinand Bachmann moved to Prague in 1857 (see [@sec:bachmann1864]). Zikmund belongs to the Czech-speaking community and Bachmann to the German-speaking community at a time when in Prague the tension between Czech and German speakers is rising. Also, Zikmung and Bachmann do not cite each other. Yet, Zikmund's *obrázce* 'diagram' [@zikmund1863: 689] is very similar to the *Satzbild* from Bachmann. Bachmann's book was first published in 1864, but it was based on a series of lectures that Bachmann had been presenting for various years before. It seems very likely that Bachmann was the inspiration for Zikmund's diagrams. 
+In general, Zikmund was intimately familiar with the German grammatical literature. The book is litterred with contrastive examples, comparing Czech structure with German structure. A telling detail is Zikmund's usage of the latinate terms *enuntiatio nuda* 'naked sentence' and *enuntiatio amplificata, dilatata* 'amplified, expanded sentence' [@zikmund1863: 7]. These terms clearly point to a German influence, as these terms were widely used and discussed in Germany in the previous decades (see [@sec:nackt]), although never using these Latin words. It seems likely that Zikmund was influenced by Hoffmann (see [@sec:hoffmann1839]).
 
-In general, Zikmund was intimately familiar with the German grammatical literature. The book is litterred with contrastive examples, comparing Czech structure with German structure. A telling detail is Zikmund's usage of the latinate terms *enuntiatio nuda* 'naked sentence' and *enuntiatio amplificata, dilatata* 'amplified, expanded sentence' [@zikmund1863: 7]. These terms clearly point to a German influence, as these terms were widely used and discussed in the previous decades (see [@sec:nackt]), although never using Latin words.
+In the *Skladba jazyka českého* [@zikmund1863] Zikmund uses various graphical syntactic analyses. Show in [@fig:zikmund1863_8] is a dependency tree for the example [@next a]. It is unclear in which way Zikmund was influences by other authors in drawing such a syntactic tree as he does not cite any other authors. Given the early date of Zikmund's graphics, only Hoffmann (see [@sec:hoffmann1839]) appears to be a possible influence on Zikmund.
 
-[@zikmund1863: 8] dependency tree [@zikmund1863: 322] boxes for subordination [@zikmund1963: 688-694] Periodenbild like Bachmann!!! [@zikmund1863: 7] *enuntiatio nuda* vs. *enuntiatio amplificata, dilatata*. Other digital version: http://aleph.nkp.cz/eod/nkc/1001803878/20/
+A different graphic, illustrating different kinds of constituency, is shown in [@fig:zikmund1863_322] for the complex noun phrase [@next b]. Zikmund claims that such a complex noun phrase has different possible interpretations depending on the relative constituency of the words. The graphic shows different kinds of constituency structure, but it remains unclear what exactly the (semantic) effect of these different structures should be. Zikmund also does not comment why only these three structures are relevant out of the six different theoretically possible bracketings.
 
-*Mluvnice jazyka českého pro střední školy* third edition  complex sentences with one-line periodenbild. identical second edition 1874 https://google.com/books?id=nTaru0ikQlYC first edition probably from 1866
+::: ex
+a.
+| Czech [@zikmund1863: 8]
+| Za rajské údolí Kašmiřské ne‑změni‑l by tento Čech věrný nikdy své vlasti, otočené pěknými lesy a horami.
+| PREP paradise valley Kashmir NEG‑change‑PART BE DEM Czech loyal never own homeland turned nice forest and moutain
+| This loyal Czech would never exchange his own homeland, surrounded by beautiful forests and mountains, for a paradisal Kashmiri valley.
+b.
+| Czech [@zikmund1863: 322]
+| tito dva synové moji
+| these two sons mine
+| These two sons of mine
+:::
 
-A few years later Zikmund wrote a two volume *Grammatika jazyka českého pro nižší gymnasia* ('Grammar of the Czech language for lower gymnasia'). The first volume deals with phonology and morphology [@zikmund1865]. For the second volume he changed the title, using *mluvnice*, the Czech word for grammar, instead of the latinate term *grammatika* [@zikmund1866]. The second volume deals with sentence and text structure and includes an extensive discussion of *obrázce* 'diagrams' for the analysis of complex sentences [@zikmund1866: 146-149]. A second revised edition, combining both volumes from the first edition and now using the title *Mluvnice jazyka českého*, was in preparation when Zikmund died and was finished after his death by Jan Gebauer (see [@sec:gebauer1890]). The discussion of *obrazcích* 'figures' appears unchanged from the first edition [@zikmund1874: 365-370]. An unchanged third edition appeared a few years later [@zikmund1876: 365-370].
+::: {.im #zikmund1863_8}
+Dependency tree for examples [@last a] from Zikmund [-@zikmund1863: 8]. Zikmund does not give any indication to possible influences for this graphical display. Given the early date of his work, only Hoffmann (cf. [@fig:hoffmann1839_148]) could have been a possible source of inspiration.
+:::
+
+::: {.im #zikmund1863_322}
+*Vyobrazit* 'picture' for different interpretations of the example in [@last b] from Zikmund [-@zikmund1863: 322]. Without much explanation, Zikmund claims that there is are different meanings depending on the hierarchical constituency, although it remains unclear what exactly the resulting differences are supposed to be.
+:::
+
+The previous two images are incidental examples in Zimund's work. Zikmund does not use these approaches consistently as a method of analysis, but only as peripheral illustration. In contrast, for the analysis of complex sentences he extensively discusses a variant of the *Periodenbild* with many examples [@zikmund1863: 688-694]. Zikmund does not cite any inspiration for these *obrazcích* 'diagrams', but there are many similarities to the approach of Bachmann (see [@sec:bachmann1864]), who lived in Prague contemporaneously with Zikmund. An example of Zikmund's diagram is shown in [@fig:zikmund1866_147] for the example sentence in [@next].
+
+A few years later Zikmund wrote a two volume *Grammatika jazyka českého pro nižší gymnasia* ('Grammar of the Czech language for lower gymnasia'). The first volume deals with phonology and morphology [@zikmund1865]. For the second volume he changed the title, using *mluvnice*, the Czech word for grammar, instead of the latinate term *grammatika* [@zikmund1866]. The second volume deals with sentence and text structure and includes an extensive discussion of *obrázce* 'diagram' for the analysis of complex sentences [@zikmund1866: 145-149]. The examples are mostly identical with the 1863 book, but much clearer structured. 
+
+A second revised edition of the *Grammatika*, combining both volumes from the first edition and now using the title *Mluvnice jazyka českého pro střední školy*, was in preparation when Zikmund died and was finished after his death by Jan Gebauer (see [@sec:gebauer1890]). The discussion of *obrazcích* 'diagrams' appears unchanged from the first edition [@zikmund1874: 365-370]. An unchanged third edition appeared a few years later [@zikmund1876: 365-370].
+
+::: ex
+Czech [@zikmund1866: 147, citing an example of Václav Hájek of Libočany]
+
+[A]{.grey} Kníže Kouřimský, [a]{.grey} ač byl častokrát, [a^2]{.grey} aby se proti nim postavil, [a]{.grey} napomínán, [A]{.grey} nechtěl toho učiniti. /
+[A]{.grey} Prince Kouřimský, [a]{.grey} although he was often admonished [a^2]{.grey} to stand against them, [A]{.grey} did not want to do so.
+:::
+
+::: {.im #zikmund1866_147}
+*Obrázce* 'diagram' for the example [@last] from Zikmund [-@zikmund1866: 147]. He already presented the same example earlier [@zikmund1863: 692] but without concrete diagram. The double centre embedding is indicated by different kinds of bracketing.
+:::
 
 ### Gebauer (1890) *Mluvnice česká* {#sec:gebauer1890}
 
