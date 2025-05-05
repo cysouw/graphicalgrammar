@@ -481,6 +481,25 @@ Wenn ich mich in einer mittleren oder großen Stadt umsehe und bemerke, wo denn 
 Complex *Periodenbild* from Götzinger [-@gotzinger1839: 391] for the example from Goethe in [@last]. Note in comparison to Lehmann's *Periodenbild* (see [@sec:lehmann1833]) the different script letters are simplified to only lower-case latin letters and coordination is additionally indicated by using the equal sign.
 :::
 
+### Horn (1837) *Grammatik der neuhochdeutschen Sprache*
+
+- cites Herling, Becker, Lehmann in introduction
+- p.217: Lehmann letters, but no examples? https://books.google.de/books?id=BOVIAAAAcAAJ
+- periodenbild examples p. 312-314
+
+more to check here? https://de.wikisource.org/wiki/Grammatiken
+
+### Beilhaupt (1838) *Deutsche Grammatik*
+
+- first edition, p. 184-185 braces for Satzglieder: https://books.google.de/books?id=FAlJAAAAcAAJ
+- second edition same p. 196: https://books.google.de/books?id=2zJGAAAAcAAJ
+- fourth edition 1838, completely reworked, citing Becker, Götzinger, Herling, Lehmann and Horn in introduction https://books.google.de/books?id=3TJGAAAAcAAJ
+- using 'nackte' and 'bekleidete' Sätze 1838: 179
+- fifth edtion 1840 basically the same: numbers above words 1838:177, 1840:175 (1: subject, 2: predicate, 3: copula) https://www.digitale-sammlungen.de/en/view/bsb10583397?page=187
+- numbers also used for "Stufen der Bekleidung" (case?) on 1838:196, 1840:193 https://www.digitale-sammlungen.de/en/view/bsb10583397?page=205
+- complex sentences with graphic, only in fifth edition 1840:239 https://www.digitale-sammlungen.de/en/view/bsb10583397?page=251
+- Periodenbilder 1838:266-267, 1840:263-264 https://www.digitale-sammlungen.de/en/view/bsb10583397?page=275
+
 ### Honcamp (1838) *Leitfaden für die Sprachbildung*
 
 *Franz* Cornelius Honcamp (1805-1866) was a teacher in Büren (Westfalen). He wrote various grammatical textbooks, strongly influenced by Becker (see [@sec:becker1829]) and Diesterweg (see [@sec:diesterweg1830]). Because of a small article, in which he implicitly criticised the role of the church in schools, he was eventualy laid off by the Prussian state in 1854 and worked as a private teacher for the last few years of his life. More biographical details and a detailed discussion of the unfortunate clash with church and state is provided by Diesterweg [-@diesterweg1866].^[A useful summary of Honcamps life and work is available online at <https://www.lexikon-westfaelischer-autorinnen-und-autoren.de/autoren/honcamp-franz-cornelius>, accessed 11 February 2025.]

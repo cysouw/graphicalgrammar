@@ -466,6 +466,13 @@ To exemplify the problem of adverbial modification, Brassai chooses a sentence r
 
 Brassai uses a similar graphic later in his book [@brassai1873: 37], also in a footnote. There he calls his graphic a *schemaja*. It is unclear where the inspiration for this graphical display originates. Imrényi & Vladár [-@imrenyi2020a: 166-169] propose that it is Brassai's own interpretation of Priscian, with possibly an influence from Billroth (cf. [@sec:billroth1832]). Particularly noteworthy is the verb-centric display, which is not previously attested. Brassai appears to be the first to use such an analysis. The next author to use rather similar looking graphical displays is Kern (cf. [@sec:kern1883]), but there is no evidence that Kern knew about Brassai's graphical analysis.
 
+Note: metaphor of solar system (cf. Hansen in [@sec:hansen1933]):
+
+> Szerintem t.i. abban a rendszerben, a mit "mondat<"-nak (Satz, phrase) neveznek, a nap – az uralkodó középpont, az ige. Ez vonzza a körülte keringö s forgó planétákat, melyeket a nyelvtanok Subject, Atribut, Object, Umstandswort, s ki tudja még hány különbözö nevek alatt
+tárgyalnak, s a melyeket mindnyájokat én a "határozó" rovatfogalom alá húzok. És méltán, mert syntactikai tekintetböl épen semmi különbség sincs köztük. Egy igazán szabatos mondatban egyikök sem elébbvaló, egyikök sem lényegesebb, egyikök sem nélkülözhetlenebb, mint akármelyik másik. A határozók ismét holdakat vonzanak és vezetnek magok körül *jelzők* képében, melyek megint különbféle alakokban jelennek meg; de azért, mint határozók határzói, syntactice mind egyneműek. [@brassai1873: 5-6]
+>
+> 'I think, for example, that in the system called "sentence" (Satz, phrase), the sun is the dominant center, the verb. This attracts the planets that orbit and revolve around it, which grammarians discuss under the heading of Subject, Attribute, Object, Umstandswort, and who knows how many other different names, and which I bring all under the heading of "dependent". And rightly so, because from a syntactic point of view there is absolutely no difference between them. In a truly correct sentence, none of them is more important, none of them is more indispensable than any other. The dependents again attract and govern moons around themselves in the form of attributes, which again appear in different forms; but nevertheless, as dependents of dependents, they are all syntactically of the same kind.'
+
 ## Dutch
 
 ### de Groot (1949) *Structural linguistics and syntactic Laws*
