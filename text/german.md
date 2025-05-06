@@ -1077,6 +1077,10 @@ Second, Kern does not like the notion of *bekleidetet* 'dressed' sentences. His 
 >
 > ('A rather superfluous, though less harmfull terminology, is the one of *nackte* 'naked' and *bekleidete* 'dressed' (or *umkleidete* 'around-dressed') sentences. … In this terminology modifiers, instead of thinking about them as branches and leaves, are preferably imagined as shirt, skirt and waistcoat. I consider this image to be neither fitting nor tasteful.')
 
+### Müllener (1885) *Praktische Übungsschule* {#sec:müllener1885}
+
+[@mullener1885] Satzbilder ("periodenbilder") p. 144, examples p. 150-152, explanation p. 167-168
+
 ### Willomitzer (1885) *Deutsche Grammatik* {#sec:willomitzer1885}
 
 Franz Willomitzer (1847-1910) was a teacher for German language and history in Vienna, Austria. His book *Deutsche Grammatik für österreichische Mittelschulen* first appeared in 1879 and was revised and reprinted many times up to a 23th edition in 1930. After the death of Willomitzer the book was further developed by Johann Tschinkel. He renamed the book to *Deutsche Sprachlehre für Mittelschulen* and strongly reduced the number of visualisations, with eventually only a single unexplained graphic remaining [@tschinkel1921: 242].
