@@ -1488,6 +1488,12 @@ Ehrfurchtsvoll verneigte er sich vor dem fremden Herrn, der diesen Augenblick be
 Graphical display of the sentence in [@last] as analysed by Eberhard [-@eberhard1905: 284]. This approach is a two-level constituency analysis, with the three clauses being subdivided into phrases. The numbers are completely arbitrary, but they are consistently used both for phrase and for subordinate clauses (roughly: 1=subject, 2=predicate, 3=attribute, 4=argument, 5=adjunct).
 :::
 
+### Nagl (1906) *Deutsche Sprachlehre*
+
+https://www.deutsche-biographie.de/sfz67867.html
+
+[@nagl1906] meine graphics, both inside clause like Kern and between clauses.
+
 ### Bartmann (1907) *Sprachübungen für die Hand des Lehrers*
 
 Josef Bartmann (1868-1947) was a teacher in Nixdorf (today Mikulášovicích in the Czech Republic).^[Some biographical information is available on Wikipedia: <https://cs.wikipedia.org/wiki/Josef_Bartmann>, accessed 6 January 2025.] He wrote various textbooks, one for teachers in 1907: *Sprachübungen für die Hand des Lehrers* [@bartmann1913, cited here in the second edition] and another one for students in 1908: *Deutsches Sprachbuch für Bürgerschulen* [@bartmann1917, cited here in the sixth edition].
