@@ -1488,11 +1488,31 @@ Ehrfurchtsvoll verneigte er sich vor dem fremden Herrn, der diesen Augenblick be
 Graphical display of the sentence in [@last] as analysed by Eberhard [-@eberhard1905: 284]. This approach is a two-level constituency analysis, with the three clauses being subdivided into phrases. The numbers are completely arbitrary, but they are consistently used both for phrase and for subordinate clauses (roughly: 1=subject, 2=predicate, 3=attribute, 4=argument, 5=adjunct).
 :::
 
-### Nagl (1906) *Deutsche Sprachlehre*
+### Nagl (1906) *Deutsche Sprachlehre für Mittelschulen*
 
-https://www.deutsche-biographie.de/sfz67867.html
+Johann Willibald Nagl (1856-1912) mainly worked on Austrian dialects in Graz and Vienna, but towards the end of his life he also published a didactic German grammar, called *Deutsche Sprachlehre für Mittelschulen* [@nagl1906]. Some basic biographical information about Nagl is provided by Wiesinger [-@wiesinger1997].
 
-[@nagl1906] meine graphics, both inside clause like Kern and between clauses.
+The *Deutsche Sprachlehre* contains many graphical approaches to elucidate the grammatical structure, including many *Satzbilder* [@nagl1906: 178, 182, 186, 209-210]. Nagl uses a verb-centric tree structure for the analysis of the internal structure of the clause. Subordinate clauses can also be included in his graphical approach, as shown in [@fig:nagl1906_210] for the example in [@next].
+
+::: ex
+Heinrich den Fünften siehst Du vor Dir thronen, den Gott bestellt zum Richter über Dich.
+:::
+
+::: {.im #nagl1906_210}
+*Satzbild* for the example in [@last] from Nagl [-@nagl1906: 210].
+:::
+
+Nagl uses a different graphical approach for the analysis of the *Periode*, i.e. large complex sentences consisting of multiple clauses [@nagl1906: 210-212]. He restricts the analysis to the interrelation of the clauses, using letters in the tradition of the *Periodenbild*, as shown in [@fig:nagl1906_211] for the examples in [@next]. Capital letters are used for main clauses and lowercase letters for subordinate clauses. Internal subordinate clauses are in round brackets, and the separated parts of a single clause get the same letter with a numerical subscript. The ordering of the clauses is retained in the graphic representation. The level of embedding is additionally indicated by vertically lower placement. Dependency is additionally indicated by lines, although strictly speaking these appear to be superfluous.
+
+::: ex
+- [A]{.grey} Die Vorrichtung ist so leicht zu handhaben, [b]{.grey} daß es nur einer kurzen Unterweisung bedarf, [c]{.grey} um sie mit Erfolg benützen zu können. 
+- [a~1~]{.grey} Weil du, [(b)]{.grey} um der Einladung zu entgehen, [a~2~]{.grey} abgereist bist, [C]{.grey} hat man allerlei über deine Beweggründe gemunkelt.
+- [a]{.grey} Nachdem wir erfahren hatten, [b]{.grey} daß eine beträchtliche Streitmacht des Feindes im Anmarsche sei, [C]{.grey} umritten wir im hügeligen Terrain die feindlichen Kolonnen.
+:::
+
+::: {.im #nagl1906_211}
+*Bild der Periode* for the examples in [@last] from Nagl [-@nagl1906: 211].
+:::
 
 ### Bartmann (1907) *Sprachübungen für die Hand des Lehrers*
 
