@@ -483,11 +483,15 @@ Complex *Periodenbild* from Götzinger [-@gotzinger1839: 391] for the example fr
 
 ### Horn (1837) *Grammatik der neuhochdeutschen Sprache*
 
-- cites Herling, Becker, Lehmann in introduction
-- p.217: Lehmann letters, but no examples? https://books.google.de/books?id=BOVIAAAAcAAJ
-- periodenbild examples p. 312-314
+Friedrich Julius Horn (1809-1841) was a teacher in Rastenburg (today Kętrzyn in Poland).^[I have not been able to find any biographical details on Horn. The dates for his birth and death are from <https://www.gedbas.de/person/show/1131121830>. Besides his grammar, he also wrote a piece in the yearbook of his school in 1838, which is available online at <https://kpbc.umk.pl/dlibra/publication/246849>.] In 1837 he published a German grammar, called *Grammatik der neuhochdeutschen Sprache auf historischer und logischer Grundlage* [@horn1837]. In the preface he cites Herling (see [@sec:herling1823]), Becker (see [@sec:becker1829]) and Lehmann (see [@sec:lehmann1833]) as influences [@horn1837: iii]. Horn uses a *Periodenbild* exactly following the notation from Lehmann, who is explicitly cited [@horn1837: 217, 312-314]. An example is shown in [@fig:horn1837_313] for the example in [@next].
 
-more to check here? https://de.wikisource.org/wiki/Grammatiken
+::: ex
+[A]{.grey} Wißt ihr denn, [a]{.grey} ob der kleine Knabe, [α]{.grey} der neben euch Blumen zerreißt [β]{.grey} und mit den Blättern spielt, [a]{.grey} nicht einst als Kriegsgott in einem stürmischen Welttheile aussteigen [b]{.grey} und mit den Stürmen spielen werde?
+:::
+
+::: {.im #horn1837_313}
+*Periodenbild* in the style of Lehmann (cf. [@fig:lehmann1833_126]) for the example in [@last] from Horn [-@horn1837: 313].
+:::
 
 ### Beilhaupt (1838) *Deutsche Grammatik*
 
