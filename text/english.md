@@ -648,7 +648,26 @@ Wundt's discussion of the 'old grammarians' [@wundt1900b: 222-224], arguing agai
 
 See [@picardi2022: 24-26] for the relation with Frege
 
-See [@dittrich1902] for a direct following of Wundt in Germany, otherwise nothing found
+See [@dittrich1902] for a direct following of Wundt in Germany.
+
+grammarians are not impressed, e.g. Delbrück (1901) "Grundfragen", sort of a review of Wundt (1900) https://doi.org/10.1515/9783111457642
+
+"So zerlege sich in dem regel-
+mäßig binär aufgebauten Satze das Subjekt in das eigent-
+liche Subjekt und sein Attribut, das Prädikat in das
+Yerbum und das nähere Objekt. Sei dann etwa noch ein
+entfernteres Objekt vorhanden, so trete dieses zu jener
+engeren Verbindung in ein Verhältnis, und so zeige sich
+überall ein Princip der binären Zerlegung." (p.151)
+
+"Ich bin demnach der Mei-
+nung, daß dieses ganze Princip der fortgesetzten binären
+Zerlegung, von dem Wundt auch in seinem Grundriß
+S. 313 redet, durch die sprachlichen Thatsachen nicht
+empfohlen wird." (p. 153-154)
+
+cf. Sütterlin (1902) p. 159
+https://pure.mpg.de/rest/items/item_2395313_3/component/file_2395312/content
 
 ### Sheffield (1912) *Grammar and thinking* {#sec:sheffield1912}
 

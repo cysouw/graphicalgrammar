@@ -449,6 +449,8 @@ Templatic table for German sentence structure from Lonkay [-@lonkay1855: 175]. T
 
 ### Brassai (1873) *Paraleipomena kai diorthoumena* {#sec:brassai1873}
 
+see also <https://aclanthology.org/2021.depling-1.6/> about rejection of subject-predicate dichotomy by Brassai.
+
 Sámuel Brassai (1800-1897) was a polymath in the Austro-Hungarian empire, who worked most of his life at the university of Klausenburg (today Cluj, Rumania). He published in Hungarian about a wide variety of subjects, including linguistics [more details about his linguistic work in @imrenyi2020a].
 
 Of particular interest is his *Paraleipomena kai diorthoumena. A mit nem mondtak s a mit roszul mondtak a commentatorok Virg. Aeneise II. könyvére* 'Omissions and corrections: What was not said and what was wrongly said by the commentators on Book II of Virgil's Aeneid' [@brassai1873]. As the title clearly states, this book is a discussion of classical literature. The graphical analyses are inside a (long) footnote, explaining that adverbial modifiers can have different interpretations, depending on which word they modify. The graphical illustrations are thus only used as an aside, it is not the central topic of the discussion at all.

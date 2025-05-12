@@ -481,7 +481,7 @@ Wenn ich mich in einer mittleren oder großen Stadt umsehe und bemerke, wo denn 
 Complex *Periodenbild* from Götzinger [-@gotzinger1839: 391] for the example from Goethe in [@last]. Note in comparison to Lehmann's *Periodenbild* (see [@sec:lehmann1833]) the different script letters are simplified to only lower-case latin letters and coordination is additionally indicated by using the equal sign.
 :::
 
-### Horn (1837) *Grammatik der neuhochdeutschen Sprache*
+### Horn (1837) *Grammatik der neuhochdeutschen Sprache* {#sec:horn1837}
 
 Friedrich Julius Horn (1809-1841) was a teacher in Rastenburg (today Kętrzyn in Poland).^[I have not been able to find any biographical details on Horn. The dates for his birth and death are from <https://www.gedbas.de/person/show/1131121830>. Besides his grammar, he also wrote a piece in the yearbook of his school in 1838, which is available online at <https://kpbc.umk.pl/dlibra/publication/246849>.] In 1837 he published a German grammar, called *Grammatik der neuhochdeutschen Sprache auf historischer und logischer Grundlage* [@horn1837]. In the preface he cites Herling (see [@sec:herling1823]), Becker (see [@sec:becker1829]) and Lehmann (see [@sec:lehmann1833]) as influences [@horn1837: iii]. Horn uses a *Periodenbild* exactly following the notation from Lehmann, who is explicitly cited [@horn1837: 217, 312-314]. An example is shown in [@fig:horn1837_313] for the example in [@next].
 
@@ -493,16 +493,45 @@ Friedrich Julius Horn (1809-1841) was a teacher in Rastenburg (today Kętrzyn in
 *Periodenbild* in the style of Lehmann (cf. [@fig:lehmann1833_126]) for the example in [@last] from Horn [-@horn1837: 313].
 :::
 
-### Beilhaupt (1838) *Deutsche Grammatik*
+### Beilhack (1838) *Deutsche Grammatik*
 
-- first edition, p. 184-185 braces for Satzglieder: https://books.google.de/books?id=FAlJAAAAcAAJ
-- second edition same p. 196: https://books.google.de/books?id=2zJGAAAAcAAJ
-- fourth edition 1838, completely reworked, citing Becker, Götzinger, Herling, Lehmann and Horn in introduction https://books.google.de/books?id=3TJGAAAAcAAJ
+Johann Georg Beilhack (1802-1864) was a teacher and school principal in Munich.^[A succinct biographical sketch is available online at <https://de.wikipedia.org/wiki/Johann_Georg_Beilhack>, accessed 9 May 2025.]
+
+*Lehrbuch der Deutschen Stylistik für Studienschulen und Gymnasien* [@beilhack1833]
+
+*Lehrbuch der deutschen Sprache: zum Gebrauch in Landwirthschafts- und Gewerbsschulen eingerichtet* [@beilhack1838a]
+
+*Deutsche Grammatik zum Gebrauche in lateinischen Schulen und Unterrichtsanstalten für classische Bildung eingerichtet*
+
+- 1832 (1) [@beilhack1832]
+- 1832 (2, same year, basically same as first) [@beilhack1832a]
+- 1834 (3, cites Becker in preface, revised syntax) [@beilhack1834]
+- 1838 (4) [@beilhack1838]
+- 1840 (5) [@beilhack1840]
+
+In the first edition Beilhack [-@beilhack1832: 184-185] uses horizontal braces to indicate the syntactic parts of a sentence, as shown in [@fig:beilhack1832_196] for the example sentence in [@next]. This example illustrates what he calls the *natürliche Topic* 'natural topic', i.e. the default word order for a German sentence. The different parts of the sentence are called *Factoren*. Note that the final verbal particle *ab* is not identified as being part of the main verb. There is no hierarchical analysis of sentence structure. This example is removed starting with the third edition [@beilhack1834], in which the discussion of the syntax gets a major revision, citing Becker (see [@sec:becker1829]) as an influence.
+
+::: ex
+[1. Subject]{.grey} Der weltbekannte König [2. abhängig. Genitiv]{.grey} der Trojaner, [3. Apposition]{.grey} der unglückliche Priamus, [4. Verbum]{.grey} kaufte [5. Dativ]{.grey} dem rauhen Achilleus, dem Würger der Männer, [6. Adverb]{.grey} zuletzt [7. Object]{.grey} den von Wunden entstellten, mißhandelten Leichnam seine geliebten Sohnes, des Hektor, [8. Casus der Präposition]{.grey} zur väterlichen Bestattung ab.
+:::
+
+::: {.im #beilhack1832_196}
+Analysis of sentence [@last] with an ordering in accordance to the *natürliche Topik* 'natural topic' from Beilhack [-@beilhack1832: 184-185], cited here from the second edition because of the better image quality [@beilhack1832a: 196]. The different parts of the sentence are called *Factoren* by Beilhack. Note that the final verbal paricle *ab* is not marked as belonging to the verb.
+:::
+
+The fourth edition [@beilhack1838] is completely reworked. Besides citing Becker, in the preface Beilhack now also notes the influence from Götzinger ([@sec:götzinger1836]), Herling ([@sec:herling1823]), Lehmann ([@sec:lehmann1833]) and Horn ([@sec:horn1837]).
+
 - using 'nackte' and 'bekleidete' Sätze 1838: 179
 - fifth edtion 1840 basically the same: numbers above words 1838:177, 1840:175 (1: subject, 2: predicate, 3: copula) https://www.digitale-sammlungen.de/en/view/bsb10583397?page=187
-- numbers also used for "Stufen der Bekleidung" (case?) on 1838:196, 1840:193 https://www.digitale-sammlungen.de/en/view/bsb10583397?page=205
+- numbers also used for "Stufen der Bekleidung" "Grad der Abhängigkeit" (level of embedding of noun phrase inside noun phrases) on 1838:196
 - complex sentences with graphic, only in fifth edition 1840:239 https://www.digitale-sammlungen.de/en/view/bsb10583397?page=251
-- Periodenbilder 1838:266-267, 1840:263-264 https://www.digitale-sammlungen.de/en/view/bsb10583397?page=275
+
+
+Periodenbilder 1838:266-267, example page 267:
+
+::: ex
+Obwohl Cäcar, nachdem er diese Lage der Dinge erfahren hatte, überzeugt war, daß es von großer Bedeutung sei, sich sobald als möglich der Stadt zu bemächtigen und die Cohorten des Domitius zu sich ins Lager herüberzuführen, damit nicht durch Geschenke, Einflößung neuen Muthes oder falsche Gerüchte eine Umwandlung der Gesinnung eintreten könnte, weil im Kriege oft aus kleinen Veranlassungen große Nachtheile entstündne: so unterließ er doch dieses Alles, weil er fürchtete, es möchte beim Einbringen seiner Soldaten, indem bei der Nacht die Zügellosigkeit derselben nicht gehemmt werden könnte, die Stadt geplündert werden, lobte diejenigen, welche zu ihm gekommen waren, entsandte sie wieder in die Stadt und ließ die Thore und die Mauern sorgfältig beobachten.
+:::
 
 ### Honcamp (1838) *Leitfaden für die Sprachbildung*
 
@@ -1737,6 +1766,10 @@ Also: Bernhard Merth (1864-1922, Sprachübungen, Sprachbuch, Sprachunterricht) =
 - https://www.biographien.ac.at/oebl/oebl_M/Merth_Bernhard_1864_1922.xml
 - nothing in part 1: https://books.google.de/books?id=HXkXAAAAIAAJ
 
+Oskar Erdmann (1886) Grundzüge der deutschen Syntax, numbers above words 183, 192. Precise description of "rechte Satzklammer" p. 190. Reverse numbering on p.192 could be interpreted as relative dependency.
+
+- https://www.digitale-sammlungen.de/de/view/bsb11023225
+
 ## Algebraic formulae
 
 ### Götzinger (1880) *Deutsche Grammatik in genetischer Darstelllung* {#sec:götzinger1880}
@@ -1804,9 +1837,9 @@ Erich Drach (1885-1935) was a professor for speech science in Berlin [some basic
 *Grundplan* of the German sentence according to Drach [-@drach1937: 18]. Although Drach is often mentioned as the founder of the German *Felderanalyse*, his templatic structure was much simpler as the contemporary analysis. Specifically, Drach does not specify a *rechte Satzklammer* and his term *Nachfeld* corresponds roughly to what today would be called *Mittelfeld* combined with the *rechte Satzklammer*.
 :::
 
-Not widely discussed, but much more interesting, is Drach's discussion of *Umklammerung* 'bracketing'. He argues that one of the major challanges for stilistically well-build sentences in German is the syntactic tendency to insert constituents inside other constituents (rephrasing Drach's approach in contemporary terminology here). This leads to bracketing because related parts of the utterance are separated by internal subordination. Such internal subordination is used very frequently in German and can lead to *unmögliches Deutsch* 'impossible German' [@drach1937: 46]. With this slightly ironic formulation Drach does not argue that the resulting structures are syntactically ill-formed, but that it is stylistically problematic.
+Not widely discussed, but much more interesting, is Drach's discussion of *Umklammerung* 'bracketing'. He argues that one of the major challanges for stilistically well-build sentences in German is the syntactic tendency to insert constituents inside other constituents (rephrasing Drach's approach in contemporary terminology here). This leads to bracketing because related parts of the utterance are separated by internal subordination. Such internal subordination is used very frequently in German and can lead to *unmögliches Deutsch* 'impossible German' [@drach1937: 46]. With this slightly ironic formulation Drach does not argue that the resulting structures are syntactically ill-formed, but that they are stylistically problematic.
 
-Drach uses different kinds of brackets to depict the levels of subordination, as illustrated in [@next] reproduced from Drach [-@drach1937: 46, similar examples on page 39 and 49]. The brackets clearly enclose parts that today would be called a constituent. The only difference to a modern constituency analysis is that Drach does not label these constituents. Other than that, Drach's *Umklammerung* is completely analogous to a constituent tree, as shown in [@fig:drach1937_46tree].
+Drach uses different kinds of brackets to depict the levels of subordination, as illustrated in [@next] reproduced from Drach [-@drach1937: 46, similar examples on page 39 and 49]. The brackets clearly enclose parts that today would be called a constituent. The only difference to a modern constituency analysis is that Drach does not label these constituents. Other than that, Drach's *Umklammerung* is completely analogous to a constituent tree, as shown in [@fig:drach1937_46tree]. It remains unclear what inspiration drew Drach to use hierachically ordered brackets. It does not seem to occur in any of his other writings
 
 ::: ex
 Er { ging, [ ohne ( auf die < sich bei ihr wiederholenden > Klagen ) einzugehen ] aus dem Zimmer }.
