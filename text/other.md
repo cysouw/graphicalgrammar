@@ -619,6 +619,16 @@ Figures look very much like Kern, but no attribution
 
 https://vokabular.ujc.cas.cz/moduly/mluvnice/
 
+### Hattala (1857) *Srovnávací mluvnice jazyka českého a slovenského*
+
+Martin Hattala https://cs.wikipedia.org/wiki/Martin_Hattala
+
+- Srovnávací mluvnice jazyka českého a slovenského (1857) http://data.onb.ac.at/rep/1078AB3A https://google.com/books?id=XZcBAAAAMAAJ p.97-99
+
+### Kunz (1861) *Náuka o větách*
+
+Karel Kunz http://data.onb.ac.at/rep/103E931A p. 93-95 (7 editions until 1874)
+
 ### Zikmund (1863) *Skladba jazyka českého*
 
 Václav Zikmund (1816-1873) was a teacher in Písek and later in Prague.^[Some basic biographical information is available at <https://www.ctenizpisku.cz/cteni_autori/zikmund-vaclav/>, accessed 14 April 2025.] He taught Czech language in a time of newly blooming Czech nationalism. The preface of his *Skladba jazyka českého* ['syntax of the Czech language', @zikmund1863] starts with a note that the Czech language was recently reintroduced as a regular language for secondary school in 1849, which raised the need for new descriptive and didactic material in and about the Czech language.
@@ -669,6 +679,16 @@ Czech [@zikmund1866: 147, citing an example of Václav Hájek of Libočany]
 *Obrázce* 'diagram' for the example [@last] from Zikmund [-@zikmund1866: 147]. He already presented the same example earlier [@zikmund1863: 692] but without concrete diagram. The double centre embedding is indicated by different kinds of bracketing.
 :::
 
+### Bartoš (1878) *Skladba*
+
+František Bartoš (1837-1906) https://en.wikipedia.org/wiki/František_Bartoš_(folklorist)
+
+- http://data.onb.ac.at/rep/131CD919 (1878) 153-155
+- https://google.com/books?id=t_j4fiI4qRcC p. 155-157 (second edition 1880) http://data.onb.ac.at/rep/117D5826
+- https://google.com/books?id=8SI1AQAAMAAJ (third edition 1882) p. 152-154
+
+article in yearbook of 1869 in Teschen (Český Těšín in the Czech Republic): https://fbc.pionier.net.pl/id/oai:www.sbc.org.pl:27420
+
 ### Gebauer (1890) *Mluvnice česká* {#sec:gebauer1890}
 
 Jan Gebauer (1838-1907) https://de.wikipedia.org/wiki/Jan_Gebauer
@@ -692,13 +712,15 @@ Jan Gebauer (1838-1907) https://de.wikipedia.org/wiki/Jan_Gebauer
 
 ### Mrázek (1936)
 
-Josef Mrázek (1936: 6) [@novotna2012: 190-191]
+Josef Mrázek (third volume: 1936: 6) [@novotna2012: 190-191]
 
 ### Šmilauer (1947) *Novočeská skladba*
 
 [@panevova2024] https://en.wikipedia.org/wiki/Vladimír_Šmilauer https://comenius-bibl.wz.cz/Smilauer.html
 
 [@smilauer1947: 416-425] Appendix with graphics
+
+ŠMILAUER, V. (1953): Grafická metoda a soustavný rozbor jazykový. Český jazyk, 3, s. 24–28.
 
 Vladimír Šmilauer (1955) fifth edition [@smilauer1968]
 
