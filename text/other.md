@@ -617,19 +617,71 @@ Figures look very much like Kern, but no attribution
 
 ## Czech
 
-https://vokabular.ujc.cas.cz/moduly/mluvnice/
+### Hattala (1857) *Srovnávací mluvnice jazyka českého a slovenského* {#sec:hattala1857}
 
-### Hattala (1857) *Srovnávací mluvnice jazyka českého a slovenského*
+not found: Skladba jazyka českého (1855)
 
-Martin Hattala https://cs.wikipedia.org/wiki/Martin_Hattala
+Martin Hattala (1821-1903) was a Slowakian teacher in Bratislava and later Professor for Slavic languages in Prague. https://cs.wikipedia.org/wiki/Martin_Hattala
 
-- Srovnávací mluvnice jazyka českého a slovenského (1857) http://data.onb.ac.at/rep/1078AB3A https://google.com/books?id=XZcBAAAAMAAJ p.97-99
+cites Bauer and Mager (xvii)
 
-### Kunz (1861) *Náuka o větách*
+Periodenbild [@hattala1857: 97-99]
 
-Karel Kunz http://data.onb.ac.at/rep/103E931A p. 93-95 (7 editions until 1874)
+capitals for main clauses, lowercase letters for subordinate clauses, superscript numbers for multiple subordination, greek letters for non-finite subordinate clauses.
 
-### Zikmund (1863) *Skladba jazyka českého*
+- a, α for complement clauses (*pobočný věty podstatné*)
+- b, β for relative clauses (*pobočný věty přívlastkové*)
+- c, γ for adverbial clauses (*pobočný věty příslovkové*)
+
+::: ex
+Czech [@hattala1857: 99, citing a poem from Ján Kollár]
+
+a. [A]{.grey} Lépe činí ten, [a]{.grey} kdo těží s mále‑m, \
+   [γ]{.grey} stoje věrně na své postati, \
+   [A]{.grey} velký‑t' je, [c]{.grey} bud' sluhou nebo králem.
+b.
+|
+| Lépe činí ten, kdo těží s mále‑m,
+| better act.3SG DEM who benefit.3SG with little‑INST 
+| He does better, who makes do with little, 
+c.
+|
+| stoje věrně na své postati, 
+| stand.PART faithfully on REFL position
+| standing true to his position,
+d.
+|
+| velký‑t' je, bud' sluhou nebo králem.
+| great‑even.if BE.3SG whether servant or king
+| even if he is great, whether he is a servant or a king.
+:::
+
+::: {.im #hattala1857_99}
+Analysis of the *periodě* 'period' in [@last] from Hattala [@hattala1857: 99]. He uses a strongly simplified *Periodenbild* from the German tradition. He cites many German authors, specifically Bauer (see [@sec:bauer1850]) and Mager (see [@sec:mager1840]).
+:::
+
+### Kunz (1859) *Náuka o větách*
+
+Karel Kunz was a teacher in Opavě (today Opava in the Czech Republic), but I have not been able to find any further information on him. He wrote various textbooks on Czech grammar, among them *Náuka o větách pro školu a dům* ['Lessons in sentence (structure) for school and home', @kunz1861], cited here from the second edition, because I have not been able to access the first edition from 1859. From the preface is appears that there have not been any major revisions. The book appears to have been popular, as it received seven editions, the last one from 1874. In the preface he cites Hattala (see [@sec:hattala1857]) and Zikmund (see [@sec:zikmund1863]) as influences. 
+
+The book includes a discussion of the analysis of complex sentences using letters in the tradition of the German *Periodenbild* [@kunz1861: 93-95]. An example is shown in [@fig:kunz1861_95] for the unreferences poem in [@next].
+
+::: ex
+- [a]{.grey} A jako hlahol, [(b)]{.grey} jejž vyzvání, \
+  [a]{.grey} ve krátce v uchu pomine; \
+  [C]{.grey} tak zvěstuj, [d]{.grey} nic že nemá stání, \
+  [e]{.grey} že vše pozemské pohyne.
+- And as the ringing, that sounds, \
+  quickly passes away in the ear; \
+  so proclaim, that nothing endures, \
+  that all earthly things perish.
+:::
+
+::: {.im #kunz1861_95}
+Structure of [@last] 'depicted in letters' (*písmeny zobrazen*) by Kunz [-@kunz1861: 95].
+:::
+
+### Zikmund (1863) *Skladba jazyka českého* {#sec:zikmund1863}
 
 Václav Zikmund (1816-1873) was a teacher in Písek and later in Prague.^[Some basic biographical information is available at <https://www.ctenizpisku.cz/cteni_autori/zikmund-vaclav/>, accessed 14 April 2025.] He taught Czech language in a time of newly blooming Czech nationalism. The preface of his *Skladba jazyka českého* ['syntax of the Czech language', @zikmund1863] starts with a note that the Czech language was recently reintroduced as a regular language for secondary school in 1849, which raised the need for new descriptive and didactic material in and about the Czech language.
 
