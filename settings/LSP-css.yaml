@@ -207,7 +207,7 @@ header-includes:
   hyphenate-limit-last: always;
   hyphenate-limit-zone: 8%;
   }
-  .linguistic-example-gloss {
+  .linguistic-example-content {
     hyphens: none;
   }
   </style>
