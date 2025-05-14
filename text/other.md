@@ -782,7 +782,7 @@ Panevová, J. 2016. Syntax Vladimíra Šmilauera včera a dnes. Jazykovědné ak
 
 grafické [@novotna2013; @novotna2012; @novotna2006; @vernerova2019]
 
-- Autrata ???
+- Autrata, František Václav
 - VÍTEK−SIROTEK, II. díl, 1935, s. 112 [@novotna2012: 190]
 - BOJANOVSKÁ−KOHOUTEK−SEDLÁKOVÁ, I. díl, 1936, s. 29; též II. díl, 1936, s. 38 [@novotna2012: 187-189]
 - KOHOUTEK−KOMÁREK, 1937, s. 135−136 [@novotna2012: 184]
