@@ -619,7 +619,7 @@ Figures look very much like Kern, but no attribution
 
 ### Hattala (1857) *Srovnávací mluvnice jazyka českého a slovenského* {#sec:hattala1857}
 
-Martin Hattala (1821-1903) was a Slowakian teacher in Bratislava and later Professor for Slavic languages in Prague.^[The Czech Wikipedia has a concise summary of his life and work with many references to original sources at https://cs.wikipedia.org/wiki/Martin_Hattala, accessed 14 May 2025.] He has written extensively about the Czech and Slowak languages, but the only graphical analysis in his work appears in *Srovnávací mluvnice jazyka českého a slovenského* ['Comparative grammar of the Czech and Slovak languages', @hattala1857]. However, I have not been able to access his earlier book called *Skladba jazyka českého* 'Syntax of the Czech language' from 1855, which might be relevant for the present context.
+Martin Hattala (1821-1903) was a Slowakian teacher in Bratislava and later professor for Slavic languages in Prague.^[The Czech Wikipedia has a concise summary of his life and work with many references to original sources at https://cs.wikipedia.org/wiki/Martin_Hattala, accessed 14 May 2025.] He has written extensively about the Czech and Slowak languages, but the only graphical analysis in his work appears in *Srovnávací mluvnice jazyka českého a slovenského* ['Comparative grammar of the Czech and Slovak languages', @hattala1857]. However, I have not been able to access his earlier book called *Skladba jazyka českého* 'Syntax of the Czech language' from 1855, which might be relevant for the present context.
 
 Hattala was intimately familiar with the German grammatical literature. Specifically, in the preface of the *Srovnávací mluvnice* [@hattala1857: xvii] he cites Bauer (see [@sec:bauer1850]) and Mager (see [@sec:mager1840]), among many other scholars. For his syntactic analysis Hattala uses a strongly simplified *Periodenbild* [@hattala1857: 97-99]. An example is shown in [@fig:hattala1857_99] for the sentence in [@next]. He uses capitals for main clauses, lowercase letters for subordinate clauses, superscript numbers for multiple subordination and greek letters for non-finite subordinate clauses:
 
@@ -731,13 +731,13 @@ Czech [@zikmund1866: 147, citing Václav Hájek of Libočany]
 
 ### Bartoš (1878) *Skladba*
 
-František Bartoš (1837-1906) https://en.wikipedia.org/wiki/František_Bartoš_(folklorist)
+František Bartoš (1837-1906) was a teacher and later school principal in Brno. He was a wide-ranging ethnologist, working on the Czech language, Moravian dialects, folksongs and other cultural practices.^[The Czech Wikipedia has a concise summary of his life and work with many references to original sources at <https://cs.wikipedia.org/wiki/František_Bartoš_(etnograf)>, accessed 14 May 2025.]
 
-- http://data.onb.ac.at/rep/131CD919 (1878) 153-155
-- https://google.com/books?id=t_j4fiI4qRcC p. 155-157 (second edition 1880) http://data.onb.ac.at/rep/117D5826
-- https://google.com/books?id=8SI1AQAAMAAJ (third edition 1882) p. 152-154
+Together with Matiáš Blažek he prepared the two-volume *Mluvnice jazyka českého pro školy střední a ústavy učitelské* 'Czech language grammar for secondary schools and teacher's institutes'. Bartoš wrote the second volume called *Skladba* 'Syntax' [@bartos1878]. This book was reprinted with only minor changes at least twice in 1880 and 1882. In the introduction he mentions the influence of Zikmund's grammar (see [@sec:zikmund1863]). Bartoš uses one-line *obrázky* 'diagrams', clearly adapted from Zikmund. Many of the examples analysed by Bartoš are even directly copied from Zikmund's grammar [@zikmund1866: 145-149]. For example, Zikmund's example [@last] is graphically analysed by Bartoš [@bartos1878: 155] as shown in [@fig:bartoš1878_155]
 
-article in yearbook of 1869 in Teschen (Český Těšín in the Czech Republic): https://fbc.pionier.net.pl/id/oai:www.sbc.org.pl:27420
+::: {.im #bartoš1878_155}
+*Obrázek* 'diagram' for the example [@last] from Bartoš [-@bartos1878: 155]. This analysis is copied verbatim from Zikmund (cf. [@fig:zikmund1866_147]).
+:::
 
 ### Gebauer (1890) *Mluvnice česká* {#sec:gebauer1890}
 
