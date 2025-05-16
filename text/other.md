@@ -617,13 +617,69 @@ Figures look very much like Kern, but no attribution
 
 ## Czech
 
-https://vokabular.ujc.cas.cz/moduly/mluvnice/
+### Hattala (1857) *Srovnávací mluvnice jazyka českého a slovenského* {#sec:hattala1857}
 
-### Zikmund (1863) *Skladba jazyka českého*
+Martin Hattala (1821-1903) was a Slowakian teacher in Bratislava and later professor for Slavic languages in Prague.^[The Czech Wikipedia has a concise summary of his life and work with many references to original sources at https://cs.wikipedia.org/wiki/Martin_Hattala, accessed 14 May 2025.] He has written extensively about the Czech and Slowak languages, but the only graphical analysis in his work appears in *Srovnávací mluvnice jazyka českého a slovenského* ['Comparative grammar of the Czech and Slovak languages', @hattala1857]. However, I have not been able to access his earlier book called *Skladba jazyka českého* 'Syntax of the Czech language' from 1855, which might be relevant for the present context.
+
+Hattala was intimately familiar with the German grammatical literature. Specifically, in the preface of the *Srovnávací mluvnice* [@hattala1857: xvii] he cites Bauer (see [@sec:bauer1850]) and Mager (see [@sec:mager1840]), among many other scholars. For his syntactic analysis Hattala uses a strongly simplified *Periodenbild* [@hattala1857: 97-99]. An example is shown in [@fig:hattala1857_99] for the sentence in [@next]. He uses capitals for main clauses, lowercase letters for subordinate clauses, superscript numbers for multiple subordination and greek letters for non-finite subordinate clauses:
+
+- a, α for complement clauses (*pobočný věty podstatné*)
+- b, β for attribute/relative clauses (*pobočný věty přívlastkové*)
+- c, γ for adverbial clauses (*pobočný věty příslovkové*)
+
+::: ex
+Czech [@hattala1857: 99, citing a poem from Ján Kollár]
+
+a. [A]{.grey} Lépe činí ten, [a]{.grey} kdo těží s mále‑m, \
+   [γ]{.grey} stoje věrně na své postati, \
+   [A]{.grey} velký‑t' je, [c]{.grey} bud' sluhou nebo králem.
+b.
+|
+| Lépe činí ten, kdo těží s mále‑m,
+| better act.3SG DEM who benefit.3SG with little‑INST 
+| He does better, who makes do with little, 
+c.
+|
+| stoje věrně na své postati, 
+| stand.PART faithfully on REFL position
+| standing true to his position,
+d.
+|
+| velký‑t' je, bud' sluhou nebo králem.
+| great‑even.if BE.3SG whether servant or king
+| even if he is great, whether he is a servant or a king.
+:::
+
+::: {.im #hattala1857_99}
+Analysis of the *perioda* 'period' in [@last] from Hattala [@hattala1857: 99]. He uses a strongly simplified *Periodenbild* from the German tradition. He cites many German authors, specifically Bauer (see [@sec:bauer1850]) and Mager (see [@sec:mager1840]).
+:::
+
+### Kunz (1859) *Náuka o větách*
+
+Karel Kunz (1827-1895) was a teacher in Ošek, Opava and Plzeň. A summary of his life and work is presented by Newerkla [@newerkla2005: 108-111]. He wrote various textbooks on Czech grammar, among them *Náuka o větách pro školu a dům* ['Lessons in sentence (structure) for school and home', @kunz1861], cited here from the second edition, because I have not been able to access the first edition from 1859. From the preface is appears that there have not been any major revisions. The book appears to have been popular as it received seven editions, the last one from 1874. In the preface he cites Hattala (see [@sec:hattala1857]) and Zikmund (see [@sec:zikmund1863]) as influences. 
+
+The book includes a discussion of the analysis of complex sentences using letters in the tradition of the German *Periodenbild* [@kunz1861: 93-95]. An example is shown in [@fig:kunz1861_95] for the unreferenced poem in [@next]. The details of the graphic are quite close to Lehmann's original proposals (see [@sec:lehmann1833]), but Kunz only uses latin letters and names the different clauses simply in alphabetical order. The use of the equal sign for asyndetic coordination appears to be his own invention.
+
+::: ex
+- [a]{.grey} A jako hlahol, [(b)]{.grey} jejž vyzvání, \
+  [a]{.grey} ve krátce v uchu pomine; \
+  [C]{.grey} tak zvěstuj, [d]{.grey} nic že nemá stání, \
+  [e]{.grey} že vše pozemské pohyne.
+- [a]{.grey} And as the ringing, [(b)]{.grey} that sounds, \
+  [a]{.grey} quickly passes away in the ear; \
+  [C]{.grey} so proclaim, [d]{.grey} that nothing endures, \
+  [e]{.grey} that all earthly things perish.
+:::
+
+::: {.im #kunz1861_95}
+Structure of [@last] 'depicted in letters' (*písmeny zobrazen*) by Kunz [-@kunz1861: 95].
+:::
+
+### Zikmund (1863) *Skladba jazyka českého* {#sec:zikmund1863}
 
 Václav Zikmund (1816-1873) was a teacher in Písek and later in Prague.^[Some basic biographical information is available at <https://www.ctenizpisku.cz/cteni_autori/zikmund-vaclav/>, accessed 14 April 2025.] He taught Czech language in a time of newly blooming Czech nationalism. The preface of his *Skladba jazyka českého* ['syntax of the Czech language', @zikmund1863] starts with a note that the Czech language was recently reintroduced as a regular language for secondary school in 1849, which raised the need for new descriptive and didactic material in and about the Czech language.
 
-Zikmund moved from Písek to Prague in 1858, just a year after Ferdinand Bachmann moved to Prague in 1857 (see [@sec:bachmann1864]). Zikmund belongs to the Czech-speaking community and Bachmann to the German-speaking community at a time when in Prague the tension between Czech and German speakers is rising. Also, Zikmund and Bachmann do not cite each other. Yet, Zikmund's *obrázce* 'diagram' [@zikmund1863: 689] is very similar to the *Satzbild* from Bachmann. Bachmann's book was first published in 1864, but it was based on a series of lectures that Bachmann had been presenting for various years before. It seems very likely that Bachmann was the inspiration for Zikmund's diagrams. 
+Zikmund moved from Písek to Prague in 1858, just a year after Ferdinand Bachmann moved to Prague in 1857 (see [@sec:bachmann1864]). Zikmund belongs to the Czech-speaking community and Bachmann to the German-speaking community at a time when in Prague the tension between Czech and German speakers is rising. Also, Zikmund and Bachmann do not cite each other. Yet, Zikmund's *obrázek* 'diagram' [@zikmund1863: 689] is very similar to the *Satzbild* from Bachmann. Bachmann's book was first published in 1864, but it was based on a series of lectures that Bachmann had been presenting for various years before. It seems very likely that Bachmann was the inspiration for Zikmund's diagrams. 
 
 In general, Zikmund was intimately familiar with the German grammatical literature. The book is litterred with contrastive examples, comparing Czech structure with German structure. A telling detail is Zikmund's usage of the latinate terms *enuntiatio nuda* 'naked sentence' and *enuntiatio amplificata, dilatata* 'amplified, expanded sentence' [@zikmund1863: 7]. These terms clearly point to a German influence, as these terms were widely used and discussed in Germany in the previous decades (see [@sec:nackt]), although never using these Latin words. It seems likely that Zikmund was influenced by Hoffmann (see [@sec:hoffmann1839]).
 
@@ -649,24 +705,38 @@ Dependency tree for examples [@last a] from Zikmund [-@zikmund1863: 8]. Zikmund 
 :::
 
 ::: {.im #zikmund1863_322}
-*Vyobrazit* 'picture' for different interpretations of the example in [@last b] from Zikmund [-@zikmund1863: 322]. Without much explanation, Zikmund claims that there is are different meanings depending on the hierarchical constituency, although it remains unclear what exactly the resulting differences are supposed to be.
+*Vyobrazit* 'to depict' different interpretations of the example in [@last b] from Zikmund [-@zikmund1863: 322]. Without much explanation, Zikmund claims that there is are different meanings depending on the hierarchical constituency, although it remains unclear what exactly the resulting differences are supposed to be.
 :::
 
-The previous two images are incidental examples in Zimund's work. Zikmund does not use these approaches consistently as a method of analysis, but only as peripheral illustration. In contrast, for the analysis of complex sentences he extensively discusses a variant of the *Periodenbild* with many examples [@zikmund1863: 688-694]. Zikmund does not cite any inspiration for these *obrazcích* 'diagrams', but there are many similarities to the approach of Bachmann (see [@sec:bachmann1864]), who lived in Prague contemporaneously with Zikmund. An example of Zikmund's diagram is shown in [@fig:zikmund1866_147] for the example sentence in [@next].
+The previous two images are incidental examples in Zimund's work. Zikmund does not use these approaches consistently as a method of analysis, but only as peripheral illustration. In contrast, for the analysis of complex sentences he extensively discusses a variant of the *Periodenbild* with many examples [@zikmund1863: 688-694]. Zikmund does not cite any inspiration for these *obrázky* 'diagrams', but there are many similarities to the approach of Bachmann (see [@sec:bachmann1864]), who lived in Prague contemporaneously with Zikmund. An example of Zikmund's diagram is shown in [@fig:zikmund1866_147] for the example sentence in [@next].
 
-A few years later Zikmund wrote a two volume *Grammatika jazyka českého pro nižší gymnasia* ('Grammar of the Czech language for lower gymnasia'). The first volume deals with phonology and morphology [@zikmund1865]. For the second volume he changed the title, using *mluvnice*, the Czech word for grammar, instead of the latinate term *grammatika* [@zikmund1866]. The second volume deals with sentence and text structure and includes an extensive discussion of *obrázce* 'diagram' for the analysis of complex sentences [@zikmund1866: 145-149]. The examples are mostly identical with the 1863 book, but much clearer structured. 
+A few years later Zikmund wrote a two volume *Grammatika jazyka českého pro nižší gymnasia* ('Grammar of the Czech language for lower gymnasia'). The first volume deals with phonology and morphology [@zikmund1865]. For the second volume he changed the title, using *mluvnice*, the Czech word for grammar, instead of the latinate term *grammatika* [@zikmund1866]. The second volume deals with sentence and text structure and includes an extensive discussion of *obrázky* 'diagrams' for the analysis of complex sentences [@zikmund1866: 145-149]. The examples are mostly identical with the 1863 book, but much clearer structured. 
 
-A second revised edition of the *Grammatika*, combining both volumes from the first edition and now using the title *Mluvnice jazyka českého pro střední školy*, was in preparation when Zikmund died and was finished after his death by Jan Gebauer (see [@sec:gebauer1890]). The discussion of *obrazcích* 'diagrams' appears unchanged from the first edition [@zikmund1874: 365-370]. An unchanged third edition appeared a few years later [@zikmund1876: 365-370].
+A second revised edition of the *grammatika*, combining both volumes from the first edition and now using the title *Mluvnice jazyka českého pro střední školy*, was in preparation when Zikmund died and was finished after his death by Jan Gebauer (see [@sec:gebauer1890]). The discussion of *obrázky* 'diagrams' appears unchanged from the first edition [@zikmund1874: 365-370]. An unchanged third edition appeared a few years later [@zikmund1876: 365-370].
 
 ::: ex
-Czech [@zikmund1866: 147, citing an example of Václav Hájek of Libočany]
+Czech [@zikmund1866: 147, citing Václav Hájek of Libočany]
 
-[A]{.grey} Kníže Kouřimský, [a]{.grey} ač byl častokrát, [a^2]{.grey} aby se proti nim postavil, [a]{.grey} napomínán, [A]{.grey} nechtěl toho učiniti. /
-[A]{.grey} Prince Kouřimský, [a]{.grey} although he was often admonished [a^2]{.grey} to stand against them, [A]{.grey} did not want to do so.
+- [A]{.grey} Kníže Kouřimský, \
+  [\[a]{.grey} ač byl častokrát, [(a^2)]{.grey} aby se proti nim postavil, [a]{.grey} napomínán, [\]]{.grey} \
+  [A]{.grey} nechtěl toho učiniti.
+- [A]{.grey} Prince Kouřimský, \
+  [\[a]{.grey} although he was often admonished [(a^2)]{.grey} to stand against them, [\]]{.grey} \
+  [A]{.grey} did not want to do so.
 :::
 
 ::: {.im #zikmund1866_147}
-*Obrázce* 'diagram' for the example [@last] from Zikmund [-@zikmund1866: 147]. He already presented the same example earlier [@zikmund1863: 692] but without concrete diagram. The double centre embedding is indicated by different kinds of bracketing.
+*Obrázek* 'diagram' for the example [@last] from Zikmund [-@zikmund1866: 147]. He already presented the same example earlier [@zikmund1863: 692] but without concrete diagram. The double centre embedding is indicated by different kinds of bracketing.
+:::
+
+### Bartoš (1878) *Skladba*
+
+František Bartoš (1837-1906) was a teacher and later school principal in Brno. He was a wide-ranging ethnologist, working on the Czech language, Moravian dialects, folksongs and other cultural practices.^[The Czech Wikipedia has a concise summary of his life and work with many references to original sources at <https://cs.wikipedia.org/wiki/František_Bartoš_(etnograf)>, accessed 14 May 2025.]
+
+Together with Matiáš Blažek he prepared the two-volume *Mluvnice jazyka českého pro školy střední a ústavy učitelské* 'Czech language grammar for secondary schools and teacher's institutes'. Bartoš wrote the second volume called *Skladba* 'Syntax' [@bartos1878]. This book was reprinted with only minor changes at least twice in 1880 and 1882. In the introduction he mentions the influence of Zikmund's grammar (see [@sec:zikmund1863]). Bartoš uses one-line *obrázky* 'diagrams', clearly adapted from Zikmund. Many of the examples analysed by Bartoš are even directly copied from Zikmund's grammar [@zikmund1866: 145-149]. For example, Zikmund's example [@last] is graphically analysed by Bartoš [@bartos1878: 155] as shown in [@fig:bartoš1878_155]
+
+::: {.im #bartoš1878_155}
+*Obrázek* 'diagram' for the example [@last] from Bartoš [-@bartos1878: 155]. This analysis is copied verbatim from Zikmund (cf. [@fig:zikmund1866_147]).
 :::
 
 ### Gebauer (1890) *Mluvnice česká* {#sec:gebauer1890}
@@ -692,13 +762,15 @@ Jan Gebauer (1838-1907) https://de.wikipedia.org/wiki/Jan_Gebauer
 
 ### Mrázek (1936)
 
-Josef Mrázek (1936: 6) [@novotna2012: 190-191]
+Josef Mrázek (third volume: 1936: 6) [@novotna2012: 190-191]
 
 ### Šmilauer (1947) *Novočeská skladba*
 
 [@panevova2024] https://en.wikipedia.org/wiki/Vladimír_Šmilauer https://comenius-bibl.wz.cz/Smilauer.html
 
 [@smilauer1947: 416-425] Appendix with graphics
+
+ŠMILAUER, V. (1953): Grafická metoda a soustavný rozbor jazykový. Český jazyk, 3, s. 24–28.
 
 Vladimír Šmilauer (1955) fifth edition [@smilauer1968]
 
@@ -710,7 +782,7 @@ Panevová, J. 2016. Syntax Vladimíra Šmilauera včera a dnes. Jazykovědné ak
 
 grafické [@novotna2013; @novotna2012; @novotna2006; @vernerova2019]
 
-- Autrata ???
+- Autrata, František Václav
 - VÍTEK−SIROTEK, II. díl, 1935, s. 112 [@novotna2012: 190]
 - BOJANOVSKÁ−KOHOUTEK−SEDLÁKOVÁ, I. díl, 1936, s. 29; též II. díl, 1936, s. 38 [@novotna2012: 187-189]
 - KOHOUTEK−KOMÁREK, 1937, s. 135−136 [@novotna2012: 184]
