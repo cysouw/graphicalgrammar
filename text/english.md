@@ -186,6 +186,10 @@ new book [@barrett1859] proposing 21 different relations (p.28), the numbers are
 
 numbered example sentences p. 233-241, there appears to be some implicit hierarchical ordering, but no clear explanation. Maybe numbering like Brown?
 
+### Alcott (1842) *Slate and black board exercises*
+
+Alcott, William A. (William Andrus), 1798-1859. Very simple drawings in a book about using the blackboard: p. 193-194
+
 ### Greene (1846) *A treatise on the structure of the English language*
 
 Samuel Stillman Greene (1810-1883)
