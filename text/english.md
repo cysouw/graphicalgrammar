@@ -9,6 +9,8 @@ Greene (1836) *A practical grammar of the English language*
 https://de.wikipedia.org/wiki/Roscoe_Greene
 https://google.com/books?id=PI4VAQAAMAAJ
 
+black board proposed in school class in 1832: 22 https://www.loc.gov/item/e14001332/
+
 ## Teaching grammar to the Deaf
 
 ### Sicard (1799) *Cours d'instruction d'un sourd-muet*
@@ -157,6 +159,8 @@ Mithridātes, duārum et viginti gentium rex, totǐdem linguis jura dixit
 is limited by *gentium*, which is itself limited by *duārum* and *viginti*.
 *Et* connects *duārum* and *viginti*. \
 > The grammatical predicate is *dixit*, which is limited by *jura* and *linguis*, and the latter by *totǐdem*. [@andrews1836: 255-256]
+
+Similar: "syntactic parsing" in Bullions (1849:197) https://www.loc.gov/item/06019122 or (1846: 125) https://www.loc.gov/item/tmp96027743/
 
 ### Barrett (1837) *The principles of language*
 
