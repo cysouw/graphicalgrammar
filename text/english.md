@@ -9,6 +9,8 @@ Greene (1836) *A practical grammar of the English language*
 https://de.wikipedia.org/wiki/Roscoe_Greene
 https://google.com/books?id=PI4VAQAAMAAJ
 
+black board proposed in school class in 1832: 22 https://www.loc.gov/item/e14001332/
+
 ## Teaching grammar to the Deaf
 
 ### Sicard (1799) *Cours d'instruction d'un sourd-muet*
@@ -158,6 +160,8 @@ is limited by *gentium*, which is itself limited by *duārum* and *viginti*.
 *Et* connects *duārum* and *viginti*. \
 > The grammatical predicate is *dixit*, which is limited by *jura* and *linguis*, and the latter by *totǐdem*. [@andrews1836: 255-256]
 
+Similar: "syntactic parsing" in Bullions (1849:197) https://www.loc.gov/item/06019122 or (1846: 125) https://www.loc.gov/item/tmp96027743/
+
 ### Barrett (1837) *The principles of language*
 
 parsing inspired by Brown???
@@ -185,6 +189,10 @@ new book [@barrett1859] proposing 21 different relations (p.28), the numbers are
 "immediate dependence" vs. "intermediate connection" (p. 141)
 
 numbered example sentences p. 233-241, there appears to be some implicit hierarchical ordering, but no clear explanation. Maybe numbering like Brown?
+
+### Alcott (1842) *Slate and black board exercises*
+
+Alcott, William A. (William Andrus), 1798-1859. Very simple drawings in a book about using the blackboard: p. 193-194
 
 ### Greene (1846) *A treatise on the structure of the English language*
 
