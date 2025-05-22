@@ -497,6 +497,8 @@ l’abbé Louis Gaultier (1746-1818)[ @gaultier1817] parsing tables, but without
 
 ### Tesnière (1934) *Comment construire une syntaxe*
 
+Many biographical details in https://doi.org/10.1515/9783110715118
+
 [@tesniere1934], see also [@mazziotta2019], from "Comment construire une syntaxe", compare "head in the middle" from petrov
 
 Tesniere knew about Fry [@fry1925], documented in [@mazziotta2024], uses numbers like Sicard
@@ -766,17 +768,19 @@ Josef Mrázek (third volume: 1936: 6) [@novotna2012: 190-191]
 
 ### Šmilauer (1947) *Novočeská skladba*
 
+Vladimír Šmilauer (1895–1983)
+
 [@panevova2024] https://en.wikipedia.org/wiki/Vladimír_Šmilauer https://comenius-bibl.wz.cz/Smilauer.html
 
 [@smilauer1947: 416-425] Appendix with graphics
-
-ŠMILAUER, V. (1953): Grafická metoda a soustavný rozbor jazykový. Český jazyk, 3, s. 24–28.
 
 Vladimír Šmilauer (1955) fifth edition [@smilauer1968]
 
 Šmilauer probably knew of Tesnière's work. Tesniere 1953 is cited in Šmilauer (1968: 6)
 
 Panevová, J. 2016. Syntax Vladimíra Šmilauera včera a dnes. Jazykovědné aktuality 53 (1 a 2): 30–35. https://www.jazykovednesdruzeni.cz/wp-content/uploads/2020/04/2016_1-2.pdf
+
+[@smilauer1953] talks about an article from Vladimir Staněk dealing with graphical representations
 
 ### Other Czech
 
