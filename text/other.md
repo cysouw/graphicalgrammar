@@ -790,6 +790,7 @@ grafické [@novotna2013; @novotna2012; @novotna2006; @vernerova2019]
 - VÍTEK−SIROTEK, II. díl, 1935, s. 112 [@novotna2012: 190]
 - BOJANOVSKÁ−KOHOUTEK−SEDLÁKOVÁ, I. díl, 1936, s. 29; též II. díl, 1936, s. 38 [@novotna2012: 187-189]
 - KOHOUTEK−KOMÁREK, 1937, s. 135−136 [@novotna2012: 184]
+- https://katalog.npmk.gov.cz/#!/records/d6e1ca00-5759-4d87-a71a-5f4bf1a71a17
 
 ## Polish
 
