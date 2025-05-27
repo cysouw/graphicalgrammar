@@ -780,7 +780,9 @@ Vladimír Šmilauer (1955) fifth edition [@smilauer1968]
 
 Panevová, J. 2016. Syntax Vladimíra Šmilauera včera a dnes. Jazykovědné aktuality 53 (1 a 2): 30–35. https://www.jazykovednesdruzeni.cz/wp-content/uploads/2020/04/2016_1-2.pdf
 
-[@smilauer1953] talks about an article from Vladimir Staněk dealing with graphical representations
+### Staněk (1952) Grafická metoda veíneho rozboru
+
+[@smilauer1953] talks about an article from Vladimir Staněk dealing with graphical representations [@stanek1952]
 
 ### Other Czech
 
@@ -790,7 +792,11 @@ grafické [@novotna2013; @novotna2012; @novotna2006; @vernerova2019]
 - VÍTEK−SIROTEK, II. díl, 1935, s. 112 [@novotna2012: 190]
 - BOJANOVSKÁ−KOHOUTEK−SEDLÁKOVÁ, I. díl, 1936, s. 29; též II. díl, 1936, s. 38 [@novotna2012: 187-189]
 - KOHOUTEK−KOMÁREK, 1937, s. 135−136 [@novotna2012: 184]
-- https://katalog.npmk.gov.cz/#!/records/d6e1ca00-5759-4d87-a71a-5f4bf1a71a17
+- Havránek-Kopecký-Starý-Získal https://katalog.npmk.gov.cz/#!/records/d6e1ca00-5759-4d87-a71a-5f4bf1a71a17
+- https://ndk.cz/view/uuid:3fccb000-5655-11eb-9496-005056827e52?page=uuid:42af3f25-232b-47a7-b2cd-c5e1a41123b3
+- Kañka-Vachek https://www.databazeknih.cz/knihy/ceska-mluvnice-a-cvicebnice-pro-obchodni-akademie-a-pro-obchodni-skoly-374104
+- František Vítek, 1896-1990 https://www.cervenyknir.cz/vitek-ceska-mluvnice-pro-hlavni-skoly-5944v
+- https://irel.knihovny.cz/Record/mzk.MZK01-000746958?sid=2718
 
 ## Polish
 
