@@ -1112,7 +1112,49 @@ Second, Kern does not like the notion of *bekleidetet* 'dressed' sentences. His 
 
 ### Müllener (1885) *Praktische Übungsschule* {#sec:müllener1885}
 
-[@mullener1885] Satzbilder ("periodenbilder") p. 144, examples p. 150-152, explanation p. 167-168
+Christian Müllener wrote a *Praktische Übungsschule in Sprachform und Satzbau* [@mullener1885]. In this book he identifies himself as a teacher in Münchenbuchsee, a small town near Bern in Switzerland. There used to be a teacher's seminary in Münchenbuchsee, so he might have been employed there. However, I have not been able to find any further information about his biography.
+
+In the *Praktische Übungsschule* Müllener uses *Satzbilder* to illustrate the relation between clauses in complex sentences [@mullener1885: 144-145]. He presents two options to depict the structure of a complex sentence. First, he proposes to write the different clauses in the order of occurrence in the sentence, but shift them downwards when they are subordinated, alike to the music-score approach. An example is shown in [@fig:müllener1885_145] for the examples sentence in [@next].
+
+::: ex
+Was du nicht willst, das man dir tu, das füg' auch keinem andern zu.
+:::
+
+::: {.im #müllener1885_145}
+Basic analysis of a complex sentence structure for the example [@last] by using the vertical dimension to indicate subordination, from Müllener [-@mullener1885: 145]. The third clause of the sentence is the main clause (top), the first clause is subordinate to the main clause (mid), while the middle clause is subordinate to the first clause (bottom).
+:::
+
+Second, Müllener also proposes a symbolic representation of complex clauses in the tradition of Lehmann (see [@sec:lehmann1833]), as shown to the right in [@fig:müllener1885_151]. An explanation of the symbols is given in an appendix [@mullener1885: 167-168]:
+
+- Roman numerals for main clauses, numbered according to the order of occurence.
+- The relation between main clauses is indicated by the following symbols:
+  - plus for coordination (*zusammenstellendes Satzverhältnis*)
+  - dash for contradiction (*entgegenstellendes Satzverhältnis*)
+  - semicolon for explanation (*begründetes Satzverhältnis*)^[There appears to be a typographic error on Müllener [-@mullener1885: 168], where a colon is shown for explanatory coordination, instead of a semicolon, which is used in the examples throughout the book. The colon is used for preposed clauses, in the tradition of Lehmann [-@lehmann1833].]
+  - arch below for reduced coordination (*Zusammenziehung*)
+- Subordinate clauses are indicated by lowercase abbreviations based on latin names for the clause-type:
+  - *s* for subject clause
+  - *a* for attributive/relative clause
+  - *p* for predicative clause
+  - *al* for local adverbial clause
+  - *at* for temporal adverbial clause
+  - *am* for manner adverbial clause
+  - *ac* for causal adverbial clause
+- Non-finite subordinate clauses are indicated by a circumflex.
+- the position of the subordinate clause is identified according to the proposals by Lehmann [-@lehmann1833]:
+  - initial subordinate clauses are separated by a colon
+  - internal subordinate clauses are enclosed in round brackets
+  - postposed subordinate clauses are written below the matrix clauses separated by a horizontal line (instead of the horizontal brace used by Lehmann)
+
+Müllener provides two pages with exercised in which the students have to construct a complex sentence on the basis of the individual clauses and a given schema [@mullener1885: 150-152]. An example of such an exercise is shown in [@fig:müllener1885_151] for the example sentence [@next]. Note that there appears to be a typo in the symbolic representation: The three main clauses should all be linked by a connector-symbol, so it seems like the plus symbol is placed erroneously. The intended structure seems to have been I;II+III instead of the printed I;+II III. The example sentence appears to originate from a story about Demostehenes that appeared in a reader that was widespread in Switzerland.^[For example, a much later example can be found here <https://doi.org/10.3931/e-rara-89949>.]
+
+::: ex
+[ac]{.grey} Um seine Brust zu stärken, [I]{.grey} ging er täglich die steilsten Berge hinan; [;II]{.grey} oder er trat an das Ufer des Meeres, [a]{.grey} wo die Wogen ein großes Gebrause machten, [+III]{.grey} und suchte mit seiner Stimme [ô]{.grey} das Getöse zu übertönen.
+:::
+
+::: {.im #müllener1885_151}
+Symbolic representation of the complex sentence in [@last] from Müllener [-@mullener1885: 151]. This example is given as an exercise, in which the students have to construct the complex sentence from the separate clauses (shown on the left), applying the subordination structure as given by the symbolic representation to the right.
+:::
 
 ### Willomitzer (1885) *Deutsche Grammatik* {#sec:willomitzer1885}
 
