@@ -1633,9 +1633,41 @@ Gustav Schuberth (1850-1922) was a director of a school in Großenhain. In the 3
 *Satzbild* for the example from Schiller in [@last] as analysed by Schuberth [-@schuberth1908: 7]. He uses the notation */~2~* for parts of separated clauses, round brackets for non-finite clauses, and different letters for kinds of subordinate clauses (e.g. *g=Gegenstand* for complement clauses or *e=Eigentschaft* for relative clauses). He considers the indication of the depth of embedding to be superfluous [@schuberth1908: 4].
 :::
 
+### Paul (1910) *Deutsch wie es fehlerlos geschrieben und gesprochen wird*
+
+Theodor Paul was a *Seminar- und Präparandenlehrer*, i.e. a teacher at a teacher's seminary. I have not been able to find any further details about his biography, not even at which teacher's seminary he worked. In 1910 he wrote a German grammar, intended for self-education: *Deutsch wie es fehlerlos geschrieben und gesprochen wird* [cited here is the unchanged second edition, @paul1911a]. Two years later Paul also published an accompanying reader.^[Scans of the reader are available online at <https://commons.wikimedia.org/wiki/Category:Muster-Aufsätze_1912_von_Theodor_Paul>, accessed 5 June 2025.]
+
+In the grammar, Paul uses *schematische Darstellungen durch sogenannte Satzbilder* 'schematic representations using so-called *Satzbilder*', which he first introduces only for single clauses [@paul1911a: 231]. He probably intended for the graphics to look like tree-like structures with a verbal head on top, as found widespread in Germany by this time. However, the printed version only includes horizontal and vertical lines, which make the graphics rather clumsily and difficult to understand. An example is shown in [@fig:paul1911_231] for example [@next]. The following abbreviation are used by Paul in his graphics:
+
+- S. = *Subjekt (Satzgegenstand)* 'subject'
+- P. = *Prädikat (Aussage)* 'predicate'
+- O. = *Objekt (Satzergänzung)* 'object'
+- U.Z. = *Umstandsbestimmung der Zeit* 'temporal adverbial'
+- U.O. = *Umstandsbestimmung des Ortes* 'local adverbial'
+- U.A. = *Umstandsbestimmung der Art* 'manner adverbial'
+- B. = *Beifügung* 'attribute'
+
+::: ex
+[U.O.]{.grey} Am Ufer [B.]{.grey} des Ganges [P.]{.grey} verschlang [U.Z.]{.grey} heute ein [B.]{.grey} riesiger [S.]{.grey} Alligator [U.A.]{.grey} wutschnaubend einen [B.]{.grey} braunen [O.]{.grey} Inder.
+:::
+
+::: {.im #paul1911_231}
+*Satzbild* of a single-clause sentence [@last] from Paul [-@paul1911a: 231]. The graphics are rather clumsily and difficult to understand, probably due to restriction of the printing process. The intended structure seem to be a verb-centric dependency tree with the predicate *verschlang* 'devoured' on top and the various dependents linked by lines pointing downwards. However, because the lines only go horizontal or vertical this structure is quite difficult to discern. On closer inspection, there are five lines departing from the central predicate on top: to the subject, the object, and to the three adverbial elements. Various of these elements additionally have an attributive *Beifügung*, which is simply placed below its head, without connnecting line.
+:::
+
+For complex clauses Paul [-@paul1911a: 268-269] adds the abbreviations *H* for *Hauptsatz* 'main clause' and *N* for *Nebensatz* 'subordinate clause'. Each clause is then individually further analysed using the single-clause model, although the examples presented in his book only contain very simple clause structures without any deep hierarchical constructions. An example of his visual approach is shown in [@fig:paul1911_268] for the example [@next]. A notewhorthy graphical detail is the addition of a thin line with feathers at each end (inserted at the right side of the graphic). This line connects the two separated parts of the German predicate, a phenomen today known as the *Satzklammer* 'sentence bracket'.
+
+::: ex
+Wer sich nicht nach der Decke streckt, dem bleiben die Füße unbedeckt.
+:::
+
+::: {.im #paul1911_268}
+*Satzbild* of a multi-clause sentence [@last b] from Paul [-@paul1911a: 268]. Each clause is internally further analysed, although the examples presented by Paul remain very simple. Also note the thin line with the 'feathers' at the ends, which indicate a discontinuous structure. In this example, it is used to show the connection between the auxiliary *bleiben* and the participle *unbedeckt*, which are regularly separated in the German main clause structure. This connection is known today as the *Satzklammer*, but it was mostly ignored by 19th Century graphical analyses.
+:::
+
 ### Erman (1913) *Stellung und Funktion der Nebensätze* {#sec:erman1913}
 
-Konrad Bessel Erman (1888-1915) died a young man in the First World War, shortly after he finished his dissertation in Bonn [@erman1913a; the actual dissertation was only the first part, see @erman1913]. A short obituary is given by Schulze [-@schulze1917] and a biographical eulology is provided by his mourning father [@erman1916]. 
+Konrad Bessel Erman (1888-1915) died a young man in the First World War, shortly after he finished his dissertation in Bonn [published as @erman1913a; the actual dissertation was only the first part, see @erman1913]. A short obituary is given by Schulze [-@schulze1917] and a biographical eulology is provided by his mourning father [@erman1916]. 
 
 In his dissertation, called *Beziehungen zwischen Stellung und Funktion der Nebensätze mehrfacher Unterordnung im Althochdeutschen*, Erman investigates different kinds of subordination in Old High German texts. He uses a symbolic representation to characterise the structure of complex sentences [@erman1913a: 4-5], but refrains from calling them *Periodenbild* or *Satzbild*, although he cites various authors that use *Periodenbilder* for similar purposes [viz. @lehmann1856; @esser1878; @toifel1897; @toifel1901]. 
 
