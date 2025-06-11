@@ -762,6 +762,28 @@ Jan Gebauer (1838-1907) https://de.wikipedia.org/wiki/Jan_Gebauer
 
 1894: *Historicka Mluvnice Jazyka Ceskeho* https://archive.org/details/HistorickaMluvniceJazykaCeskeho.DilI.Hlaskoslovi.JanGebauer./page/n9/mode/2up
 
+### Havránek (1933) *Cvičebnice jazyka českého*
+
+*Cvičebnice jazyka českého pro první třídu středních škol* 'Czech language exercises for the first grade of secondary schools' [@havranek1933]
+
+Havránek, Bohuslav, 1893-1978 (autor)
+https://en.wikipedia.org/wiki/Bohuslav_Havránek
+
+Alois Získal (1891-1974)
+Leontij Kopecký (1894–1976) 
+Eduard Starý (1877-???)
+
+::: ex
+- Pilní rolníci vymlátili sklizené obilí. \
+  The hardworking peasants threshed the harvested grain.
+- Klika musí běžet plavně, oble a při každé pisničce jiným tempem! \
+  The crank must run smoothly, roundly, and at a different pace with each song!
+:::
+
+Schemas of complex sentences in a later work [@havranek1981: 183-184], but original much older, probably somewhere 1950, but I have not been able to access the earlier versions. e.g. 1968 http://cdk.kramerius.org/view/uuid:9a7549c0-87e3-11e2-aa2b-005056827e51?page=uuid:292bb300-94d9-11e2-9142-5ef3fc9bb22f&source=mzk
+
+not in 1950 version https://dk.uzei.cz/nkp/view/uuid:55b14040-3d82-11e4-8fc5-005056827e52?page=uuid:15c7ce30-45e9-11e4-bf02-5ef3fc9ae867
+
 ### Mrázek (1936)
 
 Josef Mrázek (third volume: 1936: 6) [@novotna2012: 190-191]
