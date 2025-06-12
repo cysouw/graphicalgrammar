@@ -2023,6 +2023,8 @@ Erika Essen (1914-1986) bio [@muller1996]
 
 https://www.lagis-hessen.de/de/subjects/print/sn/bio/id/18993
 
+The 1956 Book has seen reprints and revisions at least until a 10th edition from 1980, still containing the curved lines.
+
 ### Grosse (1960) *Die deutsche Satzperiode*
 
 [@grosse1960] indented subordinates clauses

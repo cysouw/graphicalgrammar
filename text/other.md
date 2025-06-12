@@ -745,48 +745,80 @@ Together with Matiáš Blažek he prepared the two-volume *Mluvnice jazyka česk
 
 Jan Gebauer (1838-1907) https://de.wikipedia.org/wiki/Jan_Gebauer
 
-*Mluvnice česká pro školy střední a ústavy učitelské* 'Czech grammar for secondary schools and teacher training institutes'
+two volume, second volume about syntax ('skladba')
 
-- first edition 1890: https://books.google.de/books?id=QaM3AQAAMAAJ p. 26, 38, 46, 186? also https://aleph.nkp.cz/eod/nkc/1001247889/
-- second edition 1894: https://www.digitalniknihovna.cz/nkp/view/uuid:1ba7c2b0-cce1-11dd-b12f-000d606f5dc6?page=uuid:5fb942b0-9c9f-11e8-830e-005056825209 p. 28, 40, 48
-- combined thrid edition 1900: [@gebauer1900: 237, 249, 257, 265] also here: https://kramerius5.nkp.cz/view/uuid:be80e6c0-1658-11e5-b9a6-5ef3fc9ae867?page=uuid:3adda7b0-1a57-11e5-8401-001018b5eb5c
-- first volume revision 1914 after death of gebauer by vaclav Ertl (graphics removed?): https://ndk.cz/uuid/uuid:d2a2c090-c25f-11e3-bb44-5ef3fc9bb22f
-- second volume revision 1926 https://ndk.cz/view/uuid:4d8dd430-8804-11ec-bc36-005056827e51?page=uuid:adf9e29b-1bd4-4a1c-8926-90cf41ff8240
+*Mluvnice česká pro školy střední a ústavy učitelské* 'Czech grammar for secondary schools and teacher training institutes' [@gebauer1890] p. 26, 38, 46, 186
+
+second edition [@gebauer1894: 28, 40, 48]
+
+combined third edition 1900: [@gebauer1900: 237, 249, 257, 265]
+
+- first volume revision 1914 after death of gebauer by vaclav Ertl (graphics removed?): https://ndk.cz/uuid/uuid:8d7c84d0-6a51-11e3-8387-001018b5eb5c
+- second volume revision 1926 https://ndk.cz/uuid/uuid:93df09ca-3d33-46b4-b76a-0670fcc328ed
 
 ČECHOVÁ, M. Místo tzv. školských mluvnic J. Gebauera v jeho tvorbě a ve vývoji vyučování češtině. In Acta Universitatis Carolinae – Philologica 1–2, Slavica Pragensia XXXV, 1992, s. 79–91.
 
 *Krátká mluvnice česká*
 
-- 1891: https://aleph.nkp.cz/eod/nkc/1001804860 periode: 113-116, 126
-- 1902 (third revised edition): https://google.com/books?id=4lw-AQAAIAAJ added dependencies with arches, but only very limited p. 127-128, same very simple periodenbild 133-137, more interesting 147
-
-1894: *Historicka Mluvnice Jazyka Ceskeho* https://archive.org/details/HistorickaMluvniceJazykaCeskeho.DilI.Hlaskoslovi.JanGebauer./page/n9/mode/2up
+- 1891: https://aleph.nkp.cz/eod/nkc/1001804860 periode: 113-116, 126-128
+- 1902 (third revised edition): https://google.com/books?id=4lw-AQAAIAAJ added dependencies with arches, but only very limited p. 127-128, same very simple periodenbild 133-137, more interesting 147-149
 
 ### Havránek (1933) *Cvičebnice jazyka českého*
 
-*Cvičebnice jazyka českého pro první třídu středních škol* 'Czech language exercises for the first grade of secondary schools' [@havranek1933]
-
-Havránek, Bohuslav, 1893-1978 (autor)
+Havránek, Bohuslav, 1893-1978 (prague circle)
 https://en.wikipedia.org/wiki/Bohuslav_Havránek
 
 Alois Získal (1891-1974)
 Leontij Kopecký (1894–1976) 
 Eduard Starý (1877-???)
 
+first grade
+
+*Cvičebnice jazyka českého pro první třídu středních škol* 'Czech language exercises for the first grade of secondary schools' [@havranek1933]
+
+second grade published 1934, here quoted from 1947 reprint [@havranek1947] 1934 version seems to be completely identical: https://ndk.cz/uuid/uuid:5af02996-ed8f-476b-b00a-2808ee38d72f
+
 ::: ex
 - Pilní rolníci vymlátili sklizené obilí. \
   The hardworking peasants threshed the harvested grain.
-- Klika musí běžet plavně, oble a při každé pisničce jiným tempem! \
+- Klika musí běžet plavně, oble a při každé pisničce jiným tempem! (quoting Karla Čapek)\
   The crank must run smoothly, roundly, and at a different pace with each song!
+- Dům pekaře Marhoula stál na jižní straně náměstí. (quoting Vladislav Vančura)\
+  The house of the baker Marhoul stood on the south side of the square.
+- Musíme si přitom uvědomiti, že pes je šelma, kterou všecka přirozenost nutí, aby po zvěři, kterou nalezl, skočil a utíkal za ní. (quoting Jana Vrby)\
+  We must realize that a dog is a beast that is forced by all nature to jump and run after the game it finds.
 :::
 
 Schemas of complex sentences in a later work [@havranek1981: 183-184], but original much older, probably somewhere 1950, but I have not been able to access the earlier versions. e.g. 1968 http://cdk.kramerius.org/view/uuid:9a7549c0-87e3-11e2-aa2b-005056827e51?page=uuid:292bb300-94d9-11e2-9142-5ef3fc9bb22f&source=mzk
 
-not in 1950 version https://dk.uzei.cz/nkp/view/uuid:55b14040-3d82-11e4-8fc5-005056827e52?page=uuid:15c7ce30-45e9-11e4-bf02-5ef3fc9ae867
+not in 1950 version? https://dk.uzei.cz/nkp/view/uuid:55b14040-3d82-11e4-8fc5-005056827e52?page=uuid:15c7ce30-45e9-11e4-bf02-5ef3fc9ae867
 
-### Mrázek (1936)
+### Mrázek (1936) *Nová cesta*
 
-Josef Mrázek (third volume: 1936: 6) [@novotna2012: 190-191]
+Josef Mrázek (third volume: 1936: 6) [@novotna2012: 147-150, 190-191]
+
+Josef Mrázek (1890−1969) was a native of Moravia, and worked as a high school professor in Prague.
+
+who referred to their use in Russian grammars (MRÁZEK,
+1936, p. 6). from novotna 2012:190
+
+### Kaňka & Vachek (1945) *Česká mluvnice a cvičebnice*
+
+Jan Kaňka 1897-1966
+Josef Vachek 1909-1996 https://cs.wikipedia.org/wiki/Josef_Vachek (prague circle)
+
+*Česká mluvnice a cvičebnice pro obchodní akademie a pro obchodní školy* 'Czech grammar and exercise book for business academies and business schools'
+
+I have accessed a copy from the University of Bamberg which was dedicated on the title page by the authors to Havránek: *J. Sp. p. univ. prof. dr. B. Havránka v upřímé úctě* 'To university professor Dr. B. Havránek, your humble servant, with sincere respect'
+
+::: ex
+- Když Bolemír Nebeský nadšen rozvijel před Boženou Němcovou myšlenky, co by jako žena mohla vykonat pro lepši národa, a přimo ji povzbuzoval, aby svými silami byla při tom dile nápomocna, otvíral se před ní svět vzácné krásy, o jakém si nikdy netroufala snit. \
+  When Bolemír Nebeský enthusiastically before Božena Němcová developed ideas about what she, as a woman, could do for the betterment of the nation, and directly encouraged her to use her strength to assist in this work, a world of rare beauty opened up before her, the likes of which she had never dared to dream.
+:::
+
+::: {.im #kanka1945_priloha2}
+[@kanka1945: appendix 2]
+:::
 
 ### Šmilauer (1947) *Novočeská skladba*
 
@@ -810,15 +842,10 @@ Panevová, J. 2016. Syntax Vladimíra Šmilauera včera a dnes. Jazykovědné ak
 
 grafické [@novotna2013; @novotna2012; @novotna2006; @vernerova2019]
 
-- Autrata, František Václav
-- VÍTEK−SIROTEK, II. díl, 1935, s. 112 [@novotna2012: 190]
+- ŽOFKOVÁ−TOŽIČKA (1933-1938) [@novotna2012: 185]
 - BOJANOVSKÁ−KOHOUTEK−SEDLÁKOVÁ, I. díl, 1936, s. 29; též II. díl, 1936, s. 38 [@novotna2012: 187-189]
 - KOHOUTEK−KOMÁREK, 1937, s. 135−136 [@novotna2012: 184]
-- Havránek-Kopecký-Starý-Získal https://katalog.npmk.gov.cz/#!/records/d6e1ca00-5759-4d87-a71a-5f4bf1a71a17
-- https://ndk.cz/view/uuid:3fccb000-5655-11eb-9496-005056827e52?page=uuid:42af3f25-232b-47a7-b2cd-c5e1a41123b3
-- Kañka-Vachek https://www.databazeknih.cz/knihy/ceska-mluvnice-a-cvicebnice-pro-obchodni-akademie-a-pro-obchodni-skoly-374104
-- František Vítek, 1896-1990 https://www.cervenyknir.cz/vitek-ceska-mluvnice-pro-hlavni-skoly-5944v
-- https://irel.knihovny.cz/Record/mzk.MZK01-000746958?sid=2718
+- VÍTEK−SIROTEK, II. díl, 1935, s. 112 [@novotna2012: 190] František Vítek, 1896-1990 https://www.cervenyknir.cz/vitek-ceska-mluvnice-pro-hlavni-skoly-5944v https://irel.knihovny.cz/Record/mzk.MZK01-000746958?sid=2718
 
 ## Polish
 
