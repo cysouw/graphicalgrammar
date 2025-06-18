@@ -738,7 +738,7 @@ František Bartoš (1837-1906) was a teacher and later school principal in Brno.
 Together with Matiáš Blažek he prepared the two-volume *Mluvnice jazyka českého pro školy střední a ústavy učitelské* 'Czech language grammar for secondary schools and teacher's institutes'. Bartoš wrote the second volume called *Skladba* 'Syntax' [@bartos1878]. This book was reprinted with only minor changes at least twice in 1880 and 1882. In the introduction he mentions the influence of Zikmund's grammar (see [@sec:zikmund1863]). Bartoš uses one-line *obrázky* 'diagrams', clearly adapted from Zikmund. Many of the examples analysed by Bartoš are even directly copied from Zikmund's grammar [@zikmund1866: 145-149]. For example, Zikmund's example [@last] is graphically analysed by Bartoš [@bartos1878: 155] as shown in [@fig:bartoš1878_155]
 
 ::: {.im #bartoš1878_155}
-*Obrázek* 'diagram' for the example [@last] from Bartoš [-@bartos1878: 155]. This analysis is copied verbatim from Zikmund (cf. [@fig:zikmund1866_147]).
+*Obrázek* 'diagram' for the example [@last] from Bartoš [-@bartos1878: 155]. This analysis is copied verbatim from Zikmund (cf. [@fig:zikmund1866_147]), though note that the square and round brackets are reversed.
 :::
 
 ### Gebauer (1890) *Mluvnice česká* {#sec:gebauer1890}
