@@ -763,18 +763,22 @@ combined third edition 1900: [@gebauer1900: 237, 249, 257, 265]
 - 1891: https://aleph.nkp.cz/eod/nkc/1001804860 periode: 113-116, 126-128
 - 1902 (third revised edition): https://google.com/books?id=4lw-AQAAIAAJ added dependencies with arches, but only very limited p. 127-128, same very simple periodenbild 133-137, more interesting 147-149
 
-### Havránek (1933) *Cvičebnice jazyka českého*
+### Havránek (1933) *Cvičebnice jazyka českého* {#sec:havranek1933}
 
 Havránek, Bohuslav, 1893-1978 (prague circle)
 https://en.wikipedia.org/wiki/Bohuslav_Havránek
 
-Alois Získal (1891-1974)
-Leontij Kopecký (1894–1976) 
-Eduard Starý (1877-???)
+After studying in Prague, Havránek worked as a teacher for many years and retained an strong interest in the didactical aspects of grammar throughout his long life. An extensive overview of his many didactic activities is presented by Šmejkalová [-@smejkalova2013].
+
+
 
 first grade
 
 *Cvičebnice jazyka českého pro první třídu středních škol* 'Czech language exercises for the first grade of secondary schools' [@havranek1933]
+
+Alois Získal (1891-1974)
+Leontij Kopecký (1894–1976) 
+Eduard Starý (1877-???)
 
 second grade published 1934, here quoted from 1947 reprint [@havranek1947] 1934 version seems to be completely identical: https://ndk.cz/uuid/uuid:5af02996-ed8f-476b-b00a-2808ee38d72f
 
@@ -789,18 +793,34 @@ second grade published 1934, here quoted from 1947 reprint [@havranek1947] 1934 
   We must realize that a dog is a beast that is forced by all nature to jump and run after the game it finds.
 :::
 
-Schemas of complex sentences in a later work [@havranek1981: 183-184], but original much older, probably somewhere 1950, but I have not been able to access the earlier versions. e.g. 1968 http://cdk.kramerius.org/view/uuid:9a7549c0-87e3-11e2-aa2b-005056827e51?page=uuid:292bb300-94d9-11e2-9142-5ef3fc9bb22f&source=mzk
+Schemas of complex sentences in a later work [@havranek1981: 183-184] Not in original 1950 version https://dk.uzei.cz/nkp/view/uuid:55b14040-3d82-11e4-8fc5-005056827e52?page=uuid:15c7ce30-45e9-11e4-bf02-5ef3fc9ae867 Not in 1952 version, not in 1959 version. The graphics appear at least in 1968 version http://cdk.kramerius.org/view/uuid:9a7549c0-87e3-11e2-aa2b-005056827e51?page=uuid:292bb300-94d9-11e2-9142-5ef3fc9bb22f&source=mzk
 
-not in 1950 version? https://dk.uzei.cz/nkp/view/uuid:55b14040-3d82-11e4-8fc5-005056827e52?page=uuid:15c7ce30-45e9-11e4-bf02-5ef3fc9ae867
+### Mrázek (1936) *Nová cesta* {#sec:mrazek1936}
 
-### Mrázek (1936) *Nová cesta*
+Josef Mrázek (1890−1969) was a native of Moravia, and worked as a high school professor in Prague. All information about Mrázek is taken from Novotna [-@novotna2012: 147-150, 190-191] because I have not been able to access any of his work myself. He uses graphical syntactic analyses in the third volume (for the third grade, published 1936) of his *Nová cesta. Pracovní učebnice a cvičebnice jazyka vyučovacího pro české měšťanské školy* 'New way. Workbook and exercise book of the language of instruction for Czech middle-class schools'. He refers to the use of graphical display in Russian grammars as an inspiration [@novotna2012: 190]. However, his graphics are very similar to the ones from Havránek (see [@sec:havranek1933]). Two examples frpm Mrázek are shown in [@fig:mrazek1936_6a] and [@fig:mrazek1936_6b] for the examples in [@next]. The second example shows that subordinate clauses are treated equally to other sentence constituents.
 
-Josef Mrázek (third volume: 1936: 6) [@novotna2012: 147-150, 190-191]
+::: ex
+Czech [Mrázek 1936: 6, cited after @novotna2012: 190-191]
 
-Josef Mrázek (1890−1969) was a native of Moravia, and worked as a high school professor in Prague.
+a.
+|
+| Starostlivý otec odje-l zarmoucen za nemocným synem do města.
+| caring father leave‑PAST sad to sick son to city
+| The caring father left, saddened, to the city to (visit his) sick son.
+b.
+|
+| Náš tatínek vypavova‑l, jak se uči‑l řemeslu.
+| our father tell‑PAST how REFL learn‑PAST trade
+| Our dad told how he learned the trade.
+:::
 
-who referred to their use in Russian grammars (MRÁZEK,
-1936, p. 6). from novotna 2012:190
+::: {.im #mrazek1936_6a}
+Graphical analysis of a single-clause sentence [@last a] from Mrázek [Mrázek 1936: 6, cited after @novotna2012: 190]. The visual structure is very similar to Havránek (see [@sec:havranek1933]). Both are probably strongly influences by the Russian tradition, as indicated by the use of arrows (see e.g. Petrov in [@sec:petrov1906]).
+:::
+
+::: {.im #mrazek1936_6b}
+Graphical analysis of a multi-clause sentence [@last b] from Mrázek [Mrázek 1936: 6, cited after @novotna2012: 191]. Exactly the same visualisation as for single-clause sentences is used for complex sentences with subordinate clauses.
+:::
 
 ### Kaňka & Vachek (1945) *Česká mluvnice a cvičebnice*
 
@@ -842,8 +862,8 @@ Panevová, J. 2016. Syntax Vladimíra Šmilauera včera a dnes. Jazykovědné ak
 
 grafické [@novotna2013; @novotna2012; @novotna2006; @vernerova2019]
 
-- ŽOFKOVÁ−TOŽIČKA (1933-1938) [@novotna2012: 185]
-- BOJANOVSKÁ−KOHOUTEK−SEDLÁKOVÁ, I. díl, 1936, s. 29; též II. díl, 1936, s. 38 [@novotna2012: 187-189]
+- ŽOFKOVÁ−TOŽIČKA (1933-1938) [@novotna2012: 187]
+- BOJANOVSKÁ−KOHOUTEK−SEDLÁKOVÁ, I. díl, 1936, s. 29; též II. díl, 1936, s. 38 [@novotna2012: 184, 187-189]
 - KOHOUTEK−KOMÁREK, 1937, s. 135−136 [@novotna2012: 184]
 - VÍTEK−SIROTEK, II. díl, 1935, s. 112 [@novotna2012: 190] František Vítek, 1896-1990 https://www.cervenyknir.cz/vitek-ceska-mluvnice-pro-hlavni-skoly-5944v https://irel.knihovny.cz/Record/mzk.MZK01-000746958?sid=2718
 

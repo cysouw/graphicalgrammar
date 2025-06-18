@@ -8,6 +8,8 @@ A central driver of innovation for visual methods throughout this history was ed
 
 > In the study of grammar the blackboard may be used to exhibit the inflections of the various parts of speech; it may also be used in syntax, to point out the connection of the principal words to each other. The method of doing this is by writing on the board the sentence to be parsed, **and then connecting by curved lines those words that have any grammatical connection with each other**. The instructor at the same time pointing out what that relation is. [James Ray 1830, cited in @lyman1922: 148, emphasis added]
 
+However, it is astonishingly difficult to find in-depth information about the history of the blackboard. Wich [-@wich2008] discusses many different technical developments, but most of his examples are from the late 19th Century and later. The early history still needs more research. There is a tantalising hint that blackboards might have been more widespread in Europe before 1800, as the picture of a class room in the *Orbis Pictus* by Comenius (1658) includes a blackboard, e.g. an edition from 1685: 198 <http://digitalna.kniznica.info/zoom/67138/view?page=205>
+
 Yet, also from the very start the graphical methods were also used to clarify linguistic structures in scholarly debates.
 
 ## Graphical methods
