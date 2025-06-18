@@ -747,21 +747,41 @@ Jan Gebauer (1838-1907) https://de.wikipedia.org/wiki/Jan_Gebauer
 
 two volume, second volume about syntax ('skladba')
 
-*Mluvnice česká pro školy střední a ústavy učitelské* 'Czech grammar for secondary schools and teacher training institutes' [@gebauer1890] p. 26, 38, 46, 186
+*Mluvnice česká pro školy střední a ústavy učitelské* 'Czech grammar for secondary schools and teacher training institutes' [@gebauer1890] p. 26, 38, 46, 54, 57-58
 
-second edition [@gebauer1894: 28, 40, 48]
+same in second edition [@gebauer1894: 28, 40, 48, 56]
 
 combined third edition 1900: [@gebauer1900: 237, 249, 257, 265]
+
+::: ex
+| Czech [@gebauer1890: 26]
+| Země otáčí se každých čtyřiadvacet hodin okolo své osy.
+| earth rotate.3SG REFL every twenty‑four hours around its axis
+| The Earth rotates around its axis every twenty-four hours.
+:::
+
+::: {.im #gebauer1890_26}
+Hierarchical analysis of the sentences [@last] from Gebauer [-@gebauer1890: 26]. Note that the subject *země* 'earth' stands apart from the complete rest of the sentence, including all modifiers. This is quite different from most other analyses in the 19th Century, which would typically separate subject from its verb, but depict further modification separately.
+:::
+
+::: ex
+| Czech [@gebauer1890: 38]
+| Přij-de čas, že se zeptá zima, co‑s děla‑l v létě.
+| come-FUT time SUB REFL ask.FUT winter, SUB-2SG do-PAST in summer
+| The time will come when winter will ask what you did in the summer.
+:::
+
+
 
 - first volume revision 1914 after death of gebauer by vaclav Ertl (graphics removed?): https://ndk.cz/uuid/uuid:8d7c84d0-6a51-11e3-8387-001018b5eb5c
 - second volume revision 1926 https://ndk.cz/uuid/uuid:93df09ca-3d33-46b4-b76a-0670fcc328ed
 
 ČECHOVÁ, M. Místo tzv. školských mluvnic J. Gebauera v jeho tvorbě a ve vývoji vyučování češtině. In Acta Universitatis Carolinae – Philologica 1–2, Slavica Pragensia XXXV, 1992, s. 79–91.
 
-*Krátká mluvnice česká*
+In 1891 Gebauer publishes a short version of the grammar, called *Krátká mluvnice česká pro první třídy škol středních* 'Short Czech grammar for the first grades of secondary schools' [@gebauer1891].
 
-- 1891: https://aleph.nkp.cz/eod/nkc/1001804860 periode: 113-116, 126-128
-- 1902 (third revised edition): https://google.com/books?id=4lw-AQAAIAAJ added dependencies with arches, but only very limited p. 127-128, same very simple periodenbild 133-137, more interesting 147-149
+- periode [@gebauer1891: 113-116, 126-128]
+- The third revised edition has only a few minor changes [@gebauer1902]: added dependencies with arches, but only very limited p. 127-128, same very simple periodenbild 133-137, more interesting 147-149
 
 ### Havránek (1933) *Cvičebnice jazyka českého* {#sec:havranek1933}
 
