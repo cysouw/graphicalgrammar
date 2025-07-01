@@ -810,6 +810,7 @@ After the death of Gebauer, the two-volume grammar in the fifth edition is exten
 - first volume revision 1914 fifth edition after death of gebauer by vaclav Ertl (graphics removed?): https://ndk.cz/uuid/uuid:8d7c84d0-6a51-11e3-8387-001018b5eb5c
 - second volume revision ninth edition 1926 https://ndk.cz/uuid/uuid:93df09ca-3d33-46b4-b76a-0670fcc328ed
 
+Major Work of Gebauer *Historická mluvnice jazyka českého* 'Historical grammar of the Czech language', fourth volume on syntax finished after his death by Frantiček Trávníček, contains all the same images from the 1890 version [@gebauer1929]
 
 ### Havránek (1933) *Cvičebnice jazyka českého* {#sec:havranek1933}
 
