@@ -753,35 +753,63 @@ same in second edition [@gebauer1894: 28, 40, 48, 56]
 
 combined third edition 1900: [@gebauer1900: 237, 249, 257, 265]
 
+small arches below for argument structure and some other kinds of modification. But never used for complete sentences.
+
 ::: ex
+a.
 | Czech [@gebauer1890: 26]
 | Země otáčí se každých čtyřiadvacet hodin okolo své osy.
 | earth rotate.3SG REFL every twenty‑four hours around its axis
 | The Earth rotates around its axis every twenty-four hours.
-:::
-
-::: {.im #gebauer1890_26}
-Hierarchical analysis of the sentences [@last] from Gebauer [-@gebauer1890: 26]. Note that the subject *země* 'earth' stands apart from the complete rest of the sentence, including all modifiers. This is quite different from most other analyses in the 19th Century, which would typically separate subject from its verb, but depict further modification separately.
-:::
-
-::: ex
+b.
 | Czech [@gebauer1890: 38]
 | Přij-de čas, že se zeptá zima, co‑s děla‑l v létě.
-| come-FUT time SUB REFL ask.FUT winter, SUB-2SG do-PAST in summer
+| come‑FUT time SUB REFL ask.FUT winter, SUB‑2SG do‑PAST in summer
 | The time will come when winter will ask what you did in the summer.
 :::
 
+::: {.im #gebauer1890_26}
+Hierarchical analysis of the sentence [@last a] from Gebauer [-@gebauer1890: 26]. In the image, the subject *země* 'earth' stands apart from the predicate *otáčí se* 'rotates', including all modifiers. The modifiers are then grouped in a third level of analysis.
+:::
 
+::: {.im #gebauer1890_38}
+Two different graphical representations of the same complex sentence with two subordinate clauses [@last b] from Gebauer [-@gebauer1890: 38]. Gebauer here uses the German tradition, designating the main clause with a capital letter and subordinate clauses with lowercase letters. Idiosyncratically, he repeats the letters of the matrix clause, so *Aaa* is the subordinate clause to *Aa*, which is the subordinate clause to the main clause *A*.
+:::
 
-- first volume revision 1914 after death of gebauer by vaclav Ertl (graphics removed?): https://ndk.cz/uuid/uuid:8d7c84d0-6a51-11e3-8387-001018b5eb5c
-- second volume revision 1926 https://ndk.cz/uuid/uuid:93df09ca-3d33-46b4-b76a-0670fcc328ed
+*periody* 'period' consist of a *předvětí* 'pre-clause' and a *závětí* 'post-clause', typically separated by a colon. However, Gebauer [-@gebauer1890: 53] then discusses that the distinction between a period proper and a regular complex sentence with subordinated clauses is not clear-cut.
 
-ČECHOVÁ, M. Místo tzv. školských mluvnic J. Gebauera v jeho tvorbě a ve vývoji vyučování češtině. In Acta Universitatis Carolinae – Philologica 1–2, Slavica Pragensia XXXV, 1992, s. 79–91.
+::: ex
+Czech [@gebauer1890: 53, citing Daniel Adam z Veleslavína]
 
-In 1891 Gebauer publishes a short version of the grammar, called *Krátká mluvnice česká pro první třídy škol středních* 'Short Czech grammar for the first grades of secondary schools' [@gebauer1891].
+- Jakož větší lásku máme k pravým rodičům, \
+  kteří nás zplodili, \
+  nežli k jiným, \
+  kteří nás sobě za syny zvolili a vzali: \
+  tak i ta země, \
+  v níž jsme zrozeni a vychováni, \
+  milejší jest nám nežli jiná, \
+  do níž nás štěstí obrátilo.
+- Just as we have greater love for our true parents, \
+  who begot us, \
+  than for others, \
+  who chose and adopted us as their own sons: \
+  so too the country, \
+  in which we were born and raised, \
+  is dearer to us than another, \
+  to which fortune has turned us.
+:::
 
-- periode [@gebauer1891: 113-116, 126-128]
-- The third revised edition has only a few minor changes [@gebauer1902]: added dependencies with arches, but only very limited p. 127-128, same very simple periodenbild 133-137, more interesting 147-149
+::: {.im #gebauer1890_54}
+Graphical analysis of the complex *periody* [@last] from Gebauer [-@gebauer1890: 54]. Ideally, a period consists of a *předvětí* 'pre-clause' and a *závětí* 'post-clause', both might have internal clausal subordinates, as shown by the vertical lines. The dots connect parts of the same clause. It is unclear why the three dots on the lower right are added, because these two subordinate clauses are not directly connected to each other.
+:::
+
+In 1891 Gebauer publishes a short introductory version of the grammar, called *Krátká mluvnice česká pro první třídy škol středních* 'Short Czech grammar for the first grades of secondary schools', which basically contains the same graphics [@gebauer1891: 113-116, 125-128]. The third revised edition of this short version extends the use of arches to indicate argument-verb relations [@gebauer1902: 127-128], but otherwise remains the same.
+
+After the death of Gebauer, the two-volume grammar in the fifth edition is extensively revised by Václav Ertl (1875-1929). This edition is reprinted at least until a ninth edition in 1926. In this revised version, Ertl has removed all graphical analyses.
+
+- first volume revision 1914 fifth edition after death of gebauer by vaclav Ertl (graphics removed?): https://ndk.cz/uuid/uuid:8d7c84d0-6a51-11e3-8387-001018b5eb5c
+- second volume revision ninth edition 1926 https://ndk.cz/uuid/uuid:93df09ca-3d33-46b4-b76a-0670fcc328ed
+
 
 ### Havránek (1933) *Cvičebnice jazyka českého* {#sec:havranek1933}
 
@@ -860,6 +888,8 @@ I have accessed a copy from the University of Bamberg which was dedicated on the
 [@kanka1945: appendix 2]
 :::
 
+see also 1929 book *Česká mluvnice s připojenou cvičebnicí a slovníčkem pro obchodní školy*, which is hard to find: https://katalog.npmk.gov.cz/records/4e07c2f9-2b22-4772-977f-2f84ff9fdfd9
+
 ### Šmilauer (1947) *Novočeská skladba*
 
 Vladimír Šmilauer (1895–1983)
@@ -883,6 +913,7 @@ Panevová, J. 2016. Syntax Vladimíra Šmilauera včera a dnes. Jazykovědné ak
 grafické [@novotna2013; @novotna2012; @novotna2006; @vernerova2019]
 
 - ŽOFKOVÁ−TOŽIČKA (1933-1938) [@novotna2012: 187]
+- *Jazyk vyučovací na škole obecné* Václav Medonos, Bohumil Tožička, Lidmila Žofková, Jiří Haller: https://www.antikvariat-ol.cz/jazyk-vyucovaci-na-skole-obecne/produkt/17470/34/
 - BOJANOVSKÁ−KOHOUTEK−SEDLÁKOVÁ, I. díl, 1936, s. 29; též II. díl, 1936, s. 38 [@novotna2012: 184, 187-189]
 - KOHOUTEK−KOMÁREK, 1937, s. 135−136 [@novotna2012: 184]
 - VÍTEK−SIROTEK, II. díl, 1935, s. 112 [@novotna2012: 190] František Vítek, 1896-1990 https://www.cervenyknir.cz/vitek-ceska-mluvnice-pro-hlavni-skoly-5944v https://irel.knihovny.cz/Record/mzk.MZK01-000746958?sid=2718
