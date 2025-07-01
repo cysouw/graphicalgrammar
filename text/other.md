@@ -1060,6 +1060,17 @@ Lugebil uses a completely different graphical format from Lehmann and Nägelsbac
 Different analyses of the Latin sentence [@last] from Lugebil [-@lugebil1883: 127]. According to Lugebil, the regular "newer" interpretation of this sentence is shown to the right, while the "older" meaning is shown to the left. In this "older" interpretation the sentence would be something like 'Cicero is a consul, installed in that year'.
 :::
 
+### Polivanov (1895) *Учебникъ русской грамматики для среднихъ учебныхъ заведеній*
+
+'Textbook of Russian grammar for secondary schools' Second volume on syntax. No graphics!
+
+Lev Ivanovich Polivanov (1838-1899), student of Buslaev
+
+- https://bigenc.ru/c/polivanov-lev-ivanovich-53a79c
+- https://fedordostoevsky.ru/around/Polivanov_L_I/
+- first volume: etymology: https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11814581-0
+- second volume: syntax: https://google.com/books?id=r6xHGY91NaoC
+
 ### Smirnovsky (1899) *Учебник русской грамматики* {#sec:smirnovsky1899}
 
 7th edition 1895 exactly identical, 8th edition 1896 exactly identical [@smirnovsky1896]
@@ -1290,6 +1301,12 @@ I.I. Pustovalov (???)
 
 Russian language: a workbook for preparation to the university (1928: p29, 33-34, 75, 138, 167-168) https://www.prlib.ru/en/node/363134
 
+### Polivanov (1933) *Русская грамматика в сопоставлении с узбекским языком*
+
+Evgenij Dmitrievič Polivanov
+
+Russian grammar in comparison with the Uzbek language [@polivanov1933: 163]
+
 ### Kryuchkov & Svetlaev (1936) *Грамматика учебник для школ взрослых* {#sec:kryuchkov1936}
 
 Sergey Efimovich Kryuchkov (1897-1969) was a teacher and educator at the Moscow State Pedagogical Institute and the Lomonosov Moscow State University.^[Some basic biographical information is available on Wikipedia at <https://ru.wikipedia.org/wiki/Крючков,_Сергей_Ефимович>, accessed 26 March 2025.] Mikhail Vasilyevich Svetlaev (1898-1959) was a teacher at the Moscow Pedagogical Defectological Institute and also worked at the Moscow Polygraphic Institute.^[Some basic biographical information is available on Wikipedia at <https://ru.wikipedia.org/wiki/Светлаев,_Михаил_Васильевич>, accessed 26 March 2025.] Both these authors wrote various textbooks in collaboration with other linguists. Together they wrote the *Грамматика учебник для школ взрослых* 'Grammar textbook for adult schools'. This book probably first appeared in 1925 but I have only been able to access the widespread 13th edition from 1936 [@kryuchkov1936]. Exactly this edition is mentioned by Tesnière as a main influence on the development of his stemmata [@tesniere1959: 15, fn. 1].
@@ -1406,14 +1423,6 @@ This, my edition is printed according to the sixth without alterations, with the
 Admoni: Partiturnoje strojenije recevoj cepi i sistema grammaticeskich znacenij ν predlo/.enii [Die „Partitur"-Struktur der Redekette und das System grammatischer Bedeutungen im Satz]. In: Naucnyje doklady vysäej äkoly. Filologiceskije nauki [Wissenschaftliche Beiträge der er Hochschule. Philologische Wissenschaften]. 1961, H° 3. - 253, 272, 278, 288
 
 see also 4th edition 1982, p. 311-317 https://archive.org/details/derdeutschesprac0000admo
-
-### Polivanov
-
-Lev Ivanovich Polivanov (1838-1899), student of Buslaev
-
-- https://bigenc.ru/c/polivanov-lev-ivanovich-53a79c
-- https://fedordostoevsky.ru/around/Polivanov_L_I/
-- etymology: https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11814581-0
 
 ## Lithuanian
 
