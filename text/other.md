@@ -1216,6 +1216,10 @@ Later, Peshkovsky wrote a four volume introductory grammatical textbook *Пер�
 *Чертежи хода зависимости* 'dependency line figure' for the example in [@last] from Peshkovsky *et al.* [-@peshkovsky1931: 35]. Different from the other Russian examples, the subject is connected to the predicate with an arrow.
 :::
 
+### Peterson (1923) *Очерк синтаксиса русского языка*
+
+'Essay on the syntax of the Russian language' [@peterson1923: 35]
+
 ### Zeltser & Vvedensky (1925) *Как самому изучать русский язык* {#sec:zeltser1925}
 
 Sofya Afanasyevna Zeltser and Dmitry Nikolaevich Vvedensky wrote *Как самому изучать русский язык* 'How to learn Russian yourself' around 1925 [the second edition is @zeltser1925]. The book includes a single dependency-like tree for the sentence [@next] as shown in [@fig:zeltser1926_68]. As in many other such graphics, the subject-predicate pair is placed on top. However, different from all other approaches, the other elements are linked to this whole pair, not to the predicate alone. Also notewhorthy is the fact, that the words are not themselves interpreted as the the nodes in the graph, but placed along the edges.
