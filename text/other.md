@@ -743,43 +743,42 @@ Together with Matiáš Blažek he prepared the two-volume *Mluvnice jazyka česk
 
 ### Gebauer (1890) *Mluvnice česká* {#sec:gebauer1890}
 
-Jan Gebauer (1838-1907) https://de.wikipedia.org/wiki/Jan_Gebauer
+Jan Gebauer (1838-1907) was a teacher and later professor in Prague. He is widely considered to be a main figure in the 19th Century scientifc study of the Czech language.^[A useful summary of his life and work is available on the Czech Wikipedia at <https://cs.wikipedia.org/wiki/Jan_Gebauer>, accessed 3 July 2025. A thorough biography is provided by Theodor Syllaba, published in 1986, which I have not been able to access. A short summary of this biography is provided in a review by Heumos [-@heumos1989].] Based on this work as a school teacher, he remained interested in teaching grammar during his whole life. While already professor at the university of Prague he published the two-volume *Mluvnice česká pro školy střední a ústavy učitelské* 'Czech grammar for secondary schools and teacher training institutes' [@gebauer1890]. This book was revised and republished at least until a ninth edition in 1926, long after his demise. 
 
-two volume, second volume about syntax ('skladba')
+The second volume of the *Mluvnice česká* deals with *skladba* 'syntax' and contains various different graphical approaches to sentence structure [@gebauer1890: 26, 38, 46, 54, 57-58]. The discussion remains basically the same in the second [@gebauer1894: 28, 40, 48, 56] and third edition [@gebauer1900: 237, 249, 257, 265]. After the death of Gebauer, the *Mluvnice česká* is revised by Václav Ertl (1875-1929) in the fifth edition. This edition is reprinted at least until a ninth edition in 1926. In this revised version, Ertl has removed all graphical analyses.^[The fifth edition from 1914 is available online at <https://ndk.cz/uuid/uuid:8d7c84d0-6a51-11e3-8387-001018b5eb5c>. The ninth edition from 1926 is available online at <https://ndk.cz/uuid/uuid:93df09ca-3d33-46b4-b76a-0670fcc328ed>.] 
 
-*Mluvnice česká pro školy střední a ústavy učitelské* 'Czech grammar for secondary schools and teacher training institutes' [@gebauer1890] p. 26, 38, 46, 54, 57-58
+The major scientific work of Gebauer is a massive four-volume *Historická mluvnice jazyka českého* 'Historical grammar of the Czech language'. The fourth volume deals with syntax and was only finished in 1929 by Frantiček Trávníček after the death of Gebauer. The first part of this fourth volume on syntax is basically a revision of *Mluvnice česká* and it contains all the same images from the original 1890 version [@gebauer1929: 38, 46, 53-54, 65, 76].
 
-same in second edition [@gebauer1894: 28, 40, 48, 56]
-
-combined third edition 1900: [@gebauer1900: 237, 249, 257, 265]
-
-small arches below for argument structure and some other kinds of modification. But never used for complete sentences.
+Gebauer uses various different graphical approaches to illustrate the hierachical structure of sentences. The first illustrations in his 1890 book use horizontal braces for the internal structure of a clause, as shown in [@fig:gebauer1890_26] for the sentence [@next]. 
 
 ::: ex
-a.
 | Czech [@gebauer1890: 26]
 | Země otáčí se každých čtyřiadvacet hodin okolo své osy.
 | earth rotate.3SG REFL every twenty‑four hours around its axis
 | The Earth rotates around its axis every twenty-four hours.
-b.
+:::
+
+::: {.im #gebauer1890_26}
+Hierarchical analysis of the sentence [@last] from Gebauer [-@gebauer1890: 26]. In the image, the subject *země* 'earth' stands apart from the predicate *otáčí se* 'rotates', including all modifiers. The modifiers are then grouped in a third level of analysis.
+:::
+
+For the structure of complex sentences with multiple subordinate clauses Gebauer uses a simplified system of abbreviations, clearly inspired by the German tradition from Lehmann (see [@sec:lehmann1833]). He uses capital letters for main clauses and lower-case letters for subordinate clauses. However, different from the German tradition, Gebauer repeats the structure of the matrix clause with each subordinate clause, so *Aaa* is the subordinate clause to *Aa*, which is the subordinate clause to the main clause *A*, as shown in [@fig:gebauer1890_38] for the sentence [@next]. These abbreviations are either displayed in a music-score metaphor, with the sentence running from left to right and subordination indicated by lower placement (cf. the rigthward version in [@fig:gebauer1890_38]), or using horizontal braces (cf. the graphic to the left in [@fig:gebauer1890_38]).
+
+::: ex
 | Czech [@gebauer1890: 38]
 | Přij-de čas, že se zeptá zima, co‑s děla‑l v létě.
 | come‑FUT time SUB REFL ask.FUT winter, SUB‑2SG do‑PAST in summer
 | The time will come when winter will ask what you did in the summer.
 :::
 
-::: {.im #gebauer1890_26}
-Hierarchical analysis of the sentence [@last a] from Gebauer [-@gebauer1890: 26]. In the image, the subject *země* 'earth' stands apart from the predicate *otáčí se* 'rotates', including all modifiers. The modifiers are then grouped in a third level of analysis.
-:::
-
 ::: {.im #gebauer1890_38}
-Two different graphical representations of the same complex sentence with two subordinate clauses [@last b] from Gebauer [-@gebauer1890: 38]. Gebauer here uses the German tradition, designating the main clause with a capital letter and subordinate clauses with lowercase letters. Idiosyncratically, he repeats the letters of the matrix clause, so *Aaa* is the subordinate clause to *Aa*, which is the subordinate clause to the main clause *A*.
+Two different graphical representations of the same complex sentence with two subordinate clauses [@last] from Gebauer [-@gebauer1890: 38]. Gebauer here uses the German tradition following Lehmann (see [@sec:lehmann1833]), designating the main clause with a capital letter and subordinate clauses with lowercase letters. Idiosyncratically, Gebauer repeats the letters of the respective matrix clause, so *Aaa* is the subordinate clause to *Aa*, which is the subordinate clause to the main clause *A*.
 :::
 
-*periody* 'period' consist of a *předvětí* 'pre-clause' and a *závětí* 'post-clause', typically separated by a colon. However, Gebauer [-@gebauer1890: 53] then discusses that the distinction between a period proper and a regular complex sentence with subordinated clauses is not clear-cut.
+Gebauer also discusses larger syntactic constructions under the heading of *perioda* 'period'. In his definition, a period consist of a *předvětí* 'pre-clause' and a *závětí* 'post-clause', typically separated by a colon. However, he also notes [-@gebauer1890: 53] that the distinction between a period proper and a regular complex sentence with subordinated clauses is not clear-cut. For the internal structure of a period he proposes a graphical representation as shown in [@fig:gebauer1890_54] for the example in [@next]. Subordination is indicated by position downwards, typically connected by lines. However, the *předvětí* 'pre-clause' is also positioned downwards but without a connecting line, though there is a dotted line above on the level of the main clause *závětí*. Otherwise dotted lines are used to connect parts of the same clause that are separated by subordinate clauses. However, the dotted lines on the lower right of the graphic are probably an error, because these are two separate subordinate clauses. It might also be the case that the dotted lines are simply an indication of the level of embedding, a bit like in [@fig:gebauer1890_38]. However, then the dots are wrongly omitted on the lower left of the graphic. Such a usage of dotted lines to indicate the depth of the embedding is reminiscent of Kern's approach, as published just a few years prior to Gebauer's book (cf. [@fig:kern1884_56]).
 
 ::: ex
-Czech [@gebauer1890: 53, citing Daniel Adam z Veleslavína]
+Czech [@gebauer1890: 53, citing an example from Daniel Adam z Veleslavína]
 
 - Jakož větší lásku máme k pravým rodičům, \
   kteří nás zplodili, \
@@ -800,17 +799,14 @@ Czech [@gebauer1890: 53, citing Daniel Adam z Veleslavína]
 :::
 
 ::: {.im #gebauer1890_54}
-Graphical analysis of the complex *periody* [@last] from Gebauer [-@gebauer1890: 54]. Ideally, a period consists of a *předvětí* 'pre-clause' and a *závětí* 'post-clause', both might have internal clausal subordinates, as shown by the vertical lines. The dots connect parts of the same clause. It is unclear why the three dots on the lower right are added, because these two subordinate clauses are not directly connected to each other.
+Graphical analysis of the complex *perioda* [@last] from Gebauer [-@gebauer1890: 54]. Ideally, a period consists of a *předvětí* 'pre-clause' and a *závětí* 'post-clause', both can have internal clausal subordinates, as shown by the vertical lines. The dots connect parts of the same clause. It is unclear why the three dots on the lower right are added, because these two subordinate clauses are not directly connected to each other. Another interpretation of the dots is that they link the same level of embedding, but then the dots are wronly omitted from the lower left side of the graphic.
 :::
 
-In 1891 Gebauer publishes a short introductory version of the grammar, called *Krátká mluvnice česká pro první třídy škol středních* 'Short Czech grammar for the first grades of secondary schools', which basically contains the same graphics [@gebauer1891: 113-116, 125-128]. The third revised edition of this short version extends the use of arches to indicate argument-verb relations [@gebauer1902: 127-128], but otherwise remains the same.
+In 1891 Gebauer publishes a short introductory version of the grammar, called *Krátká mluvnice česká pro první třídy škol středních* 'Short Czech grammar for the first grades of secondary schools', which basically contains the same graphics [@gebauer1891: 113-116, 125-128]. The third revised edition of this short version basically remains the same, but extends the use of arches to indicate argument-verb relations [@gebauer1902: 126-127] as shown in [@fig:gebauer1902_127]. Throughout his writing, Gebauer recurrently uses such arches to indicate various kinds of relations between words in a sentence. However, he never develops this this arches-approach into a full-blown syntactic analysis.
 
-After the death of Gebauer, the two-volume grammar in the fifth edition is extensively revised by Václav Ertl (1875-1929). This edition is reprinted at least until a ninth edition in 1926. In this revised version, Ertl has removed all graphical analyses.
-
-- first volume revision 1914 fifth edition after death of gebauer by vaclav Ertl (graphics removed?): https://ndk.cz/uuid/uuid:8d7c84d0-6a51-11e3-8387-001018b5eb5c
-- second volume revision ninth edition 1926 https://ndk.cz/uuid/uuid:93df09ca-3d33-46b4-b76a-0670fcc328ed
-
-Major Work of Gebauer *Historická mluvnice jazyka českého* 'Historical grammar of the Czech language', fourth volume on syntax finished after his death by Frantiček Trávníček, contains all the same images from the 1890 version [@gebauer1929]
+::: {.im #gebauer1902_127}
+Arches to indicate verb-argument and adjective-noun relations by Gebauer [-@gebauer1902: 127]. This graphical approach is revisited by Gebauer at various points in his writing, but it is never extended into a full-blown syntactic analysis.
+:::
 
 ### Havránek (1933) *Cvičebnice jazyka českého* {#sec:havranek1933}
 
