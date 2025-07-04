@@ -743,7 +743,7 @@ Together with Matiáš Blažek he prepared the two-volume *Mluvnice jazyka česk
 
 ### Gebauer (1890) *Mluvnice česká* {#sec:gebauer1890}
 
-Jan Gebauer (1838-1907) was a teacher and later professor in Prague. He is widely considered to be a main figure in the 19th Century scientifc study of the Czech language.^[A useful summary of his life and work is available on the Czech Wikipedia at <https://cs.wikipedia.org/wiki/Jan_Gebauer>, accessed 3 July 2025. A thorough biography is provided by Theodor Syllaba, published in 1986, which I have not been able to access. A short summary of this biography is provided in a review by Heumos [-@heumos1989].] Based on this work as a school teacher, he remained interested in teaching grammar during his whole life. While already professor at the university of Prague he published the two-volume *Mluvnice česká pro školy střední a ústavy učitelské* 'Czech grammar for secondary schools and teacher training institutes' [@gebauer1890]. This book was revised and republished at least until a ninth edition in 1926, long after his demise. 
+Jan Gebauer (1838-1907) was a teacher and later professor in Prague. He is widely considered to be a main figure in the 19th Century scientifc study of the Czech language.^[A useful summary of his life and work is available on the Czech Wikipedia at <https://cs.wikipedia.org/wiki/Jan_Gebauer>, accessed 3 July 2025. A thorough biography is provided by Syllaba [-@syllaba1983; -@syllaba1986]. A short summary of this biography is provided in a review by Heumos [-@heumos1989], which is available online.] Based on this work as a school teacher, he remained interested in teaching grammar during his whole life. He prepared, for example, a revision of Zikmund's *Mluvnice jazyka českého* after Zikmund's death (see [@sec:zikmund1863]). While already professor at the university of Prague he published the two-volume *Mluvnice česká pro školy střední a ústavy učitelské* 'Czech grammar for secondary schools and teacher training institutes' [@gebauer1890]. This book was revised and republished at least until a ninth edition in 1926, long after his demise. 
 
 The second volume of the *Mluvnice česká* deals with *skladba* 'syntax' and contains various different graphical approaches to sentence structure [@gebauer1890: 26, 38, 46, 54, 57-58]. The discussion remains basically the same in the second [@gebauer1894: 28, 40, 48, 56] and third edition [@gebauer1900: 237, 249, 257, 265]. After the death of Gebauer, the *Mluvnice česká* is revised by Václav Ertl (1875-1929) in the fifth edition. This edition is reprinted at least until a ninth edition in 1926. In this revised version, Ertl has removed all graphical analyses.^[The fifth edition from 1914 is available online at <https://ndk.cz/uuid/uuid:8d7c84d0-6a51-11e3-8387-001018b5eb5c>. The ninth edition from 1926 is available online at <https://ndk.cz/uuid/uuid:93df09ca-3d33-46b4-b76a-0670fcc328ed>.] 
 
@@ -797,6 +797,8 @@ Czech [@gebauer1890: 53, citing an example from Daniel Adam z Veleslavína]
   is dearer to us than another, \
   to which fortune has turned us.
 :::
+
+
 
 ::: {.im #gebauer1890_54}
 Graphical analysis of the complex *perioda* [@last] from Gebauer [-@gebauer1890: 54]. Ideally, a period consists of a *předvětí* 'pre-clause' and a *závětí* 'post-clause', both can have internal clausal subordinates, as shown by the vertical lines. The dots connect parts of the same clause. It is unclear why the three dots on the lower right are added, because these two subordinate clauses are not directly connected to each other. Another interpretation of the dots is that they link the same level of embedding, but then the dots are wronly omitted from the lower left side of the graphic.
@@ -1033,8 +1035,32 @@ Krylov's fable *The wolf and the shepherds*, cited in Buslaev [-@buslaev1844: 26
 Structure of subordination of the fable in [@last] as analysed by Buslaev [-@buslaev1844: 260]. The original sentence has a complex centre-embedded structure. The large brackets indicate that this part should be placed internal to the part above it.
 :::
 
-Philip Fedorovich Fortunatov (1948-1914)^[Some basic biographical information is available online at <https://en.wikipedia.org/wiki/Filipp_Fortunatov>, accessed 25 March 2025.] was a student of Buslaev and the teacher of Ushakov (born 1873, see [@sec:ushakov1926]) and Peshkovsky (born 1878, see [@sec:peshkovsky1914]), who in turn both had a great influence on the post-revolution russian grammarians (born after 1890). However, Fortunatov does not appear to have used any graphical grammar. Also, the post-revolution grammatical visualisation in the russian tradition do not follow Buslaev's approach, so there does not seem to have been a direct influence. In their effort to renew grammatical analysis, Ushakov and Peshkovsky appear to be influenced by Petrov (see [@sec:petrov1906]), who in turn seems to be influenced by Smirnovsky (see [@sec:smirnovsky1899]). However, Ushakov and Peshkovsky only seem to have 'discovered' Petrov's graphical grammar after the revolution in the early 1920s.
- 
+Philip Fedorovich Fortunatov (1948-1914)^[Some basic biographical information is available online at <https://en.wikipedia.org/wiki/Filipp_Fortunatov>, accessed 25 March 2025.] was a student of Buslaev and the teacher of Ushakov (born 1873, see [@sec:ushakov1926]) and Peshkovsky (born 1878, see [@sec:peshkovsky1914]), who in turn both had a great influence on the post-revolution russian grammarians (born after 1890). However, Fortunatov does not appear to have used any graphical grammar. Also, the post-revolution grammatical visualisation in the russian tradition do not follow Buslaev's approach, so there does not seem to have been a direct influence. In their effort to renew grammatical analysis, Ushakov and Peshkovsky appear to be influenced by Petrov (see [@sec:petrov1906]), who in turn might have been influenced by Polivanov (see [@sec:polivanov1873]) or Smirnovsky (see [@sec:smirnovsky1899]). However, Ushakov and Peshkovsky only seem to have 'discovered' Petrov's graphical grammar after the revolution in the early 1920s.
+
+### Polivanov (1873) *Краткій учебникъ русской грамматики* {#sec:polivanov1873}
+
+Lev Ivanovich Polivanov (1838-1899) was a student of Buslaev (see [@sec:buslaev1844]). He worked as a teacher in Moscow and later started his own private school, known as the Polivanovskaya Gymnasium, which became highly successful and attracted many high-society children.^[Some basic biographical information is available on the Russian Wikipedia at <https://ru.wikipedia.org/wiki/Поливанов,_Лев_Иванович> and on the online Great Russian Encyclopedia at <https://bigenc.ru/c/polivanov-lev-ivanovich-53a79c>, both accessed on 4 July 2025.] 
+
+Starting in the 1870s Polivanov wrote many different versions of *Учебникъ русской грамматики* 'Textbooks of Russian grammar'. From these textbooks I have only been able to access the *Учебникъ русской грамматики для среднихъ учебныхъ заведеній. Часть II. синтаксисъ* 'Textbook of Russian grammar for secondary schools. Part II. Syntax' [@polivanov1885]. This version does not contain any graphical grammar. In 1871 he also published a short version, called *Краткій учебникъ русской грамматики (синтаксись и этимологія) для учениковь трехь первыхь классовь среднихь учебныхь заведеній, съ приложеніемь образцовт для диктанта, расположенных вт порядкі параграфовь грамматики* 'A brief textbook of Russian grammar (syntax and etymology) for students of the first three grades of secondary schools, with an appendix of samples for dictation, arranged in two grammar sections' [@polivanov1871]. This first edition also does not contain any graphical display of sentence structure. However, graphics were added later, probably in the second edition from 1873. I have only been able to access the 11th edition [@polivanov1893], but in the preface of that edition Polivanov lists the changes in all editions. He notes that the syntax of the complex sentence was added in the 2nd edition. All his books were highly successful and saw many editions, at least up to a 17th edition in 1913.
+
+The *разбор графический* 'graphical analysis' proposed by Polivanov is clearly inspired by the tradition of Lehmann (see [@sec:lehmann1833]), using capital letters for main clauses and lowercase letters for subordinate clauses, as shown in [@fig:polivanov1893_23] for the example sentence in [@next]. However, he adds various new elements:
+
+- Conjunction is marked with a horizontal line.
+- Subordination is marked with a vertical line.
+- Secondary subordinate clauses are indicated by an additional apostrophe.
+- On the lines the elements are written that serve as a link between the sentences (marked boldface in the example below). Note that the Russian agreement suffixes do not have a direct English equivalent.
+
+::: ex
+Russian [@polivanov1893: 23, citing a sentence from a letter by N.M. Karamzin]
+
+- [А]{.grey} Улицы прямы, широки и хорошо вымощены, **а** [Б]{.grey} вь срединѣ проведены глубокіе каналы, [а]{.grey} вь **которыхь** сь шумомь течеть вода, [а']{.grey} унос**ящая** сь собою всю нечистоту иаь города, **и** [б']{.grey} сверхь того весьма полез**ная** ву случаѣ ножара.
+- [А]{.grey} The streets are straight, wide and well paved, **and** [Б]{.grey} in the middle there are deep canals, [а]{.grey} into **which** water flows noisily, [а']{.grey} carrying away with it all the sewage from the city, **and** [б']{.grey} moreover being very useful in case of a fire.
+:::
+
+::: {.im #polivanov1893_23}
+*Разбор графический* 'graphic analysis' of the complex sentence [@last] from Polivanoc [-@polivanov1893: 23]. The letters refer to individual clauses of the complex sentence, following the tradition of Lehmann [@sec:lehmann1833]. The use of vertical lines for subordination might have been an influence of Hoffmann or (cf. [@fig:hoffmann1839_148]) or Bauer (cf. [@fig:bauer1850_95]). 
+:::
+
 ### Lugebil (1883) *Синтаксись Аполлонія Даскола* {#sec:lugebil1883}
 
 Karl Yakimovich Lugebil (1830-1887) was a classical scholar, teacher and from 1864 professor in St. Petersburg.^[Some basic biographical information is available online at <https://www.biografija.ru/biography/ljugebil-karl-yakimovich.htm>, accessed 22 February 2025.] In a review of a book by Anton Dobiasz about the *Syntax* of Apollonius Dyscolus he uses various graphical syntactic analyses [@lugebil1883: 127-128]. In his review, Lugebil mostly cites German grammatical literature, for example there is a long discussion about the merits of Becker's grammatical ideas (cf. [@sec:becker1829]). Later, in a discussion about different interpretations of copula constructions, Lugebil cites Lehmann (see [@sec:lehmann1833]) and Nägelsbach (see [@sec:nägelsbach1846]) as important proponents of the idea to use graphical representations to explain grammatical structure:
@@ -1056,27 +1082,18 @@ Lugebil uses a completely different graphical format from Lehmann and Nägelsbac
 Different analyses of the Latin sentence [@last] from Lugebil [-@lugebil1883: 127]. According to Lugebil, the regular "newer" interpretation of this sentence is shown to the right, while the "older" meaning is shown to the left. In this "older" interpretation the sentence would be something like 'Cicero is a consul, installed in that year'.
 :::
 
-### Polivanov (1895) *Учебникъ русской грамматики для среднихъ учебныхъ заведеній*
+### Smirnovsky (1895) *Учебник русской грамматики* {#sec:smirnovsky1899}
 
-'Textbook of Russian grammar for secondary schools' Second volume on syntax. No graphics!
-
-Lev Ivanovich Polivanov (1838-1899), student of Buslaev
-
-- https://bigenc.ru/c/polivanov-lev-ivanovich-53a79c
-- https://fedordostoevsky.ru/around/Polivanov_L_I/
-- first volume: etymology: https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11814581-0
-- second volume: syntax: https://google.com/books?id=r6xHGY91NaoC
-
-### Smirnovsky (1899) *Учебник русской грамматики* {#sec:smirnovsky1899}
-
-7th edition 1895 exactly identical, 8th edition 1896 exactly identical [@smirnovsky1896]
+7th edition 1895 exactly identical, 8th edition 1896 exactly identical 
 
 "I have made quite significant changes in the fourth edition of my book"
 
-Pyotr Vladimirovich Smirnovsky (1846—1904) was a teacher in St. Petersburg.^[Some basic biographical information is available on Wikipedia at <https://ru.wikipedia.org/wiki/Смирновский,_Пётр_Владимирович>, accessed 26 March 2025.] He wrote various textbooks, among them the two-volume *Textbook of Russian grammar for junior grades of secondary educational institutions*. This textbook was probably first published in 1884, but I have only been able to access a version from 1899. The second volume of this textbook deals with elementary syntax [@smirnovsky1899] and this volume includes a few examples of graphical grammar. The example in [@next] is a sentence taken from Sergey Timofeyevich Aksakov's *Childhood years of the Bagrov grandson* (1858). Smirnovsky proposes a *графическимь способомь* 'graphical method' to analyse this sentence as shown in [@fig:smirnovsky1899_4]. Given the details (viz. subject/predicate on top and vertical lines for dependency) and the early date of this graphical analysis, the only possible inspiration seems to be the approach by Hoffman (see [@sec:hoffmann1839]), though there is no explicit evidence in the work of Smirnovsky for such a connection.
+Pyotr Vladimirovich Smirnovsky (1846—1904) was a teacher in St. Petersburg.^[Some basic biographical information is available on Wikipedia at <https://ru.wikipedia.org/wiki/Смирновский,_Пётр_Владимирович>, accessed 26 March 2025.] He wrote various textbooks, among them the two-volume *Textbook of Russian grammar for junior grades of secondary educational institutions*. This textbook was probably first published in 1884, but the earliest edition that I have only been able to access is the seventh edition  from 1895. Later editions appear to be basically the same [@smirnovsky1896; @smirnovsky1899]. Smirnovsky notes in the introduction that "I have made quite significant changes in the fourth edition of my book", so it remains unclear whether the graphical approaches already were included in the first edition.
+
+The second volume of this textbook deals with elementary syntax [@smirnovsky1899] and this volume includes a few examples of graphical grammar. The example in [@next] is a sentence taken from Sergey Timofeyevich Aksakov's *Childhood years of the Bagrov grandson* (1858). Smirnovsky proposes a *графическимь способомь* 'graphical method' to analyse this sentence as shown in [@fig:smirnovsky1899_4]. Given the details (viz. subject/predicate on top and vertical lines for dependency) and the early date of this graphical analysis, the only possible inspiration seems to be the approach by Hoffman (see [@sec:hoffmann1839]), though there is no explicit evidence in the work of Smirnovsky for such a connection.
 
 ::: ex
-| Russian [@smirnovsky1899: 4, citing Aksakov]
+| Russian [@smirnovsky1899: 4, citing S.T. Aksakov]
 | Русскій народу глубоко чувствуеть правственныя качества голубей
 | russian people deeply feel moral quality pigeon
 | Russian people deeply feel the moral qualities of pigeons.
