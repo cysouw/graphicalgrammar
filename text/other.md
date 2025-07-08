@@ -810,7 +810,7 @@ Arches to indicate verb-argument and adjective-noun relations by Gebauer [-@geba
 
 ### Havránek (1933) *Cvičebnice jazyka českého* {#sec:havranek1933}
 
-Bohuslav Havránek (1893-1978) was a professor at the university of Prague and one the founders of the Prague Linguistic Circle, alongside the more widely known Vilém Mathesius. After studying in Prague and before becoming professor in 1945, Havránek worked as a teacher for many years and retained an strong interest in the didactical aspects of grammar throughout his long life. An extensive overview of his many didactic activities is presented by Šmejkalová [-@smejkalova2013]. Havránek is too young to have known Gebauer (see [@sec:gebauer1890]), but he surely knew his Czech grammar. However, When Havránek studied Czech at the Prague University the grammar of Gebauer was already revised by Ertl, who removed all graphical analyses. From the visual appearance of the graphical analyses in the work of Havránek it is clear that they are influences by the Russian tradition (e.g. Ushakov et al. in [@sec:ushakov1926]).
+Bohuslav Havránek (1893-1978) was a professor at the university of Prague and one the founders of the Prague Linguistic Circle, alongside the more widely known Vilém Mathesius. After studying in Prague and before becoming professor in 1945, Havránek worked as a teacher for many years and retained an strong interest in the didactical aspects of grammar throughout his long life. An extensive overview of his many didactic activities is presented by Šmejkalová [-@smejkalova2013]. Havránek is too young to have known Gebauer (see [@sec:gebauer1890]), but he surely knew his Czech grammar. However, When Havránek studied Czech at the Prague University the grammar of Gebauer was already revised by Ertl, who removed all graphical analyses. From the visual appearance of the graphical analyses in the work of Havránek it is clear that they are influences by the Russian tradition (e.g. Ushakov et al. in [@sec:ushakov1926]). However, no concrete influences are acknowledged by him.
 
 In the 1930s Havránek worked on a complete revision of the Czech language curriculum. Together with Alois Získal (1891-1974), Leontij Kopecký (1894–1976) and Eduard Starý (1877-???) he wrote the four-volume *Cvičebnice jazyka českého* 'Czech language exercises'. The first volume appeared in 1933 *pro první třídu středních škol* 'for the first grade of secondary schools' [@havranek1933].
 
@@ -847,7 +847,7 @@ Much later, simplified schemas of complex sentences appear in a work together wi
 
 ### Mrázek (1936) *Nová cesta* {#sec:mrazek1936}
 
-Josef Mrázek (1890−1969) was a native of Moravia, and worked as a high school professor in Prague. All information about Mrázek is taken from Novotna [-@novotna2012: 147-150, 190-191] because I have not been able to access any of his work myself. He uses graphical syntactic analyses in the third volume (for the third grade, published 1936) of his *Nová cesta. Pracovní učebnice a cvičebnice jazyka vyučovacího pro české měšťanské školy* 'New way. Workbook and exercise book of the language of instruction for Czech middle-class schools'. He refers to the use of graphical display in Russian grammars as an inspiration [@novotna2012: 190]. However, his graphics are very similar to the ones from Havránek (see [@sec:havranek1933]). Two examples frpm Mrázek are shown in [@fig:mrazek1936_6a] and [@fig:mrazek1936_6b] for the examples in [@next]. The second example shows that subordinate clauses are treated equally to other sentence constituents.
+Josef Mrázek (1890−1969) was a native of Moravia, and worked as a high school professor in Prague. All information about Mrázek is taken from Novotna [-@novotna2012: 147-150, 190-191] because I have not been able to access any of his work myself. He uses graphical syntactic analyses in the third volume (for the third grade, published 1936) of his *Nová cesta. Pracovní učebnice a cvičebnice jazyka vyučovacího pro české měšťanské školy* 'New way. Workbook and exercise book of the language of instruction for Czech middle-class schools'. He refers to the use of graphical display in Russian grammars as an inspiration [@novotna2012: 190]. However, his graphics are very similar to the ones from Havránek (see [@sec:havranek1933]). Two examples from Mrázek are shown in [@fig:mrazek1936_6a] and [@fig:mrazek1936_6b] for the examples in [@next]. The second example shows that subordinate clauses are treated equally to other sentence constituents.
 
 ::: ex
 Czech [Mrázek 1936: 6, cited after @novotna2012: 190-191]
@@ -869,7 +869,7 @@ Graphical analysis of a single-clause sentence [@last a] from Mrázek [Mrázek 1
 :::
 
 ::: {.im #mrazek1936_6b}
-Graphical analysis of a multi-clause sentence [@last b] from Mrázek [Mrázek 1936: 6, cited after @novotna2012: 191]. Exactly the same visualisation as for single-clause sentences is used for complex sentences with subordinate clauses.
+Graphical analysis of a multi-clause sentence [@last b] from Mrázek [Mrázek 1936: 6, cited after @novotna2012: 191]. Exactly the same visualisation as for single-clause sentences is used for complex sentences with subordinate clauses, though note the absence of arrows.
 :::
 
 ### Kaňka & Vachek (1945) *Česká mluvnice a cvičebnice*
