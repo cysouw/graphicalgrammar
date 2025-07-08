@@ -798,8 +798,6 @@ Czech [@gebauer1890: 53, citing an example from Daniel Adam z Veleslavína]
   to which fortune has turned us.
 :::
 
-
-
 ::: {.im #gebauer1890_54}
 Graphical analysis of the complex *perioda* [@last] from Gebauer [-@gebauer1890: 54]. Ideally, a period consists of a *předvětí* 'pre-clause' and a *závětí* 'post-clause', both can have internal clausal subordinates, as shown by the vertical lines. The dots connect parts of the same clause. It is unclear why the three dots on the lower right are added, because these two subordinate clauses are not directly connected to each other. Another interpretation of the dots is that they link the same level of embedding, but then the dots are wronly omitted from the lower left side of the graphic.
 :::
@@ -812,35 +810,40 @@ Arches to indicate verb-argument and adjective-noun relations by Gebauer [-@geba
 
 ### Havránek (1933) *Cvičebnice jazyka českého* {#sec:havranek1933}
 
-Havránek, Bohuslav, 1893-1978 (prague circle)
-https://en.wikipedia.org/wiki/Bohuslav_Havránek
+Bohuslav Havránek (1893-1978) was a professor at the university of Prague and one the founders of the Prague Linguistic Circle, alongside the more widely known Vilém Mathesius. After studying in Prague and before becoming professor in 1945, Havránek worked as a teacher for many years and retained an strong interest in the didactical aspects of grammar throughout his long life. An extensive overview of his many didactic activities is presented by Šmejkalová [-@smejkalova2013]. Havránek is too young to have known Gebauer (see [@sec:gebauer1890]), but he surely knew his Czech grammar. However, When Havránek studied Czech at the Prague University the grammar of Gebauer was already revised by Ertl, who removed all graphical analyses. From the visual appearance of the graphical analyses in the work of Havránek it is clear that they are influences by the Russian tradition (e.g. Ushakov et al. in [@sec:ushakov1926]).
 
-After studying in Prague, Havránek worked as a teacher for many years and retained an strong interest in the didactical aspects of grammar throughout his long life. An extensive overview of his many didactic activities is presented by Šmejkalová [-@smejkalova2013].
-
-
-
-first grade
-
-*Cvičebnice jazyka českého pro první třídu středních škol* 'Czech language exercises for the first grade of secondary schools' [@havranek1933]
-
-Alois Získal (1891-1974)
-Leontij Kopecký (1894–1976) 
-Eduard Starý (1877-???)
-
-second grade published 1934, here quoted from 1947 reprint [@havranek1947] 1934 version seems to be completely identical: https://ndk.cz/uuid/uuid:5af02996-ed8f-476b-b00a-2808ee38d72f
+In the 1930s Havránek worked on a complete revision of the Czech language curriculum. Together with Alois Získal (1891-1974), Leontij Kopecký (1894–1976) and Eduard Starý (1877-???) he wrote the four-volume *Cvičebnice jazyka českého* 'Czech language exercises'. The first volume appeared in 1933 *pro první třídu středních škol* 'for the first grade of secondary schools' [@havranek1933].
 
 ::: ex
 - Pilní rolníci vymlátili sklizené obilí. \
   The hardworking peasants threshed the harvested grain.
 - Klika musí běžet plavně, oble a při každé pisničce jiným tempem! (quoting Karla Čapek)\
   The crank must run smoothly, roundly, and at a different pace with each song!
+:::
+
+::: {.im #havranek1933_85}
+[@havranek1933: 85]
+:::
+
+::: {.im #havranek1933_198}
+[@havranek1947: 198]
+:::
+
+second grade published 1934, here quoted from 1947 reprint [@havranek1947] ^[The 1934 version seems to be completely identical to the 1947 reprint. Low resolution thumbnails of th 1934 version are available online at <https://ndk.cz/uuid/uuid:5af02996-ed8f-476b-b00a-2808ee38d72f>, accessed 7 July 2025. Unfortunately, due to copyright restructions the full digital version is not made available.]
+
+::: ex
 - Dům pekaře Marhoula stál na jižní straně náměstí. (quoting Vladislav Vančura)\
   The house of the baker Marhoul stood on the south side of the square.
 - Musíme si přitom uvědomiti, že pes je šelma, kterou všecka přirozenost nutí, aby po zvěři, kterou nalezl, skočil a utíkal za ní. (quoting Jana Vrby)\
   We must realize that a dog is a beast that is forced by all nature to jump and run after the game it finds.
 :::
 
-Schemas of complex sentences in a later work [@havranek1981: 183-184] Not in original 1950 version https://dk.uzei.cz/nkp/view/uuid:55b14040-3d82-11e4-8fc5-005056827e52?page=uuid:15c7ce30-45e9-11e4-bf02-5ef3fc9ae867 Not in 1952 version, not in 1959 version. The graphics appear at least in 1968 version http://cdk.kramerius.org/view/uuid:9a7549c0-87e3-11e2-aa2b-005056827e51?page=uuid:292bb300-94d9-11e2-9142-5ef3fc9bb22f&source=mzk
+Much later, simplified schemas of complex sentences appear in a work together with Alois Jedlička (1912-2000), *Stručná mluvnice česká* 'Concise Czech grammar', first published in 1950, but cited here from a much later edition [@havranek1981: 183-184]. The graphical analyses were added somewhere in the 1960s.^[Because of copyright restrictions only low resolution thumbnails are available online of early editions. From these thumbnails it appears that these graphics were not included in the original 1950 version, available at <https://dk.uzei.cz/nkp/view/uuid:55b14040-3d82-11e4-8fc5-005056827e52>. The graphics appear at least in 1968 version <http://cdk.kramerius.org/view/uuid:9a7549c0-87e3-11e2-aa2b-005056827e51>.]
+
+::: ex
+- Slunce zářilo na modré obloze, ale jeho paprsky nepálily, protože od zasněžených krkonošských bor povíval vlahý větřík. \
+  The sun shone in the blue sky, but its rays did not burn, because a warm breeze blew from the snowy Krkonoše mountains.
+:::
 
 ### Mrázek (1936) *Nová cesta* {#sec:mrazek1936}
 
@@ -1443,7 +1446,11 @@ https://journals.lki.lt/bendrinekalba/article/view/2210
 
 ## Chinese
 
-### Li Jinxi *New Grammar of the National Language* 
+### Li Jinxi (1924) *New Grammar of the National Language* 
+
+Li Jinxi (1890-1978) 
+
+*Hsin chu kuo yü chiao hsüeh fa* 1924, https://catalog.hathitrust.org/Record/101987002 examples on p 118-119, refers to 'new book on chinese grammar, chapter 19'
 
 Chinese version of reed/kellog: Li Jinxi *New Grammar of the National Language* [@mossner1960; @peverelli2015: 97-104]
 
