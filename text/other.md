@@ -810,9 +810,9 @@ Arches to indicate verb-argument and adjective-noun relations by Gebauer [-@geba
 
 ### Havránek (1933) *Cvičebnice jazyka českého* {#sec:havranek1933}
 
-Bohuslav Havránek (1893-1978) was a professor at the university of Prague and one the founders of the Prague Linguistic Circle, alongside the more widely known Vilém Mathesius. After studying in Prague and before becoming professor in 1945, Havránek worked as a teacher for many years and retained an strong interest in the didactical aspects of grammar throughout his long life. An extensive overview of his many didactic activities is presented by Šmejkalová [-@smejkalova2013]. Havránek is too young to have known Gebauer (see [@sec:gebauer1890]), but he surely knew his Czech grammar. However, When Havránek studied Czech at the Prague University the grammar of Gebauer was already revised by Ertl, who removed all graphical analyses. From the visual appearance of the graphical analyses in the work of Havránek it is clear that they are influences by the Russian tradition (e.g. Ushakov et al. in [@sec:ushakov1926]). However, no concrete influences are acknowledged by him.
+Bohuslav Havránek (1893-1978) was professor at the university of Prague and one the founders of the Prague Linguistic Circle alongside the more widely known Vilém Mathesius. Before becoming professor in 1945 Havránek worked as a teacher for many years. He retained an strong interest in the didactical aspects of grammar throughout his long life. An extensive overview of his many didactic activities is presented by Šmejkalová [-@smejkalova2013]. Havránek is too young to have personally known Gebauer (see [@sec:gebauer1890]), but he surely knew his Czech grammar. However, at the time when Havránek studied Czech at the Prague University, the grammar of Gebauer had already been revised by Ertl, who removed all graphical analyses, so there is probably no direct influence on Havránek in this regard. Interpreting the visual appearance of the graphical analyses in the work of Havránek it seems clear that they are influenced by the Russian tradition (cf. Ushakov *et al.*,[@sec:ushakov1926]). However, no concrete influences are acknowledged by Havránek in his writings.
 
-In the 1930s Havránek worked on a complete revision of the Czech language curriculum. Together with Alois Získal (1891-1974), Leontij Kopecký (1894–1976) and Eduard Starý (1877-???) he wrote the four-volume *Cvičebnice jazyka českého* 'Czech language exercises'. The first volume appeared in 1933 *pro první třídu středních škol* 'for the first grade of secondary schools' [@havranek1933].
+In the 1930s Havránek worked on a complete revision of the Czech language curriculum. In this context he wrote, together with Alois Získal (1891-1974), Leontij Kopecký (1894–1976) and Eduard Starý (1877-???), a four-volume *Cvičebnice jazyka českého* 'Czech language exercises'. The first volume appeared in 1933 *pro první třídu středních škol* 'for the first grade of secondary schools' [@havranek1933].
 
 ::: ex
 - Pilní rolníci vymlátili sklizené obilí. \
@@ -829,7 +829,7 @@ In the 1930s Havránek worked on a complete revision of the Czech language curri
 [@havranek1947: 198]
 :::
 
-second grade published 1934, here quoted from 1947 reprint [@havranek1947] ^[The 1934 version seems to be completely identical to the 1947 reprint. Low resolution thumbnails of th 1934 version are available online at <https://ndk.cz/uuid/uuid:5af02996-ed8f-476b-b00a-2808ee38d72f>, accessed 7 July 2025. Unfortunately, due to copyright restructions the full digital version is not made available.]
+second grade published 1934, here quoted from 1947 reprint [@havranek1947] ^[The 1934 version seems to be completely identical to the 1947 reprint. Low resolution thumbnails of the 1934 version are available online at <https://ndk.cz/uuid/uuid:5af02996-ed8f-476b-b00a-2808ee38d72f>, accessed 7 July 2025. Unfortunately, due to copyright restructions the full digital images of this version are not made available outside of the Czech Republic.]
 
 ::: ex
 - Dům pekaře Marhoula stál na jižní straně náměstí. (quoting Vladislav Vančura)\
