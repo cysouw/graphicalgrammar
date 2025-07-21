@@ -810,35 +810,55 @@ Arches to indicate verb-argument and adjective-noun relations by Gebauer [-@geba
 
 ### Havránek (1933) *Cvičebnice jazyka českého* {#sec:havranek1933}
 
-Bohuslav Havránek (1893-1978) was professor at the university of Prague and one the founders of the Prague Linguistic Circle alongside the more widely known Vilém Mathesius. Before becoming professor in 1945 Havránek worked as a teacher for many years. He retained an strong interest in the didactical aspects of grammar throughout his long life. An extensive overview of his many didactic activities is presented by Šmejkalová [-@smejkalova2013]. Havránek is too young to have personally known Gebauer (see [@sec:gebauer1890]), but he surely knew his Czech grammar. However, at the time when Havránek studied Czech at the Prague University, the grammar of Gebauer had already been revised by Ertl, who removed all graphical analyses, so there is probably no direct influence on Havránek in this regard. Interpreting the visual appearance of the graphical analyses in the work of Havránek it seems clear that they are influenced by the Russian tradition (cf. Ushakov *et al.*,[@sec:ushakov1926]). However, no concrete influences are acknowledged by Havránek in his writings.
+Bohuslav Havránek (1893-1978) was professor at the university of Prague and one the founders of the Prague Linguistic Circle, alongside the more widely known Vilém Mathesius. Before becoming professor in 1945 Havránek worked as a school teacher for many years. He retained an strong interest in the didactical aspects of grammar throughout his long life. An extensive overview of his many didactic pursuits is presented by Šmejkalová [-@smejkalova2013]. Havránek is too young to have personally known Gebauer (see [@sec:gebauer1890]), but he surely knew Gebauer's Czech grammar. However, at the time when Havránek studied Czech at Prague university, the grammar of Gebauer had already been revised by Ertl, who removed all graphical analyses, so there is probably no direct influence on Havránek in this regard. Interpreting the visual appearance of the graphical analyses in the work of Havránek it seems clear that they are influenced by the Russian tradition (cf. Ushakov *et al.*,[@sec:ushakov1926]). However, no concrete influences are acknowledged by Havránek in his writings.
 
-In the 1930s Havránek worked on a complete revision of the Czech language curriculum. In this context he wrote, together with Alois Získal (1891-1974), Leontij Kopecký (1894–1976) and Eduard Starý (1877-???), a four-volume *Cvičebnice jazyka českého* 'Czech language exercises'. The first volume appeared in 1933 *pro první třídu středních škol* 'for the first grade of secondary schools' [@havranek1933].
+In the 1930s Havránek worked on a complete revision of the Czech language curriculum. In this context he wrote, together with Alois Získal (1891-1974), Leontij Kopecký (1894–1976) and Eduard Starý (1877-???), a four-volume textbook *Cvičebnice jazyka českého* 'Czech language exercises'. The first volume appeared in 1933 *pro první třídu středních škol* 'for the first grade of secondary schools' [@havranek1933]. The included graphical display of the *závislost* 'dependence' within clauses is shown in [@havranek1933: 85; @havranek1933_198] for the examples in [@next]. The use of arrows for dependence is a clear indication of influence from the Russian grammatical tradition. Notewhorty is the usage of boxes within boxes in [@fig:havranek1933_85]. It is not explained whether this is intended to be a different analysis as a simply sequence of arrows as used in [@fig:havranek1933_85]. The hierarchical boxes are mostly not used.
 
 ::: ex
-- Pilní rolníci vymlátili sklizené obilí. \
-  The hardworking peasants threshed the harvested grain.
-- Klika musí běžet plavně, oble a při každé pisničce jiným tempem! (quoting Karla Čapek)\
-  The crank must run smoothly, roundly, and at a different pace with each song!
+a.
+| Czech [@havranek1933: 85]
+| Pilní rolníci vy‑mlát‑ili sklizené obilí.
+| diligent peasant.PL PERF‑thresh‑PAST.3SG harvest.PART grain
+| The diligent peasants threshed the harvested grain.
+b.
+| Czech [@havranek1947: 198, quoting Karla Čapek]
+| Klika musí běžet plavně, oble a při každé pisn‑ičce jiný‑m tempe‑m!
+| crank must run smoothly roundly and with each song‑LOC different‑INSTR tempo‑INSTR
+| The crank must run smoothly, roundly, and with each song at a different pace!
 :::
 
 ::: {.im #havranek1933_85}
-[@havranek1933: 85]
+Illustration of the *závislost* 'dependence' for the example [@last a] from Havránek *et al.* [-@havranek1933: 85]. This graphical display is clearly influenced by the Russian tradition of sentence analysis, most closely the approach by Peshkovsky *et al.* (cf. [@fig:peshkovsky1931_35]). The enclosement of the words does not occur in the Russian tradition. Notewhorthy is the introduction of boxes within boxes.
 :::
 
 ::: {.im #havranek1933_198}
-[@havranek1947: 198]
+*Obrázek závislost* 'diagram of the dependence' for the example [@last b] from Havránek *et al.* [@havranek1947: 198]. Different from the previous example, there are no hierachical boxes used here.
 :::
 
-second grade published 1934, here quoted from 1947 reprint [@havranek1947] ^[The 1934 version seems to be completely identical to the 1947 reprint. Low resolution thumbnails of the 1934 version are available online at <https://ndk.cz/uuid/uuid:5af02996-ed8f-476b-b00a-2808ee38d72f>, accessed 7 July 2025. Unfortunately, due to copyright restructions the full digital images of this version are not made available outside of the Czech Republic.]
+The second volume *pro dryhou třídu středních škol* 'for the second grade of secondary schools' was published in 1934, quoted here from a 1947 reprint [@havranek1947].^[The 1934 version seems to be completely identical to the 1947 reprint. Low resolution thumbnails of the 1934 version are available online at <https://ndk.cz/uuid/uuid:5af02996-ed8f-476b-b00a-2808ee38d72f>, accessed 7 July 2025. Unfortunately, due to copyright restructions the full digital images of this version are not made available outside of the Czech Republic.] The authors summarise the graphical approach from the first volume and propose an alternative display (see [@fig:havranek1947_28]), which they claim to be an improvement: *vzájemnou závislost jednotlivých členů větny nám ještě lépe znázorni šipky v tomto obrazci* 'the arrows in this diagram show us even better the interdependence of the individual members of the sentence' [@havranek1947: 27]. Visually, this kind of display is much more confusing that the purely dependency-based display with the boxes. However, the alternative approach in [@fig:havranek1947_28] retains the information about the ordering of the parts, which is lost in the original approach.
 
 ::: ex
-- Dům pekaře Marhoula stál na jižní straně náměstí. (quoting Vladislav Vančura)\
-  The house of the baker Marhoul stood on the south side of the square.
-- Musíme si přitom uvědomiti, že pes je šelma, kterou všecka přirozenost nutí, aby po zvěři, kterou nalezl, skočil a utíkal za ní. (quoting Jana Vrby)\
-  We must realize that a dog is a beast that is forced by all nature to jump and run after the game it finds.
+a.
+| Czech [@havranek1947: 28, quoting Vladislav Vančura]
+| Dům pekař‑e Marhoul‑a stál na jižní stran‑ě náměstí.
+| house baker-GEN Marhoul‑GEN stand.PAST on south side‑LOC square.GEN
+| The house of the baker Marhoul stood on the south side of the square.
+b.
+| Czech [@havranek1947: 121, quoting Jana Vrby]
+| Musíme si přitom uvědomiti, že pes je šelma, kterou všecka přirozenost nutí, aby po zvěři, kterou nalezl, skočil a utíkal za ní.
+|
+| We must realize that a dog is a beast that is forced by all nature to jump and run after the game it finds.
 :::
 
-Much later, simplified schemas of complex sentences appear in a work together with Alois Jedlička (1912-2000), *Stručná mluvnice česká* 'Concise Czech grammar', first published in 1950, but cited here from a much later edition [@havranek1981: 183-184]. The graphical analyses were added somewhere in the 1960s.^[Because of copyright restrictions only low resolution thumbnails are available online of early editions. From these thumbnails it appears that these graphics were not included in the original 1950 version, available at <https://dk.uzei.cz/nkp/view/uuid:55b14040-3d82-11e4-8fc5-005056827e52>. The graphics appear at least in 1968 version <http://cdk.kramerius.org/view/uuid:9a7549c0-87e3-11e2-aa2b-005056827e51>.]
+::: {.im #havranek1947_28}
+[@havranek1947: 28]
+:::
+
+::: {.im #havranek1947_121}
+[@havranek1947: 121]
+:::
+
+Much later, simplified schemas of complex sentences appear in a work together with Alois Jedlička (1912-2000). Together they wrote the *Stručná mluvnice česká* 'Concise Czech grammar', first published in 1950, but cited here from a much later edition [@havranek1981: 183-184]. The graphical analyses were added somewhere in the 1960s.^[Because of copyright restrictions outside of the Czech Republic only low resolution thumbnails are available online of early editions. From these thumbnails it appears that these graphics were not included in the original 1950 version, available at <https://dk.uzei.cz/nkp/view/uuid:55b14040-3d82-11e4-8fc5-005056827e52>. The graphics are included at least since the 1968 version <http://cdk.kramerius.org/view/uuid:9a7549c0-87e3-11e2-aa2b-005056827e51>.]
 
 ::: ex
 - Slunce zářilo na modré obloze, ale jeho paprsky nepálily, protože od zasněžených krkonošských bor povíval vlahý větřík. \
