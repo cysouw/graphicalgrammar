@@ -812,7 +812,7 @@ Arches to indicate verb-argument and adjective-noun relations by Gebauer [-@geba
 
 Bohuslav Havránek (1893-1978) was professor at the university of Prague and one the founders of the Prague Linguistic Circle, alongside the more widely known Vilém Mathesius. Before becoming professor in 1945 Havránek worked as a school teacher for many years. He retained an strong interest in the didactical aspects of grammar throughout his long life. An extensive overview of his many didactic pursuits is presented by Šmejkalová [-@smejkalova2013]. Havránek is too young to have personally known Gebauer (see [@sec:gebauer1890]), but he surely knew Gebauer's Czech grammar. However, at the time when Havránek studied Czech at Prague university, the grammar of Gebauer had already been revised by Ertl, who removed all graphical analyses, so there is probably no direct influence on Havránek in this regard. Interpreting the visual appearance of the graphical analyses in the work of Havránek it seems clear that they are influenced by the Russian tradition (cf. Ushakov *et al.*,[@sec:ushakov1926]). However, no concrete influences are acknowledged by Havránek in his writings.
 
-In the 1930s Havránek worked on a complete revision of the Czech language curriculum. In this context he wrote, together with Alois Získal (1891-1974), Leontij Kopecký (1894–1976) and Eduard Starý (1877-???), a four-volume textbook *Cvičebnice jazyka českého* 'Czech language exercises'. The first volume appeared in 1933 *pro první třídu středních škol* 'for the first grade of secondary schools' [@havranek1933]. The included graphical display of the *závislost* 'dependence' within clauses is shown in [@havranek1933: 85; @havranek1933_198] for the examples in [@next]. The use of arrows for dependence is a clear indication of influence from the Russian grammatical tradition. Notewhorty is the usage of boxes within boxes in [@fig:havranek1933_85]. It is not explained whether this is intended to be a different analysis as a simply sequence of arrows as used in [@fig:havranek1933_85]. The hierarchical boxes are mostly not used.
+In the 1930s Havránek worked on a complete revision of the Czech language curriculum. In this context he wrote, together with Alois Získal (1891-1974), Leontij Kopecký (1894–1976) and Eduard Starý (1877-???), a four-volume textbook *Cvičebnice jazyka českého* 'Czech language exercises'. The first volume appeared in 1933 *pro první třídu středních škol* 'for the first grade of secondary schools' [@havranek1933]. The included graphical display of the *závislost* 'dependence' within clauses is shown in [@fig:havranek1933_85; @fig:havranek1933_198] for the examples in [@next]. The use of arrows for dependence is a clear indication of influence from the Russian grammatical tradition. Notewhorty is the usage of boxes within boxes in [@fig:havranek1933_85]. It is not explained whether this is intended to be a different analysis as a simply sequence of arrows as used in [@fig:havranek1933_85]. The hierarchical boxes are mostly not used.
 
 ::: ex
 a.
@@ -846,7 +846,7 @@ a.
 b.
 | Czech [@havranek1947: 121, quoting Jana Vrby]
 | Musíme si přitom uvědomiti, že pes je šelma, kterou všecka přirozenost nutí, aby po zvěři, kterou nalezl, skočil a utíkal za ní.
-|
+| Musíme si přitom uvědomiti, že pes je šelma, kterou všecka přirozenost nutí, aby po zvěři, kterou nalezl, skočil a utíkal za ní.
 | We must realize that a dog is a beast that is forced by all nature to jump and run after the game it finds.
 :::
 
