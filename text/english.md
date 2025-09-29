@@ -235,11 +235,19 @@ adjuncts are hanging, but also enclosed as boxes on p17!
 
 ### Holbrook (1859) *The normal, or method of teaching*
 
-graphical analysis [@holbrook1859: 174], citing "Brown's rules of syntax" [@holbrook1859: 165], probably Goold Brown. He also cites "Clark's grammar, revised edition"
+Alfred Holbrook (1816-1909) first director of the National Normal University in Lebanon, Ohio.
 
-complete grammar in 1873, same diagrams [@holbrook1873: 145-151]
+graphical analysis [@holbrook1859: 174], citing "Brown's rules of syntax" [@holbrook1859: 165], probably Goold Brown. He also cites "Clark's grammar, revised edition", which is from 1855 (p. 104)
 
-nicer scan here (later version, same examples): https://archive.org/details/newenglishgramma00holb/page/224/
+::: ex
+The chief misfortunes that befall us in life can be traced to vices and follies which we have committed.
+:::
+
+::: {.im #holbrook1859_174}
+Diagramm of [@last] from Holbrook [-@holbrook1859: 174]
+:::
+
+complete grammar in 1873, same diagrams [@holbrook1873: 145-151] title "diagrammed analysis" nicer scan here (later version, same text and examples): [@holbrook1889: 221-227]
 
 ### Chandler (1861) *A class book on English grammar and analysis*
 
@@ -259,7 +267,7 @@ third edtion 1862: 38, 39 (note brackets and numbers like Brown???)
 
 https://archive.org/details/analyticalillust00york
 
-p.21 !!!
+p.21, 24, 40
 
 https://archive.org/details/yorksenglishgra00york/page/20/mode/2up?q=diagram
 
@@ -268,6 +276,15 @@ https://catalog.hathitrust.org/Record/011199495
 diagram, tree metaphor in pictures
 
 https://books.google.de/books?id=BdIOAQAAMAAJ&newbks=1&newbks_redir=0&printsec=frontcover&hl=de#v=onepage&q=diagram&f=false
+
+### Parker (1865) *A grammar of the English language*
+
+William Henry Parker (1845-1929), original not yet found [cited in @brittain1973: 53]
+
+A grammar of the English language, based upon the analysis of the English sentence, with copious examples and exercises in parsing and the correction of false syntax, and an appendix, containing critical and explanatory notes, and lists of peculiar and exceptional
+forms: for the use of schools and academies, and those who write.
+
+short version without graphics from 1866: https://scholar.uc.edu/concern/documents/ff365951p
 
 ### Jewell (1867) *Grammatical diagrams defended and improved*
 
@@ -282,10 +299,6 @@ no graphics in [@burtt1859]
 [@burtt1868] cites chandler in introduction (though not about graphics). completely revised and new diagrams [@burtt1868: 263-279], improved from Chandler
 
 same in [@burtt1873: 126-136], variant of Chandler
-
-### Parker (1869) *A grammar of English language*
-
-William Henry Parker, original not yet found [@brittain1973: 53]
 
 ### Chamberlin (1871) *Natural system of English grammar*
 
