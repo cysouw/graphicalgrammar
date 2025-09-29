@@ -99,29 +99,6 @@ Summarising, Moritz appears to have a clear understanding of, first, phrases as 
 
 All these theoretical concepts are quite charmingly summarised by his graphical display, which can be interpreted as a kind of precursor of a constituency structure. Apparently appearing completely out of the blue, the idea of using graphics to elucidate grammatical structure is off to a great start with these proposals from Moritz' *Deutsche Sprachlehre*. Unfortunately, his approach does not have had any following and it would take almost 50 years for graphical methods to be used again for grammatical analysis, namely by Diesterweg in 1830 (see [@sec:diesterweg1830]).
 
-[ === rsyntaxtree ===
-[<>
-  [Grund<>und<>Rede<>(2)
-    [Grund ich]
-    [Rede fühle]
-  ]
-  [Ziel<>(3)
-    [Grund dieses]
-    [Rede ist genug]
-    [Zweck mir]
-  ]
-  [Zweck<>(4)
-    [Grund ich]
-    [Rede bin\ glücklich]
-  ]
-  [Hinanfügung<>(1)
-    [Grund ich]
-    [Rede thue]
-    [Ziel meine\ Pflicht]
-  ]
-]
-=== ]:
-
 ### Herling (1823) *Periodenbau der deutschen Sprache* {#sec:herling1823}
 
 Simon Heinrich Adolf Herling (1780-1849) was a teacher in Frankfurt am Main and founding member, and later main organiser, of the *Frankfurter Gelehrtenverein für deutsche Sprache*. His analysis of multi-clause sentences is widely considered foundational for the grammatical analysis of German. A wide-ranging appraisal of Herling's work can be found in Elmentaler [-@elmentaler1996]. Herling is a close friend and colleague to Ferdinand Becker (see [@sec:becker1829]), who is also an active member of the *Frankfurter Gelehrtenverein*. A plan to write a joint grammar fell apart, indicating different opinions in their approach to grammatical analysis [@haselbach1966: 69]. Their relation remains amicable, as indicated by the fact that the first part of Herling's *Syntax der deutschen Sprache* [@herling1830] is dedicated to Becker.
@@ -147,24 +124,6 @@ Anachronistically interpreting Herling's analysis in modern terms, his symbols c
 ::: {.tree #herling1832_233_tree}
 Constituency tree illustrating Herling's analysis [@herling1832: 233] of the example in [@last] using a modern visualization. Crucially, the clauses are linked to each other without attaching them to any specific words as would be the case in a dependency structure.
 :::
-
-[=== rsyntaxtree ===
-[<>
-  [1h
-    [α Um dem\ Soldatenstande\ zu entgehen
-      [b__2__ gegen\ den er
-        [α__3__ ungeachtet seinen\ unternehmenden Geistes\ und kräftigen Körpers,]
-        entschiedene\ Abneigung\ fühlte,
-      ]
-    ]
-  verdingte er sich,\ im sechszehnten Jahre,\ bei einem Gastwirthe\ an der Gränze\ als Fuhrknecht
-  ]
-  [2h und kehrte erst\ nach sieben Jahren,
-    [2a da eben\ in seinem Geburtsorte\ ein nicht ganz\ unbedeutendes Grundstück\ feil geboten ward,]
-  in die Heimat\ zurück
-  ]
-]
-======]:
 
 The analysis of the complex sentence remains a topic of Herling's subsequent work. Noteworthy in the current context is a note to the teachers at the end of the *Erster Cursus eines wissenschaftlichen Unterrichtes in der deutschen Sprache für Deutsche, nach einer neuen auf die Bildungsgesetze der Sprachen gegründeten Methode* [@herling1828]. This book does not have any graphics in the main text. However, completely at the end, in the Appendix *Bemerkungen und Erläuterungen für den Lehrer* [@herling1828: 311-367], he mentions the symbolic analysis using letters as discussed above [@herling1828: 365-366]. And then, as a cherry on top, he proposes to use the well-known graphical display of musical notation to illustrate the structure of complex sentences, as shown in [@fig:herling1828_366]. Herling does not seem to have taken this idea further, only Diesterweg did (see [@sec:diesterweg1830]). Unfortunately, this innovative proposal appears to have disappeared after that.
 
