@@ -1,0 +1,30 @@
+# =============================
+# This file contains a hierarchical structure
+# in the format of the RSyntaxTree tool.
+#
+# The format is documented here:
+# https://yohasebe.github.io/rsyntaxtree/documentation
+#
+# Use the following website to generate a graphical tree
+# https://yohasebe.com/rsyntaxtree/
+# =============================
+
+[sprit\-handels\-\-\-aktie\-\-bo\-lags\-\-\-\-ord\-förande
+  [sprit\-handels\-\-\-aktie\-\-bo\-lags
+    [sprit\-handels
+      [sprit]
+      [handels]
+    ]
+    [aktie\-\-bo\-lags
+      [aktie]
+      [bo\-lags
+        [bo]
+        [lags]
+      ]
+    ]
+  ]
+  [ord\-förande
+    [ord]
+    [förande]
+  ]
+]
