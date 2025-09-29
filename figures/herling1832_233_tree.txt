@@ -1,0 +1,26 @@
+# =============================
+# This file contains a hierarchically structured sentence
+# in the format of the RSyntaxTree tool.
+#
+# The format is documented here:
+# https://yohasebe.github.io/rsyntaxtree/documentation
+#
+# Use the following website to generate a graphical tree
+# https://yohasebe.com/rsyntaxtree/
+# =============================
+
+[<>
+  [1h
+    [α Um dem\ Soldatenstande\ zu entgehen
+      [b__2__ gegen\ den er
+        [α__3__ ungeachtet seinen\ unternehmenden Geistes\ und kräftigen Körpers,]
+        entschiedene\ Abneigung\ fühlte,
+      ]
+    ]
+  verdingte er sich,\ im sechszehnten Jahre,\ bei einem Gastwirthe\ an der Gränze\ als Fuhrknecht
+  ]
+  [2h und kehrte erst\ nach sieben Jahren,
+    [2a da eben\ in seinem Geburtsorte\ ein nicht ganz\ unbedeutendes Grundstück\ feil geboten ward,]
+  in die Heimat\ zurück
+  ]
+]

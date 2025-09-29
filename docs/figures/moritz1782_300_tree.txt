@@ -1,0 +1,31 @@
+# =============================
+# This file contains a hierarchically structured sentence
+# in the format of the RSyntaxTree tool.
+#
+# The format is documented here:
+# https://yohasebe.github.io/rsyntaxtree/documentation
+#
+# Use the following website to generate a graphical tree
+# https://yohasebe.com/rsyntaxtree/
+# =============================
+
+[<>
+  [Grund<>und<>Rede<>(2)
+    [Grund ich]
+    [Rede fühle]
+  ]
+  [Ziel<>(3)
+    [Grund dieses]
+    [Rede ist genug]
+    [Zweck mir]
+  ]
+  [Zweck<>(4)
+    [Grund ich]
+    [Rede bin\ glücklich]
+  ]
+  [Hinanfügung<>(1)
+    [Grund ich]
+    [Rede thue]
+    [Ziel meine\ Pflicht]
+  ]
+]
