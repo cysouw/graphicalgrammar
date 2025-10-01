@@ -1976,6 +1976,10 @@ https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/595/file/Engel_Regeln_zu
 https://d-nb.info/112594563X/34
 http://nbn-resolving.de/urn:nbn:de:bsz:mh39-5959
 
+### Fourquet (1970) *Prolegomena zu einer deutschen Grammatik*
+
+https://ids-pub.bsz-bw.de/frontdoor/index/index/docId/1194
+
 ### Reis (1980) *On Justifying Topological Frames*
 
 https://www.persee.fr/doc/drlav_0754-9296_1980_num_22_1_957

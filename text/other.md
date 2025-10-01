@@ -540,6 +540,11 @@ Original from 1939, but not diagrams. Takes over Bonnard-style diagrams in 25th 
 28th edition 1969 in Marburg library
 30th edition 1995 https://archive.org/details/precisdegrammair00grev
 
+### more
+
+- Cassignol (1969) Essai de visualisation d'une théorie syntaxique https://www.jstor.org/stable/30248821
+- Martinet (1973) Conventions pour une visualisation des rapports syntaxiques https://www.jstor.org/stable/30248838
+
 ## Spanish
 
 I thank María José García Folgado for many suggestions
