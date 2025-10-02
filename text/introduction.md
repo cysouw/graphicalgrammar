@@ -29,10 +29,15 @@ Yet, also from the very start the graphical methods were also used to clarify li
 
 ## Previous research
 
-Previous studies into the history of graphical grammar: [@gelbe1880; @arens1902; @grosse1966; @brittain1973; @percival1976; @stewart1976; @baum1976: 36-42; @coseriu1980; @forsgren1992; @thummel1993; @seuren1998: 219-227; @franzkowiak2013; @seuren2015; @dukes2024] 
+Previous studies into the history of graphical grammar: [@gelbe1880; @arens1902; @grosse1966; @brittain1973; @percival1976; @baum1976: 36-42; @coseriu1980; @forsgren1992; @thummel1993; @seuren1998: 219-227; @franzkowiak2013; @seuren2015] 
+
+General studies on graphics in linguistic analysis: [@zierer1970; @gavare1972; @stewart1976]
 
 Studies on the history of grammar writing related to schools in general: [@lyman1922; @glinz1947; @huston1954; @leitner1991; @gorlach1997; @knobloch2000; @graffi2001; @linn2006]
 
+Websites:
+
+- [@dukes2024]
 - <http://www.polysyllabic.com/?q=olddiagrams>
 - <https://dickhudson.com/sentence-diagramming/>
 - <https://bsky.app/profile/coffeeanddonatus.bsky.social/>

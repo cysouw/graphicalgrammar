@@ -285,6 +285,8 @@ In summary, the grammatical analysis of Diesterweg is a complex tour-de-force, c
 
 ### Billroth (1832) *Lateinische Syntax* {#sec:billroth1832}
 
+(Note: the first modern author to rediscover Billroth was probably Sandmann [-@sandmann1971: 428] in a book edited by Coseriu, who cited Billroth in [@coseriu1980].)
+
 At the end of his short life, Johann Gustav Willhelm Billroth (1808-1836) became professor for religion at the university in Halle. Before that, between his *Habilitation* in Leipzig in 1830 and the start of his position in Halle in 1834, he worked as a teacher for Latin [@alwast2000]. In that context he wrote two latin grammars for use in schools, first the *Lateinische Syntax für die obern Klassen gelehrter Schulen* [@billroth1832], later followed by the *Lateinische Schulgrammatik für alle Klassen* [@billroth1834].
 
 In these grammars there is a single graphical display of a grammatical structure, shown below in [@fig:billroth1832_102] [@billroth1832: 102; -@billroth1834: 332-333]. Not much is known about the grammatical background of Billroth, nor is there any explicit indication in his books about the inspiration for drawing a grammatical analysis. As he was active as a school teachter, he might very well have been aware of Becker [-@becker1829, see [@sec:becker1829]] or Diesterweg [-@diesterweg1830, see [@sec:diesterweg1830]], both of which might have been an inspiration for Billroth's graphical display. One (circumstantial) argument that Billroth was inspired by Diesterweg is that Billroth uses the term *bestimmter Satz* as a synonym to *bekleideter Satz* [@billroth1832: 97], and he also uses the noun *Bestimmung* in the meaning of "modifier" [@billroth1832: 126-127]. Diesterweg very extensively used the nouns *Bestimmung* and *Bestimmer*, the last one of which is not found in Billroth. It is possible that Billroth just used these words out of his own inspiration, but this parallel usage is idiosyncratic enough to be notewhorthy, as these terms do not seem to be in wide use at this time.
@@ -1634,6 +1636,16 @@ Wer sich nicht nach der Decke streckt, dem bleiben die Füße unbedeckt.
 *Satzbild* of a multi-clause sentence [@last b] from Paul [-@paul1911a: 268]. Each clause is internally further analysed, although the examples presented by Paul remain very simple. Also note the thin line with the 'feathers' at the ends, which indicate a discontinuous structure. In this example, it is used to show the connection between the auxiliary *bleiben* and the participle *unbedeckt*, which are regularly separated in the German main clause structure. This connection is known today as the *Satzklammer*, but it was mostly ignored by 19th Century graphical analyses.
 :::
 
+### Sütterlin & Martin (1911) *Grundriß der Deutschen Sprachlehre*
+
+Sütterlin, Ludwig, 1863-1934
+Martin, Karl, 1867 – 1956, https://www.deutsche-biographie.de/sfz099_00555_1.html
+
+[@sutterlin1911: 50]
+
+No graphics in *Deutsche sprachlehre für höhere lehranstalten* with Albert Waag
+also not in *Die deutsche Sprache der Gegenwart ihre Laute, Wörter, Wortformen und Sätze*, various editions
+
 ### Erman (1913) *Stellung und Funktion der Nebensätze* {#sec:erman1913}
 
 Konrad Bessel Erman (1888-1915) died a young man in the First World War, shortly after he finished his dissertation in Bonn [published as @erman1913a; the actual dissertation was only the first part, see @erman1913]. A short obituary is given by Schulze [-@schulze1917] and a biographical eulology is provided by his mourning father [@erman1916]. 
@@ -2016,6 +2028,10 @@ The 1956 Book has seen reprints and revisions at least until a 10th edition from
 ### Ulshöfer (1967) *Methodik des Deutschunterrichts*
 
 Satzbaukasten: [@ulshofer1967: 133-138]
+
+### Arnold & Glinz (1968) *Deutscher Sprachspiegel*
+
+[@arnold1968]
 
 ### Lobentanzer (1986) *Deutsch muß nicht schwer sein*
 
