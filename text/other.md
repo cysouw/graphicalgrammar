@@ -532,7 +532,7 @@ https://nl.wikipedia.org/wiki/Maurice_Bologne
 
 first edition not available in Germany? 9th edition probably same as 1950 edition [@bonnard1970]
 
-see also Bonnard (1964: 54) as cited by [@sandmann1971: 428]. Bonnard cites Mikuš.
+see also Bonnard [-@bonnard1964: 52,54] as cited by [@sandmann1971: 428]. Bonnard cites Mikuš extensively and also knows about Tesnière (p. 54).
 
 ### Grevisse (1959) *Précis de grammaire française*
 

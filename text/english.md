@@ -735,7 +735,7 @@ Diskussion of Jan Michał Rozwadowski https://de.wikipedia.org/wiki/Jan_Michał_
 - https://doi.org/10.1016/0024-3841(55)90009-7
 
 Probably about *Wortbildung und Wortbedeutung: eine Untersuchung ihrer Grundgesetze* (1904), which is based on Wundt, but only very minimal "formulas" are used there (DSA 	
-706 ET 350 R893) https://catalog.hathitrust.org/Record/006527156 
+706 ET 350 R893) https://catalog.hathitrust.org/Record/006527156 but there are no graphics in that book
 
 ### Nida (1949) *Morphology*
 
