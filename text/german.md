@@ -46,7 +46,7 @@ Friedrich Diesterweg [-@diesterweg1834, see [@sec:diesterweg1830]] adopted Lehma
 
 Karl Philipp Moritz (1756-1793) was a prolific author with wide ranging interests. Towards the end of his life he became professor for the arts at the *Königliche Akademie der Künste* in Berlin. Among his many writings there are various instructional books and articles about grammar, see Schmidt [-@schmidt1993] for a concise summary of his linguistic oeuvre and Eichinger [-@eichinger1998] for an extensive discussion of his work. Of particular interest here is the *Deutsche Sprachlehre für die Damen in Briefen* [@moritz1782]. The context and linguistic content of this work is discussed in more detail by Buhofer [-@buhofer1994]. This book was quite successful, being reprinted in 1791, 1794 and 1806. All later editions dropped the somewhat curious addition *für die Damen* from the title.
 
-The *Deutsche Sprachlehre* contains to my knowledge the first graphical display of a grammatical analysis. In the *Zehnter Brief: Von dem Bau der Rede*, starting on page 267, Moritz discusses various simple examples, culminating in two large fold-out page-inserts between pages 308 and 309, reproduced here in [@fig:moritz1782_308i] and [@fig:moritz1782_308ii]. This is an analysis of the first part of an *Idylle* of Salomon Geßner, shown here in [@next].
+The *Deutsche Sprachlehre* contains to my knowledge the first graphical display of a grammatical analysis. In the *Zehnter Brief: Von dem Bau der Rede*, starting on page 267, Moritz discusses various simple examples, culminating in two large fold-out page-inserts between pages 308 and 309, reproduced here in [@fig:moritz1782_308i] and [@fig:moritz1782_308ii]. This is an analysis of the first part of the *Amyntas*, one of the many *Idyllen* published by Salomon Geßner in 1756, shown here in [@next].^[The original text by Geßner is available online at https://www.deutschestextarchiv.de/gessner_idyllen_1756/43, accessed 21 October 2025.]
 
 Later, in the first volume of his 1793 *Grammatisches Wörterbuch der deutschen Sprache* there is a short summary of this grammatical analysis under the heading of *Construktion* [@moritz1793: 283-295]. After Moritz' early demise that same year (at only 37 years of age) this *Grammatisches Wörterbuch* was completed by other authors without any further mentioning of this new kind of sentence analysis. The most extensive exposition of Moritz' envisioned analysis thus remains the discussion in the 1782 *Deutsche Sprachlehre*.
 
@@ -312,6 +312,8 @@ Then it takes another 5 pages of explanations of different kinds of such "dresse
 ::: ex
 Miltiades, dux Atheniensium, toti Graeciae libertatem paene oppressam in pugna apud Marathonem reddidit.
 :::
+
+The phrase *in pugna apud Marathonem* 'in the battle of Marathon' belongs to where they were almost crushed, so to *paene oppressam*, so this is an error in the graphical analysis.
 
 ::: {.im #billroth1832_102}
 Graphical sentence analysis of [@last] from Billroth [-@billroth1832: 102]. Note the horizontal depiction of the subject-predicate pairing and all modifiers hanging down from this main structure. This depiction is rather similar to Diesterweg's approach in [@fig:diesterweg1830_174], but the usage of lines instead of braces is different.

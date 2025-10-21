@@ -91,7 +91,7 @@ tables p.98
 table [@cooper1891: 9]
 indentation [@cooper1891: 25]
 
-### Davidson & Alcock (1889)
+### Davidson & Alcock (1889) *English grammar and analysis*
 
 https://catalog.hathitrust.org/Record/006151225
 table analysis p212, large example p220

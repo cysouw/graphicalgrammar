@@ -558,7 +558,7 @@ Montoy, Joaquim (1882, mayo 12). “Análisis gramatical razonado”. El Clamor 
 - https://bsky.app/profile/mjgarciafolgado.bsky.social/post/3ldscj467zc2n
 - https://ca.wikipedia.org/wiki/Joaquim_Montoy_i_Escuer
 
-### Escriche y Mieg & Fernández Iparraguirre (1884)
+### Escriche y Mieg & Fernández Iparraguirre (1884) *Nociones de gramática general*
 
 Tomás Escriche y Mieg (1844-1918) and Francisco Fernández Iparraguirre (1852-1889)
 
@@ -1421,11 +1421,11 @@ With various co-authors, Burkhudarov wrote many grammar textbooks for use in sch
 
 Basic scheme in [@barkhudarov1963: 11]
 
-### Beskrovny (1940)
+### Beskrovny (1940) *Конспект лекций по синтаксису русского языка*
 
 Andrey Efimovich Beskrovny  (1940: 14): https://www.prlib.ru/en/node/337185
 
-### Barkhudarov & Shcherba (1946)
+### Barkhudarov & Shcherba (1946) *Грамматика русского языка*
 
 Lev Vladimirovich Shcherba (1880-1944) https://ru.wikipedia.org/wiki/Щерба,_Лев_Владимирович
 
@@ -1453,7 +1453,7 @@ In the fifth edition, released in 1944, the main author of the textbook, Profess
 As a result of these changes, starting with the fifth edition, the numbering of paragraphs in the textbook and the exercises given in it does not always coincide with the numbering in the editions of previous years.
 This, my edition is printed according to the sixth without alterations, with the exception of the replacement of individual texts made in it by Professor S. G. Barkhudarov in some exercises.
 
-### Zemskij, Kruchkov & Svetlajev (1950)
+### Zemskij, Kruchkov & Svetlajev (1950) *Русский язык*
 
 [@zemskij1950: 62]
 
