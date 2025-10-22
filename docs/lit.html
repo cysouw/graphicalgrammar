@@ -1,0 +1,716 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="Michael Cysouw" />
+  <meta name="dcterms.date" content="2025-10-21" />
+  <title>Graphical Grammar</title>
+  <style>
+
+html {
+font-family: Libertinus Serif;
+color: #1a1a1a;
+background-color: #fdfdfd;
+}
+body {
+margin: 0 auto;
+max-width: 36em;
+padding-left: 4cm;
+padding-right: 4cm;
+padding-top: 50px;
+padding-bottom: 50px;
+hyphens: auto;
+overflow-wrap: break-word;
+text-rendering: optimizeLegibility;
+font-kerning: normal;
+}
+@media (max-width: 600px) {
+body {
+font-size: 0.9em;
+padding: 12px;
+}
+h1 {
+font-size: 1.8em;
+}
+}
+@media print {
+html {
+background-color: white;
+}
+body {
+background-color: transparent;
+color: black;
+font-size: 12pt;
+}
+p, h2, h3 {
+orphans: 3;
+widows: 3;
+}
+h2, h3, h4 {
+page-break-after: avoid;
+}
+}
+p {
+margin: 1em 0;
+}
+a {
+color: #1a1a1a;
+}
+a:visited {
+color: #1a1a1a;
+}
+img {
+max-width: 100%;
+}
+svg {
+height: auto;
+max-width: 100%;
+}
+h1, h2, h3, h4, h5, h6 {
+margin-top: 1.4em;
+}
+h5, h6 {
+font-size: 1em;
+font-style: italic;
+}
+h6 {
+font-weight: normal;
+}
+ol, ul {
+padding-left: 1.7em;
+margin-top: 1em;
+}
+li > ol, li > ul {
+margin-top: 0;
+}
+blockquote {
+margin: 1em 0 1em 1.7em;
+padding-left: 1em;
+border-left: 2px solid #e6e6e6;
+color: #606060;
+}
+code {
+font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+font-size: 85%;
+margin: 0;
+hyphens: manual;
+}
+pre {
+margin: 1em 0;
+overflow: auto;
+}
+pre code {
+padding: 0;
+overflow: visible;
+overflow-wrap: normal;
+}
+.sourceCode {
+background-color: transparent;
+overflow: visible;
+}
+hr {
+border: none;
+border-top: 1px solid #1a1a1a;
+height: 1px;
+margin: 1em 0;
+}
+table {
+margin: 1em 0;
+border-collapse: collapse;
+width: 100%;
+overflow-x: auto;
+display: block;
+font-variant-numeric: lining-nums tabular-nums;
+}
+table caption {
+margin-bottom: 0.75em;
+}
+tbody {
+margin-top: 0.5em;
+border-top: 1px solid #1a1a1a;
+border-bottom: 1px solid #1a1a1a;
+}
+th {
+border-top: 1px solid #1a1a1a;
+padding: 0.25em 0.5em 0.25em 0.5em;
+}
+td {
+padding: 0.125em 0.5em 0.25em 0.5em;
+}
+header {
+margin-bottom: 4em;
+text-align: center;
+}
+#TOC li {
+list-style: none;
+}
+#TOC ul {
+padding-left: 1.3em;
+}
+#TOC > ul {
+padding-left: 0;
+}
+#TOC a:not(:hover) {
+text-decoration: none;
+}
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+
+ul.task-list[class]{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+font-size: inherit;
+width: 0.8em;
+margin: 0 0.8em 0.2em -1.6em;
+vertical-align: middle;
+}
+.display.math{display: block; text-align: center; margin: 0.5rem auto;}
+
+div.csl-bib-body { }
+div.csl-entry {
+clear: both;
+margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+margin-left:2em;
+text-indent:-2em;
+}
+div.csl-left-margin {
+min-width:2em;
+float:left;
+}
+div.csl-right-inline {
+margin-left:2em;
+padding-left:1em;
+}
+div.csl-indent {
+margin-left: 2em;
+} </style>
+  <!-- CSS added specifically for this LSP document -->
+  <style>
+html {
+font-size: 14pt;
+line-height: 1.5;
+}
+body {
+word-wrap: break-word;
+}
+h1 {
+margin-top: 5em;
+}
+h4 {
+font-size: 1.17em;
+margin-bottom: 0em;
+}
+h5 {
+margin-top: 0.5em;
+margin-bottom: -0.5em;
+font-style: normal;
+}
+h1, h2, h3 {
+text-indent: -5px;
+padding-left: 65px;
+hyphens: none;
+}
+#title-block-header {
+text-indent: 0;
+font-family: Arimo;
+color: white;
+background-color: grey;
+text-align: left;
+}
+.title {
+padding-top: 30px;
+padding-left: 30px;
+margin-top: 0;
+margin-bottom: 0;
+text-indent: 0px;
+font-size: 3.5em;
+font-weight: normal;
+line-height: 1;
+}
+.subtitle {
+padding-top: 20px;
+padding-left: 30px;
+margin-top: 0;
+margin-bottom: 0;
+font-size: 1.5em;
+}
+.edition {
+padding-top: 10px;
+padding-left: 30px;
+margin-top: 0;
+margin-bottom: 0;
+font-style: italic;
+font-size: 1em;
+}
+.author {
+padding-top: 30px;
+padding-left: 30px;
+padding-bottom: 50px;
+margin-top: 0;
+margin-bottom: 0;
+font-family: Libertinus Serif;
+font-size: 1.5em;
+}
+.notice {
+padding-top: 20px;
+padding-left: 30px;
+margin-top: 0;
+margin-bottom: 0;
+font-size: 2em;
+}
+.date {
+padding-left: 30px;
+margin-top: 0;
+margin-bottom: 0;
+font-size: 2em;
+}
+.series {
+padding-top: 100px;
+padding-bottom: 50px;
+padding-right: 20px;
+margin-top: 0;
+margin-bottom: 0;
+font-size: 1em;
+}
+.series:before{
+content: "█▌ ";
+}
+.series:after{
+content: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjxzdmcgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIgogIHhtbG5zOmNjPSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9ucyIKICB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyIKICB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEyMCA2MCIgaGVpZ2h0PSI2MCIgd2lkdGg9IjEyMCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgaWQ9InN2ZzIiIHZlcnNpb249IjEuMSI+CiAgPG1ldGFkYXRhIGlkPSJtZXRhZGF0YTgiPgogICAgPHJkZjpSREY+CiAgICAgIDxjYzpXb3JrIHJkZjphYm91dD0iIj4KICAgICAgICA8ZGM6Zm9ybWF0PmltYWdlL3N2Zyt4bWw8L2RjOmZvcm1hdD4KICAgICAgICA8ZGM6dHlwZSByZGY6cmVzb3VyY2U9Imh0dHA6Ly9wdXJsLm9yZy9kYy9kY21pdHlwZS9TdGlsbEltYWdlIiAvPgogICAgICA8L2NjOldvcms+CiAgICA8L3JkZjpSREY+CiAgPC9tZXRhZGF0YT4KICA8ZGVmcyBpZD0iZGVmczYiPgogICAgPGNsaXBQYXRoIGlkPSJjbGlwUGF0aDE0IiBjbGlwUGF0aFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxwYXRoIGlkPSJwYXRoMTIiIGQ9Ik0gMCwwIEggNDgyIFYgNjgwIEggMCBaIiAvPgogICAgPC9jbGlwUGF0aD4KICA8L2RlZnM+CiAgPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXBQYXRoMTQpIiB0cmFuc2Zvcm09Im1hdHJpeCgxLjMzLDAsMCwtMS4zMywtNDYyLDEyOSkiIGlkPSJnMTAiPgogICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMzQ3LjY2OCw1My40MzUpIiBpZD0iZzU0Ij4KICAgICAgPHRleHQgaWQ9InRleHQ1OCIgc3R5bGU9ImZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6bm9ybWFsO2ZvbnQtc2l6ZTo4cHg7Zm9udC1mYW1pbHk6RElOOy1pbmtzY2FwZS1mb250LXNwZWNpZmljYXRpb246RElOLVJlZ3VsYXI7d3JpdGluZy1tb2RlOmxyLXRiO2ZpbGw6d2hpdGU7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOm5vbnplcm87c3Ryb2tlOm5vbmUiIHRyYW5zZm9ybT0ibWF0cml4KDEsMCwwLC0xLDU2LDMyKSI+CiAgICAgICAgPHRzcGFuIGlkPSJ0c3BhbjU2IiB5PSIwIiB4PSIwIDIuMzcgNi43MiAxMS4zNiAxNS42OSAyMC4zNCAyNC41MyAyOC44NiI+bGFuZ3VhZ2U8L3RzcGFuPgogICAgICA8L3RleHQ+CiAgICA8L2c+CiAgICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgzNDcuNjY4LDUzLjQzNSkiIGlkPSJnNjAiPgogICAgICA8dGV4dCBpZD0idGV4dDY0IiBzdHlsZT0iZm9udC12YXJpYW50Om5vcm1hbDtmb250LXdlaWdodDpub3JtYWw7Zm9udC1zaXplOjhweDtmb250LWZhbWlseTpESU47LWlua3NjYXBlLWZvbnQtc3BlY2lmaWNhdGlvbjpESU4tUmVndWxhcjt3cml0aW5nLW1vZGU6bHItdGI7ZmlsbDp3aGl0ZTtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6bm9uemVybztzdHJva2U6bm9uZSIgdHJhbnNmb3JtPSJtYXRyaXgoMSwwLDAsLTEsNTYsMjMpIj4KICAgICAgICA8dHNwYW4gaWQ9InRzcGFuNjIiIHk9IjAiIHg9IjAgNC4xMiA4LjE4IDEwLjM2IDE0Ljc0IDE5LjM5IDIzLjQ1Ij5zY2llbmNlPC90c3Bhbj4KICAgICAgPC90ZXh0PgogICAgPC9nPgogICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMzQ3LjY2OCw1My40MzUpIiBpZD0iZzY2Ij4KICAgICAgPHRleHQgaWQ9InRleHQ3MCIgc3R5bGU9ImZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6bm9ybWFsO2ZvbnQtc2l6ZTo4cHg7Zm9udC1mYW1pbHk6RElOOy1pbmtzY2FwZS1mb250LXNwZWNpZmljYXRpb246RElOLVJlZ3VsYXI7d3JpdGluZy1tb2RlOmxyLXRiO2ZpbGw6d2hpdGU7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOm5vbnplcm87c3Ryb2tlOm5vbmUiIHRyYW5zZm9ybT0ibWF0cml4KDEsMCwwLC0xLDU2LDE0KSI+CiAgICAgICAgPHRzcGFuIGlkPSJ0c3BhbjY4IiB5PSIwIiB4PSIwIDQuMzUgNy40MyAxMS42NiAxNS40OSI+cHJlc3M8L3RzcGFuPgogICAgICA8L3RleHQ+CiAgICA8L2c+CiAgICA8cGF0aCBpZD0icGF0aDcyIiBzdHlsZT0iZmlsbDp3aGl0ZTtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6bm9uemVybztzdHJva2U6bm9uZSIgZD0ibSAzNzcuMjUsNTMuNSBoIDcuNSB2IDQyIGggLTcuNSB6IiAvPgogICAgPHBhdGggaWQ9InBhdGg3NCIgc3R5bGU9ImZpbGw6d2hpdGU7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOm5vbnplcm87c3Ryb2tlOm5vbmUiIGQ9Im0gMzg1Ljc1LDUzLjUgaCA3LjUgdiAzNCBoIC03LjUgeiIgLz4KICAgIDxwYXRoIGlkPSJwYXRoNzYiIHN0eWxlPSJmaWxsOndoaXRlO2ZpbGwtb3BhY2l0eToxO2ZpbGwtcnVsZTpub256ZXJvO3N0cm9rZTpub25lIiBkPSJtIDM5NC4yNSw1My41IGggNy41IHYgNDIgaCAtNy41IHoiIC8+CiAgICA8cGF0aCBpZD0icGF0aDc4IiBzdHlsZT0iZmlsbDp3aGl0ZTtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6bm9uemVybztzdHJva2U6bm9uZSIgZD0ibSAzNjguNzUsNTMuNSBoIDcuNSB2IDQyIGggLTcuNSB6IiAvPgogICAgPHBhdGggaWQ9InBhdGg4MCIgc3R5bGU9ImZpbGw6d2hpdGU7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOm5vbnplcm87c3Ryb2tlOm5vbmUiIGQ9Im0gMzYxLjc1LDk2IC0xNCwtNDAgNywtMi41IDE0LDQwIC03LDIuNSIgLz4KICA8L2c+Cjwvc3ZnPgo=);
+float: right;
+}
+.header-section-number {
+display: inline-flex;
+text-indent: -60px;
+}
+header {
+margin-bottom: 1em;
+}
+.copyright{
+font-size: 0.7em;
+text-align: left;
+margin-right: 30%;
+}
+#toc-title {
+text-indent: 0px;
+margin-left: 0px;
+padding-left: 0px;
+}
+p {
+margin-block-start: 0.3em;
+margin-block-end: 0.3em;
+}
+ol, ul {
+margin-top: 0.5em;
+}
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+max-width: 100%;
+}
+figure {
+margin-top: 2em;
+margin-bottom: 2em;
+margin-inline-start: 0;
+margin-inline-end: 0;
+}
+figcaption {
+margin-top: 0.5em;
+text-align: justify;
+}
+a:link {
+text-decoration: none;
+}
+a:hover {
+text-decoration: underline;
+}
+blockquote a:link {
+color: #606060;
+}
+.footnote-ref {
+font-size: small;
+}
+sub, sup {
+line-height: 0;
+}
+div[id^="tbl"] table {
+margin-left: auto;
+margin-right: auto;
+}
+@media (max-width: 900px) {
+body {
+font-size: 75%;
+}
+}
+</style><!-- Links for using webfont -->
+  <link href="https://fonts.cdnfonts.com/css/libertinus-serif" rel="stylesheet" data-external="1">
+  <link href="https://fonts.cdnfonts.com/css/arimo" rel="stylesheet" data-external="1"><!-- Text justification with hyphenation -->
+  <style>
+p {
+text-align: justify;
+}
+p {
+-webkit-hyphens: auto;
+-webkit-hyphenate-limit-before: 3;
+-webkit-hyphenate-limit-after: 3;
+-webkit-hyphenate-limit-chars: 6 3 3;
+-webkit-hyphenate-limit-lines: 2;
+-webkit-hyphenate-limit-last: always;
+-webkit-hyphenate-limit-zone: 8%;
+-moz-hyphens: auto;
+-moz-hyphenate-limit-chars: 6 3 3;
+-moz-hyphenate-limit-lines: 2;
+-moz-hyphenate-limit-last: always;
+-moz-hyphenate-limit-zone: 8%;
+-ms-hyphens: auto;
+-ms-hyphenate-limit-chars: 6 3 3;
+-ms-hyphenate-limit-lines: 2;
+-ms-hyphenate-limit-last: always;
+-ms-hyphenate-limit-zone: 8%;
+hyphens: auto;
+hyphenate-limit-chars: 6 3 3;
+hyphenate-limit-lines: 2;
+hyphenate-limit-last: always;
+hyphenate-limit-zone: 8%;
+}
+.linguistic-example-content {
+hyphens: none;
+}
+</style>
+  <!-- CSS added by pandoc filter 'inline-footnotes.lua' -->  
+  <style>
+input[type=checkbox][id^=fn] + span {
+display: none;
+}
+input[type=checkbox][id^=fn]:checked + span {
+display: block;
+}
+p:has(input[type=checkbox][id^=fn]:not(:checked)) {
+display: flow-root;
+}
+.footnote {
+font-size: smaller;
+padding: 20px 40px 20px 40px;
+}
+.fn-number{
+padding-left: 2px;
+font-weight: bold;
+}
+.fn-number:before{
+content: '▸ ';
+vertical-align: super;
+font-size: small;
+}
+.fn-number:has(+ input[type=checkbox][id^=fn]:checked):before{
+content: '▾ ';
+vertical-align: super;
+font-size: small;
+}
+@media (max-width: 900px) {
+.fn-number:before{
+font-size: x-small;
+}
+.fn-number:has(+ input[type=checkbox][id^=fn]:checked):before{
+font-size: x-small;
+}
+}
+</style>
+   
+  <!-- CSS added by filter 'toc-css.lua' for TOC hovering to the side -->
+  <style>
+body {
+padding-left: 1cm;
+padding-right: 1cm;
+transition: 0.5s;
+}
+nav {
+width: 1em;
+margin-left: -1cm;
+font-size: smaller;
+color: grey;
+transition: 0.5s;
+float: left;
+position: fixed;
+top: 0;
+bottom: 0;
+white-space: nowrap; overflow: hidden;
+overflow-y: scroll;
+transition: 0.5s;
+}
+nav::-webkit-scrollbar {
+display: none;
+}
+nav a, nav a:visited {
+color: grey;
+}
+nav h2:before {
+content: "≡ ";
+font-size: 150%;
+}
+nav h2:after {
+content: " ◂";
+}
+nav li {
+margin-left: 1em;
+white-space: nowrap; overflow: hidden;
+text-overflow: ellipsis;
+}
+nav li > a:not(:only-child):before {
+content: "▸ ";
+}
+nav li > a:only-child {
+margin-left: 0.75em;
+}
+nav li li {
+margin-left: 1em;
+}
+nav li li li {
+margin-left: 0.5em;
+font-size: smaller;
+}
+nav ul li ul {
+visibility: hidden;
+display: none;
+margin-top: 0.2em;
+margin-bottom: 0.2em;
+transition: 0.5s;
+}
+.toc-section-number {
+padding-right: 0.2em;
+}
+.paddingleft {
+padding-left: 9cm;
+transition: 0.5s;
+}
+.navside {
+width: 7cm;
+margin-left: -8.5cm;
+padding-right: 1cm;
+transition: 0.5s;
+}
+.navside h2:after {
+content: " ▸";
+}
+.navshown {
+width: 50%;
+transition: 0.5s;
+background-color: rgba(255, 255, 255, 0.95);
+}
+.subShow > ul {
+visibility: visible;
+display: block;
+transition: 0.5s;
+margin-left: -1em;
+}
+.subShow > a:not(:only-child):before {
+content: "▾ ";
+}
+</style>
+   
+  <!-- CSS added by lua-filter 'count-para' -->
+  <style>
+.paragraph-number { float: left;
+margin-left: -5em;
+width: 4.5em;
+text-align: right;
+color: grey;
+font-size: x-small;
+padding-top: 5px;
+}
+</style>
+      
+  <!-- CSS added by lua-filter 'pandoc-ling' -->
+  <style>
+.linguistic-example { margin: 0; }
+.linguistic-example caption { margin-bottom: 0; }
+.linguistic-example tbody { border-top: none; border-bottom: none;
+}
+.linguistic-example-preamble {
+height: 1em;
+vertical-align: top; }
+.linguistic-example td {
+padding-left: 0;
+}
+.linguistic-example-content { vertical-align: top; }
+.linguistic-example-label {
+vertical-align: top;
+}
+.linguistic-example-judgement { vertical-align: top; padding-right: 2px;
+}
+</style>
+        
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Graphical Grammar</h1>
+<p class="subtitle">A historical survey up to Chomsky and Tesnière</p>
+<p class="author">Michael Cysouw</p>
+<p class="notice">Prepublication draft</p>
+<p class="date">October 21, 2025</p>
+</header>
+<p><span id="0.1" class="paragraph-number">[0.1]</span> <span class="citation" data-cites="arens1955 brittain1973 chomsky1957 coseriu1980 diesterweg1830 durscheid2010 eisenberg2020a forsgren1992 harris1993 herling1828 Kahane2022 lehmann1833 mazziotta2016 mazziotta2019 mazziotta2024 mcelvenny2025 moritz1782 muller1999 muller2020 newmeyer1996 philippi2010 tesniere1959 thummel1993 imrenyi2020 kertesz2019">(<a href="#ref-arens1955" role="doc-biblioref">Arens 1955</a>; <a href="#ref-brittain1973" role="doc-biblioref">Brittain 1973</a>; <a href="#ref-chomsky1957" role="doc-biblioref">Chomsky 1957</a>; <a href="#ref-coseriu1980" role="doc-biblioref">Coseriu 1980</a>; <a href="#ref-diesterweg1830" role="doc-biblioref">Diesterweg 1830</a>; <a href="#ref-durscheid2010" role="doc-biblioref">Dürscheid 2010</a>; <a href="#ref-eisenberg2020a" role="doc-biblioref">Eisenberg 2020</a>; <a href="#ref-forsgren1992" role="doc-biblioref">Forsgren 1992</a>; <a href="#ref-harris1993" role="doc-biblioref">Harris 1993</a>; <a href="#ref-herling1828" role="doc-biblioref">Herling 1828</a>; <a href="#ref-Kahane2022" role="doc-biblioref">Kahane &amp; Gerdes 2022</a>; <a href="#ref-lehmann1833" role="doc-biblioref">Lehmann 1833</a>; <a href="#ref-mazziotta2016" role="doc-biblioref">Mazziotta 2016</a>; <a href="#ref-mazziotta2019" role="doc-biblioref">Mazziotta 2019</a>; <a href="#ref-mazziotta2024" role="doc-biblioref">Mazziotta &amp; Kahane 2024</a>; <a href="#ref-mcelvenny2025" role="doc-biblioref">McElvenny 2025</a>; <a href="#ref-moritz1782" role="doc-biblioref">Moritz 1782</a>; <a href="#ref-muller1999" role="doc-biblioref">Müller 1999</a>; <a href="#ref-muller2020" role="doc-biblioref">Müller 2020</a>; <a href="#ref-newmeyer1996" role="doc-biblioref">Newmeyer 1996</a>; <a href="#ref-philippi2010" role="doc-biblioref">Philippi &amp; Tewes 2010</a>; <a href="#ref-tesniere1959" role="doc-biblioref">Tesnière 1959</a>; <a href="#ref-thummel1993" role="doc-biblioref">Thümmel 1993</a>; <a href="#ref-imrenyi2020" role="doc-biblioref">Imrényi &amp; Mazziotta 2020</a>; <a href="#ref-kertesz2019" role="doc-biblioref">Kertész, Moravcsik &amp; Rákosi 2019</a>)</span></p>
+
+<!-- Javascript added by toc-css.lua to make TOC expandable on click -->
+<script>
+
+  const b = document.querySelector("body");
+  const n = document.querySelector("nav");
+  const buttonsize = 20;
+
+  // click on "toc-title" to show TOC to the side
+  document.querySelector("#toc-title").addEventListener("click", function(e) {
+    if (e.clientX < e.currentTarget.getBoundingClientRect().left + buttonsize) {
+      n.classList.toggle("navshown");
+    } else {
+      b.classList.toggle("paddingleft");
+      n.classList.toggle("navside");
+      n.classList.remove("navshown");
+    };
+  });
+
+  // by default show TOC in large window
+  window.onload = function() {
+    if (window.innerWidth > 1000) {
+      b.classList.add("paddingleft");
+      n.classList.add("navside");
+    };
+  };
+
+  // show/hide TOC on resize
+  window.onresize = function () {
+    if (window.innerWidth > 1000) {
+      b.classList.add("paddingleft");
+      n.classList.add("navside");
+    } else {
+      b.classList.remove("paddingleft");
+      n.classList.remove("navside");
+    };
+  };
+
+  // show/hide subsections
+  const allLis = document.querySelectorAll("nav li");
+
+  for (const li of allLis) {
+    li.addEventListener('click', function (e) {
+      if (e.clientX < e.currentTarget.getBoundingClientRect().left + buttonsize) {
+        li.classList.toggle('subShow');
+        e.preventDefault();
+      };
+      if (e.clientX > e.currentTarget.getBoundingClientRect().left + 3*buttonsize) {
+        n.classList.remove("navshown");
+      };
+    });
+  };
+
+  // show full nav on tab, hide full nav on escape
+  document.addEventListener("keydown", function (e) {
+    if (e.which === 27) {
+      n.classList.remove("navshown");
+      e.preventDefault();
+    };
+    if (e.which === 9) {
+      n.classList.add("navshown");
+      e.preventDefault();
+    };
+  });
+
+  // hide full nav when clicked outside
+  document.addEventListener("click", function(e) {
+    if (n.classList.contains("navshown")) {
+      if (!n.contains(e.target)) {
+        n.classList.remove("navshown");
+      };
+    };
+  });
+
+</script>
+
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-arens1955" class="csl-entry" role="listitem">
+Arens, Hans. 1955. <em><span class="nocase">Sprachwissenschaft: Der Gang ihrer Entwicklung von der Antike bis zur Gegenwart</span></em> (Orbis Academicus 1). Freiburg.
+</div>
+<div id="ref-brittain1973" class="csl-entry" role="listitem">
+Brittain, Richard Coulter. 1973. <em>A critical history of systems of sentence diagramming in <span>English</span></em>. University of Texas at Austin PhD thesis.
+</div>
+<div id="ref-chomsky1957" class="csl-entry" role="listitem">
+Chomsky, Noam. 1957. <em>Syntactic structures</em> (Janua Linguarum, Series Minor 4). The Hague: Mouton. doi:<a href="https://doi.org/10.1515/9783112316009">10.1515/9783112316009</a>.
+</div>
+<div id="ref-coseriu1980" class="csl-entry" role="listitem">
+Coseriu, Eugenio. 1980. Un précuseur méconnu de la syntaxe structurale: H. tiktin. <em>Recherces de linguistique: Hommages à maurice leroy</em>, 48–62. Éditions de l’Université de Bruxelles.
+</div>
+<div id="ref-diesterweg1830" class="csl-entry" role="listitem">
+Diesterweg, Friedrich Adolph Wilhelm. 1830. <em>Praktischer <span>Lehrgang</span> für den <span>Unterricht</span> der deutschen <span>Sprache</span>. <span>Ein</span> <span>Leitfaden</span> für <span>Lehrer</span> , welche die <span>Muttersprache</span> naturgemäß lehren wollen. <span>Zweiter Theil</span>. <span>Die</span> <span>Wortformen</span> und die <span>Satzlehre</span></em>. Crefeld: Funke. <a href="https://cysouw.github.io/graphicalgrammar/scans/diesterweg1830.pdf">https://cysouw.github.io/graphicalgrammar/scans/diesterweg1830.pdf</a>.
+</div>
+<div id="ref-durscheid2010" class="csl-entry" role="listitem">
+Dürscheid, Christa. 2010. <em>Syntax: <span>Grundlagen</span> und <span>Theorien</span></em>. Göttingen: Vandenhoeck &amp; Ruprecht. <a href="https://elibrary.utb.de/doi/book/10.36198/9783838537115">https://elibrary.utb.de/doi/book/10.36198/9783838537115</a>.
+</div>
+<div id="ref-eisenberg2020a" class="csl-entry" role="listitem">
+Eisenberg, Peter. 2020. <em>Grundriss der deutschen <span>Grammatik</span> 2: <span>Der Satz</span></em>. 5th Edition. Stuttgart: Metzler. doi:<a href="https://doi.org/10.1007/978-3-476-05094-6">10.1007/978-3-476-05094-6</a>.
+</div>
+<div id="ref-forsgren1992" class="csl-entry" role="listitem">
+Forsgren, Kjell-Åke. 1992. <em>Satz, <span>Satzarten</span>, <span>Satzglieder</span>: Zur <span>Gestaltung</span> der deutschen traditionellen <span>Grammatik</span> von <span>Karl</span> <span>Ferdinand</span> <span>Becker</span> bis <span>Konrad</span> <span>Duden</span>, 1830-1880</em>. Münster: Nodus.
+</div>
+<div id="ref-harris1993" class="csl-entry" role="listitem">
+Harris, Randy Allen. 1993. <em>The linguistic wars</em>. Oxford: Oxford University Press.
+</div>
+<div id="ref-herling1828" class="csl-entry" role="listitem">
+Herling, Simon Heinrich Adolf. 1828. <em><span class="nocase">Erster Cursus eines wissenschaftlichen Unterrichtes in der deutschen Sprache für Deutsche, nach einer neuen auf die Bildungsgesetze der Sprachen gegründeten Methode</span></em>. Frankfurt am Main: Hermannsche Buchhandlung. <a href="https://mdz-nbn-resolving.de/bsb10583780">https://mdz-nbn-resolving.de/bsb10583780</a>.
+</div>
+<div id="ref-imrenyi2020" class="csl-entry" role="listitem">
+Imrényi, András &amp; Nicolas Mazziotta (eds.). 2020. <em>Chapters of <span>Dependency Grammar</span>: A historical survey from antiquity to <span>Tesnière</span></em> (Studies in Language Companion Series 212). Amsterdam: Benjamins. doi:<a href="https://doi.org/10.1075/slcs.212">10.1075/slcs.212</a>.
+</div>
+<div id="ref-Kahane2022" class="csl-entry" role="listitem">
+Kahane, Sylvain &amp; Kim Gerdes. 2022. <em><span>Syntaxe</span> théorique et formelle</em> (Textbooks in Language Sciences 10). Vol. 1: Modélisation, unités, structures. Berlin: Language Science Press. doi:<a href="https://doi.org/10.5281/zenodo.6446067">10.5281/zenodo.6446067</a>.
+</div>
+<div id="ref-kertesz2019" class="csl-entry" role="listitem">
+Kertész, András, Edith A. Moravcsik &amp; Csilla Rákosi (eds.). 2019. <em>Current approaches to syntax: A comparative handbook</em> (Comparative Handbooks of Linguistics 3). Berlin: De Gruyter. doi:<a href="https://doi.org/10.1515/9783110540253">10.1515/9783110540253</a>.
+</div>
+<div id="ref-lehmann1833" class="csl-entry" role="listitem">
+Lehmann, August. 1833. <em>Allgemeiner <span>Mechanismus</span> des <span>Periodenbaues</span>, nebst einem <span>Versuche</span>, an ihn eine <span>Kritik</span> der deutschen <span>Periode</span> anzuknüpfen</em>. Danzig: Anhuth. doi:<a href="https://doi.org/10.3931/e-rara-73094">10.3931/e-rara-73094</a>.
+</div>
+<div id="ref-mazziotta2016" class="csl-entry" role="listitem">
+Mazziotta, Nicolas. 2016. Drawing syntax before syntactic trees: <span class="nocase">Stephen Watkins Clark’s</span> sentence diagrams (1847). <em>Historiographia Linguistica</em> 43(3). 301–342. doi:<a href="https://doi.org/10.1075/hl.43.3.03maz">10.1075/hl.43.3.03maz</a>.
+</div>
+<div id="ref-mazziotta2019" class="csl-entry" role="listitem">
+Mazziotta, Nicolas. 2019. The evolution of spatial rationales in <span>Tesnière</span>’s stemmas. In Kim Gerdes &amp; Sylvain Kahane (eds.), <em>Proceedings of the fifth international conference on dependency linguistics (depling, SyntaxFest 2019)</em>, 69–80. Paris, France: Association for Computational Linguistics. doi:<a href="https://doi.org/10.18653/v1/W19-7709">10.18653/v1/W19-7709</a>.
+</div>
+<div id="ref-mazziotta2024" class="csl-entry" role="listitem">
+Mazziotta, Nicolas &amp; Sylvain Kahane. 2024. L’émergence de la syntaxe structurale de <span>Lucien Tesnière</span>. In Cécile Mathieu &amp; Valentina Bisconti (eds.), <em>Entre vie et théorie: La biographie des linguistes dans l’histoire des sciences du langage</em>. Lambert-Lucas. <a href="https://hdl.handle.net/2268/221406">https://hdl.handle.net/2268/221406</a>.
+</div>
+<div id="ref-mcelvenny2025" class="csl-entry" role="listitem">
+McElvenny, James. 2025. <em><span class="nocase">Entstehung und Entwicklung der modernen Linguistik. Von den Anfängen bis zum Zweiten Weltkrieg</span></em>. Berlin: De Gruyter. doi:<a href="https://doi.org/10.1515/9783111618548">10.1515/9783111618548</a>.
+</div>
+<div id="ref-moritz1782" class="csl-entry" role="listitem">
+Moritz, Carl Philipp. 1782. <em>Deutsche <span>Sprachlehre</span> für die <span>Damen</span> in <span>Briefen</span></em>. Berlin: Arnold Wever. <a href="https://mdz-nbn-resolving.de/bsb10584078">https://mdz-nbn-resolving.de/bsb10584078</a>.
+</div>
+<div id="ref-muller1999" class="csl-entry" role="listitem">
+Müller, Stefan. 1999. <em>Deutsche <span>Syntax</span> deklarativ: <span>Head-Driven Phrase Structure Grammar</span> für das <span>Deutsche</span></em> (Linguistische Arbeiten 394). Berlin: De Gruyter. doi:<a href="https://doi.org/10.1515/9783110915990">10.1515/9783110915990</a>.
+</div>
+<div id="ref-muller2020" class="csl-entry" role="listitem">
+Müller, Stefan. 2020. <em>Grammatical theory: From transformational grammar to constraint-based approaches</em> (Textbooks in Language Sciences 1). Fourth revised and extended edition. Language Science Press. doi:<a href="https://doi.org/10.5281/zenodo.1193241">10.5281/zenodo.1193241</a>. <a href="https://langsci-press.org/catalog/book/287">https://langsci-press.org/catalog/book/287</a>.
+</div>
+<div id="ref-newmeyer1996" class="csl-entry" role="listitem">
+Newmeyer, Frederick J. 1996. <em>Generative linguistics: A historical perspective</em> (Routledge History of Linguistic Thought Series). London: Routledge.
+</div>
+<div id="ref-philippi2010" class="csl-entry" role="listitem">
+Philippi, Jule &amp; Michael Tewes. 2010. <em><span>Basiswissen Generative Grammatik</span></em>. Göttingen: Vandenhoeck &amp; Ruprecht. doi:<a href="https://doi.org/10.36198/9783838533179">10.36198/9783838533179</a>.
+</div>
+<div id="ref-tesniere1959" class="csl-entry" role="listitem">
+Tesnière, Lucien. 1959. <em>Éléments de syntaxe structurale</em>. Paris: Klincksieck. <a href="https://archive.org/details/LucienTesniereElementsDeSyntaxeStructurale">https://archive.org/details/LucienTesniereElementsDeSyntaxeStructurale</a>.
+</div>
+<div id="ref-thummel1993" class="csl-entry" role="listitem">
+Thümmel, Wolf. 1993. Geschichte der syntaxforschung: Westliche entwicklungen. In Joachim Jacobs, Arnim von Stechow, Wolfgang Sternefeld &amp; Theo Vennemann (eds.), <em>Syntax: Ein internationales handbuch zeitgenössischer forschung</em> (HSK 9.1), 130–199. Mouton de Gruyter.
+</div>
+</div>
+</body>
+</html>

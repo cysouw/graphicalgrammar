@@ -1,0 +1,1 @@
+[@arens1955; @brittain1973; @chomsky1957; @coseriu1980; @diesterweg1830; @durscheid2010; @eisenberg2020a; @forsgren1992; @harris1993; @herling1828; @Kahane2022; @lehmann1833; @mazziotta2016; @mazziotta2019; @mazziotta2024; @mcelvenny2025; @moritz1782; @muller1999; @muller2020; @newmeyer1996; @philippi2010; @tesniere1959; @thummel1993; @imrenyi2020; @kertesz2019]
