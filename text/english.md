@@ -707,6 +707,8 @@ morphology-formula [@sapir1921]
 
 [@bloomfield1914: 60-61], cited in Percival (1976:235) clearly thinks about binary branching. Also note the Wundt-inspired psychological reasoning.
 
+Historical survey of Bloomfield and post-Bloomfieldians: [@matthews1993]
+
 ### Ajdukiewicz (1935) *Die syntaktische Konnexität*
 
 [@ajdukiewicz1935]
@@ -770,6 +772,8 @@ A = recent
 N² = play
 V¹ = close
 Pb = down
+
+see also the schemas on pp. 350, 353: more like "potential" structures, not actual sentence analyses
 
 [ === rsyntaxtree
 [Utterance
