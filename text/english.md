@@ -662,6 +662,18 @@ not much effect in German linguistics, but see Delbrück 136ff https://books.goo
 
 Debate about logical analysis: Wundt proposes recursive subject-predicate pairing as a model for though and language: note that this is the logical tradition of the terminology, not the grammatical!
 
+"Die successive Apperception dagegen geschieht stets in der Form einer Zweitheilung: sie folgt einem Gesetze, das wir füglich als das Gesetz der Dualität oder der binären Gliederung der Gedanken bezeichnen können." [@wundt1880: 28]
+
+Section: "Die Entwicklung des Gedankenverlaufs (successive Verbindungen des Denkens)" [@wundt1880: 49-70]
+
+Die einfachste Form eines Gedankens oder eines in sich abgeschlossenen apperceptiven Vorstellungsverlaufs ist dann gegeben, wenn eine Gesammtvorstellung in zwei mit einander verbundene Theile zerlegt wird. Dies geschieht im einfachen Urtheil. Deuten wir allgemein die apperceptive Verbindung auf einander folgender Vorstellungen durch das Zeichen  ͡  an, so ist A ͡ B das psychologische Symbol des einfachen Urtheils. (p.53)
+
+"Dieses Princip der Dualität oder der binären Verbindung hat in den Kategorieen der grammatischen Syntax seinen unverkennbaren Ausdruck gefunden. Denn alle diese Kategorieen führen zurück auf je zwei Vorstellungen, die mit einander in Beziehung gesetzt sind. So werden zunächst die beiden Hauptvorstellungen, die der ersten Gliederung des Gedankens entsprechen, als Subject und Prädicat unterschieden. Das Subject kann wieder gegliedert sein in Nomen und Attribut. Das Prädicat zerfällt, sofern es ein nominales ist, in die Copula und das eigentliche Prädicat, worauf sich das letztere, ähnlich dem Subject, noch einmal in Nomen und Attribut trennen kann. Ist das Prädicat aber ein verbales, so kann es sich in Verbum und Object gliedern oder in das eigentliche und das ergänzende Prädicat. Selbst da wo sich ein näheres und ein entfernteres Object mit dem Verbum verbinden, erhält sich diese fortschreitende Zweitheilang. Denn hiebei [sic!] bildet zunächst das Verbum mit dem s.g. näheren Object ein einheitliches Prädicat, welches dem entfernteren Object gegenübertritt, worauf dann erst jenes Prädicat wieder in das die Handlung ausdrückende Verbum und in das Object, auf welches sich die Handlung beziebt, getrennt wird. In dem Satz 'er unterrichtet den Knaben in Musik' bildet 'er unterrichtet in Musik' zunächst eine einheitliche Vorstellung, die den Knaben
+als das Object, auf das sie bezogen wird, sich gegenüber hat; dann erst
+zerlegt sich jene Vorstellung wieder in ihre beiden Bestandteile." (p. 54)
+
+(picture p. 56 with equivalence between grammatical structure and logical binary structure)
+
 Wundt's discussion of the 'old grammarians' [@wundt1900b: 222-224], arguing against the 'copula-theory'
 
 See [@picardi2022: 24-26] for the relation with Frege
