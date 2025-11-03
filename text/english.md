@@ -656,6 +656,10 @@ Fry [@fry1925: 12] commenting on Palser/Lewis: “all the chief features of my m
 
 ### Wundt (1880) *Logik* {#sec:wundt1880}
 
+- apperception, influence from Leibniz
+- recurring Vorlesungen about psychology of language in Leipzig https://histvv.uni-leipzig.de/dozenten/wundt_w.html
+- Many biographical works ona works about his concept of psychology. no work on his concept of language?
+
 Hypothesis that Wundt influenced Bloomfield: [@percival1976: 234-235 gives various detailed arguments]
 
 not much effect in German linguistics, but see Delbrück 136ff https://books.google.de/books?id=BAQLAAAAMAAJ (no graphics though) https://doi.org/10.1515/9783111457642
