@@ -26,6 +26,8 @@ The term *bekleidet* leads to a lot of discussion, because of the sexual connota
 >
 > ('To speak of naked and dressed sentences is tasteless, to speak of naked and extended sentences is not much more tasteful and also contains a distorted contrast that would not be tolerated in any student's work.')
 
+> Seit lange (ich weiß nicht, seit wann) wird in der deutschen Grammatik gelehrt, daß ein nackter Satz wie *die Sonne scheint* die ursprünglichste Satzform darstelle und daß die Erweiterungen in einem bekleideten Satze wie z.B. *die helle Sonne bescheint die erfrischten Fluren* ihrerseits aus nackten Sätzen hervorgegangen sind. [@delbruck1901: 150]
+
 ### *Periode*
 
 The term *Periode* as a grammatical term for the complex sentence is widespread in German 18th and 19th Century grammatical texts. It is used already by Meiner [-@meiner1781: 446] and Heyse [-@heyse1814: 491] and appears in many works to be discussed in this chapter. The precise definition is constantly being disputed, but most authors use the term *Periode* for a complex sentence with many subordinated clauses.

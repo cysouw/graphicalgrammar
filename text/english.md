@@ -656,13 +656,13 @@ Fry [@fry1925: 12] commenting on Palser/Lewis: “all the chief features of my m
 
 ### Wundt (1880) *Logik* {#sec:wundt1880}
 
+Survey of literature about Wundt's approach to language in [@knobloch1992]
+
 - apperception, influence from Leibniz
 - recurring Vorlesungen about psychology of language in Leipzig https://histvv.uni-leipzig.de/dozenten/wundt_w.html
 - Many biographical works ona works about his concept of psychology. no work on his concept of language?
 
 Hypothesis that Wundt influenced Bloomfield: [@percival1976: 234-235 gives various detailed arguments]
-
-not much effect in German linguistics, but see Delbrück 136ff https://books.google.de/books?id=BAQLAAAAMAAJ (no graphics though) https://doi.org/10.1515/9783111457642
 
 Debate about logical analysis: Wundt proposes recursive subject-predicate pairing as a model for though and language: note that this is the logical tradition of the terminology, not the grammatical!
 
@@ -678,13 +678,43 @@ zerlegt sich jene Vorstellung wieder in ihre beiden Bestandteile." (p. 54)
 
 (picture p. 56 with equivalence between grammatical structure and logical binary structure)
 
+::: {.im #wundt1893_62}
+Equivalence between grammatical structure (left) and logical binary structure (right) from Wundt [-@wundt1880: 56]. The graphic shown here is from second edition because of better printing quality [@wundt1893: 62].
+:::
+
+for complex sentences, Wundt distinguishes (334) *Parataxe* (conjunction, straight line), *Relativsatz* (relative clause) and *Konjunktiver Nebensatz* (remains unclear, no examples, curved line), *attributive Satzformen* (non-finite clauses: only very strange examples from non-european languages, without any details, only on the basis of crude glossing)
+
+He does not seem to understand the difference between a relative clause and a complement clause, complement clauses are depicted like relative clauses.
+
+most discussion uses only capital letters in diagrams, but the complex sentence suddenly reverts to the Lehmann-tradtion, using lower case for subordinate clauses and uppercase for main clauses (only in the second example).
+
+Wundt discusses two more elaborate examples of his syntactic analysis using sentences from Goethe's *Die Leiden des jungen Werthers* [@next a,b]. The graphical analysis of these sentences is shown in [@fig:wundt1900_351a] and [@fig:wundt1900_351b], respectively. The annotation letters in the example sentences are reproduced here verbatim as used by Wundt to explain the relation between the sentences and the graphical analysis. After the second example he then concludes that these two examples are sufficient to explain his analytical approach:
+
+> Das ergibt folgende Strukturformel, die nach dem Vorangegangenen wohl keines weiteren Kommentars bedarf. [@wundt1900b: 351]
+>
+> ('This results in the following structural formula, that – given the preceding discussion – does not need any further explanation.')
+
+
+::: ex
+- Wenn ich zu meinem Fenster hinaus an den fernen Hügel sehe [(a^⏜^b)]{.grey}, wie die Morgensonne über ihn her durch den stillen Nebel durchbricht [(a~1~^⏜^b~1~)]{.grey}, und den stillen Wiesengrund bescheint [(G~1~)]{.grey}, und der sanfte Fluß zwischen seinen entblätterten Eichen zu mir herschlängelt [(G~2~)]{.grey} — O! wenn da diese herrliche Natur so starr vor mir stellt wie ein lackiertes Bildchen [(G~3~)]{.grey}, und alle die Wonne [(a~4~)]{.grey} keinen Tropfen Seligkeit hinauf in das Gehirn pumpen [(b~4~)]{.grey} kann [(G~4~)]{.grey}, und der ganze Kerl [(a~5~)]{.grey} vor Gottes Angesicht steht [(G~5~)]{.grey} wie ein versiegter Brunnen [(b~5~)]{.grey}, wie ein verlechter Eimer [(b~6~)]{.grey}. [@wundt1900b: 350, citing Goethe, *Die Leiden des jungen Werthers*, annotation letters in original]
+- Als er sich den Vorwurf sehr zu Herzen zu nehmen schien [(a^⏜^b)]{.grey}, und immer aufs neue beteuerte [(c)]{.grey}, daß er gewiß gern mitteile [(d)]{.grey}, gern für Freunde tätig sei [(e)]{.grey}, so empfand sie [(A^⏜^B)]{.grey}, daß sie sein zartes Gemüt verletzt habe [(a~1~^⏜^b~1~)]{.grey}, und sie fühlte sich als seine Schuldnerin [(A^⏜^D)]{.grey}. [@wundt1900b: 351, citing Goethe, *Die Leiden des jungen Werthers*, annotation letters in original]
+:::
+
+::: {.im #wundt1900_351a}
+Analysis of [@last a] from Wundt [-@wundt1900b: 351]
+:::
+
+::: {.im #wundt1900_351b}
+Analysis of [@last b] from Wundt [-@wundt1900b: 351]
+:::
+
 Wundt's discussion of the 'old grammarians' [@wundt1900b: 222-224], arguing against the 'copula-theory'
 
 See [@picardi2022: 24-26] for the relation with Frege
 
-See [@dittrich1902] for a direct following of Wundt in Germany.
+See [@dittrich1902] for a direct following of Wundt in Germany. Later work, but without any graphical grammar: https://nbn-resolving.org/urn:nbn:de:bvb:355-ubr24651-6
 
-grammarians are not impressed, e.g. Delbrück (1901) "Grundfragen", sort of a review of Wundt (1900) https://doi.org/10.1515/9783111457642
+grammarians are not impressed, e.g. Delbrück [@delbruck1901] "Grundfragen", sort of a review of Wundt (1900) reply by Wundt [@wundt1901]
 
 "So zerlege sich in dem regel-
 mäßig binär aufgebauten Satze das Subjekt in das eigent-
@@ -692,7 +722,7 @@ liche Subjekt und sein Attribut, das Prädikat in das
 Yerbum und das nähere Objekt. Sei dann etwa noch ein
 entfernteres Objekt vorhanden, so trete dieses zu jener
 engeren Verbindung in ein Verhältnis, und so zeige sich
-überall ein Princip der binären Zerlegung." (p.151)
+überall ein Princip der binären Zerlegung." [@delbruck1901: 151]
 
 "Ich bin demnach der Mei-
 nung, daß dieses ganze Princip der fortgesetzten binären
@@ -700,8 +730,7 @@ Zerlegung, von dem Wundt auch in seinem Grundriß
 S. 313 redet, durch die sprachlichen Thatsachen nicht
 empfohlen wird." (p. 153-154)
 
-cf. Sütterlin (1902) p. 159
-https://pure.mpg.de/rest/items/item_2395313_3/component/file_2395312/content
+cf. Sütterlin [@sutterlin1902: 159]
 
 ### Sheffield (1912) *Grammar and thinking* {#sec:sheffield1912}
 
@@ -719,9 +748,9 @@ morphology-formula [@sapir1921]
 
 ### Bloomfield (1933) *Language*
 
-[@bloomfield1933: 161]
+[@bloomfield1933: 160-161] slowly builds up the terminology, which seems to indicate that the terminology is newly developed for this book. He starts with *constituent (or component)* which is *contained in* or *included in* complex forms. The basic building blocks are morphemes, which cannot be further subdivided, and are called *ultimate constituents*. Then, finally, any intermediate grouping are called *immediate constituents*.
 
-[@bloomfield1914: 60-61], cited in Percival (1976:235) clearly thinks about binary branching. Also note the Wundt-inspired psychological reasoning.
+[@bloomfield1914: 60-61], cited in Percival (1976:235) clearly thinks about binary branching. Also note the Wundt-inspired psychological reasoning, also using the term "apperception" (p.60).
 
 Historical survey of Bloomfield and post-Bloomfieldians: [@matthews1993]
 
