@@ -656,7 +656,9 @@ Fry [@fry1925: 12] commenting on Palser/Lewis: “all the chief features of my m
 
 ### Wundt (1880) *Logik* {#sec:wundt1880}
 
-Survey of literature about Wundt's approach to language in [@knobloch1992]
+Wilhelm Maximilian Wundt (1832-1920), professor in Leipzig, was one of the founders of modern psychology. His writings dealt with many subjects, including language. A survey of his linguistic work is presented by Knobloch [-@knobloch1992].
+
+Apperception "formulas" in Steinthal 1871: 198-204, 254, 388, 407-428 https://google.com/books?id=NM7fAAAAMAAJ
 
 - apperception, influence from Leibniz
 - recurring Vorlesungen about psychology of language in Leipzig https://histvv.uni-leipzig.de/dozenten/wundt_w.html
