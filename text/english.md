@@ -656,23 +656,22 @@ Fry [@fry1925: 12] commenting on Palser/Lewis: “all the chief features of my m
 
 ### Wundt (1880) *Logik* {#sec:wundt1880}
 
-Wilhelm Maximilian Wundt (1832-1920), professor in Leipzig, was one of the founders of modern psychology. His writings dealt with many subjects, including language. A survey of his linguistic work is presented by Knobloch [-@knobloch1992].
+Wilhelm Maximilian Wundt (1832-1920), professor in Leipzig, was one of the founders of modern psychology. His writings dealt with many subjects, including language. A survey of his linguistic work is presented by Knobloch [-@knobloch1992]. Concerning the topic of graphical representation of sentence structure, he wrote a few pages about this in his book *Logik* [@wundt1880: 49-70] and later expanded upon his approach in the second volume of the two-volume book *Sprache*, the first part of his ten-volume magnum opus *Völkerpsychologie* [-@wundt1900b: 320-355].
 
-Apperception "formulas" in Steinthal 1871: 198-204, 254, 388, 407-428 https://google.com/books?id=NM7fAAAAMAAJ
+Wondt approaches grammatical structure in very broad and general terms. Consequently, his graphical analysis is not so much rooted in a detailed analysis of grammatical structure but rather in some a-priori logical analysis, which is then applied to language. The basic unit of his analysis is the *apperceptive Verbindung* 'apperceptive connection'. The notion of apperception has a long history in the philosophy of mind, dating back at least to Leibniz. Wundt takes an almost algebraic approach to the analysis of apperception. He might have been influenced by the "formulas" of apperceptive structures as used by Steinthal [-@steinthal1871: 198-204, 254, 388, 407-428], although Wundt does not explicitly cite Steinthal's work. For Wundt, an apperceptive connection is the basic building block of a thought, indicated by a connecting arch:
 
-- apperception, influence from Leibniz
-- recurring Vorlesungen about psychology of language in Leipzig https://histvv.uni-leipzig.de/dozenten/wundt_w.html
-- Many biographical works ona works about his concept of psychology. no work on his concept of language?
+> Die einfachste Form eines Gedankens oder eines in sich abgeschlossenen apperceptiven Vorstellungsverlaufs ist dann gegeben, wenn eine Gesammtvorstellung in zwei mit einander verbundene Theile zerlegt wird. Dies geschieht im einfachen Urtheil. Deuten wir allgemein die apperceptive Verbindung auf einander folgender Vorstellungen durch das Zeichen ^⏜^ an, so ist A^⏜^B das psychologische Symbol des einfachen Urtheils. [@wundt1880: 53]
+>
+> ('The simplest form of a thought or of a self-contained apperceptive sequence of ideas occurs when a complete idea is divided into two interconnected parts. This happens with a simple judgment. If we generally indicate the apperceptive connection of successive elements by the symbol ^⏜^, then A^⏜^B is the psychological symbol for a simple judgment.')
 
-Hypothesis that Wundt influenced Bloomfield: [@percival1976: 234-235 gives various detailed arguments]
+
+
 
 Debate about logical analysis: Wundt proposes recursive subject-predicate pairing as a model for though and language: note that this is the logical tradition of the terminology, not the grammatical!
 
 "Die successive Apperception dagegen geschieht stets in der Form einer Zweitheilung: sie folgt einem Gesetze, das wir füglich als das Gesetz der Dualität oder der binären Gliederung der Gedanken bezeichnen können." [@wundt1880: 28]
 
 Section: "Die Entwicklung des Gedankenverlaufs (successive Verbindungen des Denkens)" [@wundt1880: 49-70]
-
-Die einfachste Form eines Gedankens oder eines in sich abgeschlossenen apperceptiven Vorstellungsverlaufs ist dann gegeben, wenn eine Gesammtvorstellung in zwei mit einander verbundene Theile zerlegt wird. Dies geschieht im einfachen Urtheil. Deuten wir allgemein die apperceptive Verbindung auf einander folgender Vorstellungen durch das Zeichen  ͡  an, so ist A ͡ B das psychologische Symbol des einfachen Urtheils. (p.53)
 
 "Dieses Princip der Dualität oder der binären Verbindung hat in den Kategorieen der grammatischen Syntax seinen unverkennbaren Ausdruck gefunden. Denn alle diese Kategorieen führen zurück auf je zwei Vorstellungen, die mit einander in Beziehung gesetzt sind. So werden zunächst die beiden Hauptvorstellungen, die der ersten Gliederung des Gedankens entsprechen, als Subject und Prädicat unterschieden. Das Subject kann wieder gegliedert sein in Nomen und Attribut. Das Prädicat zerfällt, sofern es ein nominales ist, in die Copula und das eigentliche Prädicat, worauf sich das letztere, ähnlich dem Subject, noch einmal in Nomen und Attribut trennen kann. Ist das Prädicat aber ein verbales, so kann es sich in Verbum und Object gliedern oder in das eigentliche und das ergänzende Prädicat. Selbst da wo sich ein näheres und ein entfernteres Object mit dem Verbum verbinden, erhält sich diese fortschreitende Zweitheilang. Denn hiebei [sic!] bildet zunächst das Verbum mit dem s.g. näheren Object ein einheitliches Prädicat, welches dem entfernteren Object gegenübertritt, worauf dann erst jenes Prädicat wieder in das die Handlung ausdrückende Verbum und in das Object, auf welches sich die Handlung beziebt, getrennt wird. In dem Satz 'er unterrichtet den Knaben in Musik' bildet 'er unterrichtet in Musik' zunächst eine einheitliche Vorstellung, die den Knaben
 als das Object, auf das sie bezogen wird, sich gegenüber hat; dann erst
@@ -716,23 +715,16 @@ See [@picardi2022: 24-26] for the relation with Frege
 
 See [@dittrich1902] for a direct following of Wundt in Germany. Later work, but without any graphical grammar: https://nbn-resolving.org/urn:nbn:de:bvb:355-ubr24651-6
 
-grammarians are not impressed, e.g. Delbrück [@delbruck1901] "Grundfragen", sort of a review of Wundt (1900) reply by Wundt [@wundt1901]
+German grammarians are not impressed, and his graphical analysis is completely ignored, e.g. Delbrück [@delbruck1901] "Grundfragen", sort of a review of Wundt (1900) reply by Wundt [@wundt1901]
 
-"So zerlege sich in dem regel-
-mäßig binär aufgebauten Satze das Subjekt in das eigent-
-liche Subjekt und sein Attribut, das Prädikat in das
-Yerbum und das nähere Objekt. Sei dann etwa noch ein
-entfernteres Objekt vorhanden, so trete dieses zu jener
-engeren Verbindung in ein Verhältnis, und so zeige sich
-überall ein Princip der binären Zerlegung." [@delbruck1901: 151]
+"So zerlege sich in dem regelmäßig binär aufgebauten Satze das Subjekt in das eigentliche Subjekt und sein Attribut, das Prädikat in das Yerbum und das nähere Objekt. Sei dann etwa noch ein entfernteres Objekt vorhanden, so trete dieses zu jener engeren Verbindung in ein Verhältnis, und so zeige sich überall ein Princip der binären Zerlegung." [@delbruck1901: 151]
 
-"Ich bin demnach der Mei-
-nung, daß dieses ganze Princip der fortgesetzten binären
-Zerlegung, von dem Wundt auch in seinem Grundriß
-S. 313 redet, durch die sprachlichen Thatsachen nicht
-empfohlen wird." (p. 153-154)
+"Ich bin demnach der Meinung, daß dieses ganze Princip der fortgesetzten binären Zerlegung, von dem Wundt auch in seinem Grundriß S. 313 redet, durch die sprachlichen Thatsachen nicht
+empfohlen wird." [@delbruck1901: 153-154]
 
 cf. Sütterlin [@sutterlin1902: 159]
+
+Hypothesis that Wundt influenced Bloomfield: [@percival1976: 234-235 gives various detailed arguments], but again no pictures. The basic assumption of binary analysis pervasive in US-american 20th century analyses can probably be tracked back to Wundt.
 
 ### Sheffield (1912) *Grammar and thinking* {#sec:sheffield1912}
 
