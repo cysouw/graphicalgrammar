@@ -91,4 +91,4 @@ There seem to be at least two reasons:
 - First, the opposition subject/predicate with many authors becomes just a updated terminological replacement for the classical linguistic concepts of Greek *ὄνομᾰ*/*ῥῆμα* or Latin *suppositum/appositum*.
 - Second, IE verb inflection
 - Argument against: developing ideas about the verb as centre of the sentence, projecting roles/arguments.
-- argument against the copula-theory, e.g. Wundt 1880.
+- argument against the copula-theory, e.g. Wundt 1880. Wundt's discussion of the 'old grammarians' [@wundt1900b: 222-224], arguing against the 'copula-theory'

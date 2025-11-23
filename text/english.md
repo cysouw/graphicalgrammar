@@ -656,75 +656,75 @@ Fry [@fry1925: 12] commenting on Palser/Lewis: “all the chief features of my m
 
 ### Wundt (1880) *Logik* {#sec:wundt1880}
 
-Wilhelm Maximilian Wundt (1832-1920), professor in Leipzig, was one of the founders of modern psychology. His writings dealt with many subjects, including language. A survey of his linguistic work is presented by Knobloch [-@knobloch1992]. Concerning the topic of graphical representation of sentence structure, he wrote a few pages about this in his book *Logik* [@wundt1880: 49-70] and later expanded upon his approach in the second volume of the two-volume book *Sprache*, the first part of his ten-volume magnum opus *Völkerpsychologie* [-@wundt1900b: 320-355].
+Wilhelm Maximilian Wundt (1832-1920), professor in Leipzig, was one of the founders of modern psychology, but his writings touched on a wide range of topics including language. A survey of his linguistic work is presented by Knobloch [-@knobloch1992]. As for the graphical representation of sentence structure, he wrote a few pages about this in the first volume of his book *Logik* [@wundt1880: 49-70] and later expanded upon his approach in his ten-volume magnum opus *Völkerpsychologie*, specifically, in the second volume of the two-volume book *Sprache* [-@wundt1900b: 320-355].
 
-Wundt approaches grammatical structure in very broad and general terms. Consequently, his graphical analysis is not so much rooted in a detailed analysis of grammatical structure but rather in a-priori logical analysis, which is then applied to language. The basic unit of his analysis is the *apperceptive Verbindung* 'apperceptive connection'. The notion of apperception has a long history in the philosophy of mind, dating back at least to Leibniz. Wundt takes an almost algebraic approach to the analysis of apperception. He might have been influenced by the "formulas" of apperceptive structures as used by Steinthal [-@steinthal1871: 198-204, 254, 388, 407-428], although Wundt does not explicitly cite Steinthal's work. For Wundt, an apperceptive connection is the basic building block of a thought, indicated visually by a connecting arch:
+Wundt approaches grammatical structure in very broad and general terms. Consequently, his graphical analysis is not so much rooted in a detailed analysis of grammatical structure but rather in a-priori logical analysis, which is then applied to language. The basic unit of his analysis is the *apperceptive Verbindung* 'apperceptive connection'. The notion of apperception has a long history in the philosophy of mind, dating back at least to Leibniz. Wundt takes an almost algebraic approach to the analysis of apperception, which  might have been influenced by the "formulas" of apperceptive structures as used by Steinthal [-@steinthal1871: 198-204, 254, 388, 407-428], though Wundt does not cite this aspect of Steinthal's work. Incidentally, Wundt's *Logik* appears just a year after Frege's *Begriffsschrift* [@frege1879], which also uses graphical representations of logical formulas, though there does not seem to have been any direct influence from Frege on Wundt's thinking [see @picardi2022: 24-26 for the relatively positive view of Frege about Wundt's philosophical approach to logic and language].
+
+For Wundt, an apperceptive connection is the basic building block of a thought, indicated visually by a connecting arch. There appears to be a direct through-line from Wundt's apperceptive connections to the 20th century concept of syntactic constituents first proposed by Blooomfield in 1933 (see [@sec:bloomfield1933]).
 
 > Die einfachste Form eines Gedankens oder eines in sich abgeschlossenen apperceptiven Vorstellungsverlaufs ist dann gegeben, wenn eine Gesammtvorstellung in zwei mit einander verbundene Theile zerlegt wird. Dies geschieht im einfachen Urtheil. Deuten wir allgemein die apperceptive Verbindung auf einander folgender Vorstellungen durch das Zeichen ^⏜^ an, so ist A^⏜^B das psychologische Symbol des einfachen Urtheils. [@wundt1880: 53]
 >
 > ('The simplest form of a thought or a self-contained apperceptive sequence of ideas occurs when a complete idea is divided into two interconnected parts. This happens with a simple judgment. If we generally indicate the apperceptive connection of successive elements by the symbol ^⏜^, then A^⏜^B is the psychological symbol for a simple judgment.')
 
+Such an apperceptive connection can be recursively applied, leading to a binary-branching structure of thought. This is probably the first explicit proposal to exlusively use binary branching for the analysis of though and language. Wundt even calls this the *Gesetz der Dualität* 'law of duality'. However, this law is purely a-priori in the work of Wundt. He does not give any argument why this law should apply, instead he simply assumes that binary division is the only option.
 
-
-
-Debate about logical analysis: Wundt proposes recursive subject-predicate pairing as a model for though and language: note that this is the logical tradition of the terminology, not the grammatical!
-
-"Die successive Apperception dagegen geschieht stets in der Form einer Zweitheilung: sie folgt einem Gesetze, das wir füglich als das Gesetz der Dualität oder der binären Gliederung der Gedanken bezeichnen können." [@wundt1880: 28]
-
-Section: "Die Entwicklung des Gedankenverlaufs (successive Verbindungen des Denkens)" [@wundt1880: 49-70]
-
-"Dieses Princip der Dualität oder der binären Verbindung hat in den Kategorieen der grammatischen Syntax seinen unverkennbaren Ausdruck gefunden. Denn alle diese Kategorieen führen zurück auf je zwei Vorstellungen, die mit einander in Beziehung gesetzt sind. So werden zunächst die beiden Hauptvorstellungen, die der ersten Gliederung des Gedankens entsprechen, als Subject und Prädicat unterschieden. Das Subject kann wieder gegliedert sein in Nomen und Attribut. Das Prädicat zerfällt, sofern es ein nominales ist, in die Copula und das eigentliche Prädicat, worauf sich das letztere, ähnlich dem Subject, noch einmal in Nomen und Attribut trennen kann. Ist das Prädicat aber ein verbales, so kann es sich in Verbum und Object gliedern oder in das eigentliche und das ergänzende Prädicat. Selbst da wo sich ein näheres und ein entfernteres Object mit dem Verbum verbinden, erhält sich diese fortschreitende Zweitheilang. Denn hiebei [sic!] bildet zunächst das Verbum mit dem s.g. näheren Object ein einheitliches Prädicat, welches dem entfernteren Object gegenübertritt, worauf dann erst jenes Prädicat wieder in das die Handlung ausdrückende Verbum und in das Object, auf welches sich die Handlung beziebt, getrennt wird. In dem Satz 'er unterrichtet den Knaben in Musik' bildet 'er unterrichtet in Musik' zunächst eine einheitliche Vorstellung, die den Knaben
-als das Object, auf das sie bezogen wird, sich gegenüber hat; dann erst
-zerlegt sich jene Vorstellung wieder in ihre beiden Bestandteile." (p. 54)
-
-(picture p. 56 with equivalence between grammatical structure and logical binary structure)
-
-::: {.im #wundt1893_62}
-Equivalence between grammatical structure (left) and logical binary structure (right) from Wundt [-@wundt1880: 56]. The graphic shown here is from second edition because of better printing quality [@wundt1893: 62].
-:::
-
-for complex sentences, Wundt distinguishes (334) *Parataxe* (conjunction, straight line), *Relativsatz* (relative clause) and *Konjunktiver Nebensatz* (remains unclear, no examples, curved line), *attributive Satzformen* (non-finite clauses: only very strange examples from non-european languages, without any details, only on the basis of crude glossing)
-
-He does not seem to understand the difference between a relative clause and a complement clause, complement clauses are depicted like relative clauses.
-
-most discussion uses only capital letters in diagrams, but the complex sentence suddenly reverts to the Lehmann-tradtion, using lower case for subordinate clauses and uppercase for main clauses (only in the second example).
-
-Wundt discusses two more elaborate examples of his syntactic analysis using sentences from Goethe's *Die Leiden des jungen Werthers* [@next a,b]. The graphical analysis of these sentences is shown in [@fig:wundt1900_351a] and [@fig:wundt1900_351b], respectively. The annotation letters in the example sentences are reproduced here verbatim as used by Wundt to explain the relation between the sentences and the graphical analysis. After the second example he then concludes that these two examples are sufficient to explain his analytical approach:
-
-> Das ergibt folgende Strukturformel, die nach dem Vorangegangenen wohl keines weiteren Kommentars bedarf. [@wundt1900b: 351]
+> Die successive Apperception dagegen geschieht stets in der Form einer Zweitheilung: sie folgt einem Gesetze, das wir füglich als das Gesetz der Dualität oder der binären Gliederung der Gedanken bezeichnen können. [@wundt1880: 28]
 >
-> ('This results in the following structural formula, that – given the preceding discussion – does not need any further explanation.')
+> ("Successive apperception, on the other hand, always occurs in the form of a division into two: it follows a law that we can aptly call the law of duality or the binary organization of thoughts.")
 
+According to Wundt, this logical binary division is also found in the structure of linguistic utterances. His argumentation is quoted below in full, because he does not explicitly discuss various example sentences to illustrate how his syntactic analysis is supposed to work.
+
+> Dieses Princip der Dualität oder der binären Verbindung hat in den Kategorieen der grammatischen Syntax seinen unverkennbaren Ausdruck gefunden. Denn alle diese Kategorieen führen zurück auf je zwei Vorstellungen, die mit einander in Beziehung gesetzt sind. So werden zunächst die beiden Hauptvorstellungen, die der ersten Gliederung des Gedankens entsprechen, als Subject und Prädicat unterschieden. Das Subject kann wieder gegliedert sein in Nomen und Attribut. Das Prädicat zerfällt, sofern es ein nominales ist, in die Copula und das eigentliche Prädicat, worauf sich das letztere, ähnlich dem Subject, noch einmal in Nomen und Attribut trennen kann. Ist das Prädicat aber ein verbales, so kann es sich in Verbum und Object gliedern oder in das eigentliche und das ergänzende Prädicat. Selbst da wo sich ein näheres und ein entfernteres Object mit dem Verbum verbinden, erhält sich diese fortschreitende Zweitheilang. Denn hiebei [sic!] bildet zunächst das Verbum mit dem s.g. näheren Object ein einheitliches Prädicat, welches dem entfernteren Object gegenübertritt, worauf dann erst jenes Prädicat wieder in das die Handlung ausdrückende Verbum und in das Object, auf welches sich die Handlung beziebt, getrennt wird. In dem Satz 'er unterrichtet den Knaben in Musik' bildet 'er unterrichtet in Musik' zunächst eine einheitliche Vorstellung, die den Knaben als das Object, auf das sie bezogen wird, sich gegenüber hat; dann erst zerlegt sich jene Vorstellung wieder in ihre beiden Bestandteile. [@wundt1880: 54]
+>
+> ("This principle of duality or binary connection has found its unmistakable expression in the categories of grammatical syntax. For all these categories lead back to two concepts that are related to one another. Thus, the two main concepts corresponding to the initial division of thought are distinguished as subject and predicate. The subject can be further divided into noun and attribute. The predicate, insofar as it is nominal, is divided into the copula and the proper predicate, the latter of which, similar to the subject, can again be divided into noun and attribute. If, however, the predicate is verbal, it can be divided into verb and object, or into the proper and the complementary predicate. Even where a closer and a more distant object combine with the verb, this progressive division is maintained. For here, the verb initially forms a unified predicate with the so-called nearer object, which contrasts with the more distant object. Only then is that predicate separated again into the verb expressing the action and the object to which the action refers. In the sentence 'he teaches music to the boy' the part 'he teaches music' initially forms a unified concept, which has the boy as the object to which it refers; only then does that concept break down again into its two components.")
+
+The equivalence between syntactic structure and binary-branching subject-predicate structures is illustrated graphically by Wundt as shown in [@fig:wundt1893_62]. A syntactic structure is shown to the left, which is proposed to be equivalent to the logical structure to the right. This graphic does not explicitly analyse a specific sentence, but from the text it is clear that a sentence like [@next] is intended. The abbreviations from the graphic are added in grey into this examples sentence. The meanings of these abbreviations as explained by Wundt are listed below [-@wundt1880: 55-56].^[The usage of apostrophes is eerily similar to the way they were sometimes used as an easier-to-type alternative in Chomsky's X-bar approach from the 1980s. However, this seems to be a purely coincidental parallel.] It is not completely clear where Wundt would place the actual lexical verb into this structure. From a modern point of view it makes most sense to consider *v* and *v'* as phrasal constituents, while the leaf-node *v"* is the locus of the lexical verb. However, Wundt's text remains ambigious about this. He does not use a syntactic term like "constituent" at all and all three nodes marked *v* are identically called *Verbalvorstellung* 'verbal concept'.
+
+- s: *Gegenstandsvorstellung*
+- a: *Attribut*
+- v: *Verbalvorstellung*
+- v': *Verbalvorstellung zweiter Ordnung*
+- v'': *Verbalvorstellung dritter Ordnung*
+- o: *entfernteres Object*
+- o': *näheres Object*
+- a': *adverbiale Bestimmung*
 
 ::: ex
-- Wenn ich zu meinem Fenster hinaus an den fernen Hügel sehe [(a^⏜^b)]{.grey}, wie die Morgensonne über ihn her durch den stillen Nebel durchbricht [(a~1~^⏜^b~1~)]{.grey}, und den stillen Wiesengrund bescheint [(G~1~)]{.grey}, und der sanfte Fluß zwischen seinen entblätterten Eichen zu mir herschlängelt [(G~2~)]{.grey} — O! wenn da diese herrliche Natur so starr vor mir stellt wie ein lackiertes Bildchen [(G~3~)]{.grey}, und alle die Wonne [(a~4~)]{.grey} keinen Tropfen Seligkeit hinauf in das Gehirn pumpen [(b~4~)]{.grey} kann [(G~4~)]{.grey}, und der ganze Kerl [(a~5~)]{.grey} vor Gottes Angesicht steht [(G~5~)]{.grey} wie ein versiegter Brunnen [(b~5~)]{.grey}, wie ein verlechter Eimer [(b~6~)]{.grey}. [@wundt1900b: 350, citing Goethe, *Die Leiden des jungen Werthers*, annotation letters in original]
-- Als er sich den Vorwurf sehr zu Herzen zu nehmen schien [(a^⏜^b)]{.grey}, und immer aufs neue beteuerte [(c)]{.grey}, daß er gewiß gern mitteile [(d)]{.grey}, gern für Freunde tätig sei [(e)]{.grey}, so empfand sie [(A^⏜^B)]{.grey}, daß sie sein zartes Gemüt verletzt habe [(a~1~^⏜^b~1~)]{.grey}, und sie fühlte sich als seine Schuldnerin [(A^⏜^D)]{.grey}. [@wundt1900b: 351, citing Goethe, *Die Leiden des jungen Werthers*, annotation letters in original]
+Der [a]{.grey} alte [s]{.grey} Lehrer [v'']{.grey} unterrichtet [a']{.grey} morgen [o]{.grey} den Knaben [o']{.grey} in Musik
+:::
+
+::: {.im #wundt1893_62}
+Equivalence between grammatical structure (left) and logical binary structure (right) from Wundt [-@wundt1880: 56]. The graphic shown here is from second edition because of better printing quality [@wundt1893: 62]. Wundt does not provide an explicit German sentence, whose structure would be illustrated with this graphic, but from Wundt's description an example sentence like [@last] can be inferred.
+:::
+
+Wundt extends his linguistic analysis into two large volumes in his book *Sprache*, which start off his ten-volume *Völkerpsychologie*. Specifically in the second volume [@wundt1900b] he dives deep into grammatical analysis. In Chapter 7, Section 5 *Gliederung des Satzes und Satzformen* [@wundt1900b: 309-346] he revisits his graphical approach to the analysis of syntax. Confusingly, Wundt does not repeat the basic analysis of a simple sentence, as presented above from his 1880 work. Instead, there is a lengthy discussion of porported structures from a few "exotic" languages like Wolof and Jakut, but only using very crude German glossings of the original examples, never once even citing any real sentence from those languages.
+
+Wundt discusses two more elaborate examples of his syntactic analysis using sentences from Goethe's *Die Leiden des jungen Werthers*, repeated here in [@next a,b]. These sentences are typical examples as found in 19th century German grammatical analysis, consisting of multiple subordinate clauses. The graphical analysis of these sentences is shown in [@fig:wundt1900_351a] and [@fig:wundt1900_351b], respectively. The annotation letters in the example sentences in [@next] are reproduced here verbatim as used by Wundt to explain the relation between the sentences and the graphical analysis. After the first example he concludes that his (very short) description is sufficient to explain his analytical approach. Instead of explaining his second example, he simple states: *das ergibt folgende Strukturformel, die nach dem Vorangegangenen wohl keines weiteren Kommentars bedarf* 'this results in the following structural formula, that – given the preceding discussion – does not need any further explanation' [@wundt1900b: 351]. However, quite to the contrary, on closer inspection his syntactic analysis is difficult to follow and quite sloppy. It comes nowhere near the highly precise dissections as found in the works of many of the 19th century German syntacticians.
+
+::: ex
+- Wenn ich zu meinem Fenster hinaus an den fernen Hügel sehe [(a^⏜^b)]{.grey}, wie die Morgensonne über ihn her durch den stillen Nebel durchbricht [(a~1~^⏜^b~1~)]{.grey}, und den stillen Wiesengrund bescheint [(G~1~)]{.grey}, und der sanfte Fluß zwischen seinen entblätterten Eichen zu mir herschlängelt [(G~2~)]{.grey} — O! wenn da diese herrliche Natur so starr vor mir steht wie ein lackiertes Bildchen [(G~3~)]{.grey}, und alle die Wonne [(a~4~)]{.grey} keinen Tropfen Seligkeit hinauf in das Gehirn pumpen [(b~4~)]{.grey} kann [(G~4~)]{.grey}, und der ganze Kerl [(a~5~)]{.grey} vor Gottes Angesicht steht [(G~5~)]{.grey} wie ein versiegter Brunnen [(b~5~)]{.grey}, wie ein verlechter Eimer [(b~6~)]{.grey}. \
+[@wundt1900b: 350, citing Goethe, *Die Leiden des jungen Werthers*, abbreviations verbatim as in Wundt's text]
+- Als er sich den Vorwurf sehr zu Herzen zu nehmen schien [(a^⏜^b)]{.grey}, und immer aufs neue beteuerte [(c)]{.grey}, daß er gewiß gern mitteile [(d)]{.grey}, gern für Freunde tätig sei [(e)]{.grey}, so empfand sie [(A^⏜^B)]{.grey}, daß sie sein zartes Gemüt verletzt habe [(a~1~^⏜^b~1~)]{.grey}, und sie fühlte sich als seine Schuldnerin [(A^⏜^D)]{.grey}. \
+[@wundt1900b: 351, citing Goethe, *Die Leiden des jungen Werthers*, abbreviations verbatim as in Wundt's text]
 :::
 
 ::: {.im #wundt1900_351a}
-Analysis of [@last a] from Wundt [-@wundt1900b: 351]
+Graphical analysis of [@last a] from Wundt [-@wundt1900b: 351]. The capital letter *G* stands for *Gesammtvorstellung* 'complete idea' and is used for what today would be called a clause. This example is actually unusual (as explicitly noted by Wundt), because the sentence is syntactically incomplete, as indicated by the empty right part of the main bracket. The arches and straight-line connections are applied rather inconsistently, indicating that Wundt did not realy grasp how a constituency analysis (in its modern sense) works.
 :::
 
 ::: {.im #wundt1900_351b}
-Analysis of [@last b] from Wundt [-@wundt1900b: 351]
+Graphical analysis of [@last b] from Wundt [-@wundt1900b: 351]. He introduces (without explanation) round brackets for non-repeated subjects on the left side. This graphical analysis seems to use to old tradition to reserve capital letters for main clauses and lowercase letters for subordinate clauses, a convention originally introduced by Lehmann in 1833 (see [@sec:lehmann1833]). However, this convention is never explained by Wundt.
 :::
 
-Wundt's discussion of the 'old grammarians' [@wundt1900b: 222-224], arguing against the 'copula-theory'
+These syntactic analyses by Wundt are very inprecise and inconsistent, indicating that Wundt was not really interested in the minute details of the syntactic structure of these sentences. He appears to be confused about what is a *Gesammtvorstellung* (i.e. what is a clausal constituent), what are its parts, and how the various clauses relate to each other. For clause combinations, Wundt distinguishes [-@wundt1900b: 334] *Parataxe* (including conjunction, using a straight line), *Relativsatz* (relative clause, using some kind of subscript in the analysis) and *conjunctiver Nebensatz* (adverbial clauses, using the curved arch). He never mentions complement clauses, but in [@fig:wundt1900_351b] he simply positions those below the matric clause. Wundt also talks about *attributive Satzformen* (non-finite clauses), but he only discusses rather incomprehensible examples from non-european languages, without any details and only on the basis of crude German glossing. The lowercase letters appear intended to indicate subject and predicate of a subordinate clause, which together should form a clause, for which he sometimes (but not always) uses the uppercase *G*. However, all these visual mechanisms are applied haphazardly, and often simply erroneously. It would take too long to explain all errors in Wundt's analyses, so I will just point to a few of the many problems.
 
-See [@picardi2022: 24-26] for the relation with Frege
+In the first sentence, the topmost clause *G* is actually incomplete (as explicitly noted by Wundt) because the main clause is missing. This is (correctly) indicated by the empty right side of the main arch. However, different from Wundt's analysis, the left (subordinate) side consists of two long conditional clauses introduced by *wenn*. These two should have been marked as being conjoined as a *Parataxe*. The internal structure of these two *wenn* clauses is complemently wrong in Wundt's analysis.
 
-See [@dittrich1902] for a direct following of Wundt in Germany. Later work, but without any graphical grammar: https://nbn-resolving.org/urn:nbn:de:bvb:355-ubr24651-6
+In the second example Wundt does not use any internal capital letter *G*, but there are uppercase letters *A,B,C,D*, probably indicating subject and predicate of main clauses. This is reminiscent of the Lehmann tradition, using capital letters for main clauses and lowercase for subordinate clauses (see [@sec:lehmann1833]). On the left side, the lowercase *(a)* in brackets seems to suggest an omitted subject, though the subject of predicate *d* is actually present. Wundt also appears to mark complements clauses (introduced with *daß*) by simply positioning them below their matrix clauses (without explanation), but erroneously links the last main clause *(A^⏜^D)* to the complement clause, instead of to the main clause *(A^⏜^C)*. The use of the subscripts on the right side seems superfluous.
 
-German grammarians are not impressed, and his graphical analysis is completely ignored, e.g. Delbrück [@delbruck1901] "Grundfragen", sort of a review of Wundt (1900) reply by Wundt [@wundt1901]
+German grammarians are not impressed by Wundt's linguistic analysis, and his graphical analysis is completely ignored. Extensive reviews of Wundt's book *Sprache* are written by Delbrück [-@delbruck1901] and Sütterlin [-@sutterlin1902], leading to a lengthy reply by Wundt [-@wundt1901] and by his student Dittrich [-@dittrich1902]. Only Dittrich in passing mentions the graphical approach. Delbrück off-handedly dismisses the idea of binary branching: *Ich bin demnach der Meinung, daß dieses ganze Princip der fortgesetzten binären Zerlegung […] durch die sprachlichen Thatsachen nicht empfohlen wird* 'I am therefore of the opinion that this entire principle of continued binary decomposition […] is not recommended by linguistic facts' [@delbruck1901: 153-154].
 
-"So zerlege sich in dem regelmäßig binär aufgebauten Satze das Subjekt in das eigentliche Subjekt und sein Attribut, das Prädikat in das Yerbum und das nähere Objekt. Sei dann etwa noch ein entfernteres Objekt vorhanden, so trete dieses zu jener engeren Verbindung in ein Verhältnis, und so zeige sich überall ein Princip der binären Zerlegung." [@delbruck1901: 151]
-
-"Ich bin demnach der Meinung, daß dieses ganze Princip der fortgesetzten binären Zerlegung, von dem Wundt auch in seinem Grundriß S. 313 redet, durch die sprachlichen Thatsachen nicht
-empfohlen wird." [@delbruck1901: 153-154]
-
-cf. Sütterlin [@sutterlin1902: 159]
-
-Hypothesis that Wundt influenced Bloomfield: [@percival1976: 234-235 gives various detailed arguments], but again no pictures. The basic assumption of binary analysis pervasive in US-american 20th century analyses can probably be tracked back to Wundt.
+Although Wundt's graphical analysis does not have had any direct followers (except for Sheffield in the USA, [@sec:sheffield1912]), his general approach seems to have influenced Bloomfield ([@sec:bloomfield1933]) and via Bloomfield it has influenced the tradition of *immediate constituents* in the USA, directly leading to Chomsky's generative grammar in the 1960. Specifically the idea of an exclusively binary subdivisions of sentences, a major tenet of Chomsky's approach, is probably directly attributable to Wundt (apparently without Chomsky knowing about this).
 
 ### Sheffield (1912) *Grammar and thinking* {#sec:sheffield1912}
 
@@ -740,11 +740,13 @@ also Alfred Dwight Sheffield [@sheffield1929: 53]
 
 morphology-formula [@sapir1921]
 
-### Bloomfield (1933) *Language*
+### Bloomfield (1933) *Language* {#sec:bloomfield1933}
 
 [@bloomfield1933: 160-161] slowly builds up the terminology, which seems to indicate that the terminology is newly developed for this book. He starts with *constituent (or component)* which is *contained in* or *included in* complex forms. The basic building blocks are morphemes, which cannot be further subdivided, and are called *ultimate constituents*. Then, finally, any intermediate grouping are called *immediate constituents*.
 
 [@bloomfield1914: 60-61], cited in Percival (1976:235) clearly thinks about binary branching. Also note the Wundt-inspired psychological reasoning, also using the term "apperception" (p.60).
+
+Hypothesis that Wundt influenced Bloomfield: [@percival1976: 234-235 gives various detailed arguments], but again no pictures. The basic assumption of binary analysis pervasive in US-american 20th century analyses can probably be tracked back to Wundt.
 
 Historical survey of Bloomfield and post-Bloomfieldians: [@matthews1993]
 
