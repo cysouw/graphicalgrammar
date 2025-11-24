@@ -352,6 +352,10 @@ Born on Sept. 12, 1849, in Maxville, Ind., William Francis Lewis Sanders is the 
 
 1891 *The English sentence* diagrams included at [@sanders1891: 68-end]
 
+### Ridpath (1881) *Inductive grammar of the English language*
+
+[@ridpath1881: 223-247]
+
 ### Eubank (1881) *Key to Harvey's practical grammar*
 
 first edition 1881, cited here revised edition from 1885. Diagramming [@eubank1885: 113-200] "brace system"

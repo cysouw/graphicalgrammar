@@ -614,6 +614,13 @@ https://www.bvfe.es/es/autor/10340-oca-y-merino-esteban.html
 
 Antonio Valcárcel [@garrido-vilchez2023] ???
 
+Senillosa
+
+- María José García Folgado: La gramática general y las enseñanzas lingüísticas
+(1812-1823) <https://zenodo.org/records/3609771>
+- https://www.persee.fr/doc/hel_0750-8069_2012_num_34_2_3250
+- https://es.wikipedia.org/wiki/Felipe_Senillosa
+
 ## Romanian
 
 ### Tiktin (1895) *Gramatica Românǎ*
