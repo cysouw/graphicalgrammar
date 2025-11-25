@@ -551,6 +551,17 @@ Original from 1939, but not diagrams. Takes over Bonnard-style diagrams in 25th 
 
 I thank María José García Folgado for many suggestions
 
+### Senillosa (1817) *Gramática española*
+
+- Senillosa, Felipe Fernando Mariano. "Gramática española, o principios de la gramática general, aplicados á la lengua castellana" (Buenos Aires: Imprenta de los Expósitos, 1817)
+- Narvaja de Arnoux, Elvira. (2012). "La primera gramática escolar 'general' publicada en Buenos Aires en los años de la independencia: la Gramática Española o Principios de la Gramática General aplicados a la Lengua Castellana de Felipe Senillosa." Histoire Épistémologie Langage, 34(2), 43–61. https://doi.org/10.3406/hel.2012.3250
+- María José García Folgado: La gramática general y las enseñanzas lingüísticas
+(1812-1823) <https://zenodo.org/records/3609771>
+- https://www.academia.edu/29208535/Lengua_y_enseñanza_en_el_exilio_Felipe_Senillosa_y_José_Joaquín_de_Mora_en_América
+- https://www.academia.edu/6585785/Estudiar_la_gramática_bajo_un_orden_analítico_la_obra_de_Felipe_Senillosa_1817_
+- https://www.persee.fr/doc/hel_0750-8069_2012_num_34_2_3250
+- https://es.wikipedia.org/wiki/Felipe_Senillosa
+
 ### Montoy (1882) *Análisis gramatical razonado*
 
 Montoy, Joaquim (1882, mayo 12). “Análisis gramatical razonado”. El Clamor del Magisterio, año 17, n°. 19 [@folgado2023]
@@ -605,21 +616,14 @@ https://amsacta.unibo.it/id/eprint/7830/1/129-151%20Esteban%20Lidgett%20et%20al.
 
 Montoro del Arco, Esteban T. (2019). “Métodos y modelos de representación del análisis sintáctico en la gramática escolar española (siglos XIX y XX)”, en: Zamorano Aguilar, A. (coord. y ed.) / González-Fernández, A., Rodríguez-Tapia, S. y González Jiménez, J. M. (eds.): Historiografía de la reflexión sintáctica: metaanálisis y estudios en torno al español, München: LINCOM, 303-335. [Colección: Studies in Spanish Linguistics]
 
-http://hdl.handle.net/10481/67999
-
-https://digibug.ugr.es/bitstream/handle/10481/67999/Metodos_y_modelos_de_representacion_del%20%281%29.pdf?sequence=1
+- https://digibug.ugr.es/handle/10481/67999
+- http://hdl.handle.net/10481/67999
+- https://digibug.ugr.es/bitstream/handle/10481/67999/Metodos_y_modelos_de_representacion_del%20%281%29.pdf?sequence=1
 
 Oca y Merino, Esteban (1851-1924), no real graphical grammar
 https://www.bvfe.es/es/autor/10340-oca-y-merino-esteban.html
 
 Antonio Valcárcel [@garrido-vilchez2023] ???
-
-Senillosa
-
-- María José García Folgado: La gramática general y las enseñanzas lingüísticas
-(1812-1823) <https://zenodo.org/records/3609771>
-- https://www.persee.fr/doc/hel_0750-8069_2012_num_34_2_3250
-- https://es.wikipedia.org/wiki/Felipe_Senillosa
 
 ## Romanian
 
