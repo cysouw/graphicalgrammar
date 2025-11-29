@@ -553,18 +553,51 @@ I thank María José García Folgado for many suggestions
 
 ### Senillosa (1817) *Gramática española*
 
-- Senillosa, Felipe Fernando Mariano. "Gramática española, o principios de la gramática general, aplicados á la lengua castellana" (Buenos Aires: Imprenta de los Expósitos, 1817)
-- Narvaja de Arnoux, Elvira. (2012). "La primera gramática escolar 'general' publicada en Buenos Aires en los años de la independencia: la Gramática Española o Principios de la Gramática General aplicados a la Lengua Castellana de Felipe Senillosa." Histoire Épistémologie Langage, 34(2), 43–61. https://doi.org/10.3406/hel.2012.3250
-- María José García Folgado: La gramática general y las enseñanzas lingüísticas
-(1812-1823) <https://zenodo.org/records/3609771>
-- https://www.academia.edu/29208535/Lengua_y_enseñanza_en_el_exilio_Felipe_Senillosa_y_José_Joaquín_de_Mora_en_América
-- https://www.academia.edu/6585785/Estudiar_la_gramática_bajo_un_orden_analítico_la_obra_de_Felipe_Senillosa_1817_
-- https://www.persee.fr/doc/hel_0750-8069_2012_num_34_2_3250
-- https://es.wikipedia.org/wiki/Felipe_Senillosa
+Felipe Senillosa (1790-1858) was an Argentinean educator and politician of Spanish origin. During the Spanish War of Independence he fled to London, where he met Manual Belgrano and Bernardino Rivadavia, who convinced him to come to Argentina. In Argentina he wrote various educational books, among which was his *Gramática española, o principios de la gramática general, aplicados á la lengua castellana* [@senillosa1817]. The linguistic approach from this grammar has been discussed by Garcia Folgado [-@garcia-folgado2010; -@garcia-folgado2016] and Narvaja de Arnoux [-@narvaja-de-arnoux2012], who has also explored the work of Senillosa in the context of other early 19th century grammar writing in Argentina [@narvaja-de-arnoux2013: 152-158].
+
+Senillosa spends a third of his short grammar on the syntactic analysis of the sentence, called *proposicion* [@senillosa1817: part three, 35-56]. At the end of the book there are even a few extra pages discussing a more complex example [@senillosa1817: 60-63]. Senillosa [-@senillosa1817: 35-36] starts his syntactic analysis with the introduction of the functional elements of a sentence. A *proposicion* 'proposition/sentence' consist of (possibly multiple) *juicios* 'judgements/clauses'. A simple judgement consists minimally of a *sujeto* 'subject' and an *atributo* 'predicate', with optionally additional *complementos* 'objects/verbal complements'. Nouns can be further determined by a *calificativo* 'nominal attribute'.
+
+His syntactic analysis is thoroughly graphical. Senillosa uses two different graphical approaches, one alike to a constituent analysis and one more like a dependency structure. The most widespread approach is a constituent analysis, using lines to indicate the functional parts of a sentence. Subordinate elements are written in subsequent lines of analysis, like the relative clause in [@fig:senillosa1817_37]. These subordinate elements are clearly part of superordinate elements, which makes this a constituent analysis.
+
+::: {.im #senillosa1817_37}
+Graphical constituent analysis of a sentence with a subordinate relative clause from Senillosa [-@senillosa1817: 37]. The first line of the graphic delimits the basic *Sug(eto)* 'subject' and *atr(ibuto)* 'predicate', while the second line analyses the relative clause, which is part of the subject.
+:::
+
+Additionally, Senillosa also uses a graphical display with cross-cutting clauses, which are connected at the position of the modified element, alike to a dependency analysis. This is not used very frequently [e.g. for negation, @senillosa1817: 50], but it is used with much effect in a large graphic at the end of his book for a more complex sentence, shown below in [@fig:senillosa1817_62]. This sentence [@next] is first analysed with underlined hierarchical constituents, as shown in [@fig:senillosa1817_61]. He then proceeds to argue that this sentence actually consists of five separate *juicios* 'judgements/clauses' [@nnext], which relate to each other in an interlocking patterns as shown in [@fig:senillosa1817_62]. All modifying clauses are rephrased as relative clauses, using *los quales/la qual* to refer to the modified element of the superordinate clause.
+
+The main clause of this sentence is written horizontally on the bottom left. The word *los bienes* 'the good things' is modified by two cross-cutting clauses. In the first cross-cutting clause (*Los quales son dos*, bottom right) the subject refers to *los bienes*, while in the second one it is the object (*Los vayvenes no disipáron nunca los quales*, top left to bottom right). The subject *los vayvenes* of this second clause is again modified (*Los quales vienen de la fortuna*, top left to top right). Finally, the object of this clause *la fortuna* is modified by the last clause (*La qual es injusta*, top right).
+
+::: ex
+|
+| La ciencia y la virtud son los dos bienes que los vayvenes de la fortuna injusta no disipáron nunca.
+| the science and the virtue are the two goods that the sways of the fortune unjust no disperse never
+| Science and virtue are the two good things that are never dispersed by the ups and downs of unjust fortune.
+:::
+
+::: ex
+- La ciencia y la virtud son los bienes \
+  'science and virtue are good things'
+- Los quales ("los bienes") son dos \
+  'those (i.e. good things) are two'
+- Los vayvenes no disipáron nunca los quales ("los bienes") \
+  'the to and fro are never dispersed by those (i.e. by the good things)'
+- Los quales ("los vayvenes") vienen de la fortuna \
+  'those (i.e. the to and fro) stem from fortune'
+- La qual ("la fortuna") es injusta \
+  'that (i.e. the fortune) is unjust'
+:::
+
+::: {.im #senillosa1817_61}
+Hierarchical constituent analysis to represent the structure of [@llast] from Senillosa [-@senillosa1817: 61]. The whole sentence is a *sugeto* 'subject' plus *atributo* 'predicate' construct (top line). The predicate in turn has a short one-word modifier *calif.* and a long subordinate clause with a *sug., atr.* and three *comp.* parts (second line). The subject of this subordinate clause has in turn a *compl. calif.* (third line) and this has yet another *calificativo* (fourth line).
+:::
+
+::: {.im #senillosa1817_62}
+Interlocking graphic to represent the structure of [@llast] from Senillosa [-@senillosa1817: 62]. The whole *proposicion* 'proposition/sentence' is analysed as five separate *juicios* 'judgements/clauses' [@last], displayed as lines, to be read from bottom left to top right. Somewhat reminiscent of a dependency structure, the words modified by a subordinate *juicio* are the junctures of the diagram, referenced by relativizers, i.e. by *los quales/la qual*.
+:::
 
 ### Montoy (1882) *Análisis gramatical razonado*
 
-Montoy, Joaquim (1882, mayo 12). “Análisis gramatical razonado”. El Clamor del Magisterio, año 17, n°. 19 [@folgado2023]
+Montoy, Joaquim (1882, mayo 12). “Análisis gramatical razonado”. El Clamor del Magisterio, año 17, n°. 19 [@garcia-folgado2023]
 
 - https://bsky.app/profile/mjgarciafolgado.bsky.social/post/3ldscj467zc2n
 - https://ca.wikipedia.org/wiki/Joaquim_Montoy_i_Escuer
@@ -599,7 +632,7 @@ A different level of granularity for the analysis of the sentence is the *quadro
 
 Bastianini, René (1916). “Análisis sintáctico inmediato y secundario”. Sintaxis castellana y nociones de lingüística y etimología. Buenos Aires: Librería de A. García Santos, 48-49.
 
-René Bastianini (1877-1953) [@bastianini1916: 42-49], see also [@garcia2017]
+René Bastianini (1877-1953) [@bastianini1916: 42-49], see also [@toscano2017]
 
 - https://bsky.app/profile/mjgarciafolgado.bsky.social/post/
 - https://es.wikisource.org/wiki/Índice:Sintaxis_castellana.djvu
@@ -614,11 +647,7 @@ https://amsacta.unibo.it/id/eprint/7830/1/129-151%20Esteban%20Lidgett%20et%20al.
 
 ### More Spanish
 
-Montoro del Arco, Esteban T. (2019). “Métodos y modelos de representación del análisis sintáctico en la gramática escolar española (siglos XIX y XX)”, en: Zamorano Aguilar, A. (coord. y ed.) / González-Fernández, A., Rodríguez-Tapia, S. y González Jiménez, J. M. (eds.): Historiografía de la reflexión sintáctica: metaanálisis y estudios en torno al español, München: LINCOM, 303-335. [Colección: Studies in Spanish Linguistics]
-
-- https://digibug.ugr.es/handle/10481/67999
-- http://hdl.handle.net/10481/67999
-- https://digibug.ugr.es/bitstream/handle/10481/67999/Metodos_y_modelos_de_representacion_del%20%281%29.pdf?sequence=1
+León Sanz Lodre, profesor de la Escuela de Comercio de Zaragoz [@montoro-del-arco2019]
 
 Oca y Merino, Esteban (1851-1924), no real graphical grammar
 https://www.bvfe.es/es/autor/10340-oca-y-merino-esteban.html
