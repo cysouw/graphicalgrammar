@@ -881,6 +881,8 @@ line diagrams, but without actual words: 205-206, 214-215, 222, 232, 734-735
 
 also in [@chomsky1975: 181, 229, 258] https://archive.org/details/logicalstructure00noam
 
+First trees in [@chomsky1956: 117-118], based on boxed table from Pike/Fries/Hockett
+
 ### Hockett (1958) *A course in modern linguistics*
 
 [@hockett1958: 151-155, 178-180, 188-189]

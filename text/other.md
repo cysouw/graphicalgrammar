@@ -538,14 +538,16 @@ see also Bonnard [-@bonnard1964: 52,54] as cited by [@sandmann1971: 428]. Bonnar
 
 Original from 1939, but not diagrams. Takes over Bonnard-style diagrams in 25th edition (1959)
 
-26th edtion 1963 https://archive.org/details/precisdegrammair0000grev
+26th edtion 1963: 27-56, 141-142, 242, 247, 254-285 https://archive.org/details/precisdegrammair0000grev
 28th edition 1969 in Marburg library
 30th edition 1995 https://archive.org/details/precisdegrammair00grev
+31th edition 2005 basically the same as 1963 edition
 
 ### more
 
 - Cassignol (1969) Essai de visualisation d'une théorie syntaxique https://www.jstor.org/stable/30248821
-- Martinet (1973) Conventions pour une visualisation des rapports syntaxiques https://www.jstor.org/stable/30248838
+- Martinet (1973) Conventions pour une visualisation des rapports syntaxiques https://www.jstor.org/stable/30248838 see also gregov/mazziota (2023) https://orbi.uliege.be/handle/2268/303201
+- Dubois/Lagane (1973/1986) la nouvelle grammarier de francais https://archive.org/details/lanouvellegramma0000dubo_a3j7 normal chomskyan phrase structure rules
 
 ## Spanish
 
