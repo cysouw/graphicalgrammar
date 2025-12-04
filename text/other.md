@@ -528,20 +528,65 @@ https://nl.wikipedia.org/wiki/Maurice_Bologne
 *Analyse algébrique* [@bologne1963: 23]
 :::
 
-### Bonnard (1950) *Grammaire française des lycées et collèges*
+### Bonnard (1950) *Grammaire française des lycées et collèges* {#sec:bonnard1950}
+
+Henri Bonnard (1915-2004) teacher and author of many grammatical textbooks
+
+Survey of his major works in [@fouillet2024]
 
 first edition not available in Germany? 9th edition probably same as 1950 edition [@bonnard1970]
 
 see also Bonnard [-@bonnard1964: 52,54] as cited by [@sandmann1971: 428]. Bonnard cites Mikuš extensively and also knows about Tesnière (p. 54).
 
-### Grevisse (1959) *Précis de grammaire française*
+Bonnard in the 10th edition (?) says:
 
-Original from 1939, but not diagrams. Takes over Bonnard-style diagrams in 25th edition (1959)
+> Différentes figurations symboliques des agencements de la phrase ont vu le jour depuis 1950 stemmas, algorithmes, graphes, 'arbres' aux fruits abstraits, tous systèmes délivrant des pâtures idéales pour les ordinaleurs de la traduction automatique. La méthode des schémas en couleurs adoptée dans ce livre dès l'origine, et que l'auteur n'a cessé de pratiquer avec succès, reste plus près des goúts humains et des possibilités de jeunes élèves. Notre confrère belge M. Grevisse lui a apporté un suffrage de haut poids en s'en inspirant, avec notre accord, pour la vingtsixième édition de son *Précis de grammaire française* (1959). [Bonnard, cited from @lieber1986: 171]
+>
+> ("Various symbolic representations of sentence structure have emerged since 1950: stemmas, algorithms, graphs, abstract 'trees', all systems providing ideal resources for machine translation algorithms. The method of color-coded diagrams adopted in this book from the outset, and which the author has not stopped to successfully employ, remains closer to human tastes and the capabilities of young students. Our Belgian colleague, Mr. Grevisse, gave it his full support by using it, with our permission, for the twenty-sixth edition of his *Précis de grammaire française* (1959).")
 
-26th edtion 1963: 27-56, 141-142, 242, 247, 254-285 https://archive.org/details/precisdegrammair0000grev
-28th edition 1969 in Marburg library
-30th edition 1995 https://archive.org/details/precisdegrammair00grev
-31th edition 2005 basically the same as 1963 edition
+### Grevisse (1959) *Précis de grammaire française* {#sec:grevisse1959}
+
+Maurice Grevisse (1895-1980) was a Belgian teacher, who wrote various grammatical textbooks for French, a few of which are still in print today. A survey of his life and work is provided by Lieber [-@lieber1986]. In the 1930s he wrote his most well-known book, called *Le bon usage* 'the good usage'. In 1939 he produced a shorter version of this book for use in schools, called *Précis de grammaire française* 'a consise guide to French grammar'. This book is still in print unter the new title *Le petit Grevisse*. Starting from the 25th edition, this book included graphical syntactic analyses.
+
+All of Grevisse's books have seen many editions throughout his life and beyond. The older ones are difficult to find today and most editions are not clearly dated. Lieber [-@lieber1986: 168] gives approximate publication dates for the various editions of the *Précis*, which I will follow here. The original version of the *Précis* from 1939 does not contain any syntactical diagrams. Grevisse introduces syntactic diagrams in 25th edition from 1959, inspired by the diagrams of Bonnard (see [@sec:bonnard1950]). Grevisse explicitly mentions this influence in the preface:
+
+> Pour ces schémas, on s’est inspiré des idées de M. Henri Bonnard, qui a bien voulu (on lui en sait beaucoup de gré) ne pas trouver mauvais qu’on imite ici sa méthode. [@grevisse1961: 2]
+>
+> ("For these diagrams, we were inspired by the ideas of Mr. Henri Bonnard, who kindly agreed (and we are very grateful to him for this) not to mind that we imitate his method here.")
+
+After the 25th edition there are only minor revisions being made. I have been able to access various editions [26th, @grevisse1961; 27th, @grevisse1966; 28th, @grevisse1969; 31st, @grevisse2005] and the text remains almost completely identical throughout. The most obvious changes are the recurrent revisions of the example sentences that are used to explain grammatical phenomena. Although the examples are changed, the graphical displays are always retained. So the new examples were explicitly chosen to still represent the same graphical analyses. Shown below is an example from section number 487, first from the 27th edition [@grevisse1966: 284] in [@fig:grevisse1966_284] and then the same example from the 31st edition [@grevisse2005: 262] in [@fig:grevisse2005_262]. The example sentence has changed from [@next a] to [@next b], but the graphic is almost identical, barring new typesetting.
+
+::: ex
+- Cet homme, digne qu'on le confonde, vit d’intrigues. [@grevisse1966: 284] \
+  'This man, worthy of being exposed, lives by intrigue.' 
+- Cet homme d'affaires, soucieux qu'on le protège, avait engagé des gardes du corps. [@grevisse2005: 262] \
+  'This businessman, anxious for protection, had hired bodyguards.'
+:::
+
+::: {.im #grevisse1966_284}
+*Schéma* of example [@last a] from Grevisse [-@grevisse1966: 284], following in the footsteps of the visualisation by Bonnard (see [@sec:bonnard1950]). Grevisse does not use colours, but boldface is used for the finite verb of the main clause. Grevisse also adds 'hooks' to the lines that are connected by conjunctions, both coordinating and subordinating ones.
+:::
+
+::: {.im #grevisse2005_262}
+A parellel *schéma* as in [@fig:grevisse1966_284] of a slightly different example sentence [@last b] from a recent edition of Grevisse [-@grevisse2005: 262]. Following Grevisse's logic, the connecting particle *des* should have been placed besides the right vertical line, not inside the box. Also, the connecting hooks for conjunctions have been replaced by simple circles, removing the visual imagery of a conjoining connection.
+:::
+
+As is to be expected from the explicit acknowledgement to Bonnard, the details of Grevisse's graphical representation are very similar to the approach by Bonnard (see [@sec:bonnard1950]).
+
+- Subject and predicate are placed on top, linked by a line. Instead of using colour as Bonnard, the finite verb of the main clause is put in boldface in the editions from the 1960s. This is removed in the more recent editions.
+- Any further verbal arguments, including objects, prepositional arguments and complement clauses, are placed on the same horizontal level as subject and verb, connected by horizontal lines. The order of the elements in this horizontal display corresponds to the actual order in the sentence analysed (cf. [@fig:grevisse1966_28]).
+- Adverbials (adverbs and adverbial clauses) and attributes (adjectives and relative clauses) are placed vertically below the elements they modify, linked by straight vertical lines.
+- Connecting particles, including prepositions, are placed on top of the horizontal lines, but besides the vertical lines.
+- Different from Bonnard, conjunctions (Grevisse uses this term both for coordinating and subordinating particles) are specifically marked in Grevisse's graphical display. In the prints from the 1960 the line representing the conjunction has little hooks at both ends, grasping the boxes of the conjuncts. In the 2005 edition, these hooks are replaced with circles, removing the visual imagery of a conjoining connection. The hooks for conjunctions are not completely consistently used, but probably the missing ones are just oversights. For example, the subordinating conjunction *si* in [@fig:grevisse1966_28] should have had such hooks. Note that the same example in the 2005 edition has no hooks at all [@grevisse2005: 36]. There is also an example with conjunction *pour que* without circles in the recent edition [@grevisse2005: 250]. In contrast, the parallel example in the 1960's editions has hooks [@grevisse1966: 269].
+
+::: ex
+Je vous avertis que vous vendrez le nécessaire si vous achetez le superflu. [@grevisse1966: 28] \
+  'I warn you that you will be selling what you need if you buy what you don't need.'
+:::
+
+::: {.im #grevisse1966_28}
+Example of *schéma* for a complex sentence [@last] from Grevisse [-@grevisse1966: 28]. Each of the three clauses has objects, which are positioned on the same level as subject and predicate. Also the complement clause (introduced by *que*) is put on the same level as its matrix clause. The main clause shows an SOV order, while the other clauses have a SVO order. The complementizer *que* is considered a conjunction, as it is marked using hooks. Following Grevisse's logic, the subordinating conjunction *si* should also have been marked with such hooks. Note that in this example the internal structure of the subordinate clauses is marked by boldface (for the verb) and small vertical lines (delimiting the parts of the clause). This approach is not followed through in the rest of the book.
+:::
 
 ### more
 
