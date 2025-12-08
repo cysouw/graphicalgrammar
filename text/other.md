@@ -479,23 +479,82 @@ tárgyalnak, s a melyeket mindnyájokat én a "határozó" rovatfogalom alá hú
 
 ### Kinker (1817) *Inleidung voor eene wijsgeerige algemene theorie der talen*
 
-Johannes Kinker (1764-1845) [@kinker1817], analysis in [@wal1977]
+Johannes Kinker (1764-1845) was a Dutch poet and professor for Dutch language in Liège (from 1817 until the Belgian independence in 1830). He also was a member of the *Koninklijk-Nederlandsche Institut van Wetenschappen*, the predecessor of the current dutch academy of sciences (KNAW). Some further biographical information about Kinker is presented by Hanou [-@hanou1988: 19-35].
 
-https://nl.wikipedia.org/wiki/Johannes_Kinker
+He presented his thoughts about language at the academy between 1810 and 1812, and submitted a written version of these speeches in 1813. It took until 1817 for this manuscript to be published as the first *Gedenkschrift* of the academy with the title *Inleidung voor eene wijsgeerige algemene theorie der talen* 'introduction to a philosophical general theory of languages' [@kinker1817]. A thorough analysis of this work is presented by Van der Wal [-@wal1977]. There are hardly any references to other authors in the work of Kinker, so it if difficult to assess whether he had any inspiration for this graphical analysis. In a later paper read at the academy he proposes to position his approach within Kantian philosophy [@kinker1833].
 
-Cicero  ›  ORATIONES  IN  LUCIUM  CATILINAM
+In the *Inleiding* Kinker proposes a general approach to the analysis of language. After discussing the problem of meaning and examining the parts of speech, he turns his attention to syntax starting in chapter nine [@kinker1817: 214 ff.]. His approach to syntax is based on a tripartite analysis of a proposition consisting of the parts *agens-agere-actum*, or in Dutch *persoon-daad-zaak* 'person-act-thing' [@kinker1817: 216-217]. Kinker proposes to write these three elements symbolically as *A:B*, in which the colon identifies the act, i.e. the 'verbal part' [@kinker1817: 217]. Any additional elements are marked with an *n* and are not further analysed.
 
-Quare, quoniam id, quod est primum atque hujus Imperii disciplinaeque maiorum proprium est, facere nondum audeo, faciam id, quod est ad severitatem lenius, ad communem salutem utilius. 
-Nam si te interfici jussero, residebit in republica reliqua conjuratorum manus: sin tu (quod te jam dudum hortor) exieris; exhaurietur ex urbe tuorum comitum magna et perniciosa sentina reipublicae.
+Kinker calls his symbolic approach *pasigraphisch* [@kinker1817: 224-226], which is a direct reference to the pasigraphic proposals of Maimieux [-@maimieux1797], who is not mentioned by name in the work of Kinker. Although Maimieux proposed a highly complex semiotic symbolic analysis, there does not appear to be any real syntax in that work. Kinker, in contrast, devises his system as a real syntactic analysis. He illustrates his syntactic approach with an analysis of a quotation from Cicero's *Orationes in Catilinam* [@next]. The graphical analysis is shown in [@fig:kinker1817_225]. This example is also discussed by Van der Wal [-@wal1977: 78, fn. 89], but only in a short footnote.
 
-Wherefore, because I do not yet dare to do that which is primary and what is in accordance with this magistracy and the ethics of our ancestors, I will do that which is milder in severity and more useful for the common welfare.  
-For if I order you killed, the rest of the band of conspirators will remain in the Commonwealth.  But if — as I have already long been urging you — you leave, the massive and lethal bilge of your comrades in the Commonwealth will be drained from the city.
+::: ex
+- Quare, quoniam id, quod est primum atque hujus Imperii disciplinaeque maiorum proprium est, facere nondum [ego] audeo, faciam [ego] id, quod est ad severitatem lenius, ad communem salutem utilius. Nam si te interfici [ego] jussero, residebit in republica reliqua conjuratorum manus: sin tu (quod te jam dudum [ego] hortor) exieris; exhaurietur ex urbe tuorum comitum magna et perniciosa sentina reipublicae. \
+  [@kinker1817: 217, citing Cicero, *Orationes in Catilinam*. The pronouns *ego* are added by Kinker]
+- Wherefore, since that which is first, and which is proper to this empire and the discipline of our ancestors I do not yet dare to do, I will do that which is milder in severity and more useful to the common welfare. For if I order you to be killed, the remaining band of conspirators will remain in the republic: but if you (as I have long since urged you) would depart; then drained from the city will be your comrades' massive and pernicious scum of the republic.
+:::
 
-Wherefore, since that which is first, and which is proper to this empire and the discipline of our ancestors, I do not yet dare to do, I will do that which is milder in severity and more useful to the common safety. 
-For if I order you to be killed, the remaining band of conspirators will remain in the republic: if you (as I have long since urged you) depart; the great and pernicious cistern of the republic will be drained from the city of your companions.
+Kinker subdivides this text into nine propositions [@next], which are organised in a binary hierarchical structure, using hebrew letters Alef א and Bet ב on the highest level of analysis, latin capitals *AB* on the second level, latin lowercase letters *ab* on the third level and greek lowercase letters *αβ* on the fourth level. His analysis in [@fig:kinker1817_225] shows the logical structure of the text, rearranging the actual order as needed. All levels consist of the tripartite structure *agens-agere-actum*, but on the higher levels the *agere* colon is not represented by any linguistic form.
 
-Daher, da ich mich noch nicht getraue, den traditionellen Handlungsweg zu beschreiten, den unser Imperium und unsere Vorfahren fordern würden, werde ich stattdessen einen milderen Ansatz wählen, der unserem gemeinsamen Wohl besser dienen wird.
-Denn wenn ich Sie hinrichten lasse, wird der Rest Ihrer Verschwörung weiterhin im Staat verbleiben; wenn Sie jedoch gehen, wie ich Sie schon lange dränge, wird die Stadt von der großen und gefährlichen Menge Ihrer Anhänger befreit sein, die unsere Nation vergiften.
+The whole cited text from Cicero is analysed as an *actum* for the first part (hebrew Bet) and *agens* for the second (hebrew Alef), so in the graphic these sentences are reversed from the original order, because Kinker always puts the agens first, before the actum. The Alef-part, in turn, consists of two propositions connected by a plus sign, each internally is a *A:B* combination. The resulting four elements are the propositions [@last a-e], with an additional inserted parenthetical clause. Each of these has internally an *a:b* structure with additional elements marked as *(n)*. The Bet-part of the text concists of a single *A:B* combination, but both the *A* and *B* propositions have an internal structure. They consist of an *a:b* proposition in which the *b* part is itself a subordinate proposition, marked by greek letters *α:β*. Interestingly, Kinker does not use this subordinate analysis for the part *te interfici* of [@last a], which would have made grammatical sense. Also note that Kinker analyses the prepositions of *in republica* [@last b] and *ex urbe* [@last e] as part of the predicate instead of as part of a prepositional phrase.
+
+::: ex
+a.
+|
+| Nam si te interfici jussero
+| because if you be.killed order.1SG
+| for if I order you to be killed
+a.
+|
+| residebit in republica reliqua conjuratorum manus
+| remain.FUT.3SG in republic remainder conspirators.GEN group.GEN
+| the remaining band of conspirators will remain in the republic
+a.
+|
+| sin tu exieris
+| if you depart.2SG
+| but if you would depart
+a. 
+| 
+| quod te jam dudum hortor
+| which you for.a.long.time urge.1SG
+| as I have long since urged you
+a.
+|
+| exhaurietur ex urbe tuorum comitum magna et perniciosa sentina reipublicae
+| be.drained from city your comrades.GEN large and pernicious scum republic.GEN
+| drained from the city will be your comrades' massive and pernicious scum of the republic
+a.
+|
+| quoniam id facere nondum audeo
+| since that do not.yet dare.1SG
+| since that I do not yet dare to do
+a.
+|
+| quod est primum atque hujus imperii disciplinae‑que maiorum proprium est
+| which is first and proper empire.GEN discipline.GEN‑and ancestors.GEN real.GEN is
+| which is first, and which is proper to this empire and the discipline of our ancestors
+a.
+|
+| Quare faciam id
+| wherfore do.FUT.1SG that
+| Wherefore I will do that
+a.
+|
+| quod est ad severitatem lenius, ad communem salutem utilius
+| which is in severity milder for common welfare useful
+| which is milder in severity and more useful to the common welfare
+:::
+
+::: {.im #kinker1817_225}
+*Pasigraphische zin-afbeelding* 'pasigraphic sentence-picture' for a sentence of Cicero [@llast] from Kinker [@kinker1817: 225]. He subdivises the text into nine propositions, glossed in [@last], each with a tripartite *a : b* structure, representing approximately subject-verb-object. Note that the prepositions 6 and 7 in the graphic each have an internal subordinate clause marked with greek letters *α : β*. Additionally, the connection between the nine propositions is analysed on the left side as *agens-actum* pairs *A:B*, but here the colon does not represent anything. On the highest level, the whole text is again analysed as an *agens-actum* pair, marked by hebrew letters Alef א and Bet ב.
+:::
+
+Kinker considers this visual analysis just to be a introductory illustration and remarks that for a complete system much more symbolic elements would have to be introduced. However, he does not pursue this endevour himself, and nobody else seems to have taken up on this task.
+
+> Om de formelijke pasigraphie, overeenkomstig de algemeene taal-theorie, welke wij in de toepassing der grondbeteekenissen op de taalformen ontwikkeld hebben, tot een volledig stelsel optetrekken, zou men niet alleen de acht verbale dynamische wijzigingen, maar ook al de wijzigingen der wortelwerkwoorden, door onderscheiden teekenen moeten aanwijzen, en aan de voorzetsels, in hunne
+quantitatieve duiding, zoo wel als aan de dynamische en modale voegwoorden, een onderscheidend kenmerk moeten geven. Doch dit kan mijne taak, in deze inleiding voor eene algemeene taalwetenschap, niet zijn. Men beschouwe dit schema slechts als een voorbeeld, strekkende om den aard van het formelijke en werktuigelijke der taal, eenigzins toetelichten. [@kinker1817: 226]
+>
+> ('To extend this formal pasigraphy into a complete system, in accordance with the general theory of language, which we have developed by the application of basic meanings to the linguistic forms, one would have to indicate not only the eight verbal dynamic modifications, but also all the modifications of verbal roots, by means of distinct signs, and assign a distinguishing mark to the prepositions, in their quantitative interpretation, as well as to the dynamic and modal conjunctions. However, this cannot be my task in this introduction to a general theory of linguistics. This scheme should be regarded merely as an example, intended to somewhat illustrate the nature of the formal and mechanical aspects of language.')
 
 ### de Groot (1949) *Structural linguistics and syntactic Laws*
 
