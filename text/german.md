@@ -1976,7 +1976,7 @@ https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/8374/file/Erben_Abriss_d
 
 p.188: citing Tesniere [@tesniere1953], in the 1964 edition p. 266 adds a quib about the simplicity of the american constituent analys is https://doi.org/10.1515/9783112763575
 
-vorfeld/nachfeld
+vorfeld/nachfeld, also Mittlfeld?
 
 ### Esser (1961) *Grammatische und psychologische Kategorien in der deutschen Satzanalyse*
 
@@ -1986,6 +1986,7 @@ Very close to Drach [@esser1961]
 
 https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/595/file/Engel_Regeln_zur_Wortstellung_1970.pdf
 
+- "Stellungsfelder" p.39, cites Erben
 - Feldertheorie graphisch? using numbers: p. 42-43
 - nominal template p. 110
 
@@ -2000,7 +2001,33 @@ https://ids-pub.bsz-bw.de/frontdoor/index/index/docId/1194
 
 https://www.persee.fr/doc/drlav_0754-9296_1980_num_22_1_957
 
+thanks Höhle in first footnote, and cites his manuscript from 1976 "Die Stellungsfelder des Verbalsatzes"
+
+mostly uses term "positional field", which seems direct translation of "Stellungsfeld" from Engel > Höhle.
+
 sentence template p. 63-64
+
+### Höhle (1983) *Topologische Felder*
+
+Über die Topik der deutschen Sprache [@herling1821]
+
+"Topologische Felder", manuscript from 1983 that circulated in the field, Höhle cites Herling and Becker [@hohle2019: 11, 38]
+
+"Die Lehre von den topologischen Feldern besteht – nicht unter diesem Namen,
+aber in ihren wesentlichen Inhalten – seit mindestens 100 Jahren in gereifter
+Form." Hoehle p.11
+
+To describe the word order of the German sentence uses a templatic approach [see @good2016 for the term "template"].
+
+Becker [-@becker1829: 376] calls this the *Konstruktion oder Topik des Satzes* 'construction or topic of the sentence* and he also uses the expression
+*topische Stellung* 'topical position'.^[This usage of the word *Topik* should not be confused with the modern linguistik usage of this term with the meaning "theme". Becker seems to have come up with this term based on the Greek meaning of *τόπος* 'place', i.e. placement of the words in a sentence. In German pronunciation, it would probably have been pronounced with a long/tense "o" instead of the short/lax "o" with which the modern term "Topik" is pronounced in German linguistics.] In the English translation, Becker [-@becker1830: 250ff.] only uses the term "construction" instead of "topic". Then, in the *Schulgrammatik* [@becker1831: 201], he uses the terms *Konstruktion oder die Wortfolge des Satzes* 'construction or word order of the sentence'. And finally, in the the *Leitfaden* [@becker1833: 66ff.], he simply calls it *Wortfolge* 'word order'.
+
+Kopula vs. Prädikativ [@becker1829: 378]
+copula vs. predicate [@becker1830: 252]
+Aussagewort vs. Ausgesagtes [@becker1833: 67]
+
+Dasjenige Objektiv, welches als das Hauptwort des ganzen Verhältnisses anzusehen ist (das Hauptobjektiv), erhält seine Stelle unmittelbar vor dem Prädikativ; und die andern Objektiven treten nach der Abstufung ihrer Unterordnung vor das Hauptobjektiv, indem jedes derselben dem ihm zunächst
+übergeordneten Objektiv unmittelbar vorangeht. Im allgemeinen geht dem Begriffsworte das Formwort, dem Kasus das Orts- und Zeitadverb, dem Kasus der unmittelbar kausalen Beziehung der Kasus der mittelbar kausalen Beziehung, dem Kasus der Sache der Kasus der Person, und dem Ortsadverb das Zeitadverb voran; [@becker1829: 387-388]
 
 ## More recent didactic approaches
 

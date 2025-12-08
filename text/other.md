@@ -477,6 +477,26 @@ tárgyalnak, s a melyeket mindnyájokat én a "határozó" rovatfogalom alá hú
 
 ## Dutch
 
+### Kinker (1817) *Inleidung voor eene wijsgeerige algemene theorie der talen*
+
+Johannes Kinker (1764-1845) [@kinker1817], analysis in [@wal1977]
+
+https://nl.wikipedia.org/wiki/Johannes_Kinker
+
+Cicero  ›  ORATIONES  IN  LUCIUM  CATILINAM
+
+Quare, quoniam id, quod est primum atque hujus Imperii disciplinaeque maiorum proprium est, facere nondum audeo, faciam id, quod est ad severitatem lenius, ad communem salutem utilius. 
+Nam si te interfici jussero, residebit in republica reliqua conjuratorum manus: sin tu (quod te jam dudum hortor) exieris; exhaurietur ex urbe tuorum comitum magna et perniciosa sentina reipublicae.
+
+Wherefore, because I do not yet dare to do that which is primary and what is in accordance with this magistracy and the ethics of our ancestors, I will do that which is milder in severity and more useful for the common welfare.  
+For if I order you killed, the rest of the band of conspirators will remain in the Commonwealth.  But if — as I have already long been urging you — you leave, the massive and lethal bilge of your comrades in the Commonwealth will be drained from the city.
+
+Wherefore, since that which is first, and which is proper to this empire and the discipline of our ancestors, I do not yet dare to do, I will do that which is milder in severity and more useful to the common safety. 
+For if I order you to be killed, the remaining band of conspirators will remain in the republic: if you (as I have long since urged you) depart; the great and pernicious cistern of the republic will be drained from the city of your companions.
+
+Daher, da ich mich noch nicht getraue, den traditionellen Handlungsweg zu beschreiten, den unser Imperium und unsere Vorfahren fordern würden, werde ich stattdessen einen milderen Ansatz wählen, der unserem gemeinsamen Wohl besser dienen wird.
+Denn wenn ich Sie hinrichten lasse, wird der Rest Ihrer Verschwörung weiterhin im Staat verbleiben; wenn Sie jedoch gehen, wie ich Sie schon lange dränge, wird die Stadt von der großen und gefährlichen Menge Ihrer Anhänger befreit sein, die unsere Nation vergiften.
+
 ### de Groot (1949) *Structural linguistics and syntactic Laws*
 
 Albert W. de Groot (1892-1963)
@@ -488,6 +508,12 @@ brackets [@groot1949: 10], numbers and incidental brackets [@groot1949a: 117, 15
 basic underline-style diagramming in [@paardekooper1955], published version identical to thesis [@paardekooper1955a]. More extensive diagramming in [@paardekooper1963]
 
 ## French
+
+### Maimieux (1797) *Pasigraphie*
+
+Joseph de Maimieux (1753-1820)
+
+https://en.wikipedia.org/wiki/Joseph_de_Maimieux [@maimieux1797; @maimieux1797a]
 
 ### Gaultier (1819) *Leçons de grammaire en action*
 
@@ -581,7 +607,7 @@ As is to be expected from the explicit acknowledgement to Bonnard, the details o
 
 ::: ex
 Je vous avertis que vous vendrez le nécessaire si vous achetez le superflu. [@grevisse1966: 28] \
-  'I warn you that you will be selling what you need if you buy what you don't need.'
+'I warn you that you will be selling what you need if you buy what you don't need.'
 :::
 
 ::: {.im #grevisse1966_28}
