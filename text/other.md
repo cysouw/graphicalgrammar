@@ -59,20 +59,21 @@ In an article about the role of translation from Greek to German in secondary ed
 *Satzbild* for the sentence from Plato's *Crito* in [@last a] as analysed by Gloël [-@gloel1895: 75]. Capital letters are main clauses, lower-case Latin letters are subordinated clauses, greek letters are second-grade subordination. The letter "~~P~~" indicates a non-finite clause using a participles. Numbers indicate conjoined clauses to the previous letter-marked clause. The marker *B* for the second main clause should probably by placed on the same level as the main clause *A*. This appears to be a printing error.
 :::
 
-### Golling (1900) *Chrestomathie aus Livius*
+### Golling (1892) *Chrestomathie aus Livius*
 
 https://de.wikipedia.org/wiki/Josef_Golling
 
-2nd edition [@golling1900], but first edition from 1892 is nowhere to be found
-5th edition 1922
+2nd edition [@golling1900], but first edition from 1892 is nowhere to be found. first edition also online! [@golling1892] 5th edition 1922. cites Nägelsbach and follows his abbreviations, e.g. vi-viii
 
-cites Nägelsbach and follows his abbreviations, e.g. vi-viii
+### Diemke (1940) *Die Entstehung des hypotaktischen Relativsatzes*
+
+[@diemke1940: 3-4] analysis of complex sentence from Thukydides using indentation. Probably also in his dissertation from 1934 https://google.com/books/id=BXT6vgEACAAJ. Example cited by Bühler 1934: 400
 
 ## Danish
 
 ### Broberg (1882) *Manuel de la langue danoise* {#sec:broberg1882}
 
-*Severin* Carl Olfert Fischer Broberg (1822-1900) was a danish author and occasional lecturer at the Universities of Randers and Odense. He wrote a Danish language guide for French speakers, called *Manuel de la langue danoise* [@broberg1882]. To explain the Danish sentence structure he used a special graphical technique of an indented table [@broberg1882: 95-102]. There is no indication towards any inspiration that might have led Broberg to propose this kind of analysis.
+*Severin* Carl Olfert Fischer Broberg (1822-1900) was a danish author and occasional lecturer at the Universities of Randers and Odense. He wrote a Danish language guide for French speakers, called *Manuel de la langue danoise* [@broberg1882]. To explain the Danish sentence structure he used a special graphical technique of an indented table [@broberg1882: 95-102]. There is no indication towards any inspiration that might have led Broberg to propose this kind of analysis. (Maybe Mager, [@#sec:mager1840])
 
 Repeated here is one of Broberg's Danish example sentence in [@next a], with his own French translation [@next b]. An glossed version with English translation is added in [@next c]. Broberg's graphical analysis is shown in [@fig:broberg1882_95]. The basic sentence *Datter viste et Maleri* 'Daughter showed a painting' is shown in bold typeface at the left side of the tabular display. All modifier phrases are shown below their head phrases, indented to the right. The order of the phrases from top to bottom reflects their modification order. For example, *Datter* 'daughter' is first modified by *ældste* 'oldest' and then by *Generalens* 'of the general'. However, the order of these elements in a Danish sentence is reversed: the real order in which the words occur in the Danish sentence is indicated by the numbers in the table.
 

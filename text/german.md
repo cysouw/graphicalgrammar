@@ -2007,27 +2007,13 @@ mostly uses term "positional field", which seems direct translation of "Stellung
 
 sentence template p. 63-64
 
-### Höhle (1983) *Topologische Felder*
+word "topologie" already used by Walter Flämig in 1971: https://doi.org/10.1515/9783111350851-008, also chapter 4 in https://doi.org/10.1515/9783112642702 (1981)
 
 Über die Topik der deutschen Sprache [@herling1821]
 
 "Topologische Felder", manuscript from 1983 that circulated in the field, Höhle cites Herling and Becker [@hohle2019: 11, 38]
 
-"Die Lehre von den topologischen Feldern besteht – nicht unter diesem Namen,
-aber in ihren wesentlichen Inhalten – seit mindestens 100 Jahren in gereifter
-Form." Hoehle p.11
-
-To describe the word order of the German sentence uses a templatic approach [see @good2016 for the term "template"].
-
-Becker [-@becker1829: 376] calls this the *Konstruktion oder Topik des Satzes* 'construction or topic of the sentence* and he also uses the expression
-*topische Stellung* 'topical position'.^[This usage of the word *Topik* should not be confused with the modern linguistik usage of this term with the meaning "theme". Becker seems to have come up with this term based on the Greek meaning of *τόπος* 'place', i.e. placement of the words in a sentence. In German pronunciation, it would probably have been pronounced with a long/tense "o" instead of the short/lax "o" with which the modern term "Topik" is pronounced in German linguistics.] In the English translation, Becker [-@becker1830: 250ff.] only uses the term "construction" instead of "topic". Then, in the *Schulgrammatik* [@becker1831: 201], he uses the terms *Konstruktion oder die Wortfolge des Satzes* 'construction or word order of the sentence'. And finally, in the the *Leitfaden* [@becker1833: 66ff.], he simply calls it *Wortfolge* 'word order'.
-
-Kopula vs. Prädikativ [@becker1829: 378]
-copula vs. predicate [@becker1830: 252]
-Aussagewort vs. Ausgesagtes [@becker1833: 67]
-
-Dasjenige Objektiv, welches als das Hauptwort des ganzen Verhältnisses anzusehen ist (das Hauptobjektiv), erhält seine Stelle unmittelbar vor dem Prädikativ; und die andern Objektiven treten nach der Abstufung ihrer Unterordnung vor das Hauptobjektiv, indem jedes derselben dem ihm zunächst
-übergeordneten Objektiv unmittelbar vorangeht. Im allgemeinen geht dem Begriffsworte das Formwort, dem Kasus das Orts- und Zeitadverb, dem Kasus der unmittelbar kausalen Beziehung der Kasus der mittelbar kausalen Beziehung, dem Kasus der Sache der Kasus der Person, und dem Ortsadverb das Zeitadverb voran; [@becker1829: 387-388]
+"Die Lehre von den topologischen Feldern besteht – nicht unter diesem Namen, aber in ihren wesentlichen Inhalten – seit mindestens 100 Jahren in gereifter Form." p.11
 
 ## More recent didactic approaches
 
@@ -2040,6 +2026,17 @@ Erika Essen (1914-1986) bio [@muller1996]
 https://www.lagis-hessen.de/de/subjects/print/sn/bio/id/18993
 
 The 1956 Book has seen reprints and revisions at least until a 10th edition from 1980, still containing the curved lines.
+
+### Kessler (1957) *Deutsches Sprachbuch*
+
+[@kessler1957: 52]
+
+### Griesbach & Schulz (1960) *Grammatik der deutschen Sprache*
+
+https://de.wikipedia.org/wiki/Heinz_Griesbach
+https://de.wikipedia.org/wiki/Dora_Schulz
+
+first edition with nice graphics [@griesbach1960] 8th edition with much simpler format, but identical content [@griesbach1970]
 
 ### Grosse (1960) *Die deutsche Satzperiode*
 
@@ -2055,6 +2052,10 @@ The 1956 Book has seen reprints and revisions at least until a 10th edition from
 ### Meinel (1961) *Der Satz als Sinneinheit*
 
 [@meinel1961: 21] lines with different height for subordination
+
+### Mues (1964) *Vom Laut zum Satz*
+
+tree like Erben on [@mues1964: p.57], but note that it is a constituency tree here, different from erben!
 
 ### Ulshöfer (1967) *Methodik des Deutschunterrichts*
 
