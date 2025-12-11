@@ -1948,7 +1948,7 @@ Chinese boxes visualisation for the sentence [@last a] by Gipper [-@gipper1966: 
 
 Hanz Glinz (1913-2008) was professor for German philology in Aachen. A biographical summary and an in-depth discussion of his work is provided by Zlobinska-Görtz [-@zlobinska-gortz2018]. His *Habilitationsschrift* was accepted in Zürich in 1948 and published as *Die innere Form des Deutschen. Eine neue deutsche Grammatik* [@glinz1952]. This book was widely discussed in Germany and is generally considered to be an early example of a structuralist grammar for German. Glinz consistently uses *Proben*, i.e. syntactic constituency tests, to analyse the grammatical structure of German.
 
-Glinz' book contains two large examples in which he uses a literary text to illustrate graphically how his analysis works in practice. The first example uses a paragraph from Goethe's *Wilhelm Meisters theatralische Sendung* and a paragraph from Heinrich Keller's *Der grüne Heinrich* [@glinz1952: 71-72]. The full analysis takes up ten whole pages [@glinz1952: 316-325]. The last sentence from this exemplary analysis [@next] is reproduced here in [@fig:glinz1952_325]. This visualisation places the words from top to bottom with thick black indicators for the verbal elements of the sentence. Glinz very clearly includes both the "finite" second position and the sentence-final "infinite" position in his analysis of the German sentence. The arrows indicate the governer of the case assignment. In the complex noun phrases the horizontal lines indicate the hierarchical structure. Subordinate clauses (not shown in the figure here) are not visually distinguished in this large example.
+Glinz' book contains two large examples in which he uses a literary text to illustrate graphically how his analysis works in practice. The first example uses a paragraph from Goethe's *Wilhelm Meisters theatralische Sendung* and a paragraph from Heinrich Keller's *Der grüne Heinrich* [@glinz1952: 71-72]. The full analysis takes up ten whole pages [@glinz1952: 316-325]. The last sentence from this exemplary analysis [@next] is reproduced here in [@fig:glinz1952_325]. This visualisation places the words from top to bottom with thick black indicators for the verbal elements of the sentence. Glinz very clearly includes both the "finite" second position (*Leitglied*) and the sentence-final "infinite" position (*Nennglied*) in his analysis of the German sentence. The arrows indicate the governer of the case assignment. In the complex noun phrases the horizontal lines indicate the hierarchical structure. Subordinate clauses (not shown in the figure here) are not visually distinguished in this large example.
 
 ::: ex
 und die kühle erfrischende Luft atmend schlief ich sozusagen an der Brust der gewaltigen Natur ein. [@glinz1952: 325, citing Heinrich Keller]
@@ -1970,13 +1970,16 @@ Analysis of [@last b] from Glinz [-@glinz1952: 472], citing an example sentence 
 
 Meeting with US americans at International Congres of Linguists in London (52) and Oslo (58), especially Fries is mentioned (Introduction second edition of Innere Form, 1961: 4-5)
 
+Satzkern, Satzrahmen (p.64): Personalform, Infinitform, Verbzusatz (157)
+https://nbn-resolving.org/urn:nbn:de:bsz:mh39-101601
+
 ### Erben (1958) *Abriss der deutschen Grammatik*
 
-https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/8374/file/Erben_Abriss_der_deutschen_Grammatik_1958.pdf
+[@erben1958: 188] tree, citing Tesniere [@tesniere1953]. Aussagerahmen (p.172), Nachfeld inside! (~ Mittelfeld??) p. 173, vorfeld only for "determiner" position? p. 175
 
-p.188: citing Tesniere [@tesniere1953], in the 1964 edition p. 266 adds a quib about the simplicity of the american constituent analys is https://doi.org/10.1515/9783112763575
+in the 1964 edition he adds a quib about the underwhelming results of the american constituent analys:
 
-vorfeld/nachfeld, also Mittlfeld?
+"Die von einigen amerikanischen Linguisten propagierte 'Konstituenten-analyse' kommt — in den bisherigen Ergebnissen — kaum über die herkömmliche Satzgliederung hinaus" [@erben1964: 266]
 
 ### Esser (1961) *Grammatische und psychologische Kategorien in der deutschen Satzanalyse*
 
@@ -2033,8 +2036,7 @@ The 1956 Book has seen reprints and revisions at least until a 10th edition from
 
 ### Griesbach & Schulz (1960) *Grammatik der deutschen Sprache*
 
-https://de.wikipedia.org/wiki/Heinz_Griesbach
-https://de.wikipedia.org/wiki/Dora_Schulz
+Dora Schulz (1906-1974) was one of the founding members in 1951 of the *Goethe-Insitut*, a German nonprofit promoting knowledge and study of the German language. Heinz Griesbach (1918-2008) joined the institute in 1953 as a teacher and later became the head of the first teaching institute in Bad Reichenhall until his retirement in 1970. Because there were no adequate teaching materials for German, Schulz and Griesbach developed their own materials on the basis of their practical experience, including the *Grammatik der deutschen Sprache* [@griesbach1960]. A personal account of the first years of didactic work at the Goethe-Institut in the 1950s is provided by Griesbach [-@griesbach2001].
 
 first edition with nice graphics [@griesbach1960] 8th edition with much simpler format, but identical content [@griesbach1970]
 
