@@ -1944,7 +1944,7 @@ Gipper develops his own visualisation using a "Chinese boxes" approach to show t
 Chinese boxes visualisation for the sentence [@last a] by Gipper [-@gipper1966: 119]. This example is cited from Weisgerber, who uses another visualisation (see [@fig:weisgerber1950_191a]). Exactly this visualisation is later quoted verbatim in the second edition of Weisgerber's book. During the 1940s various other, apparently independent, example of this visualisations are found in the linguistic literatur.
 :::
 
-### Glinz (1952) *Die innere Form des Deutschen*
+### Glinz (1952) *Die innere Form des Deutschen* {#sec:glinz1952}
 
 Hanz Glinz (1913-2008) was professor for German philology in Aachen. A biographical summary and an in-depth discussion of his work is provided by Zlobinska-Görtz [-@zlobinska-gortz2018]. His *Habilitationsschrift* was accepted in Zürich in 1948 and published as *Die innere Form des Deutschen. Eine neue deutsche Grammatik* [@glinz1952]. This book was widely discussed in Germany and is generally considered to be an early example of a structuralist grammar for German. Glinz consistently uses *Proben*, i.e. syntactic constituency tests, to analyse the grammatical structure of German.
 
@@ -1973,7 +1973,7 @@ Meeting with US americans at International Congres of Linguists in London (52) a
 Satzkern, Satzrahmen (p.64): Personalform, Infinitform, Verbzusatz (157)
 https://nbn-resolving.org/urn:nbn:de:bsz:mh39-101601
 
-### Erben (1958) *Abriss der deutschen Grammatik*
+### Erben (1958) *Abriss der deutschen Grammatik* {#sec:erben1958}
 
 [@erben1958: 188] tree, citing Tesniere [@tesniere1953]. Aussagerahmen (p.172), Nachfeld inside! (~ Mittelfeld??) p. 173, vorfeld only for "determiner" position? p. 175
 
@@ -2036,24 +2036,32 @@ The 1956 Book has seen reprints and revisions at least until a 10th edition from
 
 ### Griesbach & Schulz (1960) *Grammatik der deutschen Sprache*
 
-Dora Schulz (1906-1974) was one of the founding members in 1951 of the *Goethe-Insitut*, a German nonprofit promoting knowledge and study of the German language. Heinz Griesbach (1918-2008) joined the institute in 1953 as a teacher and later became the head of the first teaching institute in Bad Reichenhall until his retirement in 1970. Because there were no adequate teaching materials for German, Schulz and Griesbach developed their own materials on the basis of their practical experience, including the *Grammatik der deutschen Sprache* [@griesbach1960]. A personal account of the first years of didactic work at the Goethe-Institut in the 1950s is provided by Griesbach [-@griesbach2001].
+Dora Schulz (1906-1974) in 1951 was a founding members of the *Goethe-Insitut*, a German nonprofit organisation that promotes knowledge and study of the German language internationally. Heinz Griesbach (1918-2008) joined the institute in 1953 as a teacher and later became the head of the institute's first teaching centre in Bad Reichenhall until his retirement in 1970. Because they were not satisfied with available German teaching materials for non-native speakers, Schulz and Griesbach developed their own textbooks on the basis of their practical experience, including a *Grammatik der deutschen Sprache* [@griesbach1960]. A first-hand personal account of the early years of didactic work at the Goethe-Institut in the 1950s is provided by Griesbach [-@griesbach2001].
 
-first edition with nice graphics [@griesbach1960] 8th edition with much simpler format, but identical content [@griesbach1970]
+Griesbach & Schulz [-@griesbach1960: v] cite Glinz (see [@sec:glinz1952]) and Erben (see [@sec:erben1958]) as influences, but their approach to syntax in the *Grammatik der deutschen Sprache* is quite innovative and much clearer in presentation than that of their predecessors. They define a *Satzfeld* (today referred to as *Mittelfeld*), delimited by a *Satzrahmen* (today referred to as *Verbalklammer*), i.e. the two possible positions for parts of the predicate. In front of the *Satzfeld* there is a *Vorfeld* and after it there is a *Nachfeld* [@griesbach1960: 294-301]. The *Satzrahmen* is graphically displayed by two black quarter circles, as shown in [@fig:griesbach1960_295]. Although this templatic approach to the structure of the German sentence has a long history, this is the first clear and simple statement of what today is known as the *topologische Feldermodell* for the German sentence.
 
-*Satzrahmen* (today *Verbalklammer*)
+::: {.im #griesbach1960_295}
+The German *Satzrahmen* delimiting the *Satzfeld*, as depicted by Griesbach & Schulz [-@griesbach1960: 295]. In front of the *Satzrahmen* there is a position called *Vorfeld* and after it there is a *Nachfeld*. This is the first succinct visual presentation of a templatic sentence model for the German language, which is still used today, known as the *Feldermodell*. The only difference is that the *Satzfeld* is nowadays called *Mittelfeld*.
+:::
 
-Vorfeld-Satzfeld-Nachfeld
+Griesbach & Schulz [-@griesbach1960: 370-371] take this approach even further and apply it to the analysis of multiple-embedded sentence constructions, as shown in [@fig:griesbach1960_371] for the example sentence [@next]. They call such an illustration a *Satzbild*, which indicates that they were aware of this tradition of syntactic analysis. In their *Satzbild*, each clause is depicted with a *Satzrahmen* consisting of two black quarter circles and all sentence consitituents are squares (for arguments) or triangles (for adjuncts). Different from all *Satzbilder* in the German tradition, subordinate clauses are here positioned vertically above the main clause. Each subordinate clause has itself a function in its matrix clause.
+
+- Squares are used to indicate verbal arguments, with a letter indicating the case: *N=Nominativ, A=Akkusativ, D=Dativ*.
+- Triangles are used for adjuncts, with the letters *T* being used for temporal and *M* for modal adjuncts.
+- Subjunctions and complementizers are indicated by white arrows in the leftmost black quarter-circle. Conjunctions are marked as plus-symbols (not shown here). They do not include any example of relative clauses in their graphical examples.
+
+In a later revision of the grammar [@griesbach1970: 417], the geometric objects are removed and subordination is depicted downwards, as shown in [@fig:griesbach1970_417]. This graphical approach is more in line with the new Chomskyan "style" of syntactic trees, which is explicitly acknowledged in the introduction [@griesbach1970: xiv].
 
 ::: ex
 Wenn du mir versprichst, daß du mir das Geld wiedergibst, sobald dir dein Vater den Scheck geschickt hat, kann ich dir die 100 Mark geben, obwohl ich noch mindestens zwei Wochen warten muß, bis ich mein nächstes Gehalt bekomme.
 :::
 
 ::: {.im #griesbach1960_371}
-*Satzbild* of the multiple embedded sentence [@last] from Griesbach & Schulz [-@griesbach1960: 371].
+*Satzbild* of the multiple embedded sentence [@last] from Griesbach & Schulz [-@griesbach1960: 371]. Embedded clauses are positioned upwards and each clause has its own *Satzrahmen* as indicated by the black quarter circles. Squares are used for arguments and triangles for adjuncts, with letters indicating the kind of consituent. Embedded clauses themselves have a function in their matrix clause, making this a clear example of a constituency structure.
 :::
 
 ::: {.im #griesbach1970_417}
-Updated *Satzbild* of the same sentence as shown in [@fig:griesbach1960_371] from the 8th edition of Griesbach & Schulz [-@griesbach1970: 417].
+Updated *Satzbild* of the same sentence as shown in [@fig:griesbach1960_371] from the 8th edition of Griesbach & Schulz [-@griesbach1970: 417]. Embedded sentences are now placed downward. The geometrical object are removed and replaced by more cryptic letter combinations. This "style" of syntactic analysis is more in-line with the Chomskyan approach, which has become fashionable at this point in time.
 :::
 
 ### Grosse (1960) *Die deutsche Satzperiode*
