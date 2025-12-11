@@ -2038,6 +2038,22 @@ https://de.wikipedia.org/wiki/Dora_Schulz
 
 first edition with nice graphics [@griesbach1960] 8th edition with much simpler format, but identical content [@griesbach1970]
 
+*Satzrahmen* (today *Verbalklammer*)
+
+Vorfeld-Satzfeld-Nachfeld
+
+::: ex
+Wenn du mir versprichst, daß du mir das Geld wiedergibst, sobald dir dein Vater den Scheck geschickt hat, kann ich dir die 100 Mark geben, obwohl ich noch mindestens zwei Wochen warten muß, bis ich mein nächstes Gehalt bekomme.
+:::
+
+::: {.im #griesbach1960_371}
+*Satzbild* of the multiple embedded sentence [@last] from Griesbach & Schulz [-@griesbach1960: 371].
+:::
+
+::: {.im #griesbach1970_417}
+Updated *Satzbild* of the same sentence as shown in [@fig:griesbach1960_371] from the 8th edition of Griesbach & Schulz [-@griesbach1970: 417].
+:::
+
 ### Grosse (1960) *Die deutsche Satzperiode*
 
 [@grosse1960] indented subordinates clauses
