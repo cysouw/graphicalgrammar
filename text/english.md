@@ -51,6 +51,8 @@ To describe the word order of the German sentence uses a templatic approach [see
 
 word "Topik" already in use with Roth [@roth1799: 271 ff.], who influenced Herling. Analysis of Roth is rather simplistic.
 
+"grammatischen Topik" appears common use of language for "word order", e.g. an example from 1902 https://google.com/books?id=CDY8AQAAMAAJ
+
 Becker [-@becker1829: 376] calls this the *Konstruktion oder Topik des Satzes* 'construction or topic of the sentence* and he also uses the expression
 *topische Stellung* 'topical position'.^[This usage of the word *Topik* should not be confused with the modern linguistik usage of this term with the meaning "theme". Becker seems to have come up with this term based on the Greek meaning of *τόπος* 'place', i.e. placement of the words in a sentence. In German pronunciation, it would probably have been pronounced with a long/tense "o" instead of the short/lax "o" with which the modern term "Topik" is pronounced in German linguistics.] In the English translation, Becker [-@becker1830: 250ff.] only uses the term "construction" instead of "topic". Then, in the *Schulgrammatik* [@becker1831: 201], he uses the terms *Konstruktion oder die Wortfolge des Satzes* 'construction or word order of the sentence'. And finally, in the the *Leitfaden* [@becker1833: 66ff.], he simply calls it *Wortfolge* 'word order'.
 
@@ -60,6 +62,10 @@ Aussagewort vs. Ausgesagtes [@becker1833: 67]
 
 Dasjenige Objektiv, welches als das Hauptwort des ganzen Verhältnisses anzusehen ist (das Hauptobjektiv), erhält seine Stelle unmittelbar vor dem Prädikativ; und die andern Objektiven treten nach der Abstufung ihrer Unterordnung vor das Hauptobjektiv, indem jedes derselben dem ihm zunächst
 übergeordneten Objektiv unmittelbar vorangeht. Im allgemeinen geht dem Begriffsworte das Formwort, dem Kasus das Orts- und Zeitadverb, dem Kasus der unmittelbar kausalen Beziehung der Kasus der mittelbar kausalen Beziehung, dem Kasus der Sache der Kasus der Person, und dem Ortsadverb das Zeitadverb voran; [@becker1829: 387-388]
+
+::: {.im #becker1830_261}
+[@becker1830: 261]
+:::
 
 ### James (1847) *The elements of grammar*
 

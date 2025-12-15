@@ -2012,6 +2012,8 @@ sentence template p. 63-64
 
 word "topologie" already used by Walter Flämig in 1971: https://doi.org/10.1515/9783111350851-008, also chapter 4 in https://doi.org/10.1515/9783112642702 (1981)
 
+Word "topologie" already used by Bierwisch (1961: 259, 261, 267) 10.1524/stuf.1961.14.14.244 However, he uses the term without introduction, so it seems to have been common usage already before him.
+
 Über die Topik der deutschen Sprache [@herling1821]
 
 "Topologische Felder", manuscript from 1983 that circulated in the field, Höhle cites Herling and Becker [@hohle2019: 11, 38]
