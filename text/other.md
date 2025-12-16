@@ -624,9 +624,9 @@ first edition not available in Germany? 9th edition probably same as 1950 editio
 
 see also Bonnard [-@bonnard1964: 52,54] as cited by [@sandmann1971: 428]. Bonnard cites Mikuš extensively and also knows about Tesnière (p. 54).
 
-Bonnard in the 10th edition (?) says:
+Bonnard in the 10th edition from 1971 says:
 
-> Différentes figurations symboliques des agencements de la phrase ont vu le jour depuis 1950 stemmas, algorithmes, graphes, 'arbres' aux fruits abstraits, tous systèmes délivrant des pâtures idéales pour les ordinaleurs de la traduction automatique. La méthode des schémas en couleurs adoptée dans ce livre dès l'origine, et que l'auteur n'a cessé de pratiquer avec succès, reste plus près des goúts humains et des possibilités de jeunes élèves. Notre confrère belge M. Grevisse lui a apporté un suffrage de haut poids en s'en inspirant, avec notre accord, pour la vingtsixième édition de son *Précis de grammaire française* (1959). [Bonnard, cited from @lieber1986: 171]
+> Différentes figurations symboliques des agencements de la phrase ont vu le jour depuis 1950 stemmas, algorithmes, graphes, 'arbres' aux fruits abstraits, tous systèmes délivrant des pâtures idéales pour les ordinaleurs de la traduction automatique. La méthode des schémas en couleurs adoptée dans ce livre dès l'origine, et que l'auteur n'a cessé de pratiquer avec succès, reste plus près des goúts humains et des possibilités de jeunes élèves. Notre confrère belge M. Grevisse lui a apporté un suffrage de haut poids en s'en inspirant, avec notre accord, pour la vingtsixième édition de son *Précis de grammaire française* (1959). [Bonnard 1971:3, cited from @lieber1986: 171]
 >
 > ("Various symbolic representations of sentence structure have emerged since 1950: stemmas, algorithms, graphs, abstract 'trees', all systems providing ideal resources for machine translation algorithms. The method of color-coded diagrams adopted in this book from the outset, and which the author has not stopped to successfully employ, remains closer to human tastes and the capabilities of young students. Our Belgian colleague, Mr. Grevisse, gave it his full support by using it, with our permission, for the twenty-sixth edition of his *Précis de grammaire française* (1959).")
 
@@ -1648,11 +1648,11 @@ https://journals.lki.lt/bendrinekalba/article/view/2210
 
 ### Li Jinxi (1924) *New Grammar of the National Language* 
 
-Li Jinxi (1890-1978) 
+Li Jinxi (1890-1978) 新著国语文法 https://en.wikipedia.org/wiki/Li_Jinxi
 
-*Hsin chu kuo yü chiao hsüeh fa* 1924, https://catalog.hathitrust.org/Record/101987002 examples on p 118-119, refers to 'new book on chinese grammar, chapter 19'
+original syntax diagrams [@jinxi1924: 118-119] Original from 1924, major revision in 1933, many reprints/new editions, at least until 2001 [@jinxi1924; @jinxi1933; @jinxi2001]
 
-Chinese version of reed/kellog: Li Jinxi *New Grammar of the National Language* [@mossner1960; @peverelli2015: 97-104]
+Chinese version of reed/kellog [@mossner1960; @peverelli2015: 97-104]
 
 ## Japanese
 
