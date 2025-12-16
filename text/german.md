@@ -2016,7 +2016,7 @@ Word "topologie" already used by Bierwisch (1961: 259, 261, 267) 10.1524/stuf.19
 
 Word "Topologie" used by Bech, chapter called "Zur typologie der verbalfelder" [@bech1955: 60]
 
-word "Topik/topisch" has a long tradition [@roth1799;[@herling1821;@pollaschek1902;@diderichsen1943]
+word "Topik/topisch" has a long tradition [@roth1799;[@herling1821;@pollaschek1902;@diderichsen1943] *topiske* in Danish in [@diderichsen1941: 10-14].
 
 Höhle first uses word in print in 1979 [@hohle1979: 387]
 
@@ -2025,6 +2025,10 @@ Höhle first uses word in print in 1979 [@hohle1979: 387]
 "Die Lehre von den topologischen Feldern besteht – nicht unter diesem Namen, aber in ihren wesentlichen Inhalten – seit mindestens 100 Jahren in gereifter Form." p.11
 
 ## More recent didactic approaches
+
+### Rahn (1951) *Deutsche Spracherziehung*
+
+[@rahn1953]
 
 ### Essen (1956) *Methodik des Deutschunterrichts*
 
