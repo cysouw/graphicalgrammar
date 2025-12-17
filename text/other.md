@@ -581,6 +581,38 @@ l’abbé Louis Gaultier (1746-1818)[ @gaultier1817] parsing tables, but without
 
 [@gaultier1819] using colors and circles to teach word classes to small kids
 
+### Bally (1932) *Linguistique générale et linguistique française*
+
+Charles Bally (1865-1947), successor to Ferdinand de Saussure as professor for general linguistics in Geneva
+
+::: {.im #bally1944_39}
+[@bally1944: 39]
+:::
+
+### Damourette & Pichon (1933) *Essai de grammaire de la langue française*
+
+Jacques Damourette (1873-1943) and Édouard Pichon (1890-1940)
+
+https://fr.wikipedia.org/wiki/Jacques_Damourette
+https://fr.wikipedia.org/wiki/Édouard_Pichon
+
+Volume 3
+
+> De sorte que le verbe peut être figuré comme ayant deux tentacules, un pour le repère et un pour l'about, et une infinité de crochets où peuvent s'accrocher les ficelles-prépositions avec les compléments de leur rayon respectif. [@damourette1933: 185]
+>
+> ('Thus, the verb can be represented as having two tentacles, one for the reference and one for the about, and an infinite number of hooks where the prepositional strings can be attached with the complements of their respective spokes.')  
+
+::: ex
+Autour de notre enceinte, une garde terrible \
+Aux peuples consternés offre de toutes part \
+Un rempart hérissé de piques et de dards. \
+[@damourette1933: 184, citing Voltaire *L'Orphelin de la Chine*]
+:::
+
+::: {.im #damourette1933_185}
+[@damourette1933: 185]
+:::
+
 ### Tesnière (1934) *Comment construire une syntaxe*
 
 Many biographical details in https://doi.org/10.1515/9783110715118
@@ -616,11 +648,9 @@ https://nl.wikipedia.org/wiki/Maurice_Bologne
 
 ### Bonnard (1950) *Grammaire française des lycées et collèges* {#sec:bonnard1950}
 
-Henri Bonnard (1915-2004) teacher and author of many grammatical textbooks
+Henri Bonnard (1915-2004) was teacher and author of many grammatical textbooks. A survey of his major works in given by Fouillet [-@fouillet2024]. In 1950 he wrote the *Grammaire française des lycées et collèges*, in which he uses a graphical display of syntactic structures. I have not been able to access a copy of the first edition. The fourth edition [@bonnard1957] is 'corrected' but probably in essence the same as the first edition. The ninth edition appears to be completely identical to fourth edition [@bonnard1970]. I will cite the ninth edition here, but I expect that everything said here also holds for the first edition.
 
-Survey of his major works in [@fouillet2024]
-
-first edition not available in Germany? 9th edition probably same as 1950 edition [@bonnard1970]
+It is unclear whether Bonnard had any inspiration from other authors for his graphical display. 
 
 see also Bonnard [-@bonnard1964: 52,54] as cited by [@sandmann1971: 428]. Bonnard cites Mikuš extensively and also knows about Tesnière (p. 54).
 
