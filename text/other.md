@@ -681,15 +681,19 @@ Bonnard in the 10th edition from 1971 says:
 >
 > ("Various symbolic representations of sentence structure have emerged since 1950: stemmas, algorithms, graphs, abstract 'trees', all systems providing ideal resources for machine translation algorithms. The method of color-coded diagrams adopted in this book from the outset, and which the author has not stopped to successfully employ, remains closer to human tastes and the capabilities of young students. Our Belgian colleague, Mr. Grevisse, gave it his full support by using it, with our permission, for the twenty-sixth edition of his *Précis de grammaire française* (1959).")
 
-### Galichet (1953) *Méthodologie grammaticale*
+### Galichet (1950) *Essai de grammaire psychologique*
 
-Georges Galichet (1904-1992) book originally dissertation from 1945 *Les mécanismes de la langue française. Essai de méthodologie grammaticale*
+Georges Galichet (1904-1992) https://de.wikipedia.org/wiki/Georges_Galichet
 
-https://de.wikipedia.org/wiki/Georges_Galichet
+1950: graphic in *essai*, first edition from 1947! [@galichet1950: 169]
 
-simple three-part template [@galichet1953: 106]
+1953: *Méthodologie grammaticale. Étude psychologique des structures* this book originally dissertation from 1945 *Les mécanismes de la langue française. Essai de méthodologie grammaticale* simple three-part template [@galichet1953: 106] Second edition adds very simple graphic for subordinated clauses with downward arrows [@galichet1963: 231]
 
-The same in later articles (1980) with chinese boxes diagram for multiple subordination
+1967: very complex graphics, also for multiple subordinated sentences [@galichet1967]
+
+1975: chinese boxes for noun phrases in [@galichet1975: 106], first edition of this book is from 1949!
+
+Simple graphics in later articles (1980) with chinese boxes diagram for multiple subordination
 
 - https://www.persee.fr/doc/igram_0222-9838_1980_num_4_1_2506
 - https://www.persee.fr/doc/igram_0222-9838_1980_num_6_1_2478
