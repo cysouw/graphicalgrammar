@@ -581,6 +581,21 @@ l’abbé Louis Gaultier (1746-1818)[ @gaultier1817] parsing tables, but without
 
 [@gaultier1819] using colors and circles to teach word classes to small kids
 
+### Lanusse & Yvon (1923) *Cours complet de grammaire française*
+
+- https://de.wikipedia.org/wiki/Maxime_Lanusse
+- https://de.wikipedia.org/wiki/Henri_Yvon
+
+[@next] "contains two principal propositions adn six subordinate propositions"
+
+::: ex
+Puisque nos soldats, pendant qu'ils soutenaient contre les Allemands des luttes si cruelles, ont montré que les Français sont doués des plus belles qualités militaires, il est légitime que nous ayons confiance dans l'avenir de notre pays; mais il est nécessaire que nous pratiquions dans la paix les vertus de discipline dont les combattants nous ont donné l'exemple.
+:::
+
+::: {.im #lanusse1923_227}
+*Tableau d'analyse logique* of example [@last] from Lanusse & Yvon [-@lanusse1923: 227]
+:::
+
 ### Damourette & Pichon (1933) *Essai de grammaire de la langue française* {#sec:damourette1933}
 
 Jacques Damourette (1873-1943) was an architect by training, but highly interested in linguistic questions. In 1911 he started working on a french grammar together with his nephew Édouard Pichon (1890-1940), by training a pediatrician and influential as a psychoanalyst.^[Some limited biographical information about them is available on Wikipedia at <https://fr.wikipedia.org/wiki/Jacques_Damourette> and <https://fr.wikipedia.org/wiki/Édouard_Pichon>, accessed 18 December 2025.] The first volume of the resulting *Essai de grammaire de la langue française* was published in 1930. In the end, the project grew to seven volumes with more than 4500 pages in total, including more than 31.000 french examples [cf. @muni-toke2013].
@@ -646,7 +661,7 @@ https://nl.wikipedia.org/wiki/Maurice_Bologne
 
 Charles Bally (1865-1947), successor to Ferdinand de Saussure as professor for general linguistics in Geneva
 
-first edition no graphic, only in revision of 1944 [@bally1932]
+first edition no graphic [@bally1932], only in revision of 1944
 
 ::: {.im #bally1944_39}
 [@bally1944: 39]
@@ -675,6 +690,7 @@ https://de.wikipedia.org/wiki/Georges_Galichet
 simple three-part template [@galichet1953: 106]
 
 The same in later articles (1980) with chinese boxes diagram for multiple subordination
+
 - https://www.persee.fr/doc/igram_0222-9838_1980_num_4_1_2506
 - https://www.persee.fr/doc/igram_0222-9838_1980_num_6_1_2478
 
