@@ -581,39 +581,33 @@ l’abbé Louis Gaultier (1746-1818)[ @gaultier1817] parsing tables, but without
 
 [@gaultier1819] using colors and circles to teach word classes to small kids
 
-### Bally (1932) *Linguistique générale et linguistique française*
+### Damourette & Pichon (1933) *Essai de grammaire de la langue française* {#sec:damourette1933}
 
-Charles Bally (1865-1947), successor to Ferdinand de Saussure as professor for general linguistics in Geneva
+Jacques Damourette (1873-1943) was an architect by training, but highly interested in linguistic questions. In 1911 he started working on a french grammar together with his nephew Édouard Pichon (1890-1940), by training a pediatrician and influential as a psychoanalyst.^[Some limited biographical information about them is available on Wikipedia at <https://fr.wikipedia.org/wiki/Jacques_Damourette> and <https://fr.wikipedia.org/wiki/Édouard_Pichon>, accessed 18 December 2025.] The first volume of the resulting *Essai de grammaire de la langue française* was published in 1930. In the end, the project grew to seven volumes with more than 4500 pages in total, including more than 31.000 french examples [cf. @muni-toke2013].
 
-::: {.im #bally1944_39}
-[@bally1944: 39]
-:::
+In Volume 3 [@damourette1933: 185], out of the blue, they include a syntactic diagram, shown here in [@fig:damourette1933_185] for an example from Voltaire [@next]. They never return to this kind of analysis throughout the rest of the *essai* and there is no indication for any inspiration for this graphical approach. Muni Toke [-@muni-toke2013: Annexe B] documents the correspondence between Damourette/Pichon and Lucièn Tesnière (cf. [@sec:tesniere1934]), but this happened in 1936-1937 after they already had each individually published graphical analyses, and the graphical approach does not come up in their correspondence. There is, however, an interesting back-and-forth about Damourette/Pichon's notion *nœud verbal* 'verbal node' [@damourette1933: 151 ff.], which Tesnière compares to his own verb-centric syntactic approach, which he equates with some unnamed concept of Otto Jespersen (cf. [@sec:jespersen1921]). In general, Damourette & Pichon use much idiosynratic terminology, which makes their texts quite hard to interpret.
 
-### Damourette & Pichon (1933) *Essai de grammaire de la langue française*
-
-Jacques Damourette (1873-1943) and Édouard Pichon (1890-1940)
-
-https://fr.wikipedia.org/wiki/Jacques_Damourette
-https://fr.wikipedia.org/wiki/Édouard_Pichon
-
-Volume 3
+Explaining their graphic, Damourette & Pichon [-@damourette1933: 185] propose a major horizontal link (displayed with a double bar) between *le repère* 'the reference' (here the subject) with *l'about* 'the about' (meaning roughly'predicate' or 'verb phrase'). Optional prepositional phrases are are hanging down from this horizontal bar. 
 
 > De sorte que le verbe peut être figuré comme ayant deux tentacules, un pour le repère et un pour l'about, et une infinité de crochets où peuvent s'accrocher les ficelles-prépositions avec les compléments de leur rayon respectif. [@damourette1933: 185]
 >
 > ('Thus, the verb can be represented as having two tentacles, one for the reference and one for the about, and an infinite number of hooks where the prepositional strings can be attached with the complements of their respective spokes.')  
 
 ::: ex
-Autour de notre enceinte, une garde terrible \
-Aux peuples consternés offre de toutes part \
-Un rempart hérissé de piques et de dards. \
-[@damourette1933: 184, citing Voltaire *L'Orphelin de la Chine*]
+- Autour de notre enceinte, une garde terrible \
+  Aux peuples consternés offre de toutes part \
+  Un rempart hérissé de piques et de dards. \
+  [@damourette1933: 184, citing Voltaire *L'Orphelin de la Chine*]
+- Around our compound, a terrible guard \
+  to the dismayed people presents from all sides \
+  a fortification bristling with spikes and darts.
 :::
 
 ::: {.im #damourette1933_185}
-[@damourette1933: 185]
+*Figure* of example [@last] from Damourette & Pichon [-@damourette1933: 185]. The basic horizontal bars connect *le repère* 'the reference' (here: subject) with *l'about* 'the about' (roughly meaning 'predicate' or 'verb phrase'). Prepositional phrases are are hanging down from this horizontal bar. Inexplicably, the simple present verbform *offre* 'offers' from the example is exchanged with the verbform *est offrant* 'is offered'. Even stranger, the finite auxiliary *est* ist placed in the box with the subject. This is probably a printing error.
 :::
 
-### Tesnière (1934) *Comment construire une syntaxe*
+### Tesnière (1934) *Comment construire une syntaxe* {#sec:tesniere1934}
 
 Many biographical details in https://doi.org/10.1515/9783110715118
 
@@ -646,11 +640,21 @@ https://nl.wikipedia.org/wiki/Maurice_Bologne
 *Analyse algébrique* [@bologne1963: 23]
 :::
 
+### Bally (1944) *Linguistique générale et linguistique française* {#sec:bally1932}
+
+Charles Bally (1865-1947), successor to Ferdinand de Saussure as professor for general linguistics in Geneva
+
+first edition no graphic, only in revision of 1944 [@bally1932]
+
+::: {.im #bally1944_39}
+[@bally1944: 39]
+:::
+
 ### Bonnard (1950) *Grammaire française des lycées et collèges* {#sec:bonnard1950}
 
 Henri Bonnard (1915-2004) was teacher and author of many grammatical textbooks. A survey of his major works in given by Fouillet [-@fouillet2024]. In 1950 he wrote the *Grammaire française des lycées et collèges*, in which he uses a graphical display of syntactic structures. I have not been able to access a copy of the first edition. The fourth edition [@bonnard1957] is 'corrected' but probably in essence the same as the first edition. The ninth edition appears to be completely identical to fourth edition [@bonnard1970]. I will cite the ninth edition here, but I expect that everything said here also holds for the first edition.
 
-It is unclear whether Bonnard had any inspiration from other authors for his graphical display. 
+Bonnard cites Bally (see [@sec:bally1932]) and Damourette & Pichon (see [@sec:damourette1933]) as inspiration. Specifically the graphical approach from Damourette & Pichon (see [@fig:damourette1933_185]) seems to have been a possible starting point for Bonnard's graphical approach.
 
 see also Bonnard [-@bonnard1964: 52,54] as cited by [@sandmann1971: 428]. Bonnard cites Mikuš extensively and also knows about Tesnière (p. 54).
 
@@ -659,6 +663,18 @@ Bonnard in the 10th edition from 1971 says:
 > Différentes figurations symboliques des agencements de la phrase ont vu le jour depuis 1950 stemmas, algorithmes, graphes, 'arbres' aux fruits abstraits, tous systèmes délivrant des pâtures idéales pour les ordinaleurs de la traduction automatique. La méthode des schémas en couleurs adoptée dans ce livre dès l'origine, et que l'auteur n'a cessé de pratiquer avec succès, reste plus près des goúts humains et des possibilités de jeunes élèves. Notre confrère belge M. Grevisse lui a apporté un suffrage de haut poids en s'en inspirant, avec notre accord, pour la vingtsixième édition de son *Précis de grammaire française* (1959). [Bonnard 1971:3, cited from @lieber1986: 171]
 >
 > ("Various symbolic representations of sentence structure have emerged since 1950: stemmas, algorithms, graphs, abstract 'trees', all systems providing ideal resources for machine translation algorithms. The method of color-coded diagrams adopted in this book from the outset, and which the author has not stopped to successfully employ, remains closer to human tastes and the capabilities of young students. Our Belgian colleague, Mr. Grevisse, gave it his full support by using it, with our permission, for the twenty-sixth edition of his *Précis de grammaire française* (1959).")
+
+### Galichet (1953) *Méthodologie grammaticale*
+
+Georges Galichet (1904-1992) book originally dissertation from 1945 *Les mécanismes de la langue française. Essai de méthodologie grammaticale*
+
+https://de.wikipedia.org/wiki/Georges_Galichet
+
+simple three-part template [@galichet1953: 106]
+
+The same in later articles (1980) with chinese boxes diagram for multiple subordination
+- https://www.persee.fr/doc/igram_0222-9838_1980_num_4_1_2506
+- https://www.persee.fr/doc/igram_0222-9838_1980_num_6_1_2478
 
 ### Grevisse (1959) *Précis de grammaire française* {#sec:grevisse1959}
 
