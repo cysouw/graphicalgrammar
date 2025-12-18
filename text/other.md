@@ -587,11 +587,13 @@ Jacques Damourette (1873-1943) was an architect by training, but highly interest
 
 In Volume 3 [@damourette1933: 185], out of the blue, they include a syntactic diagram, shown here in [@fig:damourette1933_185] for an example from Voltaire [@next]. They never return to this kind of analysis throughout the rest of the *essai* and there is no indication for any inspiration for this graphical approach. Muni Toke [-@muni-toke2013: Annexe B] documents the correspondence between Damourette/Pichon and Lucièn Tesnière (cf. [@sec:tesniere1934]), but this happened in 1936-1937 after they already had each individually published graphical analyses, and the graphical approach does not come up in their correspondence. There is, however, an interesting back-and-forth about Damourette/Pichon's notion *nœud verbal* 'verbal node' [@damourette1933: 151 ff.], which Tesnière compares to his own verb-centric syntactic approach, which he equates with some unnamed concept of Otto Jespersen (cf. [@sec:jespersen1921]). In general, Damourette & Pichon use much idiosynratic terminology, which makes their texts quite hard to interpret.
 
-Explaining their graphic, Damourette & Pichon [-@damourette1933: 185] propose a major horizontal link (displayed with a double bar) between *le repère* 'the reference' (here the subject) with *l'about* 'the about' (meaning roughly'predicate' or 'verb phrase'). Optional prepositional phrases are are hanging down from this horizontal bar. 
+Explaining their graphic, Damourette & Pichon [-@damourette1933: 185] propose a major horizontal link (displayed with a double bar) between *le repère* 'the reference' (subject) with *l'about* 'the about' (object). Optional prepositional phrases are are hanging down from this horizontal bar.
 
 > De sorte que le verbe peut être figuré comme ayant deux tentacules, un pour le repère et un pour l'about, et une infinité de crochets où peuvent s'accrocher les ficelles-prépositions avec les compléments de leur rayon respectif. [@damourette1933: 185]
 >
 > ('Thus, the verb can be represented as having two tentacles, one for the reference and one for the about, and an infinite number of hooks where the prepositional strings can be attached with the complements of their respective spokes.')  
+
+Without explanation, the verbform *offre* is replaced with *est offrant* in the graphical representation. The placement of the copula *est* in the box with the subject is probably a printing error. The last phrase *de piques et de dards* 'with spikes and darts' is not included in the graphic, which is curious because this phrase belongs together with adverb *hérissé* 'bristling'. Voltaire does not talk about a 'bristling fortification' but about a 'fortification bristling with spikes and darts', which is quite something different.
 
 ::: ex
 - Autour de notre enceinte, une garde terrible \
@@ -604,7 +606,7 @@ Explaining their graphic, Damourette & Pichon [-@damourette1933: 185] propose a 
 :::
 
 ::: {.im #damourette1933_185}
-*Figure* of example [@last] from Damourette & Pichon [-@damourette1933: 185]. The basic horizontal bars connect *le repère* 'the reference' (here: subject) with *l'about* 'the about' (roughly meaning 'predicate' or 'verb phrase'). Prepositional phrases are are hanging down from this horizontal bar. Inexplicably, the simple present verbform *offre* 'offers' from the example is exchanged with the verbform *est offrant* 'is offered'. Even stranger, the finite auxiliary *est* ist placed in the box with the subject. This is probably a printing error.
+*Figure* of example [@last] from Damourette & Pichon [-@damourette1933: 185]. The basic horizontal bars connect *le repère* 'the reference' with *l'about* 'the about'. Prepositional phrases are are hanging down from this horizontal bar. Inexplicably, the simple present verbform *offre* 'offers' from the example is exchanged with the verbform *est offrant* 'is offered'. Even stranger, the finite auxiliary *est* ist placed in the box with the subject. This is probably a printing error.
 :::
 
 ### Tesnière (1934) *Comment construire une syntaxe* {#sec:tesniere1934}
