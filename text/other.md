@@ -586,6 +586,8 @@ l’abbé Louis Gaultier (1746-1818)[ @gaultier1817] parsing tables, but without
 - https://de.wikipedia.org/wiki/Maxime_Lanusse
 - https://de.wikipedia.org/wiki/Henri_Yvon
 
+First edition from 1914?!
+
 [@next] "contains two principal propositions adn six subordinate propositions"
 
 ::: ex
@@ -667,36 +669,57 @@ first edition no graphic [@bally1932], only in revision of 1944
 [@bally1944: 39]
 :::
 
+### Mikuš (1947) *Le Syntagme EST-IL Binaire?* {#sec:mikuš1947}
+
+Francis Mikuš from Ljubljana, cf [@graffi2001: 201]
+
+trees following Wundt [@mikus1947: 37], includes "chines boxes" diagram, without attribution.
+
+boxes: [@1952: 452, 457, 460], numbers [@1952: 453, 458], spiral [@1952: 461], boxes with connections [@1952: 462]
+
+reanalysis of Sapirs symbolic representation, boxes on page 20 [@mikus1953: 20]
+
+Diskussion of Jan Michał Rozwadowski https://de.wikipedia.org/wiki/Jan_Michał_Rozwadowski in two-part article in Lingua (1955):
+
+- https://doi.org/10.1016/0024-3841(55)90002-4
+- https://doi.org/10.1016/0024-3841(55)90009-7
+
+Probably about *Wortbildung und Wortbedeutung: eine Untersuchung ihrer Grundgesetze* (1904), which is based on Wundt, but only very minimal "formulas" are used there (DSA 706 ET 350 R893) https://catalog.hathitrust.org/Record/006527156 but there are no graphics in that book
+
+### Galichet (1947) *Essai de grammaire psychologique*
+
+Georges Galichet (1904-1992) https://de.wikipedia.org/wiki/Georges_Galichet
+
+1947: graphic in *essai*, first edition from 1947 [@galichet1947: 164], second edition [@galichet1950: 169]
+
+1953: *Méthodologie grammaticale. Étude psychologique des structures* this book originally dissertation from 1945 *Les mécanismes de la langue française. Essai de méthodologie grammaticale* simple three-part template [@galichet1953: 106] Second edition adds very simple graphic for subordinated clauses with downward arrows [@galichet1963: 231]
+
+1965: colours and forms for basic grammar [@galichet1965] blue (noun) vs. red (verb) are the same coulours as Gaultier (1819) and Bonnard
+
+1967: very complex graphics, also for multiple subordinated sentences [@galichet1967]
+
+1975: chinese boxes for noun phrases in [@galichet1975: 106], first edition of this book is from 1949, but with different title *Physiologie de la langue française*. Title only changes with the 6th edition of 1975
+
+Simple graphics in later articles (1980) with chinese boxes diagram for multiple subordination
+
+- https://www.persee.fr/doc/igram_0222-9838_1980_num_4_1_2506
+- https://www.persee.fr/doc/igram_0222-9838_1980_num_6_1_2478
+
 ### Bonnard (1950) *Grammaire française des lycées et collèges* {#sec:bonnard1950}
 
 Henri Bonnard (1915-2004) was teacher and author of many grammatical textbooks. A survey of his major works in given by Fouillet [-@fouillet2024]. In 1950 he wrote the *Grammaire française des lycées et collèges*, in which he uses a graphical display of syntactic structures. I have not been able to access a copy of the first edition. The fourth edition [@bonnard1957] is 'corrected' but probably in essence the same as the first edition. The ninth edition appears to be completely identical to fourth edition [@bonnard1970]. I will cite the ninth edition here, but I expect that everything said here also holds for the first edition.
 
 Bonnard cites Bally (see [@sec:bally1932]) and Damourette & Pichon (see [@sec:damourette1933]) as inspiration. Specifically the graphical approach from Damourette & Pichon (see [@fig:damourette1933_185]) seems to have been a possible starting point for Bonnard's graphical approach.
 
-see also Bonnard [-@bonnard1964: 52,54] as cited by [@sandmann1971: 428]. Bonnard cites Mikuš extensively and also knows about Tesnière (p. 54).
+blue: noun, red: verb, green: complements (blue/red like Gaultier?!)
+
+see also Bonnard [-@bonnard1964: 52,54] as cited by [@sandmann1971: 428] with comparison to billroth! Here Bonnard cites Mikuš extensively and also knows about Tesnière (p. 54).
 
 Bonnard in the 10th edition from 1971 says:
 
 > Différentes figurations symboliques des agencements de la phrase ont vu le jour depuis 1950 stemmas, algorithmes, graphes, 'arbres' aux fruits abstraits, tous systèmes délivrant des pâtures idéales pour les ordinaleurs de la traduction automatique. La méthode des schémas en couleurs adoptée dans ce livre dès l'origine, et que l'auteur n'a cessé de pratiquer avec succès, reste plus près des goúts humains et des possibilités de jeunes élèves. Notre confrère belge M. Grevisse lui a apporté un suffrage de haut poids en s'en inspirant, avec notre accord, pour la vingtsixième édition de son *Précis de grammaire française* (1959). [Bonnard 1971:3, cited from @lieber1986: 171]
 >
 > ("Various symbolic representations of sentence structure have emerged since 1950: stemmas, algorithms, graphs, abstract 'trees', all systems providing ideal resources for machine translation algorithms. The method of color-coded diagrams adopted in this book from the outset, and which the author has not stopped to successfully employ, remains closer to human tastes and the capabilities of young students. Our Belgian colleague, Mr. Grevisse, gave it his full support by using it, with our permission, for the twenty-sixth edition of his *Précis de grammaire française* (1959).")
-
-### Galichet (1950) *Essai de grammaire psychologique*
-
-Georges Galichet (1904-1992) https://de.wikipedia.org/wiki/Georges_Galichet
-
-1950: graphic in *essai*, first edition from 1947! [@galichet1950: 169]
-
-1953: *Méthodologie grammaticale. Étude psychologique des structures* this book originally dissertation from 1945 *Les mécanismes de la langue française. Essai de méthodologie grammaticale* simple three-part template [@galichet1953: 106] Second edition adds very simple graphic for subordinated clauses with downward arrows [@galichet1963: 231]
-
-1967: very complex graphics, also for multiple subordinated sentences [@galichet1967]
-
-1975: chinese boxes for noun phrases in [@galichet1975: 106], first edition of this book is from 1949!
-
-Simple graphics in later articles (1980) with chinese boxes diagram for multiple subordination
-
-- https://www.persee.fr/doc/igram_0222-9838_1980_num_4_1_2506
-- https://www.persee.fr/doc/igram_0222-9838_1980_num_6_1_2478
 
 ### Grevisse (1959) *Précis de grammaire française* {#sec:grevisse1959}
 

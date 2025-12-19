@@ -788,24 +788,6 @@ Historical survey of Bloomfield and post-Bloomfieldians: [@matthews1993]
 
 [@wells1947: 84]
 
-### Mikuš (1947) *Le Syntagme EST-IL Binaire?* {#sec:mikuš1947}
-
-Francis Mikuš from Ljubljana, cf [@graffi2001: 201]
-
-trees following Wundt [@mikus1947: 37], includes "chines boxes" diagram, without attribution.
-
-boxes: [@1952: 452, 457, 460], numbers [@1952: 453, 458], spiral [@1952: 461], boxes with connections [@1952: 462]
-
-reanalysis of Sapirs symbolic representation, boxes on page 20 [@mikus1953: 20]
-
-Diskussion of Jan Michał Rozwadowski https://de.wikipedia.org/wiki/Jan_Michał_Rozwadowski in two-part article in Lingua (1955):
-
-- https://doi.org/10.1016/0024-3841(55)90002-4
-- https://doi.org/10.1016/0024-3841(55)90009-7
-
-Probably about *Wortbildung und Wortbedeutung: eine Untersuchung ihrer Grundgesetze* (1904), which is based on Wundt, but only very minimal "formulas" are used there (DSA 	
-706 ET 350 R893) https://catalog.hathitrust.org/Record/006527156 but there are no graphics in that book
-
 ### Nida (1949) *Morphology*
 
 nothing in 1946 version! [@nida1946]
