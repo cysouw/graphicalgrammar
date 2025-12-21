@@ -766,6 +766,14 @@ also Alfred Dwight Sheffield [@sheffield1929: 53]
 
 morphology-formula [@sapir1921]
 
+::: {.im #mikus1953_20}
+Chinese boxes diagram from Mikuš [-@mikus1953: 20]
+:::
+
+::: {.im #seuren1998_187}
+Immediate constituent analysis from Seuren [-@seuren1998: 187]
+:::
+
 ### Bloomfield (1933) *Language* {#sec:bloomfield1933}
 
 [@bloomfield1933: 160-161] slowly builds up the terminology, which seems to indicate that the terminology is newly developed for this book. He starts with *constituent (or component)* which is *contained in* or *included in* complex forms. The basic building blocks are morphemes, which cannot be further subdivided, and are called *ultimate constituents*. Then, finally, any intermediate grouping are called *immediate constituents*.
@@ -778,7 +786,7 @@ Historical survey of Bloomfield and post-Bloomfieldians: [@matthews1993]
 
 ### Ajdukiewicz (1935) *Die syntaktische Konnexität*
 
-[@ajdukiewicz1935]
+[@ajdukiewicz1935; @ajdukiewicz1961]
 
 ### Pike (1943) *Taxemes and immediate constituents* {#sec:pike1943}
 

@@ -673,13 +673,16 @@ first edition no graphic [@bally1932], only in revision of 1944
 
 ### Mikuš (1947) *Le Syntagme EST-IL Binaire?* {#sec:mikuš1947}
 
-Francis Mikuš from Ljubljana, cf [@graffi2001: 201]
+Francis Mikuš from Ljubljana, cf [@graffi2001: 201] In his Ljubljana time he signs with "francis" but in the Zadar time he uses "Radivoj"
+
+https://sl.wikipedia.org/wiki/Radivoj_Franciscus_Mikuš
+https://doi.org/10.15291/csi.1087
+https://www.slovenska-biografija.si/oseba/sbi924050/
+https://morepress.unizd.hr/journals/index.php/csi/article/view/1087
 
 trees following Wundt [@mikus1947: 37], includes "chines boxes" diagram, without attribution.
 
-boxes: [@mikus1952: 452, 457, 460], numbers [@mikus1952: 453, 458], spiral [@mikus1952: 461], boxes with connections [@mikus1952: 462]
-
-hierarchical brackets [@mikus1952: 460]
+boxes: [@mikus1952: 452, 457, 460], numbers [@mikus1952: 453, 458], spiral [@mikus1952: 461], boxes with connections [@mikus1952: 462] hierarchical brackets [@mikus1952: 460]
 
 reanalysis of Sapirs symbolic representation, boxes on page 20 [@mikus1953: 20]
 
@@ -689,6 +692,15 @@ Diskussion of Jan Michał Rozwadowski https://de.wikipedia.org/wiki/Jan_Michał_
 - https://doi.org/10.1016/0024-3841(55)90009-7
 
 Probably about *Wortbildung und Wortbedeutung: eine Untersuchung ihrer Grundgesetze* (1904), which is based on Wundt, but only very minimal "formulas" are used there (DSA 706 ET 350 R893) https://catalog.hathitrust.org/Record/006527156 but there are no graphics in that book
+
+articles in Zadar [@mikus1960; @mikus1962], morphology: https://doi.org/10.15291/radoviling.2322
+
+1961: participation in conference in Erfurt [@mikus1961]
+
+1962 vorlesung in Berlin, written version in STUF: Syntagma besteht aus einem I- und einem U-Glied (Identifikationszeichen, Unterscheidungszeichen, roughly Head-Dependent, though note error on p. 133
+
+https://doi.org/10.1524/stuf.1962.15.14.127
+https://doi.org/10.1524/stuf.1962.15.14.137
 
 ### Galichet (1947) *Essai de grammaire psychologique*
 
