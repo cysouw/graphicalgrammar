@@ -569,13 +569,15 @@ basic underline-style diagramming in [@paardekooper1955], published version iden
 
 ## French
 
+Origin of the term *syntagma* in the Cours of 1916?
+
 ### Maimieux (1797) *Pasigraphie*
 
 Joseph de Maimieux (1753-1820)
 
 https://en.wikipedia.org/wiki/Joseph_de_Maimieux [@maimieux1797; @maimieux1797a]
 
-### Gaultier (1819) *Leçons de grammaire en action*
+### Gaultier (1819) *Leçons de grammaire en action* {#sec:gaultier1819}
 
 l’abbé Louis Gaultier (1746-1818)[ @gaultier1817] parsing tables, but without numbers
 
@@ -675,7 +677,9 @@ Francis Mikuš from Ljubljana, cf [@graffi2001: 201]
 
 trees following Wundt [@mikus1947: 37], includes "chines boxes" diagram, without attribution.
 
-boxes: [@1952: 452, 457, 460], numbers [@1952: 453, 458], spiral [@1952: 461], boxes with connections [@1952: 462]
+boxes: [@mikus1952: 452, 457, 460], numbers [@mikus1952: 453, 458], spiral [@mikus1952: 461], boxes with connections [@mikus1952: 462]
+
+hierarchical brackets [@mikus1952: 460]
 
 reanalysis of Sapirs symbolic representation, boxes on page 20 [@mikus1953: 20]
 
@@ -707,19 +711,56 @@ Simple graphics in later articles (1980) with chinese boxes diagram for multiple
 
 ### Bonnard (1950) *Grammaire française des lycées et collèges* {#sec:bonnard1950}
 
-Henri Bonnard (1915-2004) was teacher and author of many grammatical textbooks. A survey of his major works in given by Fouillet [-@fouillet2024]. In 1950 he wrote the *Grammaire française des lycées et collèges*, in which he uses a graphical display of syntactic structures. I have not been able to access a copy of the first edition. The fourth edition [@bonnard1957] is 'corrected' but probably in essence the same as the first edition. The ninth edition appears to be completely identical to fourth edition [@bonnard1970]. I will cite the ninth edition here, but I expect that everything said here also holds for the first edition.
+Henri Bonnard (1915-2004) was teacher and author of various grammatical textbooks. A survey of his major works in given by Fouillet [-@fouillet2024]. In 1950 he wrote his first textbook *Grammaire française des lycées et collèges*, in which he uses a graphical display of syntactic structures. I have not been able to access a copy of the first edition. The fourth edition [@bonnard1957] is 'corrected' but probably in essence the same as the first edition. The ninth edition appears to be completely identical to fourth edition [@bonnard1970]. I will cite the ninth edition from 1970 here, but I expect that everything said here also holds for the first edition from 1950. Bonnard [-@bonnard1970: 4] cites Bally (see [@sec:bally1932]) and Damourette & Pichon (see [@sec:damourette1933]) as inspiration, among others. Specifically the graphical approach from Damourette & Pichon (see [@fig:damourette1933_185]) seems to have been a possible starting point for Bonnard's graphical approach. 
 
-Bonnard cites Bally (see [@sec:bally1932]) and Damourette & Pichon (see [@sec:damourette1933]) as inspiration. Specifically the graphical approach from Damourette & Pichon (see [@fig:damourette1933_185]) seems to have been a possible starting point for Bonnard's graphical approach.
+Bonnard calls his graphical approach a *schéma*. His approach is summarised in just a few pages in the section *conventions de l'analyse de fonctions par le schéma* 'conventions for the analysis of functions with the diagram' [@bonnard1970: 6-10]. He uses boxes around the words, and the boxes are linked by lines, as shown in [@fig:bonnard1970_8]. The words are printed differently depending on the syntactic function, but he only distinguishes subject (regular typeface), verb (boldface), and everything else (italics). For the classroom he suggests to replace the different typefaces with colours (blue for the subject, red for the verb, and green for the rest), as shown in [@fig:bonnard1970_10]. It is probably a coincidence that Bonnard uses red for the verb just like Gaultier more than hundred years earlier (see [@sec:gaultier1819]).
 
-blue: noun, red: verb, green: complements (blue/red like Gaultier?!)
+> Ces schémas, où les mots sont imprimés en caractères différents selon leur fonction dans la phrase, seront facilement imités par le maître au tableau et par les élèves sur leurs cahiers: il suffira de transposer les différances de caractères en différences de couleurs. [@bonnard1970: 4]
+>
+> ('These diagrams, where words are printed in different characters according to their function in the sentence, will be easily imitated by the teacher on the board and by the students in their notebooks: it will be enough to transpose the differences in characters into differences in colors.')
 
-see also Bonnard [-@bonnard1964: 52,54] as cited by [@sandmann1971: 428] with comparison to billroth! Here Bonnard cites Mikuš extensively and also knows about Tesnière (p. 54).
+There are various aspect of this graphical approach that are similar to the proposal by Damourette & Pichon (see [@sec:damourette1933]). First, all verbal arguments are placed on the same horizontal level, linked by lines, while nominal attributes and verbal adjuncts are linked vertically below. Second, connecting words, like conjunctions, prepositions and the linker *de*, are placed besides the lines. Additionally, Bonnard adds various further refinements. For example, he also includes examples with subordinate clauses, but these are not analysed internally (not shown in the examples below). He also uses double lines for appositions.
 
-Bonnard in the 10th edition from 1971 says:
+::: ex
+- A l'heure dite, il courut au logis \
+  De la Cigogne son hôtesse; \
+  Loua très fort sa politesse; \
+  Trouva le dîner cuit à point. \
+  [@bonnard1970: 10, citing La Fontaine's *Le Renard et la Cigogne*]
+- At the appointed hour, he hurried to the home \
+  of the Stork, his hostess; \
+  (he) praised greatly her politeness; \
+  (he) found the dinner cooked perfectly.
+:::
+
+::: {.im #bonnard1970_10}
+Monochrome *schéma* for an example from a fable of La Fontaine [@last] from Bonnard [-@bonnard1970: 10]. Subject, verb and objects are placed on the sem horizontal level, linked by lines. Nominal attributes and sentential adjuncts are placed vertically down with connecting words (i.e. preposition, subjunctions, and also the particle *de*) written besides the lines. This graphical approach is similar to the approach by Damourette & Pichon (see [@fig:damourette1933_185]), which is cited by Bonnard as a influence.
+:::
+
+::: {.im #bonnard1970_8}
+Same schéma as in [@fig:bonnard1970_10], but now in colour, for example [@last] from Bonnard [-@bonnard1970: 8]. Bonnard proposes these colours for the use in classroom, both for the teacher writing on the blackboard and for the pupils writing in their exercise books. The use of blue for subject and red for object is reminiscent of the colours used by Gaultier (see [@sec:gaultier1819]), but this is probably a coincidence.
+:::
+
+In 1959 Bonnard's *schème* is adapted by Grevisse (see [@sec:grevisse1959]). This is explicitly addressed by Bonnard in the preface of the 10th edition of his book from 1971 [cited here from @lieber1986: 171]. By this point in time he acknowledges that there have been many different approaches of "symbolic figures" since the 1950s, but he remains convinced that his approach is more suitable for young students.
 
 > Différentes figurations symboliques des agencements de la phrase ont vu le jour depuis 1950 stemmas, algorithmes, graphes, 'arbres' aux fruits abstraits, tous systèmes délivrant des pâtures idéales pour les ordinaleurs de la traduction automatique. La méthode des schémas en couleurs adoptée dans ce livre dès l'origine, et que l'auteur n'a cessé de pratiquer avec succès, reste plus près des goúts humains et des possibilités de jeunes élèves. Notre confrère belge M. Grevisse lui a apporté un suffrage de haut poids en s'en inspirant, avec notre accord, pour la vingtsixième édition de son *Précis de grammaire française* (1959). [Bonnard 1971:3, cited from @lieber1986: 171]
 >
 > ("Various symbolic representations of sentence structure have emerged since 1950: stemmas, algorithms, graphs, abstract 'trees', all systems providing ideal resources for machine translation algorithms. The method of color-coded diagrams adopted in this book from the outset, and which the author has not stopped to successfully employ, remains closer to human tastes and the capabilities of young students. Our Belgian colleague, Mr. Grevisse, gave it his full support by using it, with our permission, for the twenty-sixth edition of his *Précis de grammaire française* (1959).")
+
+These proposals by Bonnard were strictly intended for the classroom. Conversely, in a short article for a scholarly audience, Bonnard [-@bonnard1964] addresses the general topic of how to analyse *syntagmas*. In this paper Bonnard extensively discusses the work of Mikuš (see [@sec:mikuš1947]) and off-handedly mentions Tesnière's *stemmas* (see [@sec:tesniere1934]). Instead of the constituency structures in the style of Mikuš (see [@fig:bonnard1964_52]), Bonnard proposes a dependency tree (see [@fig:bonnard1964_54]) to illustrate a sentence structure "as clearly as possible" [*le plus clairement possible*, @bonnard1964: 54]. This *schéma* is quite different from the ones he used in his textbook as this structure does not have subject, verb and arguments on the same horizontal line. Instead, it is clearly verb-centric with the verb on top, alike to Tesnière's *stemmas*. Also, connecting words (like *sur* and *de*) are now included in the linkage, instead of being places besides the lines in his textbook approach. Sandman [-@sandmann1971: 428] compares this graphic by Bonnard to Billroth's approach (see [@sec:billroth1832]), which is unfortunate, because Billroth's approach in non-verb-centric, much more like the graphics from Bonnard's textbook.
+
+::: ex
+Julien promenait sur le quai le chien de ses maitres. \
+'Julien walked his owners' dog along the quay.'
+:::
+
+::: {.im #bonnard1964_52}
+*Décomposition* of example [@last] from Bonnard [-@bonnard1964: 52], adapting a proposal from Mikuš [-@mikus1952: 460], who uses hierarchical bracketing to illustrate the constituency of the sentence.
+:::
+
+::: {.im #bonnard1964_54}
+*Schéme* for example [@last] from Bonnard [-@bonnard1964: 54], proposed as an alternative to the approach by Mikuš from [@fig:bonnard1964_52]. Bonnard claims that this approach is *le plus clairement possible* 'as clearly as possible'. Different from the schemes in his textbook (see [@fig:bonnard1970_10] above), these schemes are verb-centric, like the stemmas from Tesnière.
+:::
 
 ### Grevisse (1959) *Précis de grammaire française* {#sec:grevisse1959}
 
