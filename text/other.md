@@ -665,6 +665,10 @@ https://nl.wikipedia.org/wiki/Maurice_Bologne
 
 Charles Bally (1865-1947), successor to Ferdinand de Saussure as professor for general linguistics in Geneva
 
+Il est d’usage, pour les syntagmes réduits, de remplacer «thème» par *déterminé* et «propos» par *déterminant*. Nous préférons aussi, dans ce cas,
+remplacer *A* par *t* et *Z* par *t'*. D’ailleurs, nous emploierons dans la suite *tt'* (ou *t't*) pour désigner un syntagme quel qu’il soit. 
+1944: 102, 1932: 43
+
 first edition no graphic [@bally1932], only in revision of 1944
 
 ::: {.im #bally1944_39}
@@ -673,14 +677,22 @@ first edition no graphic [@bally1932], only in revision of 1944
 
 ### Mikuš (1947) *Le Syntagme EST-IL Binaire?* {#sec:mikuš1947}
 
-Francis Mikuš from Ljubljana, cf [@graffi2001: 201] In his Ljubljana time he signs with "francis" but in the Zadar time he uses "Radivoj"
+Radivoj Francis Mikuš from Ljubljana, cf [@graffi2001: 201] In his Ljubljana time he signs with "francis" but in the Zadar time he uses "Radivoj"
 
 https://sl.wikipedia.org/wiki/Radivoj_Franciscus_Mikuš
 https://doi.org/10.15291/csi.1087
 https://www.slovenska-biografija.si/oseba/sbi924050/
 https://morepress.unizd.hr/journals/index.php/csi/article/view/1087
 
-trees following Wundt [@mikus1947: 37], includes "chines boxes" diagram, without attribution.
+following bally (T-T') and trees following Wundt [@mikus1947: 37], includes "chines boxes" diagram, without attribution.
+
+::: {.im #mikus1947_33}
+*Formule* from Mikuš [-@mikus1947: 33] *faites sur les moules de Wundt* 'made in the mold of Wundt'.
+:::
+
+::: {.im #mikus1947_37}
+*Encadrement* from Mikuš [-@mikus1947: 37].
+:::
 
 boxes: [@mikus1952: 452, 457, 460], numbers [@mikus1952: 453, 458], spiral [@mikus1952: 461], boxes with connections [@mikus1952: 462] hierarchical brackets [@mikus1952: 460]
 
@@ -1215,6 +1227,10 @@ Graphical analysis of a single-clause sentence [@last a] from Mrázek [Mrázek 1
 ::: {.im #mrazek1936_6b}
 Graphical analysis of a multi-clause sentence [@last b] from Mrázek [Mrázek 1936: 6, cited after @novotna2012: 191]. Exactly the same visualisation as for single-clause sentences is used for complex sentences with subordinate clauses, though note the absence of arrows.
 :::
+
+### Rostohar (1937) *O struktuře vẽtných významů*
+
+Hierarchical bracketing [@rostohar1937]
 
 ### Kaňka & Vachek (1945) *Česká mluvnice a cvičebnice*
 

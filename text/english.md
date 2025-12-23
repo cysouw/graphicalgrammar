@@ -646,6 +646,18 @@ many reprints, later with Donald William Emery
 
 diagramming identical to reed/kellog [@pence1947: 311-368]
 
+### Hall (1964) *Introductory linguistics*
+
+Analysis of an example of Cicero "in the traditional scholastic fashion" (p. 203-204) [@hall1964]
+
+Magna dis immortalibus kabenda est atque huic ipsi lovi Slatori, antiquissimo
+custodi huius urbis, gratia, quod hanc tarn taetram, tarn horribilem, tamque infestam
+rei publicae pestem totiens iam effugimus: "Great thanks must be given to the
+immortal gods and to this very Jove the Founder [in whose temple Cicero
+was speaking], the most ancient guardian of this city, because we have
+already escaped [at least] to this extent a plague so dire, so fearful, and so
+harmful to the body politic".
+
 ## Diagrams in Great Brittain
 
 ### Dale (1897) *The teaching of the mother tongue in Germany*
