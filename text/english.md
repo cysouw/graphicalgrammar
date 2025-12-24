@@ -690,6 +690,12 @@ Fry [@fry1925: 12] commenting on Palser/Lewis: “all the chief features of my m
 [@fry1925: 64], cited by Jespersen [@jespersen1937: 83]
 :::
 
+### Palmer (1938) *The new method grammar*
+
+[@palmer1938]
+
+bio: https://warwick.ac.uk/fac/soc/al/research/collections/elt_archive/publications/smith_1999.pdf
+
 ## Immediate constituents
 
 ### Wundt (1880) *Logik* {#sec:wundt1880}

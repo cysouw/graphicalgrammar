@@ -677,12 +677,9 @@ first edition no graphic [@bally1932], only in revision of 1944
 
 ### Mikuš (1947) *Le Syntagme EST-IL Binaire?* {#sec:mikuš1947}
 
-Radivoj Francis Mikuš from Ljubljana, cf [@graffi2001: 201] In his Ljubljana time he signs with "francis" but in the Zadar time he uses "Radivoj"
+Radivoj Francis Mikuš (1906-1983) from Ljubljana, cf [@graffi2001: 201] In his Ljubljana time he signs with "francis" but in the Zadar time he uses "Radivoj"
 
-https://sl.wikipedia.org/wiki/Radivoj_Franciscus_Mikuš
-https://doi.org/10.15291/csi.1087
-https://www.slovenska-biografija.si/oseba/sbi924050/
-https://morepress.unizd.hr/journals/index.php/csi/article/view/1087
+basic biographical data in [@jevnikar1984], more details in [@cosic2014]
 
 following bally (T-T') and trees following Wundt [@mikus1947: 37], includes "chines boxes" diagram, without attribution.
 
@@ -696,14 +693,25 @@ following bally (T-T') and trees following Wundt [@mikus1947: 37], includes "chi
 
 boxes: [@mikus1952: 452, 457, 460], numbers [@mikus1952: 453, 458], spiral [@mikus1952: 461], boxes with connections [@mikus1952: 462] hierarchical brackets [@mikus1952: 460]
 
-reanalysis of Sapirs symbolic representation, boxes on page 20 [@mikus1953: 20]
+::: {.im #mikus1952_460}
+Hierarchical bracketing from Mikuš [-@mikus1952: 460].
+:::
 
-Diskussion of Jan Michał Rozwadowski https://de.wikipedia.org/wiki/Jan_Michał_Rozwadowski in two-part article in Lingua (1955):
+::: {.im #mikus1952_461}
+*Spirale* from Mikuš [-@mikus1952: 461].
+:::
 
-- https://doi.org/10.1016/0024-3841(55)90002-4
-- https://doi.org/10.1016/0024-3841(55)90009-7
+reanalysis of Sapirs symbolic representation (see [@sec:sapir1921]), boxes on page 20 [@mikus1953: 20]
 
-Probably about *Wortbildung und Wortbedeutung: eine Untersuchung ihrer Grundgesetze* (1904), which is based on Wundt, but only very minimal "formulas" are used there (DSA 706 ET 350 R893) https://catalog.hathitrust.org/Record/006527156 but there are no graphics in that book
+Diskussion of Jan Michał Rozwadowski https://de.wikipedia.org/wiki/Jan_Michał_Rozwadowski in two-part article in Lingua [@mikus1955] about *Wortbildung und Wortbedeutung: eine Untersuchung ihrer Grundgesetze* (1904), which is based on Wundt, but only very minimal "formulas" are used there (DSA 706 ET 350 R893) https://catalog.hathitrust.org/Record/006527156 but there are no graphics in that book
+
+::: ex
+Federmesser mit Korkenzieher
+:::
+
+::: {.im #mikus1955_27}
+*Architecture functionelle de syntagme* [@last] from Mikuš [-@mikus1955: 27].
+:::
 
 articles in Zadar [@mikus1960; @mikus1962], morphology: https://doi.org/10.15291/radoviling.2322
 
