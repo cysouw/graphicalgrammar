@@ -235,7 +235,7 @@ identical in 1849 version. bad scan at https://archive.org/details/encyclopediao
 
 Not the same person as William D. Hall from 1898 diagrams.
 
-coincidence "monème" by Henri Frei *La grammaire des fautes* (1929) ???
+coincidence "monème" by Henri Frei (1941:51) https://www.jstor.org/stable/27757865
 
 ## Diagramming
 
@@ -810,26 +810,17 @@ Historical survey of Bloomfield and post-Bloomfieldians: [@matthews1993]
 
 [@pike1943: 70], citing bloomfield
 
-### Wells (1947) *Immediate constituents*
+### Harris (1946) *From morpheme to utterance* {#sec:harris1946}
 
-[@wells1947: 84]
+This system was already introduced in [@harris1946]!
 
-### Nida (1949) *Morphology*
-
-nothing in 1946 version! [@nida1946]
-
-sentence: [@nida1949: 87]
-hierarchical morphological structure p.101, both 105
-
-### Harris (1951) *Methods in structuralist linguistics*
-
-book is later called *Structural Linguistics* [@harris1963]
+Also in *Methods in structuralist linguistics* (1951), this book is later called *Structural Linguistics* [@harris1963]
 
 examples of IC: *my most recent plays closed down* (p278-279) analysed as follows, with number of dots representing separation. Reversed bloomfield approach: more dots are "larger" separation
 
 T :: D . A : N² :. -s :.: V¹ . Pb : -ed
 
-Complete rewrite rules (in Chomskian format, harris writes them from right to left). Note the strange early past suffix insertion. This system was already introduced in [@harris1946], but wihtout the notation for a complete sentence
+Complete rewrite rules (in Chomskian format, harris writes them from right to left). Note the strange early past suffix insertion. but wihtout the notation for a complete sentence
 
 Utterance → N⁴V⁴
 N⁴ → TN³
@@ -875,6 +866,17 @@ see also the schemas on pp. 350, 353: more like "potential" structures, not actu
 ]
 === ]:
 
+### Wells (1947) *Immediate constituents*
+
+[@wells1947: 84]
+
+### Nida (1949) *Morphology*
+
+nothing in 1946 version! [@nida1946]
+
+sentence: [@nida1949: 87]
+hierarchical morphological structure p.101, both 105
+
 ### Fries (1952) *The structure of English*
 
 Charles Carpenter Fries (November 29, 1887 – December 8, 1967)
@@ -898,6 +900,8 @@ second edition from 1961 extended, Chomsky mentioned in introduction [@gleason19
 [@gleason1965] very open description: Ch7 on Reed/Kellog and other approaches, but also many chapters on TGG
 
 ### Chomsky (1955) *The logical structure of linguistic theory*
+
+note: first generative rewrite rules following Harris already in [@chomsky1953].
 
 [@chomsky1955]
 

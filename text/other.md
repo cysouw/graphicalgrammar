@@ -557,7 +557,7 @@ quantitatieve duiding, zoo wel als aan de dynamische en modale voegwoorden, een 
 >
 > ('To extend this formal pasigraphy into a complete system, in accordance with the general theory of language, which we have developed by the application of basic meanings to the linguistic forms, one would have to indicate not only the eight verbal dynamic modifications, but also all the modifications of verbal roots, by means of distinct signs, and assign a distinguishing mark to the prepositions, in their quantitative interpretation, as well as to the dynamic and modal conjunctions. However, this cannot be my task in this introduction to a general theory of linguistics. This scheme should be regarded merely as an example, intended to somewhat illustrate the nature of the formal and mechanical aspects of language.')
 
-### de Groot (1949) *Structural linguistics and syntactic Laws*
+### de Groot (1949) *Structural linguistics and syntactic Laws* {#sec:degroot1949}
 
 Albert W. de Groot (1892-1963)
 
@@ -661,7 +661,7 @@ https://nl.wikipedia.org/wiki/Maurice_Bologne
 *Analyse algébrique* [@bologne1963: 23]
 :::
 
-### Bally (1944) *Linguistique générale et linguistique française* {#sec:bally1932}
+### Bally (1944) *Linguistique générale et linguistique française* {#sec:bally1944}
 
 Charles Bally (1865-1947), successor to Ferdinand de Saussure as professor for general linguistics in Geneva
 
@@ -677,50 +677,65 @@ first edition no graphic [@bally1932], only in revision of 1944
 
 ### Mikuš (1947) *Le Syntagme EST-IL Binaire?* {#sec:mikuš1947}
 
-Radivoj Francis Mikuš (1906-1983) from Ljubljana, cf [@graffi2001: 201] In his Ljubljana time he signs with "francis" but in the Zadar time he uses "Radivoj"
+Radivoj Francis Mikuš (1906-1983) was born in current Slovenia, but his life almost perfectly coincided with the existence of Yugoslavia. He studied romance languages in Ljubljana and Paris, and after WWII he became a lecturer in Ljubjana. After cricizing the influential linguist Aleksandar Belić, Mikuš left Ljubjana in 1958 and became professor in Zadar (today in Croatia). In his years in Ljubljana he signed his papers with the first name "Francis", while in the Zadar period he used "Radivoj" instead. Basic biographical data about Mikuš in provided by Jevnikar [-@jevnikar1984]. More details, specifically about his time in Zadar, can be found in Ćosić [-@cosic2014].
 
-basic biographical data in [@jevnikar1984], more details in [@cosic2014]
+During his studies in Paris, Mikuš was strongy influenced by the Geneva school of linguistics (as Mikuš himself calls it) of de Saussure and Bally. All early papers by Mikuš are written in french, and his work is mainly recognized in the french-speaking scientific community. Especially Bally and his differentiation of *determiné T* and *determinant T'* (see [@sec:bally1944]) is regularly cited by Mikuš. A major part of Mikuš' work is devoted to the analysis of the *syntagme*, which he equates with the notion of *constituent* as used by US-linguists [@mikus1952: 431]. For his tree-like constituency analysis, Mikuš refers to Wundt as an influence (see [@sec:wundt1880]), singling out the work of Wundt-follower Jan Michał Rozwadowski [@mikus1955], who does not draw any pictures himself. Mikuš [-@mikus1952: 432] also cites the work of De Groot [-@groot1949], which might have been the influence for the usage of hierarchical bracketing. There is no indication for any influence for the recursive "chinese" boxes diagram, which is used by Mikuš as early as 1947 as *encadrement* [@mikus1947: 37].
 
-following bally (T-T') and trees following Wundt [@mikus1947: 37], includes "chines boxes" diagram, without attribution.
+The first international paper written by Mikuš [-@mikus1947] is a short paper in the journal *Word* about the binary structure of the *syntagme* called *le syntagme EST-IL binaire?*. He proposes to use Wundt's hierarchical tree structures as a model for Bally's *determiné-determinant* analysis of the *syntagme* (see [@fig:mikus1947_33]). Later in the same paper he uses a recursive *encadrement* for the same example (see [@fig:mikus1947_37]).
 
 ::: {.im #mikus1947_33}
 *Formule* from Mikuš [-@mikus1947: 33] *faites sur les moules de Wundt* 'made in the mold of Wundt'.
 :::
 
 ::: {.im #mikus1947_37}
-*Encadrement* from Mikuš [-@mikus1947: 37].
+*Encadrement* for the same examples as analysed in [@fig:mikus1947_33] from Mikuš [-@mikus1947: 37]. There is no indication for Mikuš' inspiration for this "chinese boxes" diagram.
 :::
 
-boxes: [@mikus1952: 452, 457, 460], numbers [@mikus1952: 453, 458], spiral [@mikus1952: 461], boxes with connections [@mikus1952: 462] hierarchical brackets [@mikus1952: 460]
+Mikuš next paper, called *Quelle est en fin de compte la structure-type du langage?* 'What, ultimately, is the typical structure of language?' [@mikus1952] is an innovative further development of his analysis of the *structure syntagmatique*. While developing his ideas for this paper, Mikuš did not know about the analysis of immediate constituents in the USA. He notes at the start of the paper that *je regrette de ne pas connaître de près* 'I regret not being intimately familiar' with the work of Bloomfield (see [@sec:bloomfield1933]) or Pike (see [@sec:pike1943]). Mikuš' paper seems to have been little noticed, neither in Europe nor in the USA, although it was published in the widely read journal *Lingua*. Today the paper is still largely unknown in the linguistic community, in spite of the fact that it contains a very early example of generative rewrite rules, published before chomsky's work. Mikuš discussed the syntactic structure of various longer examples [@mikus1952: 453-460], using different visualisations, including hierachical bracketings, see [@fig:mikus1952_460a] [@mikus1952: 460], recursively enclosed boxes, see [@fig:mikus1952_460b] [@mikus1952: 452, 457, 460, 462] and spirals, see [@fig:mikus1952_461] [@mikus1952: 461-462]. 
 
-::: {.im #mikus1952_460}
-Hierarchical bracketing from Mikuš [-@mikus1952: 460].
+Mikuš approach is illustrated here with the example [@next], which is analysed as shown in [@fig:mikus1952_460a]. He analyses this sentence into ten *monèmes*, a term introduced by Frei [-@frei1941: 51], and nine *structures*. Mikuš uses these terms meaning (using Chomskian terminology here) "lexical entry" and "constituent", respectively. In the top part of [@fig:mikus1952_460a] he lists the nine structures/constituents, differentiating them into head (*determiné T*) and dependent (*determinant T′*). The bottom part of [@fig:mikus1952_460a] analyses the constituency by listing the *substitutions*, which are rewrite rules. There is no indication that Mikuš knew about the approach of Harris (see [@sec:harris1946]). In these rewrite rules, the *monèmes* 'lexical entries' are printed in italics, indicating the endpoints of the recursion.
+
+::: ex
+Après dix ans de absence, Joseph rentre dans son village. \
+After ten years of absence, Joseph returns to his village.
+:::
+
+There are various errors in the printed version of the rewrite rules as shown in lower part of [@fig:mikus1952_460a], which have been corrected below. First, in the last line of the first column it should be *T 3* instead of *T′3*. Second, the order of *T′5.T 5* and of *T′7.T 7* should have been reversed (but note that in line five of the right side the accent with *T′7* is correct). Third, the usage of *T 7* in the last line on the right side should be *T′7*. Finally, the full stops are applied inconsistently.
+
+- T 1 = *T 2.*T′2
+- T 2 = *T 3.*T′3 and thus: T 1 = *T 2.*(*T 3.*T′3)
+- T′3 = *T 4.*T′4 and thus: T 1 = *T 2.*[*T 3.*(*T 4.*T′4)] 
+- T'4 = *T′5.T 5* and thus: T 1 = *T 2.*{*T 3.*[*T 4.*(*T′5.T 5*)]}
+- T′1 = *T 6.*T′6
+- T′6 = *T′7.*T 7 and thus: T′1 = *T 6.*(*T′7.*T 7)
+- T 7 = *T 8.*T′8 and thus: T′1 = *T 6.*[*T′7.*(*T 8.*T′8)]
+- T′8 = *T 9.T′9* and thus: T′1 = *T 6.*{*T′7.*[*T 8.*(*T 9.T′9*)]}
+- and thus: T1′.T1 = [[*T 6.*{*T′7.*[*T 8.*(*T 9.T′9*)]}].[*T 2.*{*T 3.*[*T 4.*(*T′5.T 5*)]}]]
+
+::: {.im #mikus1952_460a}
+*Structures* (top) and *substitutions* (bottom) for [@last] from Mikuš [-@mikus1952: 460]. The substitutions contain various errors, but this still is a very early example of generative rewrite rules. There is no indication that Mikuš knew about the similar work of Harris (see [@sec:harris1946]). Chomsky's first publication of a generative model is from 1953, a year later than this paper by Mikuš.
+:::
+
+::: {.im #mikus1952_460b}
+*Encadrements englobés l’un dans l’autre* 'frames nested within each other' from Mikuš [-@mikus1952: 460], graphically illustrating the structure of [@last].
 :::
 
 ::: {.im #mikus1952_461}
-*Spirale* from Mikuš [-@mikus1952: 461].
+*Spirale* for the same example as the previous analyses from Mikuš [-@mikus1952: 461]. He appears particularly enthousiastically about this illustration, although it remains unclear what additional benefit this graphic is supposed to convey.
 :::
 
-reanalysis of Sapirs symbolic representation (see [@sec:sapir1921]), boxes on page 20 [@mikus1953: 20]
-
-Diskussion of Jan Michał Rozwadowski https://de.wikipedia.org/wiki/Jan_Michał_Rozwadowski in two-part article in Lingua [@mikus1955] about *Wortbildung und Wortbedeutung: eine Untersuchung ihrer Grundgesetze* (1904), which is based on Wundt, but only very minimal "formulas" are used there (DSA 706 ET 350 R893) https://catalog.hathitrust.org/Record/006527156 but there are no graphics in that book
+Mikuš remained active in the European linguistic community. Another interesting graphical example is his reanalysis of an example by Sapir (see [@sec:sapir1921]) using "chinese boxes" [@mikus1953: 20]. In another paper, Mikuš [-@mikus1955] analyses the constituency of [@next], now also including morphological structure, using the same kind of rewrite rules as discussed above. He illustrates the resulting structure with a tree structure, as shown in [@fig:mikus1955_27].^[In this paper, Mikuš [-@mikus1955] discusses Jan Michał Rozwadowski (1867-1935), who was strongly influenced by Wundt. In his main book *Wortbildung und Wortbedeutung: eine Untersuchung ihrer Grundgesetze* (1904) there are no graphical representation of syntactic structure. The book is available online at <https://catalog.hathitrust.org/Record/006527156>.]
 
 ::: ex
-Federmesser mit Korkenzieher
+Federmesser mit Korkenzieher \
+Penknife with corkscrew
 :::
 
 ::: {.im #mikus1955_27}
-*Architecture functionelle de syntagme* [@last] from Mikuš [-@mikus1955: 27].
+*Architecture functionelle de syntagme* of [@last] from Mikuš [-@mikus1955: 27]. The six *monèmes* on top are (from left to right): *Feder-* 'feather', *-Messer* 'knife', *mit* 'with', *Korken-* 'cork', *zieh-* 'pull' and *-er* 'nomen agentis'. The abbreviations used are *S = syntagme*, *F = function* and *CF = cofunction*. The terms *function/cofunction* are used here for head and  dependent, respectively. 
 :::
 
-articles in Zadar [@mikus1960; @mikus1962], morphology: https://doi.org/10.15291/radoviling.2322
-
-1961: participation in conference in Erfurt [@mikus1961]
-
-1962 vorlesung in Berlin, written version in STUF: Syntagma besteht aus einem I- und einem U-Glied (Identifikationszeichen, Unterscheidungszeichen, roughly Head-Dependent, though note error on p. 133
-
-https://doi.org/10.1524/stuf.1962.15.14.127
-https://doi.org/10.1524/stuf.1962.15.14.137
+After moving to Zadar, Mikuš wrote various further papers, but he basically recapitulates his earlier ideas [@mikus1960; @mikus1962]. He participated in a large international conference on syntax in Erfurt [@mikus1961] and gave lectures in various universities in the GDR.^[Two papers from these lectures were published in 1962, available online at <https://doi.org/10.1524/stuf.1962.15.14.127> and <https://doi.org/10.1524/stuf.1962.15.14.137>.]
 
 ### Galichet (1947) *Essai de grammaire psychologique*
 
@@ -743,7 +758,7 @@ Simple graphics in later articles (1980) with chinese boxes diagram for multiple
 
 ### Bonnard (1950) *Grammaire française des lycées et collèges* {#sec:bonnard1950}
 
-Henri Bonnard (1915-2004) was teacher and author of various grammatical textbooks. A survey of his major works in given by Fouillet [-@fouillet2024]. In 1950 he wrote his first textbook *Grammaire française des lycées et collèges*, in which he uses a graphical display of syntactic structures. I have not been able to access a copy of the first edition. The fourth edition [@bonnard1957] is 'corrected' but probably in essence the same as the first edition. The ninth edition appears to be completely identical to fourth edition [@bonnard1970]. I will cite the ninth edition from 1970 here, but I expect that everything said here also holds for the first edition from 1950. Bonnard [-@bonnard1970: 4] cites Bally (see [@sec:bally1932]) and Damourette & Pichon (see [@sec:damourette1933]) as inspiration, among others. Specifically the graphical approach from Damourette & Pichon (see [@fig:damourette1933_185]) seems to have been a possible starting point for Bonnard's graphical approach. 
+Henri Bonnard (1915-2004) was teacher and author of various grammatical textbooks. A survey of his major works in given by Fouillet [-@fouillet2024]. In 1950 he wrote his first textbook *Grammaire française des lycées et collèges*, in which he uses a graphical display of syntactic structures. I have not been able to access a copy of the first edition. The fourth edition [@bonnard1957] is 'corrected' but probably in essence the same as the first edition. The ninth edition appears to be completely identical to fourth edition [@bonnard1970]. I will cite the ninth edition from 1970 here, but I expect that everything said here also holds for the first edition from 1950. Bonnard [-@bonnard1970: 4] cites Bally (see [@sec:bally1944]) and Damourette & Pichon (see [@sec:damourette1933]) as inspiration, among others. Specifically the graphical approach from Damourette & Pichon (see [@fig:damourette1933_185]) seems to have been a possible starting point for Bonnard's graphical approach. 
 
 Bonnard calls his graphical approach a *schéma*. His approach is summarised in just a few pages in the section *conventions de l'analyse de fonctions par le schéma* 'conventions for the analysis of functions with the diagram' [@bonnard1970: 6-10]. He uses boxes around the words, and the boxes are linked by lines, as shown in [@fig:bonnard1970_8]. The words are printed differently depending on the syntactic function, but he only distinguishes subject (regular typeface), verb (boldface), and everything else (italics). For the classroom he suggests to replace the different typefaces with colours (blue for the subject, red for the verb, and green for the rest), as shown in [@fig:bonnard1970_10]. It is probably a coincidence that Bonnard uses red for the verb just like Gaultier more than hundred years earlier (see [@sec:gaultier1819]).
 
