@@ -739,22 +739,54 @@ After moving to Zadar, Mikuš wrote various further papers, but he basically rec
 
 ### Galichet (1947) *Essai de grammaire psychologique*
 
-Georges Galichet (1904-1992) https://de.wikipedia.org/wiki/Georges_Galichet
+Georges Galichet (1904-1992) was the author of various grammatical french textbooks.^[Some basic biographical information is available on wikipedia at https://de.wikipedia.org/wiki/Georges_Galichet, accessed on 27 december 2025.]. In his first textbook *Essai de grammaire psychologique* [@galichet1947], he includes an *arête de poisson* 'fishbone diagram' to illustrate the stucture of a sentence with multiple subordinate clauses. He illustrates the structure of [@next] with the illustration showing in [@fig:galichet1950_169]. This graphic also shows the tripartite structure that Galichet uses throughout all his textbooks. This analysis is based on the principle of a second position for the verb. 
 
-1947: graphic in *essai*, first edition from 1947 [@galichet1947: 164], second edition [@galichet1950: 169]
+The tripartite structure also return in his second textbook *Méthodologie grammaticale. Étude psychologique des structures*, but with much simpler graphics [@galichet1953: 106].^[This book is possibly a revision of his dissertation from the university of Poitiers from 1945 *Les mécanismes de la langue française. Essai de méthodologie grammaticale*. I have not been able to access this work.] The second edition of this book adds downwards arrows for subordinated clauses [@galichet1963: 231].
 
-1953: *Méthodologie grammaticale. Étude psychologique des structures* this book originally dissertation from 1945 *Les mécanismes de la langue française. Essai de méthodologie grammaticale* simple three-part template [@galichet1953: 106] Second edition adds very simple graphic for subordinated clauses with downward arrows [@galichet1963: 231]
+::: ex
+Un mourant, qui comptait plus de cent ans de vie, se plaignait à la Mort, que précipitamment elle le contraignait de partir tout à l'heure. \
+A dying man, who had lived for over a hundred years, complained to Death that she was forcing him to leave so hastily. \
+[@galichet1947: 163, citing La Fontaine *La Mort et le Mourant*]
+:::
 
-1965: colours and forms for basic grammar [@galichet1965] blue (noun) vs. red (verb) are the same coulours as Gaultier (1819) and Bonnard
+::: {.im #galichet1950_169}
+*Arête de poisson* 'fishbone diagram' for example [@last] from Galichet [-@galichet1947: 164], shown here from the second edition [@galichet1950: 169] because of the quality of the available scan. Galichet well return to the tripartite structure, with the verb in the central/second position, throughout all his writings.
+:::
 
 1967: very complex graphics, also for multiple subordinated sentences [@galichet1967]
 
-1975: chinese boxes for noun phrases in [@galichet1975: 106], first edition of this book is from 1949, but with different title *Physiologie de la langue française*. Title only changes with the 6th edition of 1975
+three *modes d'agencement* 'kinds of arrangement': *imbrication* 'interlocking', *emboîtement* 'nesting' and *en éventail* 'fan-like'
 
-Simple graphics in later articles (1980) with chinese boxes diagram for multiple subordination
+interlocking is term for the verb as "intermediate", having links both to the subject and the complements
 
-- https://www.persee.fr/doc/igram_0222-9838_1980_num_4_1_2506
-- https://www.persee.fr/doc/igram_0222-9838_1980_num_6_1_2478
+::: ex
+Dans un chemin montant, sablonneux, malaisé, \
+Et de tous les côtés au soleil exposé, \
+Six forts chevaux tiraient un coche. \
+[@galichet1967: 179, citing La Fontaine *Le Coche et la mouche*]
+:::
+
+::: {.im #galichet1967_171}
+*Représentation schématique* of the example [@last] from Galichet [-@galichet1967: 171].
+:::
+
+Later in his life, Galichet [-@galichet1980a; -@galichet1980b] revisites his three-part sentence analysis. In this paper, he uses chinese boxes to illustrate the multiple sentence embedding of [@next], as shown in [@fig:galichet1980_34].^[Chinese boxes are used for noun phrases in Galichet [-@galichet1975: 106]. The first edition of this book is from 1949, but with a different title: *Physiologie de la langue française*. Title only changed with the 6th edition of 1975, probably also the graphic is only included at this point.]
+
+::: ex
+Le chien savait que son maître, qu'il ne perdait pas de vue pendant qu'il s'éteignait, le regardait affectueusement. \
+The dog knew that his master, whom he did not lose sight of while he was dying, was watching him affectionately. \
+[@galichet1980b: 34, citing an example from Gaston Chérau]
+:::
+
+::: {.im #galichet1980_34}
+Illustration of the multiple sentence embedding [@last] from Galichet [-@galichet1980b: 34] using chinese boxes.
+:::
+
+1965: colours and forms for basic grammar [@galichet1965] blue (noun) vs. red (verb) are the same coulours as Gaultier (1819) and Bonnard
+
+::: {.im #galichet1965_viii}
+Galichet & Mouduaud [-@galichet1965: viii]
+:::
 
 ### Bonnard (1950) *Grammaire française des lycées et collèges* {#sec:bonnard1950}
 
@@ -851,6 +883,32 @@ Je vous avertis que vous vendrez le nécessaire si vous achetez le superflu. [@g
 
 ::: {.im #grevisse1966_28}
 Example of *schéma* for a complex sentence [@last] from Grevisse [-@grevisse1966: 28]. Each of the three clauses has objects, which are positioned on the same level as subject and predicate. Also the complement clause (introduced by *que*) is put on the same level as its matrix clause. The main clause shows an SOV order, while the other clauses have a SVO order. The complementizer *que* is considered a conjunction, as it is marked using hooks. Following Grevisse's logic, the subordinating conjunction *si* should also have been marked with such hooks. Note that in this example the internal structure of the subordinate clauses is marked by boldface (for the verb) and small vertical lines (delimiting the parts of the clause). This approach is not followed through in the rest of the book.
+:::
+
+### Dupont (1969) *De l'analyse grammaticale à l'analyse littéraire*
+
+First edition from 1962, citing Galichet, who also wrote the preface.
+
+A la nue accablante tu
+Basse de basalte et de laves
+A même les échos esclaves
+Par une trompe sans vertu
+
+Quel sépulcral naufrage (tu
+Le sais, écume, mais y baves)
+Suprême une entre les épaves
+Abolit le mât dévêtu
+
+Ou cela que furibond faute
+De quelque perdition haute
+Tout l'abîme vain éployé
+
+Dans le si blanc cheveu qui traîne
+Avarement aura noyé
+Le flanc enfant d'une sirène
+
+::: {.im #dupont1969_163}
+Dupont [-@dupont1969: 163], analysing an example from Stéphane Mallarmé *A la nue accablante tu*
 :::
 
 ### more
