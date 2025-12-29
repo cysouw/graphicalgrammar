@@ -585,6 +585,8 @@ l’abbé Louis Gaultier (1746-1818)[ @gaultier1817] parsing tables, but without
 
 ### Lanusse & Yvon (1923) *Cours complet de grammaire française*
 
+Maxime.Lanusse (1853-1930) and Henri Yvon (1873-1963)
+
 - https://de.wikipedia.org/wiki/Maxime_Lanusse
 - https://de.wikipedia.org/wiki/Henri_Yvon
 
@@ -691,7 +693,7 @@ The first international paper written by Mikuš [-@mikus1947] is a short paper i
 *Encadrement* for the same examples as analysed in [@fig:mikus1947_33] from Mikuš [-@mikus1947: 37]. There is no indication for Mikuš' inspiration for this "chinese boxes" diagram.
 :::
 
-Mikuš next paper, called *Quelle est en fin de compte la structure-type du langage?* 'What, ultimately, is the typical structure of language?' [@mikus1952] is an innovative further development of his analysis of the *structure syntagmatique*. While developing his ideas for this paper, Mikuš did not know about the analysis of immediate constituents in the USA. He notes at the start of the paper that *je regrette de ne pas connaître de près* 'I regret not being intimately familiar' with the work of Bloomfield (see [@sec:bloomfield1933]) or Pike (see [@sec:pike1943]). Mikuš' paper seems to have been little noticed, neither in Europe nor in the USA, although it was published in the widely read journal *Lingua*. Today the paper is still largely unknown in the linguistic community, in spite of the fact that it contains a very early example of generative rewrite rules, published before chomsky's work. Mikuš discussed the syntactic structure of various longer examples [@mikus1952: 453-460], using different visualisations, including hierachical bracketings, see [@fig:mikus1952_460a] [@mikus1952: 460], recursively enclosed boxes, see [@fig:mikus1952_460b] [@mikus1952: 452, 457, 460, 462] and spirals, see [@fig:mikus1952_461] [@mikus1952: 461-462]. 
+Mikuš next paper, called *Quelle est en fin de compte la structure-type du langage?* 'What, ultimately, is the typical structure of language?' [@mikus1952] is an innovative further development of his analysis of the *structure syntagmatique*. Exactly the same analysis was also published at the slovenian academy of sciences in Ljubljana [@mikus1952a: 59-65], but with a critical preface about the ideas of Aleksandar Belić, the president of the academy, which lead eventually to Mikuš departure from Ljubljana a few years later. While developing his ideas for this paper, Mikuš did not know about the analysis of immediate constituents in the USA. He notes at the start of the paper that *je regrette de ne pas connaître de près* 'I regret not being intimately familiar' with the work of Bloomfield (see [@sec:bloomfield1933]) or Pike (see [@sec:pike1943]). Mikuš' paper seems to have been little noticed, neither in Europe nor in the USA, although it was published in the widely read journal *Lingua*. Today the paper is still largely unknown in the linguistic community, in spite of the fact that it contains a very early example of generative rewrite rules, published before chomsky's work. Mikuš discussed the syntactic structure of various longer examples [@mikus1952: 453-460], using different visualisations, including hierachical bracketings, see [@fig:mikus1952_460a] [@mikus1952: 460], recursively enclosed boxes, see [@fig:mikus1952_460b] [@mikus1952: 452, 457, 460, 462] and spirals, see [@fig:mikus1952_461] [@mikus1952: 461-462]. 
 
 Mikuš approach is illustrated here with the example [@next], which is analysed as shown in [@fig:mikus1952_460a]. He analyses this sentence into ten *monèmes*, a term introduced by Frei [-@frei1941: 51], and nine *structures*. Mikuš uses these terms meaning (using Chomskian terminology here) "lexical entry" and "constituent", respectively. In the top part of [@fig:mikus1952_460a] he lists the nine structures/constituents, differentiating them into head (*determiné T*) and dependent (*determinant T′*). The bottom part of [@fig:mikus1952_460a] analyses the constituency by listing the *substitutions*, which are rewrite rules. There is no indication that Mikuš knew about the approach of Harris (see [@sec:harris1946]). In these rewrite rules, the *monèmes* 'lexical entries' are printed in italics, indicating the endpoints of the recursion.
 
@@ -700,17 +702,17 @@ Après dix ans de absence, Joseph rentre dans son village. \
 After ten years of absence, Joseph returns to his village.
 :::
 
-There are various errors in the printed version of the rewrite rules as shown in lower part of [@fig:mikus1952_460a], which have been corrected below. First, in the last line of the first column it should be *T 3* instead of *T′3*. Second, the order of *T′5.T 5* and of *T′7.T 7* should have been reversed (but note that in line five of the right side the accent with *T′7* is correct). Third, the usage of *T 7* in the last line on the right side should be *T′7*. Finally, the full stops are applied inconsistently.
+There are various errors in the printed version of the rewrite rules as shown in lower part of [@fig:mikus1952_460a], which have been corrected below. First, in the last line of the first column it should be *T 3* instead of *T′3*. Second, the order of *T′5.T 5* and of *T′7.T 7* should have been reversed (but note that in line five of the right side the accent with *T′7* is correct). Third, the usage of *T 7* in the last line on the right side should be *T′7*. Finally, the full stops are applied inconsistently. A different printed version [@mikus1952a: 61] of exactly the same example makes clear that Mikuš intended the dots to be left out before brackets.
 
 - T 1 = *T 2.*T′2
-- T 2 = *T 3.*T′3 and thus: T 1 = *T 2.*(*T 3.*T′3)
-- T′3 = *T 4.*T′4 and thus: T 1 = *T 2.*[*T 3.*(*T 4.*T′4)] 
-- T'4 = *T′5.T 5* and thus: T 1 = *T 2.*{*T 3.*[*T 4.*(*T′5.T 5*)]}
+- T 2 = *T 3.*T′3 and thus: T 1 = *T 2* (*T 3.*T′3)
+- T′3 = *T 4.*T′4 and thus: T 1 = *T 2* [*T 3* (*T 4.*T′4)] 
+- T'4 = *T′5.T 5* and thus: T 1 = *T 2* {*T 3* [*T 4.* (*T′5.T 5*)]}
 - T′1 = *T 6.*T′6
-- T′6 = *T′7.*T 7 and thus: T′1 = *T 6.*(*T′7.*T 7)
-- T 7 = *T 8.*T′8 and thus: T′1 = *T 6.*[*T′7.*(*T 8.*T′8)]
-- T′8 = *T 9.T′9* and thus: T′1 = *T 6.*{*T′7.*[*T 8.*(*T 9.T′9*)]}
-- and thus: T1′.T1 = [[*T 6.*{*T′7.*[*T 8.*(*T 9.T′9*)]}].[*T 2.*{*T 3.*[*T 4.*(*T′5.T 5*)]}]]
+- T′6 = *T′7.*T 7 and thus: T′1 = *T 6* (*T′7.*T 7)
+- T 7 = *T 8.*T′8 and thus: T′1 = *T 6* [*T′7* (*T 8*T′8)]
+- T′8 = *T 9.T′9* and thus: T′1 = *T 6* {*T′7* [*T 8* (*T 9.T′9*)]}
+- and thus: T1′.T1 = [[*T 6* {*T′7* [*T 8* (*T 9.T′9*)]}] [*T 2* {*T 3* [*T 4* (*T′5.T 5*)]}]]
 
 ::: {.im #mikus1952_460a}
 *Structures* (top) and *substitutions* (bottom) for [@last] from Mikuš [-@mikus1952: 460]. The substitutions contain various errors, but this still is a very early example of generative rewrite rules. There is no indication that Mikuš knew about the similar work of Harris (see [@sec:harris1946]). Chomsky's first publication of a generative model is from 1953, a year later than this paper by Mikuš.
