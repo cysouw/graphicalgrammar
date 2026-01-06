@@ -589,8 +589,9 @@ Maxime.Lanusse (1853-1930) and Henri Yvon (1873-1963)
 
 - https://de.wikipedia.org/wiki/Maxime_Lanusse
 - https://de.wikipedia.org/wiki/Henri_Yvon
+- https://ctlf.huma-num.fr/n_fiche.php?cod=2609
 
-First edition from 1914?!
+First edition from 1914?! or maybe 1920?
 
 [@next] "contains two principal propositions adn six subordinate propositions"
 
