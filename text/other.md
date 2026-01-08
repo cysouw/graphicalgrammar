@@ -569,7 +569,7 @@ basic underline-style diagramming in [@paardekooper1955], published version iden
 
 ## French
 
-Origin of the term *syntagma* in the Cours of 1916?
+Origin of the term *syntagma* in the Cours of 1916? Analyse logique with Du Marsais in 1754?
 
 ### Maimieux (1797) *Pasigraphie*
 
@@ -577,30 +577,30 @@ Joseph de Maimieux (1753-1820)
 
 https://en.wikipedia.org/wiki/Joseph_de_Maimieux [@maimieux1797; @maimieux1797a]
 
+### Sicard (1799) *Cours d'instruction d'un sourd-muet*
+
+grammaire generale [@sicard1798a] numbers p. 29 "chiffre", but only one example?
+
+Cours d'instruction [@sicard1799] numbers? p 64-71, 101, 112, 178, 332-333. graphics: 89
+
 ### Gaultier (1819) *Leçons de grammaire en action* {#sec:gaultier1819}
 
 l’abbé Louis Gaultier (1746-1818)[ @gaultier1817] parsing tables, but without numbers
 
 [@gaultier1819] using colors and circles to teach word classes to small kids
 
-### Lanusse & Yvon (1923) *Cours complet de grammaire française*
+### Lanusse & Yvon (1923) *Cours complet de grammaire française* {#sec:lanusse1923}
 
-Maxime.Lanusse (1853-1930) and Henri Yvon (1873-1963)
+Maxime Lanusse (1853-1930) and Henri Yvon (1873-1963) both worked as teachers in many different places throughout France.^[Some basic biographical data is available on Wikipedia at <https://de.wikipedia.org/wiki/Maxime_Lanusse> and <https://de.wikipedia.org/wiki/Henri_Yvon>, accessed 8 January 2026.] Together they wrote the *Cours complet de grammaire française*, which (they say themselves) was basically finished in 1914, but only published in 1921. It is cited here from the third edition [@lanusse1923], because I have been unable to access earlier versions. It has been reprinted at least up to a 16th edition from 1955.
 
-- https://de.wikipedia.org/wiki/Maxime_Lanusse
-- https://de.wikipedia.org/wiki/Henri_Yvon
-- https://ctlf.huma-num.fr/n_fiche.php?cod=2609
-
-First edition from 1914?! or maybe 1920?
-
-[@next] "contains two principal propositions adn six subordinate propositions"
+There is a long and widely used tradition in French grammatical analysis to distinguish between an *analyse grammaticale* and an *analyse logique*, at least since Du Marsais [@dumarsais1754: 84]: *On peut considérer une proposition ou grammaticalement ou logiquement* [cf. @lauwers2004: 111; @kahane2020: 120-127]. Notwithstanding this long history, the "logical" analysis does not seem to have been depicted graphically. The first example of such a graphic is attested in Lanusse & Yvon [-@lanusse1923: 227] for the example sentence [@next], shown here in [@fig:lanusse1923_227]. This long sentence contains two principal propositions and six subordinate propositions, numbered 1 to 8 in the graphic. The main clause is a conjunction of clause 4 and 6 in the middle of the graphic. The arrows point towards subordinate clauses, although the arrow in the top middle is printed in the wrong direction. This arrow should point upwards from the main clause to the preposed subordinate clause 1 (which itself has two subordinate clauses 2 and 3). This again shows that using graphics introduces many new possibilities for misprints or errors.
 
 ::: ex
 Puisque nos soldats, pendant qu'ils soutenaient contre les Allemands des luttes si cruelles, ont montré que les Français sont doués des plus belles qualités militaires, il est légitime que nous ayons confiance dans l'avenir de notre pays; mais il est nécessaire que nous pratiquions dans la paix les vertus de discipline dont les combattants nous ont donné l'exemple.
 :::
 
 ::: {.im #lanusse1923_227}
-*Tableau d'analyse logique* of example [@last] from Lanusse & Yvon [-@lanusse1923: 227]
+*Tableau d'analyse logique* of example [@last] from Lanusse & Yvon [-@lanusse1923: 227]. The main clause is a coordination of clause 4 and 6 in the middle of the graphic. The arrow pointing towards this main clause should have been reversed: all other arrows point towards the subordinate clause.
 :::
 
 ### Damourette & Pichon (1933) *Essai de grammaire de la langue française* {#sec:damourette1933}

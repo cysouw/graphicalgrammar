@@ -77,6 +77,25 @@ Morell [@morell1857; @morell1852] is based on Becker 1829! But simplifies into t
 
 table p24-25, complex sentence p41
 
+### Meiklejohn (1862) *An easy English grammar for beginners*
+
+John Miller Dow Meiklejohn (1836-1902) https://en.wikipedia.org/wiki/John_Meiklejohn
+
+*An easy English grammar for beginners*, four volumes published 1862-1866:
+
+- book one is only morphology https://google.com/books?id=0r8DAAAAQAAJ
+- there is a "bubble" diagram like Clark in book two [@meiklejohn1862: 20], possibly independent? British library has Clark *Science of English langage* in 1854 and 1857 editions.
+- "parsing" in book three is just word-based [@meiklejohn1864: 35-40]
+- table in book four [@meiklejohn1866: 9], "formula" like Lehmann!!! [@meiklejohn1866: 11-12], various options for analysis [@meiklejohn1866: 65-73], specifically note the tree-structure [@meiklejohn1866: 73]
+
+*The standard grammar*: graphical display "mapping" [@meiklejohn1882: 20, 22, 147, 168-169]
+
+*The English language*: 
+
+- "mapping out" = diagramming? [@meiklejohn1886: 92, 97-98]
+- "continuous analysis = Becker-style? [@meiklejohn1886: 99]
+- tables p.98
+
 ### Swinton (1872) *A progressive grammar of the English tongue*
 
 William Swinton (1833-1892) in USA (Professor of the English language in the University of California??? Preface written in New York), but no diagram - more likely britisch tradition
@@ -99,14 +118,6 @@ first edition [@mason1858] no tables
 ### Fitch (1881) *Lectures on teaching*
 
 long-form analysis like becker [@fitch1881: 268-269]
-
-### Meiklejohn (1882) *The standard grammar*
-
-graphical display "mapping" [@meiklejohn1882: 20, 22, 147, 168-169]
-
-"mapping out" = diagramming? [@meiklejohn1886: 92, 97-98]
-"continuous analysis = Becker-style? [@meiklejohn1886: 99]
-tables p.98
 
 ### Cooper & Sonnenschein (1891) *An English grammar for schools*
 
@@ -212,13 +223,21 @@ new book [@barrett1859] proposing 21 different relations (p.28), the numbers are
 
 numbered example sentences p. 233-241, there appears to be some implicit hierarchical ordering, but no clear explanation. Maybe numbering like Brown?
 
+### Doherty (1841) *An introduction to English grammar*
+
+[@doherty1841: 133-134] "this imitation of a tree"
+
+thanks to richard hudson for pointing this out. Doherty is Irish?!
+
 ### Alcott (1842) *Slate and black board exercises*
 
 Alcott, William A. (William Andrus), 1798-1859. Very simple drawings in a book about using the blackboard: p. 193-194
 
-### Greene (1846) *A treatise on the structure of the English language*
+### Greene (1848) *A treatise on the structure of the English language*
 
 Samuel Stillman Greene (1810-1883)
+
+1848 version also online [@greene1848]
 
 cited here in printing from 1849. graphics "formula for a sentence" [@greene1849: 70, 82, 111, 120, 167, 184] meaning of digits is unclear
 
@@ -374,9 +393,11 @@ Born on Sept. 12, 1849, in Maxville, Ind., William Francis Lewis Sanders is the 
 
 1891 *The English sentence* diagrams included at [@sanders1891: 68-end]
 
-### Ridpath (1881) *Inductive grammar of the English language*
+### Ridpath (1880) *Inductive grammar of the English language*
 
 [@ridpath1881: 223-247]
+
+version from 1880 also exists! [@ridpath1880]
 
 ### Eubank (1881) *Key to Harvey's practical grammar*
 
@@ -414,6 +435,8 @@ reed/kellog-style [@patterson1884: 206-220]
 Frank Van Buren Irish [@irish1884] like reed/kellog
 
 "sander's system of diagrams' preface p. iii, note that Harvey has many diagrams himself
+
+other version? https://google.com/books?id=I8IBAAAAYAAJ
 
 ### Putnam (1885) *Supplementary lessons in English*
 
