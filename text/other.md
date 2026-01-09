@@ -1897,7 +1897,13 @@ Li Jinxi (1890-1978) 新著国语文法 https://en.wikipedia.org/wiki/Li_Jinxi
 
 original syntax diagrams [@jinxi1924: 118-119] Original from 1924, major revision in 1933, many reprints/new editions, at least until 2001 [@jinxi1924; @jinxi1933; @jinxi2001]
 
-Chinese version of reed/kellog [@mossner1960; @peverelli2015: 97-104]
+“explanation through pictures” (tujiefa 圖解法): Chinese version of reed/kellog [cf. @mossner1960; @peverelli2015: 97-104]
+
+### Amedeo Cracco (1951) *Grammatica della lingua cinese moderna*
+
+Amedeo Cracco O.F.M. (1903-1970) 
+
+*diagrammi dell'analisi logica* = Jinxi-style analyses [@amedeo1951: 202-203, 243-245], disccussion in <https://doi.org/10.13135/1825-263X/11595>
 
 ## Japanese
 
