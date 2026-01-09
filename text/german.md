@@ -2026,9 +2026,25 @@ Höhle first uses word in print in 1979 [@hohle1979: 387]
 
 ## More recent didactic approaches
 
-### Rahn (1951) *Deutsche Spracherziehung*
+### Rahn & Pfleiderer (1951) *Deutsche Spracherziehung*
 
-[@rahn1953]
+Fritz Rahn (1891–1964) and Wolfgang Pfleiderer (1877-1971) were teachers in the region around Stuttgart, Germany.^[some basic biographical information is available on Wikipedia at <https://de.wikipedia.org/wiki/Fritz_Rahn> and <https://de.wikipedia.org/wiki/Wolfgang_Pfleiderer_(Philologe)>, accessed 9 January 2026.] They wrote an extensive educational framework for teaching German called *Deutsche Spracherziehung* in various editions throughout the 1950s. These books are written as collections of methods and exercises for teachers to be used in class.
+
+In the *Ergänzungsheft* 'amendment book' they propose a very simply graphical scheme for the analysis of sentences, based on squares for main clauses and circles for subordinate clauses, as shown in [@fig:rahn1951_46] [@rahn1951: 46].
+
+::: {.im #rahn1951_46}
+Explanation for the *Satzbild* from Rahn & Pfleiderer [@rahn1951: 46]. Enclosed graphics are only used when the superordinate clause is sequentially split into two parts by the subordinate clause.
+:::
+
+They allow for hierarchical embedding, but only for clauses that are surrounded by parts of their superordinate clause. Multiple embedding that are placed sequentially is not specifically indicated in their graphical approach. This results in rather unsatisfactory analyses of more complex sentences. As a more involved example, they present sentence [@next], which sounds like a litarary quotation, but there is no indication from which literary source it stems. This sentence is analysed graphically as shown in [@fig:rahn1953_148]. There are multiple cases of subordinate clauses embedded inside other subordinate clauses, but this is not expressed in this simple scheme. The only hierarchical structure indicated (by the circle inside the square) is in the situation in which the subordinate clause is positioned such that the superordinate clause is split into two parts.
+
+::: ex
+[□]{.grey} Er wußte wohl, [○]{.grey} daß er von diesem Leben nicht mehr viel zu erwarten hatte, [+□]{.grey} und war entschlossen, [○]{.grey} es wegzuwerfen, [○]{.grey} wenn er damit den Menschen dienen konnte; [+○]{.grey} aber wer die bewundernswerte Sorgfalt seiner Arbeit sah, [□]{.grey} konnte nicht auf den Gedanken kommen, [○]{.grey} dieser Mann habe mit dem Leben abgeschlossen, [+○]{.grey} und wenn er durch die Gassen des Städtchens schritt, [□ first part]{.grey} bot er mit seinem gebräunten Antlitz, seinen fröhlich lachenden Augen und seinem aufrechten Gang eher das Bild eines Jünglings, [○ inside □]{.grey} der an der Schwelle des Lebens steht, [□ second part]{.grey} als das eines Mannes, [○]{.grey} gegen den der Tod schon die Hand ausreckt. [@rahn1951: 46]
+:::
+
+::: {.im #rahn1953_148}
+*Satzbild* for example [@last] from Rahn & Pfleiderer [@rahn1953: 148]. The main clauses (squares) and subordinate clauses (circles) are indicated, but the overall structure of the subordination remains underanalysed. The dot before the circle inside the square appears to be a misprint. It might have been intended to be a comma.
+:::
 
 ### Essen (1956) *Methodik des Deutschunterrichts*
 
