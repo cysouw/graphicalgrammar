@@ -80,21 +80,41 @@ table p24-25, complex sentence p41
 ### Meiklejohn (1862) *An easy English grammar for beginners*
 
 John Miller Dow Meiklejohn (1836-1902) https://en.wikipedia.org/wiki/John_Meiklejohn
+Biography [@graves2004]
 
 *An easy English grammar for beginners*, four volumes published 1862-1866:
 
 - book one is only morphology https://google.com/books?id=0r8DAAAAQAAJ
 - there is a "bubble" diagram like Clark in book two [@meiklejohn1862: 20], possibly independent? British library has Clark *Science of English langage* in 1854 and 1857 editions.
 - "parsing" in book three is just word-based [@meiklejohn1864: 35-40]
-- table in book four [@meiklejohn1866: 9], "formula" like Lehmann!!! [@meiklejohn1866: 11-12], various options for analysis [@meiklejohn1866: 65-73], specifically note the tree-structure [@meiklejohn1866: 73]
+- table in book four [@meiklejohn1866: 9], "formula" with letters like Lehmann, but format seems most similar to Bauer 1850 (meiklejohn uses a/b/c for adjectival/adverbial/noun=relative/adverbial/complement, note Bauer uses a/b/c for noun/adjective/adverb, respectively...) [@meiklejohn1866: 11-12], various options for analysis [@meiklejohn1866: 65-73], specifically note the tree-structure [@meiklejohn1866: 73]
 
-*The standard grammar*: graphical display "mapping" [@meiklejohn1882: 20, 22, 147, 168-169]
+*The teaching of little boys*  [@meiklejohn1879], "draw a map of a sentence" p. 20, 23
+
+> For a Latin sentence is a much more complex and troublesome machine than an English sentence; it requires taking to pieces more carefully and putting together again with more skill. The little boy may very easily lose his way among the clauses, and some of them are as difficult to take as a five-barred gate; and he has only a very confused feeling of the meaning of the whole sentence. But the black-board, which like a kind fairy steps in to help him, comes to unravel the confusion, and to make everything as plain, or plainer, than an English sentence. On the black-board we can draw a map of a sentence; every member falls into his own place; and all becomes quite clear. [@meiklejohn1879: 19]
+
+*The standard grammar*: graphical display "mapping", "mapping out" [@meiklejohn1882: 20, 22, 147, 166-169], continuous analysis p. 170-172, table p. 177
 
 *The English language*: 
 
 - "mapping out" = diagramming? [@meiklejohn1886: 92, 97-98]
-- "continuous analysis = Becker-style? [@meiklejohn1886: 99]
-- tables p.98
+- "continuous analysis = Becker-style [@meiklejohn1886: 99]
+- tables "pigeon holed" p.98
+
+Mapping out is not for the students, but for the teacher to explain the structure. It is not included in the exercises.
+
+*New grammar of the English language* [@meiklejohn1887] 
+
+Reprint of first part of "the English language" with exercises added. Syntax exercises [@meiklejohn1887: 211-219] only tables and continuous analysis. Mapping out is not an exercise! Keys to exercises [@meiklejohn1894: 32ff.]
+
+> It is of the greatest importance to get the **eye** to help the mind, and to present to the **sight** if possible–either on paper or on the black-board–the sentence we have to consider. This is called **mapping-out**. [@meiklejohn1887: 92, emphasis in original]
+
+About analysis Scheme V [@meiklejohn1887: 213], he notes: "This is the scheme prescribed by the Department for the scholarship examination." [@meiklejohn1887: 218]
+
+*Short grammar of the English tongue* simplified version
+
+- mapping out [@meiklejohn1890: 149-151, 159-160]
+- tabular analysis [@meiklejohn1890: 152, 161]
 
 ### Swinton (1872) *A progressive grammar of the English tongue*
 
