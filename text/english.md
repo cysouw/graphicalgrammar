@@ -84,14 +84,61 @@ Biography [@graves2004]
 
 *An easy English grammar for beginners*, four volumes published 1862-1866:
 
+::: ex
+- A lady of my acquaintance kept a pet canary for many years in a cage. [@meiklejohn1862: 18]
+- [A]{.grey} The gardener, [*a (s)*]{.grey} who is engaged at Mr. Mann's, [A]{.grey} sold the fruit, [*a (o)*]{.grey} which was not quite ripe, [*b*]{.grey} when the market was over.
+:::
+
+::: {.im #meiklejohn1862_20}
+Illustration for [@last a] from Meiklejohn [-@meiklejohn1862: 20].
+:::
+
+::: {.im #meiklejohn1866_12}
+*Formula* for [@last b] from Meiklejohn [-@meiklejohn1866: 12].
+:::
+
+::: ex
+[P.S.]{.grey} How often have I blest the coming day, \
+[A.1.]{.grey} When toil remitting lent its turn to play, \
+[A.2.]{.grey} And all the village train from labour free \
+Led up their sports beneath the spreading tree, \
+[B.1.]{.grey} While many a pastime circled in the shade, \
+[(Ex. of) B.1.]{.grey} The young contending [B.1.*a*.]{.grey} as the old surveyed;\
+[B.2.]{.grey} And many a gambol frolicked o’er the ground, \
+[B.3.]{.grey} And slights of art and feats of strength went round. \
+[B.4.]{.grey} And still [B.4*a*.]{.grey} as each repeated pleasure tired, \
+[B.4.]{.grey} Succeeding sports the mirthful band inspired; \
+[The sports=1.]{.grey} The dancing pair [B.4*c().]{.grey} that simply sought renown \
+By holding out to tire each other down, \
+[2.]{.grey} The swain mistrustless of his smutted face, \
+[B.4*b*.]{.grey} While secret laughter tittered round the place, \
+[3.]{.grey} The bashful virgin’s side-long looks of love, \
+[4.]{.grey} The matron’s glance [?]{.grey} that would those looks reprove.
+:::
+
+::: {.im #meiklejohn1866_73}
+[@meiklejohn1866: 73]
+:::
+
 - book one is only morphology https://google.com/books?id=0r8DAAAAQAAJ
 - there is a "bubble" diagram like Clark in book two [@meiklejohn1862: 20], possibly independent? British library has Clark *Science of English langage* in 1854 and 1857 editions.
 - "parsing" in book three is just word-based [@meiklejohn1864: 35-40]
-- table in book four [@meiklejohn1866: 9], "formula" with letters like Lehmann, but format seems most similar to Bauer 1850 (meiklejohn uses a/b/c for adjectival/adverbial/noun=relative/adverbial/complement, note Bauer uses a/b/c for noun/adjective/adverb, respectively...) [@meiklejohn1866: 11-12], various options for analysis [@meiklejohn1866: 65-73], specifically note the tree-structure [@meiklejohn1866: 73]
+- table in book four [@meiklejohn1866: 9], "formula" with letters like Lehmann, but format seems most similar to Bauer 1850 (meiklejohn uses a/b/c for adjectival/adverbial/noun=relative/adverbial/complement, note Bauer uses a/b/c for noun/adjective/adverb, respectively...) [@meiklejohn1866: 10-12], various options for analysis [@meiklejohn1866: 65-73], specifically note the tree-structure [@meiklejohn1866: 73]
 
 *The teaching of little boys*  [@meiklejohn1879], "draw a map of a sentence" p. 20, 23
 
 > For a Latin sentence is a much more complex and troublesome machine than an English sentence; it requires taking to pieces more carefully and putting together again with more skill. The little boy may very easily lose his way among the clauses, and some of them are as difficult to take as a five-barred gate; and he has only a very confused feeling of the meaning of the whole sentence. But the black-board, which like a kind fairy steps in to help him, comes to unravel the confusion, and to make everything as plain, or plainer, than an English sentence. On the black-board we can draw a map of a sentence; every member falls into his own place; and all becomes quite clear. [@meiklejohn1879: 19]
+
+::: ex
+| Caesar *De Bello Gallico,* chapter 16
+| eo (autem) frumento (quod) flumine Arari navibus subvexerat (propterea) uti minus poterat (quod) iter ab Arari Helvetii averterant, a quibus discedere nolebat.
+| that (however) grain (which) river.ABL A ships.ABL transport.PERF.3SG (therefore) use less can.PAST.3SG (because) route from A H divert.PAST.3PL from whom depart not.want.PAST.3SG
+| However, that grain, which he had transported up the river Arar by ship, he could not use it, because the Helvetii, from whom he did not want to turn away, had diverted their route away from the Arar River
+:::
+
+::: {.im #meiklejohn1879_20}
+*Map of the sentence* [@last] from Meiklejohn [-@meiklejohn1879: 20]. The Latin words in brackets in [@last] are not written in the graphic. Meiklejohn explains that the single line is a conjunctions (*quod* 'because'), the double lines are relatives and the dotted line is *a connection in thought* (actually, a simple grammatical object). Meiklejohn also claims that "the mapping also shows why Caesar used *minus*, rather than *non*", but to me the graphic does not make this choice immediately clear.
+:::
 
 *The standard grammar*: graphical display "mapping", "mapping out" [@meiklejohn1882: 20, 22, 147, 166-169], continuous analysis p. 170-172, table p. 177
 

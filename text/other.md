@@ -738,7 +738,7 @@ Penknife with corkscrew
 *Architecture functionelle de syntagme* of [@last] from Mikuš [-@mikus1955: 27]. The six *monèmes* on top are (from left to right): *Feder-* 'feather', *-Messer* 'knife', *mit* 'with', *Korken-* 'cork', *zieh-* 'pull' and *-er* 'nomen agentis'. The abbreviations used are *S = syntagme*, *F = function* and *CF = cofunction*. The terms *function/cofunction* are used here for head and  dependent, respectively. 
 :::
 
-After moving to Zadar, Mikuš wrote various further papers, but he basically recapitulates his earlier ideas [@mikus1960; @mikus1962]. He participated in a large international conference on syntax in Erfurt [@mikus1961] and gave lectures in various universities in the GDR.^[Two papers from these lectures were published in 1962, available online at <https://doi.org/10.1524/stuf.1962.15.14.127> and <https://doi.org/10.1524/stuf.1962.15.14.137>.]
+After moving to Zadar, Mikuš wrote various further papers, but he basically recapitulates his earlier ideas [@mikus1960; @mikus1962]. He participated in a large international conference on syntax in Erfurt [@mikus1961] and gave lectures in various universities in the GDR.^[Two papers from these lectures were published in 1962, available online at <https://doi.org/10.1524/stuf.1962.15.14.127> and <https://doi.org/10.1524/stuf.1962.15.14.137>.] In the 1960s, he moved to Lubumbashi in Zaire (today Democratic Republic of the Congo), where he wrote a monograph collecting all his ideas together [@mikus1972], but no new ideas can be found here.
 
 ### Galichet (1947) *Essai de grammaire psychologique*
 
