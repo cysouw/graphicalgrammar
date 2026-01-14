@@ -225,7 +225,10 @@ first edition [@mason1858] no tables
 
 long-form analysis like becker [@fitch1881: 268-269]
 
-### Cooper & Sonnenschein (1891) *An English grammar for schools*
+### Cooper & Sonnenschein (1889) *An English grammar for schools*
+
+original edition from 1888
+second edition [@cooper1889]
 
 table [@cooper1891: 9]
 indentation [@cooper1891: 25]
