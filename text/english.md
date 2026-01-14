@@ -82,7 +82,13 @@ table p24-25, complex sentence p41
 John Miller Dow Meiklejohn (1836-1902) https://en.wikipedia.org/wiki/John_Meiklejohn
 Biography [@graves2004]
 
-*An easy English grammar for beginners*, four volumes published 1862-1866:
+*An easy English grammar for beginners*, four volumes published 1862-1866. 
+
+- Book one is only morphology [@meiklejohn1862a]
+- "parsing" in book three is just word-based [@meiklejohn1864: 35-40]
+- table in book four [@meiklejohn1866: 9]
+- "formula" with letters like Lehmann, but format seems most similar to Bauer 1850 (meiklejohn uses a/b/c for adjectival/adverbial/noun=relative/adverbial/complement, note Bauer uses a/b/c for noun/adjective/adverb, respectively...) [@meiklejohn1866: 10-12], 
+- various options for analysis [@meiklejohn1866: 65-73], specifically note the tree-structure [@meiklejohn1866: 73]
 
 ::: ex
 - A lady of my acquaintance kept a pet canary for many years in a cage. [@meiklejohn1862: 18]
@@ -90,12 +96,16 @@ Biography [@graves2004]
 :::
 
 ::: {.im #meiklejohn1862_20}
-Illustration for [@last a] from Meiklejohn [-@meiklejohn1862: 20].
+Illustration for [@last a] from Meiklejohn [-@meiklejohn1862: 20]. This graphic seems very likely to be inspired by the diagrams from Clark (see [@sec:clark1847]). Meiklejohn does not cite Clark.
 :::
 
 ::: {.im #meiklejohn1866_12}
-*Formula* for [@last b] from Meiklejohn [-@meiklejohn1866: 12].
+*Formula* for [@last b] from Meiklejohn [-@meiklejohn1866: 12], probably inspired by Bauer (see [@sec:bauer1850]). Meiklejohn explains that he uses lower-case letters for different kinds of subordinate clauses, specifically using *a*=adjectival (i.e. relative clause), *b*=adverbial and *c*=noun (i.e. complement clause). This is similar to Bauer, though Bauer uses the letters differently (*a*=complement, *b*=relative, *c*=adverbial). At other points in his book, Meiklejohn appears to be not consistent in the usage of these letters (cf. [@fig:meiklejohn1866_73])
 :::
+
+The last of Meiklejohn's proposed analyses for complex sentences is shown in [@fig:meiklejohn1866_73] for the unquoted poetic excerpt in [@next] from Oliver Goldsmith (1770) *The deserted village*. Meiklejohn did not explicitly name the author, probably because he assumed that every reader would know this poem. Also note that the text in the graphic [@fig:meiklejohn1866_73] slightly deviates from the original poem [@next]. Meiklejohn very probably quoted the poem from memory when writing his book. 
+
+Meiklejohn does not present any detailed explanation of the principles behind this analysis. Specifically, the analysis of the subordinate clauses (with the lower-case letters) is inconsistent with his earlier explanations. He still uses the letters *a,b,c* but now they appear to indicate different kinds of subordination. The letter *a* and *b* both are used for adverbial clauses, while *c* is used for a relative clause. Also, the non-finite adverbial clause *the young contending* is not analysed as subordinate, while the multiply-embedded construction *by holding out to tire each other down* and the final relative clause *that would those looks reprove* are both ignored in this analysis by Meiklejohn.
 
 ::: ex
 [P.S.]{.grey} How often have I blest the coming day, \
@@ -103,15 +113,15 @@ Illustration for [@last a] from Meiklejohn [-@meiklejohn1862: 20].
 [A.2.]{.grey} And all the village train from labour free \
 Led up their sports beneath the spreading tree, \
 [B.1.]{.grey} While many a pastime circled in the shade, \
-[(Ex. of) B.1.]{.grey} The young contending [B.1.*a*.]{.grey} as the old surveyed;\
+[(Ex. of) B.1.]{.grey} The young contending [B.1.*a.*]{.grey} as the old surveyed;\
 [B.2.]{.grey} And many a gambol frolicked o’er the ground, \
 [B.3.]{.grey} And slights of art and feats of strength went round. \
 [B.4.]{.grey} And still [B.4*a*.]{.grey} as each repeated pleasure tired, \
 [B.4.]{.grey} Succeeding sports the mirthful band inspired; \
-[The sports=1.]{.grey} The dancing pair [B.4*c().]{.grey} that simply sought renown \
+[The sports=1.]{.grey} The dancing pair [B.4*c.*]{.grey} that simply sought renown \
 By holding out to tire each other down, \
 [2.]{.grey} The swain mistrustless of his smutted face, \
-[B.4*b*.]{.grey} While secret laughter tittered round the place, \
+[B.4*b.*]{.grey} While secret laughter tittered round the place, \
 [3.]{.grey} The bashful virgin’s side-long looks of love, \
 [4.]{.grey} The matron’s glance [?]{.grey} that would those looks reprove.
 :::
@@ -119,11 +129,6 @@ By holding out to tire each other down, \
 ::: {.im #meiklejohn1866_73}
 [@meiklejohn1866: 73]
 :::
-
-- book one is only morphology https://google.com/books?id=0r8DAAAAQAAJ
-- there is a "bubble" diagram like Clark in book two [@meiklejohn1862: 20], possibly independent? British library has Clark *Science of English langage* in 1854 and 1857 editions.
-- "parsing" in book three is just word-based [@meiklejohn1864: 35-40]
-- table in book four [@meiklejohn1866: 9], "formula" with letters like Lehmann, but format seems most similar to Bauer 1850 (meiklejohn uses a/b/c for adjectival/adverbial/noun=relative/adverbial/complement, note Bauer uses a/b/c for noun/adjective/adverb, respectively...) [@meiklejohn1866: 10-12], various options for analysis [@meiklejohn1866: 65-73], specifically note the tree-structure [@meiklejohn1866: 73]
 
 *The teaching of little boys*  [@meiklejohn1879], "draw a map of a sentence" p. 20, 23
 
@@ -140,13 +145,34 @@ By holding out to tire each other down, \
 *Map of the sentence* [@last] from Meiklejohn [-@meiklejohn1879: 20]. The Latin words in brackets in [@last] are not written in the graphic. Meiklejohn explains that the single line is a conjunctions (*quod* 'because'), the double lines are relatives and the dotted line is *a connection in thought* (actually, a simple grammatical object). Meiklejohn also claims that "the mapping also shows why Caesar used *minus*, rather than *non*", but to me the graphic does not make this choice immediately clear.
 :::
 
-*The standard grammar*: graphical display "mapping", "mapping out" [@meiklejohn1882: 20, 22, 147, 166-169], continuous analysis p. 170-172, table p. 177
+*The standard grammar* (1882)
+
+- graphical display "mapping", "mapping out" [@meiklejohn1882: 20, 22, 147, 166-169]
+- continuous analysis p. 170-172, table p. 177, citing examples from Fitch, see [@sec:fitch1881]
+
+quoting Joseph Addison's 1711 essay *Mischiefs Of Party Spirit*
+
+::: ex
+- My worthy friend, Sir Roger, when we are talking of the malice of parties, very frequently tells us an accident that happened to him when he was a school-boy, which was at a time when the feuds ran high between the Roundheads and Cavaliers.
+:::
+
+::: {.im #meiklejohn1882_20}
+*What words go with each other* [@meiklejohn1882: 20]
+:::
+
+::: {.im #meiklejohn1882_168}
+*Mapping out* [@meiklejohn1882: 168]
+:::
 
 *The English language*: 
 
 - "mapping out" = diagramming? [@meiklejohn1886: 92, 97-98]
+- tables "pigeon holed"  [@meiklejohn1886: 98]
 - "continuous analysis = Becker-style [@meiklejohn1886: 99]
-- tables "pigeon holed" p.98
+
+> It is of the greatest importance to get the **eye** to help the mind, and to present to the **sight** if possible–either on paper or on the black-board–the sentence we have to consider. This is called **mapping-out**. [@meiklejohn1886: 92, emphasis in original]
+
+> Such a mapping-out enables us easily to see, with the bodily as well as with the mind's eye, what is the main purpose of all analysis—to find out which words go with which, and what is the real build of the sentence. Hence, unless we see at a glance the build of the sentence we are going to analyse, we ought, before doing so, to set to work and map it out.  [@meiklejohn1886: 93]
 
 Mapping out is not for the students, but for the teacher to explain the structure. It is not included in the exercises.
 
@@ -154,14 +180,25 @@ Mapping out is not for the students, but for the teacher to explain the structur
 
 Reprint of first part of "the English language" with exercises added. Syntax exercises [@meiklejohn1887: 211-219] only tables and continuous analysis. Mapping out is not an exercise! Keys to exercises [@meiklejohn1894: 32ff.]
 
-> It is of the greatest importance to get the **eye** to help the mind, and to present to the **sight** if possible–either on paper or on the black-board–the sentence we have to consider. This is called **mapping-out**. [@meiklejohn1887: 92, emphasis in original]
-
 About analysis Scheme V [@meiklejohn1887: 213], he notes: "This is the scheme prescribed by the Department for the scholarship examination." [@meiklejohn1887: 218]
 
-*Short grammar of the English tongue* simplified version
+*Short grammar of the English tongue* (1890) simplified version of new grammar
 
 - mapping out [@meiklejohn1890: 149-151, 159-160]
 - tabular analysis [@meiklejohn1890: 152, 161]
+
+Horace Smith's *Address to a Mummy*
+
+::: ex
+Thou couldst develop, if that withered tongue \
+Might tell us what these sightless orbs have seen, \
+How the world looked when it was fresh and young, \
+And the great deluge still had left it green;
+:::
+
+::: {.im #meiklejohn1890_160}
+[@meiklejohn1890: 160]
+:::
 
 ### Swinton (1872) *A progressive grammar of the English tongue*
 
@@ -182,7 +219,7 @@ Also USA, but only using tables [@morris1877: 100-111]
 first edition [@mason1858] no tables
 25th edition [@mason1881: 183-185] with tables (fold-out appendix after p268)
 
-### Fitch (1881) *Lectures on teaching*
+### Fitch (1881) *Lectures on teaching* {#sec:fitch1881}
 
 long-form analysis like becker [@fitch1881: 268-269]
 
@@ -325,7 +362,7 @@ coincidence "monème" by Henri Frei (1941:51) https://www.jstor.org/stable/27757
 
 ## Diagramming
 
-### Clark (1847) *The Science of the English Language*
+### Clark (1847) *The Science of the English Language* {#sec:clark1847}
 
 Stephen W. Clark (1810-1901) was a school principal of East Bloomfield Academy and wrote the influential book *The science of the English language. A practical grammar: in which words, phrases, and sentences are classified according to their offices, and their various relations to one another. Illustrated by a complete system of diagrams.* [@clark1847] He produced revisions of this book and wrote variants for different readers up to the 1870s [e.g @clark1870, see [@mazziotta2016: 303-305 for the little that is known about Clark]. A detailed investigation of the work of Clark is available in Mazziotta [-@mazziotta2016; -@mazziotta2020a; -@mazziotta2020].
 
