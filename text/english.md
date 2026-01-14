@@ -185,7 +185,9 @@ About analysis Scheme V [@meiklejohn1887: 213], he notes: "This is the scheme pr
 *Short grammar of the English tongue* (1890) simplified version of new grammar
 
 - mapping out [@meiklejohn1890: 149-151, 159-160]
-- tabular analysis [@meiklejohn1890: 152, 161]
+- tabular analysis [@meiklejohn1890: 152, 161], returning to capital/lowercase distinction on p. 161
+
+"The single lines represent prepositions; the double lines conjunctions; and the double lines with a bar across relative pronouns" p.159. Meiklejohn seems not really understand complementizers ("noun-sentences"). They are included with the "conjunctions", but often erroneaously analysed as relative clauses. Footnote (ii) on page 160 analyses "how the world looked" rightly, but "what these sightless orbs have seen" is wrongly classified as relative.
 
 Horace Smith's *Address to a Mummy*
 
