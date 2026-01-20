@@ -2046,6 +2046,17 @@ They allow for hierarchical embedding, but only for clauses that are surrounded 
 *Satzbild* for example [@last] from Rahn & Pfleiderer [@rahn1953: 148]. The main clauses (squares) and subordinate clauses (circles) are indicated, but the overall structure of the subordination remains underanalysed. The dot before the circle inside the square appears to be a misprint. It might have been intended to be a comma.
 :::
 
+In 1951 Rahn gave a presentation about the didactical renewal of grammar, which was published as Rahn [-@rahn1951a]. This small booklet hat an appendix about the *Leitzätze udn Lehrziele zum neuen Grammatik-Unterricht* [@rahn1951a: 20-24], written together with Pfleiderer. Here they propose to use different kinds of underlining for different parts of the sentence, and also to use different colours on the blackboard (see [@fig:rahn1951_20]):
+
+- subject: single line in red
+- verb: think single line in green
+- object and nominal predicate: double line in blue
+- adjuncts: dotted line in brown
+
+::: {.im #rahn1951_20}
+Proposal for underlining and color-use for sentence analysis on the blackboard by Rahn & Pfleiderer [-@rahn1951a: 20].
+:::
+
 ### Essen (1956) *Methodik des Deutschunterrichts*
 
 Erika Essen (1914-1986) bio [@muller1996]
