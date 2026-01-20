@@ -262,24 +262,35 @@ word "chart" replaced by "atlas" in furthermore exactly the same sentences.
 
 ### Brown (1831) *The American grammar*
 
+James Brown (dates unknown, probably around 1790-1855)
+
 - construing p.22: major/minor sections with different brackets p.29
 - scanning (p35-40)
 - scheme (p81-88), parsing
 
 "Construing consists in dividing a sentence into sections or groups, ascertaining their true constructive relation, learning their exact significant characters, and referring the inferior sections to their respective superiors." (p. xii) 
 
-[@west2000: 91-109]
+thousands of pages in about 30 different volumes published in a period of 40 years, between 1815 and 1856.
 
+[@west2000: 91-109]
+[@gorlach1998: 64-69] list 25 different publications between 1815 and 1854 "Titles resemble each other so much that it is difficult to tell which are separate works and which new editions. It would be worth studying Brown in case he is more than a productive eccentric." p. 64 However, various of the titles that I have been able to access are not in Görlach's list.
+
+- A treatise on the nature and reasons of the English grammar (1815) https://resolver-1sub-1uni-2goettingen-1de-1jnm8sqii0729.zugang.nationallizenzen.de/purl?aas04293252 Full of references to imaginary (?) pages, or is there supposed to be a supplement with the "machine"?
+- A grammatical treatise (1819) https://resolver-1sub-1uni-2goettingen-1de-1jnm8sqii0728.zugang.nationallizenzen.de/purl?aas04293251
 - American Grammar (1820) https://google.com/books?id=Y5Y_AAAAYAAJ
+- The American System of English Grammar (1826) https://google.com/books?id=f4AVAQAAMAAJ
+- The American Grammar (1831)
 - The American system of English syntax (1837) https://lccn.loc.gov/10024676
 - An exegesis of English syntax (1840) https://lccn.loc.gov/10024675 https://lccn.loc.gov/10024691
-- The first part of the American system of English syntax (1841)
+- The first part of the American system of English syntax (1841) monology p.41 https://archive.org/details/firstpartofameri00brow/
 - An Appeal from the Old Theory of English Grammar (1845) https://google.com/books?id=C-ZZAAAAMAAJ
-- An English Syntithology (1847) https://google.com/books?id=4MVEAAAAIAAJ
+- An English Syntithology (1847, book 3) https://google.com/books?id=4MVEAAAAIAAJ book 1+2: https://google.com/books?id=f3gSAAAAIAAJ
+- The first round in the ladder of education (1849) https://archive.org/details/firstroundinladd00brown/
 - An appeal from the absurdities and contradictions which pervade, and deform the old theory of English grammar (1850) https://lccn.loc.gov/11008562
-- An English Grammar, in Three Books (1850) https://google.com/books?id=O1IZAAAAYAAJ
+- An English Grammar, in Three Books (1849, book II) https://archive.org/details/englishhgrammari00browrich/ (1850 book I) https://google.com/books?id=O1IZAAAAYAAJ
 - The first book of the rational system of English grammar (1854) https://lccn.loc.gov/10024689
 - The second book of the rational system of English grammar (1854) https://lccn.loc.gov/10024690
+- The third book (1856) https://google.com/books?vid=Harvard:32044097041644
 - The grammatical reader (1854) https://lccn.loc.gov/ca11002074
 
 ### Andrew & Stoddard (1836) *A grammar of the Latin language*
