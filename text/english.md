@@ -260,9 +260,9 @@ tables and indented complex sentences [@onions1904] *sentence picture* p.25
 
 word "chart" replaced by "atlas" in furthermore exactly the same sentences.
 
-### Brown (1831) *The American grammar*
+### Brown (1826) *The American system of English grammar*
 
-James Brown (dates unknown, probably around 1790-1855)
+James Brown (dates unknown, approximately 1790-1855)
 
 - construing p.22: major/minor sections with different brackets p.29
 - scanning (p35-40)
@@ -272,26 +272,40 @@ James Brown (dates unknown, probably around 1790-1855)
 
 thousands of pages in about 30 different volumes published in a period of 40 years, between 1815 and 1856.
 
+1815 Boston, 1819/1820 Albany/Troy, 1826 Washington, 1831 Philadelphia
+
 [@west2000: 91-109]
 [@gorlach1998: 64-69] list 25 different publications between 1815 and 1854 "Titles resemble each other so much that it is difficult to tell which are separate works and which new editions. It would be worth studying Brown in case he is more than a productive eccentric." p. 64 However, various of the titles that I have been able to access are not in Görlach's list.
 
-- A treatise on the nature and reasons of the English grammar (1815) https://resolver-1sub-1uni-2goettingen-1de-1jnm8sqii0729.zugang.nationallizenzen.de/purl?aas04293252 Full of references to imaginary (?) pages, or is there supposed to be a supplement with the "machine"?
-- A grammatical treatise (1819) https://resolver-1sub-1uni-2goettingen-1de-1jnm8sqii0728.zugang.nationallizenzen.de/purl?aas04293251
-- American Grammar (1820) https://google.com/books?id=Y5Y_AAAAYAAJ
-- The American System of English Grammar (1826) https://google.com/books?id=f4AVAQAAMAAJ
-- The American Grammar (1831)
-- The American system of English syntax (1837) https://lccn.loc.gov/10024676
-- An exegesis of English syntax (1840) https://lccn.loc.gov/10024675 https://lccn.loc.gov/10024691
-- The first part of the American system of English syntax (1841) monology p.41 https://archive.org/details/firstpartofameri00brow/
+- *A treatise on the nature and reasons of the English grammar* [@brown1815] Full of references to imaginary (?) pages, or is there supposed to be a supplement with the "machine"?
+- *A grammatical treatise, being an exposition of the difficulties found in the present system of English grammar* [@brown1819] starts arguing against Murray, new vocabulary, but seems just different words for the same thinsgs: primary definer = noun, secondary definer = adjective, assertor = verb
+- *An American grammar, developing the principles of our language* [@brown1820] revision/extension of 1819 "pamphlet". "The new system" refers to pages with letters, which are not referring to anything. Again: is there some part missing of this book? Probably: Brown was just not very organised and did not fulfill his own promises written down. (e.g. page 55ff there are a few referenced sections, e.g. Q: Of local definers)
+- *The American system of English grammar* [@brown1826] organised in lessons. uses bracketings system, first p. 35/36 without much explanation. "scanning" introduced on p. 32: 
+
+> "[scanning exercises] are founded solely upon the *mechanical* relation of words in the formation of that piece of *machinery* called a ~~sentence~~" first examples p. 36. 
+
+more explanation p.38: 
+
+> "the major word is distingshuided from the minor by the absence of figures; the minor from the major, by the presence of figures. The simple order will be presented by the erect posture of the same figure which marks the degree of the minor word […] the compound order will be presented by the *horizontal* posture of the same figures which mark the degree of the minor words."
+
+p. 44 "secionized state", major and minor sections (square and round brackets)
+p. 46: "why are some figures larger than others? to point out the *relative* Minors"
+p. 47 more complex examples
+p. 62/63: symbols for conjunctions
+
+- The American Grammar [@brown1831] scanning p 35ff. abbreviations for form-analysis p. 82
+- The American system of English syntax [@brown1837] reprint 1838 https://www.loc.gov/item/10024677
+- An exegesis of English syntax (1840) https://www.loc.gov/item/10024675 (1841) https://www.loc.gov/item/10024691
+- The first part of the American system of English syntax (1841) monology p.41 https://www.loc.gov/item/10024691
 - An Appeal from the Old Theory of English Grammar (1845) https://google.com/books?id=C-ZZAAAAMAAJ
 - An English Syntithology (1847, book 3) https://google.com/books?id=4MVEAAAAIAAJ book 1+2: https://google.com/books?id=f3gSAAAAIAAJ
-- The first round in the ladder of education (1849) https://archive.org/details/firstroundinladd00brown/
-- An appeal from the absurdities and contradictions which pervade, and deform the old theory of English grammar (1850) https://lccn.loc.gov/11008562
+- The first round in the ladder of education (1849) https://www.loc.gov/item/10018457
+- An appeal from the absurdities and contradictions which pervade, and deform the old theory of English grammar (1850) https://www.loc.gov/item/11008562
 - An English Grammar, in Three Books (1849, book II) https://archive.org/details/englishhgrammari00browrich/ (1850 book I) https://google.com/books?id=O1IZAAAAYAAJ
-- The first book of the rational system of English grammar (1854) https://lccn.loc.gov/10024689
-- The second book of the rational system of English grammar (1854) https://lccn.loc.gov/10024690
+- The first book of the rational system of English grammar (1854) https://www.loc.gov/item/10024689
+- The second book of the rational system of English grammar (1854) https://www.loc.gov/item/10024690
 - The third book (1856) https://google.com/books?vid=Harvard:32044097041644
-- The grammatical reader (1854) https://lccn.loc.gov/ca11002074
+- The grammatical reader (1854) https://www.loc.gov/item/ca11002074
 
 ### Andrew & Stoddard (1836) *A grammar of the Latin language*
 
@@ -393,6 +407,25 @@ He uses the term *diagram*
 adjuncts are hanging, but also enclosed as boxes on p17!
 
 [@clark1847] very interesting frontispiece in the first edition! Is later sold separately as a poster for schools
+
+### Gengembre & Brown (1855) *Elements of English grammar*
+
+Philip Gengembre, later around 1890 renamed himself Hubert (1830-1911). Nothing can be found about J. (John?) H. Brown. biography Gengembre in [@price1914]
+
+https://en.wikipedia.org/wiki/Philip_Gengembre_Hubert
+
+https://www.loc.gov/item/10033746
+
+> The characters employed in parsing occupy but little space, and can be used on the black board with great advantage and convenience. [@gengembre1855: vi]
+
+Do they know about James Brown from Philadelphia? This might be in that direction:
+
+> Grammatical innovations have been carefully avoided, no new terms have been introduced [@gengembre1855: iv]
+
+His french grammar's do not seem to have this system:
+
+- Gengembre's method for the French language, Part II (1851) https://google.com/books?id=UlIZAAAAYAAJ no graphics here! published in Cincinatti together with adalbert Doisy (maybe this one: Charles Praval, The idioms of the French language, revised and augmented by Adelbert Doisy (Dublin, John cumming, 1825); Charles Praval, The rudiments and syntax of the French language, improved and considerably enlarged by Adelbert Doisy (Belfast, Simms and McIntyre, 1833).)
+- The practical French instructor (complete course). (1859) https://google.com/books?id=USoBAAAAYAAJ no graphics!
 
 ### Holbrook (1859) *The normal, or method of teaching*
 
