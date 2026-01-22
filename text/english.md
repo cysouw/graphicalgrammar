@@ -272,10 +272,28 @@ James Brown (dates unknown, approximately 1790-1855)
 
 thousands of pages in about 30 different volumes published in a period of 40 years, between 1815 and 1856.
 
-1815 Boston, 1819/1820 Albany/Troy, 1826 Washington, 1831 Philadelphia
+1815 Boston, 1819/1820 Albany/Troy, 1826 Washington, 1831 Philadelphia, 1839 announces "Brown's English Syntax Institution" (90 South Eighth St.) [intro to @brown1840]
 
 [@west2000: 91-109]
-[@gorlach1998: 64-69] list 25 different publications between 1815 and 1854 "Titles resemble each other so much that it is difficult to tell which are separate works and which new editions. It would be worth studying Brown in case he is more than a productive eccentric." p. 64 However, various of the titles that I have been able to access are not in Görlach's list.
+[@gorlach1998: 64-69] list 25 different publications between 1815 and 1854 "Titles resemble each other so much that it is difficult to tell which are separate works and which new editions. It would be worth studying Brown in case he is more than a productive eccentric." p. 64
+
+I have been able to acces the following online works:
+
+- *A treatise on the nature and reasons of the English grammar* [@brown1815]
+- *A grammatical treatise, being an exposition of the difficulties found in the present system of English grammar* [@brown1819]
+- *An American grammar, developing the principles of our language* [@brown1820]
+- *The American system of English grammar* [@brown1826]
+- *The American Grammar* [@brown1831]
+- *The American system of English syntax* [@brown1837], revision [@brown1838] and again [@brown1841]
+- *The English Syntascope* (1839/1840)
+- *An exegesis of English syntax* [@brown1840]
+- *An appeal from the old theory of English grammar* [@brown1845], second part revised as [@brown1850]
+- *An English syntithology* [@brown1847a; @brown1847b; @brown1847c]
+- *The first round in the ladder of education* [@brown1849]
+- *An English Grammar* [@brown1849b; @brown1850a]
+- *The rational system of English grammar* [@brown1854a; @brown1854b; @brown1856]
+- *The grammatical reader* [@brown1854]
+
 
 - *A treatise on the nature and reasons of the English grammar* [@brown1815] Full of references to imaginary (?) pages, or is there supposed to be a supplement with the "machine"?
 - *A grammatical treatise, being an exposition of the difficulties found in the present system of English grammar* [@brown1819] starts arguing against Murray, new vocabulary, but seems just different words for the same thinsgs: primary definer = noun, secondary definer = adjective, assertor = verb
@@ -288,24 +306,40 @@ more explanation p.38:
 
 > "the major word is distingshuided from the minor by the absence of figures; the minor from the major, by the presence of figures. The simple order will be presented by the erect posture of the same figure which marks the degree of the minor word […] the compound order will be presented by the *horizontal* posture of the same figures which mark the degree of the minor words."
 
-p. 44 "secionized state", major and minor sections (square and round brackets)
+p. 44 "sectionized state", major and minor sections (square and round brackets)
 p. 46: "why are some figures larger than others? to point out the *relative* Minors"
 p. 47 more complex examples
 p. 62/63: symbols for conjunctions
 
 - The American Grammar [@brown1831] scanning p 35ff. abbreviations for form-analysis p. 82
-- The American system of English syntax [@brown1837] reprint 1838 https://www.loc.gov/item/10024677
-- An exegesis of English syntax (1840) https://www.loc.gov/item/10024675 (1841) https://www.loc.gov/item/10024691
-- The first part of the American system of English syntax (1841) monology p.41 https://www.loc.gov/item/10024691
-- An Appeal from the Old Theory of English Grammar (1845) https://google.com/books?id=C-ZZAAAAMAAJ
-- An English Syntithology (1847, book 3) https://google.com/books?id=4MVEAAAAIAAJ book 1+2: https://google.com/books?id=f3gSAAAAIAAJ
-- The first round in the ladder of education (1849) https://www.loc.gov/item/10018457
-- An appeal from the absurdities and contradictions which pervade, and deform the old theory of English grammar (1850) https://www.loc.gov/item/11008562
-- An English Grammar, in Three Books (1849, book II) https://archive.org/details/englishhgrammari00browrich/ (1850 book I) https://google.com/books?id=O1IZAAAAYAAJ
-- The first book of the rational system of English grammar (1854) https://www.loc.gov/item/10024689
-- The second book of the rational system of English grammar (1854) https://www.loc.gov/item/10024690
-- The third book (1856) https://google.com/books?vid=Harvard:32044097041644
-- The grammatical reader (1854) https://www.loc.gov/item/ca11002074
+- The American system of English syntax [@brown1837] many strange pictures including trees, but without concrete sentence analysis, using all alphabet letters randomly for word classes/syntactic functions? p.82-83, examples p.88
+- The American system of English syntax [@brown1838], revision 1838 seems rather different: not as excentric anymore. Monology p. 19 
+- The English Syntascope (1839/1840) Waiting for reproduction from Penn/Kislak https://aeon.library.upenn.edu/nonshib/aeon.dll?Action=10&Form=10
+- An exegesis of English syntax [@brown1840] tree picture for actual sentence p. 108
+- The first part of the American system of English syntax [@brown1841] revision of 1838??? only first part seems to have been finished? monology p.41 for earlier "major/minor sections" using superscript numbers for monos, instead of for hierarchy as earlier. There does not appear to be any hierarchy between monos. Numbers for "Rank" are later introduced p. 183.
+- An Appeal from the Old Theory of English Grammar [@brown1845] long discussion of other grammars and their "errors". Starting p230 this book includes *exegesis of english syntax* (1840). the rest is reasonably traditional grammar, proposed as comparison to his own ideas in "Synthithology"
+- An English Syntithology [@brown1847a; @brown1847b; @brown1847c]
+- The first round in the ladder of education [@brown1849] children's book for learning letters
+- An appeal from the absurdities and contradictions which pervade, and deform the old theory of English grammar [@brown1850] mostly repetitions of earlier work
+- An English Grammar, in Three Books. probably 1849 original, only book 1+2 found [@brown1850a; @brown1849b]
+
+hierarchical structure of sentence, but not further developed (book 1: p. viii)
+
+1. The entire sentence : [ Moses smote the rock] (with
+his most sacred rod. )
+1. The trunk section of the sentence : [ Moses smote
+the rock. ]
+1. The trunk words of the trunk section : [Moses,
+rock. ]
+1. The branch words of the trunk section : smote, the.
+2. The branch section of the sentence : (with his most
+sacred rod.)
+1. The trunk word of the branch section : rod.
+2. The branch words of the branch section : with, his,
+most, sacred.
+
+- *The rational system of English grammar* [@brown1854a; @brown1854b; @brown1856] "sectionizing" book 1:46 relative clause inside! Otherwise same content as before
+- The grammatical reader [@brown1854]
 
 ### Andrew & Stoddard (1836) *A grammar of the Latin language*
 
@@ -470,6 +504,12 @@ https://catalog.hathitrust.org/Record/011199495
 diagram, tree metaphor in pictures
 
 https://books.google.de/books?id=BdIOAQAAMAAJ&newbks=1&newbks_redir=0&printsec=frontcover&hl=de#v=onepage&q=diagram&f=false
+
+Other books:
+
+- 1863: https://archive.org/details/yorksenglishgra00york/
+- 1864: https://archive.org/details/yorksenglishgram00york/
+- 1865: https://archive.org/details/yorksenglishgram01york/
 
 ### Parker (1865) *A grammar of the English language*
 
@@ -979,6 +1019,8 @@ Immediate constituent analysis from Seuren [-@seuren1998: 187]
 Hypothesis that Wundt influenced Bloomfield: [@percival1976: 234-235 gives various detailed arguments], but again no pictures. The basic assumption of binary analysis pervasive in US-american 20th century analyses can probably be tracked back to Wundt.
 
 Historical survey of Bloomfield and post-Bloomfieldians: [@matthews1993]
+
+Use of vertical bars for separation appears old, e.g. (1836:176) https://www.loc.gov/item/43047733/ (1853:162) https://www.loc.gov/item/11008559/
 
 ### Ajdukiewicz (1935) *Die syntaktische Konnexität*
 
