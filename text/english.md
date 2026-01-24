@@ -262,84 +262,64 @@ word "chart" replaced by "atlas" in furthermore exactly the same sentences.
 
 ### Brown (1826) *The American system of English grammar*
 
-James Brown (dates unknown, approximately 1790-1855)
+James Brown (dates unknown, approximately 1790-1855) was a very productive and rather eccentric author of grammatical textbooks for the English language. Almost nothing is known about his life, except what can be gleaned from his publications. West [-@west2000: 91-109] interprets the places of publication of Brown's books as a sign of his whereabouts, which indicates that he was in Boston 1815, in Albany/Troy in 1819/1820, in Washington in 1826 and finally settled in Philadelphia in about 1831. In 1839 he announces his own private institute called "Brown's English Syntax Institution", located in 90 South Eighth Street, Philadelphia [e.g. the flyer attached to @brown1840]. His first known publication is from 1815 and his last available new publications are from 1854, so he was probably born around 1790 and died around 1855.
 
-- construing p.22: major/minor sections with different brackets p.29
-- scanning (p35-40)
-- scheme (p81-88), parsing
+The writings of Brown are tiring to read and are full of dismissive rants about other grammars of English, specifically arguing agains Murray's grammar. West [-@west2000: 92] interprets Brown's aggressive stance as a revolutionary drive, being a citizen of the recently founded United States: "from the onset Brown displayed a revolutionary zeal and a determination to throw off the grammatical shackles of British tyranny" [@west2000: 92]. Whether revolution indeed describes Brown's state of mind, or whether he simply had an unconventional or even bizarre personality, is difficult to decide without further in-depth biographical research. However, it seems telling that in the first two decades of his writing Brown repeatedly stressed that he was writing an "American" grammar of the English language.
 
-"Construing consists in dividing a sentence into sections or groups, ascertaining their true constructive relation, learning their exact significant characters, and referring the inferior sections to their respective superiors." (p. xii) 
+The speed and volume of Brown's writing is impressive. Görlach [-@gorlach1998: 64-69] list 25 different publications between 1815 and 1854, noting that the "titles resemble each other so much that it is difficult to tell which are separate works and which new editions. It would be worth studying Brown in case he is more than a productive eccentric" [@gorlach1998: 64]. My impression is that Brown can indeed be characterised as a productive eccentric, and interesting enough to deserve further biographical investigation. Much of his writing is fluff, but atypical for his time, Brown considered syntactic arguments to be central for grammatical analysis [cf. @west2000: 93]. Unfortunately, the example sentences that he analyses are all structurally rather trivial, and he clearly does not understand clausal subordination. So, although he focusses on syntax, he does so only for syntacically very simple sentences.
 
-thousands of pages in about 30 different volumes published in a period of 40 years, between 1815 and 1856.
-
-1815 Boston, 1819/1820 Albany/Troy, 1826 Washington, 1831 Philadelphia, 1839 announces "Brown's English Syntax Institution" (90 South Eighth St.) [intro to @brown1840]
-
-[@west2000: 91-109]
-[@gorlach1998: 64-69] list 25 different publications between 1815 and 1854 "Titles resemble each other so much that it is difficult to tell which are separate works and which new editions. It would be worth studying Brown in case he is more than a productive eccentric." p. 64
-
-I have been able to acces the following online works:
+Brown's published works consists of thousands of pages, but there is a lot of repetition in his writings. I have been able to acces more than twenty of his published volumes. The bibliography at the end of this book lists the full–and often really long–titles of these works and indicates the location for online access of all these sources. Note that some of these available sources are not the first editions, so the dates below do not always reflect their precise date of origin.
 
 - *A treatise on the nature and reasons of the English grammar* [@brown1815]
 - *A grammatical treatise, being an exposition of the difficulties found in the present system of English grammar* [@brown1819]
 - *An American grammar, developing the principles of our language* [@brown1820]
 - *The American system of English grammar* [@brown1826]
 - *The American Grammar* [@brown1831]
-- *The American system of English syntax* [@brown1837], revision [@brown1838] and again [@brown1841]
+- *The American system of English syntax* [@brown1837], major revision with same title [@brown1838] and again revised with slightly different title [@brown1841]
 - *The English Syntascope* (1839/1840)
 - *An exegesis of English syntax* [@brown1840]
-- *An appeal from the old theory of English grammar* [@brown1845], second part revised as [@brown1850]
-- *An English syntithology* [@brown1847a; @brown1847b; @brown1847c]
+- *An appeal from the old theory of English grammar* [@brown1845], second part of this book later republished with a different name [@brown1850]
+- *An English syntithology* [three volumes: @brown1847a; @brown1847b; @brown1847c]
 - *The first round in the ladder of education* [@brown1849]
-- *An English Grammar* [@brown1849b; @brown1850a]
-- *The rational system of English grammar* [@brown1854a; @brown1854b; @brown1856]
+- *An English Grammar* [three volumes, only two accessed: @brown1849b; @brown1850a]
+- *The rational system of English grammar* [three volumes: @brown1854a; @brown1854b; @brown1856]
 - *The grammatical reader* [@brown1854]
 
+Brown's first few publications are rather disorganised and not very innovative. First, Brown [-@brown1815] is full of references to non-existing pages, referencing a "machine". There might have been some kind of supplement, which is missing in the available copies of the book. Second, Brown [-@brown1819] is more of a pamphlet arguing against Murray's grammar. Brown introduces various new grammatical vocabulary here (a constant throughout his work), but these seem just different words for tradition concepts, for example "primary definer" for noun, "secondary definer" adjective and "assertor" for verb. Third, Brown [-@brown1820] is a revision ofthis pamphlet, extending it with his "new system" (starting with new page numbers after page 60). He starts out referring to alphabetically named sections, which are mostly not referring to anything that can be found in the rest of the book. It seems like Brown was just not very organised and did not do much proofreading. He simply seems to not have fulfilled his own promises while writing the book. However, starting a page 55 (of the second numbered part) there are a few of the referenced sections, for example "Q: Of local definers" [-@brown1820: 55].
 
-- *A treatise on the nature and reasons of the English grammar* [@brown1815] Full of references to imaginary (?) pages, or is there supposed to be a supplement with the "machine"?
-- *A grammatical treatise, being an exposition of the difficulties found in the present system of English grammar* [@brown1819] starts arguing against Murray, new vocabulary, but seems just different words for the same thinsgs: primary definer = noun, secondary definer = adjective, assertor = verb
-- *An American grammar, developing the principles of our language* [@brown1820] revision/extension of 1819 "pamphlet". "The new system" refers to pages with letters, which are not referring to anything. Again: is there some part missing of this book? Probably: Brown was just not very organised and did not fulfill his own promises written down. (e.g. page 55ff there are a few referenced sections, e.g. Q: Of local definers)
-- *The American system of English grammar* [@brown1826] organised in lessons. uses bracketings system, first p. 35/36 without much explanation. "scanning" introduced on p. 32: 
+With the publication of *The American system of English grammar* [@brown1826] his books start to become more organised. There are clear lessons and exercises, and the section numbering is consistent. However, after page 12 of Brown [-@brown1826] there are special page-numbers from 13-star until 36-star, then returning to the regular page number 13, which probably reflects some kind of late-stage error correction. In this book, Brown introduces two syntactic concepts, *sectioning* and *scanning* [@brown1826: 32ff.]. He will return to these concepts throughout his work, though by different names. Basically, sectioning is a the assignment of a basic kind of constituency to a sentence and scanning is some kind of dependency analysis inside a constituent: "[scanning exercises] are founded solely upon the *mechanical* relation of words in the formation of that piece of *machinery* called a ~~sentence~~" [@brown1826: 32, emphasis in original]. He explains that the term *scanning* was inspired by the tradition of verse analysis:
 
-> "[scanning exercises] are founded solely upon the *mechanical* relation of words in the formation of that piece of *machinery* called a ~~sentence~~" first examples p. 36. 
+> *Scanning* in Latin is ascertaining how many Poetic feet there are in a verse; in English, *Scanning* is ascertaining how many *constructive* or *mechanical* feet or degrees a Minor word is set off from its Major. [@brown1826: 36, emphasis in original]
 
-more explanation p.38: 
+The basis of *scanning* is the assignment of *degree*, which is the level of modification, as illustrated by Brown in [@fig:brown1826_36]. In each assignment of degree there is a *major* (apparently always a noun or pronoun), which does not have a degree, and the *minors* that have there degree written above them. Minors can also be of *compound order* when they relate to two majors (which includes both transitive verbs and conjunctions). The degree of compound minors is written horizontally above the word, as shown in [@fig:brown1826_47].
 
-> "the major word is distingshuided from the minor by the absence of figures; the minor from the major, by the presence of figures. The simple order will be presented by the erect posture of the same figure which marks the degree of the minor word […] the compound order will be presented by the *horizontal* posture of the same figures which mark the degree of the minor words."
+> the major word is distinguished from the minor by the absence of figures; the minor from the major, by the presence of figures. The simple order will be presented by the erect posture of the same figure which marks the degree of the minor word […] the compound order will be presented by the *horizontal* posture of the same figures which mark the degree of the minor words. [@brown1826: 38, emphasis in original]
 
-p. 44 "sectionized state", major and minor sections (square and round brackets)
-p. 46: "why are some figures larger than others? to point out the *relative* Minors"
-p. 47 more complex examples
-p. 62/63: symbols for conjunctions
+::: {.im #brown1826_36}
+According to Brown [-@brown1826: 36], words that modify other words can be assigned a *degree*, indicated by numbers above the words. Exactly this example shown here will return throughout all of his writings.
+:::
 
-- The American Grammar [@brown1831] scanning p 35ff. abbreviations for form-analysis p. 82
-- The American system of English syntax [@brown1837] many strange pictures including trees, but without concrete sentence analysis, using all alphabet letters randomly for word classes/syntactic functions? p.82-83, examples p.88
-- The American system of English syntax [@brown1838], revision 1838 seems rather different: not as excentric anymore. Monology p. 19 
-- The English Syntascope (1839/1840) Waiting for reproduction from Penn/Kislak https://aeon.library.upenn.edu/nonshib/aeon.dll?Action=10&Form=10
-- An exegesis of English syntax [@brown1840] tree picture for actual sentence p. 108
-- The first part of the American system of English syntax [@brown1841] revision of 1838??? only first part seems to have been finished? monology p.41 for earlier "major/minor sections" using superscript numbers for monos, instead of for hierarchy as earlier. There does not appear to be any hierarchy between monos. Numbers for "Rank" are later introduced p. 183.
-- An Appeal from the Old Theory of English Grammar [@brown1845] long discussion of other grammars and their "errors". Starting p230 this book includes *exegesis of english syntax* (1840). the rest is reasonably traditional grammar, proposed as comparison to his own ideas in "Synthithology"
-- An English Syntithology [@brown1847a; @brown1847b; @brown1847c]
-- The first round in the ladder of education [@brown1849] children's book for learning letters
-- An appeal from the absurdities and contradictions which pervade, and deform the old theory of English grammar [@brown1850] mostly repetitions of earlier work
-- An English Grammar, in Three Books. probably 1849 original, only book 1+2 found [@brown1850a; @brown1849b]
+Finally there is sectioning, which amounts to separating the major constituents of a sentence by bracketing them. Hiearchical bracketing is not used by Brown, although there are a few incidental examples of brackets insides brackets attested in his work. The constituents are also distinguished into major and minor ones. The major is roughly the minimal sentence (indicated by square brackets), while the minors are adjuncts (indicated by round brackets). The very few examples of subordinated sentences are simply treated as minors without any special status. The analysis of the structure of a sentence amount to a combination of sectioning and scanning, as shown in [@fig:brown1826_47].
 
-hierarchical structure of sentence, but not further developed (book 1: p. viii)
+> Every sentence has, or may have, two or more sections. One of these sections must be the foundation of the sentence […]. The section which is the foundation, is, of course, denominated the ~~major~~. The other or others are called ~~minors~~. The Major in these ~~exercises~~, will be presented by brackets. The minor will be presented by parentheses. [@brown1826: 45, emphasis in original]
 
-1. The entire sentence : [ Moses smote the rock] (with
-his most sacred rod. )
-1. The trunk section of the sentence : [ Moses smote
-the rock. ]
-1. The trunk words of the trunk section : [Moses,
-rock. ]
-1. The branch words of the trunk section : smote, the.
-2. The branch section of the sentence : (with his most
-sacred rod.)
-1. The trunk word of the branch section : rod.
-2. The branch words of the branch section : with, his,
-most, sacred.
+::: {.im #brown1826_47}
+Analysis by Brown [-@brown1826: 47] including *sectioning* by brackets and *scanning* by the superimposed numbers. Sectioning includes deciding which part is the *major* (as indicated by square brackets) and which are the minors (indicated with round brackets, optionally more than one). Within each section there is also a distinction between majors (nouns, without numbers above them) and minors (modifying the major, marked by numbers above them). The number indicates the *degree* of modification. *Compound* modifiers are words that link to two majors (including both transitive verbs and conjunctions). They are indicated by horizontally placed numbers.
+:::
 
-- *The rational system of English grammar* [@brown1854a; @brown1854b; @brown1856] "sectionizing" book 1:46 relative clause inside! Otherwise same content as before
-- The grammatical reader [@brown1854]
+Brown applies his method of syntactic analysis only to very simple main clauses. There is no indication that Brown understood the concept of hierarchical structuring or clause subordination. Still, this kind of analysis–as early as 1826–shows promise for a syntactic analysis. Brown could have expanded upon this great start and he might have been a real hero of syntactic analysis. However, instead of applying his ideas to ever more complex examples, he seems to have thought that this level of analysis is sufficient and he never refined it. Instead, he repeats his approach using ever more bizarre terminology and hyperbolic self-aggrandisement throughout the rest of his productive life.
+
+In *The American Grammar* [@brown1831] the same content is set out, slightly improved in presentation. Sectioning is now called *construing* [@brown1831: 22] and Brown adds a cryptic *scheme* [@brown1831: 82], which turns out to just a simple abbreviations of the kind of analytic statements he is repeatedly making, e.g. "a sentensic noun, third order, singular number" becomes *a s n t o s n*. Things become really strange with *The American system of English syntax* [@brown1837]. After a short introduction Brown starts with a glossary of terms, in which he sets out a completely new terminology for linguistic analysis [@brown1837: xxiii-xxix], which–unfortunately–results mostly in confusion for any reader, leading to fantastical description like the following:
+
+> Duramus, an insentensic Ramus which has the power or capacity, to accompany two, or both kinds of Cormi; as, *good* men do *good* deeds. (See Sentensic, and Insentensic Cormos.) [@brown1837: xxv]
+
+Where Brown previously used the terms sectioning/contruing, he now uses *graduation* [@brown1837: 43] and he uses the image of a tree trunk (*truncus*) and branches (*clados*), though he never gives a concrete analysis of a specific sentence. All different subdivisions of the sentence are assigned a random capital letter [@brown1837: 82-82], which is completely incomprehensible in practice. The notion of degree is now called *rank*. The book is full of pictures supposed to explain syntactic structures, but they are not used for concrete examples. In the next year Brown publishes a major revision of *The American system of English syntax* [@brown1838]. Much is changed here, and sectioning/construing/graduation is now called *monology*, and the constituent parts are called *monos* [@brown1838: 19]. His next book *An exegesis of English syntax* [@brown1840] is a shorter version, with much the same content but in a different order. Here we find a tree picture for an actual sentence, namely *very high trees fell*, as shown in [@fig:brown1840_108]. There is another book, called *The first part of the American system of English syntax* [@brown1841], which seems to be a subset of the previous works. There do not appear to have been any further parts published after this "first part".
+
+::: {.im #brown1840_108}
+Tree diagram from Brown [-@brown1840: 108] for the sentence *very high trees fell.* The letters refer to the individual words (*a=trees, b=fell, c=high, d=very*). The reason for the inclusion of the number 5 is unclear.
+:::
+
+Brown remains active, writing at least 13 more books in the next 15 years (see the list above), mostly rehashing earlier ideas, often repeating himself, but also adding new formulations of the same content. He appears to slowly dial back on the more fantastical terminological innovations as he grows older. The oevre of Brown is a cautious tale of wrapping up interesting ideas into incomprehensible terminology, becoming completely unintelligible, and thus being ignored, in the process.^[Also check *The English Syntascope* (1839/1840). Still waiting for reproduction from Penn/Kislak <https://aeon.library.upenn.edu/nonshib/aeon.dll?Action=10&Form=10>]
 
 ### Andrew & Stoddard (1836) *A grammar of the Latin language*
 
