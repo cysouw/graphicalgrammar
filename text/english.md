@@ -38,8 +38,9 @@ thanks to: Richard Salter Storrs (deaf education in hartford, mentioned in prefa
 
 [@wing1885] further development of storrs/peet symbols for the deaf (which were also the basis for March 1869)
 
-
 ## Syntactic tables
+
+GB-Grammars in 19th Century: [@busse2021] https://web.archive.org/web/20250420085129/https://heidelgram.de/
 
 ### Becker (1830) *A grammar of the German language* {#sec:becker1830}
 
@@ -202,6 +203,14 @@ And the great deluge still had left it green;
 [@meiklejohn1890: 160]
 :::
 
+### Lennie & Nutall (1863) *The principles of English grammar*
+
+revision of 1810 original by Lennie with expanded analysis of sentence by Nutall, p. 120-123
+
+https://google.com/books?id=2MQDAAAAQAAJ
+
+not in Lennie (1815) https://google.com/books?id=RgphAAAAcAAJ
+
 ### Swinton (1872) *A progressive grammar of the English tongue*
 
 William Swinton (1833-1892) in USA (Professor of the English language in the University of California??? Preface written in New York), but no diagram - more likely britisch tradition
@@ -224,6 +233,12 @@ first edition [@mason1858] no tables
 ### Fitch (1881) *Lectures on teaching* {#sec:fitch1881}
 
 long-form analysis like becker [@fitch1881: 268-269]
+
+### Fleay (1884) *Logical English Grammar*
+
+long-form analysis for complex subordinated example p.54-58
+
+https://google.com/books?id=BkgqAAAAMAAJ
 
 ### Cooper & Sonnenschein (1889) *An English grammar for schools*
 
@@ -1000,7 +1015,16 @@ Hypothesis that Wundt influenced Bloomfield: [@percival1976: 234-235 gives vario
 
 Historical survey of Bloomfield and post-Bloomfieldians: [@matthews1993]
 
-Use of vertical bars for separation appears old, e.g. (1836:176) https://www.loc.gov/item/43047733/ (1853:162) https://www.loc.gov/item/11008559/
+Use of vertical bars for separation appears old, e.g. Alexander Crombie https://en.wikipedia.org/wiki/Alexander_Crombie
+
+> Complex sentences are divided into members; and these, ifcomplex, are subdivided into clauses, as, "The ox knoweth his owner | and the ass his master's crib || but Israel doth not know | my people doth not consider." This complex sentence has two members, each of which contains two clauses.
+
+- first edition 1802
+- second edition 1809/1810
+- third edition 1830:226 https://google.com/books?id=uP0RAAAAIAAJ
+- fourth edition (1836:176) https://www.loc.gov/item/43047733/ 
+- fifth edition (1843:162) https://google.com/books?id=Tx1AAAAAYAAJ
+- seventh edition (1853:162) https://www.loc.gov/item/11008559/
 
 ### Ajdukiewicz (1935) *Die syntaktische Konnexität*
 
