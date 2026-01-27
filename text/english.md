@@ -172,7 +172,7 @@ tables and indented complex sentences [@onions1904] *sentence picture* p.25
 
 word "chart" replaced by "atlas" in furthermore exactly the same sentences.
 
-### Brown (1826) *The American system of English grammar*
+### Brown (1826) *The American system of English grammar* {#sec:brown1826}
 
 James Brown (dates unknown, approximately 1790-1855) was a very productive and rather eccentric author of grammatical textbooks for the English language. Almost nothing is known about his life, except what can be gleaned from his publications. West [-@west2000: 91-109] interprets the places of publication of Brown's books as a sign of his whereabouts, which indicates that he was in Boston 1815, in Albany/Troy in 1819/1820, in Washington in 1826 and finally settled in Philadelphia in about 1831. In 1839 he announces his own private institute called "Brown's English Syntax Institution", located in 90 South Eighth Street, Philadelphia [e.g. the flyer attached to @brown1840]. His first known publication is from 1815 and his last available new publications are from 1854, so he was probably born around 1790 and died around 1855.
 
@@ -235,43 +235,71 @@ Brown remains active, writing at least 13 more books in the next 15 years (see t
 
 ### Peirce (1839) *The grammar of the English language*
 
-Oliver Beale Peirce (1808-1865)
+Oliver Beale Peirce (1808-1865) was a teacher and textbook author in Rome, Oneida County, New York.^[Some limited biographical information is available online at <http://www.oneidacountyfreedomtrail.com/oliver-peirce.html>, accessed 27 January 2026. Dates for his birth and death are from <https://www.findagrave.com/memorial/13126231/oliver-beale-peirce>, accessed 27 January 2026.] His first grammar was calles *Grammatical instructor*, which was probably published around 1835, but I have only been able to acces the revised third edition [@peirce1837]. This book contains already much of the content of his subsequent textbooks, but it crucially does not contain any graphical syntax. Similar to Brown (see [@sec:brown1826]), Peirce likes to use his own terms instead of traditional grammatical terminology. Like Brown, Peirce also uses the term *asserter* instead of "verb" [@peirce1837: 98-99]. However, the other terminology does not coincide, so this might be a coincidence.
 
-http://www.oneidacountyfreedomtrail.com/oliver-peirce.html
-https://www.findagrave.com/memorial/13126231/oliver-beale-peirce
-
-[@peirce1837] already much the same content, but not pictures yet.
-
-"chains" on p. 50, 52, 140 [@peirce1839]
+In his next book, *The grammar of the English language* [@peirce1839] he adds two graphical sentence analyses in the form of "chains" [@peirce1839: 50, 52], one of which is shown in [@fig:peirce1839_50]. He considers this graphical representation to be self-evident:
 
 > As the dependence of words in a sentence is more fully illustrated by the following figurative exemplifications, the pupil should study them till he shall be able, without difficulty, to apply to them any simple sentences that he shall find. [@peirce1839: 47]
 
-figure on p.140 is very strongly alike to Brown. Also verb=asserter!
+::: {.im #peirce1839_50}
+*Chain* from Peirce [-@peirce1839: 50]. He does not delve deeper into the possibilities of this kind of syntactic representation, so it remains unclear how Peirce intended to deal with more complex hierarchical structures. Note that in the modern conception the sequence *for gentlemen in Utica* is analysed as a single constituent, so the concept of a simple "chain" is not correct here.
+:::
 
-"immediate dependence" vs. "intermediate connection" (p. 141)
+Peirce gives a detailed example of the dependence of words in the discussion of "adnames" (his term for adjective). Already in his first book [@peirce1837], Peirce distinguishes between primary and second adnames: primary adnames are adjectives (e.g. in *black cloth*), while secondary adnames are intensifiers, modifying the adjective (e.g. in *deep black cloth*). In Peirce [-@peirce1839: 139-141] he further devides the secondary adnames into different classes, each modifying the previous. He illustrates such structures with [@fig:peirce1839_140], which is clearly inspired by a very similary graphic from Brown, as shown in [@fig:brown1826_36].
 
-numbered example sentences p. 233-241, there appears to be some implicit hierarchical ordering, but no clear explanation. Maybe numbering like Brown? No: the numbering seems to represent some kind of *ideal* sentence ordering. "EXERCISES IN WHICH THE WORDS ARE NUMBERED, AS THEY SHOULD STAND IN PROSE" p.233 THis is about the analysis of poetry, which might be rather free in its syntactic ordering
+::: {.im #peirce1839_140}
+*Classes of secondary adnames* from Peirce [@peirce1839: 140]. Primary adnames (=adjectives) can be further modifed by different classes of secondary adnames, which are only connected to the main noun through "intermediate connection" [@peirce1839: 141]. This illustration is clearly inspired by the notion of degree from Brown (cf. [@fig:brown1826_36]).
+:::
 
-shorter verions [@peirce1840], no nice pictures here. But the "classes of adnames" like Brown is included, p. 81
+Peirce also uses numbers above words, but with a different goal as Brown. Peirce uses the numbers for "transposition" [@peirce1839: 233-241], which is his method of the analysis of the often rather free word order of poetry. Peirce proposes to assign the words to some (unexplained) "basic order" which is represented by the numbers above the words, as shown in [@fig:peirce1839_234]. The original verse by Byron is shown in [@next a], while Peirce's proposed "regular" order is shown in [@next b]. It is unclear why Peirce proposed to disconnect the subject *four brothers* from the finite verb *enriched*. Keeping them together seems to result in a much clearer order, with the main clause at the start, followed by three subordinate clauses [@next c].
 
-improved edition [@peirce1843] with many graphics 290-312 called "diagrams"
+::: ex
+- On Marston, with Rupert, 'gainst traitors, contending, \
+  Four brothers enrich'd, with their blood, the bleak field: \
+  [and] for the rights of their monarch, their country, defending; \
+  Till death their attachment to royalty, seal'd. \
+  [@peirce1839: 234, citing Lord Byron *On Leaving Newstead Abbey*]
+- Four brothers, contending on Marston with Rupert against traitors \
+  [and] defending their country for the rights of their monarch \
+  till death sealed their attachment to royalty, \
+  enriched the bleak field with their blood.
+- Four brothers enriched the bleak field with their blood, \
+  contending on Marston with Rupert against traitors, \
+  [and] defending their country for the rights of their monarch, \
+  till death sealed their attachment to royalty. \
+:::
 
-p295, analysis of excerpt from Alexander Pope *An Essay on Man*
+::: {.im #peirce1839_234}
+*Transposition* of [@last a] by Peirce [-@peirce1839: 234], using a quotation from Lord Byron's poem *On Leaving Newstead Abbey*. The numbers indicate the proposed "regular" order of the sentence, as reconstructed in [@last b]. Peirce's proposes order still seems somewhat contrived and the order [@last c] would have been a better analysis.
+:::
 
-Love, hope, and joy, fair pleasure's smiling train,
-Hate, fear, and grief, the family of pain,
-These mix'd with art, and to due bounds confin'd,
-Make and maintain the balance of the mind:
-The lights and shades, whose well accorded strife
-Gives all the strength and colour of our life.
+A year later Peirce publishes a shorter verion of his grammar [@peirce1840], which has none of the "chain" illustrations. Only the "classes of adnames" are still included [@peirce1840: 81]. A few years later he publishes an improved edition of his grammar [@peirce1843], also without the "chain" illustrations. However, this version includes an extensive sections with diagrams of sentences [@peirce1843: 290-312]. This seems to be the first usage of the term "diagram" for graphical illustrations of syntactic structure. Peirce's diagrams use many different graphical tools, including vertical braces, connecting dotted lines, horizontal brackets and pointing fingers. He is not very clear about the precise method to establish of his diagrams. They appear to be more of a tool for poetic interpretation than a real syntactic analysis in its modern sense.
 
-p304, analysis of quotation from John Mason Good https://hymnary.org/text/life_is_a_sea_how_fair_its_face
+Two examples are shown in [@fig:peirce1843_295] for the example in [@next a] and [@fig:peirce1843_304] for the example in [@next b]. In his diagrams, Peirce includes various syntactic phenomena, like using vertical braces for coordinating structures. However, he also attempts to include some kind of poetic content analysis, showing how the poetic language is to be interpreted. For example, in [@fig:peirce1843_295] there is an opposition made between *love, hope, and joy* against *hate, fear, and grief*. This opposition is later mirrored by the words *lights and shades*. Syntactically there is no direct connection between these two oppositions. Still, Peirce indicates this link with the pointing fingers and the dotted lines in his illustration.
 
-But rocks below, and tempests sleep,
-Insidious o'er the glassy deep,
-Nor leave an hour secure.'
+::: ex
+- Love, hope, and joy, fair pleasure's smiling train, \
+  Hate, fear, and grief, the family of pain, \
+  These mix'd with art, and to due bounds confin'd, \
+  Make and maintain the balance of the mind: \
+  The lights and shades, whose well accorded strife \
+  Gives all the strength and colour of our life. \
+  [@peirce1843: 295, citing Alexander Pope *An Essay on Man*]
+- But rocks below, and tempests sleep, \
+  Insidious o'er the glassy deep, \
+  Nor leave an hour secure. \
+  [@peirce1843: 295, citing John Mason Good *Life is a sea*]
+:::
 
-[@peirce1847] summary or previous. same scheme as Brown for grades, p. 88. only minimal diagramming
+::: {.im #peirce1843_295}
+*Diagram* of [@last a] from Peirce [-@peirce1843: 295], analysing an excerpt from Alexander Pope *An Essay on Man*. Horizontal braces link coordinated structures. The pointing fingers and the dotted lines suggest a link between *love, hope and joy* and *light* on the one side and *hate, feaar, and greif* to *shades* on the other. This is more of a poetic content analysis that a pure syntactic one.
+:::
+
+::: {.im #peirce1843_304}
+*Diagram* of [@last b] from Peirce [-@peirce1843: 304], analysing an excerpt from John Mason Good *Life is a sea*. The original poem has *but* instead of *for*. The poetic structure is again highlighted by opposing *rocks below* with *tempests over*, which is not according to the structure of the example. The pointing fingers now link *insidious* both to the rocks and the tempests, which likewise is not part of the syntactic structure.
+:::
+
+The final grammar that was published by Peirce is a summary of the preceding work [@peirce1847]. It only contains a few very simple diagrams.
 
 ### Barrett (1842) *The principles of language*
 
