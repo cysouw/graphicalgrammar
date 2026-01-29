@@ -579,15 +579,46 @@ https://en.wikipedia.org/wiki/Joseph_de_Maimieux [@maimieux1797; @maimieux1797a]
 
 ### Sicard (1799) *Cours d'instruction d'un sourd-muet*
 
-grammaire generale [@sicard1798a] numbers p. 29 "chiffre", but only one example?
+Roch-Ambroise Cucurron Sicard (1742-1822)
 
-Cours d'instruction [@sicard1799] numbers? p 64-71, 101, 112, 178, 332-333. graphics: 89
+grammaire generale [@sicard1798a] numbers p. 29 "chiffre", but only one example? dotted lines in [@sicard1798b: 120, 125, 224] !!!p120: *que* complementizer as contraction, p125: many words represented by a single word, e.g. pronominal reference and historical contraction, p224: explain number agreement as implicit conjunction. Further lines for alternative sentence patterns: p. 328, 360, 361, 362, 369, but sometimes also with vertical braces.
+
+Cours d'instruction [@sicard1799] numbers? p 64-71, 101, 112, 178, 332-333. graphics: 66, 89 (agreement), also 168, 208, 216
+
+Théorie des Signes (1808) no graphics: 
+
+- https://gallica.bnf.fr/ark:/12148/bpt6k9666323t#
+- https://gallica.bnf.fr/ark:/12148/bpt6k9618077k/f9.item
 
 ### Gaultier (1819) *Leçons de grammaire en action* {#sec:gaultier1819}
 
 l’abbé Louis Gaultier (1746-1818)[ @gaultier1817] parsing tables, but without numbers
 
 [@gaultier1819] using colors and circles to teach word classes to small kids
+
+### Bébian (1827) *Manuel d'enseignement pratique des sourds muets*
+
+https://en.wikipedia.org/wiki/Roch-Ambroise_Auguste_Bébian
+
+1825: Mimographie, describing sign language! https://archive.org/details/gu_mimographieou00bebi/
+
+Manuel d'enseignement pratique des sourds muets (1827) https://archive.org/details/gu_manueldenseig01bebi/
+
+p 52-53 DISTINCTION DES ELEMENS DE LA PROPOSITION AU MOYEN DE CHIFFRES.
+p 116-117 conjunctiv
+p 160-161 PRINCIPES D'ANALYSE LOGIQUE.
+
+### Vaïsse (1839) *Essai d'une grammaire symbolique*
+
+Léon Vaïsse, director of Institut National de Jeunes Sourds de Paris
+
+was in US in 1830-1834 and met Barnard, who was already working on his symbolic system of grammar.
+
+- "phonetic" alphabet for deaf [@vaisse1838]
+- symbolic grammar for French, notes US-work in introduction [@vaisse1839]
+
+> C'est pendant un séjour que je fis aux Etats-Unis, de 1830 à 1834, comme professeur à l'école des sourds-muets de New-york, que l'idée me fut suggerée de compléter, en le ramenant à ses principes naturels, le système de l'abbé Sicard.
+Dans l'établissement de hartford au Conneticut on se servait déjà pour la decomposition du discours de quelques signes graphiques; mais, quoiqu' évidemment empruntés au système del' instituteur français, ces caractères n'avaient plus qu'une forme tout-à-fait arbitraire. [@vaisse1839: 2]
 
 ### Lanusse & Yvon (1923) *Cours complet de grammaire française* {#sec:lanusse1923}
 

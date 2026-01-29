@@ -35,17 +35,46 @@ Similar: "syntactic parsing" in Bullions (1849:197) https://www.loc.gov/item/060
 
 ## Teaching grammar to the Deaf
 
-### Sicard (1799) *Cours d'instruction d'un sourd-muet*
-
-grammaire generale [@sicard1798a] numbers p. 29 "chiffre", but only one example?
-
-Cours d'instruction [@sicard1799] numbers? p 64-71, 101, 112, 178, 332-333. graphics: 89
-
 ### Barnard (1836) *Analytic Grammar*
+
+Frederick Augustus Porter Barnard (1809-1889) Barnard had a hereditary form of deafness that intensified in his later years, as did his brother and most of his family.
+
+- American Asylum for the Deaf and Dumb at Hartford, Connecticut between 1831 and 1832
+- New York Institute for the Instruction of the Deaf and Dumb between 1832 and 1838.
+
+https://en.wikipedia.org/wiki/Frederick_A._P._Barnard
+https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_11/May_1877/Sketch_of_President_Barnard
+
+Appendix to the 1860 Census report (https://www2.census.gov/prod2/decennial/documents/1860a-01.pdf) contains discussion of teachers of the deaf: https://www2.census.gov/prod2/decennial/documents/1860a-16.pdf has information about Barnard and others (Peet, Vaïsse)
 
 > The method of illustrating the principles of syntax employed in the following treatise, is one which has been, for a number of years, advantageously used in the instruction of the deaf and dumb. […] The first notions of the writer regarding it, were obtained while he was engaged as an instructor in the American Asylum, at Hartford, in the years 1831 and 1832. The *method*, which it at present exhibits, has been, however, the result of a more recent labor, during the writer's residence, in a corresponding capacitiy, at the New York Institution for the Instruction of the Deaf and Dumb. [@barnard1836: iii]
 
-Analytic Grammar; With Symbolic Illustration. New York: E. French. https://catalog.hathitrust.org/Record/008991837 No trees, but “symbolic sentences” in which categories are marked. Some ideas of levels http://www.polysyllabic.com/?q=node/336. Developed at school for the deaf in Hartford! based on l’epee/sicard “. This development seems to be linked to deaf-education, see [@wing1887: 86]
+No trees, but “symbolic sentences” in which categories are marked. Some ideas of levels http://www.polysyllabic.com/?q=node/336 [@barnard1836: 244-246]. Developed at school for the deaf in Hartford! based on l’epee/sicard “. This development seems to be linked to deaf-education, see [@wing1887: 86]
+
+Mentions sicard and thanks Leon Vaysse from Paris, who was in New York 1830-1834
+
+Harvey P. Peet started in New York Intstitute in 1831
+
+> In consequence of that recommendation, the directors finally
+succeeded in engaging the permanent services of Mr. Harvey P. Peet, then
+one ofthe most experienced andefficient instructors in the American Asy-
+lum, who entered on his duties in February, 1831. He has continued to
+direct the institution with distinguished ability and success to the present
+time. About the same period, Mr. Leon Vaysse, from the Royal Institution
+at Paris, was employed as teacher, and brought with him all the important
+improvements made in that institution since the death of Sieard. Underthe
+impulse of this change, and from the uniform practice of employing only
+men of liberal education as teachers, the New York Institution has taken
+its place among the most successful schools of deaf-mute instruction in the
+world. (p.95) https://archive.org/details/tributetogallaud00barn The author is also called Barnard, but is not apparently related to Frederick Barnard
+
+### Porter (1868) *The instruction of the deaf and dumb in grammar*
+
+p. 136-148 https://archive.org/details/ANNUALREPORT-Gallaudet-1868/
+
+same in: American Annals of the Deaf, vol 14 (1869) p30-48 and 128 https://google.com/books?id=E69KAAAAYAAJ
+
+refers to Clark and Jewell
 
 ### March (1869) *A parser and analyzer for beginners*
 
@@ -53,6 +82,8 @@ Francis A. March, A Parser and Analyzer for Beginners, with Diagrams and Suggest
 thanks to: Richard Salter Storrs (deaf education in hartford, mentioned in preface of March 1869), see [@williams1885: 102]
 
 ### Storrs (1880) *Methods of deaf-mute teaching*
+
+Richard Salter Storrs (1830-1884) bio: [@williams1885] Hartford 1853-1884
 
 [@storrs1880; @storrs1880a; @storrs1881]
 
