@@ -577,6 +577,12 @@ Joseph de Maimieux (1753-1820)
 
 https://en.wikipedia.org/wiki/Joseph_de_Maimieux [@maimieux1797; @maimieux1797a]
 
+more? 
+
+- http://www.lingviko.net/biblio.html#chap11
+- https://academic.oup.com/edited-volume/62210/chapter/550164521
+- https://en.wikipedia.org/wiki/An_Essay_Towards_a_Real_Character,_and_a_Philosophical_Language
+
 ### Sicard (1799) *Cours d'instruction d'un sourd-muet*
 
 Roch-Ambroise Cucurron Sicard (1742-1822)
