@@ -93,7 +93,7 @@ Richard Salter Storrs (1830-1884) bio: [@williams1885] Hartford 1853-1884
 
 ## Syntactic tables
 
-GB-Grammars in 19th Century: [@busse2021] https://web.archive.org/web/20250420085129/https://heidelgram.de/
+Grammars in 18th Century: [@tieken2008] GB-Grammars in 19th Century: [@busse2021] https://web.archive.org/web/20250420085129/https://heidelgram.de/
 
 ### Becker (1830) *A grammar of the German language* {#sec:becker1830}
 
@@ -207,7 +207,7 @@ word "chart" replaced by "atlas" in furthermore exactly the same sentences.
 
 James Brown (dates unknown, approximately 1790-1855) was a very productive and rather eccentric author of grammatical textbooks for the English language. Almost nothing is known about his life, except what can be gleaned from his publications. West [-@west2000: 91-109] interprets the places of publication of Brown's books as a sign of his whereabouts, which indicates that he was in Boston 1815, in Albany/Troy in 1819/1820, in Washington in 1826 and finally settled in Philadelphia in about 1831. In 1839 he announces his own private institute called "Brown's English Syntax Institution", located in 90 South Eighth Street, Philadelphia [e.g. the flyer attached to @brown1840]. His first known publication is from 1815 and his last available new publications are from 1854, so he was probably born around 1790 and died around 1855.
 
-The writings of Brown are tiring to read and are full of dismissive rants about other grammars of English, specifically arguing agains Murray's grammar. West [-@west2000: 92] interprets Brown's aggressive stance as a revolutionary drive, being a citizen of the recently founded United States: "from the onset Brown displayed a revolutionary zeal and a determination to throw off the grammatical shackles of British tyranny" [@west2000: 92]. Whether revolution indeed describes Brown's state of mind, or whether he simply had an unconventional or even bizarre personality, is difficult to decide without further in-depth biographical research. However, it seems telling that in the first two decades of his writing Brown repeatedly stressed that he was writing an "American" grammar of the English language.
+The writings of Brown are tiring to read and are full of dismissive rants about other grammars of English, specifically arguing agains Murray's grammar. West [-@west2000: 92] interprets Brown's aggressive stance as a revolutionary drive, being a citizen of the recently founded United States: "from the onset Brown displayed a revolutionary zeal and a determination to throw off the grammatical shackles of British tyranny" [@west2000: 92]. Whether revolution indeed describes Brown's state of mind, or whether he simply had an unconventional or even bizarre personality, is difficult to decide without further in-depth biographical research. However, it seems telling that in the first two decades of his writing Brown repeatedly stressed that he was writing an "American" grammar of the English language. Brown's work was not completely ignored in his time. It had at least direct influence on the work of Peirce ([@sec:peirce1839]), Barrett ([@sec:barrett1842]) and Hall ([@sec:hall1898]).
 
 The speed and volume of Brown's writing is impressive. Görlach [-@gorlach1998: 64-69] list 25 different publications between 1815 and 1854, noting that the "titles resemble each other so much that it is difficult to tell which are separate works and which new editions. It would be worth studying Brown in case he is more than a productive eccentric" [@gorlach1998: 64]. My impression is that Brown can indeed be characterised as a productive eccentric, and interesting enough to deserve further biographical investigation. Much of his writing is fluff, but atypical for his time, Brown considered syntactic arguments to be central for grammatical analysis [cf. @west2000: 93]. Unfortunately, the example sentences that he analyses are all structurally rather trivial, and he clearly does not understand clausal subordination. So, although he focusses on syntax, he does so only for syntacically very simple sentences.
 
@@ -256,15 +256,25 @@ In *The American Grammar* [@brown1831] the same content is set out, slightly imp
 
 > Duramus, an insentensic Ramus which has the power or capacity, to accompany two, or both kinds of Cormi; as, *good* men do *good* deeds. (See Sentensic, and Insentensic Cormos.) [@brown1837: xxv]
 
-Where Brown previously used the terms sectioning/contruing, he now uses *graduation* [@brown1837: 43] and he uses the image of a tree trunk (*truncus*) and branches (*clados*), though he never gives a concrete analysis of a specific sentence. All different subdivisions of the sentence are assigned a random capital letter [@brown1837: 82-82], which is completely incomprehensible in practice. The notion of degree is now called *rank*. The book is full of pictures supposed to explain syntactic structures, but they are not used for concrete examples. In the next year Brown publishes a major revision of *The American system of English syntax* [@brown1838]. Much is changed here, and sectioning/construing/graduation is now called *monology*, and the constituent parts are called *monos* [@brown1838: 19]. His next book *An exegesis of English syntax* [@brown1840] is a shorter version, with much the same content but in a different order. Here we find a tree picture for an actual sentence, namely *very high trees fell*, as shown in [@fig:brown1840_108]. There is another book, called *The first part of the American system of English syntax* [@brown1841], which seems to be a subset of the previous works. There do not appear to have been any further parts published after this "first part".
+Where Brown previously used the terms sectioning/contruing, he now uses *graduation* [@brown1837: 43] and he uses the image of a tree trunk (*truncus*) and branches (*clados*), though he never gives a concrete analysis of a specific sentence. All different subdivisions of the sentence are assigned a random capital letter [@brown1837: 82-82], which is completely incomprehensible in practice. The notion of degree is now called *rank*. It appears to be a coincidence that there is a similarity to Jespersen's notion of *rang* (see [@sec:jespersen1921]). Brown's book is full of pictures, supposedly to explain syntactic structures, but they are never used for concrete example sentences. 
+
+In the next year Brown publishes a major revision of *The American system of English syntax* [@brown1838]. Much is changed here, and sectioning/construing/graduation is now called *monology*, and the constituent parts are called *monos* [@brown1838: 19]. It appears to be a coincidence that there is a similarity between Brown's term *mono* and the term *monème* as introduced by Frei [-@frei1941: 51], which remained popular for various decades in the French structuralist grammatical literature. Brown's term *mono* is in meaning closer to the French term *syntagme* than to Frei's *monème*, see for example the work of Mikuš in [@sec:mikuš1947].
+
+Brown's next book *An exegesis of English syntax* [@brown1840] is a shorter version of his previous book, again with much the same content but in a different order. Here we find a tree picture for an actual sentence, as shown in [@fig:brown1840_108], illustrating the dependency structure of the sentence *very high trees fell*. The letters in the figure refer to the words of this sentence, namely a=*trees*, b=*fell*, c=*high* and d=*very*. The reason for the inclusion of the numeral 5 in this illustration remains unclear. There are no other pictures numbered 1 to 4, and there is no example numbered "5" to which the number might refer.
 
 ::: {.im #brown1840_108}
 Tree diagram from Brown [-@brown1840: 108] for the sentence *very high trees fell.* The letters refer to the individual words (*a=trees, b=fell, c=high, d=very*). The reason for the inclusion of the number 5 is unclear.
 :::
 
+A year later Brown publishes yet another similar book, called *The first part of the American system of English syntax* [@brown1841], which is again basically reusing his previous works. There do not appear to have been any further parts published after this "first part". In this "first part" Brown adopts a new method to analyse constituents (under the umbrella of his term *monology*) by using numbers above the words [@brown1841: 45-51]. This is slightly confusing, because he also uses numbers above words for his notion *rank*, as shown above in [@fig:brown1826_36] and [@fig:brown1826_47]. The new usage of superimposed numbers is shown in [@fig:brown1841_50]. He does not explain much about this approach, but some of his examples indicate that hierarchical structure might have been a reason for this new analysis. As can be seen in [@fig:brown1841_50], the *monos* marked by the numerals 1 and 2 are not continuous. This is grammatically understandable, because the main clause marked by 1 (*an aged beggar struck the prisoner's attention*) is interupted by a relative clause marked by 2 (*who stood*), which is in turn interupted by a phrase marked by 3 (*with trembling knees*). Brown does not consequently analyse the hierarchical structure of constituents, as the relative clause 2 also should have included the phrases 4 and 5, and he does not analyse the dependency of the further relative clauses 6 and 9. There is a first glimps of dealing with hiearchical structure here in the work of Brown, but unfortunately it is not further developed.
+
+::: {.im #brown1841_50}
+New approach to indicate *monos* (=constituents) from Brown [-@brown1841: 50] by superimposing identical numbers above the words that belong together into a *mono*. This usage of numbering is not to be confused with the marking of *degree/rank* as shown in [@fig:brown1826_47]. Marking constituents by these numbers allows Brown to include hierarchically ordered constituents, as can be seen in this example by the non-subsequent ordering of the numbers 1 and 2. 
+:::
+
 Brown remains active, writing at least 13 more books in the next 15 years (see the list above), mostly rehashing earlier ideas, often repeating himself, but also adding new formulations of the same content. He appears to slowly dial back on the more fantastical terminological innovations as he grows older. The oevre of Brown is a cautious tale of wrapping up interesting ideas into incomprehensible terminology, becoming completely unintelligible, and thus being ignored, in the process.^[Also check *The English Syntascope* (1839/1840). Still waiting for reproduction from Penn/Kislak <https://aeon.library.upenn.edu/nonshib/aeon.dll?Action=10&Form=10>]
 
-### Peirce (1839) *The grammar of the English language*
+### Peirce (1839) *The grammar of the English language* {#sec:peirce1839}
 
 Oliver Beale Peirce (1808-1865) was a teacher and textbook author in Rome, Oneida County, New York.^[Some limited biographical information is available online at <http://www.oneidacountyfreedomtrail.com/oliver-peirce.html>, accessed 27 January 2026. Dates for his birth and death are from <https://www.findagrave.com/memorial/13126231/oliver-beale-peirce>, accessed 27 January 2026.] His first grammar was calles *Grammatical instructor*, which was probably published around 1835, but I have only been able to acces the revised third edition [@peirce1837]. This book contains already much of the content of his subsequent textbooks, but it crucially does not contain any graphical syntax. Similar to Brown (see [@sec:brown1826]), Peirce likes to use his own terms instead of traditional grammatical terminology. Like Brown, Peirce also uses the term *asserter* instead of "verb" [@peirce1837: 98-99]. However, the other terminology does not coincide, so this might be a coincidence.
 
@@ -332,7 +342,7 @@ Two examples are shown in [@fig:peirce1843_295] for the example in [@next a] and
 
 The final grammar that was published by Peirce is a summary of the preceding work [@peirce1847]. It only contains a few very simple diagrams.
 
-### Barrett (1842) *The principles of language*
+### Barrett (1842) *The principles of language* {#sec:barrett1842}
 
 Solomon Barrett Jr. (1800-1882), some discussion of his life and work in [@scott1982]
 
@@ -380,13 +390,13 @@ Later different systems, e.g.
 
 ### Hall (1849) *Encyclopedia of English grammar*
 
-"Monology" inspired by Brown! Numbering to indicate constituents ("monos") [@hall1850: 197-305]. Also bracketing with square and round brackets.
+William Hall published his *Encyclopedia of English grammar* probably in 1849, printed in Virginia [cf. @gorlach1998: 161], but the only online copy with that date has a missing title page, so I am not sure this really is that version [@hall1849]. That incomplete version is exactly the same as a 1850 version, printed in Ohio [@hall1850]. Nothing is known about the author, except that it is not the same person as William D. Hall (see [@sec:hall1898]) nor Milo Baldwin Hall (see [@sec:hall1904]). The book is clearly influenced by Brown (see [@sec:brown1826]), because in the introduction Hall says that the book deals with "the science of English Syntithology" [@hall1850: iii]. The term "syntithology" (instead of syntax) is one of the many terminological inventions of Brown. Brown is explicitly cited in various footnotes [@hall1849: 72, 98, 246, 297]. Barrett (see [@sec:barrett1842]) is obliquely cited once among many other grammars in the context of word-class division [@hall1849: 51]. In contrast, Peirce (see [@sec:peirce1839]) is cited in a long rant, typesetted as a footnote running over 10 pages [@hall1849: 96-105], criticizing Peirce's use of the term *asserter* for verbs.
 
-identical in 1849 version. bad scan at https://archive.org/details/encyclopediaofen00hall/page/296/mode/2up?q=monology
+Hall includes an extensive discussion of *monology* [@hall1849: 297-305], directly citing Brown. Monology is the division of sentences into *monos*, i.e. constituents. Words that belong to the same *mono* are indicated by the same number above it. Sometimes constituents are also indicated by using brackets, as shown in [@fig:hall1849_297]. This usage of numbers for constituency was introduced in Brown [-@brown1841: 45-51], see [@fig:brown1841_50]. Just like Brown, Hall never uses brackets hierarchically. Different from Brown, Hall does not distinguish between square brackets (for the basic sentence) and round brackets (for adjuncts).
 
-Not the same person as William D. Hall from 1898 diagrams.
-
-coincidence "monème" by Henri Frei (1941:51) https://www.jstor.org/stable/27757865
+::: {.im #hall1849_297}
+*Monology* from Hall [-@hall1849: 297], adapting the analysis from Brown ([@sec:brown1826]). Identical numbers indicate which words belong to the same *mono* (=constituent), which are sometimes also indicated by brackets. Just like Brown, Hall never uses hierarchical bracketing. Different from Brown, Hall does not distinguish between square and round brackets.
+:::
 
 ## Diagramming
 
@@ -721,9 +731,9 @@ Diagramming [@hoenschel1897: 65-66], and throughout.
 
 Many more diagrams in the teacher's companion [@hoenschel1897a]
 
-### Hall (1898) *English grammar and composition*
+### Hall (1898) *English grammar and composition* {#sec:hall1898}
 
-diagrams [@hall1898: 174-183] not the same Hall from "monology" in 1849
+William D. Hall. diagrams [@hall1898: 174-183] not the same Hall from "monology" in 1849
 
 ### Bartlett (1899) *The essentials of language and grammar*
 
@@ -749,9 +759,9 @@ refers to examples from English grammar for common schools, Robert C. Metcalf & 
 
 two books, many diagrams like reed/kellogg
 
-### Hall (1904) *Brown's first lessons in language and grammar*
+### Hall (1904) *Brown's first lessons in language and grammar* {#sec:hall1904}
 
-based on Goold Brown, but with diagrams [@hall1904: 36-39, 51, 57-59, 85-90, 93, 100]
+Again a different Hall, now Milo Baldwin Hall (1837-). based on Goold Brown, but with diagrams [@hall1904: 36-39, 51, 57-59, 85-90, 93, 100]
 
 ### Eastman (1904) *English grammar*
 
