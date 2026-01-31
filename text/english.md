@@ -354,7 +354,7 @@ parsing inspired by Brown???
 
 slightly different preface in [@barrett1837a]
 
-revision [@barrett1842] with tree-insert (analysis of text p.33, supplement p. 121)
+revision [@barrett1842] with tree-insert (analysis of text p.33, supplement p. 121 with explanation of the plate). Uses the term diagram a few times. title new "self instructor"
 
 slightly different title, but probably just a new edition[@barrett1845] insert between p.18 and 19. Parsing of the examples by letters, p.18-31
 
@@ -377,16 +377,23 @@ Alcott, William A. (William Andrus), 1798-1859. Very simple drawings in a book a
 
 ### Greene (1848) *A treatise on the structure of the English language*
 
-Samuel Stillman Greene (1810-1883)
+Samuel Stillman Greene (1810-1883) Only 1874 system of abstract notation is really notewhorthy, based on the idea of analysis from earlier.
 
-1848 version also online [@greene1848]
+1848 version also online [@greene1848] görlach original 1846
 
-cited here in printing from 1849. graphics "formula for a sentence" [@greene1849: 70, 82, 111, 120, 167, 184] meaning of digits is unclear
+cited here in printing from 1849. graphics "formula for a sentence" [@greene1849: 67, 70, 82, 111, 120, 167, 184] meaning of digits is unclear (first/second/third = word/phrase/clause)
+
+67: also abbreviations of classes S, P, Obj, Adv, Adj
 
 Later different systems, e.g.
 
 - [@greene1860: 171-177] subject-predicate base with modifiers in brackets
 - [@greene1874: 23-24] summarise structure with "significant symbols" S, P, a, o, v (cf Jespersen??? just coincidence...)
+
+more books, nothing new:
+
+- https://www.loc.gov/item/17013887/ The elements of English grammar (1856) görlach original 1852
+- https://www.loc.gov/item/40018555/ An introduction to the study of English grammar (1868) görlach original 1856
 
 ### Hall (1849) *Encyclopedia of English grammar*
 

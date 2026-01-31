@@ -608,7 +608,7 @@ https://en.wikipedia.org/wiki/Roch-Ambroise_Auguste_Bébian
 
 1825: Mimographie, describing sign language! https://archive.org/details/gu_mimographieou00bebi/
 
-Manuel d'enseignement pratique des sourds muets (1827) https://archive.org/details/gu_manueldenseig01bebi/
+Manuel d'enseignement pratique des sourds muets [@bebian1827]
 
 p 52-53 DISTINCTION DES ELEMENS DE LA PROPOSITION AU MOYEN DE CHIFFRES.
 p 116-117 conjunctiv
