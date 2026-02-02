@@ -411,12 +411,12 @@ Plate from Barrett's [-@barrett1848] revision, shown here in the identical versi
 In 1851 Barrett again revises his book, adding some basic grammatical notes fro German, French and Spanish [@barrett1851]. In the next revision [@barrett1857], he also adds a parallel bible sequence and a multilingual dictionary for these languages. In this 1857 revision he also adds two beautiful frontispieces with probably the most exquisite grammatical trees in the history of linguistics. At the start of the book he adds the frontispiece shown in [@fig:barrett1857_frontispieceEnglish] for the first part the bible verse Hebrew 1:1 from the King James translation of the bible [@next]. Also, before the start of the section about the grammar of Latin, Barrett inserts another frontispiece, shown in [@fig:barrett1857_frontispieceLatin] with an illustration of the structure of a sentence from Virgil's *Aeneid* [@nnext]. He does not use the numbers for the grammatical relations in these frontispieces, but he adds the letters *a* for the "trunk" parts of the main clause and *b* for the branches.
 
 ::: ex
-God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets, hath in these last days spoken unto us by his Son. \
+God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets, hath in these last days spoken unto us by his son, \
 [@barrett1857, citing Hebrews 1:1 from the King James translation]
 :::
 
 ::: {.im #barrett1857_frontispieceEnglish}
-Frontispiece from Barret [-@barrett1857] with a depiction of the structure of the start of Hebrews 1:1 from the King James translation of the bible [@last]. The details of the depiction of the long relative clause is somewhat strange. It is attached directly to the ground, instead of to the word *God* and it is branching to the left, but then crossing over to then right. It is not clear why Barrett chose this complex graphic, other than that it looks very nice.
+Frontispiece from Barret [-@barrett1857] with a depiction of the structure of the start of Hebrews 1:1 from the King James translation of the bible [@last]. The details of the depiction of the long relative clause is somewhat strange. It is attached directly to the ground, instead of to the word *God* and it is branching to the left, but then crossing over to then right. It is not clear why Barrett chose this complex graphic, other than that it looks very nice. Note the error, as Barrett uses *later days*, but the bible text is *last days*.
 :::
 
 ::: ex
