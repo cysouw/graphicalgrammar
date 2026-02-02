@@ -348,9 +348,11 @@ Solomon Barrett Jr. (1800-1882) was a teacher in Madrid (NY). Some basic informa
 
 Barrett's grammar includes a system of parsing by writing grammatical abbreviations above the words of the sentence, resulting in quite long sequences of letters. For example: *v r n ind pr 3 s* stands for *verb regular neuter indicative present third singular*, somewhat reminiscent of contemporary interlinear glossing. The idea for such abbreviations might have been inspired by the "scheme" used by Brown [-@brown1831: 82], see [@sec:brown1826]. The key to Barrett's abbreviations is given in a one-page summary [@barrett1837: 29]. This letter-bases system of analysis is also included in the preface under the heading "directions to the learner" [@barrett1837: vii]. Curiously, there is another identical edition of the same book from the same year in which this part is not included in the preface [@barrett1837a]. The first text analysed with this system is a poem [@next] by Elizabeth Carter [@barrett1837: 33]. This text will later be depicted by graphical trees. 
 
-The influence of Brown is quite evident in the 1842 minor revision of this book [@barrett1842]. Here we first find the infamous page-insert with a plate, depicting the syntactic structure of the Carter poem [@next] using tree-like graphical illustrations, as shown in [@fig:barrett1842_plate]. Barrett will reuse and reprint this plate in all his subsequent revisions and books. The structure of these illustrations is explained at the end of the book [@barrett1842: 121-128]. Specifically the terms "sentensic/insentensic", "plenary/implenary" and "broken/unbroken" [@barrett1842: 124] are idiosyncratic terms introduced in Brown [-@brown1837]. In that book, Brown also introduced the notion of a tree-like sentence structure with a *truncus* and a *clados*, which Barrett simple translates as *trunk* and *branch*, respectively. Brown's *truncus* is always a subject, which is also seen in the tree-depictions by Barrett in [@fig:barrett1842_plate]. Barrett's trees are very similar in structure to the tree strucure envisioned by Brown, as shown in [@fig:brown1840_108] from Brown [-@brown1840: 108].
+The influence of Brown is quite evident in the 1842 minor revision of this book [@barrett1842]. Here we first find the infamous page-insert with a plate, depicting the syntactic structure of the Carter poem [@next] using tree-like graphical illustrations, as shown in [@fig:barrett1842_plate]. Barrett will reuse and reprint this plate in all his subsequent revisions and books. The structure of these illustrations is explained at the end of the book [@barrett1842: 121-128]. Specifically the terms "sentensic/insentensic", "plenary/implenary" and "broken/unbroken" [@barrett1842: 124] are idiosyncratic terms introduced in Brown [-@brown1837]. In that book, Brown also introduced the notion of a tree-like sentence structure with a *truncus* and a *clados*, which Barrett simple translates as *trunk* and *branch*, respectively. Brown's *truncus* is always a noun, which is also seen in the tree-depictions by Barrett in [@fig:barrett1842_plate]. Barrett's trees are very similar in structure to the tree strucure envisioned by Brown, as shown in [@fig:brown1840_108] [@brown1840: 108].
 
 ::: ex
+Elizabeth Carter *The Pursuit of Happiness* [cited in @barrett1837: 33]
+
 The midnight moon serenly smiles \
 O'er nature's soft repose; \
 No low'ring cloud obscures the sky, \
@@ -369,10 +371,10 @@ Reflection's fav'rite hour. \
 Come; while the peaceful scene invites, \
 Let's search this ample round; \
 Where shall the lovely fleeting form \
-Of happiness be found? \
- \
-[@barrett1837: 33, citing Elizabeth Carter *The Pursuit of Happiness*]
+Of happiness be found?
 :::
+
+The depiction of this poem in trees in [@fig:barrett1842_plate] is somewhat inconsistent. Tree 6 ("to rest") should be a further branch to the verb "sinks" in tree 5. Note that "rest" is clearly not a noun, so it should not be a trunk. The interrupting trees 9 ("of life") and 18 ("of happiness") interrupt the verb, although they modify the subject ("scheme" and "form", respectively). Similarly, the trees 11 ("in silence") and 12 ("to reason's voice") are dependents to the verb "attends" in tree 10. It is also unclear why "come" in tree 13 is not simply the verb for tree 14; Barrett seems to consider imperatives as not having a subject, as in tree 16. The "and" is missing between tree 14 and 15, although it would clearly be possible to add, as is shown between trees 7 and 8. Finally, the sentence "while the peaceful scene invites" is simply missing.
 
 ::: {.im #barrett1842_plate}
 Plate inserted as a separate unnumbered page into Barrett [-@barrett1842] with a syntactic analysis of the first part of Carter's poem *The Pursuit of Happiness* in [@last]. The usage of tree-like images is inspired by Brown's proposals, cf. [@fig:brown1840_108].
@@ -385,7 +387,7 @@ Grammatical relations from Barrett [-@barrett1848: 10]:
 - 1: adjective
 - 2: noun in nominative case
 - 3: noun in independent case (~vocative)
-- 4: noun in absolute case (~)
+- 4: noun in absolute case [~noun "before a participle", @barrett1842: 89]
 - 5: noun in possessive case
 - 6: noun in objective case governed by verb
 - 7: noun in objective case governed by preposition
@@ -400,15 +402,15 @@ Grammatical relations from Barrett [-@barrett1848: 10]:
 - 16: conjunction, connecting sentences
 - 17: interjection
 - 18: auxiliary verb
-- 19: auxiliary adjective (~intensifier, e.g. *extremely cold*)
-- 20: auxiliary adverb (~intensifier, e.g. *very swiftly*)
-- 21: auxiliary preposition (e.g. *almost to …*)
+- 19: auxiliary adjective (~adjectival intensifier, e.g. *extremely cold*)
+- 20: auxiliary adverb (~adverbial intensifier, e.g. *very swiftly*)
+- 21: auxiliary preposition (~modifier of preposition, e.g. *almost to …*)
 
 ::: {.im #barrett1857_plate}
 Plate from Barrett's [-@barrett1848] revision, shown here in the identical version from Barrett [-@barrett1857] because of the better image quality. This plate is reworked from the original version in [@fig:barrett1842_plate] by adding numbers for the grammatical relations and by adding the punctuation marks from the poem between the different trees. Otherwise, the plate looks completely identical, suggesting that the original print block for the plate was reworked. All subsequent uses of this plate are identical to this version.
 :::
 
-In 1851 Barrett again revises his book, adding some basic grammatical notes fro German, French and Spanish [@barrett1851]. In the next revision [@barrett1857], he also adds a parallel bible sequence and a multilingual dictionary for these languages. In this 1857 revision he also adds two beautiful frontispieces with probably the most exquisite grammatical trees in the history of linguistics. At the start of the book he adds the frontispiece shown in [@fig:barrett1857_frontispieceEnglish] for the first part the bible verse Hebrew 1:1 from the King James translation of the bible [@next]. Also, before the start of the section about the grammar of Latin, Barrett inserts another frontispiece, shown in [@fig:barrett1857_frontispieceLatin] with an illustration of the structure of a sentence from Virgil's *Aeneid* [@nnext]. He does not use the numbers for the grammatical relations in these frontispieces, but he adds the letters *a* for the "trunk" parts of the main clause and *b* for the branches.
+In 1851 Barrett again revises his book, adding some basic grammatical notes fro German, French and Spanish [@barrett1851]. In the next revision [@barrett1857], he also adds a parallel bible sequence and a multilingual dictionary for these languages. In this 1857 revision he also adds two beautiful frontispieces with probably the most exquisite grammatical trees in the history of linguistics. At the start of the book he adds the frontispiece shown in [@fig:barrett1857_frontispieceEnglish] for the first part the bible verse Hebrew 1:1 from the King James translation of the bible [@next]. Additionally, before the start of the section about the grammar of Latin, Barrett inserts another frontispiece, shown in [@fig:barrett1857_frontispieceLatin] with an illustration of the structure of a sentence from Virgil's *Aeneid* [@nnext]. He does not use the numbers for the grammatical relations in these frontispieces, but he adds the letters *a* for the parts of the main clause and *b* for the branches.
 
 ::: ex
 God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets, hath in these last days spoken unto us by his son, \
@@ -416,7 +418,7 @@ God, who at sundry times and in divers manners spake in time past unto the fathe
 :::
 
 ::: {.im #barrett1857_frontispieceEnglish}
-Frontispiece from Barret [-@barrett1857] with a depiction of the structure of the start of Hebrews 1:1 from the King James translation of the bible [@last]. The details of the depiction of the long relative clause is somewhat strange. It is attached directly to the ground, instead of to the word *God* and it is branching to the left, but then crossing over to then right. It is not clear why Barrett chose this complex graphic, other than that it looks very nice. Note the error, as Barrett uses *later days*, but the bible text is *last days*.
+Frontispiece from Barret [-@barrett1857] with a depiction of the structure of the start of Hebrews 1:1 from the King James translation of the bible [@last]. The details of the depiction of the long relative clause is somewhat strange. It is attached directly to the ground, instead of to the word *God* and it is branching to the left, but then crossing over to then right. It is not clear why Barrett chose this complex graphic, other than that it looks very nice. There is a minor error as Barrett uses *later days*, but the bible text is *last days*.
 :::
 
 ::: ex
