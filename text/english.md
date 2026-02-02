@@ -344,32 +344,93 @@ The final grammar that was published by Peirce is a summary of the preceding wor
 
 ### Barrett (1842) *The principles of language* {#sec:barrett1842}
 
-Solomon Barrett Jr. (1800-1882), some discussion of his life and work in [@scott1982]
+Solomon Barrett Jr. (1800-1882) was a teacher in Madrid (NY). Some basic information about his life and a discussion of his work is provided by Scott [-@scott1982]. The St. Lawrence University Library in Canton (NY) appears to possess some of his papers.^[Listing of the archival content online at <https://library.stlawu.edu/collection/solomon-barrett-jr-collection>, accessed 2 February 2026.] In 1837 he wrote the first edition of *The principles of language* [@barrett1837], which does not yet contain any graphical syntax. Barrett will revise and extend this book throughout his life, but the basic approach to grammar is already present in this first edition. 
 
-https://library.stlawu.edu/collection/solomon-barrett-jr-collection
+Barrett's grammar includes a system of parsing by writing grammatical abbreviations above the words of the sentence, resulting in quite long sequences of letters. For example: *v r n ind pr 3 s* stands for *verb regular neuter indicative present third singular*, somewhat reminiscent of contemporary interlinear glossing. The idea for such abbreviations might have been inspired by the "scheme" used by Brown [-@brown1831: 82], see [@sec:brown1826]. The key to Barrett's abbreviations is given in a one-page summary [@barrett1837: 29]. This letter-bases system of analysis is also included in the preface under the heading "directions to the learner" [@barrett1837: vii]. Curiously, there is another identical edition of the same book from the same year in which this part is not included in the preface [@barrett1837a]. The first text analysed with this system is a poem [@next] by Elizabeth Carter [@barrett1837: 33]. This text will later be depicted by graphical trees. 
 
-parsing inspired by Brown???
+The influence of Brown is quite evident in the 1842 minor revision of this book [@barrett1842]. Here we first find the infamous page-insert with a plate, depicting the syntactic structure of the Carter poem [@next] using tree-like graphical illustrations, as shown in [@fig:barrett1842_plate]. Barrett will reuse and reprint this plate in all his subsequent revisions and books. The structure of these illustrations is explained at the end of the book [@barrett1842: 121-128]. Specifically the terms "sentensic/insentensic", "plenary/implenary" and "broken/unbroken" [@barrett1842: 124] are idiosyncratic terms introduced in Brown [-@brown1837]. In that book, Brown also introduced the notion of a tree-like sentence structure with a *truncus* and a *clados*, which Barrett simple translates as *trunk* and *branch*, respectively. Brown's *truncus* is always a subject, which is also seen in the tree-depictions by Barrett in [@fig:barrett1842_plate]. Barrett's trees are very similar in structure to the tree strucure envisioned by Brown, as shown in [@fig:brown1840_108] from Brown [-@brown1840: 108].
 
-[@barrett1837] system of parsing (introduced to the learner in the preface vii-viii), key to analysis p. 29, parsing explained p31. Text of later image on p. 33. rules p.120
+::: ex
+The midnight moon serenly smiles \
+O'er nature's soft repose; \
+No low'ring cloud obscures the sky, \
+Nor ruffling tempest blows. \
+ \
+Now ev'ry passion sinks to rest, \
+The throbbing heart lies still; \
+And varying schemes of life no more \
+Distract the lab'ring will. \
+ \
+In silence hush'd to reason's voice, \
+Attends each mental pow'r: \
+Come, dear Emilia, and enjoy \
+Reflection's fav'rite hour. \
+ \
+Come; while the peaceful scene invites, \
+Let's search this ample round; \
+Where shall the lovely fleeting form \
+Of happiness be found? \
+ \
+[@barrett1837: 33, citing Elizabeth Carter *The Pursuit of Happiness*]
+:::
 
-slightly different preface in [@barrett1837a]
+::: {.im #barrett1842_plate}
+Plate inserted as a separate unnumbered page into Barrett [-@barrett1842] with a syntactic analysis of the first part of Carter's poem *The Pursuit of Happiness* in [@last]. The usage of tree-like images is inspired by Brown's proposals, cf. [@fig:brown1840_108].
+:::
 
-revision [@barrett1842] with tree-insert (analysis of text p.33, supplement p. 121 with explanation of the plate). Uses the term diagram a few times. title new "self instructor"
+A few years later Barrett revises and extends his book under a slightly different title *The principles of grammar* [@barrett1848], also adding a summary of the grammar of Latin and Greek. In this version he introduces 21 grammatical "relations" [@barrett1848: 10], listed below, which he will retain in all the following versions and revisions of his book. The plate with the tree-depictions is now reworked, with the numbers for these relations added to the branches of the trees, as shown in [@fig:barrett1857_plate]. The punctuation from the original poem is also added to the plate. The other details of the plate look completely identical to the earlier version in [@fig:barrett1842_plate], which suggests that Barrett had the original print block for this plate reworked. All subsequent uses of this plate in later books are exactly the same graphic as this version from 1848.
 
-slightly different title, but probably just a new edition[@barrett1845] insert between p.18 and 19. Parsing of the examples by letters, p.18-31
+Grammatical relations from Barrett [-@barrett1848: 10]:
 
-Principles of Grammar, first edition [@barrett1848], numbers added to the trees
-revised edition [@barrett1851], last one reprinted in various editions.
+- 1: adjective
+- 2: noun in nominative case
+- 3: noun in independent case (~vocative)
+- 4: noun in absolute case (~)
+- 5: noun in possessive case
+- 6: noun in objective case governed by verb
+- 7: noun in objective case governed by preposition
+- 8: pronouns
+- 9: intransitive verb
+- 10: transitive verb
+- 11: passive verb
+- 12: adverb
+- 13: preposition, adjective relation
+- 14: preposition, adverbial relation
+- 15: conjunction, connecting words
+- 16: conjunction, connecting sentences
+- 17: interjection
+- 18: auxiliary verb
+- 19: auxiliary adjective (~intensifier, e.g. *extremely cold*)
+- 20: auxiliary adverb (~intensifier, e.g. *very swiftly*)
+- 21: auxiliary preposition (e.g. *almost to …*)
 
-[@barrett1857], same graphic plate beween p18 and p19. Parsing exemplified p66-75
+::: {.im #barrett1857_plate}
+Plate from Barrett's [-@barrett1848] revision, shown here in the identical version from Barrett [-@barrett1857] because of the better image quality. This plate is reworked from the original version in [@fig:barrett1842_plate] by adding numbers for the grammatical relations and by adding the punctuation marks from the poem between the different trees. Otherwise, the plate looks completely identical, suggesting that the original print block for the plate was reworked. All subsequent uses of this plate are identical to this version.
+:::
 
-Frontispieve added in 1857? also note page before p85 in latin
+In 1851 Barrett again revises his book, adding some basic grammatical notes fro German, French and Spanish [@barrett1851]. In the next revision [@barrett1857], he also adds a parallel bible sequence and a multilingual dictionary for these languages. In this 1857 revision he also adds two beautiful frontispieces with probably the most exquisite grammatical trees in the history of linguistics. At the start of the book he adds the frontispiece shown in [@fig:barrett1857_frontispeiceEnglish] for the first part the bible verse Hebrew 1:1 from the King James translation of the bible [@next]. Also, before the start of the section about the grammar of Latin, Barrett inserts another frontispiece, shown in [@fig:barrett1857_frontispeiceLatin] with an illustration of the structure of a sentence from Virgil's *Aeneid* [@nnext]. He does not use the numbers for the grammatical relations in these frontispieces, but he adds the letters *a* for the "trunk" parts of the main clause and *b* for the branches.
 
-note morpheme-separation by dashes in Latin p.125-131
+::: ex
+God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets, hath in these last days spoken unto us by his Son. \
+[@barrett1857, citing Hebrews 1:1 from the King James translation]
+:::
 
-new book [@barrett1859] proposing 21 different relations (p.28), the numbers are written to each word when parsing a sentence p30: "second analysis of the words on the plate" plate p33, numbers added!
+::: {.im #barrett1857_frontispeiceEnglish}
+Frontispiece from Barret [-@barrett1857] with a depiction of the structure of the start of Hebrews 1:1 from the King James translation of the bible [@last]. The details of the depiction of the long relative clause is somewhat strange. It is attached directly to the ground, instead of to the word *God* and it is branching to the left, but then crossing over to then right. It is not clear why Barrett chose this complex graphic, other than that it looks very nice.
+:::
 
-also 1876: https://lccn.loc.gov/11004540 not available digitally
+::: ex
+| Latin [@barrett1857, citing Virgil *Aeneid*; translation by Fairchlough published in @virgil1916]
+| Tum Iuno omnipotens, longum miserata dolorem difficilis‑que obitus, Irim demisit Olympo, quae luctantem animam nexos‑que resolveret artus
+| then Juno almighty long pitied pain difficult‑and death Iris.AKK sent.PERF.3SG Olymp.ABL REL struggling.AKK soul.AKK bound‑and release.3SG limb.GEN
+| Then almighty Juno, pitying her long agony and painful dying, sent Iris down from heaven to release her struggling soul from the prison of her flesh.
+:::
+
+::: {.im #barrett1857_frontispeiceLatin}
+Frontispiece of the Latin grammar from Barret [-@barrett1857, inserted between pages 84 and 85] for the sentence from Virgil's *Aeneid* in [@last]. In this graphic, Barrett has disentangled the complex order of the Latin original sentence.
+:::
+
+Later, Barret writes yet another book [@barrett1859], which has basically the same content as the previous book, but a strongly revised presentation. He now puts his 21 grammatical relations front and centre of the analysis. There is also a 1876 book by Barrett called *A "signal" grammar of the English language*,^[Catalogue entry at the Library of Congress: <https://lccn.loc.gov/11004540>.] which is not available digitally and which I have not yet been able yet to access.
 
 ### Alcott (1842) *Slate and black board exercises*
 
