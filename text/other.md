@@ -585,16 +585,31 @@ more?
 
 ### Sicard (1799) *Cours d'instruction d'un sourd-muet*
 
-Roch-Ambroise Cucurron Sicard (1742-1822)
+Roch-Ambroise Cucurron Sicard (1742-1822) was director of *L'Institut National de Jeunes Sourds de Paris* and a highly influential educator for the Deaf. His father's surname was *Cucuron*, but Roch-Ambroise used it as a second first name, using his mother's surname *Sicard* as his surname. He wrote a two-volume *Grammaire générale* in which he introduced a superscript *chiffre* 'number' [@sicard1798a: 29] to indicate subject (with the digit 1) and verb (with the digit 2). However, he never uses these digits in the rest of his grammar. There are various examples of dotted lines in the grammar [e.g. @sicard1798b: 120, 125, 224, 328, 360-362, 369], but they are never used for the syntactic analysis of a specific sentence.
 
-grammaire generale [@sicard1798a] numbers p. 29 "chiffre", but only one example? dotted lines in [@sicard1798b: 120, 125, 224] !!!p120: *que* complementizer as contraction, p125: many words represented by a single word, e.g. pronominal reference and historical contraction, p224: explain number agreement as implicit conjunction. Further lines for alternative sentence patterns: p. 328, 360, 361, 362, 369, but sometimes also with vertical braces.
+In his next book, the *Cours d'instruction d'un sourd-muet* [@sicard1799: 63-71, 101, 111-112, 178, 332-336] he expands on his idea of using numbers for syntactic analysis and uses it frequently. Using modern terminology, Sicard uses the digits 1 to 5 for the following grammatical functions, illustrated in [@fig:sicard1799_112].
 
-Cours d'instruction [@sicard1799] numbers? p 64-71, 101, 112, 178, 332-333. graphics: 66, 89 (agreement), also 168, 208, 216
+- 1: subject and nominal/adjectival predicate
+- 2: copula
+- 1 2: lexical verb (~contraction of copula with nominal predicate)
+- 3: object
+- 4: preposition
+- 5: object of preposition
+- 4 5: adverb (~contraction of prepositional phrase)
 
-Théorie des Signes (1808) no graphics: 
+::: {.im #sicard1799_112}
+*Chiffres* to indicate syntactic functions from Sicard [-@sicard1799: 112]. Sicard  follows the logical analysis of subject-copula-predicate as the basic linguistic structure, using 1 to indicate the subject and the predicate, but 2 for the copula. A lexical verb is analysed as a merged copula+predicate and indicated by both 1 and 2 above the verb (here *a frappé* 'has hit'). The adjective *forte* gets the same number as the following noun. However, there are no examples of adjectives with subjects or objects, so it remains unclear how he intended this system to be used.
+:::
 
-- https://gallica.bnf.fr/ark:/12148/bpt6k9666323t#
-- https://gallica.bnf.fr/ark:/12148/bpt6k9618077k/f9.item
+In the discussion of relative clauses Sicard clearly shows that he understood that the subordinate clause should have its own grammatical structure, separated by vertical lines in [@fig:sicard1799_206]. The words in this relative clause have their own grammatical functions as indicated by the digits. Sicard uses this figure to explain the construction of a relative clause from a normal main clause with a nominal object (top), through a pronominal object construction (middle) to finally a relative pronoun with object function (bottom). Sicard also experiments with boxes around subordinate clauses, as shown in [@fig:sicard1799_213] [cf. @sicard1799: 213-216, 275], but he never develops this idea further.
+
+::: {.im #sicard1799_206}
+Procedure from Sicard [-@sicard1799: 206] to explain the formation of a relative clause from a main clause structure. He starts with a main clause with a noun object (top, between the vertical lines), then a pronominal object (middle) and finally a relative pronoun with object function (bottom). The relative clause has its own functional analysis, as indicated by the digits above the words.
+:::
+
+::: {.im #sicard1799_213}
+There are various examples in which Sicard uses boxes to indicate subordinate clauses. This example is from Sicard [-@sicard1799: 213]. He does not develop this idea further.
+:::
 
 ### Gaultier (1819) *Leçons de grammaire en action* {#sec:gaultier1819}
 
@@ -603,6 +618,10 @@ l’abbé Louis Gaultier (1746-1818)[ @gaultier1817] parsing tables, but without
 [@gaultier1819] using colors and circles to teach word classes to small kids
 
 ### Bébian (1827) *Manuel d'enseignement pratique des sourds muets*
+
+Auguste Bébian (1789-1839), godchild of Sicard, worked at *l'Institution Nationale des Sourds-Muets de Paris* until 1821
+
+bio [@bertin2015]
 
 https://en.wikipedia.org/wiki/Roch-Ambroise_Auguste_Bébian
 
@@ -616,7 +635,7 @@ p 160-161 PRINCIPES D'ANALYSE LOGIQUE.
 
 ### Vaïsse (1839) *Essai d'une grammaire symbolique*
 
-Léon Vaïsse, director of Institut National de Jeunes Sourds de Paris
+Léon Vaïsse (1807-1881), teacher and later director at *l'Institut National de Jeunes Sourds de Paris* (1866-1872)
 
 was in US in 1830-1834 and met Barnard, who was already working on his symbolic system of grammar.
 
