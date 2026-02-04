@@ -625,26 +625,26 @@ l’abbé Louis Gaultier (1746-1818)[ @gaultier1817] parsing tables, but without
 
 ### Bébian (1827) *Manuel d'enseignement pratique des sourds-muets*
 
-Auguste Bébian (1789-1839), born in Guadeloupe and godchild of Sicard, worked at *l'Institution Nationale des Sourds-Muets de Paris* until 1821. He was laid off in 1821 after an altercation with administrator Louis-Pierre Paulmier [@bertin2015: 136-139], just a year before the death of Sicard. But he remained active in the education of the Deaf for the rest of his life. He devised a highly detailed method to transcribe sign language [@bebian1825], but it does not contain any information on its syntactic structure. A detailed discussion of his life and work is provided by Bertin [-@bertin2015].
+Auguste Bébian (1789-1839), born in Guadeloupe and godchild of Sicard, worked at *l'Institution Nationale des Sourds-Muets de Paris* until 1821. He was pushed out in 1821 after an altercation with the administrator Louis-Pierre Paulmier about class sizes [@bertin2015: 136-139], just a year before the death of Sicard. Bébian remained active in the education of the Deaf for the rest of his life. He devised a highly detailed method to transcribe sign language [@bebian1825], but it does not contain any information on its syntactic structure. A detailed discussion of Bébian's life and work is provided by Bertin [-@bertin2015].
 
-In 1827 Bébian publishes his two-volume *Manuel d'enseignement pratique des sourds-muets* [@bebian1827]. In the first volume he presents many different kind of exercises, including grammatical explanations.
+In 1827 Bébian publishes his two-volume *Manuel d'enseignement pratique des sourds-muets* [@bebian1827]. In the first volume he presents many different kind of exercises, including grammatical ones. He uses the same system of digits as Sicard (see [@sec:sicard1799]), as illustrated in [@fig:bebian1827_53]. Bébian does not give any clear explanations, but from the examples [@bebian1827: 52-53] it becomes clear that he simply uses the digit 2 for all verbs, not using the 1-2 combination that Sicard used. Bébian still uses the 4-5 combination for adverbs, and also for dative pronouns, which are considered to be a contraction of the preposition *à* with the pronoun [@bebian1827: 56]. 
 
-He uses the same system of digits as Sicard ([@sec:sicard1799]). From the examples [@bebian1827: 52-53] it appears that Bébian simply uses the digit 2 for all verbs, but still the combination 45 for adverbs (also for dative pronouns, which are considered as a contraction of *à*+Pronoun, p. 56). horizontal lines are above groups of words that belong together to one digit. The intention of the arches remains somewhat mysterious. It seems to suggest also some kind of connection between the parts, but these arches do not seem to have been applied rigurously. adjectives as part of a phrase, e.g *un petit livre* simply marked as 1 with a line above (p. 100).
+Bébian adds horizontal lines above groups of words that belong together, e.g. the words *un bouquet* make up a phrase, which is marked with a 3 for it being the object. The intention of the arches in his figures remains somewhat mysterious. They seem to suggest some kind of connection between the parts of a sentence, but these arches do not seem to have been applied rigurously. Adjectives are not marked separately, but considered simply to be a part of a phrase, e.g *un petit livre* is simply marked as one phrase with a line above the three words [@bebian1827: 56].
 
 ::: {.im #bebian1827_53}
-[@bebian1827: 53]
+Analysis *au moyen de chiffres* 'by means of numbers' from Bébian [-@bebian1827: 53]. The numbers are basically identical to the use of Sicard (see [@fig:sicard1799_112]), though Bébian does not use the combination 1-2 anymore for a full lexical verb, simply using the number 2. He adds superscript lines for phrases consisting of multiple elements. The intended meaning of the arches remains unclear.
 :::
 
-hierarchy of subordinate clauses p.116-117.
+The idea of using lines above the words to bind them together into a phrase leads Bébian to start using hierarchical structures [@bebian1827: 116-117], though only very simple ones. As shown in [@fig:bebian1827_116] he considers a complement clause *Paul est malade* 'Paul is sick' to be an object of the matrix clause *Jules m'a écrit* 'Jules wrote to me (that…)', as shown by the number 3, marking the object of the main clause. The subordinate clause has its own syntactic functions, as shown by the numbers under the horizontal line.
 
 ::: {.im #bebian1827_116}
-[@bebian1827: 116]
+The lines above words that belong together results in a basic hierarchical structure [@bebian1827: 116]. The number 3 marks the object of the matrix clause, which itself has an internal structure with its own syntactic functions. Not all numbers and lines are explicitly written down, unfortunately.
 :::
 
-Adding underline of 1 for subject and overline of 1 for *attribut*=predicate part of copula construction. p.160-161
+Bébian develops more and more ideas how to further analyse sentences graphically, but he never concludes it with a worked-out system for more complex examples. In [@fig:bebian1827_160] he uses the number 1 with a line below for the subject and the number 1 with a lines above for the predicate of a copula constructions (confusingly called *attribut* in the 18th Century French tradition). Each of these parts have their own internal structure below the horizontal line. A missed opportunity is that the embedded relative clause is not itself marked as a coherent structure. In general, there are no examples of a three-level hierarchical structure in Bébian's book.
 
 ::: {.im #bebian1827_160}
-[@bebian1827: 160]
+Further example of hierarchical sentence structure from Bébian [-@bebian1827: 160]. The underlined digit 1 stands for the subject, while the overlined digit 1 is the predicate of the copula construction, the copula being marked with a digit 2. Each of the parts of the sentence below the horizontal lines has its own syntactic structure, as indicated by the numbers.
 :::
 
 ### Vaïsse (1839) *Essai d'une grammaire symbolique*
