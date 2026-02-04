@@ -583,11 +583,11 @@ more?
 - https://academic.oup.com/edited-volume/62210/chapter/550164521
 - https://en.wikipedia.org/wiki/An_Essay_Towards_a_Real_Character,_and_a_Philosophical_Language
 
-### Sicard (1799) *Cours d'instruction d'un sourd-muet*
+### Sicard (1799) *Cours d'instruction d'un sourd-muet* {#sec:sicard1799}
 
 Roch-Ambroise Cucurron Sicard (1742-1822) was director of *L'Institut National de Jeunes Sourds de Paris* and a highly influential educator for the Deaf. His father's surname was *Cucuron*, but Roch-Ambroise used it as a second first name, using his mother's surname *Sicard* as his surname. He wrote a two-volume *Grammaire générale* in which he introduced a superscript *chiffre* 'number' [@sicard1798a: 29] to indicate subject (with the digit 1) and verb (with the digit 2). However, he never uses these digits in the rest of his grammar. There are various examples of dotted lines in the grammar [e.g. @sicard1798b: 120, 125, 224, 328, 360-362, 369], but they are never used for the syntactic analysis of a specific sentence.
 
-In his next book, the *Cours d'instruction d'un sourd-muet* [@sicard1799: 63-71, 101, 111-112, 178, 332-336] he expands on his idea of using numbers for syntactic analysis and uses it frequently. Using modern terminology, Sicard uses the digits 1 to 5 for the following grammatical functions, illustrated in [@fig:sicard1799_112].
+In his next book, the *Cours d'instruction d'un sourd-muet* [@sicard1799: 63-71, 101, 111-112, 178, 332-336] he expands on his idea of using numbers for syntactic analysis and uses it frequently. Using modern terminology, Sicard uses the digits 1 to 5 for the following grammatical functions, which is illustrated in [@fig:sicard1799_112].
 
 - 1: subject and nominal/adjectival predicate
 - 2: copula
@@ -596,6 +596,12 @@ In his next book, the *Cours d'instruction d'un sourd-muet* [@sicard1799: 63-71,
 - 4: preposition
 - 5: object of preposition
 - 4 5: adverb (~contraction of prepositional phrase)
+
+The usage of these digits reveals that Sicard still uses the old logical approach to language analysis, in which the basic structure consists of a subject, a copula and a (nominal/adjectival) predicate.^[Confusingly, the predicate of a logical construction is typically called *attribut* in the French literature of the time.] In the analysis of Sicard, both the subject and the predicate are marked with a 1, while the copula is marked with a 2. Lexical verbs are treated as a merged combination of the copula with the predicate, and they are consequently marked with both digits 1 and 2. Similarly, but not at all according to tradition, Sicard considers adverbs to be a contraction of a prepositional phrase. Prepositions are marked with a 4 and the object of prepositions with a 5. An adverb is consequently marked with both a 4 and a 5. Of course, prepositional phrases are frequently used adverbially, so this is not completely wrong. However, prepositional phrases can also be used attributively modifying a noun. In his logic, Sicard should then also have to mark adjectives with both a 4 and a 5. Unfortunately, there are hardly any examples with attributive adjectives in his book. About the adjective *forte* 'strong' in [@fig:sicard1799_112] Sicard says:
+
+> l'adjectif lui-même que nous avions l'habitude de ne marquer d'aucun chiffre, fut, cette fois, marqué du chiffre 5. [@sicard1799: 111]
+>
+> ('The adjective itself, which we usually have left unmarked, has, this time, been marked with the number 5.')
 
 ::: {.im #sicard1799_112}
 *Chiffres* to indicate syntactic functions from Sicard [-@sicard1799: 112]. Sicard  follows the logical analysis of subject-copula-predicate as the basic linguistic structure, using 1 to indicate the subject and the predicate, but 2 for the copula. A lexical verb is analysed as a merged copula+predicate and indicated by both 1 and 2 above the verb (here *a frappé* 'has hit'). The adjective *forte* gets the same number as the following noun. However, there are no examples of adjectives with subjects or objects, so it remains unclear how he intended this system to be used.
@@ -617,21 +623,29 @@ l’abbé Louis Gaultier (1746-1818)[ @gaultier1817] parsing tables, but without
 
 [@gaultier1819] using colors and circles to teach word classes to small kids
 
-### Bébian (1827) *Manuel d'enseignement pratique des sourds muets*
+### Bébian (1827) *Manuel d'enseignement pratique des sourds-muets*
 
-Auguste Bébian (1789-1839), godchild of Sicard, worked at *l'Institution Nationale des Sourds-Muets de Paris* until 1821
+Auguste Bébian (1789-1839), born in Guadeloupe and godchild of Sicard, worked at *l'Institution Nationale des Sourds-Muets de Paris* until 1821. He was laid off in 1821 after an altercation with administrator Louis-Pierre Paulmier [@bertin2015: 136-139], just a year before the death of Sicard. But he remained active in the education of the Deaf for the rest of his life. He devised a highly detailed method to transcribe sign language [@bebian1825], but it does not contain any information on its syntactic structure. A detailed discussion of his life and work is provided by Bertin [-@bertin2015].
 
-bio [@bertin2015]
+In 1827 Bébian publishes his two-volume *Manuel d'enseignement pratique des sourds-muets* [@bebian1827]. In the first volume he presents many different kind of exercises, including grammatical explanations.
 
-https://en.wikipedia.org/wiki/Roch-Ambroise_Auguste_Bébian
+He uses the same system of digits as Sicard ([@sec:sicard1799]). From the examples [@bebian1827: 52-53] it appears that Bébian simply uses the digit 2 for all verbs, but still the combination 45 for adverbs (also for dative pronouns, which are considered as a contraction of *à*+Pronoun, p. 56). horizontal lines are above groups of words that belong together to one digit. The intention of the arches remains somewhat mysterious. It seems to suggest also some kind of connection between the parts, but these arches do not seem to have been applied rigurously. adjectives as part of a phrase, e.g *un petit livre* simply marked as 1 with a line above (p. 100).
 
-1825: Mimographie, describing sign language! https://archive.org/details/gu_mimographieou00bebi/
+::: {.im #bebian1827_53}
+[@bebian1827: 53]
+:::
 
-Manuel d'enseignement pratique des sourds muets [@bebian1827]
+hierarchy of subordinate clauses p.116-117.
 
-p 52-53 DISTINCTION DES ELEMENS DE LA PROPOSITION AU MOYEN DE CHIFFRES.
-p 116-117 conjunctiv
-p 160-161 PRINCIPES D'ANALYSE LOGIQUE.
+::: {.im #bebian1827_116}
+[@bebian1827: 116]
+:::
+
+Adding underline of 1 for subject and overline of 1 for *attribut*=predicate part of copula construction. p.160-161
+
+::: {.im #bebian1827_160}
+[@bebian1827: 160]
+:::
 
 ### Vaïsse (1839) *Essai d'une grammaire symbolique*
 
