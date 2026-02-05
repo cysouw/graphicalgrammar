@@ -37,6 +37,8 @@ Similar: "syntactic parsing" in Bullions (1849:197) https://www.loc.gov/item/060
 
 > the *Theory of Ciphers*, by which Sicard distinguished the parts of a proposition, must be admitted to be a valuable invention. It consisted as most if not all of you know, in placing the figure 1 over the subject of the proposition, 2 over the attribute, 3 over the direct object, 4 over the preposition, and 5 over the regimen of the preposition. [@peet1859: 321-322]
 
+Appendix to the 1860 Census report (https://www2.census.gov/prod2/decennial/documents/1860a-01.pdf) contains discussion of teachers of the deaf: https://www2.census.gov/prod2/decennial/documents/1860a-16.pdf has information about Barnard and others (Peet, Vaïsse)
+
 ### Barnard (1836) *Analytic Grammar* {#sec:barnard1836}
 
 Frederick Augustus Porter Barnard (1809-1889) Barnard had a hereditary form of deafness that intensified in his later years, as did his brother and most of his family.
@@ -47,13 +49,13 @@ Frederick Augustus Porter Barnard (1809-1889) Barnard had a hereditary form of d
 https://en.wikipedia.org/wiki/Frederick_A._P._Barnard
 https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_11/May_1877/Sketch_of_President_Barnard
 
-Appendix to the 1860 Census report (https://www2.census.gov/prod2/decennial/documents/1860a-01.pdf) contains discussion of teachers of the deaf: https://www2.census.gov/prod2/decennial/documents/1860a-16.pdf has information about Barnard and others (Peet, Vaïsse)
-
 > The method of illustrating the principles of syntax employed in the following treatise, is one which has been, for a number of years, advantageously used in the instruction of the deaf and dumb. […] The first notions of the writer regarding it, were obtained while he was engaged as an instructor in the American Asylum, at Hartford, in the years 1831 and 1832. The *method*, which it at present exhibits, has been, however, the result of a more recent labor, during the writer's residence, in a corresponding capacitiy, at the New York Institution for the Instruction of the Deaf and Dumb. [@barnard1836: iii]
 
 No trees, but “symbolic sentences” in which categories are marked. Some ideas of levels http://www.polysyllabic.com/?q=node/336 [@barnard1836: 244-246]. Developed at school for the deaf in Hartford! based on l’epee/sicard “. This development seems to be linked to deaf-education, see [@wing1887: 86]
 
 Mentions sicard and thanks Leon Vaysse from Paris, who was in New York 1830-1834 [@barnard1836: iii]
+
+Mentions system from Hartford, which was further developed later by Storrs and led to Porter and March
 
 ### Peet (1853) *Grammatical symbols*
 
@@ -162,6 +164,29 @@ revision of 1810 original by Lennie with expanded analysis of sentence by Nutall
 https://google.com/books?id=2MQDAAAAQAAJ
 
 not in Lennie (1815) https://google.com/books?id=RgphAAAAcAAJ
+
+### Dalgleish (1866) *grammatical analysis*
+
+this is third edition!
+
+https://google.com/books?id=tmsCAAAAQAAJ
+https://www.google.de/books/edition/Key_to_Grammatical_analysis/k8MDAAAAQAAJ
+
+complex sentences like Lehmann/Meiklejohn? p. 25, 38, 51
+
+*Outlines of English grammar and analysis*
+
+https://google.com/books?id=_WsCAAAAQAAJ
+
+tables p. 67, 72, 75
+
+https://www.google.de/books/edition/Introductory_Text_book_of_English_Compos/nKEDAAAAQAAJ
+
+1867: no graphics, but letter-based analysis of complex clauses
+
+There are more books of him!
+
+- https://www.google.de/books/edition/The_progressive_English_grammar_With_Key/sGwCAAAAQAAJ
 
 ### Swinton (1872) *A progressive grammar of the English tongue*
 
