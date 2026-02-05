@@ -619,11 +619,14 @@ There are various examples in which Sicard uses boxes to indicate subordinate cl
 
 ### Gaultier (1819) *Leçons de grammaire en action* {#sec:gaultier1819}
 
-l’abbé Louis Gaultier (1746-1818)[ @gaultier1817] parsing tables, but without numbers
+l’abbé Louis Gaultier (1746-1818)[ @gaultier1817] parsing tables, but without numbers https://fr.wikipedia.org/wiki/Louis_Gaultier
 
 [@gaultier1819] using colors and circles to teach word classes to small kids
 
-### Bébian (1827) *Manuel d'enseignement pratique des sourds-muets*
+- https://www.google.de/books/edition/Exercices_sur_la_construction_logique_de/uiM316rUwZAC
+- https://www.google.de/books/edition/Phrases_gradue_es_extraites_de_Cice_ron/5Gf6lH8k7N8C see p. xix
+
+### Bébian (1827) *Manuel d'enseignement pratique des sourds-muets* {#sec:bebian1827}
 
 Auguste Bébian (1789-1839), born in Guadeloupe and godchild of Sicard, worked at *l'Institution Nationale des Sourds-Muets de Paris* until 1821. He was pushed out in 1821 after an altercation with the administrator Louis-Pierre Paulmier about class sizes [@bertin2015: 136-139], just a year before the death of Sicard. Bébian remained active in the education of the Deaf for the rest of his life. He devised a highly detailed method to transcribe sign language [@bebian1825], but it does not contain any information on its syntactic structure. A detailed discussion of Bébian's life and work is provided by Bertin [-@bertin2015].
 
@@ -649,15 +652,20 @@ Further example of hierarchical sentence structure from Bébian [-@bebian1827: 1
 
 ### Vaïsse (1839) *Essai d'une grammaire symbolique*
 
-Léon Vaïsse (1807-1881), teacher and later director at *l'Institut National de Jeunes Sourds de Paris* (1866-1872)
+Léon Vaïsse (1807-1881) was teacher of the Deaf and later the thirteenth director at *l'Institut National de Jeunes Sourds de Paris* (1866-1872), following in the footsteps of Sicard ([@sec:sicard1799]) and Bébian ([@sec:bebian1827]). In 1875 he was the tenth president of the *Société de Linguistique de Paris*. He proposed a phonetic transcription of spoken language based on the articulatory properties of the sounds [@vaisse1838] and was active in promoting phonetic research in France. While president of the *Société de linguistique de Paris* Vaïsse presented his phonetic system to the society, as recorded in the *Bulletin* for the meeting on the 9th of January 1875: "Vaïsse fait une communication sur une nouvelle manière de représenter les voyelles et les consonnes" [@vaisse1875].^[Some more sources mentioning Vaïsse: Article by Robert Brain in
+<https://monoskop.org/File:Lenoir_Timothy_ed_Inscribing_Science_Scientific_Texts_and_the_Materiality_of_Communication.pdf>. Gallaudet quoting Vaïsse here: <https://www.jstor.org/stable/44391960>. see also his influence in the french phonetic development here: <https://books.openedition.org/enseditions/31210>.]
 
-was in US in 1830-1834 and met Barnard, who was already working on his symbolic system of grammar.
+In the years 1830-1834 Vaïsse visited the *New York Institution for the Instruction of the Deaf and Dumb* in the United States, where he met and cooperated with Barnard ([@sec:barnard1836]), who was already working on his symbolic system of grammar in the tradition of Sicard. Barnard explicitly acknowledges the input of Vaïsse in the introduction of this grammar [@barnard1836: iii]. Back in Paris, Vaïsse proposes his own system of symbolic grammar in the *Essai d'une grammaire symbolique* [@vaisse1839]. He acknowledges that the inspiration for his system came from Barnard:
 
-- "phonetic" alphabet for deaf [@vaisse1838]
-- symbolic grammar for French, notes US-work in introduction [@vaisse1839]
+> C'est pendant un séjour que je fis aux Etats-Unis, de 1830 à 1834, comme professeur à l'école des sourds-muets de New-york, que l'idée me fut suggerée de compléter, en le ramenant à ses principes naturels, le système de l'abbé Sicard. Dans l'établissement de hartford au Conneticut on se servait déjà pour la decomposition du discours de quelques signes graphiques; mais, quoiqu' évidemment empruntés au système del' instituteur français, ces caractères n'avaient plus qu'une forme tout-à-fait arbitraire. […] Aidé du concours de Mr. Barnard, alors mon collegue et aujourd'hui membre de l'université del'Alabama, je composais un système de figures symbolique qui nous fut ensuite d'un grand secours dans notre enseignement. [@vaisse1839: 2]
+>
+> ('It was during a stay I made in the United States, from 1830 to 1834, as a professor at the New York school for the Deaf, that the idea was suggested to me of completing Abbé Sicard's system by returning it to its natural principles. At the Hartford school in Connecticut, some graphic signs were already being used to break down speech; but, although clearly borrowed from the French schoolteacher's system, these characters now had only a completely arbitrary form. […] With the help of Mr. Barnard, then my colleague and now a member of the University of Alabama, I composed a system of symbolic figures which later proved of great help to us in our teaching.')
 
-> C'est pendant un séjour que je fis aux Etats-Unis, de 1830 à 1834, comme professeur à l'école des sourds-muets de New-york, que l'idée me fut suggerée de compléter, en le ramenant à ses principes naturels, le système de l'abbé Sicard.
-Dans l'établissement de hartford au Conneticut on se servait déjà pour la decomposition du discours de quelques signes graphiques; mais, quoiqu' évidemment empruntés au système del' instituteur français, ces caractères n'avaient plus qu'une forme tout-à-fait arbitraire. [@vaisse1839: 2]
+The symbolic system of Vaïsse is even more complex than the one of Barnard, and seems to be completely impractical in practice. He presents his symbols in a few pages [@vaisse1839: 4-8] and then adds almost 20 pages with examples, apparantly taken rather randomly to illustrate his system [@vaisse1839: 9-28]. A detailed example is shown in [@fig:vaisse1839_27]. This system seems to be completely impractical because of the many details. Also, there is no larger syntactic analysis beyond the structure and function of the individual words. For example, the relative clause in the example below is not specifically marked, other than that the  relative pronoun *qu'* has a dedicated symbol.
+
+::: {.im #vaisse1839_27}
+Symbolic analysis from Vaïsse [-@vaisse1839: 27]. The symbols describe the grammatical properties of the words quite precisely, but there does not appear to be much grammatical analysis. For example, subordinate clauses are not indicated as whole entities. 
+:::
 
 ### Lanusse & Yvon (1923) *Cours complet de grammaire française* {#sec:lanusse1923}
 

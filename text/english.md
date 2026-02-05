@@ -35,7 +35,9 @@ Similar: "syntactic parsing" in Bullions (1849:197) https://www.loc.gov/item/060
 
 ## Teaching grammar to the Deaf
 
-### Barnard (1836) *Analytic Grammar*
+> the *Theory of Ciphers*, by which Sicard distinguished the parts of a proposition, must be admitted to be a valuable invention. It consisted as most if not all of you know, in placing the figure 1 over the subject of the proposition, 2 over the attribute, 3 over the direct object, 4 over the preposition, and 5 over the regimen of the preposition. [@peet1859: 321-322]
+
+### Barnard (1836) *Analytic Grammar* {#sec:barnard1836}
 
 Frederick Augustus Porter Barnard (1809-1889) Barnard had a hereditary form of deafness that intensified in his later years, as did his brother and most of his family.
 
@@ -51,9 +53,22 @@ Appendix to the 1860 Census report (https://www2.census.gov/prod2/decennial/docu
 
 No trees, but “symbolic sentences” in which categories are marked. Some ideas of levels http://www.polysyllabic.com/?q=node/336 [@barnard1836: 244-246]. Developed at school for the deaf in Hartford! based on l’epee/sicard “. This development seems to be linked to deaf-education, see [@wing1887: 86]
 
-Mentions sicard and thanks Leon Vaysse from Paris, who was in New York 1830-1834
+Mentions sicard and thanks Leon Vaysse from Paris, who was in New York 1830-1834 [@barnard1836: iii]
+
+### Peet (1853) *Grammatical symbols*
 
 Harvey P. Peet started in New York Intstitute in 1831
+
+Author is Isaac Lewis Peet (son of Harvey) professor in NY from 1845 on.
+
+This paper gives a summary of symbols from Barnard:
+
+in: Third Convention of American Instructors of the Deaf and Dumb
+https://archive.org/details/sim_convention-of-american-instructors-of-the-deaf-report_august-10-12-1853
+
+p. 265-283
+
+Professor Vaysse of Paris has also elaborated and published a system of grammatical symbols, differing somewhat from those of Prof. Barnard. See Report on European Institutions, p. 112.
 
 > In consequence of that recommendation, the directors finally
 succeeded in engaging the permanent services of Mr. Harvey P. Peet, then
@@ -62,17 +77,19 @@ lum, who entered on his duties in February, 1831. He has continued to
 direct the institution with distinguished ability and success to the present
 time. About the same period, Mr. Leon Vaysse, from the Royal Institution
 at Paris, was employed as teacher, and brought with him all the important
-improvements made in that institution since the death of Sieard. Underthe
+improvements made in that institution since the death of Sicard. Underthe
 impulse of this change, and from the uniform practice of employing only
 men of liberal education as teachers, the New York Institution has taken
 its place among the most successful schools of deaf-mute instruction in the
-world. (p.95) https://archive.org/details/tributetogallaud00barn The author is also called Barnard, but is not apparently related to Frederick Barnard
+world. (p.95) https://archive.org/details/tributetogallaud00barn The author is also called Barnard, but is not apparently related to Frederick Barnard https://en.wikipedia.org/wiki/Henry_Barnard
 
 ### Porter (1868) *The instruction of the deaf and dumb in grammar*
 
 p. 136-148 https://archive.org/details/ANNUALREPORT-Gallaudet-1868/
 
-same in: American Annals of the Deaf, vol 14 (1869) p30-48 and 128 https://google.com/books?id=E69KAAAAYAAJ
+describes history of system, p. 143: original at hartford, extended by Storrs later (storrs is only at hartford starting in the 1850s)
+
+same in: American Annals of the Deaf, vol 14 (1869) p30-48 and 128 https://google.com/books?id=E69KAAAAYAAJ (page was missing from publication, therefor later added on p. 128)
 
 refers to Clark and Jewell
 
@@ -83,9 +100,16 @@ thanks to: Richard Salter Storrs (deaf education in hartford, mentioned in prefa
 
 ### Storrs (1880) *Methods of deaf-mute teaching*
 
-Richard Salter Storrs (1830-1884) bio: [@williams1885] Hartford 1853-1884
+Richard Salter Storrs (1830-1884) bio: [@williams1885] Hartford 1853-1884. seems to have extended an earlier system in the 1850s-early 1860s. It is unclear what system was used before. Porter makes some comments
 
 [@storrs1880; @storrs1880a; @storrs1881]
+
+this quote suggests, Storrs has been using it since the 1850s:
+
+> an experience of nearly thirty years has so abundantly attested to me its great value in the hands of such teachers. [@storrs1880: 116]
+>
+> I claim no other originality for the device I am describing than that it was wholly and independently wrought out by me in my
+earliest experience as a deaf-mute teacher [@storrs1880: 117]
 
 ### Wing (1885) *Function symbols*
 
