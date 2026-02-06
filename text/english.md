@@ -167,26 +167,19 @@ not in Lennie (1815) https://google.com/books?id=RgphAAAAcAAJ
 
 ### Dalgleish (1866) *grammatical analysis*
 
-this is third edition!
+Probably this person: https://en.wikipedia.org/wiki/Walter_Scott_Dalgleish
 
-https://google.com/books?id=tmsCAAAAQAAJ
-https://www.google.de/books/edition/Key_to_Grammatical_analysis/k8MDAAAAQAAJ
+this is third edition! https://google.com/books?id=tmsCAAAAQAAJ american edition from 1869 seems to be identical https://www.google.de/books/edition/Grammatical_Analysis/BMhHAQAAMAAJ
 
 complex sentences like Lehmann/Meiklejohn? p. 25, 38, 51
 
-*Outlines of English grammar and analysis*
+Key to the book above, with many more example: https://www.google.de/books/edition/Key_to_Grammatical_analysis/k8MDAAAAQAAJ
 
-https://google.com/books?id=_WsCAAAAQAAJ
+*Outlines of English grammar and analysis* https://google.com/books?id=_WsCAAAAQAAJ tables p. 67, 72, 75
 
-tables p. 67, 72, 75
+https://www.google.de/books/edition/Introductory_Text_book_of_English_Compos/nKEDAAAAQAAJ 1867: no graphics, but letter-based analysis of complex clauses
 
-https://www.google.de/books/edition/Introductory_Text_book_of_English_Compos/nKEDAAAAQAAJ
-
-1867: no graphics, but letter-based analysis of complex clauses
-
-There are more books of him!
-
-- https://www.google.de/books/edition/The_progressive_English_grammar_With_Key/sGwCAAAAQAAJ
+There are more grammar books by him! e.g. https://www.google.de/books/edition/The_progressive_English_grammar_With_Key/sGwCAAAAQAAJ
 
 ### Swinton (1872) *A progressive grammar of the English tongue*
 
@@ -231,6 +224,10 @@ https://catalog.hathitrust.org/Record/006151225
 table analysis p212, large example p220
 
 many different books and version, first collaboration from 1873
+
+### Adams (1892) *The elements of the English language*
+
+very short discussion of syntax with two tables, p.224-225. This version is the 24th edition, book originally from mid century. https://archive.org/details/dli.ernet.242998/
 
 ### Nesfield (1898) *English grammar, past and present*
 
