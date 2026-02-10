@@ -982,8 +982,9 @@ thanks to richard hudson for pointing this out. Doherty is Irish?!
 
 ### Meiklejohn (1862) *An easy English grammar for beginners*
 
-John Miller Dow Meiklejohn (1836-1902) https://en.wikipedia.org/wiki/John_Meiklejohn
-Biography [@graves2004]
+John Miller Dow Meiklejohn (1830-1902) was a prolific textbook author and in 1876 became the first professor of education in Great Brittain, at the University of St. Andrews. A detailed account of his life and work is provided by Graves [-@graves2004; -@graves2008]
+
+https://en.wikipedia.org/wiki/John_Meiklejohn
 
 *An easy English grammar for beginners*, four volumes published 1862-1866. 
 
@@ -998,9 +999,13 @@ Biography [@graves2004]
 - [A]{.grey} The gardener, [*a (s)*]{.grey} who is engaged at Mr. Mann's, [A]{.grey} sold the fruit, [*a (o)*]{.grey} which was not quite ripe, [*b*]{.grey} when the market was over.
 :::
 
+Meiklejohn does not cite Clark, but he was in Washington, DC, as a private tutor in the years 1853-1854 [@graves2008: 13-14], so he would have ample opportunity to come across the works of Clark.
+
 ::: {.im #meiklejohn1862_20}
-Illustration for [@last a] from Meiklejohn [-@meiklejohn1862: 20]. This graphic seems very likely to be inspired by the diagrams from Clark (see [@sec:clark1847]). Meiklejohn does not cite Clark.
+Illustration for [@last a] from Meiklejohn [-@meiklejohn1862: 20]. This graphic seems very likely to be inspired by the diagrams from Clark (see [@sec:clark1847]).
 :::
+
+Meiklejohn does not cite Bauer, but he was very proficient in German form an early age on [@graves2008: 12-13]. At 25 years of age Meiklejohn translated Kant's *Critique of pure reason* into English [@graves2008: 12-17]. Given this background, it would not be surprising that he ran across a book with the pertinent title *Grundzüge der neuhochdeutschen Grammatik* [@bauer1850].
 
 ::: {.im #meiklejohn1866_12}
 *Formula* for [@last b] from Meiklejohn [-@meiklejohn1866: 12], probably inspired by Bauer (see [@sec:bauer1850]). Meiklejohn explains that he uses lower-case letters for different kinds of subordinate clauses, specifically using *a*=adjectival (i.e. relative clause), *b*=adverbial and *c*=noun (i.e. complement clause). This is similar to Bauer, though Bauer uses the letters differently (*a*=complement, *b*=relative, *c*=adverbial). At other points in his book, Meiklejohn appears to be not consistent in the usage of these letters (cf. [@fig:meiklejohn1866_73])
