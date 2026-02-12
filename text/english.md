@@ -218,6 +218,8 @@ second edition [@cooper1889]
 table [@cooper1891: 9]
 indentation [@cooper1891: 25]
 
+Some information on Sonnenschein and his new englich grammar: https://doi.org/10.1515/9783111633824.15
+
 ### Davidson & Alcock (1889) *English grammar and analysis*
 
 https://catalog.hathitrust.org/Record/006151225
@@ -516,11 +518,17 @@ Hall includes an extensive discussion of *monology* [@hall1849: 297-305], direct
 
 ## Diagramming
 
+Check Nietz (1961) https://digital.library.pitt.edu/islandora/object/pitt%3A00aep6688m/viewer
+
+Goold Brown (1851) https://archive.org/details/grammarofenglish00browrich/
+
+p.91:  The vain pretensions of several modern simplifiers, contrivers of machines, charts, tallies, diagrams, vincula, pictures, dialogues, familiar lectures, ocular analyses, tabular compendiums, inductive exercises, productive systems, intellectual methods, and various new theories, for the purpose of teaching grammar, may serve to deceive the ignorant, to amuse the visionary, and to excite the admiration of the credulous; but none of these things has any favourable relation to that improvement which may justly be boasted as having taken place within the memory of the present generation.
+
 ### Clark (1847) *The Science of the English Language* {#sec:clark1847}
 
 Stephen W. Clark (1810-1901) was a school principal of East Bloomfield Academy and wrote the influential book *The science of the English language. A practical grammar: in which words, phrases, and sentences are classified according to their offices, and their various relations to one another. Illustrated by a complete system of diagrams.* [@clark1847] He produced revisions of this book and wrote variants for different readers up to the 1870s [e.g @clark1870, see [@mazziotta2016: 303-305 for the little that is known about Clark]. A detailed investigation of the work of Clark is available in Mazziotta [-@mazziotta2016; -@mazziotta2020a; -@mazziotta2020].
 
-It remains unclear whether Clark has had any sources of inspiration for his graphical display. In the preface he writes that he has been testing his method at least since 1840. The "chains" of Pierce (1839)
+It remains unclear whether Clark has had any sources of inspiration for his graphical display. In the preface he writes that he has been testing his method at least since 1840. The "chains" of Pierce (1839) or Barrett. Peirce (Rome), Barrett (Madrid) and Clark (Bloomfield) all lived in upstate New York around Lake Ontario.
 
 > for the convenience of teachers a manuscript grammar was prepared, which embodied the principles of the science and the Author's mode of presenting it. These principles and this method have been properly tested by numerous and advanced classes during the seven years last past. [@clark1847: iii]
 
@@ -531,6 +539,10 @@ He uses the term *diagram*
 adjuncts are hanging, but also enclosed as boxes on p17!
 
 [@clark1847] very interesting frontispiece in the first edition! Is later sold separately as a poster for schools
+
+Check John A. Nietz: Old textbooks: Spelling, grammar, reading, arithmetic, geography, American history, civil government, physiology, penmanship, art, music, as taught in the common schools (available in Germany)
+
+"Bloomfield Schools Revisited" https://www.ebhs1838.org/store
 
 ### Gengembre & Brown (1855) *Elements of English grammar*
 
