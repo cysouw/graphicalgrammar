@@ -322,16 +322,17 @@ Then it takes another 5 pages of explanations of different kinds of such "dresse
 > ('In this way, the following sentence, whose body only consists of the subject *Miltiades* and the predicate (with copula) *reddidit*, is dressed:')
 
 ::: ex
-Miltiades, dux Atheniensium, toti Graeciae libertatem paene oppressam in pugna apud Marathonem reddidit.
+|
+| Milti﻿ades, dux Atheniensium, toti Graeciae libertatem paene oppressam in pugna apud Marathonem reddidit.
+| miltiades leader Athenian.GEN.PL whole.DAT Greece.DAT liberty.ACC almost oppressed in battle near marathon restore.PERF.3SG
+| Miltiades, the leader of the Athenians, in the battle at Marathon restored to all of Greece the almost destroyed freedom.
 :::
-
-The phrase *in pugna apud Marathonem* 'in the battle of Marathon' belongs to where they were almost crushed, so to *paene oppressam*, so this is an error in the graphical analysis.
 
 ::: {.im #billroth1832_102}
 Graphical sentence analysis of [@last] from Billroth [-@billroth1832: 102]. Note the horizontal depiction of the subject-predicate pairing and all modifiers hanging down from this main structure. This depiction is rather similar to Diesterweg's approach in [@fig:diesterweg1838_260], but the usage of lines instead of braces is different.
 :::
 
-Interpreting his graphical illustration in more detail, the naked sentence is depicted by a horizonal line, while the additional elements of the "dressed" sentence are all shown as vertical/slanted lines. Billroth very clearly intends the vertical lines to represent some kind of dependency, with multiple levels of modification being illustrated by subsequent vertical lines. The structure of the graphic is quite similar to Diesterwegs proposal in [@fig:diesterweg1830_174], but with lines instead of curly braces.
+Interpreting his graphical illustration in more detail, the naked sentence is depicted by a horizonal line, while the additional elements of the "dressed" sentence are all shown as vertical/slanted lines. Billroth very clearly intends the vertical lines to represent some kind of dependency, with multiple levels of modification being illustrated by subsequent vertical lines. The structure of the graphic is quite similar to Diesterwegs proposal in [@fig:diesterweg1838_260], but with lines instead of curly braces. Note that the attachment of the phrase *in pugna apud Marathonem* 'in the battle of Marathon' is actually ambiguous. From historical knowledge it is clear that the restoration (*reddidit*) of the freedom happened at Marathon, as the graphical analysis illustrates. However, grammatically it would also be possible for the phrase *in pugna apud Marathonem* to modify the destruction (*oppressam*) of the freedom. That (factually incorrect) interpretation would result in a different diagram. Such an application of diagrams – to explain different possible structural intepretations – is later used by Brassai (see [@sec:brassai1873]).
 
 Exactly the same approach with the same picture is found in his extended grammar written two years later [@billroth1834: 332-333]. After Billroth's early death this grammar has seen various new editions. The second edition of 1838 is prepared by Friedrich Ellendt and uses exactly the same figure [@billroth1838: 329]. However, in the third edition, the picture is changed, erroneously, and has become completely incomprehensible, cf. [@fig:billroth1848_358] [@billroth1848: 358]. Ellendt possibly did not completely understand what the figure is supposed to represent.
 
