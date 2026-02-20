@@ -243,6 +243,8 @@ tables and indented complex sentences [@onions1904] *sentence picture* p.25
 
 ## Proto-Diagramming
 
+jeremiah Greenleaf "simplified Grammar" (first edition 1819) used word-class abbreviations above the words for parsing, e.g. third edition 1821: https://google.com/books?id=fegaAAAAYAAJ
+
 ### Wilbur (1814) *The grammatical alphabet*
 
 [@wilbur1814] pictures for word classes. the "chart" mentioned could be this one: https://lccn.loc.gov/2020768232 (not digital)
@@ -1169,6 +1171,8 @@ bio: https://warwick.ac.uk/fac/soc/al/research/collections/elt_archive/publicati
 ## Immediate constituents
 
 ### Wundt (1880) *Logik* {#sec:wundt1880}
+
+Boole "Laws of Thought" (1854) https://google.com/books?id=pFsmwHjdHSsC
 
 Wilhelm Maximilian Wundt (1832-1920), professor in Leipzig, was one of the founders of modern psychology, but his writings touched on a wide range of topics including language. A survey of his linguistic work is presented by Knobloch [-@knobloch1992]. As for the graphical representation of sentence structure, he wrote a few pages about this in the first volume of his book *Logik* [@wundt1880: 49-70] and later expanded upon his approach in his ten-volume magnum opus *Völkerpsychologie*, specifically, in the second volume of the two-volume book *Sprache* [-@wundt1900b: 320-355].
 

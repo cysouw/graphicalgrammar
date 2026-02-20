@@ -211,7 +211,7 @@ Tabular analysis from Becker [-@becker1833a: 43] of the complex sentence [@last]
 
 ### Diesterweg (1830) *Praktischer Lehrgang für den Unterricht*  {#sec:diesterweg1830}
 
-Friedrich *Adolph* Wilhelm Diesterweg (1790-1866) was a teacher and a prolific author of textbooks. He also wrote extensively about didactic methods in general, strongly influenced by the ideas of Pestalozzi. Later in life he was politically active in an attempt to reform the Prussian educational system. His practical textbooks mainly dealt with mathematics and German linguistics. A comprehensive analysis of his linguistic work can be found in Czoska [-@czoska1984]. His linguistic proposals did not have much influence on the further development of syntactic analysis, which is unfortunate, because there are a lot of useful insights hidden there.
+Friedrich *Adolph* Wilhelm Diesterweg (1790-1866) was a teacher and a prolific author of textbooks. He also wrote extensively about didactic methods in general, strongly influenced by the ideas of Pestalozzi. Later in life he was politically active in an attempt to reform the Prussian educational system. His practical textbooks mainly dealt with mathematics and German linguistics. A comprehensive analysis of his linguistic work can be found in Czoska [-@czoska1984]. Although his work is not cited much, and is basically unknown to contemporary linguists, it seems to have had a substantial influence on syntactic analysis in the 19th Century. Specifically, Diesterweg might have influenced Billroth (see [@sec:billroth1832], though the evidence is only circumstantial) and consequently ignited the tradition of line diagrams for dependency trees. Diesterweg's influence is explicitly acknowledged by Honcamp ([@sec:honcamp1838]), Mager ([@sec:mager1840]), Wander ([@sec:wander1856]), Schlecht ([@sec:schlecht1856]) and  Buslaev ([@sec:buslaev1844]).
 
 The *Praktischer Lehrgang für den Unterricht in der deutschen Sprache* is a massive three-volume guide for teachers. As it says in the subtitle, it is *ein Leitfaden für Lehrer, welche die Muttersprache naturgemäß lehren wollen* ('a guide for teachers who want to teach the mother tongue in a natural way'). In the current context I will concentrate on the second volume *Die Wortformen und die Satzlehre*. This second volume first appeared in 1830 [@diesterweg1830], but there have been some important changes in the second edition from 1834 [@diesterweg1834]. The third edition from 1838 [@diesterweg1838] and the fourth from 1847 only saw minor changes. I will cite the 1830 and 1834 version where appropriate, but often include references to the 1838 version as well, as this is the highest-quality openly available digital version. For that reasons I have also used the 1838 for the images included here, as they do not change from the 1830 or 1834 versions.
 
@@ -269,7 +269,17 @@ Diesterweg's visual analysis of [@last], as shown in [@fig:diesterweg1830_174], 
 - On the subject side (to the left) there is also a single reversed horizontal brace to indicate modification to the whole first part of the noun phrase up to the head noun *Vater*. It would have been more consistent to use large vertical braces, then the hierarchical structure would have become obvious.
 - There are various small negligent errors, both in the image (the word *lebenden* is omitted) and in the explaining text (where the phrase *unter fremden Menschen* is added).
 
-Diesterweg returns to this syntactic analysis at the end of the book [@diesterweg1830: part 3, chapter nine; @diesterweg1834: part 3, chapter ten] under the heading *Die grammatische Zergliederung der Sätze* [@diesterweg1830: 263]. He first repeats the previously used analysis using braces, but then turns his attention to sentences containing (multiple) subordinate clauses. Without any comment he omits the bracketed analysis and turns to a table-style analysis with numbered words and cross-references, exactly like Becker (see [@sec:becker1829]). Diesterweg probably noticed that the bracketed visualisation becomes exceedingly complex and confusing with more elaborated sentences. However, from his seemless switch between bracketed visualisation and numbered tables it becomes clear that these two approaches are interchangeable in his mind. It is just a matter of practical applicability which system to use in a particular example.
+Another, somewhat simpler example appears later in his book [@diesterweg1830: 266; @diesterweg1838: 260], shown here in [@fig:diesterweg1838_260] for the example sentence [@next]. It seems plausible that Billroth (see [@sec:billroth1832]) might have been inspired by such a graphic to develop his line diagrams (see [@fig:billroth1832_102]). Note that the brackets to the right, after the finite verb *lockt*, are wrong. There is no hierachical connection between *herbei*, *eine Menge Ausländer* and *jährlich*. It is rather puzzling why Diesterweg uses this depiction, because the hierachical structure on the left side is perfectly valid. He clearly understands the hiearchical structure of linguistic modification, so the he should have know better as to depict the right side hierarchically.
+
+::: ex
+Die aus vielen Berichten der Reisenden bekannte Schönheit des romantischen Rheinthales lockt jährlich eine Menge Ausländer herbei.
+:::
+
+::: {.im #diesterweg1838_260}
+Another slighly simpler example of the syntactic analysis of Diesterweg [-@diesterweg1830: 266; cited here from -@diesterweg1838: 260 because of the better image quality]. Such an example might very well have inspired Billroth (see [@fig:billroth1832_102]). Note that the hierarchical structure on the right side of this analysis is wrong. There are three elements here that should not be displayed hierarchically.
+:::
+
+Diesterweg returns to this syntactic analysis at the end of the book [@diesterweg1830: part 3, chapter nine; @diesterweg1834: part 3, chapter ten] under the heading *Die grammatische Zergliederung der Sätze* [@diesterweg1830: 263]. He first repeats the previously used analysis using braces (see [@fig:diesterweg1838_260]), but then turns his attention to sentences containing (multiple) subordinate clauses. Without any comment he omits the bracketed analysis and turns to a table-style analysis with numbered words and cross-references, exactly like Becker (see [@sec:becker1829]). Diesterweg probably noticed that the bracketed visualisation becomes exceedingly complex and confusing with more elaborated sentences. However, from his seemless switch between bracketed visualisation and numbered tables it becomes clear that these two approaches are interchangeable in his mind. It is just a matter of practical applicability which system to use in a particular example.
 
 Finally, there are two interesting terminological issues addressed by Diesterweg. First, he prefers the term *Ausbildung* over the widespread term *Erweiterung*, which is actually still an extremely common grammatical term in Germany today.
 
@@ -312,16 +322,17 @@ Then it takes another 5 pages of explanations of different kinds of such "dresse
 > ('In this way, the following sentence, whose body only consists of the subject *Miltiades* and the predicate (with copula) *reddidit*, is dressed:')
 
 ::: ex
-Miltiades, dux Atheniensium, toti Graeciae libertatem paene oppressam in pugna apud Marathonem reddidit.
+|
+| Milti﻿ades, dux Atheniensium, toti Graeciae libertatem paene oppressam in pugna apud Marathonem reddidit.
+| miltiades leader Athenian.GEN.PL whole.DAT Greece.DAT liberty.ACC almost oppressed in battle near marathon restore.PERF.3SG
+| Miltiades, the leader of the Athenians, in the battle at Marathon restored to all of Greece the almost destroyed freedom.
 :::
-
-The phrase *in pugna apud Marathonem* 'in the battle of Marathon' belongs to where they were almost crushed, so to *paene oppressam*, so this is an error in the graphical analysis.
 
 ::: {.im #billroth1832_102}
-Graphical sentence analysis of [@last] from Billroth [-@billroth1832: 102]. Note the horizontal depiction of the subject-predicate pairing and all modifiers hanging down from this main structure. This depiction is rather similar to Diesterweg's approach in [@fig:diesterweg1830_174], but the usage of lines instead of braces is different.
+Graphical sentence analysis of [@last] from Billroth [-@billroth1832: 102]. Note the horizontal depiction of the subject-predicate pairing and all modifiers hanging down from this main structure. This depiction is rather similar to Diesterweg's approach in [@fig:diesterweg1838_260], but the usage of lines instead of braces is different.
 :::
 
-Interpreting his graphical illustration in more detail, the naked sentence is depicted by a horizonal line, while the additional elements of the "dressed" sentence are all shown as vertical/slanted lines. Billroth very clearly intends the vertical lines to represent some kind of dependency, with multiple levels of modification being illustrated by subsequent vertical lines. The structure of the graphic is quite similar to Diesterwegs proposal in [@fig:diesterweg1830_174], but with lines instead of curly braces.
+Interpreting his graphical illustration in more detail, the naked sentence is depicted by a horizonal line, while the additional elements of the "dressed" sentence are all shown as vertical/slanted lines. Billroth very clearly intends the vertical lines to represent some kind of dependency, with multiple levels of modification being illustrated by subsequent vertical lines. The structure of the graphic is quite similar to Diesterwegs proposal in [@fig:diesterweg1838_260], but with lines instead of curly braces. Note that the attachment of the phrase *in pugna apud Marathonem* 'in the battle of Marathon' is actually ambiguous. From historical knowledge it is clear that the restoration (*reddidit*) of the freedom happened at Marathon, as the graphical analysis illustrates. However, grammatically it would also be possible for the phrase *in pugna apud Marathonem* to modify the destruction (*oppressam*) of the freedom. That (factually incorrect) interpretation would result in a different diagram. Such an application of diagrams – to explain different possible structural intepretations – is later used by Brassai (see [@sec:brassai1873]).
 
 Exactly the same approach with the same picture is found in his extended grammar written two years later [@billroth1834: 332-333]. After Billroth's early death this grammar has seen various new editions. The second edition of 1838 is prepared by Friedrich Ellendt and uses exactly the same figure [@billroth1838: 329]. However, in the third edition, the picture is changed, erroneously, and has become completely incomprehensible, cf. [@fig:billroth1848_358] [@billroth1848: 358]. Ellendt possibly did not completely understand what the figure is supposed to represent.
 
@@ -407,6 +418,31 @@ Later Lehmann wrote *Sprachliche Studien über das Nibelungenlied* [@lehmann1856
 Finally, Lehmann wrote a literary analysis *Forschungen über Lessings Sprache* [@lehmann1875]. In this book he again used his *Periodenbilder*, but just as one of the possible ways to elucidate structures in the literary oevre of Lessing [@lehmann1875: 130-149]. Interestingly, he ignores the simplification he used in his previous word and reverts back to his original notation from 1833.
 
 Lehmann's examples of the application of the scheme to actual literary texts inspired many philological analyses in the decades to come. For example, via the *Repetitorium* of Menge (see [@sec:menge1873]) there is a direct line to the 1969 dissertation on the *Amadisroman* from Langholf (see [@sec:langholf1969]) using similar graphical analyses as Lehmann, more than a century after the original proposals.
+
+### Grotefend
+
+https://de.wikipedia.org/wiki/August_Grotefend
+
+Schulgrammatik 1833:162 https://google.com/books?id=emwZAAAAYAAJ
+
+https://mdz-nbn-resolving.de/details:bsb10585991
+
+Commentar 1825:298 https://www.digitale-sammlungen.de/en/view/bsb11762554?page=1
+
+https://mdz-nbn-resolving.de/details:bsb11418036
+
+Elementarbugh: https://mdz-nbn-resolving.de/details:bsb11418033
+
+Materialien: https://mdz-nbn-resolving.de/details:bsb11762553
+
+Grundzüge: https://books.google.de/books/about/Grundzüge_einer_neuen_Satztheorie.html?id=mJ9HAQAAMAAJ&redir_esc=y
+
+Onkel Georg Friedrich: https://www.digitale-sammlungen.de/de/search?filter=volumes%3A%22bsb10585992%2FBV004590326%22
+
+https://mdz-nbn-resolving.de/details:bsb10585992
+
+zumpt lateinische grammatik: https://www.digitale-sammlungen.de/de/view/bsb10586664?page=5
+ramshorn 1824: https://www.google.de/books/edition/Lateinische_Grammatik/bf9OAAAAcAAJ?hl=de&gbpv=0
 
 ## The many guises of linguistic *Bilder*
 
@@ -508,7 +544,7 @@ Periodenbilder 1838:266-267, example page 267:
 Obwohl Cäcar, nachdem er diese Lage der Dinge erfahren hatte, überzeugt war, daß es von großer Bedeutung sei, sich sobald als möglich der Stadt zu bemächtigen und die Cohorten des Domitius zu sich ins Lager herüberzuführen, damit nicht durch Geschenke, Einflößung neuen Muthes oder falsche Gerüchte eine Umwandlung der Gesinnung eintreten könnte, weil im Kriege oft aus kleinen Veranlassungen große Nachtheile entstündne: so unterließ er doch dieses Alles, weil er fürchtete, es möchte beim Einbringen seiner Soldaten, indem bei der Nacht die Zügellosigkeit derselben nicht gehemmt werden könnte, die Stadt geplündert werden, lobte diejenigen, welche zu ihm gekommen waren, entsandte sie wieder in die Stadt und ließ die Thore und die Mauern sorgfältig beobachten.
 :::
 
-### Honcamp (1838) *Leitfaden für die Sprachbildung*
+### Honcamp (1838) *Leitfaden für die Sprachbildung* {#sec:honcamp1838}
 
 *Franz* Cornelius Honcamp (1805-1866) was a teacher in Büren (Westfalen). He wrote various grammatical textbooks, strongly influenced by Becker (see [@sec:becker1829]) and Diesterweg (see [@sec:diesterweg1830]). Because of a small article, in which he implicitly criticised the role of the church in schools, he was eventualy laid off by the Prussian state in 1854 and worked as a private teacher for the last few years of his life. More biographical details and a detailed discussion of the unfortunate clash with church and state is provided by Diesterweg [-@diesterweg1866].^[A useful summary of Honcamps life and work is available online at <https://www.lexikon-westfaelischer-autorinnen-und-autoren.de/autoren/honcamp-franz-cornelius>, accessed 11 February 2025.]
 
