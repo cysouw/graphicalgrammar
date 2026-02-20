@@ -419,6 +419,31 @@ Finally, Lehmann wrote a literary analysis *Forschungen über Lessings Sprache* 
 
 Lehmann's examples of the application of the scheme to actual literary texts inspired many philological analyses in the decades to come. For example, via the *Repetitorium* of Menge (see [@sec:menge1873]) there is a direct line to the 1969 dissertation on the *Amadisroman* from Langholf (see [@sec:langholf1969]) using similar graphical analyses as Lehmann, more than a century after the original proposals.
 
+### Grotefend
+
+https://de.wikipedia.org/wiki/August_Grotefend
+
+Schulgrammatik 1833:162 https://google.com/books?id=emwZAAAAYAAJ
+
+https://mdz-nbn-resolving.de/details:bsb10585991
+
+Commentar 1825:298 https://www.digitale-sammlungen.de/en/view/bsb11762554?page=1
+
+https://mdz-nbn-resolving.de/details:bsb11418036
+
+Elementarbugh: https://mdz-nbn-resolving.de/details:bsb11418033
+
+Materialien: https://mdz-nbn-resolving.de/details:bsb11762553
+
+Grundzüge: https://books.google.de/books/about/Grundzüge_einer_neuen_Satztheorie.html?id=mJ9HAQAAMAAJ&redir_esc=y
+
+Onkel Georg Friedrich: https://www.digitale-sammlungen.de/de/search?filter=volumes%3A%22bsb10585992%2FBV004590326%22
+
+https://mdz-nbn-resolving.de/details:bsb10585992
+
+zumpt lateinische grammatik: https://www.digitale-sammlungen.de/de/view/bsb10586664?page=5
+ramshorn 1824: https://www.google.de/books/edition/Lateinische_Grammatik/bf9OAAAAcAAJ?hl=de&gbpv=0
+
 ## The many guises of linguistic *Bilder*
 
 ### Götzinger (1836) *Die deutsche Sprache* {#sec:götzinger1836}
