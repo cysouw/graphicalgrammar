@@ -1130,9 +1130,17 @@ Kern is cited (p558) graphical display is presented as "normal" in Germany, exam
 
 ### Adamson (1907) *The practice of instruction*
 
-"schema" = diagramming? [@adamson1907: 176-177]
+"schema" = diagramming? [@adamson1907: 176-177] It is not the mapping of Meiklejohn!
 
-cites fitch (p. 175), but does not cite inspiration for "schema"
+> THe schema exemplified below is intended primarily for the teacher's use at the blackboard, though scholars may also use it for rough drafts before settings about a parsing exercise; it mey profitably supersede the customary 'table' wherever its few and simple convenstions are understood (p.176)
+
+edited book, but section on *The Mother-Tongue* (p. 153-190) is written by adamson
+
+thanks Meiklejohn, but on Mathematics?! (p.vii) also in language part (p.162)
+
+cites fitch (1881) on templatic columns (on p. 175), but does not cite inspiration for "schema"
+
+(p.189) cites dale, cites Kittredge & Arnold (but 1905, does it already have diagrams then?)
 
 ### Palser & Lewis (1923) *A new outline grammar of function*
 
