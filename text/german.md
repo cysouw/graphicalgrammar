@@ -10,6 +10,8 @@ The 19th Century is widely considered to be the heyday of German linguistics. Ma
 
 In German grammars of the 18th and 19th Century there is a widespread conceptual distinction between a bare and an extended sentence. A bare sentence is mostly defined as a sentence with only a subject and a predicate without any attributive or adverbial modifiers; a minimal sentence of sorts. The examples given always have intransitive verbs and it remains unclear whether transitive sentences also could be "bare". An extended sentence, in contrast, contains additional modifiers, though subordinate clauses are mostly relegated to yet further categories of sentence structure. This distinction is mostly referred to using the German words *nackt* 'naked' vs. *ausgebildet* 'developed'. However, there is some interesting variations and discussion throughout the 19th Century about exactly which word should be used.
 
+Latin tradition of *syntaxis ornata*!
+
 The origin of this terminological distinction can probably be traced back to Meiner [-@meiner1781: 446], who uses the terms *bloß* 'bare' for a minimal sentence and *ausgebildet* 'developed' for a sentence with additional modifiers. Contemporaneously, Adelung [-@adelung1782: 572] uses the terms *einfach/nackt* 'simple/naked' and *ausgebildet* 'developed'. This terminology is slightly changed in the first edition of Heyse's influential grammar of German [@heyse1814: 492-492] into *einfach/rein* 'simple/pure' and *ausgebildet/erweitert* 'developed/extended'. Then Heyse adjusted this again in the second edition by adding the term *nackt* 'naked, bare' as an alternative to *einfach* and *rein* [@heyse1820: 598]. Finally, in the fourth edition of 1827 Heyse adds the term *bekleidet* 'dressed': 
 
 > Solche Sätze […] kann man ~~ausgebildete~~, erweiterte, oder (im Gegensatze zu den nackten) ~~bekleidete~~ Sätze nennen. [@heyse1827: 636]
@@ -41,6 +43,10 @@ This term that goes straight back to antiquity. Aristotle used the term *περ�
 The desire to summarise the structure of a complex *Periode* is a crucial starting point for the graphical analysis of sentences in 19th Century Germany, starting with Herling [-@herling1823, see [@sec:herling1823]]. The main tool that is used is a so-called *Periodenbild* 'image of a Period'. The basic idea is to assign some symbols to each clause, and then combine these symbols into a visualisation to illustrate the interrelation between the many clauses that make up a *Periode*. The term *Periodenbild* for the analysis of a multi-clause sentence was first used by August Lehmann [-@lehmann1833, see [@sec:lehmann1833]]. His proposal includes a distinction between capital letters for main clauses and lower-case letters for subordinate clauses, a principle that remains a fixture throughout all variants of these *Periodenbilder*. In contrast, almost all other details differ widely from author to author.
 
 Friedrich Diesterweg [-@diesterweg1834, see [@sec:diesterweg1830]] adopted Lehmann's terminology and added the term *Satzbild* for the structure of a monoclausal sentence. The two terms *Periodenbild* and *Satzbild* return throughout the 19th Century, but they are used quite interchangeably. Even though many authors distinguish between two different graphical analyses, one for single-clause sentences and one for multi-clause sentences, Diesterweg's terminological distinction did not persist. Linguistic *Bilder* remain virulent for about 90 years, but then gradually fade away from linguistic memory at the start of the 20th Century.
+
+### Topik & Topologie
+
+Roth (wetzler, Frankfurt), also posthumously published in vol 2 of the Abhandlungen des Frankfurtischen Gelehrtenvereins für deutsche Sprache
 
 ## *Periodenbild* and *Satzbild*
 
@@ -139,6 +145,80 @@ So lange der Mensch nicht reden konnte, so sah, hörte, fühlte und schmeckte er
 Musical notation used to illustrate the grammatical structure of whole paragraphs. Main clauses (indicated by *h*) are higher up, subordinate clauses are lower. Different sentences are separated by bar lines [@herling1828: 366].
 :::
 
+### Grotefend (1825) *Commentar zu den Materialien lateinischer Stilübungen*
+
+August Grotefend (1798-1836) was a teacher and school director in Göttingen. He is the nephew of Georg Friedrich Grotefend, who was a major figure in the decipherment of cuneiform writing and the founder of the *Frankfurtischer Gelehrtenverein für deutsche Sprache*. August was a great admirer of Herling (see [@sec:herling1823]), who succeeded his uncle Georg Friedrich as the head of the *Gelehrtenverein*. August himself identifies himself as a member of the *Gelehrtenverein* in 1827 in a booklet praising Herling's approach to sentence structure [@grotefend1827]. However, he primarily wrote various Latin textbooks and collected materials for teaching Latin.
+
+In a booklet with commentary to one of his collections of Latin teaching materials, Grotefend includes an early graphical analysis of a complex *Periode*, following Herling [-@herling1823], who is explicitly mentioned as inspiration [@grotefend1825: 287]. This commmentary is addressed to teachers: *für den Lehrer bestimmt* [@grotefend1825: xxii], while Grotefend's Latin grammars and materials for students do not include any such graphics. He calls this graphical analysis a *Zergliederung*, a term that is taken directly from Herling [-@herling1823: 38]:
+
+> Eine vorzüglich Uebung ist hier die Zergliederung verwickelter Perioden, wovon hier noch zum Schluß ein Beispiel stehen möge. [@grotefend1825: 298]
+>
+> ('An excellent exercise here is the *Zergliederung* of complicated periods, an example of which will be given here in conclusion.)
+
+Grotefend's *Zergliederung*, which was inserted as a separate sheet into the book, is shown here in [@fig:grotefend1825_298]. It is an analysis of a quote from Livius, shown in [@next] in the original order of the sentence. The indentation roughly corresponds to the hierarchical structure of the sentence. There are some minor inconsistencies in the analysis as depicted in the graphical analysis by Grotefend, namely:
+
+- The complex adverbial clause (with three parts) *tectis prius incensis – ac frugibus corruptis – ne cuius rei copia esset* is not an adverbial clause to the clause *ipse via Flaminia profectus*, but to the clause *ex agris quoque demigrarent omnes regionis eius*. Basically, the relative subordination of the two large vertical braces on the left of the graphic should have been reversed.
+- It seems better to consider *agmen consulemque cum equitibus ad se progredientem* (on the right side) to be a complement clause to the verb *prospexisset*, instead of Grotefend's proposal to analyse *agmen consulemque* as the object of this verb, with the rest of the clause to be a non-finite attributive clause to *consulem*.
+
+::: ex
+Quote from Livius *Ab urbe condita* (22:11), here shown in the original order. The name Fabius is actually not mentioned in this sentence. The text in Grotefend's graphic deviates slightly from Livius' text.
+:::
+
+- (Fabius)
+  - edictoque proposito, \
+    ('having declared the edict')
+    - ut, \
+      ('that')
+      - quibus oppida castellaque immunita essent, \
+        ('those whose towns and castles were unfortified')
+    - ut ii commigrarent in loca tuta, \
+      ('that they should migrate to safe places')
+    - ex agris quoque demigrarent omnes regionis eius, \
+      ('from the fields also should migrate all the people of the region')
+      - qua iturus Hannibal esset, \
+        ('where Hannibal was going')
+      - tectis prius incensis \
+        ('having first burned their houses')
+      - ac frugibus corruptis, \
+        ('and having spoiled the crops')
+        - ne cuius rei copia esset, \
+          ('so that not there is of anything a supply')
+  - ipse via Flaminia profectus obviam consuli exercituique \
+    ('having himself on the Via Flaminia advanced in the way of the consul and his army')
+  - cum ad Tiberim circa Ocriculum prospexisset \
+    ('when on the Tiber near Ocriculum he had seen')
+    - agmen consulemque cum equitibus ad se progredientem, \
+      ('the troops and the consul with his cavalry advancing towards him')
+- viatorem misit, \
+  ('a messenger he sent')
+  - qui consuli nuntiaret, \
+    ('who to the consul announced ')
+    - ut sine lictoribus ad dictatorem veniret. \
+      ('that without the lictors to the dictator he should come')
+
+::: {.im #grotefend1825_298}
+*Zergliederung* of [@last] from Grotefend [-@grotefend1825: 298]. The name *Fabius* is not mentioned in the sentence itself. The subordination structure on the left side is analysed by Grotefend with two large vertical braces. The hierarchical order of these two parts is actually reversed from what is proposed here by Grotefend. On the right side, the *verkürzter Adjektivsatz* 'cum equitibus…' is actually part of a complement clause together with 'agmen consulemque'.
+:::
+
+There do not appear to be any more such examples of graphical *Zergliederung* in the works of Grotefend. In his *Schulgrammatik* [@grotefend1833: 162] there is a short note on the difference between *Beiordnung* 'conjunction' [@next a] and *Einordnung* 'subordination' [@next b] exemplified with the graphical structure in [@fig:grotefend1833_162].
+
+::: ex
+a.
+| 
+| Bellum grave et perdiuturnum
+| war serious and protracted
+| a serious and protracted war
+b.
+| 
+| Privata navis oneraria maxima
+| private ship cargo large
+| a large private cargo ship
+:::
+
+::: {.im #grotefend1833_162}
+Graphical explanation of the different structures in [@last] from Grotefend [-@grotefend1833: 162]. Note the hierarchical constituency of the example of *Einordnung* at the bottom of the figure.
+:::
+
 ### Götzinger (1827) *Deutsche Sprachlehre* {#sec:götzinger1827}
 
 Maximilian Wilhelm Götzinger (1799–1856) was a teacher of German, most of his life working in Schaffhausen (Switzerland). He wrote extensively about grammar, literature and dialectology, see Olsson [-@olsson2009] for an comprehensive appraisal of his work. Besides his didactic writings, Götzinger also provided material for Grimm's dictionary project [@olsson2009: 37] and he was even awarded a doctorate *honoris causa* from the University of Basel in 1838 [@olsson2009: 36], probably through his personal contact with Wilhelm Wackernagel (the father of Jacob Wackernagel of *Wackernagel's law*-fame).
@@ -167,9 +247,9 @@ Intonation contours for multi-clause extended sentences, the so-called *Periode*
 
 ### Becker (1829) *Deutsche Grammatik* {#sec:becker1829}
 
-Karl Ferdinand Becker (1775-1849) was probably one of the most influential grammatical educators from the start of the 19th Century. He originally started out as a medical doctor, but that turned out not be a financial success. Instead, he opened a small private school in Offenbach teaching German to English-speaking students. Turning his attention to linguistics, he wrote various books about German grammar. For a thorough repraisal of Becker's linguistic work, see Haselbach [-@haselbach1966]. Becker also became a member of the *Frankfurter Gelehrtenverein für deutsche Sprache*, where he met Herling (see [@sec:herling1823]) and Schmitthenner (see [@sec:schmitthenner1828]).
+Karl Ferdinand Becker (1775-1849) was probably one of the most influential grammatical educators from the start of the 19th Century. He originally started out as a medical doctor, but that turned out not be a financial success. Instead, he opened a small private school in Offenbach teaching German to English-speaking students. Turning his attention to linguistics, he wrote various books about German grammar. For a thorough repraisal of Becker's linguistic work, see Haselbach [-@haselbach1966]. Becker also became a member of the *Frankfurtischer Gelehrtenverein für deutsche Sprache*, where he met Herling (see [@sec:herling1823]) and Schmitthenner (see [@sec:schmitthenner1828]).
 
-In his *Organism der Sprache als Einleitung zur deutschen Grammatik* [@becker1827] Becker presents a clear plan for analysis of syntactic relationships inside the sentence (which he called *Satzverhältnisse*), and it is easily possible to anachronistically depict these ideas graphically [e.g. @haselbach1966: 156-161]. However, Becker himself never produced any graphical display of the analysis of a specific sentence, but he came very close with a tabular method of analysis. He originaly introduced a few examples of his tabular method in the preface of the *Deutsche Grammatik* [@becker1829]. Here he presents a few examples of how sentences should be analysed, calling the process *Analyse der Sätze* [@becker1829: xvi-xix]. This explanation is addressed to teachers, instructing them how students should approach the analysis of a sentence. Astonishingly, he never describes this analytical approach in the grammar itself. He returns to this approach in a short book *Über die Methode des Unterrichtes in der deutschen Sprache*, again directed to teachers [@becker1833a: 36-46]. In this book he calls the process *Zergliederung* 'dissection'.
+In his *Organism der Sprache als Einleitung zur deutschen Grammatik* [@becker1827] Becker presents a clear plan for analysis of syntactic relationships inside the sentence (which he called *Satzverhältnisse*), and it is easily possible to anachronistically depict these ideas graphically [e.g. @haselbach1966: 156-161]. However, Becker himself never produced any graphical display of the analysis of a specific sentence, but he came very close with a tabular method of analysis. He originaly introduced a few examples of his tabular method in the preface of the *Deutsche Grammatik* [@becker1829]. Here he presents a few examples of how sentences should be analysed, calling the process *Analyse der Sätze* [@becker1829: xvi-xix]. This explanation is addressed to teachers, instructing them how students should approach the analysis of a sentence. Astonishingly, he never describes this analytical approach in the grammar itself. He returns to this approach in a short book *Über die Methode des Unterrichtes in der deutschen Sprache*, again directed to teachers [@becker1833a: 36-46]. In this book he calls the process *Zergliederung* 'dissection' [probably inspired by @herling1823: 38, who talks about the *logische Zergliederung der Perioden*].
 
 Becker's basic idea is to use a table with all words of the sentence listed as the rows of a table. This approach feels completely natural in the English grammatical tradition of "parsing", which he might have encountered while teaching English-speaking students. In the English grammatical tradition, parsing has a long history. The English word itself originates from the Latin *pars orationis*, i.e. originally parsing is the process to assign parts of speech to individual words. The Oxford English Dictionary lists examples of this usage all the way back to the 16th Century. However, the process of consistently going through a sentence, listing all words separately, and analysing each one individually, seems to have been first used by John Brinsly the Elder in his *Ludus Literarius* from 1612 [nice examples in @brinsley1612: 102, 130]. In the centuries since, this approach to parsing became a mainstay in the English grammatical tradition [@lyman1922: 120-122]. Curiously, this approach to sentence analysis seems to have been basically unknown outside of the English-speaking grammatical tradition.
 
@@ -418,31 +498,6 @@ Later Lehmann wrote *Sprachliche Studien über das Nibelungenlied* [@lehmann1856
 Finally, Lehmann wrote a literary analysis *Forschungen über Lessings Sprache* [@lehmann1875]. In this book he again used his *Periodenbilder*, but just as one of the possible ways to elucidate structures in the literary oevre of Lessing [@lehmann1875: 130-149]. Interestingly, he ignores the simplification he used in his previous word and reverts back to his original notation from 1833.
 
 Lehmann's examples of the application of the scheme to actual literary texts inspired many philological analyses in the decades to come. For example, via the *Repetitorium* of Menge (see [@sec:menge1873]) there is a direct line to the 1969 dissertation on the *Amadisroman* from Langholf (see [@sec:langholf1969]) using similar graphical analyses as Lehmann, more than a century after the original proposals.
-
-### Grotefend
-
-https://de.wikipedia.org/wiki/August_Grotefend
-
-Schulgrammatik 1833:162 https://google.com/books?id=emwZAAAAYAAJ
-
-https://mdz-nbn-resolving.de/details:bsb10585991
-
-Commentar 1825:298 https://www.digitale-sammlungen.de/en/view/bsb11762554?page=1
-
-https://mdz-nbn-resolving.de/details:bsb11418036
-
-Elementarbugh: https://mdz-nbn-resolving.de/details:bsb11418033
-
-Materialien: https://mdz-nbn-resolving.de/details:bsb11762553
-
-Grundzüge: https://books.google.de/books/about/Grundzüge_einer_neuen_Satztheorie.html?id=mJ9HAQAAMAAJ&redir_esc=y
-
-Onkel Georg Friedrich: https://www.digitale-sammlungen.de/de/search?filter=volumes%3A%22bsb10585992%2FBV004590326%22
-
-https://mdz-nbn-resolving.de/details:bsb10585992
-
-zumpt lateinische grammatik: https://www.digitale-sammlungen.de/de/view/bsb10586664?page=5
-ramshorn 1824: https://www.google.de/books/edition/Lateinische_Grammatik/bf9OAAAAcAAJ?hl=de&gbpv=0
 
 ## The many guises of linguistic *Bilder*
 

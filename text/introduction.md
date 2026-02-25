@@ -92,3 +92,44 @@ There seem to be at least two reasons:
 - Second, IE verb inflection
 - Argument against: developing ideas about the verb as centre of the sentence, projecting roles/arguments.
 - argument against the copula-theory, e.g. Wundt 1880. Wundt's discussion of the 'old grammarians' [@wundt1900b: 222-224], arguing against the 'copula-theory'
+
+# Major developments
+
+## Precursors
+
+- parsing/abbreviations for words
+- grammaire logique
+- universal language/pasigraphy
+- early examples: Moritz, Senillosa, Kinker, Doherty
+
+## Tables, templates and topology
+
+British tradition, German Feldermodell
+
+Gaultier (1819), Becker (1830), Lonkay (1855)
+
+## Teaching the Deaf from Paris to New York
+
+Paris, Hartford, New York 
+
+## Frankfurtische Gelehrtenverein für deutsche Sprache
+
+Periodenbild, Satzbild => Dependency
+
+Roth, Breidenstein, Herling, Becker, Schmitthenner, Grotefend => Diesterweg (1830)
+
+Breidenstein, Johann Georg (1770-1847) https://mdz-nbn-resolving.de/bsb10583473 (1817: 67-75)
+
+## Grammar for a new world
+
+Diagramming
+
+Brown, Peirce, Barrett => Clark (1847)
+
+## Logic
+
+Constituency
+
+Boole, Frege => Wundt (1880)
+
+??? => Drach (1937)
