@@ -118,7 +118,12 @@ Periodenbild, Satzbild => Dependency
 
 Roth, Breidenstein, Herling, Becker, Schmitthenner, Grotefend => Diesterweg (1830)
 
-Breidenstein, Johann Georg (1770-1847) https://mdz-nbn-resolving.de/bsb10583473 (1817: 67-75)
+Breidenstein, Johann Georg (1770-1847) [@breidenstein1817: 67-75] cited by Grotefend as instigator (in first volume)
+
+1. https://mdz-nbn-resolving.de/details:bsb10583285
+2. https://mdz-nbn-resolving.de/details:bsb10583286
+3. https://mdz-nbn-resolving.de/details:bsb10583287
+4. https://mdz-nbn-resolving.de/details:bsb10583288
 
 ## Grammar for a new world
 
