@@ -522,10 +522,6 @@ Hall includes an extensive discussion of *monology* [@hall1849: 297-305], direct
 
 Check Nietz (1961) https://digital.library.pitt.edu/islandora/object/pitt%3A00aep6688m/viewer
 
-Goold Brown (1851) https://archive.org/details/grammarofenglish00browrich/
-
-p.91:  The vain pretensions of several modern simplifiers, contrivers of machines, charts, tallies, diagrams, vincula, pictures, dialogues, familiar lectures, ocular analyses, tabular compendiums, inductive exercises, productive systems, intellectual methods, and various new theories, for the purpose of teaching grammar, may serve to deceive the ignorant, to amuse the visionary, and to excite the admiration of the credulous; but none of these things has any favourable relation to that improvement which may justly be boasted as having taken place within the memory of the present generation.
-
 ### Clark (1847) *The Science of the English Language* {#sec:clark1847}
 
 Stephen W. Clark (1810-1901) was a school principal of East Bloomfield Academy and wrote the influential book *The science of the English language. A practical grammar: in which words, phrases, and sentences are classified according to their offices, and their various relations to one another. Illustrated by a complete system of diagrams.* [@clark1847] He produced revisions of this book and wrote variants for different readers up to the 1870s [e.g @clark1870, see [@mazziotta2016: 303-305 for the little that is known about Clark]. A detailed investigation of the work of Clark is available in Mazziotta [-@mazziotta2016; -@mazziotta2020a; -@mazziotta2020].

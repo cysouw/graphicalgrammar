@@ -1,3 +1,5 @@
+> The vain pretensions of several modern simplifiers, contrivers of machines, charts, tallies, diagrams, vincula, pictures, dialogues, familiar lectures, ocular analyses, tabular compendiums, inductive exercises, productive systems, intellectual methods, and various new theories, for the purpose of teaching grammar, may serve to deceive the ignorant, to amuse the visionary, and to excite the admiration of the credulous; but none of these things has any favourable relation to that improvement which may justly be boasted as having taken place within the memory of the present generation. [@brown1851: 91]
+
 # Visualising sentences
 
 ## Before Chomsky and Tesnière
