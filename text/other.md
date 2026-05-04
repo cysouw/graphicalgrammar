@@ -1976,6 +1976,7 @@ https://journals.lki.lt/bendrinekalba/article/view/2210
 Li Jinxi (1890-1978) 新著国语文法 https://en.wikipedia.org/wiki/Li_Jinxi
 
 original syntax diagrams [@jinxi1924: 118-119] Original from 1924, major revision in 1933, many reprints/new editions, at least until 2001 [@jinxi1924; @jinxi1933; @jinxi2001]
+In Marburg library there is copy of the 1933 version, specifically the 4th edition from 1934, but it is identical to the online versions of 1933. https://ubmr.hds.hebis.de/Record/HEB197908810
 
 “explanation through pictures” (tujiefa 圖解法): Chinese version of reed/kellog [cf. @mossner1960; @peverelli2015: 97-104]
 

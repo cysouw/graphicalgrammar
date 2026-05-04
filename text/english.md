@@ -218,7 +218,8 @@ second edition [@cooper1889]
 table [@cooper1891: 9]
 indentation [@cooper1891: 25]
 
-Some information on Sonnenschein and his new englich grammar: https://doi.org/10.1515/9783111633824.15
+Later more complex examples in [@sonnenschein1923], originally from 1916, specifically p.40ff
+Some information on Sonnenschein and his new english grammar: https://doi.org/10.1515/9783111633824.15
 
 ### Davidson & Alcock (1889) *English grammar and analysis*
 
