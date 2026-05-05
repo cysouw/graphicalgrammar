@@ -952,6 +952,10 @@ completely different approach, only for subordinate sentences, using trees (29-3
 
 https://archive.org/details/sentencesthinkin00foerrich
 
+expanded second edition 1923, but only the same pictures (10-11)
+
+https://google.com/books?vid=PRNC:32101072898164
+
 ### Perry & Eichmann (1920) *Grammar, Book 1-4*
 
 graphic analysis
