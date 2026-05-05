@@ -1978,7 +1978,21 @@ Li Jinxi (1890-1978) 新著国语文法 https://en.wikipedia.org/wiki/Li_Jinxi
 original syntax diagrams [@jinxi1924: 118-119] Original from 1924, major revision in 1933, many reprints/new editions, at least until 2001 [@jinxi1924; @jinxi1933; @jinxi2001]
 In Marburg library there is copy of the 1933 version, specifically the 4th edition from 1934, but it is identical to the online versions of 1933. https://ubmr.hds.hebis.de/Record/HEB197908810
 
-“explanation through pictures” (tujiefa 圖解法): Chinese version of reed/kellog [cf. @mossner1960; @peverelli2015: 97-104]
+“explanation through pictures” (圖解法 tújiě fǎ): Chinese version of reed/kellog [cf. @mossner1960; @peverelli2015: 97-104]
+
+example on extra sheet between pages 350 and 351
+
+阿 菊 的 ⽗ 親 是 給 ⼈ 家 做 零 僱 的 僕 役 的。
+⼈ 家 有 喜 事，喪 事，僱 他 去：上 賓 客 們 的 菜，伺 候 賓 客 們 的 茶 ⽔ 煙 ⽕；
+此 外 還 當 碼 頭 – 上 起 貨 落 貨 的 脚 夫。
+
+Aju's father worked as a servant for others on a small scale.
+He was hired to serve dishes and tea to guests at weddings and funerals;
+in addition, he also worked as a porter at the docks, unloading and loading cargo.
+
+Note: this example is given in the text (p. 350) slightly differently, but probably the differences are just minor oversights.
+
+also cites Foerster & Steadman (1919) on p. 360-363
 
 ### Amedeo Cracco (1951) *Grammatica della lingua cinese moderna*
 

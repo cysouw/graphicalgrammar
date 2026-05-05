@@ -946,6 +946,12 @@ not yet found [@brittain1973: 200]
 
 many examples of redd/kellog style diagrams [@edgar1915: 9-66]
 
+### Foerster & Steadman (1919) *Sentences and thinking*
+
+completely different approach, only for subordinate sentences, using trees (29-30)
+
+https://archive.org/details/sentencesthinkin00foerrich
+
 ### Perry & Eichmann (1920) *Grammar, Book 1-4*
 
 graphic analysis
