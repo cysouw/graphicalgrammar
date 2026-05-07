@@ -1971,12 +1971,17 @@ https://journals.lki.lt/bendrinekalba/article/view/2210
 
 ## Chinese
 
-### Li Jinxi (1924) *New Grammar of the National Language* 
+### Li Jinxi (1924) *New grammar of the national language* {#sec:jinxi1924}
 
-Li Jinxi (1890-1978) 新著国语文法 https://en.wikipedia.org/wiki/Li_Jinxi
+Li Jinxi (黎锦熙, 1890-1978)  https://en.wikipedia.org/wiki/Li_Jinxi teacher at the Peking Normal University in 1919, a position he has held
+until his death.
 
-original syntax diagrams [@jinxi1924: 118-119] Original from 1924, major revision in 1933, many reprints/new editions, at least until 2001 [@jinxi1924; @jinxi1933; @jinxi2001]
+新著国语文法 Original from 1924, major revision in 1933, many reprints/new editions, at least until 2001 [@jinxi1924; @jinxi1933; @jinxi2001]
 In Marburg library there is copy of the 1933 version, specifically the 4th edition from 1934, but it is identical to the online versions of 1933. https://ubmr.hds.hebis.de/Record/HEB197908810
+
+"A. Reed and associates" are mentioned [@jinxi1924: 5], a reference to the Reed/Kellog approach to diagramming, see [@sec:reedkellog1875]
+
+Separate book with general didactic issues, called 新著國語教學法 'New method for teaching the national language', includes also syntax diagrams [@jinxi1924b: 118-119] 
 
 “explanation through pictures” (圖解法 tújiě fǎ): Chinese version of reed/kellog [cf. @mossner1960; @peverelli2015: 97-104]
 
@@ -1992,13 +1997,13 @@ in addition, he also worked as a porter at the docks, unloading and loading carg
 
 Note: this example is given in the text (p. 350) slightly differently, but probably the differences are just minor oversights.
 
-also cites Foerster & Steadman (1919) on p. 360-363
+also cites Foerster & Steadman (1919) on p. 360-363 (see [@sec:foerster1919])
 
 ### Amedeo Cracco (1951) *Grammatica della lingua cinese moderna*
 
 Amedeo Cracco O.F.M. (1903-1970) 
 
-*diagrammi dell'analisi logica* = Jinxi-style analyses [@amedeo1951: 202-203, 243-245], disccussion in <https://doi.org/10.13135/1825-263X/11595>
+*diagrammi dell'analisi logica* = Jinxi-style 圖解法 tújiě fǎ [@amedeo1951: 202-203, 243-245], disccussion in <https://doi.org/10.13135/1825-263X/11595>
 
 ## Japanese
 

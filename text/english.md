@@ -686,7 +686,7 @@ revised edition with slightly different name, with diagramming like Holbrook [@b
 
 Revised edition with original name *A practical grammar* in 1879 with diagrams [@butler1879: 168-177]
 
-### Reed & Kellog (1875) *Graded lessons in English*
+### Reed & Kellog (1875) *Graded lessons in English* {#sec:reedkellog1875}
 
 https://www.letsdiagram.com
 https://natureofwriting.com/course/diagramming-sentences
@@ -945,16 +945,6 @@ not yet found [@brittain1973: 200]
 ### Edgar (1915) *Sentence analysis by diagram*
 
 many examples of redd/kellog style diagrams [@edgar1915: 9-66]
-
-### Foerster & Steadman (1919) *Sentences and thinking*
-
-completely different approach, only for subordinate sentences, using trees (29-30)
-
-https://archive.org/details/sentencesthinkin00foerrich
-
-expanded second edition 1923, but only the same pictures (10-11)
-
-https://google.com/books?vid=PRNC:32101072898164
 
 ### Perry & Eichmann (1920) *Grammar, Book 1-4*
 
@@ -1283,11 +1273,56 @@ Although Wundt's graphical analysis does not have had any direct followers (exce
 
 Alfred Dwight Sheffield (1871-1961) [@sheffield1912: 50-51] Grammar and Thinking (citing Wundt prominently) Brittain (1973:204) says “linguists seem to have been unaware of his work”. This is not true!
 
-also Alfred Dwight Sheffield [@sheffield1929: 53]
+Bio in [@subbiondo2025] Professor at Wellesley College, Massachusetts,
+
+also [@sheffield1929: 53]
 
 - Nida cites him in 1943 dissertation
 - Jespersen cites him in 1913 Sprogets Logic
 - review by Bloomfield, quite critical [@bloomfield1912]
+
+### Foerster & Steadman (1919) *Sentences and thinking* {#sec:foerster1919}
+
+Norman Foerster (1887–1972) https://aspace.lib.uiowa.edu/agents/people/557 There is no explicit link to sheffield, neither as reference nor in personal history, but the title is suggestive. In 1931 revision the title is changed to "writing and thinking"
+
+Steadman, John Marcellus, 1889-1945, listed as "associated professor of English, Emory university", but no further information found. short obituary https://www.nytimes.com/1945/12/22/archives/dr-jm-steadman-educator-author-professor-emeritus-of-english-at.html
+
+completely different approach, only for subordinate sentences, using trees [@foerster1919: 29-30]
+
+expanded second edition 1923, but only the same pictures (10-11) https://google.com/books?vid=PRNC:32101072898164
+revision 1931 with different title "writing and thinking", still no further development of pictures
+
+::: ex
+- It stood there looking at a bright pebble, and it didn't move at all, and it seemed doomed, and we were filled with horror, and some of us turned pale as death, but suddenly we saw a man in a dark doorway, and he had doubtless been there right along, but we hadn't noticed him before, and he came out like a flash, and he blocked the way, and it was Martin. 
+- Standing there looking at a pebble, quite motionless, and apparently doomed, the child filled us with such horror that some of
+us turned pale as death; but suddenly we saw a man in a dark doorway, whom we hadn't noticed before (though he had doubt-
+less been there right along) and who, coming out like a flash, blocked the way – it was Martin!
+:::
+
+(1) The child filled us with horror.
+(2) Suddenly we saw a man in a dark doorway.
+(3) It was Martin.
+
+to (1): 
+(a) Standing there looking at a pebble.
+(b) Quite motionless.
+(c) Apparently doomed.
+(d) Such that some of us turned pale as death.
+to (2):
+(a) Whom we hadn't noticed before.
+(b) Though he had doubtless been there right along.
+(c) Coming out like a flash.
+(d) Who blocked the way.
+
+::: {.im #foerster1919_30}
+Tree analysis of [@last b] from Foerster & Steadman [-@foerster1919: 30]. The representation of the syntactical structure is rather coarse and uninformative. It is unclear why they didn't more accurately depict the structure of the sentence. For example, the clause 3 could have easily be moved to the right side and the subordinate branches could be added to the left or right depending on their relative order to the main clause. More interesting even would have been if secondary subordinations, like (2b), would have been depicted as secondary branches.
+:::
+
+The example is quote verbatim in –of all places– a Chinese grammar by Li Jinxi [-@jinxi1924: 361], see [@sec:jinxi1924].
+
+::: {.im #jinxi1924_361}
+Same tree analysis as in the previous [@fig:foerster1919_30] from a Chinese grammar by Jinxi [-@jinxi1924: 361]. The complete example from Foerster & Steadman is quoted verbatim in this grammar over multiple pages, but the picture is completely overhauled and much improved. The ordering now correctly reflects the original sentence, and even multiple subordination is correctly analysed. Even the linking between the three main branches appears to be reflected in small graphical flourishes. The Chinese caption reads: '(Figure 7) illustrates the structure of the complex sentence mentioned above' This is exactly the caption from the original.
+:::
 
 ### Sapir (1921) *Language* {#sec:sapir1921}
 
