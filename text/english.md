@@ -1283,45 +1283,45 @@ also [@sheffield1929: 53]
 
 ### Foerster & Steadman (1919) *Sentences and thinking* {#sec:foerster1919}
 
-Norman Foerster (1887–1972) https://aspace.lib.uiowa.edu/agents/people/557 There is no explicit link to sheffield, neither as reference nor in personal history, but the title is suggestive. In 1931 revision the title is changed to "writing and thinking"
+Norman Foerster (1887–1972) taught English at various universities (Wisconsin, North Carolina, Iowa and Duke). In contrast, John M. Steadman (1889-1945) taught at Emory University for his whole career.^[Some minimal biographical information about Foerster is available at <https://aspace.lib.uiowa.edu/agents/people/557>. Likewise minimal is the information that I have been able to find about Steadman, being a short obituary from the New York Times, available at <https://www.nytimes.com/1945/12/22/archives/dr-jm-steadman-educator-author-professor-emeritus-of-english-at.html>, both accessed 7 May 2026.] Together they wrote the book *Sentences and thinking* [@foerster1919], which is predominantly a guide to creative writing, but also contains a small part about grammatical structure. There appears to be no direct link to Sheffield's *Grammar and thinking* (see [@sec:sheffield1912]), neither through explicit references nor through their personal histories. The similarity in titles suggests there may have been some influence from Sheffield's book. Foerster and Steadman's book appears to have been reasonably successful, revised thoroughly in 1923 and again in 1931. The last revision was retitled *Writing and thinking*. The grammatical section remained unchanged across these revisions.
 
-Steadman, John Marcellus, 1889-1945, listed as "associated professor of English, Emory university", but no further information found. short obituary https://www.nytimes.com/1945/12/22/archives/dr-jm-steadman-educator-author-professor-emeritus-of-english-at.html
+In the short grammatical section, Foerster & Steadman [-@foerster1919: 29-30] use the tree-metaphor to explain different kinds of sentence structure, as shown in [@fig:foerster1919_29]. They focus solely on the relationship of main and subordinate clauses (like in the German tradition of the *Periodenbild*), ignoring the internal structure of the individual clauses.
 
-completely different approach, only for subordinate sentences, using trees [@foerster1919: 29-30]
+::: {.im #foerster1919_29}
+Illustrations of different kinds of sentence structure from Foerster & Steadman [-@foerster1919: 29]. These illustrations are purely theoretical. These trees do not represent the structure of any concrete example sentences.
+:::
 
-expanded second edition 1923, but only the same pictures (10-11) https://google.com/books?vid=PRNC:32101072898164
-revision 1931 with different title "writing and thinking", still no further development of pictures
+As an illustration of these different kinds of sentence structure they discuss an example sentence, shown here in [@next]. They present two versions of this sentence, the first one being a basic enumeration [@next a], while the second has a more intricate grammatical structure with different kinds of subordination [@next b]. They explain their preference for the second version by expanding on the tree-metaphor:
+
+> We do not want piles of dead logs, but living trees. Our sentences should not be built mechanically; they should grow, as organisms grow. A sentence may contain […] many constituent thoughts, but of these thoughts perhaps one will stand out as the main thought (the trunk), which divides into several subordinate thoughts (large branches), which again divide into subordinate thoughts (small branches), etc. [@foerster1919: 29]
 
 ::: ex
 - It stood there looking at a bright pebble, and it didn't move at all, and it seemed doomed, and we were filled with horror, and some of us turned pale as death, but suddenly we saw a man in a dark doorway, and he had doubtless been there right along, but we hadn't noticed him before, and he came out like a flash, and he blocked the way, and it was Martin. 
-- Standing there looking at a pebble, quite motionless, and apparently doomed, the child filled us with such horror that some of
-us turned pale as death; but suddenly we saw a man in a dark doorway, whom we hadn't noticed before (though he had doubt-
-less been there right along) and who, coming out like a flash, blocked the way – it was Martin!
+- Standing there looking at a pebble, quite motionless, and apparently doomed, the child filled us with such horror that some of us turned pale as death; but suddenly we saw a man in a dark doorway, whom we hadn't noticed before (though he had doubtless been there right along) and who, coming out like a flash, blocked the way – it was Martin!
 :::
 
-(1) The child filled us with horror.
-(2) Suddenly we saw a man in a dark doorway.
-(3) It was Martin.
+For the analysis, Foerster & Steadman notice that the sentence consists of three main statements and eight subsidiary ones, as listed below. Actually, the statement (1a) below clearly consists of two statements (i.e. *standing there* and *looking at a pebble*), which are unexplicably not separated. They propose a graphical analysis of the structure of their preferred version [@last b], as shown in [@fig:foerster1919_30], which corresponds to a "highly developed compound sentence" from [@fig:foerster1919_29]. Unfortunately, this illustration only approximately represents the subordinate grammatical structure of the sentence. Neither the order of clauses, nor their relative subordination is represented in the diagram.
 
-to (1): 
-(a) Standing there looking at a pebble.
-(b) Quite motionless.
-(c) Apparently doomed.
-(d) Such that some of us turned pale as death.
-to (2):
-(a) Whom we hadn't noticed before.
-(b) Though he had doubtless been there right along.
-(c) Coming out like a flash.
-(d) Who blocked the way.
+1. The child filled us with horror.
+    a. Standing there looking at a pebble.
+    b. Quite motionless.
+    c. Apparently doomed.
+    d. Such that some of us turned pale as death.
+2. Suddenly we saw a man in a dark doorway.
+    a. Whom we hadn't noticed before.
+    b. Though he had doubtless been there right along.
+    c. Coming out like a flash.
+    d. Who blocked the way.
+3. It was Martin.
 
 ::: {.im #foerster1919_30}
-Tree analysis of [@last b] from Foerster & Steadman [-@foerster1919: 30]. The representation of the syntactical structure is rather coarse and uninformative. It is unclear why they didn't more accurately depict the structure of the sentence. For example, the clause 3 could have easily be moved to the right side and the subordinate branches could be added to the left or right depending on their relative order to the main clause. More interesting even would have been if secondary subordinations, like (2b), would have been depicted as secondary branches.
+Tree diagram of [@last b] from Foerster & Steadman [-@foerster1919: 30]. The representation of the syntactical structure is rather coarse and uninformative. It is unclear why they did not more accurately depict the structure of the sentence. For example, the clause 3 could have easily be moved to the right side and the subordinate branches could be added to the left or right depending on their relative order to the main clause. More interesting even would have been if secondary subordinations, like (2b), would have been depicted as secondary branches.
 :::
 
-The example is quote verbatim in –of all places– a Chinese grammar by Li Jinxi [-@jinxi1924: 361], see [@sec:jinxi1924].
+The example is quote verbatim in –of all places– a Chinese grammar by Li Jinxi [-@jinxi1924: 361], see [@sec:jinxi1924]. Although the example is analysed exactly as it is described by Foerster & Steadman, the picture is completely redone by Li Jinxi and now more accurately reflects the grammatical structure, as shown in [@fig:jinxi1924_361]. The subordinate clause (1a) is still treated as a single clause, but the order and the relative subordination of the clauses is now faithfully represented by the illustration.
 
 ::: {.im #jinxi1924_361}
-Same tree analysis as in the previous [@fig:foerster1919_30] from a Chinese grammar by Jinxi [-@jinxi1924: 361]. The complete example from Foerster & Steadman is quoted verbatim in this grammar over multiple pages, but the picture is completely overhauled and much improved. The ordering now correctly reflects the original sentence, and even multiple subordination is correctly analysed. Even the linking between the three main branches appears to be reflected in small graphical flourishes. The Chinese caption reads: '(Figure 7) illustrates the structure of the complex sentence mentioned above' This is exactly the caption from the original.
+Same tree analysis as in the previous [@fig:foerster1919_30] from a Chinese grammar by Jinxi [-@jinxi1924: 361]. The complete example from Foerster & Steadman is quoted verbatim in this grammar over multiple pages, but the picture is completely overhauled and much improved. The ordering of the main clauses (indicated by numbers) now correctly reflects the original sentence, and multiple subordination is correctly analysed. Even the linking between the three main branches appears to be reflected in small graphical flourishes. The Chinese caption reads: '(Figure 7) illustrates the structure of the complex sentence mentioned above' This is exactly the caption from the original.
 :::
 
 ### Sapir (1921) *Language* {#sec:sapir1921}
