@@ -258,7 +258,7 @@ example p. 162, 167 (only later editions), 186
 
 He knew about Hansen, but never cited it. acknowledgement in 1964 Festschrift for Hansen [@diderichsen1966: 364].
 
-### Rehling (1951) *Det danske Sprog*
+### Rehling (1951) *Det danske Sprog* {#sec:rehling1951}
 
 Erik Johan Gerhard Rehling (1890-1978) https://biografiskleksikon.lex.dk/Erik_Rehling
 
@@ -450,11 +450,9 @@ Templatic table for German sentence structure from Lonkay [-@lonkay1855: 175]. T
 
 ### Brassai (1873) *Paraleipomena kai diorthoumena* {#sec:brassai1873}
 
-see also <https://aclanthology.org/2021.depling-1.6/> about rejection of subject-predicate dichotomy by Brassai.
-
 Sámuel Brassai (1800-1897) was a polymath in the Austro-Hungarian empire, who worked most of his life at the university of Klausenburg (today Cluj, Rumania). He published in Hungarian about a wide variety of subjects, including linguistics [more details about his linguistic work in @imrenyi2020a].
 
-Of particular interest is his *Paraleipomena kai diorthoumena. A mit nem mondtak s a mit roszul mondtak a commentatorok Virg. Aeneise II. könyvére* 'Omissions and corrections: What was not said and what was wrongly said by the commentators on Book II of Virgil's Aeneid' [@brassai1873]. As the title clearly states, this book is a discussion of classical literature. The graphical analyses are inside a (long) footnote, explaining that adverbial modifiers can have different interpretations, depending on which word they modify. The graphical illustrations are thus only used as an aside, it is not the central topic of the discussion at all.
+Of particular interest in the present context is his *Paraleipomena kai diorthoumena. A mit nem mondtak s a mit roszul mondtak a commentatorok Virg. Aeneise II. könyvére* 'Omissions and corrections: What was not said and what was wrongly said by the commentators on Book II of Virgil's Aeneid' [@brassai1873]. As the title clearly states, this book is a discussion of classical literature. The graphical analyses are inside a (long) footnote, explaining that adverbial modifiers can have different interpretations, depending on which word they modify. The graphical illustrations are thus only used as an aside, it is not the central topic of the discussion at all.
 
 To exemplify the problem of adverbial modification, Brassai chooses a sentence rather randomly from classical literature, ending up with a sentence from Ovid, shown here in [@next a] with a poetic translation in [@next b]. Ovid's sentence structure is infamous for being particularly unwieldy. Out of context, the adverbial phrase *imbre per indignas usque cadente genas* 'a shower (of tears) falling on innocent cheeks' could either modify the verb *tenebat* 'she held him' ([@fig:brassai1873_7] I), the accusative *flentem* 'the weeping one' ([@fig:brassai1873_7] II) or the nominative *uxor flens* 'wife weeping' ([@fig:brassai1873_7] III). Brassai uses the images to explain the structural difference between these possibilities.
 
@@ -467,12 +465,11 @@ To exemplify the problem of adverbial modification, Brassai chooses a sentence r
 *Schemaja* from Brassai [-@brassai1873: 7-8] of the examples sentence in [@last a]. With these graphics, Brassai explains that the adverbial phrase *imbre per indignas usque cadente genas* 'a shower (of tears) falling on innocent cheeks' could be interpreted in different ways, modifying different elements of the sentence. The Latin structure does not tell which is the right interpretation, it has to be decided from context.
 :::
 
-Brassai uses a similar graphic later in his book [@brassai1873: 37], also in a footnote. There he calls his graphic a *schemaja*. It is unclear where the inspiration for this graphical display originates. Imrényi & Vladár [-@imrenyi2020a: 166-169] propose that it is Brassai's own interpretation of Priscian, with possibly an influence from Billroth (cf. [@sec:billroth1832]). Particularly noteworthy is the verb-centric display, which is not previously attested. Brassai appears to be the first to use such an analysis. The next author to use rather similar looking graphical displays is Kern (cf. [@sec:kern1883]), but there is no evidence that Kern knew about Brassai's graphical analysis.
+Brassai uses a similar graphic later in his book [@brassai1873: 37], also in a footnote. There he calls his graphic a *schemaja*. It is unclear where the inspiration for this graphical display originates. Imrényi & Vladár [-@imrenyi2020a: 166-169] propose that it is Brassai's own interpretation of Priscian, with possibly an influence from Billroth (cf. [@sec:billroth1832]). There is no direct evidence that Brassai was aware of Billroth's work [@imrenyi2021: 61], but the line diagrams are suspiciously similar. Particularly noteworthy is the verb-centric display, which he develops in the 1860s as a better representation of the Hungarian sentence structure [@imrenyi2021]. Brassai appears to be the first to use such an analysis. The next author to use rather similar looking graphical displays is Kern (cf. [@sec:kern1883]), but there is no evidence that Kern knew about Brassai's graphical analysis.
 
-Note: metaphor of solar system (cf. Hansen in [@sec:hansen1933]):
+A different metaphor proposed by Brassai is to compare the structure of a sentence to a solar system with the sun in the centre. Brassai does not use this metaphor for any visual display. Independently, this approach is used for the graphical analysis of sentences by Hansen (see [@sec:hansen1933]) and in much detail by Rehling (see [@sec:rehling1951]).
 
-> Szerintem t.i. abban a rendszerben, a mit "mondat<"-nak (Satz, phrase) neveznek, a nap – az uralkodó középpont, az ige. Ez vonzza a körülte keringö s forgó planétákat, melyeket a nyelvtanok Subject, Atribut, Object, Umstandswort, s ki tudja még hány különbözö nevek alatt
-tárgyalnak, s a melyeket mindnyájokat én a "határozó" rovatfogalom alá húzok. És méltán, mert syntactikai tekintetböl épen semmi különbség sincs köztük. Egy igazán szabatos mondatban egyikök sem elébbvaló, egyikök sem lényegesebb, egyikök sem nélkülözhetlenebb, mint akármelyik másik. A határozók ismét holdakat vonzanak és vezetnek magok körül *jelzők* képében, melyek megint különbféle alakokban jelennek meg; de azért, mint határozók határzói, syntactice mind egyneműek. [@brassai1873: 5-6]
+> Szerintem t.i. abban a rendszerben, a mit "mondat<"-nak (Satz, phrase) neveznek, a nap – az uralkodó középpont, az ige. Ez vonzza a körülte keringö s forgó planétákat, melyeket a nyelvtanok Subject, Atribut, Object, Umstandswort, s ki tudja még hány különbözö nevek alatt tárgyalnak, s a melyeket mindnyájokat én a "határozó" rovatfogalom alá húzok. És méltán, mert syntactikai tekintetböl épen semmi különbség sincs köztük. Egy igazán szabatos mondatban egyikök sem elébbvaló, egyikök sem lényegesebb, egyikök sem nélkülözhetlenebb, mint akármelyik másik. A határozók ismét holdakat vonzanak és vezetnek magok körül *jelzők* képében, melyek megint különbféle alakokban jelennek meg; de azért, mint határozók határzói, syntactice mind egyneműek. [@brassai1873: 5-6]
 >
 > 'I think, for example, that in the system called "sentence" (Satz, phrase), the sun is the dominant center, the verb. This attracts the planets that orbit and revolve around it, which grammarians discuss under the heading of Subject, Attribute, Object, Umstandswort, and who knows how many other different names, and which I bring all under the heading of "dependent". And rightly so, because from a syntactic point of view there is absolutely no difference between them. In a truly correct sentence, none of them is more important, none of them is more indispensable than any other. The dependents again attract and govern moons around themselves in the form of attributes, which again appear in different forms; but nevertheless, as dependents of dependents, they are all syntactically of the same kind.'
 
@@ -720,6 +717,8 @@ Tesniere knew about Fry [@fry1925], documented in [@mazziotta2024], uses numbers
 Petit grammaire russe with trees more like Kern, look very modern [@tesniere1934a: 162]
 
 precursor of Elements: [@tesniere1953]
+
+Direct line from Tesnière to computational usage of dependency grammar via Machine Translation and David Glenn Hays (1928-1995) https://en.wikipedia.org/wiki/David_G._Hays, specifically 1964: https://doi.org/10.2307/411934. See also https://api.pageplace.de/preview/DT0400.9789027283719_A24760940/preview-9789027283719_A24760940.pdf
 
 ### Bologne (1935) *Analyse grammaticale* {#sec:bologne1935}
 
