@@ -33,6 +33,8 @@ Yet, also from the very start the graphical methods were also used to clarify li
 
 Previous studies into the history of graphical grammar: [@gelbe1880; @arens1902; @grosse1966; @brittain1973; @percival1976; @baum1976: 36-42; @coseriu1980; @forsgren1992; @thummel1993; @seuren1998: 219-227; @franzkowiak2013; @seuren2015] 
 
+[@hiersche1979] based on Happ (1976)
+
 Other studies on graphics in linguistic analysis: [@bubenhofer2020; @zeige2025; @evenezra2021; @roggenbuck1999; @roggenbuck2005: Ch. 6 on history of Tesniere/Bloomfield/Chomsky; @roggenbuck2008]
 
 Sutdies on graph structures in linguistics [@zierer1970; @gavare1972; @stewart1976]

@@ -1972,17 +1972,11 @@ https://journals.lki.lt/bendrinekalba/article/view/2210
 
 ### Li Jinxi (1924) *New grammar of the national language* {#sec:jinxi1924}
 
-Li Jinxi (黎锦熙, 1890-1978)  https://en.wikipedia.org/wiki/Li_Jinxi teacher at the Peking Normal University in 1919, a position he has held
-until his death.
+Li Jinxi (黎锦熙, 1890-1978) became a professor at the Peking Normal University in 1919, a position he has held until his death. He does not appear to have ever left China, but his linguistic work is strongly influenced by the diagramming tradition from the USA. A short description of his linguistic work and the relation to other Chinese approaches to syntax is given by Peverelli [-@peverelli2015: 97-104].^[Some bBasic biographical information about Li Jinxi is available at <https://en.wikipedia.org/wiki/Li_Jinxi>, accessed 17 May 2026.]
 
-新著国语文法 Original from 1924, major revision in 1933, many reprints/new editions, at least until 2001 [@jinxi1924; @jinxi1933; @jinxi2001]
-In Marburg library there is copy of the 1933 version, specifically the 4th edition from 1934, but it is identical to the online versions of 1933. https://ubmr.hds.hebis.de/Record/HEB197908810
+In 1924 Li Jinxi publishes two books with similar titles. One is called *New method for teaching the national language* (新著國語教學法, *Xīnzhe guóyǔ jiàoxué fǎ*), which is a general didactic outline for teaching Chinese. It includes a short section on using graphical displays for grammatical analysis [@jinxi1924b: 118-119], but refers to the other book for a full description of this approach.
 
-"A. Reed and associates" are mentioned [@jinxi1924: 5], a reference to the Reed/Kellog approach to diagramming, see [@sec:reedkellog1875]
-
-Separate book with general didactic issues, called 新著國語教學法 'New method for teaching the national language', includes also syntax diagrams [@jinxi1924b: 118-119] 
-
-“explanation through pictures” (圖解法 tújiě fǎ): Chinese version of reed/kellog [cf. @mossner1960; @peverelli2015: 97-104]
+The other book is called *New grammar of the national language* (新著国语文法, *Xīnzhe guóyǔ wénfǎ*). The original is from 1924 [@jinxi1924], with a revision in 1933 [@jinxi1933]. There are many reprints and new editions since then, I have even found a version dated to 2001 [@jinxi2001]. This book contains an extensive description of Li Jinxi's graphical approach, called "diagram-solving method" (圖解法, *tújiě fǎ*). In the introduction he mentions "A. Reed and associates" [@jinxi1924: 5], a reference to the Reed/Kellog approach to diagramming, see [@sec:reedkellog1875]. Outside of China, the work of Li Jinxi does not appear to have had much impact. The graphical method is used in a Chinese grammar written in Italian (see [@sec:amedeo1951]), and it is mentioned in a short article by Mossner [- @mossner1960].
 
 example on extra sheet between pages 350 and 351
 
@@ -1996,9 +1990,9 @@ in addition, he also worked as a porter at the docks, unloading and loading carg
 
 Note: this example is given in the text (p. 350) slightly differently, but probably the differences are just minor oversights.
 
-also cites Foerster & Steadman (1919) on p. 360-363 (see [@sec:foerster1919])
+Aside from this diagramming method, Li Jinxi [-@jinxi1924: 360-363] also verbatim quotes another graphical approach to syntactic analysis from the United States, this time from Foerster & Steadman [@foerster1919: 29-30]. This section is just a few pages long, and it concerns a single example as discussed by Foerster & Steadman. Although Li Jinxi does not change the example at all, he does improve the graphical display (see [@sec:foerster1919]).
 
-### Amedeo Cracco (1951) *Grammatica della lingua cinese moderna*
+### Amedeo Cracco (1951) *Grammatica della lingua cinese moderna* {#sec:amedeo1951}
 
 Amedeo Cracco O.F.M. (1903-1970) 
 
