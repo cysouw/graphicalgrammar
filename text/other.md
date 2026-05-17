@@ -1972,25 +1972,37 @@ https://journals.lki.lt/bendrinekalba/article/view/2210
 
 ### Li Jinxi (1924) *New grammar of the national language* {#sec:jinxi1924}
 
-Li Jinxi (黎锦熙, 1890-1978) became a professor at the Peking Normal University in 1919, a position he has held until his death. He does not appear to have ever left China, but his linguistic work is strongly influenced by the diagramming tradition from the USA. A short description of his linguistic work and the relation to other Chinese approaches to syntax is given by Peverelli [-@peverelli2015: 97-104].^[Some bBasic biographical information about Li Jinxi is available at <https://en.wikipedia.org/wiki/Li_Jinxi>, accessed 17 May 2026.]
+Li Jinxi (黎锦熙, 1890-1978) became professor at the Peking Normal University in 1919, a position he held until his death. He does not appear to have ever left China, but his linguistic work is strongly influenced by the diagramming tradition from the USA. A short description of his linguistic work and the relation to other Chinese approaches to syntax is given by Peverelli [-@peverelli2015: 97-104].^[Some bBasic biographical information about Li Jinxi is available at <https://en.wikipedia.org/wiki/Li_Jinxi>, accessed 17 May 2026.]
 
-In 1924 Li Jinxi publishes two books with similar titles. One is called *New method for teaching the national language* (新著國語教學法, *Xīnzhe guóyǔ jiàoxué fǎ*), which is a general didactic outline for teaching Chinese. It includes a short section on using graphical displays for grammatical analysis [@jinxi1924b: 118-119], but refers to the other book for a full description of this approach.
+In 1924 Li Jinxi published two books with similar titles. One is called *New method for teaching the national language* (新著國語教學法, *Xīnzhe guóyǔ jiàoxué fǎ*), which is a general didactic outline for teaching Chinese. It includes a short section on using graphical displays for grammatical analysis [@jinxi1924b: 118-119], but Li Jinxi refers to the other book for a full description of this approach.
 
-The other book is called *New grammar of the national language* (新著国语文法, *Xīnzhe guóyǔ wénfǎ*). The original is from 1924 [@jinxi1924], with a revision in 1933 [@jinxi1933]. There are many reprints and new editions since then, I have even found a version dated to 2001 [@jinxi2001]. This book contains an extensive description of Li Jinxi's graphical approach, called "diagram-solving method" (圖解法, *tújiě fǎ*). In the introduction he mentions "A. Reed and associates" [@jinxi1924: 5], a reference to the Reed/Kellog approach to diagramming, see [@sec:reedkellog1875]. Outside of China, the work of Li Jinxi does not appear to have had much impact. The graphical method is used in a Chinese grammar written in Italian (see [@sec:amedeo1951]), and it is mentioned in a short article by Mossner [- @mossner1960].
+The other book is called *New grammar of the national language* (新著国语文法, *Xīnzhe guóyǔ wénfǎ*). The original is from 1924 [@jinxi1924], with a revision in 1933 [@jinxi1933]. There have been many reprints and new editions since then. The most recent version that I have found dates to 2001 [@jinxi2001]. This book contains an extensive description of Li Jinxi's graphical approach, called "diagram-solving method" (圖解法, *tújiě fǎ*). In the introduction he mentions "A. Reed and associates" [@jinxi1924: 5], a reference to the Reed/Kellog approach to diagramming, see [@sec:reedkellog1875]. Outside of China, the work of Li Jinxi does not appear to have had much impact. The graphical method is used in a Chinese grammar written in Italian (see [@sec:amedeo1951]), and it is mentioned in a short article by Mossner [-@mossner1960].
 
-example on extra sheet between pages 350 and 351
+The graphical analysis of Li Jinxi is a direct adaption of the Reed/Kellog approach to diagramming (see [@sec:reedkellog1875]). There are dozens of examples of every more complex constructions in the book. Shown below in [@fig:jinxi1933_350] is a small excerpt from a large fold-out sheet inserted between pages 350 and 351 for the example in [@next]. The example consists of three phrases, which are linked in the diagram with vertical dotted lines. The encircled numbers in the graphic are references to explanations about the structure in the book.
 
-阿 菊 的 ⽗ 親 是 給 ⼈ 家 做 零 僱 的 僕 役 的。
-⼈ 家 有 喜 事，喪 事，僱 他 去：上 賓 客 們 的 菜，伺 候 賓 客 們 的 茶 ⽔ 煙 ⽕；
-此 外 還 當 碼 頭 – 上 起 貨 落 貨 的 脚 夫。
+::: ex
+a.
+|
+| 阿菊 的 ⽗親 是 給 ⼈家 做 零僱 的 僕役 的。
+| aju DE father be for household work job DE servant DE
+| Aju's father worked as a servant for others on a small scale.
+b.
+|
+| ⼈家 有 喜事, 喪‍事, 僱 他 去: 上 賓客 們 的 菜, 伺候 賓客 們 的 茶‍⽔ 煙‍⽕；
+| household have wedding funeral hire him go serve guest PL DE food attend guest PL DE tea tobacco
+| he was hired to serve food and tea and tobacco to guests at weddings and funerals;
+c.
+|
+| 此外 還 當 碼頭 上 起貨 落貨 的 脚夫。
+| besides also work dock at load unload DE porter
+| in addition, he also worked as a porter at the docks, loading and unloading.
+:::
 
-Aju's father worked as a servant for others on a small scale.
-He was hired to serve dishes and tea to guests at weddings and funerals;
-in addition, he also worked as a porter at the docks, unloading and loading cargo.
+::: {.im #jinxi1933_350}
+*Tújiě fǎ* for the example in [@last] from Li [-@jinxi1924] from a fold-out sheet added between pages 350 and 351. The image shown here is from the revised version [@jinxi1933] because of better image quality, but there are no changes between the versions.
+:::
 
-Note: this example is given in the text (p. 350) slightly differently, but probably the differences are just minor oversights.
-
-Aside from this diagramming method, Li Jinxi [-@jinxi1924: 360-363] also verbatim quotes another graphical approach to syntactic analysis from the United States, this time from Foerster & Steadman [@foerster1919: 29-30]. This section is just a few pages long, and it concerns a single example as discussed by Foerster & Steadman. Although Li Jinxi does not change the example at all, he does improve the graphical display (see [@sec:foerster1919]).
+Aside from this diagramming method, Li Jinxi [-@jinxi1924: 360-363] also verbatim quotes another graphical approach to syntactic analysis from the United States, this time from Foerster & Steadman [-@foerster1919: 29-30]. This section is just a few pages long, and it concerns a single example as discussed by Foerster & Steadman. Although Li Jinxi does not change the example at all, he does improve the graphical display (see [@sec:foerster1919] for a comparison of the graphics).
 
 ### Amedeo Cracco (1951) *Grammatica della lingua cinese moderna* {#sec:amedeo1951}
 
