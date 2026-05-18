@@ -157,6 +157,8 @@ Morell [@morell1857; @morell1852] is based on Becker 1829! But simplifies into t
 
 table p24-25, complex sentence p41
 
+cites Abraham Heussler, born July 1, 1803, who passed away on September 22, 1855. He served as the Rector of the Girls' School (Rektor der Töchterschule), 1827 Lehrer an der Mädchengemeindeschule St. Theodor, 1837 Lehrer am Gymnasium, 1839 Dr. phil., 1843 Rektor der Töchterschule Basel. *Kurzer Abriss der deutschen Sprachlehre*, fifth edition from 1870 https://google.com/books?id=oLyBMxfJDTYC no graphics
+
 ### Lennie & Nutall (1863) *The principles of English grammar*
 
 revision of 1810 original by Lennie with expanded analysis of sentence by Nutall, p. 120-123
@@ -164,22 +166,6 @@ revision of 1810 original by Lennie with expanded analysis of sentence by Nutall
 https://google.com/books?id=2MQDAAAAQAAJ
 
 not in Lennie (1815) https://google.com/books?id=RgphAAAAcAAJ
-
-### Dalgleish (1866) *grammatical analysis*
-
-Probably this person: https://en.wikipedia.org/wiki/Walter_Scott_Dalgleish
-
-this is third edition! https://google.com/books?id=tmsCAAAAQAAJ american edition from 1869 seems to be identical https://www.google.de/books/edition/Grammatical_Analysis/BMhHAQAAMAAJ
-
-complex sentences like Lehmann/Meiklejohn? p. 25, 38, 51
-
-Key to the book above, with many more example: https://www.google.de/books/edition/Key_to_Grammatical_analysis/k8MDAAAAQAAJ
-
-*Outlines of English grammar and analysis* https://google.com/books?id=_WsCAAAAQAAJ tables p. 67, 72, 75
-
-https://www.google.de/books/edition/Introductory_Text_book_of_English_Compos/nKEDAAAAQAAJ 1867: no graphics, but letter-based analysis of complex clauses
-
-There are more grammar books by him! e.g. https://www.google.de/books/edition/The_progressive_English_grammar_With_Key/sGwCAAAAQAAJ
 
 ### Swinton (1872) *A progressive grammar of the English tongue*
 
@@ -1019,16 +1005,23 @@ Later "flow charts", introduced in [@hall1964: 206-207], much further developed 
 
 thanks to richard hudson for pointing this out. Doherty is Irish?!
 
+### Alexander Bain (1863) *An English grammar*
+
+https://en.wikipedia.org/wiki/Alexander_Bain_(philosopher)
+
+::: {.im #bain1863_168}
+*Symbolic expression* of a complex sentence from Bain [@bain1863: 168].
+:::
+
+superscript numbers? maybe Bauer, but not cited.
+
 ### Meiklejohn (1862) *An easy English grammar for beginners*
 
-John Miller Dow Meiklejohn (1830-1902) was a prolific textbook author and in 1876 became the first professor of education in Great Brittain, at the University of St. Andrews. A detailed account of his life and work is provided by Graves [-@graves2004; -@graves2008]
+John Miller Dow Meiklejohn (1830-1902) was a prolific textbook author and in 1876 became the first professor of education in Great Brittain, at the University of St. Andrews. A detailed account of his life and work is provided by Graves [-@graves2004; -@graves2008]. Meiklejohn's birthday is widely listed as 1836, for example in the *Oxford Dictionary of National Biography* [@montmorency2004], but Graves [-@graves2008: 11] argues that this is an error. Meiklejohn published an enormous number of different textbooks for use in schools [@graves2008: 58-56, 91-109, see also 132-137 for a full list of his publications], partly because his income at St. Andrews was not very high [@graves2008: 50-51, 121]. Many of the books published under his name were probably researched and written by other people, while Meiklejohn had the editorial control [@graves2008: 63].
 
-https://en.wikipedia.org/wiki/John_Meiklejohn
+Before his tenure at St. Andrews Meiklejohn already had published a four-volume grammatical textbook, *An easy English grammar for beginners*, published between 1862 and 1866. The first volume deals with the morphological structure of words and does not contain any graphical analyses [@meiklejohn1862a]. The second volume deals with sentences and it contains a single example of graphical syntax, as shown in [@fig:meiklejohn1862_20], analysing the structure of the sentence [@next a]. This graphical approach is clearly inspired by Clark (see [@sec:clark1847]). Meiklejohn does not cite Clark, but he was in Washington, DC, as a private tutor in the years 1853-1854 [@graves2008: 13-14], so he would have ample opportunity to come across the works of Clark.
 
-*An easy English grammar for beginners*, four volumes published 1862-1866. 
-
-- Book one is only morphology [@meiklejohn1862a]
-- "parsing" in book three is just word-based [@meiklejohn1864: 35-40]
+In the third volume of the *Easy English grammar* contains a discussion of parsing, but without any tables or graphics [@meiklejohn1864: 35-40].
 - table in book four [@meiklejohn1866: 9]
 - "formula" with letters like Lehmann, but format seems most similar to Bauer 1850 (meiklejohn uses a/b/c for adjectival/adverbial/noun=relative/adverbial/complement, note Bauer uses a/b/c for noun/adjective/adverb, respectively...) [@meiklejohn1866: 10-12], 
 - various options for analysis [@meiklejohn1866: 65-73], specifically note the tree-structure [@meiklejohn1866: 73]
@@ -1038,10 +1031,8 @@ https://en.wikipedia.org/wiki/John_Meiklejohn
 - [A]{.grey} The gardener, [*a (s)*]{.grey} who is engaged at Mr. Mann's, [A]{.grey} sold the fruit, [*a (o)*]{.grey} which was not quite ripe, [*b*]{.grey} when the market was over.
 :::
 
-Meiklejohn does not cite Clark, but he was in Washington, DC, as a private tutor in the years 1853-1854 [@graves2008: 13-14], so he would have ample opportunity to come across the works of Clark.
-
 ::: {.im #meiklejohn1862_20}
-Illustration for [@last a] from Meiklejohn [-@meiklejohn1862: 20]. This graphic seems very likely to be inspired by the diagrams from Clark (see [@sec:clark1847]).
+Illustration for [@last a] from Meiklejohn [-@meiklejohn1862: 20]. This graphical approach seems very likely to be inspired by the diagrams from Clark (see [@sec:clark1847]).
 :::
 
 Meiklejohn does not cite Bauer, but he was very proficient in German form an early age on [@graves2008: 12-13]. At 25 years of age Meiklejohn translated Kant's *Critique of pure reason* into English [@graves2008: 12-17]. Given this background, it would not be surprising that he ran across a book with the pertinent title *Grundzüge der neuhochdeutschen Grammatik* [@bauer1850].
@@ -1148,6 +1139,24 @@ And the great deluge still had left it green;
 ::: {.im #meiklejohn1890_160}
 [@meiklejohn1890: 160]
 :::
+
+### Dalgleish (1866) *grammatical analysis*
+
+Walter Scott Dalgleish (1834-1897) Probably this person: https://en.wikipedia.org/wiki/Walter_Scott_Dalgleish
+
+this is third edition! https://google.com/books?id=tmsCAAAAQAAJ american edition from 1869 seems to be identical https://www.google.de/books/edition/Grammatical_Analysis/BMhHAQAAMAAJ
+
+cites Morell (p.4)
+
+complex sentences like Lehmann/Meiklejohn? p. 25, 38, 51
+
+Key to the book above, with many more example: https://www.google.de/books/edition/Key_to_Grammatical_analysis/k8MDAAAAQAAJ
+
+*Outlines of English grammar and analysis* https://google.com/books?id=_WsCAAAAQAAJ tables p. 67, 72, 75
+
+https://www.google.de/books/edition/Introductory_Text_book_of_English_Compos/nKEDAAAAQAAJ 1867: no graphics, but letter-based analysis of complex clauses
+
+There are more grammar books by him! e.g. https://www.google.de/books/edition/The_progressive_English_grammar_With_Key/sGwCAAAAQAAJ
 
 ### Dale (1897) *The teaching of the mother tongue in Germany*
 
