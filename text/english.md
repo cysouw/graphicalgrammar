@@ -153,7 +153,7 @@ Dasjenige Objektiv, welches als das Hauptwort des ganzen Verhältnisses anzusehe
 
 ### Morell (1852) *The analysis of sentences*
 
-Morell [@morell1857; @morell1852] is based on Becker 1829! But simplifies into tables, and removes ordering. Tables become widespread in GB
+John Daniel Morell (1816-1891) [@morell1857; @morell1852] is based on Becker 1829! But simplifies into tables, and removes ordering. Tables become widespread in GB https://en.wikipedia.org/wiki/John_Daniel_Morell Studied in Bonn!
 
 table p24-25, complex sentence p41
 
@@ -1001,25 +1001,45 @@ Later "flow charts", introduced in [@hall1964: 206-207], much further developed 
 
 ### Doherty (1841) *An introduction to English grammar*
 
-[@doherty1841: 133-134] "this imitation of a tree"
+Hugh Doherty (???-1891) [@doherty1841: 133-134] "this imitation of a tree"
 
-thanks to richard hudson for pointing this out. Doherty is Irish?!
+thanks to richard hudson for pointing this out. Doherty is Irish?! Biographical information in [@pankhurst1956: 400-408], note on grammar p.407. He is linked to Fourierism, a form of utopian socialism. More in [@jenkins2003]
 
-### Alexander Bain (1863) *An English grammar*
+[@doherty1841: 133-134] example from Horatius, Epistles 1:15 https://web.archive.org/web/20060221003445/http://www.uah.edu/student_life/organizations/SAL/texts/latin/classical/horace/epistulae115.html
+
+dictaque cessantem nervis elidere morbum sulfura 
+and it is said that sulfur eliminates the disease that is ceasing in the nerves
+
+Is this the same person?
+
+- http://catalogue.bnf.fr/ark:/12148/cb303458395
+- https://books.google.de/books?vid=Harvard:32044088061064
+- https://books.google.de/books?vid=Harvard:HXCXTR
+
+### Bain (1863) *An English grammar*
 
 https://en.wikipedia.org/wiki/Alexander_Bain_(philosopher)
 
 ::: {.im #bain1863_168}
 *Symbolic expression* of a complex sentence from Bain [@bain1863: 168].
 :::
-
+ 
 superscript numbers? maybe Bauer, but not cited.
+
+### Dalgleish (1863) *English composition*
+
+Walter Scott Dalgleish (1834-1897) https://en.wikipedia.org/wiki/Walter_Scott_Dalgleish
+
+- *English composition* original 1863, third edition [@dalgleish1864] p.15, 36ff.: Bauer-style letters. Keys to examples in [@dalgleish1863]
+- *Grammatical analysis*, original 1865, third edition [@dalgleish1866], American edition [@dalgleish1869] cites Morell (p.4) and Bain. Keys [@dalgleish1865], follows second edition
+- *Progressive English grammar* [@dalgleish1866a], second edition [@dalgleish1868]
+- *Outlines of English grammar and analysis* [@dalgleish1867] tables p. 67, 72, 75
 
 ### Meiklejohn (1862) *An easy English grammar for beginners*
 
 John Miller Dow Meiklejohn (1830-1902) was a prolific textbook author and in 1876 became the first professor of education in Great Brittain, at the University of St. Andrews. A detailed account of his life and work is provided by Graves [-@graves2004; -@graves2008]. Meiklejohn's birthday is widely listed as 1836, for example in the *Oxford Dictionary of National Biography* [@montmorency2004], but Graves [-@graves2008: 11] argues that this is an error. Meiklejohn published an enormous number of different textbooks for use in schools [@graves2008: 58-56, 91-109, see also 132-137 for a full list of his publications], partly because his income at St. Andrews was not very high [@graves2008: 50-51, 121]. Many of the books published under his name were probably researched and written by other people, while Meiklejohn had the editorial control [@graves2008: 63].
 
-Before his tenure at St. Andrews Meiklejohn already had published a four-volume grammatical textbook, *An easy English grammar for beginners*, published between 1862 and 1866. The first volume deals with the morphological structure of words and does not contain any graphical analyses [@meiklejohn1862a]. The second volume deals with sentences and it contains a single example of graphical syntax, as shown in [@fig:meiklejohn1862_20], analysing the structure of the sentence [@next a]. This graphical approach is clearly inspired by Clark (see [@sec:clark1847]). Meiklejohn does not cite Clark, but he was in Washington, DC, as a private tutor in the years 1853-1854 [@graves2008: 13-14], so he would have ample opportunity to come across the works of Clark.
+Before his tenure at St. Andrews Meiklejohn already had published a four-volume grammatical textbook, *An easy English grammar for beginners*, published between 1862 and 1866. The first volume deals with the morphological structure of words and does not contain any graphical analyses [@meiklejohn1862a]. The second volume deals with sentences and it contains a single example of graphical syntax, as shown in [@fig:meiklejohn1862_20], analysing the structure of the sentence [@next a]. This graphical approach is clearly inspired by Clark (see [@sec:clark1847]). Meiklejohn does not cite Clark, but he was in Washington, DC, as a private tutor in the years 1853-1854 [@graves2008: 13-14], so he would have ample opportunity to come across the works of Clark. Meiklejohn does not pursue this avenue further in his numerous later works.
 
 In the third volume of the *Easy English grammar* contains a discussion of parsing, but without any tables or graphics [@meiklejohn1864: 35-40].
 - table in book four [@meiklejohn1866: 9]
@@ -1139,24 +1159,6 @@ And the great deluge still had left it green;
 ::: {.im #meiklejohn1890_160}
 [@meiklejohn1890: 160]
 :::
-
-### Dalgleish (1866) *grammatical analysis*
-
-Walter Scott Dalgleish (1834-1897) Probably this person: https://en.wikipedia.org/wiki/Walter_Scott_Dalgleish
-
-this is third edition! https://google.com/books?id=tmsCAAAAQAAJ american edition from 1869 seems to be identical https://www.google.de/books/edition/Grammatical_Analysis/BMhHAQAAMAAJ
-
-cites Morell (p.4)
-
-complex sentences like Lehmann/Meiklejohn? p. 25, 38, 51
-
-Key to the book above, with many more example: https://www.google.de/books/edition/Key_to_Grammatical_analysis/k8MDAAAAQAAJ
-
-*Outlines of English grammar and analysis* https://google.com/books?id=_WsCAAAAQAAJ tables p. 67, 72, 75
-
-https://www.google.de/books/edition/Introductory_Text_book_of_English_Compos/nKEDAAAAQAAJ 1867: no graphics, but letter-based analysis of complex clauses
-
-There are more grammar books by him! e.g. https://www.google.de/books/edition/The_progressive_English_grammar_With_Key/sGwCAAAAQAAJ
 
 ### Dale (1897) *The teaching of the mother tongue in Germany*
 
