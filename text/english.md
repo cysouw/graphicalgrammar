@@ -1005,7 +1005,7 @@ Hugh Doherty (???-1891) [@doherty1841: 133-134] "this imitation of a tree"
 
 thanks to richard hudson for pointing this out. Doherty is Irish?! Biographical information in [@pankhurst1956: 400-408], note on grammar p.407. He is linked to Fourierism, a form of utopian socialism. More in [@jenkins2003]
 
-[@doherty1841: 133-134] example from Horatius, Epistles 1:15 https://web.archive.org/web/20060221003445/http://www.uah.edu/student_life/organizations/SAL/texts/latin/classical/horace/epistulae115.html
+[@doherty1841: 235] bracketed structure for example from Horatius, Epistles 1:15 https://web.archive.org/web/20060221003445/http://www.uah.edu/student_life/organizations/SAL/texts/latin/classical/horace/epistulae115.html
 
 dictaque cessantem nervis elidere morbum sulfura 
 and it is said that sulfur eliminates the disease that is ceasing in the nerves
