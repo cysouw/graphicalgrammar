@@ -1001,20 +1001,32 @@ Later "flow charts", introduced in [@hall1964: 206-207], much further developed 
 
 ### Doherty (1841) *An introduction to English grammar*
 
-Hugh Doherty (???-1891) [@doherty1841: 133-134] "this imitation of a tree"
+Hugh Doherty (???-1891) was an active proponent of Fourierism, a form of utopian socialism [@pankhurst1956: 400-408; @jenkins2003]. I have not been able to find more details about his life. In the 1840s, in the midst of the most active period of this movement, he managed to also publish a grammar [@doherty1841]. Later in life he publishes on diverse subjects like the *Philosophy of History and Social Evolution* and *Organic Philosophy*.^[Available online at <https://books.google.de/books?vid=Harvard:32044088061064> and <https://books.google.de/books?vid=Harvard:HXCXTR>, accessed 19 May 2026.]
 
-thanks to richard hudson for pointing this out. Doherty is Irish?! Biographical information in [@pankhurst1956: 400-408], note on grammar p.407. He is linked to Fourierism, a form of utopian socialism. More in [@jenkins2003]
+In his grammar, he proposes a visual analysis of complex sentences using an "imitation of a tree" [@doherty1841: 133-134], as shown in [@fig:doherty1841_134] for the example in [@next]. He distinguishes between the primary elements (in capitals in the example, and horizontally placed in the graphic) and the auxiliary functions (depicted as diagonal branches).
 
-[@doherty1841: 235] bracketed structure for example from Horatius, Epistles 1:15 https://web.archive.org/web/20060221003445/http://www.uah.edu/student_life/organizations/SAL/texts/latin/classical/horace/epistulae115.html
+> To have a complete idea of the various modes of grouping the *primary* and the *auxiliary functions* together in a very complex or ambiguous sentence, we have only to write the sentence in the form of a tree, in which the primary functions form the trunk and the auxiliary functions the branches [@doherty1841: 133]
 
-dictaque cessantem nervis elidere morbum sulfura 
-and it is said that sulfur eliminates the disease that is ceasing in the nerves
+::: ex
+When the air is mild, WE sometimes, in the course of our evening walks, MEET ON the new PARADE your beautiful sister HELLEN, who is so much admired by every one for her modesty; AND sometimes WE CONVERSE WITH-HER.
+:::
 
-Is this the same person?
+::: {.im #doherty1841_134}
+Structure of a complex sentence [@last] *in the form of a tree* from Doherty [-@doherty1841: 134]. The main sentence is the horizontal "trunk", while the auxiliary words and phrases are depicted as diagonal "branches".
+:::
 
-- http://catalogue.bnf.fr/ark:/12148/cb303458395
-- https://books.google.de/books?vid=Harvard:32044088061064
-- https://books.google.de/books?vid=Harvard:HXCXTR
+In an appendix at the end of the grammar ["to excite the curiosity of the student", @doherty1841: 209], he discusses the intricate order of words that can occur in Latin. Using a quotation for Horace [@next], he argues that this sentence has a bracketed structure, which he explains symbolically as shown in [@fig:doherty1841_235]. His analysis suggests a reading of this sentence as given in the translation in [@next].
+
+::: ex
+| Latin [Horatius, Epistles 1:15, cited in @doherty1841: 235]
+| dicta-que cessantem nervis elidere morbum sulfura 
+| chant‑AND linger.PART nerve.ABL.PL remove.INF disease.ACC sulfur.NOM
+| Chants and sulfur eliminate from the nerves the lingering disease
+:::
+
+::: {.im #doherty1841_235}
+Hierarchical brackets to explain the structure of the Latin example from Horace [@last] by Doherty [-@doherty1841: 235]. His brackets suggest an interpretation of this sentence as given in the translation in [@last].
+:::
 
 ### Bain (1863) *An English grammar*
 
