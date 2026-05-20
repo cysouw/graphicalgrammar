@@ -155,9 +155,23 @@ Dasjenige Objektiv, welches als das Hauptwort des ganzen Verhältnisses anzusehe
 
 John Daniel Morell (1816-1891) [@morell1857; @morell1852] is based on Becker 1829! But simplifies into tables, and removes ordering. Tables become widespread in GB https://en.wikipedia.org/wiki/John_Daniel_Morell Studied in Bonn!
 
-table p24-25, complex sentence p41
+vertical tables: [@morell1852: 16, 25], horizontal table [@morell1852: 23-24], only difference is practical for fitting on the page
+
+analysis of complex sentences with letters [@morell1852: 44-49]
+
+- second edition https://www.google.de/books/edition/The_Analysis_of_Sentences_explained_and/hHpaAAAAcAAJ?hl=de&gbpv=1&dq=inauthor:%22John+Daniel+Morell%22&printsec=frontcover
+- fifth edition 1855 https://www.google.de/books/edition/The_analysis_of_sentences_explained_and/emwCAAAAQAAJ?hl=de&gbpv=1&dq=inauthor:%22John+Daniel+Morell%22&printsec=frontcover
+- ninth edition 1858 https://www.google.de/books/edition/The_Analysis_of_Sentences_Explained_and/lSBAAAAAYAAJ?hl=de&gbpv=1&dq=inauthor:%22John+Daniel+Morell%22&printsec=frontcover
 
 cites Abraham Heussler, born July 1, 1803, who passed away on September 22, 1855. He served as the Rector of the Girls' School (Rektor der Töchterschule), 1827 Lehrer an der Mädchengemeindeschule St. Theodor, 1837 Lehrer am Gymnasium, 1839 Dr. phil., 1843 Rektor der Töchterschule Basel. *Kurzer Abriss der deutschen Sprachlehre*, fifth edition from 1870 https://google.com/books?id=oLyBMxfJDTYC no graphics
+
+*Essentials of English grammar and analysis* Originally 1854 (called just *Essentials of English grammar*) before grammar same simple sentence and detailed analysis as in grammar but shorter? 46-52 in revised version from 1884 https://babel.hathitrust.org/cgi/pt?id=wu.89099896268&seq=57
+
+grammar: [@morell1857] multiple modification p.80, simple sentence table 81-82 with "detailed analysis" complex sentence p.91-103
+
+"new edition" 1865 https://archive.org/details/in.ernet.dli.2015.91545/ [@morell1868]
+
+revision by Barnett (1893) after death Morell, long form analysis p.164, multiple modification p.163, Full method of analysing (three "schemes") p.180-185 https://babel.hathitrust.org/cgi/pt?id=oxu1.601887761&seq=189
 
 ### Lennie & Nutall (1863) *The principles of English grammar*
 
@@ -166,6 +180,14 @@ revision of 1810 original by Lennie with expanded analysis of sentence by Nutall
 https://google.com/books?id=2MQDAAAAQAAJ
 
 not in Lennie (1815) https://google.com/books?id=RgphAAAAcAAJ
+
+### Macallum (1867) *An eclectic grammar*
+
+Canada!
+
+tables p.85, complex sentence like morell p.88, 91-92
+
+https://archive.org/details/eclecticgrammarp00macauoft/page/84/mode/2up
 
 ### Swinton (1872) *A progressive grammar of the English tongue*
 
