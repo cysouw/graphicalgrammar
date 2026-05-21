@@ -743,6 +743,35 @@ The abbreviations that are used in the graphical analysis can be reconstructed f
 Graphical analysis of the example [@last] from Haupt [-@haupt1841: viii]. The internal structure of the six clauses is depicted by hierarchically ordered horizontal braces.
 :::
 
+### Heußler (1844) *Kurzer Abriss der deutschen Sprachlehre* {#sec:heußler1844}
+
+Abraham Heußler (1803-1855) from Basel, Switzerland, in 1827 became a teacher at the *Mädchengemeindeschule St. Theodor*, then in 1837 teacher at the *Gymnasium* and 1843 rector of the *Töchterschule*.^[This basic bigoraphical information is taken from <https://d-nb.info/gnd/1089919689>, accessed 21 May 2026.] In 1840 Heußler published the first version of his *Kurzer Abriss der deutschen Sprachlehre* [@heussler1840], citing Götzinger (see [@sec:götzinger1836]) and Becker (see [@sec:becker1829]) as inspiration [@heussler1840: iv]. In this original version there are not graphical analyses yet. Some time later he added a new appendix with graphical *Satztheil- und Satzanalyse* [e.g. in the fifth edition, @heussler1870: 117-121]. These approaches are adapted in Great Brittain by Morell [@morell1852] (see [@sec:morell1852]). So, the 2nd edition of 1844 of the 3rd edition of 1850 could have been the origin of Heußler's graphical approaches, but I have only been able to access the fifth edition [@heussler1870]. Heußler's book appears to have been popular, as it was reprinted up to a 9th edition from 1902, and then revised by Wilhelm Bruckner under the title *Abriss der Deutschen Sprachlehre für höhere schweizerische Schulen*, published until a 9th edition in 1939.
+
+The new appendix has two graphical analyses. The first is a table, as shown in [@fig:heußler1870_119]. This table shows an analyses of the simple sentences in [@next]. This analysis does not represent the ordering of the words in the German sentence, but classifies all *Satztheile* 'parts of the sentence' into different kinds. Besides *Subjekt* 'subject' and *Aussagew(ort)* 'predicate', Heußler distinguishes between *Präd(ikative) Ergänzungen* 'argument' and *Präd(ikative) Bestimmung* 'adjunct. This four-part classification is quite similar to the approach from Moritz (see [@sec:moritz1782]), although there does not seem to be a direct connection. However, this table seems to have been a direct inspiration for Morell (see [@sec:morell1852]) and much of the grammatical tradition in Great Brittain in the 19th Century.
+
+::: ex
+- Aus Liebe hat sich Jesus für uns sündige Menschen am Stamme des Kreuzes aufgeofert.
+- Die Lust zum Gesetze des Herrn macht den gottergebenen Christen des Lebens froh.
+- Dem willigen Gehorsam gegen die Befehle der Eltern folgt sicher ein reicher Segen.
+- Zu unserm Besten werden wir oft von Gott dem Allmächtigen mit schweren Prüfungen heimgesucht.
+- Der Arme klagt dem Reichen nicht vergeblich seine Noth.
+:::
+
+::: {.im #heußler1870_119}
+*Satztheil-analyse* for the sentences in [@last] from Heußler [-@heussler1870: 199]. This graphic is originally from some time in the 1840s. 
+:::
+
+The second graphic is called a *Satzanalyse* by Heußler, shown here in [@fig:heußler1870_121]. This analysis is concerned with the relative subordination of sentences with multiple clauses, i.e. it is a *Periodenbild*. The different clauses are labeled with a lower-case letter and their relationship (on the right) refers to these letters to indicate the relative subordination. This idea to label parts of the sentence and refer to them was introduced by Becker (see [@sec:becker1829]). However, note that the clauses in the analysis of Heußler are also indented to indicate their relative subordination, an approach reminiscent of Mager (see [@sec:mager1840]). Curiously, the phrase *f* from [@next b] is not a clause, and should probably not have been listed separately.
+
+::: ex
+- [a]{.grey} Wiewohl man Luthern davor warnte, [b]{.grey} auf dem Reichstage in Worms zu erscheinen, [c]{.grey} ließ er sich doch nicht davon abschrecken, [d]{.grey} sonder anwortete furchtlos: [e]{.grey} "Und wenn so viele Teufel in Worms wären [f]{.grey} als Ziegel auf den Dächern, [g]{.grey} so wollte ich doch hinein."
+- [a]{.grey} Die Griechen waren unter sich uneinig, [b]{.grey} als die ungeheuere persische Armee herannahte, [c]{.grey} und doch gelang es dem Athener Themistokles, [d]{.grey} nicht nur die Seeschlacht von Salamis zu gewinnen, [e]{.grey} sonder auch Xerxes, [f]{.grey} den König von Persien, [e]{.grey} aus Griechenland zu verjagen.
+:::
+
+::: {.im #heußler1870_121}
+*Satz-analyse* for the sentences in [@last] from Heußler [-@heussler1870: 121]. Originally this graphic is from some time in the 1840s.
+:::
+
 ### Fürg (1847) *Satz und Styllehre* {#sec:fürg1847}
 
 Johann Baptist Fürg (1802-1864) was a teacher in München. Not much is known about him, except for a glowing necrolog [@heitz1864]. He wrote various small booklets for use in school, among them a four volume grammar *Die deutsche Sprache dargestellt in Aufgaben sammt den nöthigsten Erläuterungen für die Volksschulen Bayerns* [@furg1850]. However, in that work there are no graphical methods used.

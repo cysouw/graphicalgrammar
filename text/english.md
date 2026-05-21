@@ -151,19 +151,25 @@ Dasjenige Objektiv, welches als das Hauptwort des ganzen Verhältnisses anzusehe
 
 "construction" in table-like manner like Becker 1830 [@james1847: 133-134]
 
-### Morell (1852) *The analysis of sentences*
+### Morell (1852) *The analysis of sentences* {#sec:morell1852}
 
-John Daniel Morell (1816-1891) [@morell1857; @morell1852] is based on Becker 1829! But simplifies into tables, and removes ordering. Tables become widespread in GB https://en.wikipedia.org/wiki/John_Daniel_Morell Studied in Bonn!
+John Daniel Morell (1816-1891) was an inspector of schools. He also published scholarly works on philosophy and religion [@chisholm1911]. From his background as a school inspector he decided to publish texts books on grammar because of "a deficiency experienced in the course of official duties as an Inspector of Schools" [@morell1852: iii].
+
+> This deficiency was most felt in the collective examinations of Pupil Teachers, where, beyond the ordinary modes of parsing, I found it almost impossible to give out any questions on Syntax and the analysis of sentences, to which a common meaning was attached by the pupils assembled, or any number of distinct answers returned. [@morell1852: iii]
+
+Morell writes three different educational books on grammar, all of which have seem multiple revisions and reprints. They are widely cited by other grammarians in Great Brittain in the 19th Century:
+
+- *The analysis of sentences* [@morell1852], at least reprinted up to a ninth edition from 1858.^[Various versions are available online in digital form. They do not appear to differ substantially from the first edition: second edition from 1854 <https://google.com/books?id=hHpaAAAAcAAJ>, fifth edition from 1855 <https://google.com/books?id=emwCAAAAQAAJ> and the ninth edition from 1858 <https://google.com/books?id=lSBAAAAAYAA>, all accessed 21 May 2026.]
+- *Essentials of English grammar*, originally published 1854. I have only been able to access a revised edition with a slightly different title *The essentials of English grammar and analysis* [@morell1884].
+- *A grammar of the English language* [@morell1857], reprinted 1868 as a "new edition" [@morell1868].
+
+In 1941 Morell studied Philosophy under Immanual Fichte in Bonn, Germany, where he probably became acquainted with the German grammatical developments. The complete title of Morell's first grammatical book accordingly was *The analysis of sentences explained and systematised after the plan of Becker's German grammar*, referring to Ferdinand Becker (see [@sec:becker1829]). In the introduction he also mentions the influence from Abraham Heussler.
+
+[@morell1857; @morell1852] is based on Becker 1829! But simplifies into tables, and removes ordering. Tables become widespread in GB https://en.wikipedia.org/wiki/John_Daniel_Morell Studied in Bonn!
 
 vertical tables: [@morell1852: 16, 25], horizontal table [@morell1852: 23-24], only difference is practical for fitting on the page
 
 analysis of complex sentences with letters [@morell1852: 44-49]
-
-- second edition https://www.google.de/books/edition/The_Analysis_of_Sentences_explained_and/hHpaAAAAcAAJ?hl=de&gbpv=1&dq=inauthor:%22John+Daniel+Morell%22&printsec=frontcover
-- fifth edition 1855 https://www.google.de/books/edition/The_analysis_of_sentences_explained_and/emwCAAAAQAAJ?hl=de&gbpv=1&dq=inauthor:%22John+Daniel+Morell%22&printsec=frontcover
-- ninth edition 1858 https://www.google.de/books/edition/The_Analysis_of_Sentences_Explained_and/lSBAAAAAYAAJ?hl=de&gbpv=1&dq=inauthor:%22John+Daniel+Morell%22&printsec=frontcover
-
-cites Abraham Heussler, born July 1, 1803, who passed away on September 22, 1855. He served as the Rector of the Girls' School (Rektor der Töchterschule), 1827 Lehrer an der Mädchengemeindeschule St. Theodor, 1837 Lehrer am Gymnasium, 1839 Dr. phil., 1843 Rektor der Töchterschule Basel. *Kurzer Abriss der deutschen Sprachlehre*, fifth edition from 1870 https://google.com/books?id=oLyBMxfJDTYC no graphics
 
 *Essentials of English grammar and analysis* Originally 1854 (called just *Essentials of English grammar*) before grammar same simple sentence and detailed analysis as in grammar but shorter? 46-52 in revised version from 1884 https://babel.hathitrust.org/cgi/pt?id=wu.89099896268&seq=57
 
