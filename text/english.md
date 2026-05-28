@@ -258,15 +258,25 @@ tables and indented complex sentences [@onions1904] *sentence picture* p.25
 
 ## Proto-Diagramming
 
-jeremiah Greenleaf "simplified Grammar" (first edition 1819) used word-class abbreviations above the words for parsing, e.g. third edition 1821: https://google.com/books?id=fegaAAAAYAAJ
+Jeremiah Greenleaf "simplified Grammar" (first edition 1819) used word-class abbreviations above the words for parsing, e.g. third edition 1821: https://google.com/books?id=fegaAAAAYAAJ, extended version later: https://archive.org/details/laborsavinggramm00greerich
 
-### Wilbur (1814) *The grammatical alphabet*
+### Wilbur & Livingston (1814) *The grammatical alphabet*
 
-[@wilbur1814] pictures for word classes. the "chart" mentioned could be this one: https://lccn.loc.gov/2020768232 (not digital)
+[@wilbur1814] pictures for word classes. 
+
+The "chart" mentioned could be this one: https://lccn.loc.gov/2020768232 (not digital) This might be part of the book: Wilbur, Josiah. 1815. English grammar. Bellows Falls, N.H. 12mo, 132pp. (second edition 1822) as cited by Görlach p.344. On p.177 of https://www.jstor.org/stable/25080785 is a mention of "Josiah Wilbur and William Livingston, English Grammar Simplified (Boston, 1814)"
 
 [@wilbur1821] *The grammatical key* same picture for word classes, but apparently not used to draw pictures of sentences. In sentence analysis the numbers are used for parsing word classes. symbols and numbers are changed from the 1814 version
 
 word "chart" replaced by "atlas" in furthermore exactly the same sentences.
+
+[@garner2021: 118] also does not know anything about the authors.
+
+William Livingston might have been the son of this William Livingston https://en.wikipedia.org/wiki/William_Livingston. His son named William Livingston is cited as living 1754–1817. Görlach cites the dates of the father
+
+*An English grammar* [@livingston1817a] together with a Syntactical Atlas (i.e. a separate sheet with summaries) [@livingston1817]
+
+The history of publication of these two people are a bit mysterious, as there are many other references, which I am unable to track down. I found mentions of “An English Grammar” from 1815 by Josiah Wilbur (Görlach also cites a second edition from 1822), and of “English Grammar simplified” from 1815 by Wilbur & Livingston. Garner cites the “Grammatical Key” as being a second edition from 1822 with a first edition from 1815.
 
 ### Brown (1826) *The American system of English grammar* {#sec:brown1826}
 
