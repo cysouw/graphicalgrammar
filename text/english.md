@@ -260,7 +260,18 @@ tables and indented complex sentences [@onions1904] *sentence picture* p.25
 
 Jeremiah Greenleaf "simplified Grammar" (first edition 1819) used word-class abbreviations above the words for parsing, e.g. third edition 1821: https://google.com/books?id=fegaAAAAYAAJ, extended version later: https://archive.org/details/laborsavinggramm00greerich
 
-### Wilbur & Livingston (1814) *The grammatical alphabet*
+charts were the rage: here is another one (without any graphical syntax) [@munsell1817]
+
+### Wilbur & Livingston (1814) *The grammatical alphabet* {#sec:wilbur1814}
+
+Nothing is known about the authors Josiah Wilbur and William Livingston of the book *the grammatical alphabet* [@wilbur1814].
+
+Library catalogues recurrently list William Livingston with the dates 1723-1790, which are the year of birth and death of the Founding Father called William Livingston. This well-known figure is unlikely to be the author of these grammatical treatise from 1814 and a later book from 1817 [@gorlach1998: 344 repeats the dates, but adds a questionmark behind the publication date of a book, indicating that he also considers the dates unconvincing].
+
+The places of publication point to locations outside the city of New York, i.e. Wilbur & Livingston [-@wilbur1814] is published in Hartford (CO) with endorsements from dignitaries in Albany (NY). Livingston [-@livingston1817a] is published in Middlebury (VT) but has a copyright notice by a clerk of the Northern District of New-York. Wilbur [-@wilbur1821] is published in Bellows Falls (VT) and has a long list of recommendations from all over northeastern USA [@wilbur1821: 6-11], with notewhorthy formulations like "We [Thomas Kempton and J.S. Russell] having examined a school taught in this place [Dartmouth] by Josia Wilbur & Son for nineteen days …", which suggests that Wilbur might have been a sort of travelling salesman for his didactic approach to grammar.
+
+
+The history of publication of these two people are a bit mysterious, as there are many other references, which I am unable to track down. I found mentions of “An English Grammar” from 1815 by Josiah Wilbur (Görlach also cites a second edition from 1822), and of “English Grammar simplified” from 1815 by Wilbur & Livingston. Garner cites the “Grammatical Key” as being a second edition from 1822 with a first edition from 1815.
 
 [@wilbur1814] pictures for word classes. 
 
@@ -274,9 +285,47 @@ word "chart" replaced by "atlas" in furthermore exactly the same sentences.
 
 William Livingston might have been the son of this William Livingston https://en.wikipedia.org/wiki/William_Livingston. His son named William Livingston is cited as living 1754–1817. Görlach cites the dates of the father
 
-*An English grammar* [@livingston1817a] together with a Syntactical Atlas (i.e. a separate sheet with summaries) [@livingston1817]
+*An English grammar* [@livingston1817a] together with a *Syntactical Atlas* (i.e. a separate sheet with summaries) [@livingston1817]
 
-The history of publication of these two people are a bit mysterious, as there are many other references, which I am unable to track down. I found mentions of “An English Grammar” from 1815 by Josiah Wilbur (Görlach also cites a second edition from 1822), and of “English Grammar simplified” from 1815 by Wilbur & Livingston. Garner cites the “Grammatical Key” as being a second edition from 1822 with a first edition from 1815.
+23 syntactic rules [@livingston1817a: 35-47], highlighting "concord and government" [@livingston1817a: 34] by using connecting brackets to indicate such relationships. In all example, Livingston is rather eclectic in which of the many possible brackets is actually shown. One of the more intricate examples from his book is shown in 
+
+Diagrams seem clearly inspired by Picket, but not mentioned
+
+- Rule 2: The definite article *the* agrees with nouns, either in singular or plural number.
+- Rule 3: Adjectives belong to nouns.
+- Rule 11: One noun governs another signifying a different thing is the possessive case.
+- Rule 14: Prepositions govern the objective case.
+- Rule 17: Conjunctions connect the same case of nouns and pronouns.
+- Rule 18: Neuter verbs have the same case after as before them.
+
+The formulation of this rule is rather unfortunate. From the context it becomes clear that this rule is intended to mean something like "the definite article can be used both with singular and plural nouns" (in opposition to the indefinite article *a*). There is of course no linguistic indication of number agreements between the definite article and the noun in the English language.
+
+::: ex
+Dissimulation in youth is the forerunner of perfidy in old age. Its first appearance is the fatal omen of growing depravity and future shame.
+:::
+
+### Picket (1815) *The juvenile instructor*
+
+Albert Picket (1771-1850) https://prabook.com/web/albert.picket/3763249?utm_source=chatgpt.com
+
+No analysis in the 1812 version! [@picket1812]
+
+vinculum or chain in [@picket1815: 80-81] also [@picket1818: 108] same pictures, though reworked book
+
+Opening lines of the second act of the play *Douglas* (1756) by John Home
+
+My name is Norval; on the Grampian Hills
+My father feeds his flocks; a frugal swain,
+Whose constant cares were to increase his store.
+And keep his only son, myself, at home.
+
+> It is to be observed, that in this method of parsing or analysing, the learner should be taught to connect the words that are governed by each other, by a vinculum or curve line, designated thus, ᫇ , which represents the words thus connected, as governed by the former or latter word; or thus, ⸺ , which shows the agreement between the words conjoined, and when applied to conjunctions, denotes connection […]. [@picket1815: 82]
+
+not used later? written with his son John W. Picket (1792-1875)
+
+- The Essentials of English Grammar (1830) https://google.com/books?id=Ie9BAQAAMAAJ
+- Principles of English grammar (1837) https://google.com/books?id=flEhAQAAMAAJ
+- Analyzer and expositor (1847) https://babel.hathitrust.org/cgi/pt?id=nyp.33433069240632&seq=9
 
 ### Brown (1826) *The American system of English grammar* {#sec:brown1826}
 
@@ -284,9 +333,9 @@ James Brown (dates unknown, approximately 1790-1855) was a very productive and r
 
 The writings of Brown are tiring to read and are full of dismissive rants about other grammars of English, specifically arguing agains Murray's grammar. West [-@west2000: 92] interprets Brown's aggressive stance as a revolutionary drive, being a citizen of the recently founded United States: "from the onset Brown displayed a revolutionary zeal and a determination to throw off the grammatical shackles of British tyranny" [@west2000: 92]. Whether revolution indeed describes Brown's state of mind, or whether he simply had an unconventional or even bizarre personality, is difficult to decide without further in-depth biographical research. However, it seems telling that in the first two decades of his writing Brown repeatedly stressed that he was writing an "American" grammar of the English language. Brown's work was not completely ignored in his time. It had at least direct influence on the work of Peirce ([@sec:peirce1839]), Barrett ([@sec:barrett1842]) and Hall ([@sec:hall1898]).
 
-The speed and volume of Brown's writing is impressive. Görlach [-@gorlach1998: 64-69] list 25 different publications between 1815 and 1854, noting that the "titles resemble each other so much that it is difficult to tell which are separate works and which new editions. It would be worth studying Brown in case he is more than a productive eccentric" [@gorlach1998: 64]. My impression is that Brown can indeed be characterised as a productive eccentric, and interesting enough to deserve further biographical investigation. Much of his writing is fluff, but atypical for his time, Brown considered syntactic arguments to be central for grammatical analysis [cf. @west2000: 93]. Unfortunately, the example sentences he analysed are all structurally rather trivial, and he clearly does not understand clausal subordination. So, although he focusses on syntax, he does so only for syntacically very simple sentences.
+The speed and volume of Brown's writing is impressive. Görlach [-@gorlach1998: 64-69] list 25 different publications between 1815 and 1854, noting that the "titles resemble each other so much that it is difficult to tell which are separate works and which new editions. It would be worth studying Brown in case he is more than a productive eccentric" [@gorlach1998: 64]. My impression is that Brown can indeed be characterised as a productive eccentric, and interesting enough to deserve further biographical investigation. Much of his writing is fluff, but atypical for his time, Brown considered syntactic arguments to be central for grammatical analysis [cf. @west2000: 93]. Unfortunately, the example sentences he analysed are all structurally rather trivial, and he clearly does not understand clausal subordination. So, although he focusses on syntax, he does so only for syntactically very simple sentences.
 
-Brown's published works consists of thousands of pages, but there is a lot of repetition in his writings. I have been able to acces more than twenty of his published volumes. The bibliography at the end of this book lists the full–and often really long–titles of these works and indicates the location for online access of all these sources. Note that some of these available sources are not the first editions, so the dates below do not always reflect their precise date of origin.
+Brown's published works consists of thousands of pages, but there is a lot of repetition in his writings. I have been able to acces more than twenty of his published volumes. The bibliography at the end of this book lists the full – and often really long – titles of these works and indicates the location for online access of all these sources. Note that some of these available sources are not the first editions, so the dates below do not always reflect their precise date of origin.
 
 - *A treatise on the nature and reasons of the English grammar* [@brown1815]
 - *A grammatical treatise, being an exposition of the difficulties found in the present system of English grammar* [@brown1819]
@@ -317,7 +366,7 @@ The basis of *scanning* is the assignment of *degree*, which is the level of mod
 According to Brown [-@brown1826: 36], words that modify other words can be assigned a *degree*, indicated by numbers above the words. Exactly this example shown here will return throughout all of his writings.
 :::
 
-Finally there is sectioning, which amounts to separating the major constituents of a sentence by bracketing them. Hierarchical bracketing is not used by Brown, although there are a few incidental examples of brackets insides brackets attested in his work. The constituents are also distinguished into major and minor ones. The major is roughly the minimal sentence (indicated by square brackets), while the minors are adjuncts (indicated by round brackets). The very few examples of subordinated sentences are simply treated as minors without any special status. The analysis of the structure of a sentence amount to a combination of sectioning and scanning, as shown in [@fig:brown1826_47].
+Finally there is sectioning, which amounts to separating the major constituents of a sentence by bracketing them. Hierarchical bracketing is mostly not used by Brown, although there are a few incidental examples of brackets insides brackets attested in his work. Additionally, the constituents are distinguished into major and minor ones. The major is roughly the minimal sentence (indicated by square brackets), while the minors are adjuncts (indicated by round brackets). The very few examples of subordinated sentences are simply treated as minors without any special status. The analysis of the structure of a sentence amount to a combination of sectioning and scanning, as shown in [@fig:brown1826_47].
 
 > Every sentence has, or may have, two or more sections. One of these sections must be the foundation of the sentence […]. The section which is the foundation, is, of course, denominated the ~~major~~. The other or others are called ~~minors~~. The Major in these ~~exercises~~, will be presented by brackets. The minor will be presented by parentheses. [@brown1826: 45, emphasis in original]
 
@@ -335,9 +384,9 @@ Where Brown previously used the terms sectioning/contruing, he now uses *graduat
 
 In the next year Brown publishes a major revision of *The American system of English syntax* [@brown1838]. Much is changed here: sectioning/construing/graduation is now called *monology* and the constituent parts are called *monos* [@brown1838: 19]. It appears to be a coincidence that there is a similarity between Brown's term *mono* and the term *monème* as introduced by Frei [-@frei1941: 51], which remained popular for various decades in the French structuralist grammatical literature. Brown's term *mono* is in meaning closer to the French term *syntagme* than to Frei's *monème*, see for example the work of Mikuš in [@sec:mikuš1947].
 
-Accompanying the book on syntax, Brown publishes a book under the label *syntascope* [@brown1839]. He never explains the term, but it seems to be a play on words combining *syntax* and *telescope*, so maybe he intended it to be an instrument to observe sentence structure. Brown also mentions an additional *Atlas*, which probably refers to a set of large plates that were printed separately [@brown1839a].
+Accompanying the book on syntax, Brown publishes a book under the label *syntascope* [@brown1839]. He never explains the term, but it seems to be a play on words combining *syntax* and *telescope*, so maybe he intended it to be an instrument to observe sentence structure. Brown also mentions an additional *Atlas*, which probably refers to a set of large plates that were printed separately [@brown1839a]. This use of the word "atlas", as simply referring to a set of large charts, is reminiscent a similar use by Livingston [-@livingston1817] and Wilbur [-@wilbur1821], see [@sec:wilbur1814].
 
-> The System of ~~English Syntax~~ comprises of three different, though connected works, viz.: two *books*, and one *atlas*. […] The ~~first~~ is entitled an ~~English Syntascope~~: it comprises 260 pages, and is designed as a substitute for a *living teacher*. The ~~second~~ is entitled an ~~English Syntax~~; it contains 216 pages […]. The ~~Atlas~~ is entiteld ~~A Syntascope~~; it is intended to enable the learder to *see*, actually to *see*, the *Syntax* principles of our phrenod. [@brown1839a]
+> The System of ~~English Syntax~~ comprises of three different, though connected works, viz.: two *books*, and one *atlas*. […] The ~~first~~ is entitled an ~~English Syntascope~~: it comprises 260 pages, and is designed as a substitute for a *living teacher*. The ~~second~~ is entitled an ~~English Syntax~~; it contains 216 pages […]. The ~~Atlas~~ is entitled ~~A Syntascope~~; it is intended to enable the learner to *see*, actually to *see*, the *Syntax* principles of our phrenod. [@brown1839a]
 
 There are many different visualisation in the *Syntascope*, but the main method used by Brown is some kind of interlocking system of puzzle pieces, each of which represents a word in the sentence, an example is shown in [@fig:brown1839_plate]. The different kinds of puzzle pieces have slightly different forms and they are all designated by a capital letter, which are never clearly explained. The few examples given do not show a really consistent use of these capital letters, but in more traditional terminology a few of these letters seem to be used roughly as follows:
 
@@ -363,7 +412,7 @@ Syntactic analysis using puzzle pieces from Brown [-@brown1839a]. Each puzzle pi
 Syntactic analysis with interlocking pieces from Brown [-@brown1839: 105] for the example sentences [@last b,c]. The structure of degree/rank is indicated by hierarchical interlocking pieces, cf. [@fig:brown1826_36].
 :::
 
-Brown's next book *An exegesis of English syntax* [@brown1840] is a shorter version of his previous syntax, again with much the same content but in a different order. Here we find a tree picture for an actual sentence, as shown in [@fig:brown1840_108], illustrating the dependency structure of the sentence *very high trees fell*. The letters in the figure refer to the words of this sentence, namely a=*trees*, b=*fell*, c=*high* and d=*very*. The reason for the inclusion of the numeral 5 in this illustration goes back to the same graphic being used in the *Syntascope* [@brown1839: 72]. In that book this graphic is the fifth example of a series of different metaphors being used for different syntactic structures, namely a simple tree, a ladder, an axe, a stool and a complex tree [@brown1839: 70-72]. In the 1840 book there is a concrete sentence added to the illustration, and all other metaphors are removed.
+Brown's next book *An exegesis of English syntax* [@brown1840] is a shorter version of his previous syntax, again with much the same content but in a different order. Here we find a tree picture for an actual sentence, as shown in [@fig:brown1840_108], illustrating the dependency structure of the sentence *very high trees fell*. The letters in the figure refer to the words of this sentence, namely a=*trees*, b=*fell*, c=*high* and d=*very*. The reason for the inclusion of the numeral 5 in this illustration goes back to the same graphic being used in the *Syntascope* [@brown1839: 72]. In that book this graphic is the fifth example of a series of different metaphors being used for different syntactic structures, namely a simple tree, a ladder, an axe, a stool and a complex tree [@brown1839: 70-72]. In the 1840 book there is a concrete sentence added to the illustration using a tree, and all other metaphors for syntactic structures are ignored.
 
 ::: {.im #brown1840_108}
 Tree diagram from Brown [-@brown1840: 108] for the sentence *very high trees fell.* The letters refer to the individual words (*a=trees, b=fell, c=high, d=very*). The reason for the inclusion of the number 5 is unclear.
@@ -375,7 +424,7 @@ A year later Brown publishes yet another similar book, called *The first part of
 New approach to indicate *monos* (=constituents) from Brown [-@brown1841: 50] by superimposing identical numbers above the words that belong together into a *mono*. This usage of numbering is not to be confused with the marking of *degree/rank* as shown in [@fig:brown1826_47]. Marking constituents by these numbers allows Brown to include hierarchically ordered constituents, as can be seen in this example by the non-subsequent ordering of the numbers 1 and 2. 
 :::
 
-Brown remains active, writing at least 13 more books in the next 15 years (see the list above), mostly rehashing earlier ideas, often repeating himself, but also adding new formulations of the same content. He appears to slowly dial back on the more fantastical terminological innovations as he grows older. The oevre of Brown is a cautious tale of wrapping up interesting ideas into incomprehensible terminology, becoming completely unintelligible, and thus being ignored, in the process. However, his work was not completely in vain. He appears to have had a direct influence on Peirce ([@sec:peirce1839]), Barrett ([@sec:barrett1842]) and Hall ([@sec:hall1898]), and probably indirectly on Clark (see [@sec:clark1847]). Clark in turn founded the whole diagramming craze in the late 19th Century in the United States, so Brown might very well be the grandfather of this approach to syntactic analysis.
+Brown remains active, writing at least 13 more books in the next 15 years (see the list above), mostly rehashing earlier ideas, often repeating himself, but also adding new formulations of the same content. He appears to slowly dial back on the more fantastical terminological innovations as he grows older. The oevre of Brown is a cautious tale of wrapping up interesting ideas into incomprehensible terminology, becoming completely unintelligible, and thus being mostly ignored, in the process. However, his work was not completely in vain. He appears to have had a direct influence on Peirce ([@sec:peirce1839]), Barrett ([@sec:barrett1842]) and Hall ([@sec:hall1898]), and probably indirectly on Clark (see [@sec:clark1847]). Clark in turn founded the whole diagramming craze in the late 19th Century in the United States, so Brown might very well be the grandfather of this approach to syntactic analysis.
 
 ### Peirce (1839) *The grammar of the English language* {#sec:peirce1839}
 
