@@ -264,32 +264,28 @@ charts were the rage: here is another one (without any graphical syntax) [@munse
 
 ### Wilbur & Livingston (1814) *The grammatical alphabet* {#sec:wilbur1814}
 
-Nothing is known about the authors Josiah Wilbur and William Livingston of the book *the grammatical alphabet* [@wilbur1814].
+Nothing is known about the authors Josiah Wilbur and William Livingston of the book *the grammatical alphabet* [@wilbur1814]. Library catalogues recurrently list William Livingston with the dates 1723-1790, which are the year of birth and death of the Founding Father, also called William Livingston. This well-known figure is unlikely to be the author of these grammatical treatise from 1814 and a later book from 1817 [@gorlach1998: 344 repeats the dates, but adds a questionmark behind the publication date of a book, indicating that he also considers the dates unconvincing]. William Livingston (the grammarian) could possibly be the son of William Livingston (the founding father) with the same name. The son lived between 1754–1817, which would fit the publication dates of the grammars. However, I have no clear evidence for this identification.
 
-Library catalogues recurrently list William Livingston with the dates 1723-1790, which are the year of birth and death of the Founding Father called William Livingston. This well-known figure is unlikely to be the author of these grammatical treatise from 1814 and a later book from 1817 [@gorlach1998: 344 repeats the dates, but adds a questionmark behind the publication date of a book, indicating that he also considers the dates unconvincing].
+The places of publication point to locations to the north of the city of New York, i.e. the preface of Wilbur & Livingston [-@wilbur1814] is signed in Albany (NY) and is published in Hartford (CO) with endorsements from dignitaries in Albany (NY). Livingston [-@livingston1817a] is published in Middlebury (VT) but has a copyright notice by a clerk of the Northern District of New York. Wilbur [-@wilbur1821] is published in Bellows Falls (VT) and has a long list of recommendations from all over northeastern USA [@wilbur1821: 6-11], with notewhorthy formulations like "We [Thomas Kempton and J.S. Russell] having examined a school taught in this place [Dartmouth] by Josia Wilbur & Son for nineteen days …", which suggests that Wilbur might have been a sort of travelling salesman for his didactic approach to grammar.
 
-The places of publication point to locations outside the city of New York, i.e. Wilbur & Livingston [-@wilbur1814] is published in Hartford (CO) with endorsements from dignitaries in Albany (NY). Livingston [-@livingston1817a] is published in Middlebury (VT) but has a copyright notice by a clerk of the Northern District of New-York. Wilbur [-@wilbur1821] is published in Bellows Falls (VT) and has a long list of recommendations from all over northeastern USA [@wilbur1821: 6-11], with notewhorthy formulations like "We [Thomas Kempton and J.S. Russell] having examined a school taught in this place [Dartmouth] by Josia Wilbur & Son for nineteen days …", which suggests that Wilbur might have been a sort of travelling salesman for his didactic approach to grammar.
+The precise history of publication of these two people are a bit mysterious, as there are many different references to their work, some of which I have been unable to access. I have been able to inspect the following works:
 
+- *The grammatical alphabet* [@wilbur1814, also a 1815 identical edition]. This book mentions an accompanying *grammar chart*, which might be the 2-page object called *English grammar simplified by the assistance of a chart* as listed in the Library of Congress.^[The Library of Congress record is online at <https://lccn.loc.gov/2020768232>, but no digital version available. This object might be the *English grammar* as cited by Görlach [-@gorlach1998: 344]. Görlach also mentions a second edition from 1822, but that is probably *the grammatical key* listed below. The title *English grammar simplified* from 1815 by Wilbur & Livingston is also mentioned in a list of acquired books on page 177 of the Proceedings of the Massachusetts Historical Society, available online at <https://www.jstor.org/stable/25080785>.]
+- *An English grammar* [@livingston1817a]
+- *The syntactical atlas* [@livingston1817]
+- *The grammatical key* [@wilbur1821].^[Garner [-@garner2021: 188] mentions a second edition from 1822, and lists the first edition as being from 1815, which is probably a mix-up with *the grammatical alphabet* as mentioned above.]
 
-The history of publication of these two people are a bit mysterious, as there are many other references, which I am unable to track down. I found mentions of “An English Grammar” from 1815 by Josiah Wilbur (Görlach also cites a second edition from 1822), and of “English Grammar simplified” from 1815 by Wilbur & Livingston. Garner cites the “Grammatical Key” as being a second edition from 1822 with a first edition from 1815.
+In the *Grammatical alphabet* [@wilbur1814: 9-23] ten numbered word classes are distinguished and pictures are introduced for some of these word classes, i.e. for the verb, noun, article, adjective, adjective pronoun (including possessive pronouns, demonstratives and indefinite pronouns), conjunction and interjection, as shown in [@fig:wilbur1814_18]. The pictures seem to be intended to be combined into large constructions, but no examples are included of how they were supposed to be used. Basically the same approach is used in the *Grammatical key*, published alone by Wilbur [-@wilbur1821]. The numbering of the ten word classes is reshuffeled and all ten now have pictures [@wilbur1821: 13-18]. The details of the pictures are also slightly different from the 1814 version. The numbers for the word classes are used to parse a sentence by writing them above the words of a sentence. Maybe the pictures were alternatives for the numbers, but including them was too intricate for the printing press.
 
-[@wilbur1814] pictures for word classes. 
+::: {.im #wilbur1814_18}
+Pictures for word classes from Wilbur & Livingston [-@wilbur1814: 18]
+:::
 
-The "chart" mentioned could be this one: https://lccn.loc.gov/2020768232 (not digital) This might be part of the book: Wilbur, Josiah. 1815. English grammar. Bellows Falls, N.H. 12mo, 132pp. (second edition 1822) as cited by Görlach p.344. On p.177 of https://www.jstor.org/stable/25080785 is a mention of "Josiah Wilbur and William Livingston, English Grammar Simplified (Boston, 1814)"
+Additionally, Wilbur & Livingston [-@wilbur1814] in their title mention the inclusion of a "grammar chart", which I have not seen.^[The chart is possibly this 2-page object from the Library of Congress catalogue <https://lccn.loc.gov/2020768232>.] Apparantly, adding large sheets with summaries for quick reference were en-vogue. Munsell [-@munsell1817] is another example of such a "grammatical chart". Livingston [-@livingston1817] also publishes such a large sheet, called a *syntactical atlas. Similarly, Wilbur [-@wilbur1821] in the title mentions "an atlas for parsing". The term "atlas" is a bit confusing in this context, as it simply seems to refer to a large sheet and not to an actual map-like image.
 
-[@wilbur1821] *The grammatical key* same picture for word classes, but apparently not used to draw pictures of sentences. In sentence analysis the numbers are used for parsing word classes. symbols and numbers are changed from the 1814 version
+In 1817 Livingston publishes another book, without Wilbur: *An English grammar* [@livingston1817a] together with his *Syntactical atlas* [@livingston1817]. He takes a slightly different approach, probably inspired by the *vinculum* of Picket (see [@sec:picket1815]), although this influence is not mentioned explicitly. Livingston also uses numbers above (and sometimes below) the sentences to be analysed, but these numbers do not refer to word classes, but to syntactical rules. He distinguishes 23 syntactic rules [@livingston1817a: 35-47], highlighting "concord and government" [@livingston1817a: 34] by using connecting brackets to indicate such relationships. In all examples presented, Livingston is rather eclectic in which of the many possible brackets is actually shown. One of the more intricate examples from his book is shown in [@fig:livingston1817_54] for the example sentence in [@next].
 
-word "chart" replaced by "atlas" in furthermore exactly the same sentences.
-
-[@garner2021: 118] also does not know anything about the authors.
-
-William Livingston might have been the son of this William Livingston https://en.wikipedia.org/wiki/William_Livingston. His son named William Livingston is cited as living 1754–1817. Görlach cites the dates of the father
-
-*An English grammar* [@livingston1817a] together with a *Syntactical Atlas* (i.e. a separate sheet with summaries) [@livingston1817]
-
-23 syntactic rules [@livingston1817a: 35-47], highlighting "concord and government" [@livingston1817a: 34] by using connecting brackets to indicate such relationships. In all example, Livingston is rather eclectic in which of the many possible brackets is actually shown. One of the more intricate examples from his book is shown in 
-
-Diagrams seem clearly inspired by Picket, but not mentioned
+The syntactical rules indicated in this examples are the listed below. The formulation of rule 2 is rather unfortunate, especially the word *agree* should not be read in the modern meaning of "grammatical agreement". From the context it becomes clear that this rule is intended to mean something like "the definite article can be used both with singular and plural nouns, different from the indefinite article *a* as discussed in rule 1". There is of course no linguistic indication of number agreement between the definite article and the noun in the English language.
 
 - Rule 2: The definite article *the* agrees with nouns, either in singular or plural number.
 - Rule 3: Adjectives belong to nouns.
@@ -298,34 +294,34 @@ Diagrams seem clearly inspired by Picket, but not mentioned
 - Rule 17: Conjunctions connect the same case of nouns and pronouns.
 - Rule 18: Neuter verbs have the same case after as before them.
 
-The formulation of this rule is rather unfortunate. From the context it becomes clear that this rule is intended to mean something like "the definite article can be used both with singular and plural nouns" (in opposition to the indefinite article *a*). There is of course no linguistic indication of number agreements between the definite article and the noun in the English language.
-
 ::: ex
-Dissimulation in youth is the forerunner of perfidy in old age. Its first appearance is the fatal omen of growing depravity and future shame.
+Dissimulation in youth is the forerunner of perfidy in old age. Its first appearance is the fatal omen of growing depravity and future shame. (Quotation from *The accomplished youth* (1811) by Hugh Blair)^[The original is available online at <https://archive.org/details/accomplishedyout00londiala>. This often cited quote is found on page 28.]
 :::
 
-### Picket (1815) *The juvenile instructor*
+::: {.im #livingston1817_54}
+Illustration of the application of syntactical rules to sentence [@last] from Livingston [-@livingston1817a: 54]. The arches indicate concord and government. This approach to visualise the grammatical structure is clearly inspired by Picket, cf. [@fig:picket1815_80]. The image shown here was recreated for improved legibility. The original image is available at the following link:
+:::
 
-Albert Picket (1771-1850) https://prabook.com/web/albert.picket/3763249?utm_source=chatgpt.com
+### Picket (1815) *The juvenile instructor* {#sec:picket1815}
 
-No analysis in the 1812 version! [@picket1812]
+Albert Picket (1771-1850) was a teacher and ran his own school, first in Manhattan and later in Cincinnati.^[Some basic biographical information is available online at >https://prabook.com/web/albert.picket/3763249>, accessed 8 June 2026.] In the 1810s, He wrote a series of textbooks for the instruction of reading, writing, grammar and composition, which all have the word *juvenile* in the title. In *The juvenile instructor* [@picket1812] he dealt with grammatical structure. The first version does not have any graphical grammar, but in the second version he adds the method of a "vinculum or chain" as an illustration of government and agreement between words. An example of his approach is shown in [@fig:picket1815_80] for the opening lines of the second act of the play *Douglas* by John Home [@next], which was a staple of school texts in those days. Exactly the same examples is also used in the third edition [@picket1818: 108], though the rest of the book has been reworked. Later in life he wrote various other grammatical textbooks together with his son John W. Picket (1792-1875). The graphical approach is not used in these books.^[Picket and his son together wrote: *The Essentials of English Grammar* (1830) <https://google.com/books?id=Ie9BAQAAMAAJ>, *Principles of English grammar* (1837) <https://google.com/books?id=flEhAQAAMAAJ> and *Analyzer and expositor* (1847) <https://babel.hathitrust.org/cgi/pt?id=nyp.33433069240632&seq=9>, all accessed 8 June 2026.]
 
-vinculum or chain in [@picket1815: 80-81] also [@picket1818: 108] same pictures, though reworked book
+The numbers in the *Vinculum* refer to the relevant syntactical rules [@picket1815: 44-79]. He distinguishes 48 rules, e.g. "Rule 1. The indefinite article *a* or *an* is joined to nouns of the singular number"[@picket1815: 44]. These numbers are written on top of the sentences to be analysed. Additionally, Picket explains his use of lines as follows:
 
+> It is to be observed, that in this method of parsing or analysing, the learner should be taught to connect the words that are governed by each other, by a vinculum or curve line, designated thus, ⏜ , which represents the words thus connected, as governed by the former or latter word; or thus, ⸺ , which shows the agreement between the words conjoined, and when applied to conjunctions, denotes connection […]. [@picket1815: 82]
+
+::: ex
 Opening lines of the second act of the play *Douglas* (1756) by John Home
 
-My name is Norval; on the Grampian Hills
-My father feeds his flocks; a frugal swain,
-Whose constant cares were to increase his store.
-And keep his only son, myself, at home.
+My name is Norval; on the Grampian Hills \
+My father feeds his flocks; a frugal swain, \
+Whose constant cares were to increase his store. \
+And keep his only son, myself, at home. \
+:::
 
-> It is to be observed, that in this method of parsing or analysing, the learner should be taught to connect the words that are governed by each other, by a vinculum or curve line, designated thus, ᫇ , which represents the words thus connected, as governed by the former or latter word; or thus, ⸺ , which shows the agreement between the words conjoined, and when applied to conjunctions, denotes connection […]. [@picket1815: 82]
-
-not used later? written with his son John W. Picket (1792-1875)
-
-- The Essentials of English Grammar (1830) https://google.com/books?id=Ie9BAQAAMAAJ
-- Principles of English grammar (1837) https://google.com/books?id=flEhAQAAMAAJ
-- Analyzer and expositor (1847) https://babel.hathitrust.org/cgi/pt?id=nyp.33433069240632&seq=9
+::: {.im #picket1815_80}
+*Vinculum* from Picket [-@picket1815: 80] for the opening of *Douglas* by John Home. The numbers refer to syntactic rules and the lines indicate government (curved lines) and agreement/conjunction (straight lines). The image shown here was recreated for improved legibility. The original image is available at the following link:
+:::
 
 ### Brown (1826) *The American system of English grammar* {#sec:brown1826}
 
