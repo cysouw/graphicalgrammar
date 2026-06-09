@@ -153,21 +153,41 @@ Dasjenige Objektiv, welches als das Hauptwort des ganzen Verhältnisses anzusehe
 
 ### Morell (1852) *The analysis of sentences* {#sec:morell1852}
 
-John Daniel Morell (1816-1891) was an inspector of schools. He also published scholarly works on philosophy and religion [basic biographical information in @chisholm1911]. In 1941 Morell studied philosophy under Immanuel Fichte in Bonn, Germany, where he became acquainted with the German grammatical developments. Accordingly, the complete title of Morell's first grammatical book was *The analysis of sentences explained and systematised after the plan of Becker's German grammar* [@morell1852], referring to Ferdinand Becker (see [@sec:becker1829]). In the introduction he also mentions the influence from Abraham Heußler, who in turn also refers to Becker (see [@sec:heußler1844]). As for the graphical approaches, Morell mainly seems to have been inspired by Heußler.
-
-From his background as a school inspector Morell decided to publish texts books on grammar because of "a deficiency experienced in the course of official duties as an Inspector of Schools" [@morell1852: iii]:
+John Daniel Morell (1816-1891) was an inspector of schools and published scholarly works on philosophy and religion [basic biographical information is presented by @chisholm1911]. From his background as a school inspector Morell decided to publish texts books on grammar because of "a deficiency experienced in the course of official duties as an Inspector of Schools" [@morell1852: iii]:
 
 > This deficiency was most felt in the collective examinations of Pupil Teachers, where, beyond the ordinary modes of parsing, I found it almost impossible to give out any questions on Syntax and the analysis of sentences, to which a common meaning was attached by the pupils assembled, or any number of distinct answers returned. [@morell1852: iii]
 
-Morell writes three different educational books on grammar, all of which have seen multiple revisions and reprints. They are widely cited by other grammarians in Great Brittain in the 19th Century:
+In 1941 Morell studied philosophy under Immanuel Fichte in Bonn, Germany, where he became acquainted with the German grammatical developments. In the title of his first grammatical book he explicitly mentions Karl Ferdinand Becker (see [@sec:becker1829]): *The analysis of sentences explained and systematised after the plan of Becker's German grammar* [@morell1852]. In the introduction he also mentions the influence from Abraham Heußler, who in turn also refers to Becker (see [@sec:heußler1844]). As for the graphical approaches, Morell mainly seems to have been inspired by Heußler. Morell writes three different educational books on grammar, all of which have seen multiple revisions and reprints. They are widely cited by other grammarians in Great Brittain in the 19th Century:
 
 - *The analysis of sentences* [@morell1852], at least reprinted up to a ninth edition from 1858.^[Various versions are available online in digital form. They do not appear to differ substantially from the first edition: second edition from 1854 <https://google.com/books?id=hHpaAAAAcAAJ>, fifth edition from 1855 <https://google.com/books?id=emwCAAAAQAAJ> and the ninth edition from 1858 <https://google.com/books?id=lSBAAAAAYAA>, all accessed 21 May 2026.]
 - *The essentials of English grammar*, originally published 1854. I have only been able to access a third enlarged edition with a slightly different title *The essentials of English grammar and analysis* [@morell1857a], which will be quoted here from an almost identical later edition that is available online [@morell1884].
 - *A grammar of the English language* [@morell1857], reprinted 1868 as a "new edition" [@morell1868].
 
-vertical tables: [@morell1852: 16, 25], horizontal table [@morell1852: 23-24], only difference is practical for fitting on the page analysis of complex sentences with letters [@morell1852: 44-49]
+In *The analysis of sentences* [@morell1852], he uses two analytical approach that are directly inspired by Heußler (see [@sec:heußler1844]). First, for the internal structure of a clause, Morell [-@morell1852: 16, 23-25] uses a table with four different columns: for subject, predicate, complements ("completion of predicate") and adjuncts ("extension of predicate"), as shown in [@fig:morell1852_25]. Heußler called these columns *Subjekt*, *Aussagewort*, *Prädikationsergänzung* and *Prädikationsbestimmung* (cf. [@fig:heußler1870_119]). Second, for complex sentences that consist of multiple clauses, Morell [-@morell1852: 44-49] uses a different approach as shown in [@fig:morell1852_45]. Each clause is indicated by a lowercase letter and the relative subordination is explained by reference to these letters. This approach to structural analysis was innovated by Becker (see [@sec:becker1829]), though Becker used digits instead of letters. The use of letters again indicates the influence of Heußler (cf. [@fig:heußler1870_121]). Heußler also used indendation to indicate the relative subordination of the clauses, but this aspect is not taken over by Morell.
 
-*Essentials of English grammar and analysis* simple examples with same structure on p. 46-52 in 1857 version and in revised version from 1884. Combined scheme with both approaches.
+::: {.im #morell1852_25}
+Basic analysis of sentence structure from Morell [-@morell1852: 25]. This approach with four different functional columns is clearly influenced by the *Satztheil-Analyse* of Heußler, see [@fig:heußler1870_119]. Interestingly, for Heußler, who was working on German grammar, these four columns were a purely functional analysis, because the German ordering of the sentence is quite flexible. Instead, for English these columns almost perfectly match the actual ordering of the sentence.
+:::
+
+::: {.im #morell1852_45}
+Analysis of the structure of a complex sentence from Morell [-@morell1852: 45]. Each clause is designated by a single letter and the relative subordination is indicated by reference to these letters. This approach to the analysis of sentence structure was invented by Becker (see [@sec:becker1829]), who used digits as reference. The use of lowercase letters indicates the influence from the *Satz-Analyse* from Heußler, cf. [@fig:heußler1870_121].
+:::
+
+In the *Essentials of English grammar and analysis* Morell repeats the same kinds of analysis, but much shorter [@morell1857a: 46-52]. He also adds a combined analysis for complex sentences merging the two approaches from above, as shown in [@fig:morell1884_52]. As an example he uses the quotation from Alexander Pope in [@next] and analyses this as four clauses as in [@fig:morell1852_45]. Each clause is then further analysed into the four columns of [@fig:morell1852_25]
+
+::: ex
+From *An Essay on Man, Epistle IV* (1733) by Alexander Pope
+
+Who noble ends by noble means obtains, /
+Or failing, smiles in exile or in chains, /
+Like good Aurelius should he reign, or bleed /
+Like Socrates, that man is blessed indeed.
+:::
+
+::: {.im #morell1884_52}
+Combined scheme for the analysis of a complex sentence [@last] from Morell [-@morell1857a: 52], cited here from an identical later version [@morell1884: 52]. This analysis is a combination of Morell's earlier approaches, shown in [@fig:morell1852_25] and [@fig:morell1852_45].
+:::
+
 
 grammar: [@morell1857] multiple modification p.80, simple sentence table 81-82 with "detailed analysis" complex sentence p.91-103. Three schemes
 
@@ -220,8 +240,13 @@ Also USA, but only using tables [@morris1877: 100-111]
 
 ### Mason (1881) *English grammar*
 
-first edition [@mason1858] no tables
-25th edition [@mason1881: 183-185] with tables (fold-out appendix after p268)
+Charles Peter Mason (1820-1900)
+
+- first edition [@mason1858] no tables
+- 15th edition 1871 https://books.google.de/books?id=jWwCAAAAQAAJ&redir_esc=y also with table (but not in scan) Notation in §507 is different from next edition
+- 21st edition 1876 already has large table (not in scan: https://www.google.de/?id=vx9AAAAAYAAJ) but here the notation with brackets and apostrophes is explained in §507, page 182-183. Underline as alternative, expanded in later version.
+- 23th edition https://catalog.hathitrust.org/Record/008680821
+- 25th edition [@mason1881: 183-185] with tables (fold-out appendix after p268) Interesting note on the bottom, but reference to "§507" seems erroneous? no: it refers to the earlier version. Other version??? https://books.google.de/books?vid=IOWA:31858024252847
 
 ### Fitch (1881) *Lectures on teaching* {#sec:fitch1881}
 
