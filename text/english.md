@@ -153,39 +153,41 @@ Dasjenige Objektiv, welches als das Hauptwort des ganzen Verhältnisses anzusehe
 
 ### Morell (1852) *The analysis of sentences* {#sec:morell1852}
 
-John Daniel Morell (1816-1891) was an inspector of schools. He also published scholarly works on philosophy and religion [@chisholm1911]. From his background as a school inspector he decided to publish texts books on grammar because of "a deficiency experienced in the course of official duties as an Inspector of Schools" [@morell1852: iii].
+John Daniel Morell (1816-1891) was an inspector of schools. He also published scholarly works on philosophy and religion [basic biographical information in @chisholm1911]. In 1941 Morell studied philosophy under Immanuel Fichte in Bonn, Germany, where he became acquainted with the German grammatical developments. Accordingly, the complete title of Morell's first grammatical book was *The analysis of sentences explained and systematised after the plan of Becker's German grammar* [@morell1852], referring to Ferdinand Becker (see [@sec:becker1829]). In the introduction he also mentions the influence from Abraham Heußler, who in turn also refers to Becker (see [@sec:heußler1844]). As for the graphical approaches, Morell mainly seems to have been inspired by Heußler.
+
+From his background as a school inspector Morell decided to publish texts books on grammar because of "a deficiency experienced in the course of official duties as an Inspector of Schools" [@morell1852: iii]:
 
 > This deficiency was most felt in the collective examinations of Pupil Teachers, where, beyond the ordinary modes of parsing, I found it almost impossible to give out any questions on Syntax and the analysis of sentences, to which a common meaning was attached by the pupils assembled, or any number of distinct answers returned. [@morell1852: iii]
 
-Morell writes three different educational books on grammar, all of which have seem multiple revisions and reprints. They are widely cited by other grammarians in Great Brittain in the 19th Century:
+Morell writes three different educational books on grammar, all of which have seen multiple revisions and reprints. They are widely cited by other grammarians in Great Brittain in the 19th Century:
 
 - *The analysis of sentences* [@morell1852], at least reprinted up to a ninth edition from 1858.^[Various versions are available online in digital form. They do not appear to differ substantially from the first edition: second edition from 1854 <https://google.com/books?id=hHpaAAAAcAAJ>, fifth edition from 1855 <https://google.com/books?id=emwCAAAAQAAJ> and the ninth edition from 1858 <https://google.com/books?id=lSBAAAAAYAA>, all accessed 21 May 2026.]
 - *The essentials of English grammar*, originally published 1854. I have only been able to access a third enlarged edition with a slightly different title *The essentials of English grammar and analysis* [@morell1857a], which will be quoted here from an almost identical later edition that is available online [@morell1884].
 - *A grammar of the English language* [@morell1857], reprinted 1868 as a "new edition" [@morell1868].
 
-In 1941 Morell studied Philosophy under Immanual Fichte in Bonn, Germany, where he probably became acquainted with the German grammatical developments. The complete title of Morell's first grammatical book accordingly was *The analysis of sentences explained and systematised after the plan of Becker's German grammar*, referring to Ferdinand Becker (see [@sec:becker1829]). In the introduction he also mentions the influence from Abraham Heussler.
+vertical tables: [@morell1852: 16, 25], horizontal table [@morell1852: 23-24], only difference is practical for fitting on the page analysis of complex sentences with letters [@morell1852: 44-49]
 
-[@morell1857; @morell1852] is based on Becker 1829! But simplifies into tables, and removes ordering. Tables become widespread in GB https://en.wikipedia.org/wiki/John_Daniel_Morell Studied in Bonn!
+*Essentials of English grammar and analysis* simple examples with same structure on p. 46-52 in 1857 version and in revised version from 1884. Combined scheme with both approaches.
 
-vertical tables: [@morell1852: 16, 25], horizontal table [@morell1852: 23-24], only difference is practical for fitting on the page
-
-analysis of complex sentences with letters [@morell1852: 44-49]
-
-*Essentials of English grammar and analysis* Originally 1854 (called just *Essentials of English grammar*) before grammar same simple sentence and detailed analysis as in grammar but shorter? 46-52 in revised version from 1884 https://babel.hathitrust.org/cgi/pt?id=wu.89099896268&seq=57
-
-grammar: [@morell1857] multiple modification p.80, simple sentence table 81-82 with "detailed analysis" complex sentence p.91-103
-
-"new edition" 1865 https://archive.org/details/in.ernet.dli.2015.91545/ [@morell1868]
+grammar: [@morell1857] multiple modification p.80, simple sentence table 81-82 with "detailed analysis" complex sentence p.91-103. Three schemes
 
 revision by Barnett (1893) after death Morell, long form analysis p.164, multiple modification p.163, Full method of analysing (three "schemes") p.180-185 https://babel.hathitrust.org/cgi/pt?id=oxu1.601887761&seq=189
 
 ### Lennie & Nutall (1863) *The principles of English grammar*
 
-revision of 1810 original by Lennie with expanded analysis of sentence by Nutall, p. 120-123
+William Lennie (c. 1779–1852) https://en.wikipedia.org/wiki/William_Lennie
 
-https://google.com/books?id=2MQDAAAAQAAJ
+revision of 1810 original by Lennie with expanded analysis of sentence by P. Austin Nutall, [@lennie1863: 120-123]
 
-not in Lennie (1815) https://google.com/books?id=RgphAAAAcAAJ
+not in third edition, Lennie (1815) https://google.com/books?id=RgphAAAAcAAJ
+
+### Bidlake (1863) *A new English grammar*
+
+John Purdue Bidlake
+
+very simple examples https://google.com/books?id=wsUDAAAAQAAJ p.158-172
+
+Many examples in 1887 https://google.com/books?vid=Oxford:601891620 page 127-167, solutions to questions here: https://google.com/books?vid=Oxford:602352734 (1884)
 
 ### Macallum (1867) *An eclectic grammar*
 
@@ -204,6 +206,13 @@ tabular based on Becker [@swinton1872: 154]
 Swinton (1872: iii-iv) “The introduction, some thirty years ago, of the method of Sentential Analysis, devised by the German philologist Becker, and adapted to American school use in the meritorious works of Professor Greene and others, marks the only considerable innovation, in this country, on the Murray system.”
 
 He writes many versions of grammars and textbooks, but never uses diagramming. He cites many GB-grammars (p. viii), so this work seems to belong more in that tradition
+
+### De Mornay (1873) *A grammar of the English language*
+
+Australia!
+
+three schemes from Morell, though critical in introduction
+https://google.com/books?id=6ZyJHtGEad4C page 102-103, 113-123
 
 ### Morris (1877) *English grammar*
 
