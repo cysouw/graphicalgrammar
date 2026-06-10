@@ -173,7 +173,7 @@ Basic analysis of sentence structure from Morell [-@morell1852: 25]. This approa
 Analysis of the structure of a complex sentence from Morell [-@morell1852: 45]. Each clause is designated by a single letter and the relative subordination is indicated by reference to these letters. This approach to the analysis of sentence structure was invented by Becker (see [@sec:becker1829]), who used digits as reference. The use of lowercase letters indicates the influence from the *Satz-Analyse* from Heußler, cf. [@fig:heußler1870_121].
 :::
 
-In the *Essentials of English grammar and analysis* Morell repeats the same kinds of analysis, but much shorter [@morell1857a: 46-52]. He also adds a combined analysis for complex sentences merging the two approaches from above, as shown in [@fig:morell1884_52]. As an example he uses the quotation from Alexander Pope in [@next] and analyses this as four clauses as in [@fig:morell1852_45]. Each clause is then further analysed into the four columns of [@fig:morell1852_25]
+In the *Essentials of English grammar and analysis* Morell repeats the same kinds of analysis, but much shorter [@morell1857a: 46-52]. He also adds a combined analysis for complex sentences, merging the two approaches from above, as shown in [@fig:morell1884_52]. As an example he uses the quotation from Alexander Pope in [@next], which he analyses as four clauses, as shown in [@fig:morell1852_45]. Each clause is then further analysed into the four columns of for the basic sentence analysis, as was previously shown in [@fig:morell1852_25].
 
 ::: ex
 From *An Essay on Man, Epistle IV* (1733) by Alexander Pope
@@ -191,7 +191,7 @@ Combined scheme for the analysis of a complex sentence [@last] from Morell [-@mo
 
 grammar: [@morell1857] multiple modification p.80, simple sentence table 81-82 with "detailed analysis" complex sentence p.91-103. Three schemes
 
-revision by Barnett (1893) after death Morell, long form analysis p.164, multiple modification p.163, Full method of analysing (three "schemes") p.180-185 https://babel.hathitrust.org/cgi/pt?id=oxu1.601887761&seq=189
+revision by Barnett (1893) after death Morell, long form analysis p.164, multiple modification p.163, Full method of analysing (three "schemes") p.180-185 https://babel.hathitrust.org/cgi/pt?id=oxu1.601887761&seq=189 basically the same as 1857 but with more examples and exercises.
 
 ### Lennie & Nutall (1863) *The principles of English grammar*
 
@@ -242,11 +242,18 @@ Also USA, but only using tables [@morris1877: 100-111]
 
 Charles Peter Mason (1820-1900)
 
+"His wife's obituary tells us Charles was "for many years the proprietor of a school at Denmark Hill" https://www.findagrave.com/memorial/291375335/charles-peter-mason
+
 - first edition [@mason1858] no tables
-- 15th edition 1871 https://books.google.de/books?id=jWwCAAAAQAAJ&redir_esc=y also with table (but not in scan) Notation in §507 is different from next edition
+- analysis in 1859, page 47-50 https://www.google.de/books/edition/The_First_Second_Book_of_Cowper_s_Task_W/JpkJKp2UeJ0C?hl=de&gbpv=1&dq=inauthor:%22Charles+Peter+Mason%22&printsec=frontcover
+- 2nd edition 1861 https://books.google.de/books?vid=Oxford:601887724&redir_esc=y no abbreviations for subordinate clauses yet.
+- same syntactic analysis in "paradise lost" exercise (1861): https://books.google.de/books?vid=Oxford:602350026&redir_esc=y
+- 15th edition 1871 https://books.google.de/books?id=jWwCAAAAQAAJ&redir_esc=y also with table (but not in scan) Notation in §507 is different from next edition. Has notation for subordination! Cites Bain in various footnotes, but not for notation.
 - 21st edition 1876 already has large table (not in scan: https://www.google.de/?id=vx9AAAAAYAAJ) but here the notation with brackets and apostrophes is explained in §507, page 182-183. Underline as alternative, expanded in later version.
 - 23th edition https://catalog.hathitrust.org/Record/008680821
 - 25th edition [@mason1881: 183-185] with tables (fold-out appendix after p268) Interesting note on the bottom, but reference to "§507" seems erroneous? no: it refers to the earlier version. Other version??? https://books.google.de/books?vid=IOWA:31858024252847
+
+> As regards the mode in which subordinate clauses are bracketed and denoted, although it is by no means essential to the analysis of a sentence, I can affirm from experience that it is attended with great advantage, and that pupils of ordinary intelligence master it without difficulty. [@mason1871: x]
 
 ### Fitch (1881) *Lectures on teaching* {#sec:fitch1881}
 
@@ -1153,7 +1160,9 @@ https://en.wikipedia.org/wiki/Alexander_Bain_(philosopher)
 *Symbolic expression* of a complex sentence from Bain [@bain1863: 168].
 :::
  
-superscript numbers? maybe Bauer, but not cited.
+superscript numbers? maybe Bauer, but not cited. Same year as Dalgleish (also not cited), notation comes only later in Mason
+
+revised as "higher english grammar" (1872) but basically the same , eg. p.168 https://www.google.de/books/edition/A_Higher_English_Grammar/E28CAAAAQAAJ?hl=de&gbpv=1&dq=inauthor:%22Alexander+Bain%22&printsec=frontcover
 
 ### Dalgleish (1863) *English composition*
 
