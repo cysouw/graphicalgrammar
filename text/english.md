@@ -1003,6 +1003,10 @@ Revised edition with original name *A practical grammar* in 1879 with diagrams [
 https://www.letsdiagram.com
 https://natureofwriting.com/course/diagramming-sentences
 
+### Whitney (1877) *Essentials of English grammar*
+
+very simple schemes and only very sparingly used, cf Exercises p. 204-205 https://www.google.de/books/edition/Essentials_of_English_Grammar/PlcXAAAAIAAJ?hl=de&gbpv=0
+
 ### Harvey (1878) *A practical grammar of the English language*
 
 Thomas Wadleigh Harvey (1821-1892)
