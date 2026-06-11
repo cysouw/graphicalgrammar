@@ -182,9 +182,9 @@ In the *Essentials of English grammar and analysis* Morell repeats the same kind
 ::: ex
 From *An Essay on Man, Epistle IV* (1733) by Alexander Pope
 
-Who noble ends by noble means obtains, /
-Or failing, smiles in exile or in chains, /
-Like good Aurelius should he reign, or bleed /
+Who noble ends by noble means obtains, \
+Or failing, smiles in exile or in chains, \
+Like good Aurelius should he reign, or bleed \
 Like Socrates, that man is blessed indeed.
 :::
 
