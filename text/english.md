@@ -117,35 +117,39 @@ earliest experience as a deaf-mute teacher [@storrs1880: 117]
 
 [@wing1885] further development of storrs/peet symbols for the deaf (which were also the basis for March 1869)
 
-## Syntactic tables
+## Syntax in Great Brittain
 
 Grammars in 18th Century: [@tieken2008] GB-Grammars in 19th Century: [@busse2021] https://web.archive.org/web/20250420085129/https://heidelgram.de/
 
-### Becker (1830) *A grammar of the German language* {#sec:becker1830}
+### Doherty (1841) *An introduction to English grammar*
 
-Note tables in [@becker1830: 253-261]
+Hugh Doherty (???-1891) was an active proponent of Fourierism, a form of utopian socialism [@pankhurst1956: 400-408; @jenkins2003]. I have not been able to find more details about his life. In the 1840s, in the midst of the most active period of this movement, he managed to also publish a grammar [@doherty1841]. Later in life he publishes on diverse subjects like the *Philosophy of History and Social Evolution* and *Organic Philosophy*.^[Available online at <https://books.google.de/books?vid=Harvard:32044088061064> and <https://books.google.de/books?vid=Harvard:HXCXTR>, accessed 19 May 2026.]
 
-To describe the word order of the German sentence uses a templatic approach [see @good2016 for the term "template"].
+In his grammar, he proposes a visual analysis of complex sentences using an "imitation of a tree" [@doherty1841: 133-134], as shown in [@fig:doherty1841_134] for the example in [@next]. He distinguishes between the primary elements (in capitals in the example, and horizontally placed in the graphic) and the auxiliary functions (depicted as diagonal branches).
 
-Über die Topik der deutschen Sprache [@herling1821]
+> To have a complete idea of the various modes of grouping the *primary* and the *auxiliary functions* together in a very complex or ambiguous sentence, we have only to write the sentence in the form of a tree, in which the primary functions form the trunk and the auxiliary functions the branches [@doherty1841: 133]
 
-word "Topik" already in use with Roth [@roth1799: 271 ff.], who influenced Herling. Analysis of Roth is rather simplistic.
-
-"grammatischen Topik" appears common use of language for "word order", e.g. an example from 1902 https://google.com/books?id=CDY8AQAAMAAJ
-
-Becker [-@becker1829: 376] calls this the *Konstruktion oder Topik des Satzes* 'construction or topic of the sentence* and he also uses the expression
-*topische Stellung* 'topical position'.^[This usage of the word *Topik* should not be confused with the modern linguistik usage of this term with the meaning "theme". Becker seems to have come up with this term based on the Greek meaning of *τόπος* 'place', i.e. placement of the words in a sentence. In German pronunciation, it would probably have been pronounced with a long/tense "o" instead of the short/lax "o" with which the modern term "Topik" is pronounced in German linguistics.] In the English translation, Becker [-@becker1830: 250ff.] only uses the term "construction" instead of "topic". Then, in the *Schulgrammatik* [@becker1831: 201], he uses the terms *Konstruktion oder die Wortfolge des Satzes* 'construction or word order of the sentence'. And finally, in the the *Leitfaden* [@becker1833: 66ff.], he simply calls it *Wortfolge* 'word order'.
-
-Kopula vs. Prädikativ [@becker1829: 378]
-copula vs. predicate [@becker1830: 252]
-Aussagewort vs. Ausgesagtes [@becker1833: 67]
-
-Dasjenige Objektiv, welches als das Hauptwort des ganzen Verhältnisses anzusehen ist (das Hauptobjektiv), erhält seine Stelle unmittelbar vor dem Prädikativ; und die andern Objektiven treten nach der Abstufung ihrer Unterordnung vor das Hauptobjektiv, indem jedes derselben dem ihm zunächst
-übergeordneten Objektiv unmittelbar vorangeht. Im allgemeinen geht dem Begriffsworte das Formwort, dem Kasus das Orts- und Zeitadverb, dem Kasus der unmittelbar kausalen Beziehung der Kasus der mittelbar kausalen Beziehung, dem Kasus der Sache der Kasus der Person, und dem Ortsadverb das Zeitadverb voran; [@becker1829: 387-388]
-
-::: {.im #becker1830_261}
-[@becker1830: 261]
+::: ex
+When the air is mild, WE sometimes, in the course of our evening walks, MEET ON the new PARADE your beautiful sister HELLEN, who is so much admired by every one for her modesty; AND sometimes WE CONVERSE WITH-HER.
 :::
+
+::: {.im #doherty1841_134}
+Structure of a complex sentence [@last] *in the form of a tree* from Doherty [-@doherty1841: 134]. The main sentence is the horizontal "trunk", while the auxiliary words and phrases are depicted as diagonal "branches".
+:::
+
+In an appendix at the end of the grammar ["to excite the curiosity of the student", @doherty1841: 209], he discusses the intricate order of words that can occur in Latin. Using a quotation for Horace [@next], he argues that this sentence has a bracketed structure, which he explains symbolically as shown in [@fig:doherty1841_235]. His analysis suggests a reading of this sentence as given in the translation in [@next].
+
+::: ex
+| Latin [Horatius, Epistles 1:15, cited in @doherty1841: 235]
+| dicta-que cessantem nervis elidere morbum sulfura 
+| chant‑AND linger.PART nerve.ABL.PL remove.INF disease.ACC sulfur.NOM
+| Chants and sulfur eliminate from the nerves the lingering disease
+:::
+
+::: {.im #doherty1841_235}
+Hierarchical brackets to explain the structure of the Latin example from Horace [@last] by Doherty [-@doherty1841: 235]. His brackets suggest an interpretation of this sentence as given in the translation in [@last].
+:::
+
 
 ### James (1847) *The elements of grammar*
 
@@ -161,19 +165,19 @@ In 1941 Morell studied philosophy under Immanuel Fichte in Bonn, Germany, where 
 
 - *The analysis of sentences* [@morell1852], at least reprinted up to a ninth edition from 1858.^[Various versions are available online in digital form. They do not appear to differ substantially from the first edition: second edition from 1854 <https://google.com/books?id=hHpaAAAAcAAJ>, fifth edition from 1855 <https://google.com/books?id=emwCAAAAQAAJ> and the ninth edition from 1858 <https://google.com/books?id=lSBAAAAAYAA>, all accessed 21 May 2026.]
 - *The essentials of English grammar*, originally published 1854. I have only been able to access a third enlarged edition with a slightly different title *The essentials of English grammar and analysis* [@morell1857a], which will be quoted here from an almost identical later edition that is available online [@morell1884].
-- *A grammar of the English language* [@morell1857], reprinted 1868 as a "new edition" [@morell1868].
+- *A grammar of the English language* [@morell1857], reprinted many times, revised 1868 as a "new edition" [@morell1868] and again revised after Morell's death by Percy Barnett as *The new Morell* [@morell1893]. The content of these editions does not change much, except for the addition of many more exercises.
 
-In *The analysis of sentences* [@morell1852], he uses two analytical approach that are directly inspired by Heußler (see [@sec:heußler1844]). First, for the internal structure of a clause, Morell [-@morell1852: 16, 23-25] uses a table with four different columns: for subject, predicate, complements ("completion of predicate") and adjuncts ("extension of predicate"), as shown in [@fig:morell1852_25]. Heußler called these columns *Subjekt*, *Aussagewort*, *Prädikationsergänzung* and *Prädikationsbestimmung* (cf. [@fig:heußler1870_119]). Second, for complex sentences that consist of multiple clauses, Morell [-@morell1852: 44-49] uses a different approach as shown in [@fig:morell1852_45]. Each clause is indicated by a lowercase letter and the relative subordination is explained by reference to these letters. This approach to structural analysis was innovated by Becker (see [@sec:becker1829]), though Becker used digits instead of letters. The use of letters again indicates the influence of Heußler (cf. [@fig:heußler1870_121]). Heußler also used indendation to indicate the relative subordination of the clauses, but this aspect is not taken over by Morell.
+In *The analysis of sentences* Morell uses two analytical approach that are directly inspired by Heußler (see [@sec:heußler1844]). First, for the internal structure of a clause, Morell [-@morell1852: 16, 23-25] uses a table with four different columns: for subject, predicate, complements ("completion of predicate") and adjuncts ("extension of predicate"), as shown in [@fig:morell1852_25]. Heußler called these columns *Subjekt*, *Aussagewort*, *Prädikationsergänzung* and *Prädikationsbestimmung* (cf. [@fig:heußler1870_119]). Second, for complex sentences that consist of multiple clauses, Morell [-@morell1852: 44-49] uses a different approach as shown in [@fig:morell1852_45]. Each clause is indicated by a lowercase letter and the relative subordination is explained by reference to these letters. This approach to structural analysis was innovated by Becker (see [@sec:becker1829]), though Becker used digits instead of letters. The use of letters again indicates the influence of Heußler (cf. [@fig:heußler1870_121]). Heußler also used indendation to indicate the relative subordination of the clauses, but this aspect is not taken over by Morell.
 
 ::: {.im #morell1852_25}
-Basic analysis of sentence structure from Morell [-@morell1852: 25]. This approach with four different functional columns is clearly influenced by the *Satztheil-Analyse* of Heußler, see [@fig:heußler1870_119]. Interestingly, for Heußler, who was working on German grammar, these four columns were a purely functional analysis, because the German ordering of the sentence is quite flexible. Instead, for English these columns almost perfectly match the actual ordering of the sentence.
+Basic analysis of sentence structure from Morell [-@morell1852: 25]. This approach with four different functional columns is clearly influenced by the *Satztheil-Analyse* of Heußler, see [@fig:heußler1870_119]. Interestingly, for Heußler, who was working on German grammar, these four columns were a purely functional analysis, because the German ordering of the sentence is quite flexible. Instead, for English these columns almost perfectly match the actual ordering of the sentence, so this approach is much more apt for analysing English than German.
 :::
 
 ::: {.im #morell1852_45}
-Analysis of the structure of a complex sentence from Morell [-@morell1852: 45]. Each clause is designated by a single letter and the relative subordination is indicated by reference to these letters. This approach to the analysis of sentence structure was invented by Becker (see [@sec:becker1829]), who used digits as reference. The use of lowercase letters indicates the influence from the *Satz-Analyse* from Heußler, cf. [@fig:heußler1870_121].
+Analysis of the structure of a complex sentence from Morell [-@morell1852: 45]. Each clause is designated by a single letter and the relative subordination is indicated by reference to these letters. This approach to the analysis of sentence structure was invented by Becker (see [@sec:becker1829]), who used digits as reference. The use of lowercase letters indicates the influence from the *Satz-Analyse* from Heußler, cf. [@fig:heußler1870_121]. Heußler also used indentation for subordination, but that aspect is not taken over by Morell.
 :::
 
-In the *Essentials of English grammar and analysis* Morell repeats the same kinds of analysis, but much shorter [@morell1857a: 46-52]. He also adds a combined analysis for complex sentences, merging the two approaches from above, as shown in [@fig:morell1884_52]. As an example he uses the quotation from Alexander Pope in [@next], which he analyses as four clauses, as shown in [@fig:morell1852_45]. Each clause is then further analysed into the four columns of for the basic sentence analysis, as was previously shown in [@fig:morell1852_25].
+In the *Essentials of English grammar and analysis* Morell repeats the same kinds of analysis, but much shorter [@morell1857a: 46-52]. He also adds a combined analysis for complex sentences, merging the two approaches from above, as shown in [@fig:morell1884_52]. As an example he uses the quotation from Alexander Pope in [@next], which he analyses as five clauses labelled *a* through *e*, as shown in [@fig:morell1852_45]. Each clause is then further analysed into the four columns of for the basic sentence analysis, as was previously only used for individual sentences (cf. [@fig:morell1852_25]).
 
 ::: ex
 From *An Essay on Man, Epistle IV* (1733) by Alexander Pope
@@ -185,13 +189,160 @@ Like Socrates, that man is blessed indeed.
 :::
 
 ::: {.im #morell1884_52}
-Combined scheme for the analysis of a complex sentence [@last] from Morell [-@morell1857a: 52], cited here from an identical later version [@morell1884: 52]. This analysis is a combination of Morell's earlier approaches, shown in [@fig:morell1852_25] and [@fig:morell1852_45].
+Analysis of a complex sentence by Pope [@last] as a combined scheme from Morell [-@morell1857a: 52], cited here from an identical later version [@morell1884: 52]. This analysis is a combination of Morell's earlier approaches, shown in [@fig:morell1852_25] and [@fig:morell1852_45]. The complex sentence is analysed as five clauses labelled *a* through *e*, each of which is internally analysed. The subordination structure is indicate by reference to the lowercase letters.
 :::
 
+In *A grammar of the English language* Morell further develops his proposals into a set of three schemes of increasing detail for the analysis of complex sentences [@morell1857: 91-103]. The first scheme is the basic subordination structure by using lowercase letters, as shown in [@fig:morell1852_25]. The second scheme is the combined table from the *Essentials of English grammar*, as shown in [@fig:morell1884_52]. Additionally, he now adds a third scheme, which is much closer to the original proposals by Becker (cf. [@fig:becker1829_xvii]), separating syntactic parts of the sentence and numbering them, as shown in [@fig:morell1857_93]. Oddly, Morell is not very consistent in the usage of the numbers for the encoding of the relative modification and subordination. Additionally, the parts of the sentence that are separated and numbers are a strange mix of different kinds of structures.
 
-grammar: [@morell1857] multiple modification p.80, simple sentence table 81-82 with "detailed analysis" complex sentence p.91-103. Three schemes
+::: ex
+A reader, unacquainted with the real nature of a classical education, will probably undervalue it, when he sees that so large a portion of time is devoted to the study of a few ancient authors, whose works seem to have no direct bearing on the studies and duties of our own generation.
+:::
 
-revision by Barnett (1893) after death Morell, long form analysis p.164, multiple modification p.163, Full method of analysing (three "schemes") p.180-185 https://babel.hathitrust.org/cgi/pt?id=oxu1.601887761&seq=189 basically the same as 1857 but with more examples and exercises.
+::: {.im #morell1857_93}
+"Third scheme" for the analysis of the sentence in [@last] from Morell [-@morell1857: 93]. This approach is much closer to the original from Becker, cf. [@fig:becker1829_xvii], but Morell does not consistently follow through with the usage of the numbers to encode the relative modification. Later authors, following Morel's example, will expand on this approach under the term "long-form analysis".
+:::
+
+### Mason (1858) *English grammar*
+
+Charles Peter Mason (1820-1900)
+
+"His wife's obituary tells us Charles was "for many years the proprietor of a school at Denmark Hill" https://www.findagrave.com/memorial/291375335/charles-peter-mason
+
+- first edition [@mason1858] no tables
+- analysis in 1859, page 47-50 https://www.google.de/books/edition/The_First_Second_Book_of_Cowper_s_Task_W/JpkJKp2UeJ0C?hl=de&gbpv=1&dq=inauthor:%22Charles+Peter+Mason%22&printsec=frontcover
+- 2nd edition 1861 https://books.google.de/books?vid=Oxford:601887724&redir_esc=y no abbreviations for subordinate clauses yet.
+- same syntactic analysis in "paradise lost" exercise (1861): https://books.google.de/books?vid=Oxford:602350026&redir_esc=y
+- 15th edition 1871 https://books.google.de/books?id=jWwCAAAAQAAJ&redir_esc=y also with table (but not in scan) Notation in §507 is different from next edition. Has notation for subordination! Cites Bain in various footnotes, but not for notation.
+- 21st edition 1876 already has large table (not in scan: https://www.google.de/?id=vx9AAAAAYAAJ) but here the notation with brackets and apostrophes is explained in §507, page 182-183. Underline as alternative, expanded in later version.
+- 23th edition https://catalog.hathitrust.org/Record/008680821
+- 25th edition [@mason1881: 183-185] with tables (fold-out appendix after p268) Interesting note on the bottom, but reference to "§507" seems erroneous? no: it refers to the earlier version. Other version??? https://books.google.de/books?vid=IOWA:31858024252847
+
+> As regards the mode in which subordinate clauses are bracketed and denoted, although it is by no means essential to the analysis of a sentence, I can affirm from experience that it is attended with great advantage, and that pupils of ordinary intelligence master it without difficulty. [@mason1871: x]
+
+### Meiklejohn (1862) *An easy English grammar for beginners*
+
+John Miller Dow Meiklejohn (1830-1902) was a prolific textbook author and in 1876 became the first professor of education in Great Brittain, at the University of St. Andrews. A detailed account of his life and work is provided by Graves [-@graves2004; -@graves2008]. Meiklejohn's birthday is widely listed as 1836, for example in the *Oxford Dictionary of National Biography* [@montmorency2004], but Graves [-@graves2008: 11] argues that this is an error. Meiklejohn published an enormous number of different textbooks for use in schools [@graves2008: 58-56, 91-109, see also 132-137 for a full list of his publications], partly because his income at St. Andrews was not very high [@graves2008: 50-51, 121]. Many of the books published under his name were probably researched and written by other people, while Meiklejohn had the editorial control [@graves2008: 63].
+
+Before his tenure at St. Andrews Meiklejohn already had published a four-volume grammatical textbook, *An easy English grammar for beginners*, published between 1862 and 1866. The first volume deals with the morphological structure of words and does not contain any graphical analyses [@meiklejohn1862a]. The second volume deals with sentences and it contains a single example of graphical syntax, as shown in [@fig:meiklejohn1862_20], analysing the structure of the sentence [@next a]. This graphical approach is clearly inspired by Clark (see [@sec:clark1847]). Meiklejohn does not cite Clark, but he was in Washington, DC, as a private tutor in the years 1853-1854 [@graves2008: 13-14], so he would have ample opportunity to come across the works of Clark. Meiklejohn does not pursue this avenue further in his numerous later works.
+
+In the third volume of the *Easy English grammar* contains a discussion of parsing, but without any tables or graphics [@meiklejohn1864: 35-40].
+- table in book four [@meiklejohn1866: 9]
+- "formula" with letters like Lehmann, but format seems most similar to Bauer 1850 (meiklejohn uses a/b/c for adjectival/adverbial/noun=relative/adverbial/complement, note Bauer uses a/b/c for noun/adjective/adverb, respectively...) [@meiklejohn1866: 10-12], 
+- various options for analysis [@meiklejohn1866: 65-73], specifically note the tree-structure [@meiklejohn1866: 73]
+
+::: ex
+- A lady of my acquaintance kept a pet canary for many years in a cage. [@meiklejohn1862: 18]
+- [A]{.grey} The gardener, [*a (s)*]{.grey} who is engaged at Mr. Mann's, [A]{.grey} sold the fruit, [*a (o)*]{.grey} which was not quite ripe, [*b*]{.grey} when the market was over.
+:::
+
+::: {.im #meiklejohn1862_20}
+Illustration for [@last a] from Meiklejohn [-@meiklejohn1862: 20]. This graphical approach seems very likely to be inspired by the diagrams from Clark (see [@sec:clark1847]).
+:::
+
+Meiklejohn does not cite Bauer, but he was very proficient in German form an early age on [@graves2008: 12-13]. At 25 years of age Meiklejohn translated Kant's *Critique of pure reason* into English [@graves2008: 12-17]. Given this background, it would not be surprising that he ran across a book with the pertinent title *Grundzüge der neuhochdeutschen Grammatik* [@bauer1850].
+
+::: {.im #meiklejohn1866_12}
+*Formula* for [@last b] from Meiklejohn [-@meiklejohn1866: 12], probably inspired by Bauer (see [@sec:bauer1850]). Meiklejohn explains that he uses lower-case letters for different kinds of subordinate clauses, specifically using *a*=adjectival (i.e. relative clause), *b*=adverbial and *c*=noun (i.e. complement clause). This is similar to Bauer, though Bauer uses the letters differently (*a*=complement, *b*=relative, *c*=adverbial). At other points in his book, Meiklejohn appears to be not consistent in the usage of these letters (cf. [@fig:meiklejohn1866_73])
+:::
+
+The last of Meiklejohn's proposed analyses for complex sentences is shown in [@fig:meiklejohn1866_73] for the unquoted poetic excerpt in [@next] from Oliver Goldsmith (1770) *The deserted village*. Meiklejohn did not explicitly name the author, probably because he assumed that every reader would know this poem. Also note that the text in the graphic [@fig:meiklejohn1866_73] slightly deviates from the original poem [@next]. Meiklejohn very probably quoted the poem from memory when writing his book. 
+
+Meiklejohn does not present any detailed explanation of the principles behind this analysis. Specifically, the analysis of the subordinate clauses (with the lower-case letters) is inconsistent with his earlier explanations. He still uses the letters *a,b,c* but now they appear to indicate different kinds of subordination. The letter *a* and *b* both are used for adverbial clauses, while *c* is used for a relative clause. Also, the non-finite adverbial clause *the young contending* is not analysed as subordinate, while the multiply-embedded construction *by holding out to tire each other down* and the final relative clause *that would those looks reprove* are both ignored in this analysis by Meiklejohn.
+
+::: ex
+[P.S.]{.grey} How often have I blest the coming day, \
+[A.1.]{.grey} When toil remitting lent its turn to play, \
+[A.2.]{.grey} And all the village train from labour free \
+Led up their sports beneath the spreading tree, \
+[B.1.]{.grey} While many a pastime circled in the shade, \
+[(Ex. of) B.1.]{.grey} The young contending [B.1.*a.*]{.grey} as the old surveyed;\
+[B.2.]{.grey} And many a gambol frolicked o’er the ground, \
+[B.3.]{.grey} And slights of art and feats of strength went round. \
+[B.4.]{.grey} And still [B.4*a*.]{.grey} as each repeated pleasure tired, \
+[B.4.]{.grey} Succeeding sports the mirthful band inspired; \
+[The sports=1.]{.grey} The dancing pair [B.4*c.*]{.grey} that simply sought renown \
+By holding out to tire each other down, \
+[2.]{.grey} The swain mistrustless of his smutted face, \
+[B.4*b.*]{.grey} While secret laughter tittered round the place, \
+[3.]{.grey} The bashful virgin’s side-long looks of love, \
+[4.]{.grey} The matron’s glance [?]{.grey} that would those looks reprove.
+:::
+
+::: {.im #meiklejohn1866_73}
+[@meiklejohn1866: 73]
+:::
+
+*The teaching of little boys*  [@meiklejohn1879], "draw a map of a sentence" p. 20, 23
+
+> For a Latin sentence is a much more complex and troublesome machine than an English sentence; it requires taking to pieces more carefully and putting together again with more skill. The little boy may very easily lose his way among the clauses, and some of them are as difficult to take as a five-barred gate; and he has only a very confused feeling of the meaning of the whole sentence. But the black-board, which like a kind fairy steps in to help him, comes to unravel the confusion, and to make everything as plain, or plainer, than an English sentence. On the black-board we can draw a map of a sentence; every member falls into his own place; and all becomes quite clear. [@meiklejohn1879: 19]
+
+::: ex
+| Caesar *De Bello Gallico,* chapter 16
+| eo (autem) frumento (quod) flumine Arari navibus subvexerat (propterea) uti minus poterat (quod) iter ab Arari Helvetii averterant, a quibus discedere nolebat.
+| that (however) grain (which) river.ABL A ships.ABL transport.PERF.3SG (therefore) use less can.PAST.3SG (because) route from A H divert.PAST.3PL from whom depart not.want.PAST.3SG
+| However, that grain, which he had transported up the river Arar by ship, he could not use it, because the Helvetii, from whom he did not want to turn away, had diverted their route away from the Arar River
+:::
+
+::: {.im #meiklejohn1879_20}
+*Map of the sentence* [@last] from Meiklejohn [-@meiklejohn1879: 20]. The Latin words in brackets in [@last] are not written in the graphic. Meiklejohn explains that the single line is a conjunctions (*quod* 'because'), the double lines are relatives and the dotted line is *a connection in thought* (actually, a simple grammatical object). Meiklejohn also claims that "the mapping also shows why Caesar used *minus*, rather than *non*", but to me the graphic does not make this choice immediately clear.
+:::
+
+*The standard grammar* (1882)
+
+- graphical display "mapping", "mapping out" [@meiklejohn1882: 20, 22, 147, 166-169]
+- continuous analysis p. 170-172, table p. 177, citing examples from Fitch, see [@sec:fitch1881]
+
+quoting Joseph Addison's 1711 essay *Mischiefs Of Party Spirit*
+
+::: ex
+- My worthy friend, Sir Roger, when we are talking of the malice of parties, very frequently tells us an accident that happened to him when he was a school-boy, which was at a time when the feuds ran high between the Roundheads and Cavaliers.
+:::
+
+::: {.im #meiklejohn1882_20}
+*What words go with each other* [@meiklejohn1882: 20]
+:::
+
+::: {.im #meiklejohn1882_168}
+*Mapping out* [@meiklejohn1882: 168]
+:::
+
+*The English language*: 
+
+- "mapping out" = diagramming? [@meiklejohn1886: 92, 97-98]
+- tables "pigeon holed"  [@meiklejohn1886: 98]
+- "continuous analysis = Becker-style [@meiklejohn1886: 99]
+
+> It is of the greatest importance to get the **eye** to help the mind, and to present to the **sight** if possible–either on paper or on the black-board–the sentence we have to consider. This is called **mapping-out**. [@meiklejohn1886: 92, emphasis in original]
+
+> Such a mapping-out enables us easily to see, with the bodily as well as with the mind's eye, what is the main purpose of all analysis—to find out which words go with which, and what is the real build of the sentence. Hence, unless we see at a glance the build of the sentence we are going to analyse, we ought, before doing so, to set to work and map it out.  [@meiklejohn1886: 93]
+
+Mapping out is not for the students, but for the teacher to explain the structure. It is not included in the exercises.
+
+*New grammar of the English language* [@meiklejohn1887] 
+
+Reprint of first part of "the English language" with exercises added. Syntax exercises [@meiklejohn1887: 211-219] only tables and continuous analysis. Mapping out is not an exercise! Keys to exercises [@meiklejohn1894: 32ff.]
+
+About analysis Scheme V [@meiklejohn1887: 213], he notes: "This is the scheme prescribed by the Department for the scholarship examination." [@meiklejohn1887: 218]
+
+*Short grammar of the English tongue* (1890) simplified version of new grammar
+
+- mapping out [@meiklejohn1890: 149-151, 159-160]
+- tabular analysis [@meiklejohn1890: 152, 161], returning to capital/lowercase distinction on p. 161
+
+"The single lines represent prepositions; the double lines conjunctions; and the double lines with a bar across relative pronouns" p.159. Meiklejohn seems not really understand complementizers ("noun-sentences"). They are included with the "conjunctions", but often erroneaously analysed as relative clauses. Footnote (ii) on page 160 analyses "how the world looked" rightly, but "what these sightless orbs have seen" is wrongly classified as relative.
+
+Horace Smith's *Address to a Mummy*
+
+::: ex
+Thou couldst develop, if that withered tongue \
+Might tell us what these sightless orbs have seen, \
+How the world looked when it was fresh and young, \
+And the great deluge still had left it green;
+:::
+
+::: {.im #meiklejohn1890_160}
+[@meiklejohn1890: 160]
+:::
 
 ### Lennie & Nutall (1863) *The principles of English grammar*
 
@@ -200,6 +351,27 @@ William Lennie (c. 1779–1852) https://en.wikipedia.org/wiki/William_Lennie
 revision of 1810 original by Lennie with expanded analysis of sentence by P. Austin Nutall, [@lennie1863: 120-123]
 
 not in third edition, Lennie (1815) https://google.com/books?id=RgphAAAAcAAJ
+
+### Bain (1863) *An English grammar*
+
+https://en.wikipedia.org/wiki/Alexander_Bain_(philosopher)
+
+::: {.im #bain1863_168}
+*Symbolic expression* of a complex sentence from Bain [@bain1863: 168].
+:::
+ 
+superscript numbers? maybe Bauer, but not cited. Same year as Dalgleish (also not cited), notation comes only later in Mason
+
+revised as "higher english grammar" (1872) but basically the same , eg. p.168 https://www.google.de/books/edition/A_Higher_English_Grammar/E28CAAAAQAAJ?hl=de&gbpv=1&dq=inauthor:%22Alexander+Bain%22&printsec=frontcover
+
+### Dalgleish (1863) *English composition*
+
+Walter Scott Dalgleish (1834-1897) https://en.wikipedia.org/wiki/Walter_Scott_Dalgleish
+
+- *English composition* original 1863, third edition [@dalgleish1864] p.15, 36ff.: Bauer-style letters. Keys to examples in [@dalgleish1863]
+- *Grammatical analysis*, original 1865, third edition [@dalgleish1866], American edition [@dalgleish1869] cites Morell (p.4) and Bain. Keys [@dalgleish1865], follows second edition
+- *Progressive English grammar* [@dalgleish1866a], second edition [@dalgleish1868]
+- *Outlines of English grammar and analysis* [@dalgleish1867] tables p. 67, 72, 75
 
 ### Bidlake (1863) *A new English grammar*
 
@@ -227,6 +399,8 @@ Swinton (1872: iii-iv) “The introduction, some thirty years ago, of the method
 
 He writes many versions of grammars and textbooks, but never uses diagramming. He cites many GB-grammars (p. viii), so this work seems to belong more in that tradition
 
+https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Swinton%2C%20William%2C%201833%2D1892
+
 ### De Mornay (1873) *A grammar of the English language*
 
 Australia!
@@ -237,23 +411,6 @@ https://google.com/books?id=6ZyJHtGEad4C page 102-103, 113-123
 ### Morris (1877) *English grammar*
 
 Also USA, but only using tables [@morris1877: 100-111]
-
-### Mason (1881) *English grammar*
-
-Charles Peter Mason (1820-1900)
-
-"His wife's obituary tells us Charles was "for many years the proprietor of a school at Denmark Hill" https://www.findagrave.com/memorial/291375335/charles-peter-mason
-
-- first edition [@mason1858] no tables
-- analysis in 1859, page 47-50 https://www.google.de/books/edition/The_First_Second_Book_of_Cowper_s_Task_W/JpkJKp2UeJ0C?hl=de&gbpv=1&dq=inauthor:%22Charles+Peter+Mason%22&printsec=frontcover
-- 2nd edition 1861 https://books.google.de/books?vid=Oxford:601887724&redir_esc=y no abbreviations for subordinate clauses yet.
-- same syntactic analysis in "paradise lost" exercise (1861): https://books.google.de/books?vid=Oxford:602350026&redir_esc=y
-- 15th edition 1871 https://books.google.de/books?id=jWwCAAAAQAAJ&redir_esc=y also with table (but not in scan) Notation in §507 is different from next edition. Has notation for subordination! Cites Bain in various footnotes, but not for notation.
-- 21st edition 1876 already has large table (not in scan: https://www.google.de/?id=vx9AAAAAYAAJ) but here the notation with brackets and apostrophes is explained in §507, page 182-183. Underline as alternative, expanded in later version.
-- 23th edition https://catalog.hathitrust.org/Record/008680821
-- 25th edition [@mason1881: 183-185] with tables (fold-out appendix after p268) Interesting note on the bottom, but reference to "§507" seems erroneous? no: it refers to the earlier version. Other version??? https://books.google.de/books?vid=IOWA:31858024252847
-
-> As regards the mode in which subordinate clauses are bracketed and denoted, although it is by no means essential to the analysis of a sentence, I can affirm from experience that it is attended with great advantage, and that pupils of ordinary intelligence master it without difficulty. [@mason1871: x]
 
 ### Fitch (1881) *Lectures on teaching* {#sec:fitch1881}
 
@@ -287,6 +444,12 @@ many different books and version, first collaboration from 1873
 
 very short discussion of syntax with two tables, p.224-225. This version is the 24th edition, book originally from mid century. https://archive.org/details/dli.ernet.242998/
 
+### Dale (1897) *The teaching of the mother tongue in Germany*
+
+Describing schools in germany
+
+Kern is cited (p558) graphical display is presented as "normal" in Germany, example [@dale1897: 557]
+
 ### Nesfield (1898) *English grammar, past and present*
 
 tables [@nesfield1898: 105-117]
@@ -296,6 +459,45 @@ tables [@nesfield1898: 105-117]
 Charles Talbut Onions (1873-1965) Many editions, at least untill 1932
 
 tables and indented complex sentences [@onions1904] *sentence picture* p.25
+
+### Adamson (1907) *The practice of instruction*
+
+"schema" = diagramming? [@adamson1907: 176-177] It is not the mapping of Meiklejohn!
+
+> THe schema exemplified below is intended primarily for the teacher's use at the blackboard, though scholars may also use it for rough drafts before settings about a parsing exercise; it mey profitably supersede the customary 'table' wherever its few and simple convenstions are understood (p.176)
+
+edited book, but section on *The Mother-Tongue* (p. 153-190) is written by adamson
+
+thanks Meiklejohn, but on Mathematics?! (p.vii) also in language part (p.162)
+
+cites fitch (1881) on templatic columns (on p. 175), but does not cite inspiration for "schema"
+
+(p.189) cites dale, cites Kittredge & Arnold (but 1905, does it already have diagrams then?)
+
+### Palser & Lewis (1923) *A new outline grammar of function*
+
+diagramming? [@palser1923] Also used in “Memorandum on the teaching of English” (1927: page 8)
+
+"The graphic method of analysis we have used for many years, with modifications from time to time as experience required." (p6)
+
+citing: Adamson and Dale (citing Kern!)
+
+### Fry (1925) *A key to language* {#sec:fry1925}
+
+own graphics
+
+Fry [@fry1925: 12] commenting on Palser/Lewis: “all the chief features of my method have been used by myself and a few of my pupils for something like twenty years.”
+
+::: {.im #fry1925_64}
+[@fry1925: 64], cited by Jespersen [@jespersen1937: 83]
+:::
+
+### Palmer (1938) *The new method grammar*
+
+[@palmer1938]
+
+bio: https://warwick.ac.uk/fac/soc/al/research/collections/elt_archive/publications/smith_1999.pdf
+
 
 ## Proto-Diagramming
 
@@ -1120,227 +1322,6 @@ already escaped [at least] to this extent a plague so dire, so fearful, and so
 harmful to the body politic".
 
 Later "flow charts", introduced in [@hall1964: 206-207], much further developed in *Essentials of English phrase- and clause structures* [@hall1969]
-
-## Diagrams in Great Brittain
-
-### Doherty (1841) *An introduction to English grammar*
-
-Hugh Doherty (???-1891) was an active proponent of Fourierism, a form of utopian socialism [@pankhurst1956: 400-408; @jenkins2003]. I have not been able to find more details about his life. In the 1840s, in the midst of the most active period of this movement, he managed to also publish a grammar [@doherty1841]. Later in life he publishes on diverse subjects like the *Philosophy of History and Social Evolution* and *Organic Philosophy*.^[Available online at <https://books.google.de/books?vid=Harvard:32044088061064> and <https://books.google.de/books?vid=Harvard:HXCXTR>, accessed 19 May 2026.]
-
-In his grammar, he proposes a visual analysis of complex sentences using an "imitation of a tree" [@doherty1841: 133-134], as shown in [@fig:doherty1841_134] for the example in [@next]. He distinguishes between the primary elements (in capitals in the example, and horizontally placed in the graphic) and the auxiliary functions (depicted as diagonal branches).
-
-> To have a complete idea of the various modes of grouping the *primary* and the *auxiliary functions* together in a very complex or ambiguous sentence, we have only to write the sentence in the form of a tree, in which the primary functions form the trunk and the auxiliary functions the branches [@doherty1841: 133]
-
-::: ex
-When the air is mild, WE sometimes, in the course of our evening walks, MEET ON the new PARADE your beautiful sister HELLEN, who is so much admired by every one for her modesty; AND sometimes WE CONVERSE WITH-HER.
-:::
-
-::: {.im #doherty1841_134}
-Structure of a complex sentence [@last] *in the form of a tree* from Doherty [-@doherty1841: 134]. The main sentence is the horizontal "trunk", while the auxiliary words and phrases are depicted as diagonal "branches".
-:::
-
-In an appendix at the end of the grammar ["to excite the curiosity of the student", @doherty1841: 209], he discusses the intricate order of words that can occur in Latin. Using a quotation for Horace [@next], he argues that this sentence has a bracketed structure, which he explains symbolically as shown in [@fig:doherty1841_235]. His analysis suggests a reading of this sentence as given in the translation in [@next].
-
-::: ex
-| Latin [Horatius, Epistles 1:15, cited in @doherty1841: 235]
-| dicta-que cessantem nervis elidere morbum sulfura 
-| chant‑AND linger.PART nerve.ABL.PL remove.INF disease.ACC sulfur.NOM
-| Chants and sulfur eliminate from the nerves the lingering disease
-:::
-
-::: {.im #doherty1841_235}
-Hierarchical brackets to explain the structure of the Latin example from Horace [@last] by Doherty [-@doherty1841: 235]. His brackets suggest an interpretation of this sentence as given in the translation in [@last].
-:::
-
-### Bain (1863) *An English grammar*
-
-https://en.wikipedia.org/wiki/Alexander_Bain_(philosopher)
-
-::: {.im #bain1863_168}
-*Symbolic expression* of a complex sentence from Bain [@bain1863: 168].
-:::
- 
-superscript numbers? maybe Bauer, but not cited. Same year as Dalgleish (also not cited), notation comes only later in Mason
-
-revised as "higher english grammar" (1872) but basically the same , eg. p.168 https://www.google.de/books/edition/A_Higher_English_Grammar/E28CAAAAQAAJ?hl=de&gbpv=1&dq=inauthor:%22Alexander+Bain%22&printsec=frontcover
-
-### Dalgleish (1863) *English composition*
-
-Walter Scott Dalgleish (1834-1897) https://en.wikipedia.org/wiki/Walter_Scott_Dalgleish
-
-- *English composition* original 1863, third edition [@dalgleish1864] p.15, 36ff.: Bauer-style letters. Keys to examples in [@dalgleish1863]
-- *Grammatical analysis*, original 1865, third edition [@dalgleish1866], American edition [@dalgleish1869] cites Morell (p.4) and Bain. Keys [@dalgleish1865], follows second edition
-- *Progressive English grammar* [@dalgleish1866a], second edition [@dalgleish1868]
-- *Outlines of English grammar and analysis* [@dalgleish1867] tables p. 67, 72, 75
-
-### Meiklejohn (1862) *An easy English grammar for beginners*
-
-John Miller Dow Meiklejohn (1830-1902) was a prolific textbook author and in 1876 became the first professor of education in Great Brittain, at the University of St. Andrews. A detailed account of his life and work is provided by Graves [-@graves2004; -@graves2008]. Meiklejohn's birthday is widely listed as 1836, for example in the *Oxford Dictionary of National Biography* [@montmorency2004], but Graves [-@graves2008: 11] argues that this is an error. Meiklejohn published an enormous number of different textbooks for use in schools [@graves2008: 58-56, 91-109, see also 132-137 for a full list of his publications], partly because his income at St. Andrews was not very high [@graves2008: 50-51, 121]. Many of the books published under his name were probably researched and written by other people, while Meiklejohn had the editorial control [@graves2008: 63].
-
-Before his tenure at St. Andrews Meiklejohn already had published a four-volume grammatical textbook, *An easy English grammar for beginners*, published between 1862 and 1866. The first volume deals with the morphological structure of words and does not contain any graphical analyses [@meiklejohn1862a]. The second volume deals with sentences and it contains a single example of graphical syntax, as shown in [@fig:meiklejohn1862_20], analysing the structure of the sentence [@next a]. This graphical approach is clearly inspired by Clark (see [@sec:clark1847]). Meiklejohn does not cite Clark, but he was in Washington, DC, as a private tutor in the years 1853-1854 [@graves2008: 13-14], so he would have ample opportunity to come across the works of Clark. Meiklejohn does not pursue this avenue further in his numerous later works.
-
-In the third volume of the *Easy English grammar* contains a discussion of parsing, but without any tables or graphics [@meiklejohn1864: 35-40].
-- table in book four [@meiklejohn1866: 9]
-- "formula" with letters like Lehmann, but format seems most similar to Bauer 1850 (meiklejohn uses a/b/c for adjectival/adverbial/noun=relative/adverbial/complement, note Bauer uses a/b/c for noun/adjective/adverb, respectively...) [@meiklejohn1866: 10-12], 
-- various options for analysis [@meiklejohn1866: 65-73], specifically note the tree-structure [@meiklejohn1866: 73]
-
-::: ex
-- A lady of my acquaintance kept a pet canary for many years in a cage. [@meiklejohn1862: 18]
-- [A]{.grey} The gardener, [*a (s)*]{.grey} who is engaged at Mr. Mann's, [A]{.grey} sold the fruit, [*a (o)*]{.grey} which was not quite ripe, [*b*]{.grey} when the market was over.
-:::
-
-::: {.im #meiklejohn1862_20}
-Illustration for [@last a] from Meiklejohn [-@meiklejohn1862: 20]. This graphical approach seems very likely to be inspired by the diagrams from Clark (see [@sec:clark1847]).
-:::
-
-Meiklejohn does not cite Bauer, but he was very proficient in German form an early age on [@graves2008: 12-13]. At 25 years of age Meiklejohn translated Kant's *Critique of pure reason* into English [@graves2008: 12-17]. Given this background, it would not be surprising that he ran across a book with the pertinent title *Grundzüge der neuhochdeutschen Grammatik* [@bauer1850].
-
-::: {.im #meiklejohn1866_12}
-*Formula* for [@last b] from Meiklejohn [-@meiklejohn1866: 12], probably inspired by Bauer (see [@sec:bauer1850]). Meiklejohn explains that he uses lower-case letters for different kinds of subordinate clauses, specifically using *a*=adjectival (i.e. relative clause), *b*=adverbial and *c*=noun (i.e. complement clause). This is similar to Bauer, though Bauer uses the letters differently (*a*=complement, *b*=relative, *c*=adverbial). At other points in his book, Meiklejohn appears to be not consistent in the usage of these letters (cf. [@fig:meiklejohn1866_73])
-:::
-
-The last of Meiklejohn's proposed analyses for complex sentences is shown in [@fig:meiklejohn1866_73] for the unquoted poetic excerpt in [@next] from Oliver Goldsmith (1770) *The deserted village*. Meiklejohn did not explicitly name the author, probably because he assumed that every reader would know this poem. Also note that the text in the graphic [@fig:meiklejohn1866_73] slightly deviates from the original poem [@next]. Meiklejohn very probably quoted the poem from memory when writing his book. 
-
-Meiklejohn does not present any detailed explanation of the principles behind this analysis. Specifically, the analysis of the subordinate clauses (with the lower-case letters) is inconsistent with his earlier explanations. He still uses the letters *a,b,c* but now they appear to indicate different kinds of subordination. The letter *a* and *b* both are used for adverbial clauses, while *c* is used for a relative clause. Also, the non-finite adverbial clause *the young contending* is not analysed as subordinate, while the multiply-embedded construction *by holding out to tire each other down* and the final relative clause *that would those looks reprove* are both ignored in this analysis by Meiklejohn.
-
-::: ex
-[P.S.]{.grey} How often have I blest the coming day, \
-[A.1.]{.grey} When toil remitting lent its turn to play, \
-[A.2.]{.grey} And all the village train from labour free \
-Led up their sports beneath the spreading tree, \
-[B.1.]{.grey} While many a pastime circled in the shade, \
-[(Ex. of) B.1.]{.grey} The young contending [B.1.*a.*]{.grey} as the old surveyed;\
-[B.2.]{.grey} And many a gambol frolicked o’er the ground, \
-[B.3.]{.grey} And slights of art and feats of strength went round. \
-[B.4.]{.grey} And still [B.4*a*.]{.grey} as each repeated pleasure tired, \
-[B.4.]{.grey} Succeeding sports the mirthful band inspired; \
-[The sports=1.]{.grey} The dancing pair [B.4*c.*]{.grey} that simply sought renown \
-By holding out to tire each other down, \
-[2.]{.grey} The swain mistrustless of his smutted face, \
-[B.4*b.*]{.grey} While secret laughter tittered round the place, \
-[3.]{.grey} The bashful virgin’s side-long looks of love, \
-[4.]{.grey} The matron’s glance [?]{.grey} that would those looks reprove.
-:::
-
-::: {.im #meiklejohn1866_73}
-[@meiklejohn1866: 73]
-:::
-
-*The teaching of little boys*  [@meiklejohn1879], "draw a map of a sentence" p. 20, 23
-
-> For a Latin sentence is a much more complex and troublesome machine than an English sentence; it requires taking to pieces more carefully and putting together again with more skill. The little boy may very easily lose his way among the clauses, and some of them are as difficult to take as a five-barred gate; and he has only a very confused feeling of the meaning of the whole sentence. But the black-board, which like a kind fairy steps in to help him, comes to unravel the confusion, and to make everything as plain, or plainer, than an English sentence. On the black-board we can draw a map of a sentence; every member falls into his own place; and all becomes quite clear. [@meiklejohn1879: 19]
-
-::: ex
-| Caesar *De Bello Gallico,* chapter 16
-| eo (autem) frumento (quod) flumine Arari navibus subvexerat (propterea) uti minus poterat (quod) iter ab Arari Helvetii averterant, a quibus discedere nolebat.
-| that (however) grain (which) river.ABL A ships.ABL transport.PERF.3SG (therefore) use less can.PAST.3SG (because) route from A H divert.PAST.3PL from whom depart not.want.PAST.3SG
-| However, that grain, which he had transported up the river Arar by ship, he could not use it, because the Helvetii, from whom he did not want to turn away, had diverted their route away from the Arar River
-:::
-
-::: {.im #meiklejohn1879_20}
-*Map of the sentence* [@last] from Meiklejohn [-@meiklejohn1879: 20]. The Latin words in brackets in [@last] are not written in the graphic. Meiklejohn explains that the single line is a conjunctions (*quod* 'because'), the double lines are relatives and the dotted line is *a connection in thought* (actually, a simple grammatical object). Meiklejohn also claims that "the mapping also shows why Caesar used *minus*, rather than *non*", but to me the graphic does not make this choice immediately clear.
-:::
-
-*The standard grammar* (1882)
-
-- graphical display "mapping", "mapping out" [@meiklejohn1882: 20, 22, 147, 166-169]
-- continuous analysis p. 170-172, table p. 177, citing examples from Fitch, see [@sec:fitch1881]
-
-quoting Joseph Addison's 1711 essay *Mischiefs Of Party Spirit*
-
-::: ex
-- My worthy friend, Sir Roger, when we are talking of the malice of parties, very frequently tells us an accident that happened to him when he was a school-boy, which was at a time when the feuds ran high between the Roundheads and Cavaliers.
-:::
-
-::: {.im #meiklejohn1882_20}
-*What words go with each other* [@meiklejohn1882: 20]
-:::
-
-::: {.im #meiklejohn1882_168}
-*Mapping out* [@meiklejohn1882: 168]
-:::
-
-*The English language*: 
-
-- "mapping out" = diagramming? [@meiklejohn1886: 92, 97-98]
-- tables "pigeon holed"  [@meiklejohn1886: 98]
-- "continuous analysis = Becker-style [@meiklejohn1886: 99]
-
-> It is of the greatest importance to get the **eye** to help the mind, and to present to the **sight** if possible–either on paper or on the black-board–the sentence we have to consider. This is called **mapping-out**. [@meiklejohn1886: 92, emphasis in original]
-
-> Such a mapping-out enables us easily to see, with the bodily as well as with the mind's eye, what is the main purpose of all analysis—to find out which words go with which, and what is the real build of the sentence. Hence, unless we see at a glance the build of the sentence we are going to analyse, we ought, before doing so, to set to work and map it out.  [@meiklejohn1886: 93]
-
-Mapping out is not for the students, but for the teacher to explain the structure. It is not included in the exercises.
-
-*New grammar of the English language* [@meiklejohn1887] 
-
-Reprint of first part of "the English language" with exercises added. Syntax exercises [@meiklejohn1887: 211-219] only tables and continuous analysis. Mapping out is not an exercise! Keys to exercises [@meiklejohn1894: 32ff.]
-
-About analysis Scheme V [@meiklejohn1887: 213], he notes: "This is the scheme prescribed by the Department for the scholarship examination." [@meiklejohn1887: 218]
-
-*Short grammar of the English tongue* (1890) simplified version of new grammar
-
-- mapping out [@meiklejohn1890: 149-151, 159-160]
-- tabular analysis [@meiklejohn1890: 152, 161], returning to capital/lowercase distinction on p. 161
-
-"The single lines represent prepositions; the double lines conjunctions; and the double lines with a bar across relative pronouns" p.159. Meiklejohn seems not really understand complementizers ("noun-sentences"). They are included with the "conjunctions", but often erroneaously analysed as relative clauses. Footnote (ii) on page 160 analyses "how the world looked" rightly, but "what these sightless orbs have seen" is wrongly classified as relative.
-
-Horace Smith's *Address to a Mummy*
-
-::: ex
-Thou couldst develop, if that withered tongue \
-Might tell us what these sightless orbs have seen, \
-How the world looked when it was fresh and young, \
-And the great deluge still had left it green;
-:::
-
-::: {.im #meiklejohn1890_160}
-[@meiklejohn1890: 160]
-:::
-
-### Dale (1897) *The teaching of the mother tongue in Germany*
-
-Describing schools in germany
-
-Kern is cited (p558) graphical display is presented as "normal" in Germany, example [@dale1897: 557]
-
-### Adamson (1907) *The practice of instruction*
-
-"schema" = diagramming? [@adamson1907: 176-177] It is not the mapping of Meiklejohn!
-
-> THe schema exemplified below is intended primarily for the teacher's use at the blackboard, though scholars may also use it for rough drafts before settings about a parsing exercise; it mey profitably supersede the customary 'table' wherever its few and simple convenstions are understood (p.176)
-
-edited book, but section on *The Mother-Tongue* (p. 153-190) is written by adamson
-
-thanks Meiklejohn, but on Mathematics?! (p.vii) also in language part (p.162)
-
-cites fitch (1881) on templatic columns (on p. 175), but does not cite inspiration for "schema"
-
-(p.189) cites dale, cites Kittredge & Arnold (but 1905, does it already have diagrams then?)
-
-### Palser & Lewis (1923) *A new outline grammar of function*
-
-diagramming? [@palser1923] Also used in “Memorandum on the teaching of English” (1927: page 8)
-
-"The graphic method of analysis we have used for many years, with modifications from time to time as experience required." (p6)
-
-citing: Adamson and Dale (citing Kern!)
-
-### Fry (1925) *A key to language* {#sec:fry1925}
-
-own graphics
-
-Fry [@fry1925: 12] commenting on Palser/Lewis: “all the chief features of my method have been used by myself and a few of my pupils for something like twenty years.”
-
-::: {.im #fry1925_64}
-[@fry1925: 64], cited by Jespersen [@jespersen1937: 83]
-:::
-
-### Palmer (1938) *The new method grammar*
-
-[@palmer1938]
-
-bio: https://warwick.ac.uk/fac/soc/al/research/collections/elt_archive/publications/smith_1999.pdf
 
 ## Immediate constituents
 
