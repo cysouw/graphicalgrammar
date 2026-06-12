@@ -119,7 +119,7 @@ earliest experience as a deaf-mute teacher [@storrs1880: 117]
 
 ## Syntax in Great Brittain
 
-Grammars in 18th Century: [@tieken2008] GB-Grammars in 19th Century: [@busse2021] https://web.archive.org/web/20250420085129/https://heidelgram.de/
+Grammars in 18th Century: [@tieken2008] GB-Grammars in 19th Century: [@busse2019;@busse2021] https://web.archive.org/web/20250420085129/https://heidelgram.de/
 
 ### Doherty (1841) *An introduction to English grammar*
 
@@ -150,10 +150,15 @@ In an appendix at the end of the grammar ["to excite the curiosity of the studen
 Hierarchical brackets to explain the structure of the Latin example from Horace [@last] by Doherty [-@doherty1841: 235]. His brackets suggest an interpretation of this sentence as given in the translation in [@last].
 :::
 
-
 ### James (1847) *The elements of grammar*
 
-"construction" in table-like manner like Becker 1830 [@james1847: 133-134]
+Nothing is known about Esquire J.H. James, author of *The elements of grammar* [@james1847]. In the full title, James notes that his grammar is *according to Dr. Becker's system*, referring to Ferdinand Becker (see [@sec:becker1829]). As an introduction, James translates a long passage from Becker's *Ausführliche deutsche Grammatik* [-@becker1836: v-x] and mentions the *Organism der Sprache* [@becker1827]. However, the section about word order seems strongly influenced by Becker's *Grammar of the German language* [@becker1830: 250-265], which is a grammar of German written in English by Becker himself.
+
+James discussed word order under the heading *construction* [@james1847: 133-135], just like Becker [@becker1830: 250-265], cf. [@fig:becker1830_261]. In contrast, in his German writing, Becker originally used the term *Topik* and later *Wortfolge*.
+
+::: {.im #james1847_134}
+*Constructions* from James [@james1847: 134]
+:::
 
 ### Morell (1852) *The analysis of sentences* {#sec:morell1852}
 
