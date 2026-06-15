@@ -209,14 +209,23 @@ A reader, unacquainted with the real nature of a classical education, will proba
 
 ### Mason (1858) *English grammar*
 
-Charles Peter Mason (1820-1900)
+Charles Peter Mason (1820-1900), south london
 
 "His wife's obituary tells us Charles was "for many years the proprietor of a school at Denmark Hill" https://www.findagrave.com/memorial/291375335/charles-peter-mason
 
-- first edition [@mason1858] no tables
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002166/19121010/090/0004
+West Sussex Gazette - Thursday 10 October 1912, page 4
+
+
+cites Morell and Becker (p.viii)
+
+> The coincidence between Mr. Morell's Grammar and my own, in this and some other innovations, is curious, as the results have been arrived at quite independently. My own work was complete, and partly in use, before Mr.
+Morell's Grammar was published. [@mason1858: vi, footnote]
+
+- first edition [@mason1858] no tables, but analysis p122-127, compound sentences 127-137 using capital letters for clauses, only single level of embedding
 - analysis in 1859, page 47-50 https://www.google.de/books/edition/The_First_Second_Book_of_Cowper_s_Task_W/JpkJKp2UeJ0C?hl=de&gbpv=1&dq=inauthor:%22Charles+Peter+Mason%22&printsec=frontcover
 - 2nd edition 1861 https://books.google.de/books?vid=Oxford:601887724&redir_esc=y no abbreviations for subordinate clauses yet.
-- same syntactic analysis in "paradise lost" exercise (1861): https://books.google.de/books?vid=Oxford:602350026&redir_esc=y
+- same syntactic analysis in "paradise lost" exercise (1861): https://books.google.de/books?vid=Oxford:602350026&redir_esc=y with more complex sentences, consisting of multiple clauses.
 - 15th edition 1871 https://books.google.de/books?id=jWwCAAAAQAAJ&redir_esc=y also with table (but not in scan) Notation in §507 is different from next edition. Has notation for subordination! Cites Bain in various footnotes, but not for notation.
 - 21st edition 1876 already has large table (not in scan: https://www.google.de/?id=vx9AAAAAYAAJ) but here the notation with brackets and apostrophes is explained in §507, page 182-183. Underline as alternative, expanded in later version.
 - 23th edition https://catalog.hathitrust.org/Record/008680821
@@ -234,6 +243,8 @@ In the third volume of the *Easy English grammar* contains a discussion of parsi
 - table in book four [@meiklejohn1866: 9]
 - "formula" with letters like Lehmann, but format seems most similar to Bauer 1850 (meiklejohn uses a/b/c for adjectival/adverbial/noun=relative/adverbial/complement, note Bauer uses a/b/c for noun/adjective/adverb, respectively...) [@meiklejohn1866: 10-12], 
 - various options for analysis [@meiklejohn1866: 65-73], specifically note the tree-structure [@meiklejohn1866: 73]
+
+probably inspired by Dalgleish!
 
 ::: ex
 - A lady of my acquaintance kept a pet canary for many years in a cage. [@meiklejohn1862: 18]
@@ -369,12 +380,23 @@ superscript numbers? maybe Bauer, but not cited. Same year as Dalgleish (also no
 
 revised as "higher english grammar" (1872) but basically the same , eg. p.168 https://www.google.de/books/edition/A_Higher_English_Grammar/E28CAAAAQAAJ?hl=de&gbpv=1&dq=inauthor:%22Alexander+Bain%22&printsec=frontcover
 
+"first english grammar" 1872 https://books.google.com/books?id=g20CAAAAQAAJ, analysis 166-172
+
+many more examples in "keys" (1872) p.113-145: https://books.google.de/books?id=pMMDAAAAQAAJ&printsec=frontcover&hl=de#v=onepage&q&f=false
+
 ### Dalgleish (1863) *English composition*
 
 Walter Scott Dalgleish (1834-1897) https://en.wikipedia.org/wiki/Walter_Scott_Dalgleish
+https://www.tandfonline.com/doi/abs/10.1080/00369229708732943
 
-- *English composition* original 1863, third edition [@dalgleish1864] p.15, 36ff.: Bauer-style letters. Keys to examples in [@dalgleish1863]
-- *Grammatical analysis*, original 1865, third edition [@dalgleish1866], American edition [@dalgleish1869] cites Morell (p.4) and Bain. Keys [@dalgleish1865], follows second edition
+In 1857 Walter was 23 years old, in 1863-1868 he signs his book as "vice principal of dreghorn college"
+
+"In 1857 the mansion [Grange house] and its “pleasure grounds” were rented out to John Dalgleish. Mr. and Mrs. Dalgleish had been running an educational institution for young ladies in George Square for more than twenty years. Now, joined by their son Walter Scott Dalgleish M.A., they announced the launch of a school for “young gentlemen of the highest ranks”. They praised Grange House’s ideal location […] The school seems to have done well and soon moved to Dreghorn Castle, where there was far more space"
+
+https://edinburghfootnotes.co.uk/2015/07/17/grange-house-1800s-1900s/
+
+- *English composition* original 1863, third edition [@dalgleish1864] p.15, 36ff.: Bauer-style letters. Keys to examples in [@dalgleish1863], cites Morell in preface p4
+- *Grammatical analysis*, original 1865, third edition [@dalgleish1866], American edition [@dalgleish1869] cites Morell (p.4) and Bain. Keys [@dalgleish1865], follows second edition. Scheme of subordination on p. 25, more examples in Keys, p. 21-23, further full of Morell-type analyses
 - *Progressive English grammar* [@dalgleish1866a], second edition [@dalgleish1868]
 - *Outlines of English grammar and analysis* [@dalgleish1867] tables p. 67, 72, 75
 
@@ -447,7 +469,9 @@ many different books and version, first collaboration from 1873
 
 ### Adams (1892) *The elements of the English language*
 
-very short discussion of syntax with two tables, p.224-225. This version is the 24th edition, book originally from mid century. https://archive.org/details/dli.ernet.242998/
+new edition from 1868: https://archive.org/details/elementsofenglis00adamuoft/page/n5/mode/2up, no tables!
+
+Revision by Davis in 1892: very short discussion of syntax with two tables, p.224-225 in the style of Morell. This version is the 24th edition, book originally from mid century. https://archive.org/details/dli.ernet.242998/
 
 ### Dale (1897) *The teaching of the mother tongue in Germany*
 
