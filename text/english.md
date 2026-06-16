@@ -370,7 +370,7 @@ not in third edition, Lennie (1815) https://google.com/books?id=RgphAAAAcAAJ
 
 ### Bain (1863) *An English grammar*
 
-https://en.wikipedia.org/wiki/Alexander_Bain_(philosopher)
+https://en.wikipedia.org/wiki/Alexander_Bain_(philosopher) in glasgow, university of London, 1860 Aberdeen
 
 ::: {.im #bain1863_168}
 *Symbolic expression* of a complex sentence from Bain [@bain1863: 168].
@@ -399,6 +399,25 @@ https://edinburghfootnotes.co.uk/2015/07/17/grange-house-1800s-1900s/
 - *Grammatical analysis*, original 1865, third edition [@dalgleish1866], American edition [@dalgleish1869] cites Morell (p.4) and Bain. Keys [@dalgleish1865], follows second edition. Scheme of subordination on p. 25, more examples in Keys, p. 21-23, further full of Morell-type analyses
 - *Progressive English grammar* [@dalgleish1866a], second edition [@dalgleish1868]
 - *Outlines of English grammar and analysis* [@dalgleish1867] tables p. 67, 72, 75
+
+### Douglas (????) *The principles of English Grammar*
+
+James Douglas
+
+112th edition from 1891! https://books.google.com/?id=BFJG1Vm86AkC tabular analysis like Morell, but with superscripts! p.177, 180 same notation as Dalgleish
+
+second edition from 1851: https://catalogue.bl.uk/permalink/44BL_MAIN/19agrh4/alma990009736500109251
+
+Görlach says: Douglas, James (Ph.D., Teacher of English, Queen Street Academy, Edinburgh). First edition 1850
+However: Douglas says on the title page "teacher at great king street, Edinburgh"
+
+Douglas, James, teacher of English, 9 Great King street — house 40 (from 1857 post office directory)
+https://digital.nls.uk/directories/browse/archive/83444880?mode=transcription
+
+1845: teacher of English and Geography, 12 Queen street 
+https://digital.nls.uk/directories/browse/archive/87112472?mode=fullsize
+1852: 48 india street
+https://digital.nls.uk/directories/browse/archive/83417958
 
 ### Bidlake (1863) *A new English grammar*
 
