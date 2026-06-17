@@ -364,25 +364,9 @@ And the great deluge still had left it green;
 
 William Lennie (c. 1779–1852) https://en.wikipedia.org/wiki/William_Lennie
 
-revision of 1810 original by Lennie with expanded analysis of sentence by P. Austin Nutall, [@lennie1863: 120-123]
+nothing in third edition, Lennie (1815) https://google.com/books?id=RgphAAAAcAAJ
 
-not in third edition, Lennie (1815) https://google.com/books?id=RgphAAAAcAAJ
-
-### Bain (1863) *An English grammar*
-
-https://en.wikipedia.org/wiki/Alexander_Bain_(philosopher) in glasgow, university of London, 1860 Aberdeen
-
-::: {.im #bain1863_168}
-*Symbolic expression* of a complex sentence from Bain [@bain1863: 168].
-:::
- 
-superscript numbers? maybe Bauer, but not cited. Same year as Dalgleish (also not cited), notation comes only later in Mason
-
-revised as "higher english grammar" (1872) but basically the same , eg. p.168 https://www.google.de/books/edition/A_Higher_English_Grammar/E28CAAAAQAAJ?hl=de&gbpv=1&dq=inauthor:%22Alexander+Bain%22&printsec=frontcover
-
-"first english grammar" 1872 https://books.google.com/books?id=g20CAAAAQAAJ, analysis 166-172
-
-many more examples in "keys" (1872) p.113-145: https://books.google.de/books?id=pMMDAAAAQAAJ&printsec=frontcover&hl=de#v=onepage&q&f=false
+revision of 1810 original by Lennie with expanded analysis of sentence by P. Austin Nutall in 1863 in the style of Morell using letters for clauses [@lennie1863: 120-123] "enlarged by a full explanation of the analysis of sentences"
 
 ### Dalgleish (1863) *English composition*
 
@@ -400,30 +384,27 @@ https://edinburghfootnotes.co.uk/2015/07/17/grange-house-1800s-1900s/
 - *Progressive English grammar* [@dalgleish1866a], second edition [@dalgleish1868]
 - *Outlines of English grammar and analysis* [@dalgleish1867] tables p. 67, 72, 75
 
-### Douglas (????) *The principles of English Grammar*
+### Bain (1863) *An English grammar*
 
-James Douglas
+https://en.wikipedia.org/wiki/Alexander_Bain_(philosopher) in glasgow, university of London, 1860 Aberdeen
 
-112th edition from 1891! https://books.google.com/?id=BFJG1Vm86AkC tabular analysis like Morell, but with superscripts! p.177, 180 same notation as Dalgleish
+::: {.im #bain1863_168}
+*Symbolic expression* of a complex sentence from Bain [@bain1863: 168].
+:::
+ 
+superscript numbers? maybe Bauer, but not cited. Same year as Dalgleish (also not cited), notation comes only later in Mason
 
-second edition from 1851: https://catalogue.bl.uk/permalink/44BL_MAIN/19agrh4/alma990009736500109251
+revised as "higher english grammar" (1872) but basically the same , eg. p.168 https://www.google.de/books/edition/A_Higher_English_Grammar/E28CAAAAQAAJ?hl=de&gbpv=1&dq=inauthor:%22Alexander+Bain%22&printsec=frontcover
 
-Görlach says: Douglas, James (Ph.D., Teacher of English, Queen Street Academy, Edinburgh). First edition 1850
-However: Douglas says on the title page "teacher at great king street, Edinburgh"
+"first english grammar" 1872 https://books.google.com/books?id=g20CAAAAQAAJ, analysis 166-172
 
-Douglas, James, teacher of English, 9 Great King street — house 40 (from 1857 post office directory)
-https://digital.nls.uk/directories/browse/archive/83444880?mode=transcription
-
-1845: teacher of English and Geography, 12 Queen street 
-https://digital.nls.uk/directories/browse/archive/87112472?mode=fullsize
-1852: 48 india street
-https://digital.nls.uk/directories/browse/archive/83417958
+many more examples in "keys" (1872) p.113-145: https://books.google.de/books?id=pMMDAAAAQAAJ&printsec=frontcover&hl=de#v=onepage&q&f=false
 
 ### Bidlake (1863) *A new English grammar*
 
 John Purdue Bidlake
 
-very simple examples https://google.com/books?id=wsUDAAAAQAAJ p.158-172
+Morell-style analysis https://google.com/books?id=wsUDAAAAQAAJ p.158-172
 
 Many examples in 1887 https://google.com/books?vid=Oxford:601891620 page 127-167, solutions to questions here: https://google.com/books?vid=Oxford:602352734 (1884)
 
@@ -464,7 +445,7 @@ long-form analysis like becker [@fitch1881: 268-269]
 
 ### Fleay (1884) *Logical English Grammar*
 
-long-form analysis for complex subordinated example p.54-58
+long-form analysis for complex subordinated example p.54-58, using special brackets for phrases
 
 https://google.com/books?id=BkgqAAAAMAAJ
 
@@ -485,6 +466,26 @@ https://catalog.hathitrust.org/Record/006151225
 table analysis p212, large example p220
 
 many different books and version, first collaboration from 1873
+
+### Douglas (1891) *The principles of English Grammar*
+
+James Douglas
+
+Görlach says: Douglas, James (Ph.D., Teacher of English, Queen Street Academy, Edinburgh). First edition 1850
+However: Douglas says on the title page "teacher at great king street, Edinburgh"
+
+1845: teacher of English and Geography, 12 Queen street 
+https://digital.nls.uk/directories/browse/archive/87112472
+
+Douglas, James, teacher of English, 9 Great King street — house 40 (from 1857 post office directory)
+https://digital.nls.uk/directories/browse/archive/83444880
+
+at least by 1870 he is called "lately teacher of english", indicating that he retired, so he might have been born at the start of the century
+https://www.google.de/books/edition/Spelling_and_dictation_exercises/zcQDAAAAQAAJ?hl=de&gbpv=1&dq=inauthor:%22James+Douglas+(Ph.D.)%22&printsec=frontcover
+
+He wrote his grammar in 1850, but I have only been able to access the 30th edition [@douglas1861]. There is no indication of any revisions, so this version is probably identical to the original from 1850. There is no graphical syntax in this version. However, 
+
+In the 112th edition [@douglas1891] tabular analysis like Morell ("three methods"), but with superscripts! p.169, 177, 180 same notation as Dalgleish
 
 ### Adams (1892) *The elements of the English language*
 
