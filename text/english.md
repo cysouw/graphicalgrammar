@@ -162,6 +162,8 @@ James discussed word order under the heading *construction* [@james1847: 133-135
 
 ### Morell (1852) *The analysis of sentences* {#sec:morell1852}
 
+https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Morell,_John_Daniel
+
 John Daniel Morell (1816-1891) was an inspector of schools and published scholarly works on philosophy and religion [basic biographical information is presented by @chisholm1911]. From his background as a school inspector Morell decided to publish texts books on grammar because of "a deficiency experienced in the course of official duties as an Inspector of Schools" [@morell1852: iii]:
 
 > This deficiency was most felt in the collective examinations of Pupil Teachers, where, beyond the ordinary modes of parsing, I found it almost impossible to give out any questions on Syntax and the analysis of sentences, to which a common meaning was attached by the pupils assembled, or any number of distinct answers returned. [@morell1852: iii]
@@ -206,6 +208,25 @@ A reader, unacquainted with the real nature of a classical education, will proba
 ::: {.im #morell1857_93}
 "Third scheme" for the analysis of the sentence in [@last] from Morell [-@morell1857: 93]. This approach is much closer to the original from Becker, cf. [@fig:becker1829_xvii], but Morell does not consistently follow through with the usage of the numbers to encode the relative modification. Later authors, following Morel's example, will expand on this approach under the term "long-form analysis".
 :::
+
+### Findlater (1857) *English grammar*
+
+Andrew Findlater (1810–1885) https://en.wikipedia.org/wiki/Andrew_Findlater
+https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Findlater,_Andrew
+
+same notation as Bain. Bain cites Findlater. Probably introduced by Findlater! From Germany? Superscripts used by Diesterweg and Bauer
+
+Findlater knew the German literature, he "translated" the Brockhaus! Author of "Chambers's Information" is not mentioned, but Bain explicitly cites Findlater as the author of the chapter on English grammar.
+
+not in 1848/49 version: https://archive.org/details/b22012400_0002/page/592/mode/2up
+not in 1857 published version https://babel.hathitrust.org/cgi/pt?id=miun.ajd7014.0002.001&seq=600, but intro says "Six years have now elapsed since the completion of 'THE INFORMATION FOR THE PeOPLE' in its second and improved form." dated 1848, so this is third edition!
+
+in this version! "new edition" p.621, but not dated... (library record says 1857/58, but book itself has no date) https://babel.hathitrust.org/cgi/pt?id=iau.31858042686216&seq=633
+
+but in 1867 identical version, but called "new and improved edition", p.621: https://babel.hathitrust.org/cgi/pt?id=miun.ajd7015.0002.001&seq=633. In the introduction it says "AFTER the lapse of eight years since the completion of the third and improved edition" so this is fourth edition from 1857
+
+> If, after the manner of algebraists, we symbolise the principal sentence by *A*, and the sentence immediately
+dependent on it by *a*, the structure of these complex sentences might be visibly represented thus: (1) *A+a*; (2) *A+a+a²*. (p.621)
 
 ### Mason (1858) *English grammar*
 
@@ -386,7 +407,29 @@ https://edinburghfootnotes.co.uk/2015/07/17/grange-house-1800s-1900s/
 
 ### Bain (1863) *An English grammar*
 
+Alexander Bain (1818-1903) 
+
 https://en.wikipedia.org/wiki/Alexander_Bain_(philosopher) in glasgow, university of London, 1860 Aberdeen
+
+worked for the "Chamberses" in 1847-1850
+
+autobiography: [@bain1904] writing of grammar 275-276, mentions Findlater prominently. Findlater seems to have been a good fried of Bain.
+
+"In the beginning of this year [i.e. 1842, MC], Andrew Findlater was appointed head master of Gordon’s Hospital [London], which was the commencement of my acquaintance with him. … He was a hard student, already knew French, and soon applied himself to German." (116) Bain was 24, Findlater 32
+
+"In subsequent years [i.e. sometimes after 1850, MC], these visits [to Edinburgh, MC] were still frequent but short; being generally a few days at a time, either in a hotel or with Findlater, after he had settled in Edinburgh in his own house." (216)
+
+Summer in Paris 1851: "Shortly after I was settled in the Rue de la Victoire, I was joined by Findlater, who was on a tour with his pupil, Patrick Simpson of Cobairdy" (222)
+
+"In the winter session of 1852-53, I resumed the geography course at Bedford College [London], and also, for the first time, conducted a class in psychology, making use of my MS., so far as it went. The College staff was joined this session by Findlater, who was now disengaged and took up his abode in London; undertaking to teach an English class, the lectures for which he prepared carefully from the latest authorities on grammar and composition." (234)
+
+"In the April vacation [1853], Findlater and I arranged a visit to Malvern, which turned out both interesting and healthful." (235)
+
+"Towards the end of summer [1853], Findlater got an engagement from Robert Chambers to go to Edinburgh and superintend a cyclopaedia projected by the Chamberses on the basis of a German lexicon that they had purchased. He, accordingly, took up his residence in Edinburgh the same autumn, and there permanently settled." (235)
+
+Summer of 1853: "Proceeding from Manchester, I joined Findlater at Carlisle, and, along with him, spent a fortnight at Rothesay." (237)
+
+(Bain marries 1855, findlater dies 1885)
 
 ::: {.im #bain1863_168}
 *Symbolic expression* of a complex sentence from Bain [@bain1863: 168].
