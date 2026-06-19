@@ -164,7 +164,7 @@ James discussed word order under the heading *construction* [@james1847: 133-135
 
 https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Morell,_John_Daniel
 
-John Daniel Morell (1816-1891) was an inspector of schools and published scholarly works on philosophy and religion [basic biographical information is presented by @chisholm1911]. From his background as a school inspector Morell decided to publish texts books on grammar because of "a deficiency experienced in the course of official duties as an Inspector of Schools" [@morell1852: iii]:
+John Daniel Morell (1816-1891) was an inspector of schools and published scholarly works on philosophy and religion [basic biographical information is presented by @buckland1894]. From his background as a school inspector Morell decided to publish texts books on grammar because of "a deficiency experienced in the course of official duties as an Inspector of Schools" [@morell1852: iii]:
 
 > This deficiency was most felt in the collective examinations of Pupil Teachers, where, beyond the ordinary modes of parsing, I found it almost impossible to give out any questions on Syntax and the analysis of sentences, to which a common meaning was attached by the pupils assembled, or any number of distinct answers returned. [@morell1852: iii]
 
@@ -211,7 +211,21 @@ A reader, unacquainted with the real nature of a classical education, will proba
 
 ### Findlater (1857) *English grammar*
 
-Andrew Findlater (1810–1885) https://en.wikipedia.org/wiki/Andrew_Findlater
+Andrew Findlater (1810–1885) was the editor and major author of *Chambers's Encyclopaedia*, an important English encyclopedia from the 19th Century.^[Some basic biographical information on Findlater is provided by @bayne1889.] He was a good friend of Alexander Bain (see [@sec:bain1863]), who included various details about Findlater in his autobiography. Bain recounts that in 1842 Findlater, while the head master of Gordon's Hospital (which was a day school in Aberdeen, notwithstanding it's name), started to learn German [@bain1904: 116]. In 1852, Findlater joined Bain as a teacher of English at Bedford College in London, "the lectures for which he prepared carefully from the latest authorities on grammar and composition" [@bain1904: 234]. In 1853, Findlater got an engagement from Robert Chambers to go to Edinburgh to "superintend a cyclopaedia projected by the Chamberses on the basis of a German lexicon that they had purchased" [@bain1904: 235]. This German lexicon was the 10th Edition of the *Brockhaus Conversations-Lexikon* and the first version of *Chambers's Encyclopaedia* was basically a translation and re-editing of this German encyclopedia.
+
+Before Findlater started the work on the encyclopedia, he first prepared the fourth edition of *Chambers's Information for the People*. The dating and authorship of the various editions of this work is rather confusing, because authors are not mentioned at all, and the books are frequently reprinted in different years by different publishers. This project, which started in 1835, consisted of small pamphlets of very diverse topics that people subscribed to. A second edition, published as two collected volumes, was published in 1842. For the third edition from 1848/1849, Alexander Bain wrote the chapter *Language*, which he recounts in his autobiography:
+
+> During these months [in 1848], I was so far able to carry forward my private work in fulfilment of the engagements with the Chamberses. The first was the Science textbook on Meteorology, which must have occupied the first two months of the year. Next came the contributions to the Information for the People; and, of these, the first in order was "Language". For such a work I had exceedingly little previous preparation, [...] At a later period, this number was replaced by a much superior exposition by Andrew Findlater, who had made himself master of the whole department, and, in addition, composed an elementary manual for schools. [@bain1904: 201-202]
+
+The "superior exposition" by Findlater, as mentioned by Bain, probably refers to the chapter *English grammar* of the fourth edition of 1857/1858, because the chapter *Language* is only slightly changed in this edition. It remains unclear whether Bain had also written the chapter on *English grammar* in the third edition frmo 1848/1849. In the fourth edition this chapter is completely rewritten, so I assume that this version is written by Findlater [which is sort-of confirmed by an acknowledgement in Bain's grammar, @bain1863: v]. In this chapter, Findlater makes a short comment about the representation of the structure of complex sentences:
+
+> If, after the manner of algebraists, we symbolise the principal sentence by *A*, and the sentence immediately dependent on it by *a*, the structure of these complex sentences might be visibly represented thus: (1) *A+a*; (2) *A+a+a²*. Subordination is seldom carried beyond the second or third degree, as it becomes perplexing, especially when the subordinate clauses are enclosed the one within the other. In *The House that Jack built*, it is carried to the ludicrous: 'This is the dog *(A)*, that worried the cat *(a)*, that killed the rat *(a²)*, that ate the malt *(a³)*, &c. [@findlater1857: 621]
+
+The use of capital letters for main clauses and lowercase letters for subordinate clauses indicates some influence from the German tradition of sentence analysis. The use of superscripts for multiple subordination might indicate an influence from Friedrich Bauer (see [@sec:bauer1850]), although I have not been able to find any direct evidence of Findlater knowing about his work. As Findlater had a good knowledge of German and was deeply interested in grammatical analysis, it seems plausible. On the other hand, the note about the 
+
+https://en.wikipedia.org/wiki/This_Is_the_House_That_Jack_Built
+
+https://en.wikipedia.org/wiki/Andrew_Findlater
 https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Findlater,_Andrew
 
 same notation as Bain. Bain cites Findlater. Probably introduced by Findlater! From Germany? Superscripts used by Diesterweg and Bauer
@@ -225,8 +239,7 @@ in this version! "new edition" p.621, but not dated... (library record says 1857
 
 but in 1867 identical version, but called "new and improved edition", p.621: https://babel.hathitrust.org/cgi/pt?id=miun.ajd7015.0002.001&seq=633. In the introduction it says "AFTER the lapse of eight years since the completion of the third and improved edition" so this is fourth edition from 1857
 
-> If, after the manner of algebraists, we symbolise the principal sentence by *A*, and the sentence immediately
-dependent on it by *a*, the structure of these complex sentences might be visibly represented thus: (1) *A+a*; (2) *A+a+a²*. (p.621)
+
 
 ### Mason (1858) *English grammar*
 
@@ -405,7 +418,7 @@ https://edinburghfootnotes.co.uk/2015/07/17/grange-house-1800s-1900s/
 - *Progressive English grammar* [@dalgleish1866a], second edition [@dalgleish1868]
 - *Outlines of English grammar and analysis* [@dalgleish1867] tables p. 67, 72, 75
 
-### Bain (1863) *An English grammar*
+### Bain (1863) *An English grammar* {#sec:bain1863}
 
 Alexander Bain (1818-1903) 
 
@@ -413,9 +426,14 @@ https://en.wikipedia.org/wiki/Alexander_Bain_(philosopher) in glasgow, universit
 
 worked for the "Chamberses" in 1847-1850
 
+During these months, I was so far able to carry forward my private work in fulfilment of the engagements
+with the Chamberses. The first was the Science textbook on Meteorology, which must have occupied the first
+two months of the year. Next came the contributions to the Information for the People; and, of these, the first in order was "Language". For such a work I had exceedingly little previous preparation, and, indeed, the material for it was mostly of very recent growth. Philology had taken a great start in Germany, more especially as regards universal grammar, the supposed origin of language, and the classification of languages. At the British Association of 1845, a group of important papers were read and discussed, and Max Miiller, under the patronage of Bunsen, made his debut with the English public. These papers and the translated work of German Philology, especially Bopp's Comparative Grammar, constituted the chief sources of the number. I made up for other deficiencies by a good deal of purely psychological speculation as to the invention of language, according to the known laws of the mind. At a later period, this number was replaced by a much superior exposition by Andrew Findlater, who had made himself master of the whole department, and, in addition, composed an elementary manual for schools. (201-202)
+
+
 autobiography: [@bain1904] writing of grammar 275-276, mentions Findlater prominently. Findlater seems to have been a good fried of Bain.
 
-"In the beginning of this year [i.e. 1842, MC], Andrew Findlater was appointed head master of Gordon’s Hospital [London], which was the commencement of my acquaintance with him. … He was a hard student, already knew French, and soon applied himself to German." (116) Bain was 24, Findlater 32
+"In the beginning of this year [i.e. 1842, MC], Andrew Findlater was appointed head master of Gordon’s Hospital [actually a day-school in Aberdeen, MC], which was the commencement of my acquaintance with him. … He was a hard student, already knew French, and soon applied himself to German." (116) Bain was 24, Findlater 32
 
 "In subsequent years [i.e. sometimes after 1850, MC], these visits [to Edinburgh, MC] were still frequent but short; being generally a few days at a time, either in a hotel or with Findlater, after he had settled in Edinburgh in his own house." (216)
 
