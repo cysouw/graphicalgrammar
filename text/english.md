@@ -213,33 +213,17 @@ A reader, unacquainted with the real nature of a classical education, will proba
 
 Andrew Findlater (1810–1885) was the editor and major author of *Chambers's Encyclopaedia*, an important English encyclopedia from the 19th Century.^[Some basic biographical information on Findlater is provided by @bayne1889.] He was a good friend of Alexander Bain (see [@sec:bain1863]), who included various details about Findlater in his autobiography. Bain recounts that in 1842 Findlater, while the head master of Gordon's Hospital (which was a day school in Aberdeen, notwithstanding it's name), started to learn German [@bain1904: 116]. In 1852, Findlater joined Bain as a teacher of English at Bedford College in London, "the lectures for which he prepared carefully from the latest authorities on grammar and composition" [@bain1904: 234]. In 1853, Findlater got an engagement from Robert Chambers to go to Edinburgh to "superintend a cyclopaedia projected by the Chamberses on the basis of a German lexicon that they had purchased" [@bain1904: 235]. This German lexicon was the 10th Edition of the *Brockhaus Conversations-Lexikon* and the first version of *Chambers's Encyclopaedia* was basically a translation and re-editing of this German encyclopedia.
 
-Before Findlater started the work on the encyclopedia, he first prepared the fourth edition of *Chambers's Information for the People*. The dating and authorship of the various editions of this work is rather confusing, because authors are not mentioned at all, and the books are frequently reprinted in different years by different publishers. This project, which started in 1835, consisted of small pamphlets of very diverse topics that people subscribed to. A second edition, published as two collected volumes, was published in 1842. For the third edition from 1848/1849, Alexander Bain wrote the chapter *Language*, which he recounts in his autobiography:
+Before Findlater started the work on the encyclopedia, he first prepared the fourth edition of *Chambers's Information for the People*. The dating and authorship of the various editions of this work is rather confusing, because authors are not mentioned at all, and the books are frequently reprinted in different years by different publishers. This project, which started in 1835, consisted of small pamphlets of very diverse topics that people subscribed to. A second edition, published as two collected volumes, was published in 1842. For the third edition from 1848/1849, Alexander Bain wrote the chapter *Language* [@bain1849], which he recounts in his autobiography:
 
 > During these months [in 1848], I was so far able to carry forward my private work in fulfilment of the engagements with the Chamberses. The first was the Science textbook on Meteorology, which must have occupied the first two months of the year. Next came the contributions to the Information for the People; and, of these, the first in order was "Language". For such a work I had exceedingly little previous preparation, [...] At a later period, this number was replaced by a much superior exposition by Andrew Findlater, who had made himself master of the whole department, and, in addition, composed an elementary manual for schools. [@bain1904: 201-202]
 
-The "superior exposition" by Findlater, as mentioned by Bain, probably refers to the chapter *English grammar* of the fourth edition of 1857/1858, because the chapter *Language* is only slightly changed in this edition. It remains unclear whether Bain had also written the chapter on *English grammar* in the third edition frmo 1848/1849. In the fourth edition this chapter is completely rewritten, so I assume that this version is written by Findlater [which is sort-of confirmed by an acknowledgement in Bain's grammar, @bain1863: v]. In this chapter, Findlater makes a short comment about the representation of the structure of complex sentences:
+The "superior exposition" by Findlater, as mentioned by Bain, probably refers to the chapter *English grammar* [@findlater1857] of the fourth edition of *Chambers's Information for the People* from 1857/1858, because the chapter *Language* is only slightly changed in this edition. It remains unclear whether Bain had also written the chapter on *English grammar* in the third edition from 1848/1849. In the fourth edition this chapter is completely rewritten, so I assume that this version is written by Findlater [which is sort-of confirmed by an acknowledgement in Bain's grammar, @bain1863: v]. In this chapter, Findlater makes a short comment about the representation of the structure of complex sentences "after the manner of algebraists", as shown in [@fig:findlater1857_621]. The reference to *The House that Jack built* in that figure alludes to a nursery rhyme that piles up relative clause upon relative clause up to nine levels of subordination.^[see <https://en.wikipedia.org/wiki/This_Is_the_House_That_Jack_Built>, accessed 24 June 2026.]
 
-> If, after the manner of algebraists, we symbolise the principal sentence by *A*, and the sentence immediately dependent on it by *a*, the structure of these complex sentences might be visibly represented thus: (1) *A+a*; (2) *A+a+a²*. Subordination is seldom carried beyond the second or third degree, as it becomes perplexing, especially when the subordinate clauses are enclosed the one within the other. In *The House that Jack built*, it is carried to the ludicrous: 'This is the dog *(A)*, that worried the cat *(a)*, that killed the rat *(a²)*, that ate the malt *(a³)*, &c. [@findlater1857: 621]
+::: {.im #findlater1857_621}
+The use of notation "after the manner of algebraists" is introduced to English grammar by Findlater [-@findlater1857: 621]. The use of superscripts might indicate an influence by Bauer, cf. [@fig:bauer1850_95], although I have not been able to find any direct evidence for such an influence.
+:::
 
-The use of capital letters for main clauses and lowercase letters for subordinate clauses indicates some influence from the German tradition of sentence analysis. The use of superscripts for multiple subordination might indicate an influence from Friedrich Bauer (see [@sec:bauer1850]), although I have not been able to find any direct evidence of Findlater knowing about his work. As Findlater had a good knowledge of German and was deeply interested in grammatical analysis, it seems plausible. On the other hand, the note about the 
-
-https://en.wikipedia.org/wiki/This_Is_the_House_That_Jack_Built
-
-https://en.wikipedia.org/wiki/Andrew_Findlater
-https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Findlater,_Andrew
-
-same notation as Bain. Bain cites Findlater. Probably introduced by Findlater! From Germany? Superscripts used by Diesterweg and Bauer
-
-Findlater knew the German literature, he "translated" the Brockhaus! Author of "Chambers's Information" is not mentioned, but Bain explicitly cites Findlater as the author of the chapter on English grammar.
-
-not in 1848/49 version: https://archive.org/details/b22012400_0002/page/592/mode/2up
-not in 1857 published version https://babel.hathitrust.org/cgi/pt?id=miun.ajd7014.0002.001&seq=600, but intro says "Six years have now elapsed since the completion of 'THE INFORMATION FOR THE PeOPLE' in its second and improved form." dated 1848, so this is third edition!
-
-in this version! "new edition" p.621, but not dated... (library record says 1857/58, but book itself has no date) https://babel.hathitrust.org/cgi/pt?id=iau.31858042686216&seq=633
-
-but in 1867 identical version, but called "new and improved edition", p.621: https://babel.hathitrust.org/cgi/pt?id=miun.ajd7015.0002.001&seq=633. In the introduction it says "AFTER the lapse of eight years since the completion of the third and improved edition" so this is fourth edition from 1857
-
-
+The use of capital letters for main clauses and lowercase letters for subordinate clauses reflects the influence of the German tradition of sentence analysis. The notation of multiple levels of subordination through superscripts may likewise derive from Friedrich Bauer (see [@sec:bauer1850]), although I have found no direct evidence that Findlater was familiar with Bauer’s work. Such an influence is nevertheless plausible in light of Findlater’s strong command of German and his keen interest in grammatical analysis. At the same time, Findlater’s remark concerning the limited usefulness of deeply nested subordination is somewhat surprising, given that German grammatical literature is replete with examples featuring numerous clauses arranged in complex hierarchical structures. Findlater's approach to the analysis of complex sentences is adopted by Bain (see [@sec:bain1863]) and probably also influences Dalgleish (see [@sec:dalgleish1863]) and Meiklejohn (see [@sec:meiklejohn1862]), though without any explicit acknowledgement to Findlater.
 
 ### Mason (1858) *English grammar*
 
@@ -267,7 +251,7 @@ Morell's Grammar was published. [@mason1858: vi, footnote]
 
 > As regards the mode in which subordinate clauses are bracketed and denoted, although it is by no means essential to the analysis of a sentence, I can affirm from experience that it is attended with great advantage, and that pupils of ordinary intelligence master it without difficulty. [@mason1871: x]
 
-### Meiklejohn (1862) *An easy English grammar for beginners*
+### Meiklejohn (1862) *An easy English grammar for beginners* {#sec:meiklejohn1862}
 
 John Miller Dow Meiklejohn (1830-1902) was a prolific textbook author and in 1876 became the first professor of education in Great Brittain, at the University of St. Andrews. A detailed account of his life and work is provided by Graves [-@graves2004; -@graves2008]. Meiklejohn's birthday is widely listed as 1836, for example in the *Oxford Dictionary of National Biography* [@montmorency2004], but Graves [-@graves2008: 11] argues that this is an error. Meiklejohn published an enormous number of different textbooks for use in schools [@graves2008: 58-56, 91-109, see also 132-137 for a full list of his publications], partly because his income at St. Andrews was not very high [@graves2008: 50-51, 121]. Many of the books published under his name were probably researched and written by other people, while Meiklejohn had the editorial control [@graves2008: 63].
 
@@ -402,7 +386,7 @@ nothing in third edition, Lennie (1815) https://google.com/books?id=RgphAAAAcAAJ
 
 revision of 1810 original by Lennie with expanded analysis of sentence by P. Austin Nutall in 1863 in the style of Morell using letters for clauses [@lennie1863: 120-123] "enlarged by a full explanation of the analysis of sentences"
 
-### Dalgleish (1863) *English composition*
+### Dalgleish (1863) *English composition* {#sec:dalgleish1863}
 
 Walter Scott Dalgleish (1834-1897) https://en.wikipedia.org/wiki/Walter_Scott_Dalgleish
 https://www.tandfonline.com/doi/abs/10.1080/00369229708732943
