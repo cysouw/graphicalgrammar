@@ -227,29 +227,43 @@ The use of capital letters for main clauses and lowercase letters for subordinat
 
 ### Mason (1858) *English grammar*
 
-Charles Peter Mason (1820-1900), south london
+Charles Peter Mason (1820-1900) was a teacher and owner of a school at Denmark Hill in south London.^[I have not been able to find any biographical information about Mason. The obituary of his wife Eleanor (Edwards) Mason in the West Sussex Gazette of 10 October 1912, page 4, mentions that Charles was "for many years the proprietor of a school at Denmark Hill". This obituary is available online at <https://www.britishnewspaperarchive.co.uk/viewer/bl/0002166/19121010/090/0004>, accessed 25 June 2026.] On the title page of his books he self-identifies as a Fellow of University College in London and at various points he alludes his work to prepare his pupils for admission to university [e.g. @mason1861: iv].
 
-"His wife's obituary tells us Charles was "for many years the proprietor of a school at Denmark Hill" https://www.findagrave.com/memorial/291375335/charles-peter-mason
+Mason wrote various textbooks on the analysis of the English language. His main work is the *English grammar including the principles of grammatical analysis* [@mason1858], which is revised and reprinted at least up to a 40th edition from 1901 [@gorlach1998: 233]. From the 25th edition onwards [@mason1881] the phrase *the principles of* is dropped from the title. Throughout his life, Mason also prepared various shorter version of his grammar and various books with supplementary exercises, all of which do not seem to contain any new or different ideas from his grammar. Early in his career Mason also published a few books with linguistic analyses of literary works. Mason [-@mason1859] is an analysis of a poem by William Cowper (1731-1800), namely the first book of *The Task* (1785) called *The Sofa*. As part of the literary analysis, Mason performs a detailed syntactic analysis of two stanzas from the poem, exemplifying his analytic approach [@mason1859: 47-50]. A similar book deals with John Milton's (1608-1674) *Paradise Lost* (1667), also including a syntactic analysis of a few excerpts [@mason1861: xi-xvi].
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002166/19121010/090/0004
-West Sussex Gazette - Thursday 10 October 1912, page 4
+In the introduction to the first edition of his grammar, Mason [@mason1858: vi-xi] extensively cites the work of Morell (see [@sec:morell1852]) and Becker (see [@sec:becker1829]). Although Mason's book is published six years after Morell's, Mason claims that his analyses have been developed independently from Morell in parallel:
 
+> The coincidence between Mr. Morell's Grammar and my own, in this and some other innovations, is curious, as the results have been arrived at quite independently. My own work was complete, and partly in use, before Mr. Morell's Grammar was published. [@mason1858: vi, footnote]
 
-cites Morell and Becker (p.viii)
+In the Chapter *Analysis of sentences* [@mason1858: 122-137] proposes an method closely related to Becker's approach. When analysing complex sentences, Mason uses capital letters for subordinate clauses, which are then analysed separately, as shown in [@fig:mason1858_128]. All examples of complex sentences in this first edition of his grammar only have a single level of embedding.
 
-> The coincidence between Mr. Morell's Grammar and my own, in this and some other innovations, is curious, as the results have been arrived at quite independently. My own work was complete, and partly in use, before Mr.
-Morell's Grammar was published. [@mason1858: vi, footnote]
+::: {.im #mason1858_128}
+Analysis of a compound sentence from Mason [@mason1858: 128]. Subordinate clauses are indicated with a capital letter and then analysed separately. In this first edition of his grammar, Mason only includes example sentences with at most a single subordinate clause.
+:::
 
-- first edition [@mason1858] no tables, but analysis p122-127, compound sentences 127-137 using capital letters for clauses, only single level of embedding
-- analysis in 1859, page 47-50 https://www.google.de/books/edition/The_First_Second_Book_of_Cowper_s_Task_W/JpkJKp2UeJ0C?hl=de&gbpv=1&dq=inauthor:%22Charles+Peter+Mason%22&printsec=frontcover
-- 2nd edition 1861 https://books.google.de/books?vid=Oxford:601887724&redir_esc=y no abbreviations for subordinate clauses yet.
-- same syntactic analysis in "paradise lost" exercise (1861): https://books.google.de/books?vid=Oxford:602350026&redir_esc=y with more complex sentences, consisting of multiple clauses.
-- 15th edition 1871 https://books.google.de/books?id=jWwCAAAAQAAJ&redir_esc=y also with table (but not in scan) Notation in §507 is different from next edition. Has notation for subordination! Cites Bain in various footnotes, but not for notation.
-- 21st edition 1876 already has large table (not in scan: https://www.google.de/?id=vx9AAAAAYAAJ) but here the notation with brackets and apostrophes is explained in §507, page 182-183. Underline as alternative, expanded in later version.
-- 23th edition https://catalog.hathitrust.org/Record/008680821
-- 25th edition [@mason1881: 183-185] with tables (fold-out appendix after p268) Interesting note on the bottom, but reference to "§507" seems erroneous? no: it refers to the earlier version. Other version??? https://books.google.de/books?vid=IOWA:31858024252847
+A *revised and enlarged* fourteenth edition from 1870 adds various further options to analyse sentences [cited here from the apparently identical 15th edition, @mason1871]. In this version, Mason repeatedly cites Bain (see [@sec:bain1863]), though he does not specifically cite Bain's analysis of complex sentences. However, Mason's distinction between capital letters (main clauses) and lowercase letters (subordinate clauase) seems cleary inspired by Bain. Also the use of subscript numbers for marking level of subordination seems cleary inspired by Bain, who uses superscript numbers for this purpose. Mason adds a distinction to his notation between *substantive* (i.e. complement) clauses (indicated by no dash), *adjective* (i.e relative) clauses (indicated by a single dash) and *adverbial* clauses (indicated by a double dash). Mason also proposes to add hierarchical bracketing to clarify the subordination structure, as shown in [@fig:mason1871_156].
 
 > As regards the mode in which subordinate clauses are bracketed and denoted, although it is by no means essential to the analysis of a sentence, I can affirm from experience that it is attended with great advantage, and that pupils of ordinary intelligence master it without difficulty. [@mason1871: x]
+
+::: {.im #mason1871_156}
+Analysis of a compound sentence with brackets and letters from Mason [-@mason1871: 156-157]. The use of uppercase and lowercase letters is inspired by Bain (cf. [@fig:bain1863_168]). The hierarchical use of brackets appears to be an independent invention of Mason. Note that the lowercase letters for subordinate clauses repeat the complete pathway of subordination, e.g. *(cc'c'')* indicates that this is an adverbial clause (double dash) inside a relative clause (single dash) inside a complement clause (no dash).
+:::
+
+In a footnote, Mason also proposes an alternative notation, using underlining instead of bracketing and abbreviations, as shown in [@fig:mason1871_157]. The different kinds of underlining distinguish the kinds of subordination (thick=substantive, thin=adjective, dotted=adverbial). This approach will become more prominently used in a later major revision of his book.
+
+> Instead of brackets enclosing the various clauses, lines of different sorts may be drawn under or over the clauses. A thick line may denote a substantive clause, a thin line an adjective clause, and a dotted line an adverbial clause, the small letters denoting the clauses being placed at the beginning of the several lines. [@mason1871: 157, footnote]
+
+::: {.im #mason1871_157}
+Analysis of sentence with underlining by Mason [-@mason1871: 157, footnote]. The different kinds of underlining distinguish different structures of subordination, i.e. thick lines are used for substantive clauses (= complement clauses), thin lines for adjective clauses (= relative clauses) and dotted lines for adverbial clauses.
+:::
+
+Mason [@mason1871: 150-152] also adds the option to analyse sentences in tables, similar (though not identical) to the approach from Morell (see [@sec:morell1852]). He even adds a large fold-out sheet at the end of the book (after page 200) as shown in [@fig:mason1881_appendix].
+
+::: {.im #mason1881_appendix}
+Large fold-out sheet from Mason [-@mason1871: after page 200], shown here from the scan of Mason [-@mason1881: after page 268]. This approach to use tables for the analysis of sentences is reminiscent of Morell's approach, cf. [@fig:morell1884_52].
+:::
+
+Mason substantially revises his grammar again with the 25th edtion [@mason1881]. The section on sentence analysis is much expanded and the use of underlining is much more prominently used compared to earlier versions [@mason1881: 183-206]. Also, the hierarchical bracketing and the dash-notation in the analysis of sentences with multiple subordination is completely removed.
 
 ### Meiklejohn (1862) *An easy English grammar for beginners* {#sec:meiklejohn1862}
 
@@ -460,6 +474,12 @@ Canada!
 tables p.85, complex sentence like morell p.88, 91-92
 
 https://archive.org/details/eclecticgrammarp00macauoft/page/84/mode/2up
+
+### Clark (1871) *Comprehensive English grammar*
+
+https://www.google.de/books/edition/The_comprehensive_English_grammar/UcQDAAAAQAAJ?hl=de&gbpv=1&dq=inauthor:%22David+Clark%22+grammar&printsec=frontcover
+
+complex sentence like Morell, p40-46
 
 ### Swinton (1872) *A progressive grammar of the English tongue*
 
