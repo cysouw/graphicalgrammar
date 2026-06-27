@@ -416,6 +416,10 @@ https://edinburghfootnotes.co.uk/2015/07/17/grange-house-1800s-1900s/
 - *Progressive English grammar* [@dalgleish1866a], second edition [@dalgleish1868]
 - *Outlines of English grammar and analysis* [@dalgleish1867] tables p. 67, 72, 75
 
+::: {.im #dalgleish1864_46}
+*Sentence analysis* using Bauer-style letter notation from Dalgleish [@dalgleish1864: 46].
+:::
+
 ### Bain (1863) *An English grammar* {#sec:bain1863}
 
 Alexander Bain (1818-1903) 
