@@ -269,9 +269,17 @@ Mason substantially revises his grammar again with the 25th edtion [@mason1881].
 
 John Miller Dow Meiklejohn (1830-1902) was a prolific textbook author and in 1876 became the first professor of education in Great Brittain, at the University of St. Andrews. A detailed account of his life and work is provided by Graves [-@graves2004; -@graves2008]. Meiklejohn's birthday is widely listed as 1836, for example in the *Oxford Dictionary of National Biography* [@montmorency2004], but Graves [-@graves2008: 11] argues that this is an error. Meiklejohn published an enormous number of different textbooks for use in schools [@graves2008: 58-56, 91-109, see also 132-137 for a full list of his publications], partly because his income at St. Andrews was not very high [@graves2008: 50-51, 121]. Many of the books published under his name were probably researched and written by other people, while Meiklejohn had the editorial control [@graves2008: 63].
 
-Before his tenure at St. Andrews Meiklejohn already had published a four-volume grammatical textbook, *An easy English grammar for beginners*, published between 1862 and 1866. The first volume deals with the morphological structure of words and does not contain any graphical analyses [@meiklejohn1862a]. The second volume deals with sentences and it contains a single example of graphical syntax, as shown in [@fig:meiklejohn1862_20], analysing the structure of the sentence [@next a]. This graphical approach is clearly inspired by Clark (see [@sec:clark1847]). Meiklejohn does not cite Clark, but he was in Washington, DC, as a private tutor in the years 1853-1854 [@graves2008: 13-14], so he would have ample opportunity to come across the works of Clark. Meiklejohn does not pursue this avenue further in his numerous later works.
+Before his tenure at St. Andrews Meiklejohn already had published a four-volume grammatical textbook, *An easy English grammar for beginners*, published between 1862 and 1866. The first volume deals with the morphological structure of words and does not contain any graphical analyses [@meiklejohn1862a]. The second volume deals with sentences. Meiklejohn [-@meiklejohn1862: ii] here cites recent German grammars of English as the gold-standard for syntactical description [specifically for syntax he cites @sachs1861; @matzner1865], which do not contain any graphical analyses. Meikljohn includes a single example of graphical syntax, as shown in [@fig:meiklejohn1862_20], analysing the structure of the sentence [@next]. This graphical approach is clearly inspired by the diagrams of Clark (see [@sec:clark1847]). Meiklejohn does not cite Clark, but he was in Washington, DC, as a private tutor in the years 1853-1854 [@graves2008: 13-14], so he would have ample opportunity to come across the works of Clark. Meiklejohn does not pursue this avenue further in his numerous later works, though his notion of "mapping out" a sentence (see below) is closely related to the diagramming craze in the United States.
 
-In the third volume of the *Easy English grammar* contains a discussion of parsing, but without any tables or graphics [@meiklejohn1864: 35-40].
+::: ex
+A lady of my acquaintance kept a pet canary for many years in a cage. [@meiklejohn1862: 18]
+:::
+
+::: {.im #meiklejohn1862_20}
+Illustration for [@last a] from Meiklejohn [-@meiklejohn1862: 20]. This graphical approach is very likely to be inspired by the diagrams from Clark (see [@sec:clark1847]), although there is no direct reference to Clark's approach in the works of Meiklejohn.
+:::
+
+The third volume of the *Easy English grammar* contains a discussion of parsing, but without any tables or graphics [@meiklejohn1864: 35-40]. In the final fourth volume
 - table in book four [@meiklejohn1866: 9]
 - "formula" with letters like Lehmann, but format seems most similar to Bauer 1850 (meiklejohn uses a/b/c for adjectival/adverbial/noun=relative/adverbial/complement, note Bauer uses a/b/c for noun/adjective/adverb, respectively...) [@meiklejohn1866: 10-12], 
 - various options for analysis [@meiklejohn1866: 65-73], specifically note the tree-structure [@meiklejohn1866: 73]
@@ -279,12 +287,7 @@ In the third volume of the *Easy English grammar* contains a discussion of parsi
 probably inspired by Dalgleish!
 
 ::: ex
-- A lady of my acquaintance kept a pet canary for many years in a cage. [@meiklejohn1862: 18]
-- [A]{.grey} The gardener, [*a (s)*]{.grey} who is engaged at Mr. Mann's, [A]{.grey} sold the fruit, [*a (o)*]{.grey} which was not quite ripe, [*b*]{.grey} when the market was over.
-:::
-
-::: {.im #meiklejohn1862_20}
-Illustration for [@last a] from Meiklejohn [-@meiklejohn1862: 20]. This graphical approach seems very likely to be inspired by the diagrams from Clark (see [@sec:clark1847]).
+[A]{.grey} The gardener, [*a (s)*]{.grey} who is engaged at Mr. Mann's, [A]{.grey} sold the fruit, [*a (o)*]{.grey} which was not quite ripe, [*b*]{.grey} when the market was over.
 :::
 
 Meiklejohn does not cite Bauer, but he was very proficient in German form an early age on [@graves2008: 12-13]. At 25 years of age Meiklejohn translated Kant's *Critique of pure reason* into English [@graves2008: 12-17]. Given this background, it would not be surprising that he ran across a book with the pertinent title *Grundzüge der neuhochdeutschen Grammatik* [@bauer1850].
@@ -402,19 +405,27 @@ revision of 1810 original by Lennie with expanded analysis of sentence by P. Aus
 
 ### Dalgleish (1863) *English composition* {#sec:dalgleish1863}
 
-Walter Scott Dalgleish (1834-1897) https://en.wikipedia.org/wiki/Walter_Scott_Dalgleish
-https://www.tandfonline.com/doi/abs/10.1080/00369229708732943
+Walter Scott Dalgleish (1834-1897) was a teacher, textbook author and publicist in Edinburgh. A short obituary of Dalgleich is provided by Bartholomew, the founder of the Scottish Geographical Society [@bartholomew1897]. Between 1863 and 1867 he writes various grammatical textbooks, which he signs on the cover as being the "Vice Principal of Dreghorn College", refering to the school that was founded by his parents:
 
-In 1857 Walter was 23 years old, in 1863-1868 he signs his book as "vice principal of dreghorn college"
+> In 1857 the mansion [Grange house] and its “pleasure grounds” were rented out to John Dalgleish. Mr. and Mrs. Dalgleish had been running an educational institution for young ladies in George Square for more than twenty years. Now, joined by their son Walter Scott Dalgleish M.A., they announced the launch of a school for “young gentlemen of the highest ranks”. They praised Grange House’s ideal location […] The school seems to have done well and soon moved to Dreghorn Castle, where there was far more space." [@gretton2015]
 
-"In 1857 the mansion [Grange house] and its “pleasure grounds” were rented out to John Dalgleish. Mr. and Mrs. Dalgleish had been running an educational institution for young ladies in George Square for more than twenty years. Now, joined by their son Walter Scott Dalgleish M.A., they announced the launch of a school for “young gentlemen of the highest ranks”. They praised Grange House’s ideal location […] The school seems to have done well and soon moved to Dreghorn Castle, where there was far more space"
+Dalgleish wrote the following textbooks about english grammar, all reprinted various times throughout the following decades [@gorlach1998: 99-100].
 
-https://edinburghfootnotes.co.uk/2015/07/17/grange-house-1800s-1900s/
+- *English composition* original from 1863, cited here from the third edition [@dalgleish1864]. In the preface [@dalgleish1864: 4], he cites Morell (see [@sec:sec:morell1852]). In the accompanying *Key* he summarises his approach to *synthesis* [@dalgleish1863: 2-4].
 
-- *English composition* original 1863, third edition [@dalgleish1864] p.15, 36ff.: Bauer-style letters. Keys to examples in [@dalgleish1863], cites Morell in preface p4
-- *Grammatical analysis*, original 1865, third edition [@dalgleish1866], American edition [@dalgleish1869] cites Morell (p.4) and Bain. Keys [@dalgleish1865], follows second edition. Scheme of subordination on p. 25, more examples in Keys, p. 21-23, further full of Morell-type analyses
+
+intro 15-16, 36-47.: Bauer-style letters. Keys to examples in ,
+- *Grammatical analysis*, original from 1865, cited here from the third edition [@dalgleish1866], American edition [@dalgleish1869] cites Morell (p.4) and Bain. Keys [@dalgleish1865], follows second edition. Scheme of subordination on p. 25, more examples in Keys, p. 21-23, further full of Morell-type analyses
 - *Progressive English grammar* [@dalgleish1866a], second edition [@dalgleish1868]
 - *Outlines of English grammar and analysis* [@dalgleish1867] tables p. 67, 72, 75
+
+::: ex
+A person who looked on the waters only for a moment might fancy that they were retiring; or a person that looked on them only for five minutes might fancy that they were rushing capriciously to
+and fro; but when he keeps his eye on them for a quarter of an hour, and sees one sea-mark disappear after another, it is impossible for him to doubt of the general direction in which the ocean is moved. /
+[@dalgleish1863: 22, citing Thomas Babington Macaulay *Critical and historical essays, volume one* (1834)]
+:::
+
+
 
 ### Bain (1863) *An English grammar* {#sec:bain1863}
 
