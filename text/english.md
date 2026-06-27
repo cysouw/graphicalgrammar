@@ -416,6 +416,10 @@ https://edinburghfootnotes.co.uk/2015/07/17/grange-house-1800s-1900s/
 - *Progressive English grammar* [@dalgleish1866a], second edition [@dalgleish1868]
 - *Outlines of English grammar and analysis* [@dalgleish1867] tables p. 67, 72, 75
 
+::: {.im #dalgleish1864_46}
+Exercises 43–47 from Dalgleish [-@dalgleish1864: 46], showing the analysis of complex sentences using Bauer-style letter notation. The principal clause is denoted A, and subordinate clauses by lowercase italic letters (*a*, *b*, etc.), with superscripts indicating further levels of subordination (*a*², etc.).
+:::
+
 ### Bain (1863) *An English grammar* {#sec:bain1863}
 
 Alexander Bain (1818-1903) 
