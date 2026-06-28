@@ -209,7 +209,7 @@ A reader, unacquainted with the real nature of a classical education, will proba
 "Third scheme" for the analysis of the sentence in [@last] from Morell [-@morell1857: 93]. This approach is much closer to the original from Becker, cf. [@fig:becker1829_xvii], but Morell does not consistently follow through with the usage of the numbers to encode the relative modification. Later authors, following Morel's example, will expand on this approach under the term "long-form analysis".
 :::
 
-### Findlater (1857) *English grammar*
+### Findlater (1857) *English grammar* {#sec:findlater1857}
 
 Andrew Findlater (1810–1885) was the editor and major author of *Chambers's Encyclopaedia*, an important English encyclopedia from the 19th Century.^[Some basic biographical information on Findlater is provided by @bayne1889.] He was a good friend of Alexander Bain (see [@sec:bain1863]), who included various details about Findlater in his autobiography. Bain recounts that in 1842 Findlater, while the head master of Gordon's Hospital (which was a day school in Aberdeen, notwithstanding it's name), started to learn German [@bain1904: 116]. In 1852, Findlater joined Bain as a teacher of English at Bedford College in London, "the lectures for which he prepared carefully from the latest authorities on grammar and composition" [@bain1904: 234]. In 1853, Findlater got an engagement from Robert Chambers to go to Edinburgh to "superintend a cyclopaedia projected by the Chamberses on the basis of a German lexicon that they had purchased" [@bain1904: 235]. This German lexicon was the 10th Edition of the *Brockhaus Conversations-Lexikon* and the first version of *Chambers's Encyclopaedia* was basically a translation and re-editing of this German encyclopedia.
 
@@ -405,27 +405,42 @@ revision of 1810 original by Lennie with expanded analysis of sentence by P. Aus
 
 ### Dalgleish (1863) *English composition* {#sec:dalgleish1863}
 
-Walter Scott Dalgleish (1834-1897) was a teacher, textbook author and publicist in Edinburgh. A short obituary of Dalgleich is provided by Bartholomew, the founder of the Scottish Geographical Society [@bartholomew1897]. Between 1863 and 1867 he writes various grammatical textbooks, which he signs on the cover as being the "Vice Principal of Dreghorn College", refering to the school that was founded by his parents:
+Walter Scott Dalgleish (1834-1897) was a teacher, textbook author and publicist in Edinburgh. A short obituary of Dalgleich is provided by Bartholomew, the founder of the Scottish Geographical Society [@bartholomew1897]. Between 1863 and 1867 Dalgleish writes various grammatical textbooks, which he signs on the cover as being the "Vice Principal of Dreghorn College", refering to the school that was founded by his parents:
 
 > In 1857 the mansion [Grange house] and its “pleasure grounds” were rented out to John Dalgleish. Mr. and Mrs. Dalgleish had been running an educational institution for young ladies in George Square for more than twenty years. Now, joined by their son Walter Scott Dalgleish M.A., they announced the launch of a school for “young gentlemen of the highest ranks”. They praised Grange House’s ideal location […] The school seems to have done well and soon moved to Dreghorn Castle, where there was far more space." [@gretton2015]
 
-Dalgleish wrote the following textbooks about english grammar, all reprinted various times throughout the following decades [@gorlach1998: 99-100].
+Dalgleish's first grammatical textbook is *English composition in prose and verse*, originally from 1863, but cited here from the third edition [@dalgleish1864]. There is also an accompanying *Key* with the answers to the exercises [@dalgleish1863]. In the preface of the textbook [@dalgleish1864: 4], Dalgleish cites Morell as a major influence (see [@sec:morell1852]). As this book deals with composition, Dalgleish from the start stressed the topic of *synthesis*, i.e. the production of sentences:
 
-- *English composition* original from 1863, cited here from the third edition [@dalgleish1864]. In the preface [@dalgleish1864: 4], he cites Morell (see [@sec:sec:morell1852]). In the accompanying *Key* he summarises his approach to *synthesis* [@dalgleish1863: 2-4].
+> This work […] aims at making the building up of sentences by Synthesis, as exact and useful a discipline as the breaking down of sentences by Analysis is now admitted to be. [@dalgleish1864: 1, capitalisation in original].
 
+To synthesise large sentences, Dalgleish proposes a notation that seems clearly influences by the approach of Findlater (see [@sec:findlater1857]). Findlater's system is also used by Bain (see [@sec:bain1863]), but Bain's book was published simultaneously with Dalgleish's in 1863, so that appears to be a parallel development. Also, Dalgleish does not cite Bain in this book from 1863, but he does cite him two years later in his *English grammar* [@dalgleish1866: 4].
 
-intro 15-16, 36-47.: Bauer-style letters. Keys to examples in ,
-- *Grammatical analysis*, original from 1865, cited here from the third edition [@dalgleish1866], American edition [@dalgleish1869] cites Morell (p.4) and Bain. Keys [@dalgleish1865], follows second edition. Scheme of subordination on p. 25, more examples in Keys, p. 21-23, further full of Morell-type analyses
-- *Progressive English grammar* [@dalgleish1866a], second edition [@dalgleish1868]
-- *Outlines of English grammar and analysis* [@dalgleish1867] tables p. 67, 72, 75
+Dalgleish first gives a short introduction to his system [@dalgleish1864: 15-16] and later adds many pages with exercises [@dalgleish1864: 36-47]. Like Findlater, Dalgleish's uses capital letters for main clauses and lowercase letters for subordinate clauses. The level of subordination is indicated with superscripts. Different from Findlater, parallel subordinate clauses have a digit in front, e.g *2a³*, as illustrated in [@fig:dalgleish1864_46], indicates the second third-level subordinate clause to the main clause *A*. Dalgleish also uses specific symbols for different kinds of coordination, like a plus symbol "+" for copulative *and* or a cross symbol "x" for adversative *but*. This system is used for exercises, as shown in [@fig:dalgleish1864_46]. Various clauses are presented, with a code for their relative subordination. The exercise is to synthesise a complete complex sentence on this basis. From the *Key* it turns out that this example the exercise was based on a literary quotation from Thomas Macaulay [@next].
 
 ::: ex
 A person who looked on the waters only for a moment might fancy that they were retiring; or a person that looked on them only for five minutes might fancy that they were rushing capriciously to
-and fro; but when he keeps his eye on them for a quarter of an hour, and sees one sea-mark disappear after another, it is impossible for him to doubt of the general direction in which the ocean is moved. /
+and fro; but when he keeps his eye on them for a quarter of an hour, and sees one sea-mark disappear after another, it is impossible for him to doubt of the general direction in which the ocean is moved. \
 [@dalgleish1863: 22, citing Thomas Babington Macaulay *Critical and historical essays, volume one* (1834)]
 :::
 
+::: {.im #dalgleish1864_46}
+Exercise of *synthesis* from Dalgleish [-@dalgleish1864: 46]. The students are supposed to recreate the original quotation of Macaulay in [@last] from these instructions. Conversely, this summary can be seen as a syntactic analysis of the original sentence. The same idea to have students construct sentences based on a graphical representation of the sentence structure is also (independently) used two decades later by Müllener in Germany, cf. [@fig:müllener1885_151].
+:::
 
+Following up on his book on composition, Dalgleish publishes a book on *Grammatical analysis*, originally from 1865, cited here from the third edition [@dalgleish1866]. He presents this book as an "introduction" to the previous book. Dalgleish now also cites Bain as an influence, besides Morell [@dalgleish1866: 4]. He calls his system for the analysis of a complex sentence now *analytic notation* and it is extended with a graphical structure of the subordination structure, as shown in [@fig:dalgleish1866_51] for a quotation from Shakespeare's *Henry VI* in [@next]. The structure of the table is clearly inspired by Morell [-@morell1857a], cf. [@fig:morell1884_52], though Dalgleish adds his own symbolic notation. The *table of relations of clauses* below the table very much look like the *Periodenbilder* from Friedrich Bauer in Germany (see [@sec:bauer1850]), but I have not been able to find any concrete evidence for any influence from Bauer on Dalgleish. It seems very well possible that these were independent innovation. There are various examples of such tables in the book [@dalgleish1866: 25, 38, 51] and also in the accompanyink *Key* [@dalgleish1865: specifically 21-23].
+
+::: ex
+Thrice is he armed that hath his quarrel just; \
+And he but naked, though locked up in steel, \
+Whose conscience with injustice is corrupted. \
+[@dalgleish1866: 51, citing Shakespear *Henry VI*]
+:::
+
+::: {.im #dalgleish1866_51}
+*Analytic notation* for [@last] from Dalgleish [-@dalgleish1866: 51]. The tabular display is clearly inspired by Morell, cf. [@fig:morell1884_52]. The scheme below the table looks suspiciously similar to the *Periodenbilder* from Bauer, cf. [@fig:bauer1850_95]. However, I have not been able to find any indication of influence from Bauer on Dalgleish, so this might have been a parallel development. It is unclear why Dalgleish puts the adverbial clause *though locked up in steel* after the relative clause *whose conscience …*, though they occur in this order in the original sentence.
+:::
+
+Dalgleish later publishes two reduced versions of his grammar, with more exercises and geared towards actual use in school: *Progressive English grammar* [@dalgleish1866a] and *Outlines of English grammar and analysis* [@dalgleish1867]. These contain nothing new and do not use any graphical syntactic analysis. Dalgleish's grammatical textbooks are reprinted various times throughout the following decades [@gorlach1998: 99-100], but he does not seem to have revisited the topic of grammatical analysis and instead turned his interest to other subject, like geography and history.
 
 ### Bain (1863) *An English grammar* {#sec:bain1863}
 
