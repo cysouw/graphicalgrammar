@@ -265,40 +265,35 @@ Mason substantially revises his grammar again with the 25th edtion [@mason1881].
 
 ### Meiklejohn (1862) *An easy English grammar for beginners* {#sec:meiklejohn1862}
 
-John Miller Dow Meiklejohn (1830-1902) was a prolific textbook author and in 1876 became the first professor of education in Great Brittain, at the University of St. Andrews. A detailed account of his life and work is provided by Graves [-@graves2004; -@graves2008]. Meiklejohn's birthday is widely listed as 1836, for example in the *Oxford Dictionary of National Biography* [@montmorency2004], but Graves [-@graves2008: 11] argues that this is an error. Meiklejohn published an enormous number of different textbooks for use in schools [@graves2008: 58-56, 91-109, see also 132-137 for a full list of his publications], partly because his income at St. Andrews was not very high [@graves2008: 50-51, 121]. Many of the books published under his name were probably researched and written by other people, while Meiklejohn had the editorial control [@graves2008: 63].
+John Miller Dow Meiklejohn (1830-1902) was a prolific textbook author and in 1876 became the first professor of education in Great Brittain at the University of St. Andrews in Scotland. A detailed account of his life and work is provided by Graves [-@graves2004; -@graves2008]. Meiklejohn's year of birth is widely listed as 1836, for example in the *Oxford Dictionary of National Biography* [@montmorency2004], but Graves [-@graves2008: 11] argues that this is an error. Meiklejohn published an enormous amount of different textbooks about various subjects [@graves2008: 58-56, 91-109, see also 132-137 for a full list of his publications], partly because his income at St. Andrews was not very high [@graves2008: 50-51, 121]. Many of the books published under his name were probably researched and written by other people, while Meiklejohn had the final editorial control [@graves2008: 63].
 
-Before his tenure at St. Andrews Meiklejohn already had published a four-volume grammatical textbook, *An easy English grammar for beginners*, published between 1862 and 1866. The first volume deals with the morphological structure of words and does not contain any graphical analyses [@meiklejohn1862a]. The second volume deals with sentences. Meiklejohn [-@meiklejohn1862: ii] here cites recent German grammars of English as the gold-standard for syntactical description [specifically for syntax he cites @sachs1861; @matzner1865], which do not contain any graphical analyses. Meikljohn includes a single example of graphical syntax, as shown in [@fig:meiklejohn1862_20], analysing the structure of the sentence [@next]. This graphical approach is clearly inspired by the diagrams of Clark (see [@sec:clark1847]). Meiklejohn does not cite Clark, but he was in Washington, DC, as a private tutor in the years 1853-1854 [@graves2008: 13-14], so he would have ample opportunity to come across the works of Clark. Meiklejohn does not pursue this avenue further in his numerous later works, though his notion of "mapping out" a sentence (see below) is closely related to the diagramming craze in the United States.
+Before his tenure at St. Andrews Meiklejohn already had published a four-volume grammatical textbook, *An easy English grammar for beginners*, published between 1862 and 1866. The first volume deals with the morphological structure of words and does not contain any graphical analyses [@meiklejohn1862a]. The second volume deals with sentences. Meiklejohn [-@meiklejohn1862: ii] here cites recent German grammars of English as the gold-standard for syntactical description [specifically for syntax he cites @sachs1861; @matzner1865], which, however, do not contain any graphical analyses. Meiklejohn includes a single example of graphical syntax in this volume, as shown in [@fig:meiklejohn1862_20], analysing the structure of the sentence [@next]. This graphical approach is clearly inspired by the diagrams of Clark (see [@sec:clark1847]). Meiklejohn does not cite Clark, but he was in Washington, DC, as a private tutor in the years 1853-1854 [@graves2008: 13-14], so he would have ample opportunity to come across the works of Clark. Meiklejohn does not pursue this avenue further in his numerous later works, though his notion of "mapping out" a sentence (see below) might have been inspired by Clark's approach.
 
 ::: ex
 A lady of my acquaintance kept a pet canary for many years in a cage. [@meiklejohn1862: 18]
 :::
 
 ::: {.im #meiklejohn1862_20}
-Illustration for [@last a] from Meiklejohn [-@meiklejohn1862: 20]. This graphical approach is very likely to be inspired by the diagrams from Clark (see [@sec:clark1847]), although there is no direct reference to Clark's approach in the works of Meiklejohn.
+Illustration for [@last] from Meiklejohn [-@meiklejohn1862: 20]. This graphical approach is very likely to be inspired by the diagrams from Clark (see [@sec:clark1847]), although there is no direct reference to Clark's approach in the works of Meiklejohn.
 :::
 
-The third volume of the *Easy English grammar* contains a discussion of parsing, but without any tables or graphics [@meiklejohn1864: 35-40]. In the final fourth volume
-- table in book four [@meiklejohn1866: 9]
-- "formula" with letters like Lehmann, but format seems most similar to Bauer 1850 (meiklejohn uses a/b/c for adjectival/adverbial/noun=relative/adverbial/complement, note Bauer uses a/b/c for noun/adjective/adverb, respectively...) [@meiklejohn1866: 10-12], 
-- various options for analysis [@meiklejohn1866: 65-73], specifically note the tree-structure [@meiklejohn1866: 73]
-
-probably inspired by Dalgleish!
+The third volume of the *Easy English grammar* contains a discussion of parsing, but without any tables or graphics [@meiklejohn1864: 35-40]. In the final fourth volume [@meiklejohn1866] there are various forms of graphical syntax, probably inspired by the grammar of Dalgleish (see [@sec:dalgleish1863]), which was just published in 1865, a year before the publication of Meiklejohn's fourth volume. There are various details that point to an influence from Dalgleish, e.g. the six syntactic functions of the simple sentence [@meiklejohn1866: 65] and the *formula* for the complex sentence, as shown in [@fig:meiklejohn1866_12]. However, Meiklejohn never mentiones the work of Dalgleish, so he might also have been inspired by the German tradition, for example by Friedrich Bauer (see [@sec:bauer1850]). Meiklejohn also does not cite Bauer, but he was very proficient in German form an early age on [@graves2008: 12-13]. At 25 years of age Meiklejohn translated Kant's *Critique of pure reason* into English [@graves2008: 12-17]. Given this background, it would not be surprising that he ran across a book with the pertinent title *Grundzüge der neuhochdeutschen Grammatik* [@bauer1850].
 
 ::: ex
 [A]{.grey} The gardener, [*a (s)*]{.grey} who is engaged at Mr. Mann's, [A]{.grey} sold the fruit, [*a (o)*]{.grey} which was not quite ripe, [*b*]{.grey} when the market was over.
 :::
 
-Meiklejohn does not cite Bauer, but he was very proficient in German form an early age on [@graves2008: 12-13]. At 25 years of age Meiklejohn translated Kant's *Critique of pure reason* into English [@graves2008: 12-17]. Given this background, it would not be surprising that he ran across a book with the pertinent title *Grundzüge der neuhochdeutschen Grammatik* [@bauer1850].
-
 ::: {.im #meiklejohn1866_12}
-*Formula* for [@last b] from Meiklejohn [-@meiklejohn1866: 12], probably inspired by Bauer (see [@sec:bauer1850]). Meiklejohn explains that he uses lower-case letters for different kinds of subordinate clauses, specifically using *a*=adjectival (i.e. relative clause), *b*=adverbial and *c*=noun (i.e. complement clause). This is similar to Bauer, though Bauer uses the letters differently (*a*=complement, *b*=relative, *c*=adverbial). At other points in his book, Meiklejohn appears to be not consistent in the usage of these letters (cf. [@fig:meiklejohn1866_73])
+*Formula* for [@last b] from Meiklejohn [-@meiklejohn1866: 12], probably inspired by Dalgleish (cf. [@fig:dalgleish1866_51]) or Bauer (cf. [@fig:bauer1850_95]). Meiklejohn explains that he uses lower-case letters for different kinds of subordinate clauses, specifically using *a*=adjectival (i.e. relative clause), *b*=adverbial and *c*=noun (i.e. complement clause). This is similar to Bauer, though Bauer uses the letters differently (*a*=complement, *b*=relative, *c*=adverbial). At other points in his book, Meiklejohn appears to be not consistent in the usage of these letters (cf. [@fig:meiklejohn1866_73] below).
 :::
 
-The last of Meiklejohn's proposed analyses for complex sentences is shown in [@fig:meiklejohn1866_73] for the unquoted poetic excerpt in [@next] from Oliver Goldsmith (1770) *The deserted village*. Meiklejohn did not explicitly name the author, probably because he assumed that every reader would know this poem. Also note that the text in the graphic [@fig:meiklejohn1866_73] slightly deviates from the original poem [@next]. Meiklejohn very probably quoted the poem from memory when writing his book. 
+In the appendix [@meiklejohn1866: 65-73] he discussed various possibilities how to deal with complex sentences with many subordinate clauses. The last of Meiklejohn's proposed analyses for complex sentences is shown in [@fig:meiklejohn1866_73] for the poetic excerpt in [@next] from Oliver Goldsmith. Meiklejohn did not explicitly mentions this author, probably because he assumed that every reader of his book would know this poem. Also note that the text in the graphic [@fig:meiklejohn1866_73] slightly deviates from the original poem in [@next]. Meiklejohn very probably quoted the poem from memory when writing his book. 
 
 Meiklejohn does not present any detailed explanation of the principles behind this analysis. Specifically, the analysis of the subordinate clauses (with the lower-case letters) is inconsistent with his earlier explanations. He still uses the letters *a,b,c* but now they appear to indicate different kinds of subordination. The letter *a* and *b* both are used for adverbial clauses, while *c* is used for a relative clause. Also, the non-finite adverbial clause *the young contending* is not analysed as subordinate, while the multiply-embedded construction *by holding out to tire each other down* and the final relative clause *that would those looks reprove* are both ignored in this analysis by Meiklejohn.
 
 ::: ex
+Meiklejohn [-@meiklejohn1866: 73], quoting from Oliver Goldsmith (1770) *The deserted village*
+
 [P.S.]{.grey} How often have I blest the coming day, \
 [A.1.]{.grey} When toil remitting lent its turn to play, \
 [A.2.]{.grey} And all the village train from labour free \
@@ -318,10 +313,10 @@ By holding out to tire each other down, \
 :::
 
 ::: {.im #meiklejohn1866_73}
-[@meiklejohn1866: 73]
+Analysis of the complex sentence [@last] from Meiklejohn [-@meiklejohn1866: 73]. This approach appears to be a further development of the simple analysis from Dalgleish. However, Meiklejohn stumbles with the details of this complex example. The usage of the different lowercase letters is inconsistent and also the italics are used erratically. Notwithstanding the large figure, some subordinate clauses are still not included in this analysis.
 :::
 
-*The teaching of little boys*  [@meiklejohn1879], "draw a map of a sentence" p. 20, 23
+More than ten years later, only after he became professor at the University of St. Andrews, Meiklejohn returns to the topics of education and grammatical analysis. In a short lecture, published as *The teaching of little boys*, he discusses the approach to "draw a map of a sentence" [@meiklejohn1879: 20, 23] as a method to explain the structure of Latin sentences. His example is shown in [@fig:meiklejohn1879_20] for the sentence from Ceasar's *De Bello Gallico* in [@next]. Instead of different letters, he now distinguishes between different kinds of subordinate clauses by visually differentiating the connecting lines, namely using single lines for conjunctions (from the example this seems to be his label for an adverbial subordinate clause), double lines for relative clauses, and dotted lines for "a connection in thought", which (from the single example available) simply appears to be a direct object. Meiklejohn explicitly mentioned that this method is particularly useful when applied on a blackboard:
 
 > For a Latin sentence is a much more complex and troublesome machine than an English sentence; it requires taking to pieces more carefully and putting together again with more skill. The little boy may very easily lose his way among the clauses, and some of them are as difficult to take as a five-barred gate; and he has only a very confused feeling of the meaning of the whole sentence. But the black-board, which like a kind fairy steps in to help him, comes to unravel the confusion, and to make everything as plain, or plainer, than an English sentence. On the black-board we can draw a map of a sentence; every member falls into his own place; and all becomes quite clear. [@meiklejohn1879: 19]
 
@@ -333,56 +328,55 @@ By holding out to tire each other down, \
 :::
 
 ::: {.im #meiklejohn1879_20}
-*Map of the sentence* [@last] from Meiklejohn [-@meiklejohn1879: 20]. The Latin words in brackets in [@last] are not written in the graphic. Meiklejohn explains that the single line is a conjunctions (*quod* 'because'), the double lines are relatives and the dotted line is *a connection in thought* (actually, a simple grammatical object). Meiklejohn also claims that "the mapping also shows why Caesar used *minus*, rather than *non*", but to me the graphic does not make this choice immediately clear.
+*Map of the sentence* of [@last] from Meiklejohn [-@meiklejohn1879: 20]. The Latin words in brackets in [@last] are not included in the graphic. Meiklejohn explains that the single line indicates an (adverbial) conjunction (*quod* 'because'), the double lines indicate relative clauses and the dotted line is "a connection in thought" (apparantly simply a grammatical object). Meiklejohn also claims that "the mapping also shows why Caesar used *minus*, rather than *non*", but to me the graphic does not make this choice of words immediately clear.
 :::
 
-*The standard grammar* (1882)
-
-- graphical display "mapping", "mapping out" [@meiklejohn1882: 20, 22, 147, 166-169]
-- continuous analysis p. 170-172, table p. 177, citing examples from Fitch, see [@sec:fitch1881]
-
-quoting Joseph Addison's 1711 essay *Mischiefs Of Party Spirit*
-
-::: ex
-- My worthy friend, Sir Roger, when we are talking of the malice of parties, very frequently tells us an accident that happened to him when he was a school-boy, which was at a time when the feuds ran high between the Roundheads and Cavaliers.
-:::
+Meiklejohn finally returns to the study of language with his textbook *The standard grammar* [@meiklejohn1882]. He introduces many different approaches to the analysis of sentences, once more showing his eclectic style of educational methods. Instead of pursuing a single approach, Meiklejohn allows for a multitude of complementary methods from which teachers and students can choose. The basic idea that words in a sentence are dependent on each other is illustrated with arrows in a section on "the attachments of words" [@meiklejohn1882: 19-23], as shown in [@fig:meiklejohn1882_20]. Meiklejohn [-@meiklejohn1882: 170-172] also verbatim quotes an example of a sentence analysis from Fitch (see [@sec:fitch1881]), which is a direct descendant of Becker's approach to the analysis of complex sentences (see [@sec:becker1829]). Meiklejohn calls this "continuous analysis". He also does not forget to include an slightly updated version of Morell's combined analysis (see [@sec:morell1852]) in the form of a table [@meiklejohn1882: 177].
 
 ::: {.im #meiklejohn1882_20}
-*What words go with each other* [@meiklejohn1882: 20]
+*What words go with each other* from Meiklejohn [-@meiklejohn1882: 20], illustrating that words in a sentence are interconnected.
+:::
+
+Yet, the main innovation of Meiklejohn in *The standard grammar* is a further development of his line-based graphical display, which he now consistently calls the "mapping" or "mapping out" of a sentence. He returns to this approach at various places through his grammar [@meiklejohn1882: 20, 22, 147, 166-169]. His approach is illustrated here in [@fig:meiklejohn1882_168] with an analysis of a complex sentence from Joseph Addison in [@next]. Adverbial subordination is marked with a single line, but the subjunctions are now placed along the line. Similarly, relative clauses are marked by a line with a stroke, and the relative pronouns are place along the line. The dotted line is now used for prepositional phrases with the preposition being placed along the line. Meiklejohn completely ignores complement clauses in his analyses.
+
+::: ex
+Meiklejohn [-@meiklejohn1882: 167], quoting Joseph Addison *Mischiefs Of Party Spirit* (1711)
+
+My worthy friend, Sir Roger, when we are talking of the malice of parties, very frequently tells us an accident that happened to him when he was a school-boy, which was at a time when the feuds ran high between the Roundheads and Cavaliers.
 :::
 
 ::: {.im #meiklejohn1882_168}
-*Mapping out* [@meiklejohn1882: 168]
+*Mapping out* of the sentence [@last] from Meiklejohn [-@meiklejohn1882: 168]. This is a further development of his rudimentary proposals from a few years earlier, as shown in [@fig:meiklejohn1879_20]. Single lines are used for adverbial clauses, lines with a strikethrough are for relative clauses, but there is no discussion of complement clauses. Dotted lines are now used for prepositional phrases. All connecting words are placed alongside the lines.
 :::
 
-*The English language*: 
+For the next few years Meiklejohn keeps turning out grammatical textbooks with slightly different content, but many returning ideas. *The English language* [@meiklejohn1886] is much broader in scope than the grammar, but is still includes a lengthy section on the analysis of sentences [@meiklejohn1886: 86-99]. The Morell-style table is now introduced as "sentences may also be pigeon-holed, or placed in marked-off spaces or columns" [@meiklejohn1886: 98] and the continuous analysis "may […] be applied to longer passages, and
+especially to passages taken from the poets" [@meiklejohn1886: 99]. He revisits the method of "mapping out" [@meiklejohn1886: 92, 97-98], returning to double lines for relative clauses. He more clearly explains that he considers this to be a first step of the analysis, typical to be performed by the teacher:
 
-- "mapping out" = diagramming? [@meiklejohn1886: 92, 97-98]
-- tables "pigeon holed"  [@meiklejohn1886: 98]
-- "continuous analysis = Becker-style [@meiklejohn1886: 99]
+> It is of the greatest importance to get the **eye** to help the mind, and to present to the **sight** if possible–either on paper or on the black-board–the sentence we have to consider. This is called **mapping-out**. […] Such a mapping-out enables us easily to see, with the bodily as well as with the mind's eye, what is the main purpose of all analysis—to find out which words go with which, and what is the real build of the sentence. Hence, unless we see at a glance the build of the sentence we are going to analyse, we ought, before doing so, to set to work and map it out.  [@meiklejohn1886: 92-93, emphasis in original]
 
-> It is of the greatest importance to get the **eye** to help the mind, and to present to the **sight** if possible–either on paper or on the black-board–the sentence we have to consider. This is called **mapping-out**. [@meiklejohn1886: 92, emphasis in original]
+The *New grammar of the English language* [@meiklejohn1887] is a reprint of first part of the previous *The English language* with added exercises, inluding exercises for the analysis of sentences [@meiklejohn1887: 211-219]. He presents five schemes for the analysis of sentences. Notably, "mapping out" is not part of these schemes. This reinforces the view that Meiklejohn considered "mapping out" to be kind of discovery procedure, typically performed by the teacher on a blackboard. The actual analysis of a sentence should be performed in one of these five schemes:
 
-> Such a mapping-out enables us easily to see, with the bodily as well as with the mind's eye, what is the main purpose of all analysis—to find out which words go with which, and what is the real build of the sentence. Hence, unless we see at a glance the build of the sentence we are going to analyse, we ought, before doing so, to set to work and map it out.  [@meiklejohn1886: 93]
-
-Mapping out is not for the students, but for the teacher to explain the structure. It is not included in the exercises.
-
-*New grammar of the English language* [@meiklejohn1887] 
-
-Reprint of first part of "the English language" with exercises added. Syntax exercises [@meiklejohn1887: 211-219] only tables and continuous analysis. Mapping out is not an exercise! Keys to exercises [@meiklejohn1894: 32ff.]
-
-About analysis Scheme V [@meiklejohn1887: 213], he notes: "This is the scheme prescribed by the Department for the scholarship examination." [@meiklejohn1887: 218]
-
-*Short grammar of the English tongue* (1890) simplified version of new grammar
-
-- mapping out [@meiklejohn1890: 149-151, 159-160]
-- tabular analysis [@meiklejohn1890: 152, 161], returning to capital/lowercase distinction on p. 161
-
-"The single lines represent prepositions; the double lines conjunctions; and the double lines with a bar across relative pronouns" p.159. Meiklejohn seems not really understand complementizers ("noun-sentences"). They are included with the "conjunctions", but often erroneaously analysed as relative clauses. Footnote (ii) on page 160 analyses "how the world looked" rightly, but "what these sightless orbs have seen" is wrongly classified as relative.
-
-Horace Smith's *Address to a Mummy*
+- The first scheme is a table for simple sentences with just subject, predicate and object.
+- The second scheme is a table with the six basic syntactic functions from Bain, cf. [@fig:bain1863_166]
+- The third scheme is a continuous analysis for not too complex sentences
+- The fourth scheme is a complex continous analysis for sentences with many subordinate clauses
+- The fifth scheme is the most exhaustive combination of all approaches, shown in [@fig:meiklejohn1887_213] for a sentence from Tobias Smollett in [@next]. About this scheme he notes: "This is the scheme prescribed by the Department for the scholarship examination" [@meiklejohn1887: 218].
 
 ::: ex
+Meiklejohn [-@meiklejohn1887: 213], quoting Tobias Smollett *The adventures of Peregrine Pickle* (1751)
+
+Various were the conjectures of the company on this occasion: some imagined he had mistaken the place of rendezvous, as he had never been at church since he had first settled in that parish; others believed he had met with some accident, in consequence of which his attendants had carried him back to his own house.
+:::
+
+::: {.im #meiklejohn1887_213}
+*Scheme V* for the analysis of sentence [@last] from Meiklejohn [-@meiklejohn1887: 213]. This scheme appears to have been expected in a scholarship examination, as noted by Meiklejohn [-@meiklejohn1887: 218].
+:::
+
+Meiklejohn's final grammatical textbook is the *Short grammar of the English tongue* [@meiklejohn1890], which is a simplified version of the *New grammar*. He again discusses "mapping out" [@meiklejohn1890: 149-151, 159-160] and various forms of tabular analysis [@meiklejohn1890: 152, 161], now also using a capital/lowercase distinction for main and subordinate clauses. The examples of "mapping out" now are inversely typeset, i.e. with white letters on a black background, as shown in [@fig:meiklejohn1890_160] for the example from Horace Smith in [@next]. There is no explanation for this peculiar kind of typesetting, but it might be an attempt to represent the view of a blackboard. The details of the lines are again slightly changed: "The single lines represent prepositions; the double lines conjunctions; and the double lines with a bar across relative pronouns" [@meiklejohn1890: 159]. In this example it becomes clear that Meiklejohn never seems not really have understood the concept of complement clauses ("noun-sentences") as a separate kind of subordination. Complementizers are simply included together with the adverbial conjunctions.
+
+::: ex
+Meiklejohn [-@meiklejohn1890: 160], citing Horace Smith *Address to a Mummy*
+
 Thou couldst develop, if that withered tongue \
 Might tell us what these sightless orbs have seen, \
 How the world looked when it was fresh and young, \
@@ -390,7 +384,7 @@ And the great deluge still had left it green;
 :::
 
 ::: {.im #meiklejohn1890_160}
-[@meiklejohn1890: 160]
+*Mapping out* for the example [@last] from Meiklejohn [-@meiklejohn1890: 160]. The white-on-black typesetting probably represent the image of a blackboard. The details of the connecting lines are again changed slightly. The double lines indicate "conjunctions", which here clearly include both complement clauses and adverbial clauses. It is unclear why Meiklejohn did not use two different kinds of connections for these rather different kinds of subordination.
 :::
 
 ### Lennie & Nutall (1863) *The principles of English grammar*
