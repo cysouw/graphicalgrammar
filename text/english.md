@@ -162,8 +162,6 @@ James discussed word order under the heading *construction* [@james1847: 133-135
 
 ### Morell (1852) *The analysis of sentences* {#sec:morell1852}
 
-https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Morell,_John_Daniel
-
 John Daniel Morell (1816-1891) was an inspector of schools and published scholarly works on philosophy and religion [basic biographical information is presented by @buckland1894]. From his background as a school inspector Morell decided to publish texts books on grammar because of "a deficiency experienced in the course of official duties as an Inspector of Schools" [@morell1852: iii]:
 
 > This deficiency was most felt in the collective examinations of Pupil Teachers, where, beyond the ordinary modes of parsing, I found it almost impossible to give out any questions on Syntax and the analysis of sentences, to which a common meaning was attached by the pupils assembled, or any number of distinct answers returned. [@morell1852: iii]
@@ -444,46 +442,37 @@ Dalgleish later publishes two reduced versions of his grammar, with more exercis
 
 ### Bain (1863) *An English grammar* {#sec:bain1863}
 
-Alexander Bain (1818-1903) 
+Alexander Bain (1818-1903) was a philosopher, logician and educator, who worked in Glasgow and London, and in 1860 became the chair for logic and English literature at the university of his home town of Aberdeen.^[Basic biographical information is provided by Davidson [-@davidson1911] and more personal details are given in Bain's autobiography [@bain1904].] He was a good friend of Andrew Findlater (see [@sec:findlater1857]), whom he first met in Aberdeen in 1842 [@bain1904: 116]. In the period 1847-1850, Bain produced various texts for the third edition of *Chambers's Information for the People*, including the chapters about language [i.e. @bain1849]:
 
-https://en.wikipedia.org/wiki/Alexander_Bain_(philosopher) in glasgow, university of London, 1860 Aberdeen
-
-worked for the "Chamberses" in 1847-1850
-
-During these months, I was so far able to carry forward my private work in fulfilment of the engagements
+> During these months, I was so far able to carry forward my private work in fulfilment of the engagements
 with the Chamberses. The first was the Science textbook on Meteorology, which must have occupied the first
-two months of the year. Next came the contributions to the Information for the People; and, of these, the first in order was "Language". For such a work I had exceedingly little previous preparation, and, indeed, the material for it was mostly of very recent growth. Philology had taken a great start in Germany, more especially as regards universal grammar, the supposed origin of language, and the classification of languages. At the British Association of 1845, a group of important papers were read and discussed, and Max Miiller, under the patronage of Bunsen, made his debut with the English public. These papers and the translated work of German Philology, especially Bopp's Comparative Grammar, constituted the chief sources of the number. I made up for other deficiencies by a good deal of purely psychological speculation as to the invention of language, according to the known laws of the mind. At a later period, this number was replaced by a much superior exposition by Andrew Findlater, who had made himself master of the whole department, and, in addition, composed an elementary manual for schools. (201-202)
+two months of the year. Next came the contributions to the Information for the People; and, of these, the first in order was "Language". For such a work I had exceedingly little previous preparation, and, indeed, the material for it was mostly of very recent growth. Philology had taken a great start in Germany, more especially as regards universal grammar, the supposed origin of language, and the classification of languages. At the British Association of 1845, a group of important papers were read and discussed, and Max Müller, under the patronage of Bunsen, made his debut with the English public. These papers and the translated work of German Philology, especially Bopp's Comparative Grammar, constituted the chief sources of the number. I made up for other deficiencies by a good deal of purely psychological speculation as to the invention of language, according to the known laws of the mind. [@bain1904: 201-202]
 
+At the University of Aberdeen, Bain was confronted (in his own telling) with the lack of good and affordable school grammars. He decided to write one himself, building on the work of Morell (see [@sec:morell1852]) and Findlater (see [@sec:findlater1857]):
 
-autobiography: [@bain1904] writing of grammar 275-276, mentions Findlater prominently. Findlater seems to have been a good fried of Bain.
+> The choice of grammars at that time was not what it is now. There was not in existence any single grammar with the amount of fulness that was to be desired; while the price of the better ones was four shillings and sixpence, or upwards. It was only recently that the system, begun in Germany, of the analysis of sentences had
+found its way into English grammars; being taken up first by J.D. Morrell […]. It so happened that, as already mentioned, Findlater had occasion to give lessons in English to Bedford College in London, which led him to elaborate this topic of analysis […]. Many new and valuable suggestions were thus embodied; and, in my teaching, I took full advantage of them […]. The composition of the grammar, commenced in 1862, occupied the whole of the summer of 1863, and was brought out in November of that year. [@bain1904: 275-276]
 
-"In the beginning of this year [i.e. 1842, MC], Andrew Findlater was appointed head master of Gordon’s Hospital [actually a day-school in Aberdeen, MC], which was the commencement of my acquaintance with him. … He was a hard student, already knew French, and soon applied himself to German." (116) Bain was 24, Findlater 32
+Bain's basic system for the analysis of sentences in his *English Grammar* [@bain1863: 168] is adapted from Morell, as illustrated in [@fig:bain1863_166]. For the simple sentence, Bain adapted Morell's system with four fixed columns (namely for subject, predicate, complements and adjuncts) into a list of six fixed syntactic functions, indicated by Roman numerals:
 
-"In subsequent years [i.e. sometimes after 1850, MC], these visits [to Edinburgh, MC] were still frequent but short; being generally a few days at a time, either in a hotel or with Findlater, after he had settled in Edinburgh in his own house." (216)
+- I: subject
+- II: attributes of the subject
+- III: predicate
+- IV: object
+- V: attributes of the object
+- VI: adverbial adjuncts
 
-Summer in Paris 1851: "Shortly after I was settled in the Rue de la Victoire, I was joined by Findlater, who was on a tour with his pupil, Patrick Simpson of Cobairdy" (222)
+For complex sentences, each subordinate clause is referenced by a lowercase letter and analysed separately. The additional influence of Findlater is clearly visible in the *symbolic expression* used by Bain for sentences with multiple subordinate clauses [@bain1863: 168], as illustrated in [@fig:bain1863_168].
 
-"In the winter session of 1852-53, I resumed the geography course at Bedford College [London], and also, for the first time, conducted a class in psychology, making use of my MS., so far as it went. The College staff was joined this session by Findlater, who was now disengaged and took up his abode in London; undertaking to teach an English class, the lectures for which he prepared carefully from the latest authorities on grammar and composition." (234)
-
-"In the April vacation [1853], Findlater and I arranged a visit to Malvern, which turned out both interesting and healthful." (235)
-
-"Towards the end of summer [1853], Findlater got an engagement from Robert Chambers to go to Edinburgh and superintend a cyclopaedia projected by the Chamberses on the basis of a German lexicon that they had purchased. He, accordingly, took up his residence in Edinburgh the same autumn, and there permanently settled." (235)
-
-Summer of 1853: "Proceeding from Manchester, I joined Findlater at Carlisle, and, along with him, spent a fortnight at Rothesay." (237)
-
-(Bain marries 1855, findlater dies 1885)
+::: {.im #bain1863_166}
+Analysis of a complex sentence by Bain [-@bain1863: 166], adapting the method of Morell, cf. [@fig:morell1884_52]. Instead of Morell's table with fixed columns, Bain opts for six fixed syntactic functions for a simple sentence, numbered with Roman numerals I through IV. Subordinate clauses are referenced with lowercase letters and analysed separately
+:::
 
 ::: {.im #bain1863_168}
-*Symbolic expression* of a complex sentence from Bain [@bain1863: 168].
+*Symbolic expression* of a complex sentence from Bain [-@bain1863: 168]. The notation with the plus symbols and the superscripts is a direct adaptation of the proposals of Findlater, cf. [@fig:findlater1857_621].
 :::
- 
-superscript numbers? maybe Bauer, but not cited. Same year as Dalgleish (also not cited), notation comes only later in Mason
 
-revised as "higher english grammar" (1872) but basically the same , eg. p.168 https://www.google.de/books/edition/A_Higher_English_Grammar/E28CAAAAQAAJ?hl=de&gbpv=1&dq=inauthor:%22Alexander+Bain%22&printsec=frontcover
-
-"first english grammar" 1872 https://books.google.com/books?id=g20CAAAAQAAJ, analysis 166-172
-
-many more examples in "keys" (1872) p.113-145: https://books.google.de/books?id=pMMDAAAAQAAJ&printsec=frontcover&hl=de#v=onepage&q&f=false
+Bain revised his grammar as *Higher English Grammar* [@bain1872b], which is basically the same as the 1863 grammar. In parallel he also produced a *First English Grammar* including many more exercises [@bain1872a: 166-172], which are discussed in a separate *Key* [@bain1872: 113-145]. Here we find many more examples of the analysis of complex sentences with multiple subordinate clauses using the symbolic expressions from Findlater, but the superscripts are changed in subscripts (though not consistently). Also note that non-finite complement clauses (i.e. *to+infinitive* clauses) are not analysed as clauses by Bain.
 
 ### Bidlake (1863) *A new English grammar*
 
