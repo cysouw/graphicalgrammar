@@ -470,11 +470,29 @@ Bain revised his grammar as *Higher English Grammar* [@bain1872b], which is basi
 
 ### Bidlake (1863) *A new English grammar*
 
-John Purdue Bidlake
+John Purdue Bidlake (1817-1906) wrote various textbooks about chemistry, geography and English grammar. He signs his books with "F.C.P.", indicating that he was a fellow of the college of preceptors. I have not been able to find any further details about his biography, except that he appears to be the father of racing cyclist Fredrick Thomas Bidlake.
 
-Morell-style analysis https://google.com/books?id=wsUDAAAAQAAJ p.158-172
+Morell-style analysis [@bidlake1863] p.158-172 (172 most interesting)
 
-Many examples in 1887 https://google.com/books?vid=Oxford:601891620 page 127-167, solutions to questions here: https://google.com/books?vid=Oxford:602352734 (1884)
+::: ex
+Campbell, the poet, enjoyed a pension from Government in his later years, and the remuneration he received for most of his literary labours was liberal, so that he had an income abundantly sufficient to maintain him in ease and comfort. [@bidlake1863: 171]
+:::
+
+Analysis [@bidlake1863: 172]
+
+Many examples in [@bidlake1887] page 127-167, solutions to these questions from examinations: [@bidlake1884]
+
+::: ex
+He, who through vast immensity can pierce, \
+See worlds on worlds compose one universe, \
+Observe how system into system runs, \
+What other planets circle other suns, \
+What varied being peoples ev'ry star, \
+May tell why heaven has made us what we are. \
+[@bidlake1884: 66, from the Oxford local examination papers for Oxford Seniors, using a quotation from Alexander Pope *An Essay on Man*, Epistle I (1733)]
+:::
+
+[@bidlake1887: 149] Key to the analysis of this sentence
 
 ### Macallum (1867) *An eclectic grammar*
 
@@ -526,7 +544,7 @@ https://google.com/books?id=BkgqAAAAMAAJ
 ### Cooper & Sonnenschein (1889) *An English grammar for schools*
 
 original edition from 1888
-second edition [@cooper1889]
+second edition [@cooper1889] indentation p.17
 
 table [@cooper1891: 9]
 indentation [@cooper1891: 25]
