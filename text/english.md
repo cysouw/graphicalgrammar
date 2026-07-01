@@ -121,6 +121,12 @@ earliest experience as a deaf-mute teacher [@storrs1880: 117]
 
 Grammars in 18th Century: [@tieken2008] GB-Grammars in 19th Century: [@busse2019;@busse2021] https://web.archive.org/web/20250420085129/https://heidelgram.de/
 
+Influence of the newly developed independent examination boards, in 1850 starting with the College of Preceptors, 1855 the Society of Arts, in 1858 in Oxford and Cambridge. https://www.cambridgeassessment.org.uk/Images/499630-independent-examination-boards-and-the-start-of-a-national-system.pdf
+
+society of arts does not include English grammar in their assesment of 1863: https://archive.org/details/jstor-41335395/page/n19/mode/2up?q=sentence
+
+example from college of preceptors [@preceptors1882]
+
 ### Doherty (1841) *An introduction to English grammar*
 
 Hugh Doherty (???-1891) was an active proponent of Fourierism, a form of utopian socialism [@pankhurst1956: 400-408; @jenkins2003]. I have not been able to find more details about his life. In the 1840s, in the midst of the most active period of this movement, he managed to also publish a grammar [@doherty1841]. Later in life he publishes on diverse subjects like the *Philosophy of History and Social Evolution* and *Organic Philosophy*.^[Available online at <https://books.google.de/books?vid=Harvard:32044088061064> and <https://books.google.de/books?vid=Harvard:HXCXTR>, accessed 19 May 2026.]
@@ -223,9 +229,9 @@ The use of notation "after the manner of algebraists" is introduced to English g
 
 The use of capital letters for main clauses and lowercase letters for subordinate clauses reflects the influence of the German tradition of sentence analysis. The notation of multiple levels of subordination through superscripts may likewise derive from Friedrich Bauer (see [@sec:bauer1850]), although I have found no direct evidence that Findlater was familiar with Bauer’s work. Such an influence is nevertheless plausible in light of Findlater’s strong command of German and his keen interest in grammatical analysis. At the same time, Findlater’s remark concerning the limited usefulness of deeply nested subordination is somewhat surprising, given that German grammatical literature is replete with examples featuring numerous clauses arranged in complex hierarchical structures. Findlater's approach to the analysis of complex sentences is adopted by Bain (see [@sec:bain1863]) and probably also influences Dalgleish (see [@sec:dalgleish1863]) and Meiklejohn (see [@sec:meiklejohn1862]), though without any explicit acknowledgement to Findlater.
 
-### Mason (1858) *English grammar*
+### Mason (1858) *English grammar* {#sec:mason1858}
 
-Charles Peter Mason (1820-1900) was a teacher and owner of a school at Denmark Hill in south London.^[I have not been able to find any biographical information about Mason. The obituary of his wife Eleanor (Edwards) Mason in the West Sussex Gazette of 10 October 1912, page 4, mentions that Charles was "for many years the proprietor of a school at Denmark Hill". This obituary is available online at <https://www.britishnewspaperarchive.co.uk/viewer/bl/0002166/19121010/090/0004>, accessed 25 June 2026.] On the title page of his books he self-identifies as a Fellow of University College in London and at various points he alludes his work to prepare his pupils for admission to university [e.g. @mason1861: iv].
+Charles Peter Mason (1820-1900) was a teacher and owner of a school at Denmark Hill in south London.^[I have not been able to find any biographical information about Mason. The obituary of his wife Eleanor (Edwards) Mason in the West Sussex Gazette of 10 October 1912, page 4, mentions that Charles was "for many years the proprietor of a school at Denmark Hill". This obituary is available online at <https://www.britishnewspaperarchive.co.uk/viewer/bl/0002166/19121010/090/0004>, accessed 25 June 2026.] On the title page of his books he self-identifies as a Fellow of University College in London and at various points he alludes his work to prepare his pupils for admission to university [e.g. @mason1861: iv]. Mason is listed as one of the examinars for English language and literature for the College of Preceptors [@preceptors1882]
 
 Mason wrote various textbooks on the analysis of the English language. His main work is the *English grammar including the principles of grammatical analysis* [@mason1858], which is revised and reprinted at least up to a 40th edition from 1901 [@gorlach1998: 233]. From the 25th edition onwards [@mason1881] the phrase *the principles of* is dropped from the title. Throughout his life, Mason also prepared various shorter version of his grammar and various books with supplementary exercises, all of which do not seem to contain any new or different ideas from his grammar. Early in his career Mason also published a few books with linguistic analyses of literary works. Mason [-@mason1859] is an analysis of a poem by William Cowper (1731-1800), namely the first book of *The Task* (1785) called *The Sofa*. As part of the literary analysis, Mason performs a detailed syntactic analysis of two stanzas from the poem, exemplifying his analytic approach [@mason1859: 47-50]. A similar book deals with John Milton's (1608-1674) *Paradise Lost* (1667), also including a syntactic analysis of a few excerpts [@mason1861: xi-xvi].
 
@@ -261,7 +267,7 @@ Mason [@mason1871: 150-152] also adds the option to analyse sentences in tables,
 Large fold-out sheet from Mason [-@mason1871: after page 200], shown here from the scan of Mason [-@mason1881: after page 268]. This approach to use tables for the analysis of sentences is reminiscent of Morell's approach, cf. [@fig:morell1884_52].
 :::
 
-Mason substantially revises his grammar again with the 25th edtion [@mason1881]. The section on sentence analysis is much expanded and the use of underlining is much more prominently used compared to earlier versions [@mason1881: 183-206]. Also, the hierarchical bracketing and the dash-notation in the analysis of sentences with multiple subordination is completely removed.
+Mason substantially revises his grammar again with the 25th edtion [@mason1881]. The section on sentence analysis is much expanded and the use of underlining is much more prominently used compared to earlier versions [@mason1881: 183-206]. However, the hierarchical bracketing and the dash-notation in the analysis of sentences with multiple subordination is completely removed.
 
 ### Meiklejohn (1862) *An easy English grammar for beginners* {#sec:meiklejohn1862}
 
@@ -349,8 +355,7 @@ My worthy friend, Sir Roger, when we are talking of the malice of parties, very 
 *Mapping out* of the sentence [@last] from Meiklejohn [-@meiklejohn1882: 168]. This is a further development of his rudimentary proposals from a few years earlier, as shown in [@fig:meiklejohn1879_20]. Single lines are used for adverbial clauses, lines with a strikethrough are for relative clauses, but there is no discussion of complement clauses. Dotted lines are now used for prepositional phrases. All connecting words are placed alongside the lines.
 :::
 
-For the next few years Meiklejohn keeps turning out grammatical textbooks with slightly different content, but many returning ideas. *The English language* [@meiklejohn1886] is much broader in scope than the grammar, but is still includes a lengthy section on the analysis of sentences [@meiklejohn1886: 86-99]. The Morell-style table is now introduced as "sentences may also be pigeon-holed, or placed in marked-off spaces or columns" [@meiklejohn1886: 98] and the continuous analysis "may […] be applied to longer passages, and
-especially to passages taken from the poets" [@meiklejohn1886: 99]. He revisits the method of "mapping out" [@meiklejohn1886: 92, 97-98], returning to double lines for relative clauses. He more clearly explains that he considers this to be a first step of the analysis, typical to be performed by the teacher:
+For the next few years Meiklejohn keeps turning out grammatical textbooks with slightly different content, but many returning ideas. *The English language* [@meiklejohn1886] is much broader in scope than the grammar, but is still includes a lengthy section on the analysis of sentences [@meiklejohn1886: 86-99]. The Morell-style table is now introduced as "sentences may also be pigeon-holed, or placed in marked-off spaces or columns" [@meiklejohn1886: 98] and the continuous analysis "may […] be applied to longer passages, and especially to passages taken from the poets" [@meiklejohn1886: 99]. He revisits the method of "mapping out" [@meiklejohn1886: 92, 97-98], returning to double lines for relative clauses. He more clearly explains that he considers this to be a first step of the analysis, typical to be performed by the teacher:
 
 > It is of the greatest importance to get the **eye** to help the mind, and to present to the **sight** if possible–either on paper or on the black-board–the sentence we have to consider. This is called **mapping-out**. […] Such a mapping-out enables us easily to see, with the bodily as well as with the mind's eye, what is the main purpose of all analysis—to find out which words go with which, and what is the real build of the sentence. Hence, unless we see at a glance the build of the sentence we are going to analyse, we ought, before doing so, to set to work and map it out.  [@meiklejohn1886: 92-93, emphasis in original]
 
@@ -360,7 +365,7 @@ The *New grammar of the English language* [@meiklejohn1887] is a reprint of firs
 - The second scheme is a table with the six basic syntactic functions from Bain, cf. [@fig:bain1863_166]
 - The third scheme is a continuous analysis for not too complex sentences
 - The fourth scheme is a complex continous analysis for sentences with many subordinate clauses
-- The fifth scheme is the most exhaustive combination of all approaches, shown in [@fig:meiklejohn1887_213] for a sentence from Tobias Smollett in [@next]. About this scheme he notes: "This is the scheme prescribed by the Department for the scholarship examination" [@meiklejohn1887: 218].
+- The fifth scheme is the most exhaustive combination of all approaches, shown in [@fig:meiklejohn1887_213] for a sentence from Tobias Smollett in [@next]. About this scheme he notes: "This is the scheme prescribed by the Department for the scholarship examination" [@meiklejohn1887: 218]. Around this time Meiklejohn starts working alongside Mason (see [@sec:mason1858]) as an examiner for the College of Preceptors [@preceptors1889].
 
 ::: ex
 Meiklejohn [-@meiklejohn1887: 213], quoting Tobias Smollett *The adventures of Peregrine Pickle* (1751)
@@ -471,6 +476,8 @@ Bain revised his grammar as *Higher English Grammar* [@bain1872b], which is basi
 ### Bidlake (1863) *A new English grammar*
 
 John Purdue Bidlake (1817-1906) wrote various textbooks about chemistry, geography and English grammar. He signs his books with "F.C.P.", indicating that he was a fellow of the college of preceptors. I have not been able to find any further details about his biography, except that he appears to be the father of racing cyclist Fredrick Thomas Bidlake.
+
+listed as examiner for Geography https://books.google.de/books?id=XcEIAAAAQAAJ&printsec=frontcover&hl=de#v=onepage&q=specimen&f=false
 
 Morell-style analysis [@bidlake1863] p.158-172 (172 most interesting)
 
