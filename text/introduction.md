@@ -31,6 +31,10 @@ Yet, also from the very start the graphical methods were also used to clarify li
 
 ## Previous research
 
+Often discounted in modern syntactic theory?
+
+> The monumental building of historical-comparative linguistics elaborated during the 19th century was mainly based on the phonological and morphological comparison of Indo-European languages; and the major issues of structural linguistics, in the first half of the 20th century, concerned phonological and morphological matters. Things changed radically in the second half of this same century, when syntax, in whatever theoretical framework, became the really "fashionable" field. [… This book] aims rather to correct a false image of the history of syntactic studies which derives from the situation outlined above: namely, that very few or no syntactic studies were elaborated before the 1950s. Actually, as will be seen throughout the entire book, syntactic matters were carefully investigated both during the 19th century and in the first half of the 20th century. [@graffi2001: xi]
+
 Previous studies into the history of graphical grammar: [@gelbe1880; @arens1902; @grosse1966; @brittain1973; @percival1976; @baum1976: 36-42; @coseriu1980; @forsgren1992; @thummel1993; @seuren1998: 219-227; @franzkowiak2013; @seuren2015] 
 
 [@hiersche1979] based on Happ (1976)
@@ -118,16 +122,19 @@ Paris, Hartford, New York
 
 ## Frankfurtische Gelehrtenverein für deutsche Sprache
 
-Periodenbild, Satzbild => Dependency
+In 1817 Johann Georg Breidenstein (1769-1847), pastor in Bad Homburg, writes a letter to Georg Friedrich Grotefend (1775-1853), vice-chancellor of the *Städtische Gymnasium* in Frankfurt am Main: 
 
-Roth, Breidenstein, Herling, Becker, Schmitthenner, Grotefend => Diesterweg (1830)
+> … mit der Aufforderung, einen Verein von Gelehrten hiesiger Gegend zu stiften, der es sich angelegen seyn ließe, zur Veredlung und Verherrlichung unserer Muttersprache sein Möglichstes beizutragen. [@grotefend1818: 7]
+>
+> ('… with the request to found an association of scholars from the local area, dedicated to contributing to the refinement and glorification of our mother tongue.')
 
-Breidenstein, Johann Georg (1770-1847) [@breidenstein1817: 67-75] cited by Grotefend as instigator (in first volume)
+Grotefend took the initiative and founded the *Frankfurtische Gelehrtenverein für deutsche Sprache*, in part because he regarded it as a fitting commemoration of the 300th anniversary of Luther's infamous theses. In his view, Luther had been one of the principal driving forces behind the establishment of the German language. Grotefend gathered a circle of interested friends and colleagues and asks Julius Bernhard Engelmann (1773-1844) to host the inaugural meeting at his home in January 1818. Over the following years, the society will publish four volumes of proceedings, the last appearing in  1824.^[Digital version of these proceedings are available online at <https://mdz-nbn-resolving.de/bsb10583285>, <https://mdz-nbn-resolving.de/bsb10583286>, <https://mdz-nbn-resolving.de/bsb10583287>, and <https://mdz-nbn-resolving.de/bsb10583288>.] The society then seems to have gradually faded away, although a number of its members continued to identify themselves as members throughout the 1820s. For example, Becker [-@becker1827] describes himself on the title page of his grammar as *Mitglied des Franfurter* [sic!] *Gelehrtenvereins für deutsche Sprache*.
 
-1. https://mdz-nbn-resolving.de/details:bsb10583285
-2. https://mdz-nbn-resolving.de/details:bsb10583286
-3. https://mdz-nbn-resolving.de/details:bsb10583287
-4. https://mdz-nbn-resolving.de/details:bsb10583288
+During its brief existence, the society became a meeting place for several early proponents of new approaches to syntactical analysis. Among those present at the inaugural meeting was Simon Heinrich Adolf Herling (1780-1849), Grotefend's colleague at the *Städtische Gymnasium*. When Grotefend left Frankfurt for Hannover in 1821, Herling succeeded him as chairman of the society. Unfortunately absent from the first meeting was their recently deceased colleague Georg Michael Roth (1769-1817), who is mentioned repeatedly in the published proceedings. Grotefend, Roth and Herling had already been close colleagues for many years. In 1812 they had all been appointed to the newly established *Lyceum Carolinum* in Frankfurt, which was dissolved after only two years, following political changes in 1814.
+
+In 1821 the brothers Jakob and Wilhelm Grimm of Kassel were admitted as new members. Karl Ferdinand Becker (1775-1849), then a teacher in Offenbach, and Friedrich Jakob Schmitthenner (1796-1850), at that time a teacher in Dillenburg, joined the society in 1824. August Grotefend (1798-1836), the founder's nephew, later recounted that he became a member in 1827. During this period Herling and Becker developed a particularly close friendship, and even planned to write a grammar together. They eventually decide to pursue seperate projects instead. Each published a two-volume grammar, with one volume in each case dedicated to the other [@becker1827;@becker1829;@herling1830;@herling1832].
+
+The work of Herling and Becker proved enormously influential. In Germany, their ideas were further developed by Diesterweg (1830) and Lehmann (1833), initiating an important line of development that ultimately underlies almost all other approaches to graphical syntax. The only major alternative tradition is the 19th century American school of sentence diagramming. Through Morell (1852) and Mason (1858), Becker's ideas also entered the English grammatical tradition. Unlike the German and the American tradition, however, this line of development largely came to an end in the 20th century.
 
 ## Grammar for a new world
 
@@ -139,6 +146,8 @@ Brown, Peirce, Barrett => Clark (1847)
 
 Constituency
 
-Boole, Frege => Wundt (1880)
+Boole/Frege? => Wundt (1880) => Bloomfield (1933)/Jespersen (1937) => Pike (1943)/Harris(1946)
 
-??? => Drach (1937)
+??? => Adjukiewicz (1935) => Bar Hilel
+??? => Drach (1937) => Glinz
+??? => Mikuš (1947)

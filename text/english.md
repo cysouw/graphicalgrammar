@@ -119,13 +119,17 @@ earliest experience as a deaf-mute teacher [@storrs1880: 117]
 
 ## Syntax in Great Brittain
 
-Grammars in 18th Century: [@tieken2008] GB-Grammars in 19th Century: [@busse2019;@busse2021] https://web.archive.org/web/20250420085129/https://heidelgram.de/
+- General overview: Michael in [@leitner1991]
+- Grammars in 18th Century: [@tieken2008] does not give much of interest for the current book
+- GB-Grammars in 19th Century: [@busse2019;@busse2021] 
 
-Influence of the newly developed independent examination boards, in 1850 starting with the College of Preceptors, 1855 the Society of Arts, in 1858 in Oxford and Cambridge. https://www.cambridgeassessment.org.uk/Images/499630-independent-examination-boards-and-the-start-of-a-national-system.pdf
+Influence of the newly developed independent examination boards, in 1850 starting with the College of Preceptors, 1855 the Society of Arts, in 1858 in Oxford and Cambridge. [@watts2008]
 
-society of arts does not include English grammar in their assesment of 1863: https://archive.org/details/jstor-41335395/page/n19/mode/2up?q=sentence
+society of arts does not include English grammar in their assesment of 1863 [@society1863]
 
-example from college of preceptors [@preceptors1882]
+example from college of preceptors [@preceptors1882;@preceptors1889]
+
+examples from Oxford, Cambridge and COF [@bidlake1884], answers by Bidlake: [@bidlake1887]
 
 ### Doherty (1841) *An introduction to English grammar*
 
@@ -557,7 +561,7 @@ table [@cooper1891: 9]
 indentation [@cooper1891: 25]
 
 Later more complex examples in [@sonnenschein1923], originally from 1916, specifically p.40ff
-Some information on Sonnenschein and his new english grammar: https://doi.org/10.1515/9783111633824.15
+Some information on Sonnenschein and his new english grammar [@walmsley1992], walso walmsley in [@leitner1991]
 
 ### Davidson & Alcock (1889) *English grammar and analysis*
 
@@ -1163,7 +1167,7 @@ practical grammar [@harvey1868] no graphics. revised practical grammar [@harvey1
 
 ??? not found: Harvey (1900) *A new English grammar for schools* [@brittain1973: 178]. Note that there is a 1900 revision of the elementary grammar by Louise Connolly https://lccn.loc.gov/00002828
 
-original elementary grammar (1869) https://lccn.loc.gov/11006142
+original elementary grammar (1869) https://lccn.loc.gov/11006142, but no graphical grammar
 
 ### Lyte (1879) *Forms of parsing and analysis*
 
@@ -1647,9 +1651,13 @@ Use of vertical bars for separation appears old, e.g. Alexander Crombie https://
 
 [@pike1943: 70], citing bloomfield
 
+### Bloch (1946) *Studies in colloquial Japanese*
+
+citing Bloomfield https://www.jstor.org/stable/410208 p238ff. System with six different syntactic functions
+
 ### Harris (1946) *From morpheme to utterance* {#sec:harris1946}
 
-This system was already introduced in [@harris1946]!
+This system was already introduced in [@harris1946]! Cites Jespersen 1937 on p. 177, also Bloomfield, Pike, Bloch
 
 Also in *Methods in structuralist linguistics* (1951), this book is later called *Structural Linguistics* [@harris1963]
 
