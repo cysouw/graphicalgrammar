@@ -513,6 +513,14 @@ tables p.85, complex sentence like morell p.88, 91-92
 
 https://archive.org/details/eclecticgrammarp00macauoft/page/84/mode/2up
 
+### Jevons (1870) *Elementary lessons in logic*
+
+William Stanley Jevons (1835-1882) https://en.wikipedia.org/wiki/William_Stanley_Jevons
+
+logical analysis of sentencen [@jevons1870] p. 88-97, cites Dalgleish, Morell, Bain
+
+The work of Jevons is cited by Stöhr!
+
 ### Clark (1871) *Comprehensive English grammar*
 
 https://www.google.de/books/edition/The_comprehensive_English_grammar/UcQDAAAAQAAJ?hl=de&gbpv=1&dq=inauthor:%22David+Clark%22+grammar&printsec=frontcover

@@ -1848,8 +1848,7 @@ Charlotte (Lotte) Müller (1893-1972) was a teacher and pedagogue at the univers
 Her first published work is a little booklet from 1921 *Vom Deutschunterricht in der Arbeitsschule* [@muller1922, cited here from the second edition]. The book is expanded in later editions, up to a seventh edition in 1961 with a revised title *Der Deutschunterricht. Selbsttun – Erleben – Lernen*. In this book she describes in detail how a teacher could approach the analysis of a sentence like [@next] and might end up with a graphical analysis as shown in [@fig:müller1922_49]. Rather curiously, this graphic seems to consists of two different parts, placed on top of each other. The two parts are headed by the subject noun *Die Klasse* 'the class' and predicate *spielte* 'played', respectively. However, from Müller's description it becomes clear that these two parts are supposed to be placed side-by-side and it is probably simply due to the lack of space on the printed page that they are place on top of each other. Placing them side-by-side puts this line-based graphical display in the tradition of Utzinger (see [@sec:utzinger1887]) and Mensing (see [@sec:mensing1903]).
 
 ::: ex
-Unter den schattigen Bäumen auf der Debrahofwiese spielte gestern die
-wilde Klasse des Herrn R. ganz toll ein lustiges Spiel, Sackhüpfen.
+Unter den schattigen Bäumen auf der Debrahofwiese spielte gestern die wilde Klasse des Herrn R. ganz toll ein lustiges Spiel, Sackhüpfen.
 :::
 
 ::: {.im #müller1922_49}
@@ -2002,6 +2001,10 @@ Georg Dinkel (dates unknown) from Nürnberg wrote a small article in the *Bayeri
 :::
 
 ### Stöhr (1898) *Algebra der Grammatik* {#sec:stöhr1898}
+
+- Also note very simple diagrams in [@stohr1889: 199, 201]
+- cites jevons, who did some grammatical analysis in (1870). Stöhr might not have seen those examples specifically
+- discussion in short article [@luschutzky2017]
 
 Adolf Stöhr (1855–1921) was professor for philosophy in Vienna [biographical details in @angetter2009]. He wrote a rather curious book called *Algebra der Grammatik* [@stohr1898], which was assessed as "rather fantastic" by Jespersen [-@jespersen1937: 83]. Although idiosyncratic, Stöhr's book is not as crazy as Jespersen makes it sound. Stöhr assigns codes to linguistic elements, which are subsequently combined into larger expressions. However, his primary goal does not appear to be any detailed description of linguistics structures, but rather an attempt to try and "calculate" with these larger expressions, somewhat akin to what today would be called deriving semantic inferences. Stöhr cites the logical work of George Boole as an inspiration for his approach.
 
