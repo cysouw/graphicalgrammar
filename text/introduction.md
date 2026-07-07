@@ -148,9 +148,13 @@ Brown, Peirce, Barrett => Clark (1847)
 
 Constituency
 
-Influence from Logical tradition of Boole/Frege?
+Influence from Logical tradition of Boole/Frege/Mill/Peirce/Jevons etc.
 
+Individual examples of hierarchical bracketing by Lehmann (1833:79) and Götzinger [@gotzinger1839: 383]
+
+- Zikmund (1863), bracketing in 1866, more attempts in Czech tradition
 - Götzinger (1880) => Dinkel (1895)
+- Lugebil (1883)
 - Wundt (1880, 1900) => Sheffield(1912)/Bloomfield(1933)/Hansen(1933)/Jespersen(1937) => Pike (1943)/Harris(1946) => Chomsky
 - Jevons (1870) => Stöhr (1898) => Jespersen (1937)
 - Adjukiewicz (1935) => Bar Hilel => Chomsky
