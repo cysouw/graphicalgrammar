@@ -150,8 +150,8 @@ Constituency
 
 Influence from Logical tradition of Boole/Frege?
 
-- Wundt (1880, 1900) => Sheffield(1912)/Bloomfield(1933)/Hansen(1933)/Jespersen(1937) => Pike (1943)/Harris(1946) => Chomsky
 - Götzinger (1880) => Dinkel (1895)
+- Wundt (1880, 1900) => Sheffield(1912)/Bloomfield(1933)/Hansen(1933)/Jespersen(1937) => Pike (1943)/Harris(1946) => Chomsky
 - Jevons (1870) => Stöhr (1898) => Jespersen (1937)
 - Adjukiewicz (1935) => Bar Hilel => Chomsky
 - Drach (1937) => Glinz

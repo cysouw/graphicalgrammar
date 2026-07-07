@@ -1980,6 +1980,8 @@ Oskar Erdmann (1886) Grundzüge der deutschen Syntax, numbers above words 183, 1
 
 ### Götzinger (1880) *Deutsche Grammatik in genetischer Darstelllung* {#sec:götzinger1880}
 
+his father used hierarchical brackets at some points, e.g. [@gotzinger1839: 383]
+
 Ernst Götzinger (1837-1896), son of Maximilian Götzinger (see [@sec:götzinger1836]), was a teacher in St. Gallen (Switzerland). He wrote extensively about local history, German literature and he reissued his father's books after his death [more biographical details in @dierauer1897]. He also wrote a grammar, called *Deutsche Grammatik in genetischer Darstelllung* [@gotzinger1880]. Concerning graphical display, Götzinger [-@gotzinger1880: 151] criticised the *Periodenbilder* of Lehmann (see [@sec:lehmann1833]) and proposes an alternative. Intriguingly, he does not mention his father's graphical approach, which is highly similar to the proposals by Lehmann.
 
 Götzinger proposes a very simple model for sentence analysis, consisting only of a plus symbol and hierarchically ordered brackets [@gotzinger1880: 155-156]. He uses the term *algebraische Gleichungen* 'algebraic formulae' for his approach. Although the method is described very clearly in words, as quoted below, Götzinger does not give any examples of how his grammatical algebra works in practice for more complex sentences. A few concrete examples of Götzinger's approach are given much later by Dinkel (see [@sec:dinkel1895]).
