@@ -150,12 +150,17 @@ Constituency
 
 Influence from Logical tradition of Boole/Frege/Mill/Peirce/Jevons etc.
 
-Individual examples of hierarchical bracketing by Lehmann (1833:79) and Götzinger [@gotzinger1839: 383]
+- mostly usage of hierarchical brackets
+- tree metaphor: Wundt (1880) => Sheffield (1912) => Jespersen (1921) => Hansen (1933), Mikuš (1947), somewhat similar with braces: Gebauer (1890), 
+- multiple dashes: Bloomfield (1933) => boxes of Pike is probably based on this
+- hierarchical boxes: Zikmund (1863), Hansen (1933), Pike (1943), Mikuš (1947), Gipper (1950)
+- planetary metaphor: Hansen (1933) => Rehling (1951)
+- Rewrite rules: Harris (1946) => Chomsky, Mikuš (1952)
 
-- Zikmund (1863), bracketing in 1866, more attempts in Czech tradition
+In periodenbilder: Individual examples of hierarchical bracketing by Lehmann (1833:79) and Götzinger [@gotzinger1839: 383] and many examples later
+
 - Götzinger (1880) => Dinkel (1895)
 - Lugebil (1883)
-- Wundt (1880, 1900) => Sheffield(1912)/Bloomfield(1933)/Hansen(1933)/Jespersen(1937) => Pike (1943)/Harris(1946) => Chomsky
 - Jevons (1870) => Stöhr (1898) => Jespersen (1937)
 - Adjukiewicz (1935) => Bar Hilel => Chomsky
 - Drach (1937) => Glinz
