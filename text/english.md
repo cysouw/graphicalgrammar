@@ -515,11 +515,28 @@ https://archive.org/details/eclecticgrammarp00macauoft/page/84/mode/2up
 
 ### Jevons (1870) *Elementary lessons in logic*
 
-William Stanley Jevons (1835-1882) https://en.wikipedia.org/wiki/William_Stanley_Jevons
+William Stanley Jevons (1835-1882) was an economist and logician. In 1866 he became professor at Owens College in Manchester.^[A summary of his life and work is available at https://en.wikipedia.org/wiki/William_Stanley_Jevons, accessed 9 July 2026.] In his many publications, he touches on grammatical analysis only in his introductory textbook *Elementary lessons in logic* [@jevons1870: 88-97]. In chapter 11 "Logical analysis of sentences" he proposes his rather idiosyncretic interpretation of the "several excellent little works devoted to the subject" (citing Dalgleish, Morell and Bain). He explains his approach at diagramming as follows:
 
-logical analysis of sentencen [@jevons1870] p. 88-97, cites Dalgleish, Morell, Bain
+> Various modes of exhibiting the construction of sentences by symbols and names for the several parts have
+been invented; but I believe that by far the simplest and most efficient mode is to exhibit the construction in the form of a diagram. Any two or more parts of a sentence which are co-ordinate with each other, or bear the same relation to any other part, are written alongside each other, and coupled together by a bracket; […] Whenever one part of a sentence is subordinate to another part it may be connected with it by a line drawn in any convenient direction. [@jevons1870: 93-94]
 
-The work of Jevons is cited by Stöhr!
+Jevons gives various examples of his approach to diagramming the structure of a sentence, illustrated here in [@fig:jevons1870_95] for a sentence from a poem of Thomas Burbidge in [@next]. It remains unclear for what purpose Jevons intended this approach to be used. As a logical analysis of the structure of a sentence it remains rather opaque and unconstrained. However, as a practical discovery procedure to analyse a complex literary construction it might have merit.
+
+::: ex
+… He who metes, as we should mete, \
+Could we His insight use, shall most approve, \
+Not that which fills most space in earthly eyes, \
+But what – though Time scarce note it as he flies – \
+Fills, like this little daisy at my feet, \
+Its function best of diligence in love. \
+[@jevons1870: 94, quoting Thomas Burbidge *The Daisy*]
+:::
+
+::: {.im #jevons1870_95}
+*Diagram* for [@last] from Jevons [-@jevons1870: 95]. Brackets are used for coordination, while all kinds of modification (Jevons says "subordination") are marked by lines "in any convenient direction". The result is that it is not immediately clear where to start reading this diagram. The start of the analysis is at "He shall most approve". The choice of modifiers to be linked by lines is quite haphazard: they are mostly clausal subordinations, but also some attributive phrases e.g. "like this little daisy at my feet".
+:::
+
+The work of Jevons is cited by Stöhr (see [@sec:stöhr1898]), but Stöhr cites him as a logician in the tradition of Boole. There does not seem to have been any influence with respect to this grammatical analysis of Jevons on Stöhr.
 
 ### Clark (1871) *Comprehensive English grammar*
 
@@ -1640,9 +1657,9 @@ Hypothesis that Wundt influenced Bloomfield: [@percival1976: 234-235 gives vario
 
 Historical survey of Bloomfield and post-Bloomfieldians: [@matthews1993]
 
-Use of vertical bars for separation appears old, e.g. Alexander Crombie https://en.wikipedia.org/wiki/Alexander_Crombie
+Use of vertical bars for separation appears old, e.g. Alexander Crombie https://en.wikipedia.org/wiki/Alexander_Crombie, originally 1802, cited here from the second edition [@crombie1809: 234]:
 
-> Complex sentences are divided into members; and these, ifcomplex, are subdivided into clauses, as, "The ox knoweth his owner | and the ass his master's crib || but Israel doth not know | my people doth not consider." This complex sentence has two members, each of which contains two clauses.
+> Complex sentences are divided into members; and these, if complex, are subdivided into clauses, as, "The ox knoweth his owner | and the ass his master's crib || but Israel doth not know | my people doth not consider." This complex sentence has two members, each of which contains two clauses.
 
 - first edition 1802
 - second edition 1809/1810
@@ -1657,7 +1674,7 @@ Use of vertical bars for separation appears old, e.g. Alexander Crombie https://
 
 ### Pike (1943) *Taxemes and immediate constituents* {#sec:pike1943}
 
-[@pike1943: 70], citing bloomfield
+[@pike1943: 70], citing bloomfield: boxes seem explication of Bloomfield's vertical bars
 
 ### Bloch (1946) *Studies in colloquial Japanese*
 

@@ -30,24 +30,6 @@ The term *bekleidet* leads to a lot of discussion, because of the sexual connota
 
 > Seit lange (ich weiß nicht, seit wann) wird in der deutschen Grammatik gelehrt, daß ein nackter Satz wie *die Sonne scheint* die ursprünglichste Satzform darstelle und daß die Erweiterungen in einem bekleideten Satze wie z.B. *die helle Sonne bescheint die erfrischten Fluren* ihrerseits aus nackten Sätzen hervorgegangen sind. [@delbruck1901: 150]
 
-### *Periode*
-
-The term *Periode* as a grammatical term for the complex sentence is widespread in German 18th and 19th Century grammatical texts. It is used already by Meiner [-@meiner1781: 446] and Heyse [-@heyse1814: 491] and appears in many works to be discussed in this chapter. The precise definition is constantly being disputed, but most authors use the term *Periode* for a complex sentence with many subordinated clauses.
-
-This term that goes straight back to antiquity. Aristotle used the term *περίοδος* 'periodos' to describe something akin to a complete sentence, consisting of multiple clauses (with *κῶλον* 'kolon' being used for something akin to a clause). Burkett explains that "the term *periodos* is one of Aristotle‘s visual metaphors, suggesting a circular motion or completeness of thought and rhythm." [@burkett2011: 206].
-
-> λέγω δὲ περίοδον λέξιν ἔχουσαν ἀρχὴν καὶ τελευτὴν αὐτὴν καθ᾽ αὑτὴν καὶ μέγεθος εὐσύνοπτον (Aristoteles, Rhetorica III 9.3)^[Original online at the Perseus Digital Library < http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg038.perseus-grc1:3.9.3>.]
-> 
-> ['I call a period an expression having a beginning and an end in itself and a magnitude easily taken in at a glance.' translation from @burkett2011: 206]
-
-The desire to summarise the structure of a complex *Periode* is a crucial starting point for the graphical analysis of sentences in 19th Century Germany, starting with Herling [-@herling1823, see [@sec:herling1823]]. The main tool that is used is a so-called *Periodenbild* 'image of a Period'. The basic idea is to assign some symbols to each clause, and then combine these symbols into a visualisation to illustrate the interrelation between the many clauses that make up a *Periode*. The term *Periodenbild* for the analysis of a multi-clause sentence was first used by August Lehmann [-@lehmann1833, see [@sec:lehmann1833]]. His proposal includes a distinction between capital letters for main clauses and lower-case letters for subordinate clauses, a principle that remains a fixture throughout all variants of these *Periodenbilder*. In contrast, almost all other details differ widely from author to author.
-
-Friedrich Diesterweg [-@diesterweg1834, see [@sec:diesterweg1830]] adopted Lehmann's terminology and added the term *Satzbild* for the structure of a monoclausal sentence. The two terms *Periodenbild* and *Satzbild* return throughout the 19th Century, but they are used quite interchangeably. Even though many authors distinguish between two different graphical analyses, one for single-clause sentences and one for multi-clause sentences, Diesterweg's terminological distinction did not persist. Linguistic *Bilder* remain virulent for about 90 years, but then gradually fade away from linguistic memory at the start of the 20th Century.
-
-### Topik & Topologie
-
-Roth (wetzler, Frankfurt), also posthumously published in vol 2 of the Abhandlungen des Frankfurtischen Gelehrtenvereins für deutsche Sprache
-
 ## *Periodenbild* and *Satzbild*
 
 ### Moritz (1782) *Deutsche Sprachlehre* {#sec:moritz1782}
@@ -106,10 +88,6 @@ Constituency tree of the example in [@last] following the analysis from Moritz [
 Summarising, Moritz appears to have a clear understanding of, first, phrases as the basis of syntactic analysis. Second, he assigns a syntactic function to each phrase. Third, his examples indicate a basic, through rather implicit, understanding of adjuncts as less crucial phrases (*Hinanfügung*) that are visually displayed below the main constituents. Fourth, subordinate clauses have their own clausal structure, while the subordinate as a whole is assigned a function in the superordinate clause, which is a clear precursor of constituency structure. Finally, in the text he explicitly mentions that the ordering of the elements in the actual sentence is slightly different from the ordering in his analyses, and he hints at rules that determine how the abstract "underlying" structure has to be reordered into the actual form.
 
 All these theoretical concepts are quite charmingly summarised by his graphical display, which can be interpreted as a kind of precursor of a constituency structure. Apparently appearing completely out of the blue, the idea of using graphics to elucidate grammatical structure is off to a great start with these proposals from Moritz' *Deutsche Sprachlehre*. Unfortunately, his approach does not have had any following and it would take almost 50 years for graphical methods to be used again for grammatical analysis, namely by Diesterweg in 1830 (see [@sec:diesterweg1830]).
-
-### Roth (1799) *Systematische deutsche Sprachlehre*
-
-Georg Michael Roth (1769-1817) was a teacher at the *Städtische Gymnasium* in Frankfurt am Main, alongside Herling. In 1799, he signs his book as still being a "teacher in Wetzlar" [@roth1799]
 
 ### Herling (1823) *Periodenbau der deutschen Sprache* {#sec:herling1823}
 
@@ -304,7 +282,7 @@ word "Topik" already in use with Roth [@roth1799: 271 ff.], who influenced Herli
 "grammatischen Topik" appears common use of language for "word order", e.g. an example from 1902 https://google.com/books?id=CDY8AQAAMAAJ
 
 Becker [-@becker1829: 376] calls this the *Konstruktion oder Topik des Satzes* 'construction or topic of the sentence* and he also uses the expression
-*topische Stellung* 'topical position'.^[This usage of the word *Topik* should not be confused with the modern linguistik usage of this term with the meaning "theme". Becker seems to have come up with this term based on the Greek meaning of *τόπος* 'place', i.e. placement of the words in a sentence. In German pronunciation, it would probably have been pronounced with a long/tense "o" instead of the short/lax "o" with which the modern term "Topik" is pronounced in German linguistics.] In the English translation, Becker [-@becker1830: 250ff.] only uses the term "construction" instead of "topic". Then, in the *Schulgrammatik* [@becker1831: 201], he uses the terms *Konstruktion oder die Wortfolge des Satzes* 'construction or word order of the sentence'. And finally, in the the *Leitfaden* [@becker1833: 66ff.], he simply calls it *Wortfolge* 'word order'.
+*topische Stellung* 'topical position'. In the English translation, Becker [-@becker1830: 250ff.] only uses the term "construction" instead of "topic". Then, in the *Schulgrammatik* [@becker1831: 201], he uses the terms *Konstruktion oder die Wortfolge des Satzes* 'construction or word order of the sentence'. And finally, in the the *Leitfaden* [@becker1833: 66ff.], he simply calls it *Wortfolge* 'word order'.
 
 Kopula vs. Prädikativ [@becker1829: 378]
 copula vs. predicate [@becker1830: 252]
@@ -587,7 +565,7 @@ Friedrich Julius Horn (1809-1841) was a teacher in Rastenburg (today Kętrzyn in
 *Periodenbild* in the style of Lehmann (cf. [@fig:lehmann1833_126]) for the example in [@last] from Horn [-@horn1837: 313].
 :::
 
-### Beilhack (1838) *Deutsche Grammatik*
+### Beilhack (1838) *Deutsche Grammatik* {#sec:beilhack1838}
 
 Johann Georg Beilhack (1802-1864) was a teacher and school principal in Munich.^[A succinct biographical sketch is available online at <https://de.wikipedia.org/wiki/Johann_Georg_Beilhack>, accessed 9 May 2025.]
 
@@ -610,7 +588,7 @@ In the first edition Beilhack [-@beilhack1832: 184-185] uses horizontal braces t
 :::
 
 ::: {.im #beilhack1832_196}
-Analysis of sentence [@last] with an ordering in accordance to the *natürliche Topik* 'natural topic' from Beilhack [-@beilhack1832: 184-185], cited here from the second edition because of the better image quality [@beilhack1832a: 196]. The different parts of the sentence are called *Factoren* by Beilhack. Note that the final verbal paricle *ab* is not marked as belonging to the verb.
+Analysis of sentence [@last] with an ordering in accordance to the *natürliche Topic* 'natural topic' from Beilhack [-@beilhack1832: 184-185], cited here from the second edition because of the better image quality [@beilhack1832a: 196]. The different parts of the sentence are called *Factoren* by Beilhack. Note that the final verbal paricle *ab* is not marked as belonging to the verb.
 :::
 
 The fourth edition [@beilhack1838] is completely reworked. Besides citing Becker, in the preface Beilhack now also notes the influence from Götzinger ([@sec:götzinger1836]), Herling ([@sec:herling1823]), Lehmann ([@sec:lehmann1833]) and Horn ([@sec:horn1837]).
@@ -2130,6 +2108,8 @@ https://nbn-resolving.org/urn:nbn:de:bsz:mh39-101601
 
 [@erben1958: 188] tree, citing Tesniere [@tesniere1953]. Aussagerahmen (p.172), Nachfeld inside! (~ Mittelfeld??) p. 173, vorfeld only for "determiner" position? p. 175
 
+He uses vorfeld/nachfeld both for nouns and verbs. The term *Mittelfeld* is introduced on p82 "einem satzschließenden 'Prädikatsteil’, der zusammen mit dem Verb ein 'Mittelfeld’ umspannt"
+
 in the 1964 edition he adds a quib about the underwhelming results of the american constituent analys:
 
 "Die von einigen amerikanischen Linguisten propagierte 'Konstituenten-analyse' kommt — in den bisherigen Ergebnissen — kaum über die herkömmliche Satzgliederung hinaus" [@erben1964: 266]
@@ -2153,23 +2133,23 @@ http://nbn-resolving.de/urn:nbn:de:bsz:mh39-5959
 
 https://ids-pub.bsz-bw.de/frontdoor/index/index/docId/1194
 
-### Reis (1980) *On Justifying Topological Frames*
+### Reis (1980) *On Justifying Topological Frames* {#sec:reis1980}
 
 https://www.persee.fr/doc/drlav_0754-9296_1980_num_22_1_957
 
 thanks Höhle in first footnote, and cites his manuscript from 1976 "Die Stellungsfelder des Verbalsatzes"
 
-mostly uses term "positional field", which seems direct translation of "Stellungsfeld" from Engel > Höhle.
+mostly uses term "positional field", which seems direct translation of "Stellungsfeld" from Erben > Engel > Höhle.
 
 sentence template p. 63-64
-
-word "topologie" already used by Walter Flämig in 1971: https://doi.org/10.1515/9783111350851-008, also chapter 4 in https://doi.org/10.1515/9783112642702 (1981)
-
-Word "topologie" already used by Bierwisch (1961: 259, 261, 267) 10.1524/stuf.1961.14.14.244 However, he uses the term without introduction, so it seems to have been common usage already before him.
 
 Word "Topologie" used by Bech, chapter called "Zur typologie der verbalfelder" [@bech1955: 60]
 
 word "Topik/topisch" has a long tradition [@roth1799;[@herling1821;@pollaschek1902;@diderichsen1943] *topiske* in Danish in [@diderichsen1941: 10-14].
+
+word "topologie" already used by Walter Flämig in 1971: https://doi.org/10.1515/9783111350851-008, also chapter 4 in https://doi.org/10.1515/9783112642702 (1981)
+
+Word "topologie" already used by Bierwisch (1961: 259, 261, 267) https://doi.org/10.1524/stuf.1961.14.14.244 However, he uses the term without introduction, so it seems to have been common usage already before him.
 
 Höhle first uses word in print in 1979 [@hohle1979: 387]
 

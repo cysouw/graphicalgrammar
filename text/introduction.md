@@ -110,31 +110,27 @@ There seem to be at least two reasons:
 - universal language/pasigraphy
 - early examples: Moritz, Senillosa, Kinker, Doherty
 
-## Tables, templates and topology
-
-British tradition, German Feldermodell
-
-Gaultier (1819), Becker (1830), Lonkay (1855)
-
 ## Teaching the Deaf from Paris to New York
 
 Paris, Hartford, New York 
 
 ## Frankfurtische Gelehrtenverein für deutsche Sprache
 
-In 1817 Johann Georg Breidenstein (1769-1847), pastor in Bad Homburg, writes a letter to Georg Friedrich Grotefend (1775-1853), vice-chancellor of the *Städtische Gymnasium* in Frankfurt am Main: 
+Contemporary syntactic analyses have many different predecessors, but an astonishingly large number of historical pathways to today's syntax lead back to a letter written in 1817 by Johann Georg Breidenstein (1769-1847), pastor in Bad Homburg, adressed to Georg Friedrich Grotefend (1775-1853), vice-chancellor of the *Städtische Gymnasium* in Frankfurt am Main: 
 
 > … mit der Aufforderung, einen Verein von Gelehrten hiesiger Gegend zu stiften, der es sich angelegen seyn ließe, zur Veredlung und Verherrlichung unserer Muttersprache sein Möglichstes beizutragen. [@grotefend1818: 7]
 >
 > ('… with the request to found an association of scholars from the local area, dedicated to contributing to the refinement and glorification of our mother tongue.')
 
-Grotefend took the initiative and founded the *Frankfurtische Gelehrtenverein für deutsche Sprache*, in part because he regarded it as a fitting commemoration of the 300th anniversary of Luther's infamous theses. In his view, Luther had been one of the principal driving forces behind the establishment of the German language. Grotefend gathered a circle of interested friends and colleagues and asks Julius Bernhard Engelmann (1773-1844) to host the inaugural meeting at his home in January 1818. Over the following years, the society will publish four volumes of proceedings, the last appearing in  1824.^[Digital version of these proceedings are available online at <https://mdz-nbn-resolving.de/bsb10583285>, <https://mdz-nbn-resolving.de/bsb10583286>, <https://mdz-nbn-resolving.de/bsb10583287>, and <https://mdz-nbn-resolving.de/bsb10583288>.] The society then seems to have gradually faded away, although a number of its members continued to identify themselves as members throughout the 1820s. For example, Becker [-@becker1827] describes himself on the title page of his grammar as *Mitglied des Franfurter* [sic!] *Gelehrtenvereins für deutsche Sprache*.
+Grotefend took the initiative and in 1817 founded the *Frankfurtische Gelehrtenverein für deutsche Sprache*, in part because he regarded it as a fitting commemoration of the 300th anniversary of Luther's infamous theses, which were, in Grotefend's view, one of the principal driving forces behind the establishment of the German standard language. It also should be noted that Frankfurt at that time did not have a university, so there was no dedicated space for scholarly discussion. Grotefend gathered a circle of interested friends and colleagues and asked Julius Bernhard Engelmann (1773-1844) to host the inaugural meeting at his home in January 1818. Over the following years, the society will publish four volumes of proceedings, the last appearing in 1824.^[Digital version of these proceedings are available online at <https://mdz-nbn-resolving.de/bsb10583285>, <https://mdz-nbn-resolving.de/bsb10583286>, <https://mdz-nbn-resolving.de/bsb10583287>, and <https://mdz-nbn-resolving.de/bsb10583288>.] The society then seems to have gradually faded away, although a number of its members continued to identify themselves as members for some time. For example, Becker [-@becker1833] describes himself on the title page of his *Leitfaden* still as *Mitglied des Franfurter* [sic!] *Gelehrtenvereins für deutsche Sprache*.
 
 During its brief existence, the society became a meeting place for several early proponents of new approaches to syntactical analysis. Among those present at the inaugural meeting was Simon Heinrich Adolf Herling (1780-1849), Grotefend's colleague at the *Städtische Gymnasium*. When Grotefend left Frankfurt for Hannover in 1821, Herling succeeded him as chairman of the society. Unfortunately absent from the first meeting was their recently deceased colleague Georg Michael Roth (1769-1817), who is mentioned repeatedly in the published proceedings. Grotefend, Roth and Herling had already been close colleagues for many years. In 1812 they had all been appointed to the newly established *Lyceum Carolinum* in Frankfurt, which was dissolved after only two years, following political changes in 1814.
 
-In 1821 the brothers Jakob and Wilhelm Grimm of Kassel were admitted as new members. Karl Ferdinand Becker (1775-1849), then a teacher in Offenbach, and Friedrich Jakob Schmitthenner (1796-1850), at that time a teacher in Dillenburg, joined the society in 1824. August Grotefend (1798-1836), the founder's nephew, later recounted that he became a member in 1827. During this period Herling and Becker developed a particularly close friendship, and even planned to write a grammar together. They eventually decide to pursue seperate projects instead. Each published a two-volume grammar, with one volume in each case dedicated to the other [@becker1827;@becker1829;@herling1830;@herling1832].
+In 1821 the brothers Jakob and Wilhelm Grimm from Kassel were admitted as new members. Karl Ferdinand Becker (1775-1849), then a teacher in Offenbach, and Friedrich Jakob Schmitthenner (1796-1850), at that time a teacher in Dillenburg, joined the society in 1824. August Grotefend (1798-1836), the founder's nephew, later recounted that he became a member in 1827. During this period Herling and Becker developed a particularly close friendship, and even planned to write a grammar together. They eventually decide to pursue seperate projects instead. Each published a two-volume grammar, with one volume in each case dedicated to the other [@becker1827;@becker1829;@herling1830;@herling1832].
 
-The work of Herling and Becker proved enormously influential. In Germany, their ideas were further developed by Diesterweg (1830) and Lehmann (1833), initiating an important line of development that ultimately underlies almost all other approaches to graphical syntax. The only major alternative tradition is the 19th century American school of sentence diagramming. Through Morell (1852) and Mason (1858), Becker's ideas also entered the English grammatical tradition. Unlike the German and the American tradition, however, this line of development largely came to an end in the 20th century.
+Herling and Becker were both strongly interested in syntactic matters, trying to elucidate the structures of German sentences. This interest seems to have been inspired by the above-mentioned Georg Michael Roth, specifically his *Systematische deutsche Sprachlehre* [@roth1799]. Roth signs that book as being a "teacher in Wetzlar", so this work stems from a period before he became a teacher at the *Städtische Gymnasium* in Frankfurt. In this book Roth spends a long section on German syntax [@roth1799: 219-293]. Specifically, he appears to have introduced the terminology *Topik des Satzes* to refer to the word order of the sentence.^[This usage of the word *Topik* should not be confused with the modern linguistik usage of this term with the meaning "theme". Roth seems to have come up with this term based on the Greek meaning of *τόπος* 'place', i.e. placement of the words in a sentence. In German pronunciation, it would probably have been pronounced with a long/tense "o" instead of the short/lax "o" with which the modern term "Topik" is pronounced in German linguistics.] This terminology is taken over by Herling [-@herling1821] and Becker [-@becker1829: 376]. The transmission of this usage of the word *Topik* deserves an in-depth investigation, which I cannot deliver here. However, it probably is related to Bech's chapter title *Zur Topologie der Verbalfelder* [@bech1955: 60], which led to the contemporary German terminology of a *topologisches Feldermodell* (cf. [@sec:reis1980]).
+
+The works of Herling and Becker proved enormously influential. In Germany, their ideas were further developed by Diesterweg (1830) and Lehmann (1833), initiating an important line of development that ultimately underlies almost all other approaches to graphical syntax. The only major independently developed tradition is the 19th century American school of sentence diagramming. Becker's ideas also entered the English grammatical tradition through Morell (1852) and Mason (1858), but unlike the German and the American tradition this line of development largely came to an end in the 20th century.
 
 ## Grammar for a new world
 
@@ -142,7 +138,25 @@ Diagramming
 
 Brown, Peirce, Barrett => Clark (1847)
 
-## Clausal hierarchy
+## *Periodenbild*
+
+The term *Periode* as a grammatical term for the complex sentence is widespread in German 18th and 19th century grammatical texts. For example, it is used already by Meiner [-@meiner1781: 446] and Heyse [-@heyse1814: 491] and it appears in many works to be discussed in this book. The precise definition is constantly being disputed, but most authors use the term *Periode* for a complex sentence with many subordinated clauses.
+
+This term goes straight back to antiquity. Aristotle used the term *περίοδος* 'periodos' to describe something akin to a complete sentence, consisting of multiple clauses (with *κῶλον* 'kolon' being used for something akin to a clause). Burkett explains that "the term *periodos* is one of Aristotle‘s visual metaphors, suggesting a circular motion or completeness of thought and rhythm." [@burkett2011: 206].
+
+> λέγω δὲ περίοδον λέξιν ἔχουσαν ἀρχὴν καὶ τελευτὴν αὐτὴν καθ᾽ αὑτὴν καὶ μέγεθος εὐσύνοπτον (Aristoteles, Rhetorica III 9.3)^[Original online at the Perseus Digital Library < http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg038.perseus-grc1:3.9.3>.]
+> 
+> ['I call a period an expression having a beginning and an end in itself and a magnitude easily taken in at a glance.' translation from @burkett2011: 206]
+
+The desire to summarise the structure of a complex *Periode* is a crucial starting point for the graphical analysis of sentences in 19th Century Germany, starting with Herling [-@herling1823, see [@sec:herling1823]]. The main tool that is used is a so-called *Periodenbild* 'image of a Period'. The basic idea is to assign some symbols to each clause, and then combine these symbols into a visualisation to illustrate the interrelation between the many clauses that make up a *Periode*. The term *Periodenbild* for the analysis of a multi-clause sentence was first used by August Lehmann [-@lehmann1833, see [@sec:lehmann1833]]. His proposal includes a distinction between capital letters for main clauses and lower-case letters for subordinate clauses, a principle that remains a fixture throughout all variants of these *Periodenbilder*. In contrast, almost all other details differ widely from author to author.
+
+Friedrich Diesterweg [-@diesterweg1834, see [@sec:diesterweg1830]] adopted Lehmann's terminology and added the term *Satzbild* for the structure of a monoclausal sentence. The two terms *Periodenbild* and *Satzbild* return throughout the 19th century in German grammars, although they start being used rather interchangeably. Even though many authors distinguish between two different graphical analyses, one for single-clause sentences and one for multi-clause sentences, Diesterweg's terminological distinction did not persist and most authors simply use the term *Satzbild* for both analyses. Linguistic *Bilder* remain virulent up to the present, the term *Periodenbild* gradually faded away from linguistic memory at the start of the 20th Century.
+
+## Tables, templates and topology
+
+British tradition, German Feldermodell
+
+Gaultier (1819), Becker (1830), Lonkay (1855)
 
 ## Phrasal hierarchy
 
