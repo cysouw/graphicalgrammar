@@ -505,14 +505,6 @@ May tell why heaven has made us what we are. \
 
 [@bidlake1887: 149] Key to the analysis of this sentence
 
-### Macallum (1867) *An eclectic grammar*
-
-Canada!
-
-tables p.85, complex sentence like morell p.88, 91-92
-
-https://archive.org/details/eclecticgrammarp00macauoft/page/84/mode/2up
-
 ### Jevons (1870) *Elementary lessons in logic*
 
 William Stanley Jevons (1835-1882) was an economist and logician. In 1866 he became professor at Owens College in Manchester.^[A summary of his life and work is available at https://en.wikipedia.org/wiki/William_Stanley_Jevons, accessed 9 July 2026.] In his many publications, he touches on grammatical analysis only in his introductory textbook *Elementary lessons in logic* [@jevons1870: 88-97]. In chapter 11 "Logical analysis of sentences" he proposes his rather idiosyncretic interpretation of the "several excellent little works devoted to the subject" (citing Dalgleish, Morell and Bain). He explains his approach at diagramming as follows:
@@ -659,13 +651,20 @@ Fry [@fry1925: 12] commenting on Palser/Lewis: “all the chief features of my m
 
 bio: https://warwick.ac.uk/fac/soc/al/research/collections/elt_archive/publications/smith_1999.pdf
 
-## German-style syntax in USA
+## German-style syntax in North America
 
-### Greene (1848) *A treatise on the structure of the English language*
+### Greene (1846) *A treatise on the structure of the English language*
 
-Samuel Stillman Greene (1810-1883) Only 1874 system of abstract notation is really notewhorthy, based on the idea of analysis from earlier.
+Samuel Stillman Greene (1810-1883) Only 1874 system of abstract notation is really notewhorthy, based on the idea of analysis from earlier. https://en.wikipedia.org/wiki/Samuel_Stillman_Greene Basic biographical information is provided by [@ward1918: 24-27].
 
-act of congress notice from 1846, preface signed 1847, identical editions from 1848 [@greene1848] and 1849 [@greene1849]. 
+Teacher in Boston 1842-1849
+
+1848: PRINCIPAL OF THE PHILLIPS GRAMMAR SCHOOL, BOSTON
+1851: Professor of didactics at Brown, and superintendent of public schools in Providence
+
+original version: [@greene1846]
+
+act of congress notice from 1846, preface signed 1847, identical editions from 1848 [@greene1848] and 1849 [@greene1849]. additional lessons and exercises in [@greene1848a]
 
 graphics "formula for a sentence" [@greene1848: 67, 70, 82, 111, 120, 167, 184] 
 
@@ -682,6 +681,10 @@ second class: infinite, preposition and its object [@greene1848: 84]
 
 67: also abbreviations of five principal elements S, P subordinate elements Obj, Adv, Adj
 70: scheme of a sentence
+
+::: {.im #greene1849_70}
+*Formula* for a sentence from Greene [-@greene1846: 70], reproduced here from a later identical edition because of better image quality [@greene1849: 70]
+:::
 
 Discussing the sentence: "He purchased a good farm."
 
@@ -723,17 +726,29 @@ more books, no graphics:
 
 Josiah Willard Gibbs Sr. (1790-1861), Yale University, father of theoretical physicist with the same name https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs_Sr.
 
-[@gibbs1857] cites Morell and Becker and Bauer!. "logical analysis of the sentence" is Becker long-form model p. 232-239. Also cites S.S. Green, Fowler, Champlin, Latham (p. 6)
+[@gibbs1857] cites Morell and Becker and Bauer!. "logical analysis of the sentence" is Becker long-form model p. 232-239. Also cites S.S. Green, Fowler, Latham (p. 6)
 
 in Latin analysis [@gibbs1858] there are German-style abbreviations for complex sentences p. 53-55
 
+### Macallum (1867) *An eclectic grammar*
+
+Archibald Macallum (1824-1879) https://www.biographi.ca/en/bio/macallum_archibald_10E.html Hamilton, Canada
+
+cites Morell, analysis similary to Morell 1857. tables p.85, complex sentence like morell p.88, 91-92 The section on analysis 85-92 is almost completely identical to Morell 1857: 45-52, almost to the letter!
+
+https://archive.org/details/eclecticgrammarp00macauoft/page/84/mode/2up
+
 ### Swinton (1872) *A progressive grammar of the English tongue*
 
-William Swinton (1833-1892) in USA (Professor of the English language in the University of California??? Preface written in New York), but no diagram - more likely britisch tradition
+William Swinton (1833-1892) in USA (in 1869 Professor of the English language in the University of California. Preface written in New York), but no diagram - more likely britisch tradition [@swinton1872: 143-154]. Model of Synthesis with lines to the side, 157-158
 
-tabular based on Becker [@swinton1872: 154]
+Basic biographical information is provided by [@spaulding1936]. Friends with Walt Whitman in the 1850s https://whitmanarchive.org/item/encyclopedia_entry247
 
 Swinton (1872: iii-iv) “The introduction, some thirty years ago, of the method of Sentential Analysis, devised by the German philologist Becker, and adapted to American school use in the meritorious works of Professor Greene and others, marks the only considerable innovation, in this country, on the Murray system.”
+
+Swinton may have been mistaken in his memory of Greene's analysis here, because Becker's approach was only adapted to the American school by Gibbs 1857, who is not cited by Swinton.
+
+Swinton's approach clearly follows the GB examples: he cites Dalgleish, Morell, Bain (p.viii)
 
 He writes many versions of grammars and textbooks, but never uses diagramming. He cites many GB-grammars (p. viii), so this work seems to belong more in that tradition
 
