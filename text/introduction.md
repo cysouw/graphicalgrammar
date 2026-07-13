@@ -108,7 +108,7 @@ There seem to be at least two reasons:
 - parsing/abbreviations for words
 - grammaire logique
 - universal language/pasigraphy
-- early examples: Moritz, Senillosa, Kinker, Doherty
+- early examples: Moritz, Senillosa, Kinker, Doherty, Picket=>Livingston/Alcott
 
 ## Teaching the Deaf from Paris to New York
 

@@ -1004,11 +1004,22 @@ Later, Barret writes yet another book [@barrett1859], which has basically the sa
 
 ### Alcott (1842) *Slate and black board exercises*
 
-Alcott, William A. (William Andrus), 1798-1859. Very simple drawings in a book about using the blackboard: p. 193-194
+William Andrus Alcott (1798-1859) was an educator and a well-known early proponent of the vegetable diet. Originally from Connecticut, he lived most of his active life in around Boston.^[Basic biographical information is provided on https://en.wikipedia.org/wiki/William_Alcott, accessed 10 July 2026.] One of his many educational writing dealed with using the black board in class:
+
+> The importance of the black board as an instrument of instruction in the common school, has been insisted on in every periodical on education which I have seen, either of this country or Europe; as well as in almost every recent treatise on the same subject. It has also been introduced into most of our improved schools,
+of every grade, especially in New England and New York. In many of our common schools, however, it has been but barely introduced. The teacher knows almost as little how to use it as his pupils. [@alcott1842: 5]
+
+Alcott discusses how to use the black board for many different subjects, among them he also included a chapter on teaching grammar [@alcott1842: 178-194]. At the end of the chapter he proposes to explain government and coordination by drawing curved lines, as shown in [@fig:alcott1842_193]. This approach is strongly reminiscent of the *vinculum* of Picket (see [@sec:picket1815]).
+
+::: {.im #alcott1842_193}
+Blackboard exercise from Alcott [-@alcott1842: 193]. He proposes that "we may draw a curved line from the governing word to the word which is governed; or at least require a pupil to do it, in view of the rest." This approach looks very much like the *vinculum* from Picket, cf. [@fig:picket1815_80].
+:::
 
 ### Greene (1848) *A treatise on the structure of the English language*
 
 Samuel Stillman Greene (1810-1883) Only 1874 system of abstract notation is really notewhorthy, based on the idea of analysis from earlier.
+
+mostly british tradition ?!
 
 1848 version also online [@greene1848] görlach original 1846
 
