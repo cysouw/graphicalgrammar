@@ -35,7 +35,7 @@ Often discounted in modern syntactic theory?
 
 > The monumental building of historical-comparative linguistics elaborated during the 19th century was mainly based on the phonological and morphological comparison of Indo-European languages; and the major issues of structural linguistics, in the first half of the 20th century, concerned phonological and morphological matters. Things changed radically in the second half of this same century, when syntax, in whatever theoretical framework, became the really "fashionable" field. [… This book] aims rather to correct a false image of the history of syntactic studies which derives from the situation outlined above: namely, that very few or no syntactic studies were elaborated before the 1950s. Actually, as will be seen throughout the entire book, syntactic matters were carefully investigated both during the 19th century and in the first half of the 20th century. [@graffi2001: xi]
 
-Previous studies into the history of graphical grammar: [@gelbe1880; @arens1902; @grosse1966; @brittain1973; @percival1976; @baum1976: 36-42; @coseriu1980; @forsgren1992; @thummel1993; @seuren1998: 219-227; @franzkowiak2013; @seuren2015] 
+Previous studies into the history of graphical grammar: [@gelbe1880; @arens1902; @grosse1966; @brittain1973; @percival1976; @percival2007; @baum1976: 36-42; @coseriu1980; @forsgren1992; @thummel1993; @seuren1998: 219-227; @franzkowiak2013; @seuren2015] 
 
 [@hiersche1979] based on Happ (1976)
 

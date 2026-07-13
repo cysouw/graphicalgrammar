@@ -544,28 +544,12 @@ https://www.google.de/books/edition/The_comprehensive_English_grammar/UcQDAAAAQA
 
 complex sentence like Morell, p40-46
 
-### Swinton (1872) *A progressive grammar of the English tongue*
-
-William Swinton (1833-1892) in USA (Professor of the English language in the University of California??? Preface written in New York), but no diagram - more likely britisch tradition
-
-tabular based on Becker [@swinton1872: 154]
-
-Swinton (1872: iii-iv) “The introduction, some thirty years ago, of the method of Sentential Analysis, devised by the German philologist Becker, and adapted to American school use in the meritorious works of Professor Greene and others, marks the only considerable innovation, in this country, on the Murray system.”
-
-He writes many versions of grammars and textbooks, but never uses diagramming. He cites many GB-grammars (p. viii), so this work seems to belong more in that tradition
-
-https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Swinton%2C%20William%2C%201833%2D1892
-
 ### De Mornay (1873) *A grammar of the English language*
 
 Australia!
 
 three schemes from Morell, though critical in introduction
 https://google.com/books?id=6ZyJHtGEad4C page 102-103, 113-123
-
-### Morris (1877) *English grammar*
-
-Also USA, but only using tables [@morris1877: 100-111]
 
 ### Fitch (1881) *Lectures on teaching* {#sec:fitch1881}
 
@@ -675,6 +659,94 @@ Fry [@fry1925: 12] commenting on Palser/Lewis: “all the chief features of my m
 
 bio: https://warwick.ac.uk/fac/soc/al/research/collections/elt_archive/publications/smith_1999.pdf
 
+## German-style syntax in USA
+
+### Greene (1848) *A treatise on the structure of the English language*
+
+Samuel Stillman Greene (1810-1883) Only 1874 system of abstract notation is really notewhorthy, based on the idea of analysis from earlier.
+
+act of congress notice from 1846, preface signed 1847, identical editions from 1848 [@greene1848] and 1849 [@greene1849]. 
+
+graphics "formula for a sentence" [@greene1848: 67, 70, 82, 111, 120, 167, 184] 
+
+page 10: elements of a sentence:
+
+> 7. The component parts of a sentence are called its elements.
+> 8. Asentence may contain five distinct elements. Of these, two are indispensable to its formation, and are hence called principaL ELEMENTS. The other three are dependent on these, and are hence
+called SUBORDINATE ELEMENTS.
+> 9. Each of these five elements may take three distinct forms, called the first, second, and third classes of the elements. [@greene1848: 10]
+
+(first/second/third "class" = word/phrase/clause)
+
+second class: infinite, preposition and its object [@greene1848: 84]
+
+67: also abbreviations of five principal elements S, P subordinate elements Obj, Adv, Adj
+70: scheme of a sentence
+
+Discussing the sentence: "He purchased a good farm."
+
+> "Good," in this example, is subordinate to "farm." This element, in turn, may become the basis to another element subordinate to itself; as, "He purchased a very good farm." […] This connection of elements may be continued indefinitely, forming different degrees of subordination. [@greene1848: 70]
+
+146: Complex elements are formed. There are no concrete examples of complex sentences with the analysis superimposed.
+
+Later further development, especiaaly 1874 system is very "algebraic":
+
+- [@greene1860: 171-177] subject-predicate base with modifiers in brackets
+- [@greene1874: 23-24] summarise structure with "significant symbols" S, P, a, o, v [@greene1874: 285-293] many examples of analysis of complete paragraphs
+
+in 1874 Greene thanks Buckham!
+
+::: ex
+- Wit is a shining quality that everybody admires; most people aim at it, all people fear it, and few love
+it unless in themselves. [@greene1874: 24]
+- Cortez received this remonstrance with the embarrassed air of one by whom it was altogether unexpected. \
+He modestly requested time for deliberation, and promised to give his answer on the following day. \
+At the time appointed he called his troops together, and made them a brief address. \
+He concluded by declaring his willingness to take measures for settling in the country. \
+[@greene1874: 285, citing William Hickling Prescott (1843) *The Conquest of Mexico*]
+:::
+
+::: {.im #greene1874_24}
+*System of significant symbols* for [@last a] from Greene [-@greene1874: 24].
+:::
+
+::: {.im #greene1874_288}
+*Analysis of a paragraph* for [@last b] from Greene [-@greene1874: 288].
+:::
+
+more books, no graphics:
+
+- The elements of English grammar [@greene1856]
+- An introduction to the study of English grammar [@greene1868]
+
+### Gibbs (1857) *Philological studies*
+
+Josiah Willard Gibbs Sr. (1790-1861), Yale University, father of theoretical physicist with the same name https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs_Sr.
+
+[@gibbs1857] cites Morell and Becker and Bauer!. "logical analysis of the sentence" is Becker long-form model p. 232-239. Also cites S.S. Green, Fowler, Champlin, Latham (p. 6)
+
+in Latin analysis [@gibbs1858] there are German-style abbreviations for complex sentences p. 53-55
+
+### Swinton (1872) *A progressive grammar of the English tongue*
+
+William Swinton (1833-1892) in USA (Professor of the English language in the University of California??? Preface written in New York), but no diagram - more likely britisch tradition
+
+tabular based on Becker [@swinton1872: 154]
+
+Swinton (1872: iii-iv) “The introduction, some thirty years ago, of the method of Sentential Analysis, devised by the German philologist Becker, and adapted to American school use in the meritorious works of Professor Greene and others, marks the only considerable innovation, in this country, on the Murray system.”
+
+He writes many versions of grammars and textbooks, but never uses diagramming. He cites many GB-grammars (p. viii), so this work seems to belong more in that tradition
+
+https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Swinton%2C%20William%2C%201833%2D1892
+
+### Morris (1877) *English grammar*
+
+Also USA, but only using tables [@morris1877: 100-111]
+
+### Buckham (1881) *The analysis of sentences*
+
+summary of system on p. 133-134, 228-229
+Cites Gibbs (p133) for the system of notation. Greene is mentioned in a footnote on a completely different topic p. 102 [@buckham1881]
 
 ## Proto-Diagramming
 
@@ -1015,27 +1087,6 @@ Alcott discusses how to use the black board for many different subjects, among t
 Blackboard exercise from Alcott [-@alcott1842: 193]. He proposes that "we may draw a curved line from the governing word to the word which is governed; or at least require a pupil to do it, in view of the rest." This approach looks very much like the *vinculum* from Picket, cf. [@fig:picket1815_80].
 :::
 
-### Greene (1848) *A treatise on the structure of the English language*
-
-Samuel Stillman Greene (1810-1883) Only 1874 system of abstract notation is really notewhorthy, based on the idea of analysis from earlier.
-
-mostly british tradition ?!
-
-1848 version also online [@greene1848] görlach original 1846
-
-cited here in printing from 1849. graphics "formula for a sentence" [@greene1849: 67, 70, 82, 111, 120, 167, 184] meaning of digits is unclear (first/second/third = word/phrase/clause)
-
-67: also abbreviations of classes S, P, Obj, Adv, Adj
-
-Later different systems, e.g.
-
-- [@greene1860: 171-177] subject-predicate base with modifiers in brackets
-- [@greene1874: 23-24] summarise structure with "significant symbols" S, P, a, o, v (cf Jespersen??? just coincidence...)
-
-more books, nothing new:
-
-- https://www.loc.gov/item/17013887/ The elements of English grammar (1856) görlach original 1852
-- https://www.loc.gov/item/40018555/ An introduction to the study of English grammar (1868) görlach original 1856
 
 ### Hall (1849) *Encyclopedia of English grammar*
 
@@ -1055,7 +1106,7 @@ Check Nietz (1961) https://digital.library.pitt.edu/islandora/object/pitt%3A00ae
 
 Stephen W. Clark (1810-1901) was a school principal of East Bloomfield Academy and wrote the influential book *The science of the English language. A practical grammar: in which words, phrases, and sentences are classified according to their offices, and their various relations to one another. Illustrated by a complete system of diagrams.* [@clark1847] He produced revisions of this book and wrote variants for different readers up to the 1870s [e.g @clark1870, see [@mazziotta2016: 303-305 for the little that is known about Clark]. A detailed investigation of the work of Clark is available in Mazziotta [-@mazziotta2016; -@mazziotta2020a; -@mazziotta2020].
 
-It remains unclear whether Clark has had any sources of inspiration for his graphical display. In the preface he writes that he has been testing his method at least since 1840. The "chains" of Pierce (1839) or Barrett. Peirce (Rome), Barrett (Madrid) and Clark (Bloomfield) all lived in upstate New York around Lake Ontario.
+It remains unclear whether Clark has had any sources of inspiration for his graphical display. In the preface he writes that he has been testing his method at least since 1840. The "chains" of Pierce (1839) or Barrett (1842). Peirce (Rome), Barrett (Madrid) and Clark (Bloomfield) all lived in upstate New York around Lake Ontario.
 
 > for the convenience of teachers a manuscript grammar was prepared, which embodied the principles of the science and the Author's mode of presenting it. These principles and this method have been properly tested by numerous and advanced classes during the seven years last past. [@clark1847: iii]
 
