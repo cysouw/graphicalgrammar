@@ -1068,8 +1068,7 @@ Later, Barret writes yet another book [@barrett1859], which has basically the sa
 
 William Andrus Alcott (1798-1859) was an educator and a well-known early proponent of the vegetable diet. Originally from Connecticut, he lived most of his active life in around Boston.^[Basic biographical information is provided on https://en.wikipedia.org/wiki/William_Alcott, accessed 10 July 2026.] One of his many educational writing dealed with using the black board in class:
 
-> The importance of the black board as an instrument of instruction in the common school, has been insisted on in every periodical on education which I have seen, either of this country or Europe; as well as in almost every recent treatise on the same subject. It has also been introduced into most of our improved schools,
-of every grade, especially in New England and New York. In many of our common schools, however, it has been but barely introduced. The teacher knows almost as little how to use it as his pupils. [@alcott1842: 5]
+> The importance of the black board as an instrument of instruction in the common school, has been insisted on in every periodical on education which I have seen, either of this country or Europe; as well as in almost every recent treatise on the same subject. It has also been introduced into most of our improved schools, of every grade, especially in New England and New York. In many of our common schools, however, it has been but barely introduced. The teacher knows almost as little how to use it as his pupils. [@alcott1842: 5]
 
 Alcott discusses how to use the black board for many different subjects, among them he also included a chapter on teaching grammar [@alcott1842: 178-194]. At the end of the chapter he proposes to explain government and coordination by drawing curved lines, as shown in [@fig:alcott1842_193]. This approach is strongly reminiscent of the *vinculum* of Picket (see [@sec:picket1815]).
 
