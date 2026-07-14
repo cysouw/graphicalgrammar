@@ -11,7 +11,7 @@ https://google.com/books?id=PI4VAQAAMAAJ
 
 black board proposed in school class in 1832: 22 https://www.loc.gov/item/e14001332/
 
-### Andrew & Stoddard (1836) *A grammar of the Latin language*
+Andrew & Stoddard (1836) *A grammar of the Latin language*
 
 no graphics, but very concise description of dependency structure
 
@@ -33,91 +33,7 @@ is limited by *gentium*, which is itself limited by *duārum* and *viginti*.
 
 Similar: "syntactic parsing" in Bullions (1849:197) https://www.loc.gov/item/06019122 or (1846: 125) https://www.loc.gov/item/tmp96027743/
 
-## Teaching grammar to the Deaf
-
-> the *Theory of Ciphers*, by which Sicard distinguished the parts of a proposition, must be admitted to be a valuable invention. It consisted as most if not all of you know, in placing the figure 1 over the subject of the proposition, 2 over the attribute, 3 over the direct object, 4 over the preposition, and 5 over the regimen of the preposition. [@peet1859: 321-322]
-
-Appendix to the 1860 Census report (https://www2.census.gov/prod2/decennial/documents/1860a-01.pdf) contains discussion of teachers of the deaf: https://www2.census.gov/prod2/decennial/documents/1860a-16.pdf has information about Barnard and others (Peet, Vaïsse)
-
-### Barnard (1836) *Analytic Grammar* {#sec:barnard1836}
-
-Frederick Augustus Porter Barnard (1809-1889) Barnard had a hereditary form of deafness that intensified in his later years, as did his brother and most of his family.
-
-- American Asylum for the Deaf and Dumb at Hartford, Connecticut between 1831 and 1832
-- New York Institute for the Instruction of the Deaf and Dumb between 1832 and 1838.
-
-https://en.wikipedia.org/wiki/Frederick_A._P._Barnard
-https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_11/May_1877/Sketch_of_President_Barnard
-
-> The method of illustrating the principles of syntax employed in the following treatise, is one which has been, for a number of years, advantageously used in the instruction of the deaf and dumb. […] The first notions of the writer regarding it, were obtained while he was engaged as an instructor in the American Asylum, at Hartford, in the years 1831 and 1832. The *method*, which it at present exhibits, has been, however, the result of a more recent labor, during the writer's residence, in a corresponding capacitiy, at the New York Institution for the Instruction of the Deaf and Dumb. [@barnard1836: iii]
-
-No trees, but “symbolic sentences” in which categories are marked. Some ideas of levels http://www.polysyllabic.com/?q=node/336 [@barnard1836: 244-246]. Developed at school for the deaf in Hartford! based on l’epee/sicard “. This development seems to be linked to deaf-education, see [@wing1887: 86]
-
-Mentions sicard and thanks Leon Vaysse from Paris, who was in New York 1830-1834 [@barnard1836: iii]
-
-Mentions system from Hartford, which was further developed later by Storrs and led to Porter and March
-
-### Peet (1853) *Grammatical symbols*
-
-Harvey P. Peet started in New York Intstitute in 1831
-
-Author is Isaac Lewis Peet (son of Harvey) professor in NY from 1845 on.
-
-This paper gives a summary of symbols from Barnard:
-
-in: Third Convention of American Instructors of the Deaf and Dumb
-https://archive.org/details/sim_convention-of-american-instructors-of-the-deaf-report_august-10-12-1853
-
-p. 265-283
-
-Professor Vaysse of Paris has also elaborated and published a system of grammatical symbols, differing somewhat from those of Prof. Barnard. See Report on European Institutions, p. 112.
-
-> In consequence of that recommendation, the directors finally
-succeeded in engaging the permanent services of Mr. Harvey P. Peet, then
-one ofthe most experienced andefficient instructors in the American Asy-
-lum, who entered on his duties in February, 1831. He has continued to
-direct the institution with distinguished ability and success to the present
-time. About the same period, Mr. Leon Vaysse, from the Royal Institution
-at Paris, was employed as teacher, and brought with him all the important
-improvements made in that institution since the death of Sicard. Underthe
-impulse of this change, and from the uniform practice of employing only
-men of liberal education as teachers, the New York Institution has taken
-its place among the most successful schools of deaf-mute instruction in the
-world. (p.95) https://archive.org/details/tributetogallaud00barn The author is also called Barnard, but is not apparently related to Frederick Barnard https://en.wikipedia.org/wiki/Henry_Barnard
-
-### Porter (1868) *The instruction of the deaf and dumb in grammar*
-
-p. 136-148 https://archive.org/details/ANNUALREPORT-Gallaudet-1868/
-
-describes history of system, p. 143: original at hartford, extended by Storrs later (storrs is only at hartford starting in the 1850s)
-
-same in: American Annals of the Deaf, vol 14 (1869) p30-48 and 128 https://google.com/books?id=E69KAAAAYAAJ (page was missing from publication, therefor later added on p. 128)
-
-refers to Clark and Jewell
-
-### March (1869) *A parser and analyzer for beginners*
-
-Francis A. March, A Parser and Analyzer for Beginners, with Diagrams and Suggestive Pictures (1869). http://www.polysyllabic.com/?q=olddiagrams/clarkderiv
-thanks to: Richard Salter Storrs (deaf education in hartford, mentioned in preface of March 1869), see [@williams1885: 102]
-
-### Storrs (1880) *Methods of deaf-mute teaching*
-
-Richard Salter Storrs (1830-1884) bio: [@williams1885] Hartford 1853-1884. seems to have extended an earlier system in the 1850s-early 1860s. It is unclear what system was used before. Porter makes some comments
-
-[@storrs1880; @storrs1880a; @storrs1881]
-
-this quote suggests, Storrs has been using it since the 1850s:
-
-> an experience of nearly thirty years has so abundantly attested to me its great value in the hands of such teachers. [@storrs1880: 116]
->
-> I claim no other originality for the device I am describing than that it was wholly and independently wrought out by me in my
-earliest experience as a deaf-mute teacher [@storrs1880: 117]
-
-### Wing (1885) *Function symbols*
-
-[@wing1885] further development of storrs/peet symbols for the deaf (which were also the basis for March 1869)
-
-## Syntax in Great Brittain
+## German-style syntax in Great Brittain
 
 - General overview: Michael in [@leitner1991]
 - Grammars in 18th Century: [@tieken2008] does not give much of interest for the current book
@@ -653,7 +569,7 @@ bio: https://warwick.ac.uk/fac/soc/al/research/collections/elt_archive/publicati
 
 ## German-style syntax in North America
 
-### Greene (1846) *A treatise on the structure of the English language*
+### Greene (1846) *A treatise on the structure of the English language* {#sec:greene1846}
 
 Samuel Stillman Greene (1810-1883) Only 1874 system of abstract notation is really notewhorthy, based on the idea of analysis from earlier. https://en.wikipedia.org/wiki/Samuel_Stillman_Greene Basic biographical information is provided by [@ward1918: 24-27].
 
@@ -722,13 +638,28 @@ more books, no graphics:
 - The elements of English grammar [@greene1856]
 - An introduction to the study of English grammar [@greene1868]
 
-### Gibbs (1857) *Philological studies*
+### Gibbs (1857) *Philological studies* {#sec:gibbs1857}
 
-Josiah Willard Gibbs Sr. (1790-1861), Yale University, father of theoretical physicist with the same name https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs_Sr.
+Josiah Willard Gibbs (1790-1861) was a professor at Yale University and the father of the theoretical physicist with the same name.^[Some basic biographical information is available on <https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs_Sr.>, accessed 14 July 2026.] In 1857 he publishes his *Philological studies with English illustrations* [@gibbs1857], which consists of a collection of smaller articles that he had published in the preceding years, often with footnotes or additions added later. In the preface he very prominently states that his ideas about linguistic analysis are derived from Becker (see [@sec:becker1829]). From the dates added to his articles, it appears that Gibbs knew about Becker's work at least since the late 1840s. Gibbs seems to have been the first author to introduce Becker's approach to syntax to the United States. Except for Becker, Gibbs cites many other recent developments in syntactic analysis, e.g. Morell from Great Brittain (see [@sec:morell1852]), Bauer from Germany (see [@sec:bauer1850]) and Greene from the United States (see [@sec:greene1846]).
 
-[@gibbs1857] cites Morell and Becker and Bauer!. "logical analysis of the sentence" is Becker long-form model p. 232-239. Also cites S.S. Green, Fowler, Latham (p. 6)
+The last article of this collection is called *The Logical Analysis of Sentences* [@gibbs1857: 232-239] and deals with the syntactic analysis as proposed by Becker. An example from Gibbs [-@gibbs1857: 235] is shown in [@fig:gibbs1857_235]. This example is probably a quotation from François Quizot's *History of the English revolution of 1640*, translated into English by William Hazlitt in 1845, though the order is changed by Gibbs. Hazlitt's translation is *On hearing of these arrangements, the king, freed from all uncertainty, in his turn displayed a greater degree of vigor.*
 
-in Latin analysis [@gibbs1858] there are German-style abbreviations for complex sentences p. 53-55
+::: {.im #gibbs1857_235}
+Sentence analysis from Gibbs [-@gibbs1857: 235] in the style of Becker (cf. [@fig:becker1829_xvii]).
+:::
+
+In a textbook about Latin, published a year later, Gibbs uses German-style abbreviations for complex sentences, which he calls a "notation of compound propositions" [@gibbs1858: 53-55]. He does not explicitly cite any inspiration for his notation, but the general structure is strongly reminiscent of the German *Periodenbilder* of the time. Capital letters indicate main clauses, lowercase letters are subordinate clauses, and italics are used for secondary subordinate clauses. Bracketed clauses indicate that a clause is inserted into another clause. An example is shown in [@fig:gibbs1858_54] for the quotation from Cicero in [@next].
+
+::: ex
+| Latin [@gibbs1858: 54, citing Cicero *De Officiis*, though with slight changes]
+| Non promissa servanda sunt ea, quae sint iis, quibus promisseris, inutilia.
+| not promises kept are those.NOM.PL who.NOM.PL are.3PL.SBJ those.DAT.PL who.DAT.PL promised.2SG.SBJ useless
+| Promises need not be kept when they would be of no benefit to the people to whom you made them.
+:::
+
+::: {.im #gibbs1858_54}
+*Notation of compound propositions* for [@last] from Gibbs [-@gibbs1858: 54]. The sentence consists of a main clause marked "A" (*Non promissa servanda sunt ea*) with a following subordinate relative clause marked "a" (*quae sint iis […] inutilia*), which has an internal secondary relative clause marked "*(a)*" (*quibus promisseris*). Secondary subordination is indicate by italics, clauses internal to another clause are bracketed. 
+:::
 
 ### Macallum (1867) *An eclectic grammar*
 
@@ -762,6 +693,50 @@ Also USA, but only using tables [@morris1877: 100-111]
 
 summary of system on p. 133-134, 228-229
 Cites Gibbs (p133) for the system of notation. Greene is mentioned in a footnote on a completely different topic p. 102 [@buckham1881]
+
+### Foerster & Steadman (1919) *Sentences and thinking* {#sec:foerster1919}
+
+Norman Foerster (1887–1972) taught English at various universities (Wisconsin, North Carolina, Iowa and Duke). In contrast, John M. Steadman (1889-1945) taught at Emory University for his whole career.^[Some minimal biographical information about Foerster is available at <https://aspace.lib.uiowa.edu/agents/people/557>. Likewise minimal is the information that I have been able to find about Steadman, being a short obituary from the New York Times, available at <https://www.nytimes.com/1945/12/22/archives/dr-jm-steadman-educator-author-professor-emeritus-of-english-at.html>, both accessed 7 May 2026.] Together they wrote the book *Sentences and thinking* [@foerster1919], which is predominantly a guide to creative writing, but also contains a small part about grammatical structure. There appears to be no direct link to Sheffield's *Grammar and thinking* (see [@sec:sheffield1912]), neither through explicit references nor through their personal histories. The similarity in titles suggests there may have been some influence from Sheffield's book. Foerster and Steadman's book appears to have been reasonably successful, revised thoroughly in 1923 and again in 1931. The last revision was retitled *Writing and thinking*. The grammatical section remained unchanged across these revisions.
+
+In the short grammatical section, Foerster & Steadman [-@foerster1919: 29-30] use the tree-metaphor to explain different kinds of sentence structure, as shown in [@fig:foerster1919_29]. They focus solely on the relationship of main and subordinate clauses (like in the German tradition of the *Periodenbild*), ignoring the internal structure of the individual clauses.
+
+::: {.im #foerster1919_29}
+Illustrations of different kinds of sentence structure from Foerster & Steadman [-@foerster1919: 29]. These illustrations are purely theoretical. These trees do not represent the structure of any concrete example sentences.
+:::
+
+As an illustration of these different kinds of sentence structure they discuss an example sentence, shown here in [@next]. They present two versions of this sentence, the first one being a basic enumeration [@next a], while the second has a more intricate grammatical structure with different kinds of subordination [@next b]. They explain their preference for the second version by expanding on the tree-metaphor:
+
+> We do not want piles of dead logs, but living trees. Our sentences should not be built mechanically; they should grow, as organisms grow. A sentence may contain […] many constituent thoughts, but of these thoughts perhaps one will stand out as the main thought (the trunk), which divides into several subordinate thoughts (large branches), which again divide into subordinate thoughts (small branches), etc. [@foerster1919: 29]
+
+::: ex
+- It stood there looking at a bright pebble, and it didn't move at all, and it seemed doomed, and we were filled with horror, and some of us turned pale as death, but suddenly we saw a man in a dark doorway, and he had doubtless been there right along, but we hadn't noticed him before, and he came out like a flash, and he blocked the way, and it was Martin. 
+- Standing there looking at a pebble, quite motionless, and apparently doomed, the child filled us with such horror that some of us turned pale as death; but suddenly we saw a man in a dark doorway, whom we hadn't noticed before (though he had doubtless been there right along) and who, coming out like a flash, blocked the way – it was Martin!
+:::
+
+For the analysis, Foerster & Steadman notice that the sentence consists of three main statements and eight subsidiary ones, as listed below. Actually, the statement (1a) below clearly consists of two statements (i.e. *standing there* and *looking at a pebble*), which are unexplicably not separated. They propose a graphical analysis of the structure of their preferred version [@last b], as shown in [@fig:foerster1919_30], which corresponds to a "highly developed compound sentence" from [@fig:foerster1919_29]. Unfortunately, this illustration only approximately represents the subordinate grammatical structure of the sentence. Neither the order of clauses, nor their relative subordination is represented in the diagram.
+
+1. The child filled us with horror.
+    a. Standing there looking at a pebble.
+    b. Quite motionless.
+    c. Apparently doomed.
+    d. Such that some of us turned pale as death.
+2. Suddenly we saw a man in a dark doorway.
+    a. Whom we hadn't noticed before.
+    b. Though he had doubtless been there right along.
+    c. Coming out like a flash.
+    d. Who blocked the way.
+3. It was Martin.
+
+::: {.im #foerster1919_30}
+Tree diagram of [@last b] from Foerster & Steadman [-@foerster1919: 30]. The representation of the syntactical structure is rather coarse and uninformative. It is unclear why they did not more accurately depict the structure of the sentence. For example, the clause 3 could have easily be moved to the right side and the subordinate branches could be added to the left or right depending on their relative order to the main clause. More interesting even would have been if secondary subordinations, like (2b), would have been depicted as secondary branches.
+:::
+
+The example is quote verbatim in –of all places– a Chinese grammar by Li Jinxi [-@jinxi1924: 361], see [@sec:jinxi1924]. Although the example is analysed exactly as it is described by Foerster & Steadman, the picture is completely redone by Li Jinxi and now more accurately reflects the grammatical structure, as shown in [@fig:jinxi1924_361]. The subordinate clause (1a) is still treated as a single clause, but the order and the relative subordination of the clauses is now faithfully represented by the illustration.
+
+::: {.im #jinxi1924_361}
+Same tree analysis as in the previous [@fig:foerster1919_30] from a Chinese grammar by Jinxi [-@jinxi1924: 361]. The complete example from Foerster & Steadman is quoted verbatim in this grammar over multiple pages, but the picture is completely overhauled and much improved. The ordering of the main clauses (indicated by numbers) now correctly reflects the original sentence, and multiple subordination is correctly analysed. Even the linking between the three main branches appears to be reflected in small graphical flourishes. The Chinese caption reads: '(Figure 7) illustrates the structure of the complex sentence mentioned above' This is exactly the caption from the original.
+:::
+
 
 ## Proto-Diagramming
 
@@ -1583,80 +1558,6 @@ Later "flow charts", introduced in [@hall1964: 206-207], much further developed 
 
 ## Immediate constituents
 
-### Wundt (1880) *Logik* {#sec:wundt1880}
-
-Wilhelm Maximilian Wundt (1832-1920), professor in Leipzig, was one of the founders of modern psychology, but his writings touched on a wide range of topics including language. A survey of his linguistic work is presented by Knobloch [-@knobloch1992]. As for the graphical representation of sentence structure, he wrote a few pages about this in the first volume of his book *Logik* [@wundt1880: 49-70] and later expanded upon his approach in his ten-volume magnum opus *Völkerpsychologie*, specifically, in the second volume of the two-volume book *Sprache* [-@wundt1900b: 320-355].
-
-Wundt approaches grammatical structure in very broad and general terms. Consequently, his graphical analysis is not so much rooted in a detailed analysis of grammatical structure but rather in a-priori logical analysis, which is then applied to language. The basic unit of his analysis is the *apperceptive Verbindung* 'apperceptive connection'. The notion of apperception has a long history in the philosophy of mind, dating back at least to Leibniz.
-
-Wundt takes an almost algebraic approach to the analysis of apperception, which  might have been influenced by the "formulas" of apperceptive structures as used by Steinthal [-@steinthal1871: 198-204, 254, 388, 407-428], though Wundt does not cite this aspect of Steinthal's work (but Wundt cited Steinthal in other contexts). Incidentally, Wundt's *Logik* appears just a year after Frege's *Begriffsschrift* [@frege1879], which also uses graphical representations of logical formulas, though there does not seem to have been any direct influence from Frege on Wundt's thinking [see @picardi2022: 24-26 for the relatively positive view of Frege about Wundt's philosophical approach to logic and language]. Wundt's algebraic approach to the structure of thought has to considered in the wake of the highly influential book *Laws of Thought* by Boole [-@boole1954]. Wundt does not directly cite Frege nor Boole.
-
-For Wundt, an apperceptive connection is the basic building block of a thought, indicated visually by a connecting arch. Such a connection is introduced analytically top-down, as for Wundt a thought starts as a *Gesammtvorstellung* 'complete idea', which is subsequently divided into parts. There appears to be a direct through-line from Wundt's apperceptive connections as divisions of larger elements to the 20th century concept of syntactic "immediate constituents" first proposed by Blooomfield in 1933 (see [@sec:bloomfield1933]).
-
-> Die einfachste Form eines Gedankens oder eines in sich abgeschlossenen apperceptiven Vorstellungsverlaufs ist dann gegeben, wenn eine Gesammtvorstellung in zwei mit einander verbundene Theile zerlegt wird. Dies geschieht im einfachen Urtheil. Deuten wir allgemein die apperceptive Verbindung auf einander folgender Vorstellungen durch das Zeichen ^⏜^ an, so ist A^⏜^B das psychologische Symbol des einfachen Urtheils. [@wundt1880: 53]
->
-> ('The simplest form of a thought or a self-contained apperceptive sequence of ideas occurs when a complete idea is divided into two interconnected parts. This happens with a simple judgment. If we generally indicate the apperceptive connection of successive elements by the symbol ^⏜^, then A^⏜^B is the psychological symbol for a simple judgment.')
-
-Such an apperceptive connection can be recursively applied, leading to a binary-branching structure of thought. This is probably the first explicit proposal to exlusively use binary branching for the analysis of though and language. Wundt even calls this the *Gesetz der Dualität* 'law of duality'. However, this law is purely a-priori in the work of Wundt. He does not give any argument why this law should apply, instead he simply assumes that binary division is the only option.
-
-> Die successive Apperception dagegen geschieht stets in der Form einer Zweitheilung: sie folgt einem Gesetze, das wir füglich als das Gesetz der Dualität oder der binären Gliederung der Gedanken bezeichnen können. [@wundt1880: 28]
->
-> ("Successive apperception, on the other hand, always occurs in the form of a division into two: it follows a law that we can aptly call the law of duality or the binary organization of thoughts.")
-
-According to Wundt, this logical binary division is also found in the structure of linguistic utterances. His argumentation is quoted below in full, because he does not explicitly discuss various example sentences to illustrate how his syntactic analysis is supposed to work.
-
-> Dieses Princip der Dualität oder der binären Verbindung hat in den Kategorieen der grammatischen Syntax seinen unverkennbaren Ausdruck gefunden. Denn alle diese Kategorieen führen zurück auf je zwei Vorstellungen, die mit einander in Beziehung gesetzt sind. So werden zunächst die beiden Hauptvorstellungen, die der ersten Gliederung des Gedankens entsprechen, als Subject und Prädicat unterschieden. Das Subject kann wieder gegliedert sein in Nomen und Attribut. Das Prädicat zerfällt, sofern es ein nominales ist, in die Copula und das eigentliche Prädicat, worauf sich das letztere, ähnlich dem Subject, noch einmal in Nomen und Attribut trennen kann. Ist das Prädicat aber ein verbales, so kann es sich in Verbum und Object gliedern oder in das eigentliche und das ergänzende Prädicat. Selbst da wo sich ein näheres und ein entfernteres Object mit dem Verbum verbinden, erhält sich diese fortschreitende Zweitheilang. Denn hiebei [sic!] bildet zunächst das Verbum mit dem s.g. näheren Object ein einheitliches Prädicat, welches dem entfernteren Object gegenübertritt, worauf dann erst jenes Prädicat wieder in das die Handlung ausdrückende Verbum und in das Object, auf welches sich die Handlung beziebt, getrennt wird. In dem Satz 'er unterrichtet den Knaben in Musik' bildet 'er unterrichtet in Musik' zunächst eine einheitliche Vorstellung, die den Knaben als das Object, auf das sie bezogen wird, sich gegenüber hat; dann erst zerlegt sich jene Vorstellung wieder in ihre beiden Bestandteile. [@wundt1880: 54]
->
-> ("This principle of duality or binary connection has found its unmistakable expression in the categories of grammatical syntax. For all these categories lead back to two concepts that are related to one another. Thus, the two main concepts corresponding to the initial division of thought are distinguished as subject and predicate. The subject can be further divided into noun and attribute. The predicate, insofar as it is nominal, is divided into the copula and the proper predicate, the latter of which, similar to the subject, can again be divided into noun and attribute. If, however, the predicate is verbal, it can be divided into verb and object, or into the proper and the complementary predicate. Even where a closer and a more distant object combine with the verb, this progressive division is maintained. For here, the verb initially forms a unified predicate with the so-called nearer object, which contrasts with the more distant object. Only then is that predicate separated again into the verb expressing the action and the object to which the action refers. In the sentence 'he teaches music to the boy' the part 'he teaches music' initially forms a unified concept, which has the boy as the object to which it refers; only then does that concept break down again into its two components.")
-
-The equivalence between syntactic structure and binary-branching subject-predicate structures is illustrated graphically by Wundt as shown in [@fig:wundt1893_62]. A syntactic structure is shown to the left, which is proposed to be equivalent to the logical structure to the right. This graphic does not explicitly analyse a specific sentence, but from the text it is clear that a sentence like [@next] is intended. The abbreviations from the graphic are added in grey before the respective words into this examples sentence. The meanings of these abbreviations as explained by Wundt are listed below [-@wundt1880: 55-56].^[The usage of apostrophes is eerily similar to the way they were sometimes used as an easier-to-type alternative in Chomsky's X-bar approach from the 1980s, although the number of apostrophes is reversed between Wundt and Chomsky. This similarity seems to be a purely coincidental parallel.] It is not completely clear where Wundt would place the actual lexical verb into this structure. From a modern point of view it makes most sense to consider *v* and *v'* as phrasal constituents, while the leaf-node *v"* is the locus of the lexical verb. However, Wundt's text remains ambigious about this. He does not use a syntactic term like "constituent" at all and all three nodes marked *v* are identically called *Verbalvorstellung* 'verbal concept'.
-
-- s: *Gegenstandsvorstellung*
-- a: *Attribut*
-- v: *Verbalvorstellung*
-- v': *Verbalvorstellung zweiter Ordnung*
-- v'': *Verbalvorstellung dritter Ordnung*
-- o: *entfernteres Object*
-- o': *näheres Object*
-- a': *adverbiale Bestimmung*
-
-::: ex
-Der [a]{.grey} alte [s]{.grey} Lehrer [v'']{.grey} unterrichtet [a']{.grey} morgen [o]{.grey} den Knaben [o']{.grey} in Musik
-:::
-
-::: {.im #wundt1893_62}
-Equivalence between grammatical structure (left) and logical binary structure (right) from Wundt [-@wundt1880: 56]. The graphic shown here is from second edition because of better printing quality [@wundt1893: 62]. Wundt does not provide an explicit German sentence, whose structure would be illustrated with this graphic, but from Wundt's description an example sentence like [@last] can be inferred.
-:::
-
-Wundt extends his linguistic analysis into two large volumes in his book *Sprache*, which start off his ten-volume opus-magnum *Völkerpsychologie*. Specifically, in the second volume Wundt dives deep into grammatical analysis [@wundt1900b]. In Chapter 7, Section 5 *Gliederung des Satzes und Satzformen* [@wundt1900b: 309-346] he revisits his graphical approach to the analysis of syntax. Confusingly, Wundt does not repeat the basic analysis of a simple sentence, as presented above from his 1880 work. Instead, there is a lengthy discussion of purported structures from a few "exotic" languages like Wolof and Jakut, but only using very crude German glossings of the original examples, never once even citing any real sentence from those languages.
-
-Wundt discusses two more elaborate examples of his syntactic analysis using sentences from Goethe's *Die Leiden des jungen Werthers*, repeated here in [@next]. These sentences are typical examples as found in 19th century German grammatical analysis, consisting of multiple subordinate clauses. The graphical analysis of these sentences is shown in [@fig:wundt1900_351a] and [@fig:wundt1900_351b], respectively. The annotation letters in the example sentences in [@next] are reproduced here verbatim as used by Wundt to explain the relation between the sentences and the graphical analysis. After the first example he concludes that his (very short) description is sufficient to explain his analytical approach. Instead of explaining his second example, he simple states: *das ergibt folgende Strukturformel, die nach dem Vorangegangenen wohl keines weiteren Kommentars bedarf* 'this results in the following structural formula, that – given the preceding discussion – does not need any further explanation' [@wundt1900b: 351]. However, quite to the contrary, on closer inspection his syntactic analysis is difficult to follow and quite sloppy. It comes nowhere near the highly precise dissections as found in the works of many of the 19th century German syntacticians.
-
-::: ex
-- Wenn ich zu meinem Fenster hinaus an den fernen Hügel sehe [(a^⏜^b)]{.grey}, wie die Morgensonne über ihn her durch den stillen Nebel durchbricht [(a~1~^⏜^b~1~)]{.grey}, und den stillen Wiesengrund bescheint [(G~1~)]{.grey}, und der sanfte Fluß zwischen seinen entblätterten Eichen zu mir herschlängelt [(G~2~)]{.grey} — O! wenn da diese herrliche Natur so starr vor mir steht wie ein lackiertes Bildchen [(G~3~)]{.grey}, und alle die Wonne [(a~4~)]{.grey} keinen Tropfen Seligkeit hinauf in das Gehirn pumpen [(b~4~)]{.grey} kann [(G~4~)]{.grey}, und der ganze Kerl [(a~5~)]{.grey} vor Gottes Angesicht steht [(G~5~)]{.grey} wie ein versiegter Brunnen [(b~5~)]{.grey}, wie ein verlechter Eimer [(b~6~)]{.grey}. \
-[@wundt1900b: 350, citing Goethe, *Die Leiden des jungen Werthers*, abbreviations verbatim as in Wundt's text]
-- Als er sich den Vorwurf sehr zu Herzen zu nehmen schien [(a^⏜^b)]{.grey}, und immer aufs neue beteuerte [(c)]{.grey}, daß er gewiß gern mitteile [(d)]{.grey}, gern für Freunde tätig sei [(e)]{.grey}, so empfand sie [(A^⏜^B)]{.grey}, daß sie sein zartes Gemüt verletzt habe [(a~1~^⏜^b~1~)]{.grey}, und sie fühlte sich als seine Schuldnerin [(A^⏜^D)]{.grey}. \
-[@wundt1900b: 351, citing Goethe, *Die Leiden des jungen Werthers*, abbreviations verbatim as in Wundt's text]
-:::
-
-::: {.im #wundt1900_351a}
-Graphical analysis of [@last a] from Wundt [-@wundt1900b: 351]. The capital letter *G* stands for *Gesammtvorstellung* 'complete idea' and is used for what today would be called a clause. This example is actually unusual (as explicitly noted by Wundt), because the sentence is syntactically incomplete, as indicated by the empty right part of the main bracket. The arches and straight-line connections are applied rather inconsistently, indicating that Wundt did not realy grasp how a constituency analysis (in its modern sense) works.
-:::
-
-::: {.im #wundt1900_351b}
-Graphical analysis of [@last b] from Wundt [-@wundt1900b: 351]. He introduces (without explanation) round brackets for non-repeated subjects on the left side. This graphical analysis seems to use to old tradition to reserve capital letters for main clauses and lowercase letters for subordinate clauses, a convention originally introduced by Lehmann in 1833 (see [@sec:lehmann1833]). However, this convention is never explained by Wundt.
-:::
-
-These syntactic analyses by Wundt are very inprecise and inconsistent, indicating that Wundt was not really interested in the minute details of the syntactic structure of these sentences. He appears to be confused about what is a *Gesammtvorstellung* (i.e. what is a clausal constituent), what are its parts, and how the various clauses relate to each other. For clause combinations, Wundt [-@wundt1900b: 334] distinguishes *Parataxe* (including conjunction, using a straight line), *Relativsatz* (relative clause, using some kind of subscript in the analysis) and *conjunctiver Nebensatz* (adverbial clauses, using the curved arch). He never mentions complement clauses, but in [@fig:wundt1900_351b] he simply positions those below the matric clause. Wundt also talks about *attributive Satzformen* (non-finite clauses), but he only discusses rather incomprehensible examples from non-european languages, without any details and only on the basis of crude German glossing. The lowercase letters appear intended to indicate subject and predicate of a subordinate clause, which together should form a clause, for which he sometimes (but not always) uses the uppercase *G*. However, all these visual mechanisms are applied haphazardly, and often simply erroneously. It would take too long to explain all errors in Wundt's analyses, so I will just point to a few of the many problems.
-
-In the first sentence, the topmost clause *G* is actually incomplete (as explicitly noted by Wundt) because the main clause is missing. This is (correctly) indicated by the empty right side of the main arch. However, different from Wundt's analysis, the left (subordinate) side consists of two long conditional clauses introduced by *wenn*. These two should have been marked as being conjoined as a *Parataxe*. The internal structure of these two *wenn* clauses is complemently wrong in Wundt's analysis.
-
-In the second example Wundt does not use any internal capital letter *G*, but there are uppercase letters *A,B,C,D*, probably indicating subject and predicate of main clauses. This is reminiscent of the Lehmann tradition, using capital letters for main clauses and lowercase for subordinate clauses (see [@sec:lehmann1833]). On the left side, the lowercase *(a)* in brackets seems to suggest an omitted subject, though the subject of predicate *d* is actually present. Wundt also appears to mark complements clauses (introduced with *daß*) by simply positioning them below their matrix clauses (without explanation), but erroneously links the last main clause *(A^⏜^D)* to the complement clause, instead of to the main clause *(A^⏜^C)*. The use of the subscripts on the right side seems superfluous.
-
-German grammarians are not impressed by Wundt's linguistic analysis, and his graphical analysis is completely ignored. Extensive reviews of Wundt's book *Sprache* are written by Delbrück [-@delbruck1901] and Sütterlin [-@sutterlin1902], leading to a lengthy reply by Wundt [-@wundt1901] and by his student Dittrich [-@dittrich1902]. Only Dittrich in passing mentions the graphical approach. Delbrück off-handedly dismisses the idea of binary branching: *Ich bin demnach der Meinung, daß dieses ganze Princip der fortgesetzten binären Zerlegung […] durch die sprachlichen Thatsachen nicht empfohlen wird* 'I am therefore of the opinion that this entire principle of continued binary decomposition […] is not recommended by linguistic facts' [@delbruck1901: 153-154].
-
-Although Wundt's graphical analysis does not have had any direct followers (except for Sheffield in the USA, [@sec:sheffield1912]), his general approach seems to have influenced Bloomfield ([@sec:bloomfield1933]) and via Bloomfield it has influenced the tradition of *immediate constituents* in the USA, directly leading to Chomsky's generative grammar in the 1960. Specifically the idea of an exclusively binary subdivisions of sentences, a major tenet of Chomsky's approach, is probably directly attributable to Wundt (apparently without Chomsky knowing about this).
-
 ### Sheffield (1912) *Grammar and thinking* {#sec:sheffield1912}
 
 Alfred Dwight Sheffield (1871-1961) [@sheffield1912: 50-51] Grammar and Thinking (citing Wundt prominently) Brittain (1973:204) says “linguists seem to have been unaware of his work”. This is not true!
@@ -1668,49 +1569,6 @@ also [@sheffield1929: 53]
 - Nida cites him in 1943 dissertation
 - Jespersen cites him in 1913 Sprogets Logic
 - review by Bloomfield, quite critical [@bloomfield1912]
-
-### Foerster & Steadman (1919) *Sentences and thinking* {#sec:foerster1919}
-
-Norman Foerster (1887–1972) taught English at various universities (Wisconsin, North Carolina, Iowa and Duke). In contrast, John M. Steadman (1889-1945) taught at Emory University for his whole career.^[Some minimal biographical information about Foerster is available at <https://aspace.lib.uiowa.edu/agents/people/557>. Likewise minimal is the information that I have been able to find about Steadman, being a short obituary from the New York Times, available at <https://www.nytimes.com/1945/12/22/archives/dr-jm-steadman-educator-author-professor-emeritus-of-english-at.html>, both accessed 7 May 2026.] Together they wrote the book *Sentences and thinking* [@foerster1919], which is predominantly a guide to creative writing, but also contains a small part about grammatical structure. There appears to be no direct link to Sheffield's *Grammar and thinking* (see [@sec:sheffield1912]), neither through explicit references nor through their personal histories. The similarity in titles suggests there may have been some influence from Sheffield's book. Foerster and Steadman's book appears to have been reasonably successful, revised thoroughly in 1923 and again in 1931. The last revision was retitled *Writing and thinking*. The grammatical section remained unchanged across these revisions.
-
-In the short grammatical section, Foerster & Steadman [-@foerster1919: 29-30] use the tree-metaphor to explain different kinds of sentence structure, as shown in [@fig:foerster1919_29]. They focus solely on the relationship of main and subordinate clauses (like in the German tradition of the *Periodenbild*), ignoring the internal structure of the individual clauses.
-
-::: {.im #foerster1919_29}
-Illustrations of different kinds of sentence structure from Foerster & Steadman [-@foerster1919: 29]. These illustrations are purely theoretical. These trees do not represent the structure of any concrete example sentences.
-:::
-
-As an illustration of these different kinds of sentence structure they discuss an example sentence, shown here in [@next]. They present two versions of this sentence, the first one being a basic enumeration [@next a], while the second has a more intricate grammatical structure with different kinds of subordination [@next b]. They explain their preference for the second version by expanding on the tree-metaphor:
-
-> We do not want piles of dead logs, but living trees. Our sentences should not be built mechanically; they should grow, as organisms grow. A sentence may contain […] many constituent thoughts, but of these thoughts perhaps one will stand out as the main thought (the trunk), which divides into several subordinate thoughts (large branches), which again divide into subordinate thoughts (small branches), etc. [@foerster1919: 29]
-
-::: ex
-- It stood there looking at a bright pebble, and it didn't move at all, and it seemed doomed, and we were filled with horror, and some of us turned pale as death, but suddenly we saw a man in a dark doorway, and he had doubtless been there right along, but we hadn't noticed him before, and he came out like a flash, and he blocked the way, and it was Martin. 
-- Standing there looking at a pebble, quite motionless, and apparently doomed, the child filled us with such horror that some of us turned pale as death; but suddenly we saw a man in a dark doorway, whom we hadn't noticed before (though he had doubtless been there right along) and who, coming out like a flash, blocked the way – it was Martin!
-:::
-
-For the analysis, Foerster & Steadman notice that the sentence consists of three main statements and eight subsidiary ones, as listed below. Actually, the statement (1a) below clearly consists of two statements (i.e. *standing there* and *looking at a pebble*), which are unexplicably not separated. They propose a graphical analysis of the structure of their preferred version [@last b], as shown in [@fig:foerster1919_30], which corresponds to a "highly developed compound sentence" from [@fig:foerster1919_29]. Unfortunately, this illustration only approximately represents the subordinate grammatical structure of the sentence. Neither the order of clauses, nor their relative subordination is represented in the diagram.
-
-1. The child filled us with horror.
-    a. Standing there looking at a pebble.
-    b. Quite motionless.
-    c. Apparently doomed.
-    d. Such that some of us turned pale as death.
-2. Suddenly we saw a man in a dark doorway.
-    a. Whom we hadn't noticed before.
-    b. Though he had doubtless been there right along.
-    c. Coming out like a flash.
-    d. Who blocked the way.
-3. It was Martin.
-
-::: {.im #foerster1919_30}
-Tree diagram of [@last b] from Foerster & Steadman [-@foerster1919: 30]. The representation of the syntactical structure is rather coarse and uninformative. It is unclear why they did not more accurately depict the structure of the sentence. For example, the clause 3 could have easily be moved to the right side and the subordinate branches could be added to the left or right depending on their relative order to the main clause. More interesting even would have been if secondary subordinations, like (2b), would have been depicted as secondary branches.
-:::
-
-The example is quote verbatim in –of all places– a Chinese grammar by Li Jinxi [-@jinxi1924: 361], see [@sec:jinxi1924]. Although the example is analysed exactly as it is described by Foerster & Steadman, the picture is completely redone by Li Jinxi and now more accurately reflects the grammatical structure, as shown in [@fig:jinxi1924_361]. The subordinate clause (1a) is still treated as a single clause, but the order and the relative subordination of the clauses is now faithfully represented by the illustration.
-
-::: {.im #jinxi1924_361}
-Same tree analysis as in the previous [@fig:foerster1919_30] from a Chinese grammar by Jinxi [-@jinxi1924: 361]. The complete example from Foerster & Steadman is quoted verbatim in this grammar over multiple pages, but the picture is completely overhauled and much improved. The ordering of the main clauses (indicated by numbers) now correctly reflects the original sentence, and multiple subordination is correctly analysed. Even the linking between the three main branches appears to be reflected in small graphical flourishes. The Chinese caption reads: '(Figure 7) illustrates the structure of the complex sentence mentioned above' This is exactly the caption from the original.
-:::
 
 ### Sapir (1921) *Language* {#sec:sapir1921}
 

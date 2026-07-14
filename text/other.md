@@ -1,73 +1,172 @@
-# Other languages
+# Other developments
 
-## Latin & Greek
+## Teaching grammar to the Deaf
 
-### Nägelsbach (1846) *Lateinische Stilistik* {#sec:nägelsbach1846}
+> the *Theory of Ciphers*, by which Sicard distinguished the parts of a proposition, must be admitted to be a valuable invention. It consisted as most if not all of you know, in placing the figure 1 over the subject of the proposition, 2 over the attribute, 3 over the direct object, 4 over the preposition, and 5 over the regimen of the preposition. [@peet1859: 321-322]
 
-Carl Friedrich Nägelsbach (1806-1859) was professor for classical studies in Erlangen. He wrote various commentaries on classical texts and a didactic explanation of Latin style, called *Lateinische Stilistik für Deutsche, ein sprachvergleichender Versuch* [@nagelsbach1846]. The book saw various editions up to a ninth edition in 1905, prepared by Iwan Müller. This ninth edition has been reprinted up to at least 1980.
+Appendix to the 1860 Census report (https://www2.census.gov/prod2/decennial/documents/1860a-01.pdf) contains discussion of teachers of the deaf: https://www2.census.gov/prod2/decennial/documents/1860a-16.pdf has information about Barnard and others (Peet, Vaïsse)
 
-In the *Lateinische Stilistik* Nägelsbach uses *Periodenbilder* to analyse latin constructions, citing both Lehmann [@nagelsbach1846: 281] and Götzinger [@nagelsbach1846: 282] as inspiration. He simplifies the structure of the *Periodenbild* to be able to write them on a single line, using slashes instead of horizontal braces, as illustrated in [@fig:nägelsbach1846_286] [@nagelsbach1846: 286].
+### Sicard (1799) *Cours d'instruction d'un sourd-muet* {#sec:sicard1799}
 
-Another innovation proposed by Nägelsbach is to use brackets for relative modification at the front of the sentence. Specifically, he notes that in Latin it is quite common to have multiple *Vordersätze*, i.e. clauses in front of the main clause, as indicated by the colon in Lehmann's notation. Because of the ordering of modification, Nägelsbach proposed *Periodenbilder* like "a:(b:A)" and even "a:(b:[c:A])" for reverse-nested frontal clauses [@nagelsbach1846: 286, 289].
+Roch-Ambroise Cucurron Sicard (1742-1822) was director of *L'Institut National de Jeunes Sourds de Paris* and a highly influential educator for the Deaf. His father's surname was *Cucuron*, but Roch-Ambroise used it as a second first name, using his mother's surname *Sicard* as his surname. He wrote a two-volume *Grammaire générale* in which he introduced a superscript *chiffre* 'number' [@sicard1798a: 29] to indicate subject (with the digit 1) and verb (with the digit 2). However, he never uses these digits in the rest of his grammar. There are various examples of dotted lines in the grammar [e.g. @sicard1798b: 120, 125, 224, 328, 360-362, 369], but they are never used for the syntactic analysis of a specific sentence.
 
-::: {.im #nägelsbach1846_286}
-Simplified *Periodenbild* from Nägelsbach [-@nagelsbach1846: 286]. To be able to write *Periodenbilder* as a single line, he replaces the horizontal brace from Lehmann and Götzinger with a simple forward slash. This makes them much easier to typeset.
+In his next book, the *Cours d'instruction d'un sourd-muet* [@sicard1799: 63-71, 101, 111-112, 178, 332-336] he expands on his idea of using numbers for syntactic analysis and uses it frequently. Using modern terminology, Sicard uses the digits 1 to 5 for the following grammatical functions, which is illustrated in [@fig:sicard1799_112].
+
+- 1: subject and nominal/adjectival predicate
+- 2: copula
+- 1 2: lexical verb (~contraction of copula with nominal predicate)
+- 3: object
+- 4: preposition
+- 5: object of preposition
+- 4 5: adverb (~contraction of prepositional phrase)
+
+The usage of these digits reveals that Sicard still uses the old logical approach to language analysis, in which the basic structure consists of a subject, a copula and a (nominal/adjectival) predicate.^[Confusingly, the predicate of a logical construction is typically called *attribut* in the French literature of the time.] In the analysis of Sicard, both the subject and the predicate are marked with a 1, while the copula is marked with a 2. Lexical verbs are treated as a merged combination of the copula with the predicate, and they are consequently marked with both digits 1 and 2. Similarly, but not at all according to tradition, Sicard considers adverbs to be a contraction of a prepositional phrase. Prepositions are marked with a 4 and the object of prepositions with a 5. An adverb is consequently marked with both a 4 and a 5. Of course, prepositional phrases are frequently used adverbially, so this is not completely wrong. However, prepositional phrases can also be used attributively modifying a noun. In his logic, Sicard should then also have to mark adjectives with both a 4 and a 5. Unfortunately, there are hardly any examples with attributive adjectives in his book. About the adjective *forte* 'strong' in [@fig:sicard1799_112] Sicard says:
+
+> l'adjectif lui-même que nous avions l'habitude de ne marquer d'aucun chiffre, fut, cette fois, marqué du chiffre 5. [@sicard1799: 111]
+>
+> ('The adjective itself, which we usually have left unmarked, has, this time, been marked with the number 5.')
+
+::: {.im #sicard1799_112}
+*Chiffres* to indicate syntactic functions from Sicard [-@sicard1799: 112]. Sicard  follows the logical analysis of subject-copula-predicate as the basic linguistic structure, using 1 to indicate the subject and the predicate, but 2 for the copula. A lexical verb is analysed as a merged copula+predicate and indicated by both 1 and 2 above the verb (here *a frappé* 'has hit'). The adjective *forte* gets the same number as the following noun. However, there are no examples of adjectives with subjects or objects, so it remains unclear how he intended this system to be used.
 :::
 
-### Menge (1873) *Repetitorium der lateinischen Syntax* {#sec:menge1873}
+In the discussion of relative clauses Sicard clearly shows that he understood that the subordinate clause should have its own grammatical structure, separated by vertical lines in [@fig:sicard1799_206]. The words in this relative clause have their own grammatical functions as indicated by the digits. Sicard uses this figure to explain the construction of a relative clause from a normal main clause with a nominal object (top), through a pronominal object construction (middle) to finally a relative pronoun with object function (bottom). Sicard also experiments with boxes around subordinate clauses, as shown in [@fig:sicard1799_213] [cf. @sicard1799: 213-216, 275], but he never develops this idea further.
 
-Hermann August Menge (1841-1939) was a teacher and is widely known as the translator of the infamous German *Menge-Bibel*. Based on his practical experience as a teacher he wrote textbooks for Latin and Greek. The Latin textbook was still in use far into the 20th Century, though in a slightly revised version [e.g. a 1955 edition is cited in @langholf1969: 10]. I will use here the sixth edition, which is the earliest edition I have been able to access [@menge1890]. The prefaces to the earlier editions do not mention any changes as far as the graphical analysis is concerned, so I assume that they were already present in the first edition of 1873.
-
-Menge [-@menge1890: 357-364] uses a graphical analysis of the *Periode* in the tradition of Lehmann (see [@sec:lehmann1833]). However, he uses a forward slash instead of a horizontal brace, just like Nägelsbach (see [@sec:nägelsbach1846]). In the preface to the first edition Menge cites the influence of many different grammars of Latin [@menge1890: v], but not Nägelsbach. However, Nägelsbach is mentioned in passing at various times throughout the book [e.g. @menge1890: v, 342]. So it seems very likely that the use of the forward slashes is inspired by Nägelsbach.
-
-::: {.im #menge1890_364}
-Analysis of *Periode* from Menge [-@menge1890: 364]. In this example he presents various ways in which a subordinate clause can be positionen in Latin, nicely summarising the syntactic possibilities by using the different abbreviations. Menge here uses the forward slash for clause-final subordination, like Nägelsbach (see [@fig:nägelsbach1846_286]).
+::: {.im #sicard1799_206}
+Procedure from Sicard [-@sicard1799: 206] to explain the formation of a relative clause from a main clause structure. He starts with a main clause with a noun object (top, between the vertical lines), then a pronominal object (middle) and finally a relative pronoun with object function (bottom). The relative clause has its own functional analysis, as indicated by the digits above the words.
 :::
 
-### Schulze (1883) *Adiumenta Latinitatis* {#sec:schulze1883}
-
-Ernst Hendrik Ferdinand Schulze (1842-1911) was a teacher and school director, first in St. Petersburg and later in Bad Homburg vor der Höhe. Biographical details are available in Schulze [-@schulze1901: 46-47].^[A good overview is also available on <https://de.wikipedia.org/wiki/Ernst_Schulze_(Historiker)>, accessed 7 January 2025.] He wrote an advanced Latin textbook *Adiumenta Latinitatis. Grundzüge des lateinischen Stils in Verbindung mit Übersetzungsstücken für die oberste Stufe des Gymnasiums* [@schulze1883].
-
-In this book he used very simple *Periodenbilder* for the analysis of Latin sentences [@schulze1883: 116-122]. He only uses the letters *A* for main clause, *a* for subordinate clause, and *α* for secondary subordinate clause. Specifcally, he used this graphical analysis to explain differences between German and Latin sentence structure.  The regular Latin word order would be *a α A*, as shown in [@next]. However, the Latin word order is quite flexible, and many different orders are possible. Schulze then gives the table shown in [@fig:schulze1883_121] with the orders that are possible in Latin, but not in German.
-
-::: ex
-a. [a]{.grey} *facias me certiorem* [α]{.grey} *quid istic agatur* [A]{.grey}* velim*.
-b.
-|
-| faci-as me certior-em quid istic ag-atur velim.
-| make-2SG 1SG.OBJ surer-ACC.SG what there do-PASS.3SG wish.1SG
-| I would like you to inform me what is going on there.
+::: {.im #sicard1799_213}
+There are various examples in which Sicard uses boxes to indicate subordinate clauses. This example is from Sicard [-@sicard1799: 213]. He does not develop this idea further.
 :::
 
-::: {.im #schulze1883_121}
-*Periodenbilder* from Schulze [-@schulze1883: 121] showing possible sentence orders in Latin that are impossible in German. He uses a very reduced system of symbols with *A* for main clause, *a* for subordinate clause, and *α* for secondary subordinate clause.
+### Gaultier (1819) *Leçons de grammaire en action* {#sec:gaultier1819}
+
+l’abbé Louis Gaultier (1746-1818)[ @gaultier1817] parsing tables, but without numbers https://fr.wikipedia.org/wiki/Louis_Gaultier
+
+[@gaultier1819] using colors and circles to teach word classes to small kids
+
+- https://www.google.de/books/edition/Exercices_sur_la_construction_logique_de/uiM316rUwZAC
+- https://www.google.de/books/edition/Phrases_gradue_es_extraites_de_Cice_ron/5Gf6lH8k7N8C see p. xix
+
+### Bébian (1827) *Manuel d'enseignement pratique des sourds-muets* {#sec:bebian1827}
+
+Auguste Bébian (1789-1839), born in Guadeloupe and godchild of Sicard, worked at *l'Institution Nationale des Sourds-Muets de Paris* until 1821. He was pushed out in 1821 after an altercation with the administrator Louis-Pierre Paulmier about class sizes [@bertin2015: 136-139], just a year before the death of Sicard. Bébian remained active in the education of the Deaf for the rest of his life. He devised a highly detailed method to transcribe sign language [@bebian1825], but it does not contain any information on its syntactic structure. A detailed discussion of Bébian's life and work is provided by Bertin [-@bertin2015].
+
+In 1827 Bébian publishes his two-volume *Manuel d'enseignement pratique des sourds-muets* [@bebian1827]. In the first volume he presents many different kind of exercises, including grammatical ones. He uses the same system of digits as Sicard (see [@sec:sicard1799]), as illustrated in [@fig:bebian1827_53]. Bébian does not give any clear explanations, but from the examples [@bebian1827: 52-53] it becomes clear that he simply uses the digit 2 for all verbs, not using the 1-2 combination that Sicard used. Bébian still uses the 4-5 combination for adverbs, and also for dative pronouns, which are considered to be a contraction of the preposition *à* with the pronoun [@bebian1827: 56]. 
+
+Bébian adds horizontal lines above groups of words that belong together, e.g. the words *un bouquet* make up a phrase, which is marked with a 3 for it being the object. The intention of the arches in his figures remains somewhat mysterious. They seem to suggest some kind of connection between the parts of a sentence, but these arches do not seem to have been applied rigurously. Adjectives are not marked separately, but considered simply to be a part of a phrase, e.g *un petit livre* is simply marked as one phrase with a line above the three words [@bebian1827: 56].
+
+::: {.im #bebian1827_53}
+Analysis *au moyen de chiffres* 'by means of numbers' from Bébian [-@bebian1827: 53]. The numbers are basically identical to the use of Sicard (see [@fig:sicard1799_112]), though Bébian does not use the combination 1-2 anymore for a full lexical verb, simply using the number 2. He adds superscript lines for phrases consisting of multiple elements. The intended meaning of the arches remains unclear.
 :::
 
-### Gloël (1895) *Schriftliche Übersetzung aus dem Griechischen* {#sec:gloël1895}
+The idea of using lines above the words to bind them together into a phrase leads Bébian to start using hierarchical structures [@bebian1827: 116-117], though only very simple ones. As shown in [@fig:bebian1827_116] he considers a complement clause *Paul est malade* 'Paul is sick' to be an object of the matrix clause *Jules m'a écrit* 'Jules wrote to me (that…)', as shown by the number 3, marking the object of the main clause. The subordinate clause has its own syntactic functions, as shown by the numbers under the horizontal line.
 
-Heinrich Gloël (1855-1940) was a teacher and literary scholar, first in Wesel and and later in Wetzlar. He started as a classical scholar, writing a disseration about the Greek play *Hippolytos* by Eurypides and teaching classical languages. Later in life he specialized in critical evaluations of texts of Goeths [more biographical information in @flender1983].
-
-In an article about the role of translation from Greek to German in secondary education, Gloël discussed various examples from classical Greek and the problems with their translation into German [@gloel1895]. The final example he discusses is an excerpt from Plato's *Crito* [@gloel1895: 67-76]. For two complex sentences with many subordinated clauses in this excerpt, Gloël uses *Satzbilder* to illustrate their syntactic structure. For example, the *Satzbild* in [@fig:gloël1895_75] is an analysis of the sentence in [@next a]. I have added the letters from Gloël's *Satzbild* into this example, something which Gloël assumes that the reader is able to do. The translation in [@next b] is by Harald Fowler.^[Plato in Twelve Volumes, Vol. 1 translated by Harold North Fowler; Introduction by W.R.M. Lamb. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1966. Available online at <https://www.perseus.tufts.edu/>.]
-
-::: ex
-- \(A) ἢ πρὸς μὲν ἄρα σοι τὸν πατέρα οὐκ ἐξ ἴσου ἦν τὸ δίκαιον καὶ πρὸς δεσπότην, (a) εἴ σοι ὢν ἐτύγχανεν, (b) ὥστε (β) ἅπερ πάσχοις ταῦτα (b) καὶ ἀντιποιεῖν, (1) οὔτε κακῶς ἀκούοντα ἀντιλέγειν (2) οὔτε τυπτόμενον ἀντιτύπτειν (3) οὔτε ἄλλα τοιαῦτα πολλά· (B) πρὸς δὲ τὴν πατρίδα ἄρα καὶ τοὺς νόμους ἐξέσται σοι, (c) ὥστε, (γ) ἐάν σε ἐπιχειρῶμεν ἡμεῖς ἀπολλύναι (~~P~~) δίκαιον ἡγούμενοι εἶναι, (c) καὶ σὺ δὲ ἡμᾶς τοὺς νόμους καὶ τὴν πατρίδα (δ) καθʼ ὅσον δύνασαι (c) ἐπιχειρήσεις ἀνταπολλύναι, (1) καὶ φήσεις ταῦτα ποιῶν (2) δίκαια πράττειν, (~~P~~) ὁ τῇ ἀληθείᾳ τῆς ἀρετῆς ἐπιμελόμενος; \
-  [@gloel1895: 67, citing Plato *Crito*. Clause-symbols are not given in the original, but inserted here to coincide with the *Satzbild* below]
-- \(A) There was no such equality of right between you and your father or your master, (a) if you had one, (b) so that (β) whatever treatment you received (b) you might return it, (1) answering them if you were reviled, (2) or striking back if you were struck, (3) and the like; (B) and do you think that it will be proper for you to act so toward your country and the laws, (c) so that (γ) if we undertake to destroy you, (~~P~~) thinking it is right, (c) you, to our laws and our country, (δ) so far as you are able, (c) will undertake in return to destroy them (1) and will say that in doing this (2) you are doing right, (~~P~~) you who really care for virtue?^[Translation by Harold North Fowler with a few very minor edits, available online at <https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg003.perseus-grc2:51/?right=perseus-eng2>.] 
+::: {.im #bebian1827_116}
+The lines above words that belong together results in a basic hierarchical structure [@bebian1827: 116]. The number 3 marks the object of the matrix clause, which itself has an internal structure with its own syntactic functions. Not all numbers and lines are explicitly written down, unfortunately.
 :::
 
-::: {.im #gloël1895_75}
-*Satzbild* for the sentence from Plato's *Crito* in [@last a] as analysed by Gloël [-@gloel1895: 75]. Capital letters are main clauses, lower-case Latin letters are subordinated clauses, greek letters are second-grade subordination. The letter "~~P~~" indicates a non-finite clause using a participles. Numbers indicate conjoined clauses to the previous letter-marked clause. The marker *B* for the second main clause should probably by placed on the same level as the main clause *A*. This appears to be a printing error.
+Bébian develops more and more ideas how to further analyse sentences graphically, but he never concludes it with a worked-out system for more complex examples. In [@fig:bebian1827_160] he uses the number 1 with a line below for the subject and the number 1 with a lines above for the predicate of a copula constructions (confusingly called *attribut* in the 18th Century French tradition). Each of these parts have their own internal structure below the horizontal line. A missed opportunity is that the embedded relative clause is not itself marked as a coherent structure. In general, there are no examples of a three-level hierarchical structure in Bébian's book.
+
+::: {.im #bebian1827_160}
+Further example of hierarchical sentence structure from Bébian [-@bebian1827: 160]. The underlined digit 1 stands for the subject, while the overlined digit 1 is the predicate of the copula construction, the copula being marked with a digit 2. Each of the parts of the sentence below the horizontal lines has its own syntactic structure, as indicated by the numbers.
 :::
 
-### Golling (1892) *Chrestomathie aus Livius*
+### Barnard (1836) *Analytic Grammar* {#sec:barnard1836}
 
-https://de.wikipedia.org/wiki/Josef_Golling
+Frederick Augustus Porter Barnard (1809-1889) Barnard had a hereditary form of deafness that intensified in his later years, as did his brother and most of his family.
 
-2nd edition [@golling1900], but first edition from 1892 is nowhere to be found. first edition also online! [@golling1892] 5th edition 1922. cites Nägelsbach and follows his abbreviations, e.g. vi-viii
+- American Asylum for the Deaf and Dumb at Hartford, Connecticut between 1831 and 1832
+- New York Institute for the Instruction of the Deaf and Dumb between 1832 and 1838.
 
-### Diemke (1940) *Die Entstehung des hypotaktischen Relativsatzes*
+https://en.wikipedia.org/wiki/Frederick_A._P._Barnard
+https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_11/May_1877/Sketch_of_President_Barnard
 
-[@diemke1940: 3-4] analysis of complex sentence from Thukydides using indentation. Probably also in his dissertation from 1934 https://google.com/books/id=BXT6vgEACAAJ. Example cited by Bühler 1934: 400
+> The method of illustrating the principles of syntax employed in the following treatise, is one which has been, for a number of years, advantageously used in the instruction of the deaf and dumb. […] The first notions of the writer regarding it, were obtained while he was engaged as an instructor in the American Asylum, at Hartford, in the years 1831 and 1832. The *method*, which it at present exhibits, has been, however, the result of a more recent labor, during the writer's residence, in a corresponding capacitiy, at the New York Institution for the Instruction of the Deaf and Dumb. [@barnard1836: iii]
+
+No trees, but “symbolic sentences” in which categories are marked. Some ideas of levels http://www.polysyllabic.com/?q=node/336 [@barnard1836: 244-246]. Developed at school for the deaf in Hartford! based on l’epee/sicard “. This development seems to be linked to deaf-education, see [@wing1887: 86]
+
+Mentions sicard and thanks Leon Vaysse from Paris, who was in New York 1830-1834 [@barnard1836: iii]
+
+Mentions system from Hartford, which was further developed later by Storrs and led to Porter and March
+
+### Vaïsse (1839) *Essai d'une grammaire symbolique*
+
+Léon Vaïsse (1807-1881) was teacher of the Deaf and later the thirteenth director at *l'Institut National de Jeunes Sourds de Paris* (1866-1872), following in the footsteps of Sicard ([@sec:sicard1799]) and Bébian ([@sec:bebian1827]). In 1875 he was the tenth president of the *Société de Linguistique de Paris*. He proposed a phonetic transcription of spoken language based on the articulatory properties of the sounds [@vaisse1838] and was active in promoting phonetic research in France. While president of the *Société de linguistique de Paris* Vaïsse presented his phonetic system to the society, as recorded in the *Bulletin* for the meeting on the 9th of January 1875: "Vaïsse fait une communication sur une nouvelle manière de représenter les voyelles et les consonnes" [@vaisse1875].^[Some more sources mentioning Vaïsse: Article by Robert Brain in
+<https://monoskop.org/File:Lenoir_Timothy_ed_Inscribing_Science_Scientific_Texts_and_the_Materiality_of_Communication.pdf>. Gallaudet quoting Vaïsse here: <https://www.jstor.org/stable/44391960>. see also his influence in the french phonetic development here: <https://books.openedition.org/enseditions/31210>.]
+
+In the years 1830-1834 Vaïsse visited the *New York Institution for the Instruction of the Deaf and Dumb* in the United States, where he met and cooperated with Barnard ([@sec:barnard1836]), who was already working on his symbolic system of grammar in the tradition of Sicard. Barnard explicitly acknowledges the input of Vaïsse in the introduction of this grammar [@barnard1836: iii]. Back in Paris, Vaïsse proposes his own system of symbolic grammar in the *Essai d'une grammaire symbolique* [@vaisse1839]. He acknowledges that the inspiration for his system came from Barnard:
+
+> C'est pendant un séjour que je fis aux Etats-Unis, de 1830 à 1834, comme professeur à l'école des sourds-muets de New-york, que l'idée me fut suggerée de compléter, en le ramenant à ses principes naturels, le système de l'abbé Sicard. Dans l'établissement de hartford au Conneticut on se servait déjà pour la decomposition du discours de quelques signes graphiques; mais, quoiqu' évidemment empruntés au système del' instituteur français, ces caractères n'avaient plus qu'une forme tout-à-fait arbitraire. […] Aidé du concours de Mr. Barnard, alors mon collegue et aujourd'hui membre de l'université del'Alabama, je composais un système de figures symbolique qui nous fut ensuite d'un grand secours dans notre enseignement. [@vaisse1839: 2]
+>
+> ('It was during a stay I made in the United States, from 1830 to 1834, as a professor at the New York school for the Deaf, that the idea was suggested to me of completing Abbé Sicard's system by returning it to its natural principles. At the Hartford school in Connecticut, some graphic signs were already being used to break down speech; but, although clearly borrowed from the French schoolteacher's system, these characters now had only a completely arbitrary form. […] With the help of Mr. Barnard, then my colleague and now a member of the University of Alabama, I composed a system of symbolic figures which later proved of great help to us in our teaching.')
+
+The symbolic system of Vaïsse is even more complex than the one of Barnard, and seems to be completely impractical in practice. He presents his symbols in a few pages [@vaisse1839: 4-8] and then adds almost 20 pages with examples, apparantly taken rather randomly to illustrate his system [@vaisse1839: 9-28]. A detailed example is shown in [@fig:vaisse1839_27]. This system seems to be completely impractical because of the many details. Also, there is no larger syntactic analysis beyond the structure and function of the individual words. For example, the relative clause in the example below is not specifically marked, other than that the  relative pronoun *qu'* has a dedicated symbol.
+
+::: {.im #vaisse1839_27}
+Symbolic analysis from Vaïsse [-@vaisse1839: 27]. The symbols describe the grammatical properties of the words quite precisely, but there does not appear to be much grammatical analysis. For example, subordinate clauses are not indicated as whole entities. 
+:::
+
+### Peet (1853) *Grammatical symbols*
+
+Harvey P. Peet started in New York Intstitute in 1831
+
+Author is Isaac Lewis Peet (son of Harvey) professor in NY from 1845 on.
+
+This paper gives a summary of symbols from Barnard:
+
+in: Third Convention of American Instructors of the Deaf and Dumb
+https://archive.org/details/sim_convention-of-american-instructors-of-the-deaf-report_august-10-12-1853
+
+p. 265-283
+
+Professor Vaysse of Paris has also elaborated and published a system of grammatical symbols, differing somewhat from those of Prof. Barnard. See Report on European Institutions, p. 112.
+
+> In consequence of that recommendation, the directors finally
+succeeded in engaging the permanent services of Mr. Harvey P. Peet, then
+one ofthe most experienced andefficient instructors in the American Asy-
+lum, who entered on his duties in February, 1831. He has continued to
+direct the institution with distinguished ability and success to the present
+time. About the same period, Mr. Leon Vaysse, from the Royal Institution
+at Paris, was employed as teacher, and brought with him all the important
+improvements made in that institution since the death of Sicard. Underthe
+impulse of this change, and from the uniform practice of employing only
+men of liberal education as teachers, the New York Institution has taken
+its place among the most successful schools of deaf-mute instruction in the
+world. (p.95) https://archive.org/details/tributetogallaud00barn The author is also called Barnard, but is not apparently related to Frederick Barnard https://en.wikipedia.org/wiki/Henry_Barnard
+
+### Porter (1868) *The instruction of the deaf and dumb in grammar*
+
+p. 136-148 https://archive.org/details/ANNUALREPORT-Gallaudet-1868/
+
+describes history of system, p. 143: original at hartford, extended by Storrs later (storrs is only at hartford starting in the 1850s)
+
+same in: American Annals of the Deaf, vol 14 (1869) p30-48 and 128 https://google.com/books?id=E69KAAAAYAAJ (page was missing from publication, therefor later added on p. 128)
+
+refers to Clark and Jewell
+
+### March (1869) *A parser and analyzer for beginners*
+
+Francis A. March, A Parser and Analyzer for Beginners, with Diagrams and Suggestive Pictures (1869). http://www.polysyllabic.com/?q=olddiagrams/clarkderiv
+thanks to: Richard Salter Storrs (deaf education in hartford, mentioned in preface of March 1869), see [@williams1885: 102]
+
+### Storrs (1880) *Methods of deaf-mute teaching*
+
+Richard Salter Storrs (1830-1884) bio: [@williams1885] Hartford 1853-1884. seems to have extended an earlier system in the 1850s-early 1860s. It is unclear what system was used before. Porter makes some comments
+
+[@storrs1880; @storrs1880a; @storrs1881]
+
+this quote suggests, Storrs has been using it since the 1850s:
+
+> an experience of nearly thirty years has so abundantly attested to me its great value in the hands of such teachers. [@storrs1880: 116]
+>
+> I claim no other originality for the device I am describing than that it was wholly and independently wrought out by me in my
+earliest experience as a deaf-mute teacher [@storrs1880: 117]
+
+### Wing (1885) *Function symbols*
+
+[@wing1885] further development of storrs/peet symbols for the deaf (which were also the basis for March 1869)
 
 ## Danish
 
@@ -372,7 +471,7 @@ Graphical analysis of the sentence [@last] from Rebbe [-@rebbe1935: 118]. The po
 
 ## Finnish
 
-### Setälä & Nieminen (1939) *Suomen kielen oppikirja*
+### Nieminen (1939) *Suomen kielen oppikirja*
 
 Eemil Nestor Setälä (1864-1935) was a well-known Finnish politician and author of the Finnish declaration of independence.^[I thank Fred Karlsson and Matti Miestamo for their assistance with the Finnisch language and linguistic tradition.] However, he was also a professor for Finnish language and literature at Helsinki University and among many other grammatical works he wrote a little booklet *Suomen kielen oppikirja* 'Finnisch language textbook'. The first edition appeared in 1898 and has been reprinted various time. The version from 1925, that I have consulted, does not have any graphical analyses [@setala1925].
 
@@ -392,6 +491,8 @@ Kaarlo Nieminen (1887-1955) was a Finnish language teacher and acting professor 
 ::: {.im #setälä1946_68}
 Dependency graph with arrows for the example sentence in [@last] from Setälä & Nieminen [-@setala1946: 68]. There is some similarity to the diagrom of Lindwall (cf. [@fig:lindwall1903_138]). The diagonal placement of the arrows is also faintly reminiscent of the USA-style diagramming, but the details of the positioning are completely different. This display might very well be an innovation by Nieminen.
 :::
+
+### Ojajärvi (1964) *Suomen kielen oppikirja*
 
 Aulis Onni Ojajärvi (1913-1968) was a dialectologist and language teacher.^[Some biographical information is available online at <http://www.norssit.fi/sivut/5_5_norssin_ojajarvi.php>, accessed 13 January 2025.] In 1964, after the death of Kaarlo Nieminen, he once again revised the *Suomen kielen oppikirja*. The version from 1970, that I have consulted, is rather different from earlier versions and contains completely different graphical analyses [@setala1970]. The structure from the examples sentence [@next] is illustrated in two different ways in [@fig:setälä1970_77]. The upper version is strongly reminiscent of the visualisation of Beckman (see [@sec:beckman1904]). The lower display is structurally identical, but the words are placed in their regular sentence order.
 
@@ -579,90 +680,6 @@ more?
 - http://www.lingviko.net/biblio.html#chap11
 - https://academic.oup.com/edited-volume/62210/chapter/550164521
 - https://en.wikipedia.org/wiki/An_Essay_Towards_a_Real_Character,_and_a_Philosophical_Language
-
-### Sicard (1799) *Cours d'instruction d'un sourd-muet* {#sec:sicard1799}
-
-Roch-Ambroise Cucurron Sicard (1742-1822) was director of *L'Institut National de Jeunes Sourds de Paris* and a highly influential educator for the Deaf. His father's surname was *Cucuron*, but Roch-Ambroise used it as a second first name, using his mother's surname *Sicard* as his surname. He wrote a two-volume *Grammaire générale* in which he introduced a superscript *chiffre* 'number' [@sicard1798a: 29] to indicate subject (with the digit 1) and verb (with the digit 2). However, he never uses these digits in the rest of his grammar. There are various examples of dotted lines in the grammar [e.g. @sicard1798b: 120, 125, 224, 328, 360-362, 369], but they are never used for the syntactic analysis of a specific sentence.
-
-In his next book, the *Cours d'instruction d'un sourd-muet* [@sicard1799: 63-71, 101, 111-112, 178, 332-336] he expands on his idea of using numbers for syntactic analysis and uses it frequently. Using modern terminology, Sicard uses the digits 1 to 5 for the following grammatical functions, which is illustrated in [@fig:sicard1799_112].
-
-- 1: subject and nominal/adjectival predicate
-- 2: copula
-- 1 2: lexical verb (~contraction of copula with nominal predicate)
-- 3: object
-- 4: preposition
-- 5: object of preposition
-- 4 5: adverb (~contraction of prepositional phrase)
-
-The usage of these digits reveals that Sicard still uses the old logical approach to language analysis, in which the basic structure consists of a subject, a copula and a (nominal/adjectival) predicate.^[Confusingly, the predicate of a logical construction is typically called *attribut* in the French literature of the time.] In the analysis of Sicard, both the subject and the predicate are marked with a 1, while the copula is marked with a 2. Lexical verbs are treated as a merged combination of the copula with the predicate, and they are consequently marked with both digits 1 and 2. Similarly, but not at all according to tradition, Sicard considers adverbs to be a contraction of a prepositional phrase. Prepositions are marked with a 4 and the object of prepositions with a 5. An adverb is consequently marked with both a 4 and a 5. Of course, prepositional phrases are frequently used adverbially, so this is not completely wrong. However, prepositional phrases can also be used attributively modifying a noun. In his logic, Sicard should then also have to mark adjectives with both a 4 and a 5. Unfortunately, there are hardly any examples with attributive adjectives in his book. About the adjective *forte* 'strong' in [@fig:sicard1799_112] Sicard says:
-
-> l'adjectif lui-même que nous avions l'habitude de ne marquer d'aucun chiffre, fut, cette fois, marqué du chiffre 5. [@sicard1799: 111]
->
-> ('The adjective itself, which we usually have left unmarked, has, this time, been marked with the number 5.')
-
-::: {.im #sicard1799_112}
-*Chiffres* to indicate syntactic functions from Sicard [-@sicard1799: 112]. Sicard  follows the logical analysis of subject-copula-predicate as the basic linguistic structure, using 1 to indicate the subject and the predicate, but 2 for the copula. A lexical verb is analysed as a merged copula+predicate and indicated by both 1 and 2 above the verb (here *a frappé* 'has hit'). The adjective *forte* gets the same number as the following noun. However, there are no examples of adjectives with subjects or objects, so it remains unclear how he intended this system to be used.
-:::
-
-In the discussion of relative clauses Sicard clearly shows that he understood that the subordinate clause should have its own grammatical structure, separated by vertical lines in [@fig:sicard1799_206]. The words in this relative clause have their own grammatical functions as indicated by the digits. Sicard uses this figure to explain the construction of a relative clause from a normal main clause with a nominal object (top), through a pronominal object construction (middle) to finally a relative pronoun with object function (bottom). Sicard also experiments with boxes around subordinate clauses, as shown in [@fig:sicard1799_213] [cf. @sicard1799: 213-216, 275], but he never develops this idea further.
-
-::: {.im #sicard1799_206}
-Procedure from Sicard [-@sicard1799: 206] to explain the formation of a relative clause from a main clause structure. He starts with a main clause with a noun object (top, between the vertical lines), then a pronominal object (middle) and finally a relative pronoun with object function (bottom). The relative clause has its own functional analysis, as indicated by the digits above the words.
-:::
-
-::: {.im #sicard1799_213}
-There are various examples in which Sicard uses boxes to indicate subordinate clauses. This example is from Sicard [-@sicard1799: 213]. He does not develop this idea further.
-:::
-
-### Gaultier (1819) *Leçons de grammaire en action* {#sec:gaultier1819}
-
-l’abbé Louis Gaultier (1746-1818)[ @gaultier1817] parsing tables, but without numbers https://fr.wikipedia.org/wiki/Louis_Gaultier
-
-[@gaultier1819] using colors and circles to teach word classes to small kids
-
-- https://www.google.de/books/edition/Exercices_sur_la_construction_logique_de/uiM316rUwZAC
-- https://www.google.de/books/edition/Phrases_gradue_es_extraites_de_Cice_ron/5Gf6lH8k7N8C see p. xix
-
-### Bébian (1827) *Manuel d'enseignement pratique des sourds-muets* {#sec:bebian1827}
-
-Auguste Bébian (1789-1839), born in Guadeloupe and godchild of Sicard, worked at *l'Institution Nationale des Sourds-Muets de Paris* until 1821. He was pushed out in 1821 after an altercation with the administrator Louis-Pierre Paulmier about class sizes [@bertin2015: 136-139], just a year before the death of Sicard. Bébian remained active in the education of the Deaf for the rest of his life. He devised a highly detailed method to transcribe sign language [@bebian1825], but it does not contain any information on its syntactic structure. A detailed discussion of Bébian's life and work is provided by Bertin [-@bertin2015].
-
-In 1827 Bébian publishes his two-volume *Manuel d'enseignement pratique des sourds-muets* [@bebian1827]. In the first volume he presents many different kind of exercises, including grammatical ones. He uses the same system of digits as Sicard (see [@sec:sicard1799]), as illustrated in [@fig:bebian1827_53]. Bébian does not give any clear explanations, but from the examples [@bebian1827: 52-53] it becomes clear that he simply uses the digit 2 for all verbs, not using the 1-2 combination that Sicard used. Bébian still uses the 4-5 combination for adverbs, and also for dative pronouns, which are considered to be a contraction of the preposition *à* with the pronoun [@bebian1827: 56]. 
-
-Bébian adds horizontal lines above groups of words that belong together, e.g. the words *un bouquet* make up a phrase, which is marked with a 3 for it being the object. The intention of the arches in his figures remains somewhat mysterious. They seem to suggest some kind of connection between the parts of a sentence, but these arches do not seem to have been applied rigurously. Adjectives are not marked separately, but considered simply to be a part of a phrase, e.g *un petit livre* is simply marked as one phrase with a line above the three words [@bebian1827: 56].
-
-::: {.im #bebian1827_53}
-Analysis *au moyen de chiffres* 'by means of numbers' from Bébian [-@bebian1827: 53]. The numbers are basically identical to the use of Sicard (see [@fig:sicard1799_112]), though Bébian does not use the combination 1-2 anymore for a full lexical verb, simply using the number 2. He adds superscript lines for phrases consisting of multiple elements. The intended meaning of the arches remains unclear.
-:::
-
-The idea of using lines above the words to bind them together into a phrase leads Bébian to start using hierarchical structures [@bebian1827: 116-117], though only very simple ones. As shown in [@fig:bebian1827_116] he considers a complement clause *Paul est malade* 'Paul is sick' to be an object of the matrix clause *Jules m'a écrit* 'Jules wrote to me (that…)', as shown by the number 3, marking the object of the main clause. The subordinate clause has its own syntactic functions, as shown by the numbers under the horizontal line.
-
-::: {.im #bebian1827_116}
-The lines above words that belong together results in a basic hierarchical structure [@bebian1827: 116]. The number 3 marks the object of the matrix clause, which itself has an internal structure with its own syntactic functions. Not all numbers and lines are explicitly written down, unfortunately.
-:::
-
-Bébian develops more and more ideas how to further analyse sentences graphically, but he never concludes it with a worked-out system for more complex examples. In [@fig:bebian1827_160] he uses the number 1 with a line below for the subject and the number 1 with a lines above for the predicate of a copula constructions (confusingly called *attribut* in the 18th Century French tradition). Each of these parts have their own internal structure below the horizontal line. A missed opportunity is that the embedded relative clause is not itself marked as a coherent structure. In general, there are no examples of a three-level hierarchical structure in Bébian's book.
-
-::: {.im #bebian1827_160}
-Further example of hierarchical sentence structure from Bébian [-@bebian1827: 160]. The underlined digit 1 stands for the subject, while the overlined digit 1 is the predicate of the copula construction, the copula being marked with a digit 2. Each of the parts of the sentence below the horizontal lines has its own syntactic structure, as indicated by the numbers.
-:::
-
-### Vaïsse (1839) *Essai d'une grammaire symbolique*
-
-Léon Vaïsse (1807-1881) was teacher of the Deaf and later the thirteenth director at *l'Institut National de Jeunes Sourds de Paris* (1866-1872), following in the footsteps of Sicard ([@sec:sicard1799]) and Bébian ([@sec:bebian1827]). In 1875 he was the tenth president of the *Société de Linguistique de Paris*. He proposed a phonetic transcription of spoken language based on the articulatory properties of the sounds [@vaisse1838] and was active in promoting phonetic research in France. While president of the *Société de linguistique de Paris* Vaïsse presented his phonetic system to the society, as recorded in the *Bulletin* for the meeting on the 9th of January 1875: "Vaïsse fait une communication sur une nouvelle manière de représenter les voyelles et les consonnes" [@vaisse1875].^[Some more sources mentioning Vaïsse: Article by Robert Brain in
-<https://monoskop.org/File:Lenoir_Timothy_ed_Inscribing_Science_Scientific_Texts_and_the_Materiality_of_Communication.pdf>. Gallaudet quoting Vaïsse here: <https://www.jstor.org/stable/44391960>. see also his influence in the french phonetic development here: <https://books.openedition.org/enseditions/31210>.]
-
-In the years 1830-1834 Vaïsse visited the *New York Institution for the Instruction of the Deaf and Dumb* in the United States, where he met and cooperated with Barnard ([@sec:barnard1836]), who was already working on his symbolic system of grammar in the tradition of Sicard. Barnard explicitly acknowledges the input of Vaïsse in the introduction of this grammar [@barnard1836: iii]. Back in Paris, Vaïsse proposes his own system of symbolic grammar in the *Essai d'une grammaire symbolique* [@vaisse1839]. He acknowledges that the inspiration for his system came from Barnard:
-
-> C'est pendant un séjour que je fis aux Etats-Unis, de 1830 à 1834, comme professeur à l'école des sourds-muets de New-york, que l'idée me fut suggerée de compléter, en le ramenant à ses principes naturels, le système de l'abbé Sicard. Dans l'établissement de hartford au Conneticut on se servait déjà pour la decomposition du discours de quelques signes graphiques; mais, quoiqu' évidemment empruntés au système del' instituteur français, ces caractères n'avaient plus qu'une forme tout-à-fait arbitraire. […] Aidé du concours de Mr. Barnard, alors mon collegue et aujourd'hui membre de l'université del'Alabama, je composais un système de figures symbolique qui nous fut ensuite d'un grand secours dans notre enseignement. [@vaisse1839: 2]
->
-> ('It was during a stay I made in the United States, from 1830 to 1834, as a professor at the New York school for the Deaf, that the idea was suggested to me of completing Abbé Sicard's system by returning it to its natural principles. At the Hartford school in Connecticut, some graphic signs were already being used to break down speech; but, although clearly borrowed from the French schoolteacher's system, these characters now had only a completely arbitrary form. […] With the help of Mr. Barnard, then my colleague and now a member of the University of Alabama, I composed a system of symbolic figures which later proved of great help to us in our teaching.')
-
-The symbolic system of Vaïsse is even more complex than the one of Barnard, and seems to be completely impractical in practice. He presents his symbols in a few pages [@vaisse1839: 4-8] and then adds almost 20 pages with examples, apparantly taken rather randomly to illustrate his system [@vaisse1839: 9-28]. A detailed example is shown in [@fig:vaisse1839_27]. This system seems to be completely impractical because of the many details. Also, there is no larger syntactic analysis beyond the structure and function of the individual words. For example, the relative clause in the example below is not specifically marked, other than that the  relative pronoun *qu'* has a dedicated symbol.
-
-::: {.im #vaisse1839_27}
-Symbolic analysis from Vaïsse [-@vaisse1839: 27]. The symbols describe the grammatical properties of the words quite precisely, but there does not appear to be much grammatical analysis. For example, subordinate clauses are not indicated as whole entities. 
-:::
 
 ### Lanusse & Yvon (1923) *Cours complet de grammaire française* {#sec:lanusse1923}
 
@@ -1964,10 +1981,6 @@ Admoni: Partiturnoje strojenije recevoj cepi i sistema grammaticeskich znacenij 
 
 see also 4th edition 1982, p. 311-317 https://archive.org/details/derdeutschesprac0000admo
 
-## Lithuanian
-
-https://journals.lki.lt/bendrinekalba/article/view/2210
-
 ## Chinese
 
 ### Li Jinxi (1924) *New grammar of the national language* {#sec:jinxi1924}
@@ -2010,7 +2023,15 @@ Amedeo Cracco O.F.M. (1903-1970)
 
 *diagrammi dell'analisi logica* = Jinxi-style 圖解法 tújiě fǎ [@amedeo1951: 202-203, 243-245], disccussion in <https://doi.org/10.13135/1825-263X/11595>
 
-## Japanese
+## Other
+
+Probably not graphical grammar
+
+### Lithuanian
+
+https://journals.lki.lt/bendrinekalba/article/view/2210
+
+### Japanese
 
 Hori Hidenari (1819-87) 弖爾乎波略図義解 'A simple illustrated explanation of Telhoba' (1858) https://dl.ndl.go.jp/pid/13387055
 
