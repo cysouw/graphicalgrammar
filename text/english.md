@@ -576,11 +576,19 @@ Samuel Stillman Greene (1810-1883) Only 1874 system of abstract notation is real
 Teacher in Boston 1842-1849
 
 1848: PRINCIPAL OF THE PHILLIPS GRAMMAR SCHOOL, BOSTON
-1851: Professor of didactics at Brown, and superintendent of public schools in Providence
+1851: Professor of didactics at Brown, later "promoted" to Professor of mathematics (1855) and even astronomy (1864), and superintendent of public schools in Providence
+
+> Greene's "Analysis" of 1847 was the culmination of various influences breaking away from the older conceptions and the forerunner of numerous other textbooks of the next 25 years. [@lyman1922: 7]
+
+> Green’s Analysis deserves especial mention because it inaugurated a new movement. Glancing through his book one finds him clinging to the old method of pars¬ ing, but bringing it into connection with and laying emphasis upon sentence analysis accompanied by con¬ stant practice in sentence building.
+
+(he wrongly uses "green" instead of "greene") https://archive.org/details/dli.csl.6470/page/n21/mode/2up?q=green
 
 original version: [@greene1846]
 
 act of congress notice from 1846, preface signed 1847, identical editions from 1848 [@greene1848] and 1849 [@greene1849]. additional lessons and exercises in [@greene1848a]
+
+Greene cites only works in English translation, prominentnly Kühner. Kühner is part of Gelehrtenverein and cites Herling and Becker (e.g. 1835 https://books.google.de/books?id=5K1DAAAAIAAJ). However, no graphical grammar.
 
 graphics "formula for a sentence" [@greene1848: 67, 70, 82, 111, 120, 167, 184] 
 
@@ -614,6 +622,8 @@ Later further development, especiaaly 1874 system is very "algebraic":
 - [@greene1874: 23-24] summarise structure with "significant symbols" S, P, a, o, v [@greene1874: 285-293] many examples of analysis of complete paragraphs
 
 in 1874 Greene thanks Buckham!
+
+> […] especially indebted to Professor H. B. Buckham, of the Buffalo State Normal School, for the preparation of the selections and for important suggestions in regard to the symbols by which the sentence is represented. [@greene1874: 4]
 
 ::: ex
 - Wit is a shining quality that everybody admires; most people aim at it, all people fear it, and few love
@@ -691,8 +701,29 @@ Also USA, but only using tables [@morris1877: 100-111]
 
 ### Buckham (1881) *The analysis of sentences*
 
-summary of system on p. 133-134, 228-229
-Cites Gibbs (p133) for the system of notation. Greene is mentioned in a footnote on a completely different topic p. 102 [@buckham1881]
+Henry Barmby Buckham (1827-1914) began his professional life as a schoolteacher in Connecticut, before becoming one of the founding faculty of Vassar College, where he taught during its inaugural year (1865-1866). He left the institution after a single year, due to dissatisfaction with its administration and with the prior knowledge of its students. In 1872 he was appointed as the first principal of the newly established Normal School in Buffaly, New York, a position he held until 1887. Afterwards Buckham relocated to the West Coast and eventually retired in Santa Barbara, California.^[Some basic biographical information is available at <https://vcencyclopedia.vassar.edu/faculty/original-faculty/henry-buckham/>, accessed 15 July 2026.]
+
+In 1881 Buckham publishes a book about the analysis of sentences [@buckham1881], based on the proposals of Gibbs (see [@sec:gibbs1857]):
+
+> The following way of reducing compound and complex sentences to their first elements of propositions and modifiers is suggested as an aid to the analysis of sentences just as they stand in books, and as a convenient form for class work. It is adapted from a little tract given to the author many years ago by the late Professor Gibbs, of the Yale Divinity School, and believed to have been first published in the *Massachusetts Teacher*. Each teacher is likely
+to have his own way of writing sentences on the blackboard; the form is not essential, provided it represents to the eye what the teacher desires to have represented. It is given for the assistance of those who have no better way of their own. It is, as it is meant to be, only a notation. [@buckham1881: 133-134]
+
+Buckham combines both approaches from Gibbs. First, single clauses are analysed using a Becker-style numbered table [@buckham1881: 60-61, Lesson XII]. For complex sentences consisting of multiple clauses he additionally uses Gibb's notation with a few additions [@buckham1881: 132-141, and various places later throughout the book].
+
+::: ex
+- His cohorts were cleaming in purple and gold.
+- [A]{.grey} The daughter of the miller, [(a^1^)]{.grey} who was a very poor man, [A]{.grey} went timidly to the king, [> b^2^]{.grey} as he sat in state, [+]{.grey} and [c^2^ <]{.grey} while she stood before him in not a little fear [B]{.grey} a great shout arose from the people [> d^1^]{.grey} who [P]{.grey} had assembled to see the games [+]{.grey} and [P]{.grey} were becoming impatient at the long delay.
+:::
+
+::: {.im #buckham1881_60}
+"Convenient way of writing a lesson on the board in class" for the sentence [@last a] from Buckham [@buckham1881: 60-61].
+:::
+
+::: {.im #buckham1881_140}
+Buckham [@buckham1881: 139-141] proposes an model for the analysis of a complex sentence like [@last b], consisting of 6 steps. Step 1 is a formula for the relation between the clauses, based on Gibbs' proposals. Step 4 is a structural analysis of each clause, similar to the method of Greene. Step 5 is an analysis of a single clause (only the first clause is shown here) after the approach of Becker.
+:::
+
+Greene is mentioned in a footnote on a completely different topic p. 102 [@buckham1881]
 
 ### Foerster & Steadman (1919) *Sentences and thinking* {#sec:foerster1919}
 
