@@ -11,27 +11,7 @@ https://google.com/books?id=PI4VAQAAMAAJ
 
 black board proposed in school class in 1832: 22 https://www.loc.gov/item/e14001332/
 
-Andrew & Stoddard (1836) *A grammar of the Latin language*
-
-no graphics, but very concise description of dependency structure
-
-> In analyzing a proposition, it is first to be divided into its logical subject and predicate. \
-> If the logical subject consists of more than one word, its grammatical subject should be pointed out, and distinguished as simple or compound. \
-> When the grammatical subject is determined, the words which modify or limit it should next be specified, and then the words which modify them, and so on, until the logical subject is exhausted. \
-> In analyzing the logical predicate, the grammatical predicate should first be mentioned, then the words which modify or limit it, and their modifiers, until the logical predicate is exhausted. [@andrews1836: 254-255
-
-::: ex
-Mithridātes, duārum et viginti gentium rex, totǐdem linguis jura dixit
-:::
-
-> The logical subject is *Mithridātes duārum et viginti gentium rex*. \
-> The logical predicate is *totǐdem linguis jura dixit*. \
-> The grammatical subject is *Mithridātes*: this is modified by rex. Rex
-is limited by *gentium*, which is itself limited by *duārum* and *viginti*.
-*Et* connects *duārum* and *viginti*. \
-> The grammatical predicate is *dixit*, which is limited by *jura* and *linguis*, and the latter by *totǐdem*. [@andrews1836: 255-256]
-
-Similar: "syntactic parsing" in Bullions (1849:197) https://www.loc.gov/item/06019122 or (1846: 125) https://www.loc.gov/item/tmp96027743/
+Similar: "syntactic parsing" in Bullions (1849:197) https://www.loc.gov/item/06019122 or (1846: 125) https://www.loc.gov/item/tmp96027743/ or (1845: 131ff.) https://www.loc.gov/item/40023554/
 
 ## German-style syntax in Great Brittain
 
@@ -454,10 +434,27 @@ complex sentence like Morell, p40-46
 
 ### De Mornay (1873) *A grammar of the English language*
 
-Australia!
+A.A. de Mornay from Australia! Book published in Melbourne, preface signed in Williamstown, a suburb of Melbourne
+
+became acquianted with Becker in 1844, cites Morell
 
 three schemes from Morell, though critical in introduction
 https://google.com/books?id=6ZyJHtGEad4C page 102-103, 113-123
+
+### Morris (1875) *English grammar*
+
+Richard Morris (1833-1894) 
+
+- https://en.wikipedia.org/wiki/Richard_Morris_(philologist)
+- https://en.wikisource.org/wiki/Dictionary_of_National_Biography%2C_1901_supplement/Morris%2C_Richard_%281833-1894%29
+- 
+[@morris1875] published in toronto!
+
+https://books.google.com/?id=ymUVAQAAMAAJ published in london!
+
+using tables like Morell [@morris1877: 100-111]
+
+https://www.canadiana.ca/view/oocihm.61212/134 1881: simple letter-based analysis like Becker
 
 ### Fitch (1881) *Lectures on teaching* {#sec:fitch1881}
 
@@ -578,17 +575,42 @@ Teacher in Boston 1842-1849
 1848: PRINCIPAL OF THE PHILLIPS GRAMMAR SCHOOL, BOSTON
 1851: Professor of didactics at Brown, later "promoted" to Professor of mathematics (1855) and even astronomy (1864), and superintendent of public schools in Providence
 
+
+> The introduction, some thirty years ago, of the method of Sentential Analysis, devised by the German philologist Becker, and adapted to American school use in the meritorious works of Professor Greene and others, marks the only considerable innovation, in this country, on the Murray system. [@swinton1872: iii-iv, probably misattributing Greene with the introduction of Becker's approach]
+
+> Green’s Analysis deserves especial mention because it inaugurated a new movement. Glancing through his book one finds him clinging to the old method of parsing, but bringing it into connection with and laying emphasis upon sentence analysis accompanied by constant practice in sentence building. [@barbour1901: 18, erroneously calling the author "Green" instead of "Greene"]
+
 > Greene's "Analysis" of 1847 was the culmination of various influences breaking away from the older conceptions and the forerunner of numerous other textbooks of the next 25 years. [@lyman1922: 7]
 
-> Green’s Analysis deserves especial mention because it inaugurated a new movement. Glancing through his book one finds him clinging to the old method of pars¬ ing, but bringing it into connection with and laying emphasis upon sentence analysis accompanied by con¬ stant practice in sentence building.
 
-(he wrongly uses "green" instead of "greene") https://archive.org/details/dli.csl.6470/page/n21/mode/2up?q=green
 
 original version: [@greene1846]
 
 act of congress notice from 1846, preface signed 1847, identical editions from 1848 [@greene1848] and 1849 [@greene1849]. additional lessons and exercises in [@greene1848a]
 
 Greene cites only works in English translation, prominentnly Kühner. Kühner is part of Gelehrtenverein and cites Herling and Becker (e.g. 1835 https://books.google.de/books?id=5K1DAAAAIAAJ). However, no graphical grammar.
+
+he cites: Andrew & Stoddard (1836) *A grammar of the Latin language*
+
+no graphics, but very concise description of dependency structure "syntactic analysis"
+
+> In analyzing a proposition, it is first to be divided into its logical subject and predicate. \
+> If the logical subject consists of more than one word, its grammatical subject should be pointed out, and distinguished as simple or compound. \
+> When the grammatical subject is determined, the words which modify or limit it should next be specified, and then the words which modify them, and so on, until the logical subject is exhausted. \
+> In analyzing the logical predicate, the grammatical predicate should first be mentioned, then the words which modify or limit it, and their modifiers, until the logical predicate is exhausted. [@andrews1836: 254-255
+
+::: ex
+Mithridātes, duārum et viginti gentium rex, totǐdem linguis jura dixit
+:::
+
+> The logical subject is *Mithridātes duārum et viginti gentium rex*. \
+> The logical predicate is *totǐdem linguis jura dixit*. \
+> The grammatical subject is *Mithridātes*: this is modified by rex. Rex
+is limited by *gentium*, which is itself limited by *duārum* and *viginti*.
+*Et* connects *duārum* and *viginti*. \
+> The grammatical predicate is *dixit*, which is limited by *jura* and *linguis*, and the latter by *totǐdem*. [@andrews1836: 255-256]
+
+
 
 graphics "formula for a sentence" [@greene1848: 67, 70, 82, 111, 120, 167, 184] 
 
@@ -648,6 +670,7 @@ He concluded by declaring his willingness to take measures for settling in the c
 
 more books, no graphics:
 
+- First lessons in language [@greene1848b]
 - The elements of English grammar [@greene1856]
 - An introduction to the study of English grammar [@greene1868]
 
@@ -698,10 +721,6 @@ He writes many versions of grammars and textbooks, but never uses diagramming. H
 
 https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Swinton%2C%20William%2C%201833%2D1892
 
-### Morris (1877) *English grammar*
-
-Also USA, but only using tables [@morris1877: 100-111]
-
 ### Buckham (1881) *The analysis of sentences*
 
 Henry Barmby Buckham (1827-1914) began his professional life as a schoolteacher in Connecticut before becoming a member of the founding faculty of Vassar College, where he taught during its inaugural year (1865-1866). He left the institution after a single year due to his dissatisfaction with its administration and the limited prior knowledge of its students. In 1872 he was appointed as the first principal of the newly established Normal School in Buffaly, New York, a position he held until 1887. Afterwards Buckham relocated to the West Coast and eventually retired in Santa Barbara, California.^[Some basic biographical information is available at <https://vcencyclopedia.vassar.edu/faculty/original-faculty/henry-buckham/>, accessed 15 July 2026.]
@@ -732,50 +751,6 @@ Buckham [-@buckham1881: 139-141] proposes a model for the analysis of a complex 
 Although Buckham's book is only published in 1881, he very likely used this approach already for many years. Greene [-@greene1874] mentions Buckham as an inspiration for his new system of analysis:
 
 > [I am] especially indebted to Professor H. B. Buckham, of the Buffalo State Normal School, for the preparation of the selections and for important suggestions in regard to the symbols by which the sentence is represented. [@greene1874: 4]
-
-### Foerster & Steadman (1919) *Sentences and thinking* {#sec:foerster1919}
-
-Norman Foerster (1887–1972) taught English at various universities (Wisconsin, North Carolina, Iowa and Duke). In contrast, John M. Steadman (1889-1945) taught at Emory University for his whole career.^[Some minimal biographical information about Foerster is available at <https://aspace.lib.uiowa.edu/agents/people/557>. Likewise minimal is the information that I have been able to find about Steadman, being a short obituary from the New York Times, available at <https://www.nytimes.com/1945/12/22/archives/dr-jm-steadman-educator-author-professor-emeritus-of-english-at.html>, both accessed 7 May 2026.] Together they wrote the book *Sentences and thinking* [@foerster1919], which is predominantly a guide to creative writing, but also contains a small part about grammatical structure. There appears to be no direct link to Sheffield's *Grammar and thinking* (see [@sec:sheffield1912]), neither through explicit references nor through their personal histories. The similarity in titles suggests there may have been some influence from Sheffield's book. Foerster and Steadman's book appears to have been reasonably successful, revised thoroughly in 1923 and again in 1931. The last revision was retitled *Writing and thinking*. The grammatical section remained unchanged across these revisions.
-
-In the short grammatical section, Foerster & Steadman [-@foerster1919: 29-30] use the tree-metaphor to explain different kinds of sentence structure, as shown in [@fig:foerster1919_29]. They focus solely on the relationship of main and subordinate clauses (like in the German tradition of the *Periodenbild*), ignoring the internal structure of the individual clauses.
-
-::: {.im #foerster1919_29}
-Illustrations of different kinds of sentence structure from Foerster & Steadman [-@foerster1919: 29]. These illustrations are purely theoretical. These trees do not represent the structure of any concrete example sentences.
-:::
-
-As an illustration of these different kinds of sentence structure they discuss an example sentence, shown here in [@next]. They present two versions of this sentence, the first one being a basic enumeration [@next a], while the second has a more intricate grammatical structure with different kinds of subordination [@next b]. They explain their preference for the second version by expanding on the tree-metaphor:
-
-> We do not want piles of dead logs, but living trees. Our sentences should not be built mechanically; they should grow, as organisms grow. A sentence may contain […] many constituent thoughts, but of these thoughts perhaps one will stand out as the main thought (the trunk), which divides into several subordinate thoughts (large branches), which again divide into subordinate thoughts (small branches), etc. [@foerster1919: 29]
-
-::: ex
-- It stood there looking at a bright pebble, and it didn't move at all, and it seemed doomed, and we were filled with horror, and some of us turned pale as death, but suddenly we saw a man in a dark doorway, and he had doubtless been there right along, but we hadn't noticed him before, and he came out like a flash, and he blocked the way, and it was Martin. 
-- Standing there looking at a pebble, quite motionless, and apparently doomed, the child filled us with such horror that some of us turned pale as death; but suddenly we saw a man in a dark doorway, whom we hadn't noticed before (though he had doubtless been there right along) and who, coming out like a flash, blocked the way – it was Martin!
-:::
-
-For the analysis, Foerster & Steadman notice that the sentence consists of three main statements and eight subsidiary ones, as listed below. Actually, the statement (1a) below clearly consists of two statements (i.e. *standing there* and *looking at a pebble*), which are unexplicably not separated. They propose a graphical analysis of the structure of their preferred version [@last b], as shown in [@fig:foerster1919_30], which corresponds to a "highly developed compound sentence" from [@fig:foerster1919_29]. Unfortunately, this illustration only approximately represents the subordinate grammatical structure of the sentence. Neither the order of clauses, nor their relative subordination is represented in the diagram.
-
-1. The child filled us with horror.
-    a. Standing there looking at a pebble.
-    b. Quite motionless.
-    c. Apparently doomed.
-    d. Such that some of us turned pale as death.
-2. Suddenly we saw a man in a dark doorway.
-    a. Whom we hadn't noticed before.
-    b. Though he had doubtless been there right along.
-    c. Coming out like a flash.
-    d. Who blocked the way.
-3. It was Martin.
-
-::: {.im #foerster1919_30}
-Tree diagram of [@last b] from Foerster & Steadman [-@foerster1919: 30]. The representation of the syntactical structure is rather coarse and uninformative. It is unclear why they did not more accurately depict the structure of the sentence. For example, the clause 3 could have easily be moved to the right side and the subordinate branches could be added to the left or right depending on their relative order to the main clause. More interesting even would have been if secondary subordinations, like (2b), would have been depicted as secondary branches.
-:::
-
-The example is quote verbatim in –of all places– a Chinese grammar by Li Jinxi [-@jinxi1924: 361], see [@sec:jinxi1924]. Although the example is analysed exactly as it is described by Foerster & Steadman, the picture is completely redone by Li Jinxi and now more accurately reflects the grammatical structure, as shown in [@fig:jinxi1924_361]. The subordinate clause (1a) is still treated as a single clause, but the order and the relative subordination of the clauses is now faithfully represented by the illustration.
-
-::: {.im #jinxi1924_361}
-Same tree analysis as in the previous [@fig:foerster1919_30] from a Chinese grammar by Jinxi [-@jinxi1924: 361]. The complete example from Foerster & Steadman is quoted verbatim in this grammar over multiple pages, but the picture is completely overhauled and much improved. The ordering of the main clauses (indicated by numbers) now correctly reflects the original sentence, and multiple subordination is correctly analysed. Even the linking between the three main branches appears to be reflected in small graphical flourishes. The Chinese caption reads: '(Figure 7) illustrates the structure of the complex sentence mentioned above' This is exactly the caption from the original.
-:::
-
 
 ## Proto-Diagramming
 
@@ -1126,6 +1101,43 @@ Hall includes an extensive discussion of *monology* [@hall1849: 297-305], direct
 *Monology* from Hall [-@hall1849: 297], adapting the analysis from Brown ([@sec:brown1826]). Identical numbers indicate which words belong to the same *mono* (=constituent), which are sometimes also indicated by brackets. Just like Brown, Hall never uses hierarchical bracketing. Different from Brown, Hall does not distinguish between square and round brackets.
 :::
 
+### Cruttenden (1859) *The philosophy of sentential language*
+
+David Henry Cruttenden (1816-1874) was a teacher in New York State. In 1841 he was at the Mechanics Institute in New York City and later he moved to upstate New York. In 1861-1864 he is in Binghamton and in 1871 at the Normal School in Oswego.^[These biographical details have been extracted from various online sources, all accessed 16 July 2026, namely: page 167 of Volume 2 of the 1909 edition of *Herringshaw's national library of American biography* <https://archive.org/details/cu31924088421601>, page 240 of the 1872 *Annals of Binghamton* <https://archive.org/details/annalsofbinghamt01wilk> and autobiographical notes by Woodbridge N. Ferris <https://www.ferris.edu/news/founder/woodbridge/16Owego.htm>.] He published two long books on language and grammatical structure, first *The philosophy of sentential language* [@cruttenden1859] and in the following year *A rhetorical grammar of the English language* [@cruttenden1860], which he classifies as an introduction to the earlier book. In subsequent years he revised these books in various forms and with slightly changing titles, but not much new seems to have been added.^[Various version are available online at <https://www.loc.gov/item/10028727> (1869), <https://books.google.com/?vid=Harvard:HN23IR> (1870), <https://books.google.com/?id=qQASAAAAIAAJ> (1870), <https://www.loc.gov/item/10033615> (1872).] There are no indications of any sources for the grammatical analysis in these books. Cruttenden's approach to grammatical analysis is also discussed by Brittain [-@brittain1973: 31-36].
+
+Cruttenden distinguished "three principal or essential parts" of the sentence, roughly what today linguists would call agent, predicate and patient. He represent them with the letters X, Y, and Z, respectively. Later he also sometimes uses the letter F(irst), S(econd) and T(hird). He does not distinguish any further syntactical function of the sentence.
+
+> The First Part is that, which produces, causes, or does something, or maintains some State of Existence. This  is called The Producer, Cause, Doer, Maintainer, &c. For convenience let it be represented by the abstract character X. […] The Second Part is the Act, or State of Existence. For convenience let it be represented by Y. […] The Third Part receives the Act, and hence, it is called the Receiver. For convenience let it be represented by Z. [@cruttenden1859: 79-80]
+
+In his syntactic notation, Cruttenden in much detail discusses the possibility that one of the three parts can have its own clausal structure, again having possibly three principal parts X, Y, and Z. When such a subordination occurs, he writes them under the letter of the matrix clause, separated by a horizontal line. Almost all examples of such clausal subordination as discussed by Cruttenden only have a single level of subordination. I found a single example in which he shows how more complex examples would be analysed, as shown in [@fig:cruttenden1860_194] for the example in [@next]. Note that there is a typesetting error in the graphic, as the middle part of the main clause in marked as "X" in the figure. From the text it is clear that this is intended to be a "Y". The plus-symbols represent connectives: the first (in brackets) for the implicit connector before a relative pronoun, the second for the conjunction *but*. 
+
+::: ex
+Mr. Webster once replied to a gentleman, who pressed him to speak on a subject of a great importance; "The subject interests me deeply, but I have not time."
+:::
+
+::: {.im #cruttenden1860_194}
+*Formula* for the sentence [@last] from Cruttenden [-@cruttenden1860: 194]. There is a typesetting error, because in the middle part, the "X" on top of the line should be a "Y" (as is clear from the accompanying text). The small "z" in some unclear way indicates the non-finite subordination of *to speak on a subject*. It would have been more sensible to make the predicate a lower case letter, e.g. "y Z" instead of "Y z".
+:::
+
+The analysis proposed by the formula can be represented as follows. I have corrected the erroneous "X" in the middle and omitted the phrase *of great importance* in this overview. Adverbs like *once* and *deeply* are unanalysed parts of their predicates. Also the addressee *to a gentleman* is not further analysed and simply combined with its predicate *replied*.
+
+- **X**: *Mr. Webster*
+- **Y**: *once replied to a gentleman, who pressed him to speak on a subject*
+  - **Y**: *once replied to a gentleman* 
+  - **X**: *who*
+  - **Y**: *pressed*
+  - **Z**: *him to speak on the subject*
+    - **X**: *him*
+    - **Y z**: *to speak on the subject*
+- **Z**: *The subject interests me deeply, but I have not time*
+  - **X**: *the subject*
+  - **Y**: *interests deeply*
+  - **Z**: *me*
+  - **+**: *but*
+  - **X**: *I*
+  - **Y**: *have not*
+  - **Z**: *time*
+
 ## Diagramming
 
 Check Nietz (1961) https://digital.library.pitt.edu/islandora/object/pitt%3A00aep6688m/viewer
@@ -1154,9 +1166,9 @@ Check John A. Nietz: Old textbooks: Spelling, grammar, reading, arithmetic, geog
 
 Philip Gengembre, later around 1890 renamed himself Hubert (1830-1911). Nothing can be found about J. (John?) H. Brown. biography Gengembre in [@price1914]
 
-https://en.wikipedia.org/wiki/Philip_Gengembre_Hubert
+Born in Paris, 1853 Girard College in Philadelphia teaching French and history, 1859 Boston teacher of French, apparently even asked for Professor at Harvard, which he declined. 1865 New York starting as an architect.
 
-https://www.loc.gov/item/10033746
+https://en.wikipedia.org/wiki/Philip_Gengembre_Hubert
 
 > The characters employed in parsing occupy but little space, and can be used on the black board with great advantage and convenience. [@gengembre1855: vi]
 
@@ -1223,10 +1235,11 @@ Other books:
 
 ### Parker (1865) *A grammar of the English language*
 
-William Henry Parker (1845-1929), original not yet found [cited in @brittain1973: 53]
+William Henry Parker (1845-1929), Principal of Ringgold Grammar School, Philadelphia
 
-A grammar of the English language, based upon the analysis of the English sentence, with copious examples and exercises in parsing and the correction of false syntax, and an appendix, containing critical and explanatory notes, and lists of peculiar and exceptional
-forms: for the use of schools and academies, and those who write.
+original not yet found [cited in @brittain1973: 53], see <https://lccn.loc.gov/11017983> probably derived from Holbrook
+
+*A grammar of the English language, based upon the analysis of the English sentence, with copious examples and exercises in parsing and the correction of false syntax, and an appendix, containing critical and explanatory notes, and lists of peculiar and exceptional forms: for the use of schools and academies, and those who write.*
 
 short version without graphics from 1866: https://scholar.uc.edu/concern/documents/ff365951p
 
@@ -1253,15 +1266,18 @@ https://nationallibraryofeducation.on.worldcat.org/search/detail/974041820?query
 
 ### Lighthall (1872) *Introduction to analysis and parsing*
 
-probably G.E. Lighthall (1872) *Introduction to analysis and parsing* with bubbles, original not yet found [@brittain1973: 73] 
+probably G.E. Lighthall (1872) *Introduction to analysis and parsing* with bubbles, original not yet found [@brittain1973: 73] <https://lccn.loc.gov/11005840>
 
 [@lighthall1874], clark but without bubbles, just underline
+
+https://archive.org/details/analysisparsing00lighgoog/page/n20/mode/2up
 
 ### Butler (1874) *A practical and critical grammar*
 
 originally *A practical grammar* from 1845 without diagrams, see https://google.com/books?id=-khKAAAAIAAJ for 1846 revision [@butler1846] note: "The rules for the Analysis of Sentences have been taken, with some changes, from Andrews and Stoddard's Latin Grammar" (preface p.3) examples like Andrews/Stoddard on p220-221
 
-revised edition with slightly different name, with diagramming like Holbrook [@butler1874: 178-187]. Also interesting footnote in preface p5.
+revised edition with slightly different name, with diagramming like Holbrook [@butler1874: 178-187]. Also interesting footnote in preface p5. "Mr. W. A. Boles suggests the following method of presenting syntax and
+etymology together. The abbreviations will be readily understood"
 
 Revised edition with original name *A practical grammar* in 1879 with diagrams [@butler1879: 168-177]
 
@@ -1798,13 +1814,49 @@ added chapter on TGG from different author. seems to be added late in the proces
 
 ## Idiosyncratic analyses
 
-### Cruttenden (1859) *The philosophy of sentential language*
+### Foerster & Steadman (1919) *Sentences and thinking* {#sec:foerster1919}
 
-https://lccn.loc.gov/10028710
-https://lccn.loc.gov/10028727
-https://lccn.loc.gov/10033615
+Norman Foerster (1887–1972) taught English at various universities (Wisconsin, North Carolina, Iowa and Duke). In contrast, John M. Steadman (1889-1945) taught at Emory University for his whole career.^[Some minimal biographical information about Foerster is available at <https://aspace.lib.uiowa.edu/agents/people/557>. Likewise minimal is the information that I have been able to find about Steadman, being a short obituary from the New York Times, available at <https://www.nytimes.com/1945/12/22/archives/dr-jm-steadman-educator-author-professor-emeritus-of-english-at.html>, both accessed 7 May 2026.] Together they wrote the book *Sentences and thinking* [@foerster1919], which is predominantly a guide to creative writing, but also contains a small part about grammatical structure. There appears to be no direct link to Sheffield's *Grammar and thinking* (see [@sec:sheffield1912]), neither through explicit references nor through their personal histories. The similarity in titles suggests there may have been some influence from Sheffield's book. Foerster and Steadman's book appears to have been reasonably successful, revised thoroughly in 1923 and again in 1931. The last revision was retitled *Writing and thinking*. The grammatical section remained unchanged across these revisions.
 
-[@brittain1973: 31]
+In the short grammatical section, Foerster & Steadman [-@foerster1919: 29-30] use the tree-metaphor to explain different kinds of sentence structure, as shown in [@fig:foerster1919_29]. They focus solely on the relationship of main and subordinate clauses (like in the German tradition of the *Periodenbild*), ignoring the internal structure of the individual clauses.
+
+::: {.im #foerster1919_29}
+Illustrations of different kinds of sentence structure from Foerster & Steadman [-@foerster1919: 29]. These illustrations are purely theoretical. These trees do not represent the structure of any concrete example sentences.
+:::
+
+As an illustration of these different kinds of sentence structure they discuss an example sentence, shown here in [@next]. They present two versions of this sentence, the first one being a basic enumeration [@next a], while the second has a more intricate grammatical structure with different kinds of subordination [@next b]. They explain their preference for the second version by expanding on the tree-metaphor:
+
+> We do not want piles of dead logs, but living trees. Our sentences should not be built mechanically; they should grow, as organisms grow. A sentence may contain […] many constituent thoughts, but of these thoughts perhaps one will stand out as the main thought (the trunk), which divides into several subordinate thoughts (large branches), which again divide into subordinate thoughts (small branches), etc. [@foerster1919: 29]
+
+::: ex
+- It stood there looking at a bright pebble, and it didn't move at all, and it seemed doomed, and we were filled with horror, and some of us turned pale as death, but suddenly we saw a man in a dark doorway, and he had doubtless been there right along, but we hadn't noticed him before, and he came out like a flash, and he blocked the way, and it was Martin. 
+- Standing there looking at a pebble, quite motionless, and apparently doomed, the child filled us with such horror that some of us turned pale as death; but suddenly we saw a man in a dark doorway, whom we hadn't noticed before (though he had doubtless been there right along) and who, coming out like a flash, blocked the way – it was Martin!
+:::
+
+For the analysis, Foerster & Steadman notice that the sentence consists of three main statements and eight subsidiary ones, as listed below. Actually, the statement (1a) below clearly consists of two statements (i.e. *standing there* and *looking at a pebble*), which are unexplicably not separated. They propose a graphical analysis of the structure of their preferred version [@last b], as shown in [@fig:foerster1919_30], which corresponds to a "highly developed compound sentence" from [@fig:foerster1919_29]. Unfortunately, this illustration only approximately represents the subordinate grammatical structure of the sentence. Neither the order of clauses, nor their relative subordination is represented in the diagram.
+
+1. The child filled us with horror.
+    a. Standing there looking at a pebble.
+    b. Quite motionless.
+    c. Apparently doomed.
+    d. Such that some of us turned pale as death.
+2. Suddenly we saw a man in a dark doorway.
+    a. Whom we hadn't noticed before.
+    b. Though he had doubtless been there right along.
+    c. Coming out like a flash.
+    d. Who blocked the way.
+3. It was Martin.
+
+::: {.im #foerster1919_30}
+Tree diagram of [@last b] from Foerster & Steadman [-@foerster1919: 30]. The representation of the syntactical structure is rather coarse and uninformative. It is unclear why they did not more accurately depict the structure of the sentence. For example, the clause 3 could have easily be moved to the right side and the subordinate branches could be added to the left or right depending on their relative order to the main clause. More interesting even would have been if secondary subordinations, like (2b), would have been depicted as secondary branches.
+:::
+
+The example is quote verbatim in –of all places– a Chinese grammar by Li Jinxi [-@jinxi1924: 361], see [@sec:jinxi1924]. Although the example is analysed exactly as it is described by Foerster & Steadman, the picture is completely redone by Li Jinxi and now more accurately reflects the grammatical structure, as shown in [@fig:jinxi1924_361]. The subordinate clause (1a) is still treated as a single clause, but the order and the relative subordination of the clauses is now faithfully represented by the illustration.
+
+::: {.im #jinxi1924_361}
+Same tree analysis as in the previous [@fig:foerster1919_30] from a Chinese grammar by Jinxi [-@jinxi1924: 361]. The complete example from Foerster & Steadman is quoted verbatim in this grammar over multiple pages, but the picture is completely overhauled and much improved. The ordering of the main clauses (indicated by numbers) now correctly reflects the original sentence, and multiple subordination is correctly analysed. Even the linking between the three main branches appears to be reflected in small graphical flourishes. The Chinese caption reads: '(Figure 7) illustrates the structure of the complex sentence mentioned above' This is exactly the caption from the original.
+:::
+
 
 ### Robert (1956) *Patterns of English*
 
