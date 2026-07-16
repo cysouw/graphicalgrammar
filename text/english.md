@@ -616,10 +616,13 @@ Discussing the sentence: "He purchased a good farm."
 
 146: Complex elements are formed. There are no concrete examples of complex sentences with the analysis superimposed.
 
-Later further development, especiaaly 1874 system is very "algebraic":
+[@greene1860: 171-177] subject-predicate base with modifiers in brackets
 
-- [@greene1860: 171-177] subject-predicate base with modifiers in brackets
-- [@greene1874: 23-24] summarise structure with "significant symbols" S, P, a, o, v [@greene1874: 285-293] many examples of analysis of complete paragraphs
+::: {.im #greene1860_172}
+subject-predicate base with modifiers in brackets [@greene1860: 172]
+:::
+
+Later further development, especiaaly 1874 system is very "algebraic": [@greene1874: 23-24] summarise structure with "significant symbols" S, P, a, o, v [@greene1874: 285-293] many examples of analysis of complete paragraphs
 
 in 1874 Greene thanks Buckham!
 
@@ -701,29 +704,34 @@ Also USA, but only using tables [@morris1877: 100-111]
 
 ### Buckham (1881) *The analysis of sentences*
 
-Henry Barmby Buckham (1827-1914) began his professional life as a schoolteacher in Connecticut, before becoming one of the founding faculty of Vassar College, where he taught during its inaugural year (1865-1866). He left the institution after a single year, due to dissatisfaction with its administration and with the prior knowledge of its students. In 1872 he was appointed as the first principal of the newly established Normal School in Buffaly, New York, a position he held until 1887. Afterwards Buckham relocated to the West Coast and eventually retired in Santa Barbara, California.^[Some basic biographical information is available at <https://vcencyclopedia.vassar.edu/faculty/original-faculty/henry-buckham/>, accessed 15 July 2026.]
+Henry Barmby Buckham (1827-1914) began his professional life as a schoolteacher in Connecticut before becoming a member of the founding faculty of Vassar College, where he taught during its inaugural year (1865-1866). He left the institution after a single year due to his dissatisfaction with its administration and the limited prior knowledge of its students. In 1872 he was appointed as the first principal of the newly established Normal School in Buffaly, New York, a position he held until 1887. Afterwards Buckham relocated to the West Coast and eventually retired in Santa Barbara, California.^[Some basic biographical information is available at <https://vcencyclopedia.vassar.edu/faculty/original-faculty/henry-buckham/>, accessed 15 July 2026.]
 
-In 1881 Buckham publishes a book about the analysis of sentences [@buckham1881], based on the proposals of Gibbs (see [@sec:gibbs1857]):
+While at Buffalo Buckham publishes a book about the analysis of sentences [@buckham1881], using notations based on the proposals of Gibbs (see [@sec:gibbs1857]) and Greene (see [@sec:greene1846]). Buckham sees his notations as a way to inspire teachers and students with finding their own ideal notation, not as the ideal system fit for everyone:
 
-> The following way of reducing compound and complex sentences to their first elements of propositions and modifiers is suggested as an aid to the analysis of sentences just as they stand in books, and as a convenient form for class work. It is adapted from a little tract given to the author many years ago by the late Professor Gibbs, of the Yale Divinity School, and believed to have been first published in the *Massachusetts Teacher*. Each teacher is likely
-to have his own way of writing sentences on the blackboard; the form is not essential, provided it represents to the eye what the teacher desires to have represented. It is given for the assistance of those who have no better way of their own. It is, as it is meant to be, only a notation. [@buckham1881: 133-134]
+> The following way of reducing compound and complex sentences to their first elements of propositions and modifiers is suggested as an aid to the analysis of sentences just as they stand in books, and as a convenient form for class work. It is adapted from a little tract given to the author many years ago by the late Professor Gibbs, of the Yale Divinity School, and believed to have been first published in the *Massachusetts Teacher*. Each teacher is likely to have his own way of writing sentences on the blackboard; the form is not essential, provided it represents to the eye what the teacher desires to have represented. It is given for the assistance of those who have no better way of their own. It is, as it is meant to be, only a notation. [@buckham1881: 133-134]
 
-Buckham combines both approaches from Gibbs. First, single clauses are analysed using a Becker-style numbered table [@buckham1881: 60-61, Lesson XII]. For complex sentences consisting of multiple clauses he additionally uses Gibb's notation with a few additions [@buckham1881: 132-141, and various places later throughout the book].
+Buckham combines the two approaches from Gibbs and adds an approach inspired by Greene. Single clauses are analysed using Greene's bracketed notation [@buckham1881: 76] and using a Becker-style numbered table, which was also used by Gibbs [@buckham1881: 60-61]. For complex sentences, consisting of multiple clauses, he additionally uses Gibb's notation with a few additions [@buckham1881: 132-141, and various places later throughout the book]. In summary, Buckham proposes that the analysis of a sentence should proceed along the following six steps [@buckham1881: 139-141]:
+
+1. Write a formula of each sentence (like Gibbs).
+2. Describe the sentence as a whole and reduce it to clauses.
+3. Describe, as a whole, what each clause represents.
+4. Write an analysis of each clause (like Greene).
+5. Parse each word in each clause with a numbered table (like Becker/Gibbs).
+6. Question the sentence in all directions.
+
+An example of his analysis is shown in [@fig:buckham1881_140] for the sentence in [@next], showing here only the graphical steps 1, 4 and 5. The steps 2, 3 and 6 consist of written prose. The formula in step 1 is the notation of Gibbs, expanded with superscribed connecting words and superscripts numbers. The superscript numbers at each subordinate clause indicate the syntactic function of the subordination: 1="adjective", 2="adverbial", 3="direct objective", 4="indirect objective", and 5="double objective" [@buckham1881: 228]. Step 4 is an analysis of each individual clause in a manner that seems to be inspired by Greene [-@greene1860], though without attribution. Buckham mentions Greene only in a footnote on a completely different topic [@buckham1881: 102]. The superscript numbers used in this step 4 also indicate the syntactic functions, just like with clauses as mentioned above. Finally, in step 5 each word in each clause is analysed using a numbered table as originally proposed by Becker (see [@sec:becker1829]) and later repeated by Gibbs.
 
 ::: ex
-- His cohorts were cleaming in purple and gold.
 - [A]{.grey} The daughter of the miller, [(a^1^)]{.grey} who was a very poor man, [A]{.grey} went timidly to the king, [> b^2^]{.grey} as he sat in state, [+]{.grey} and [c^2^ <]{.grey} while she stood before him in not a little fear [B]{.grey} a great shout arose from the people [> d^1^]{.grey} who [P]{.grey} had assembled to see the games [+]{.grey} and [P]{.grey} were becoming impatient at the long delay.
 :::
 
-::: {.im #buckham1881_60}
-"Convenient way of writing a lesson on the board in class" for the sentence [@last a] from Buckham [@buckham1881: 60-61].
-:::
-
 ::: {.im #buckham1881_140}
-Buckham [@buckham1881: 139-141] proposes an model for the analysis of a complex sentence like [@last b], consisting of 6 steps. Step 1 is a formula for the relation between the clauses, based on Gibbs' proposals. Step 4 is a structural analysis of each clause, similar to the method of Greene. Step 5 is an analysis of a single clause (only the first clause is shown here) after the approach of Becker.
+Buckham [-@buckham1881: 139-141] proposes a model for the analysis of a complex sentence [@last], consisting of 6 steps, which include various graphical approaches. Step 1 is a formula for the relation between the clauses based on Gibbs' proposals (cf. [@fig:gibbs1858_54]). Step 4 is a structural analysis of each clause, similar to the method of Greene (cf. [@fig:greene1860_172]). Step 5 is an analysis of a single clause (only the first clause is shown here) after the approach of Becker (cf. [@fig:becker1829_xvii]) and Gibbs (cf. [@fig:gibbs1857_235]).
 :::
 
-Greene is mentioned in a footnote on a completely different topic p. 102 [@buckham1881]
+Although Buckham's book is only published in 1881, he very likely used this approach already for many years. Greene [-@greene1874] mentions Buckham as an inspiration for his new system of analysis:
+
+> [I am] especially indebted to Professor H. B. Buckham, of the Buffalo State Normal School, for the preparation of the selections and for important suggestions in regard to the symbols by which the sentence is represented. [@greene1874: 4]
 
 ### Foerster & Steadman (1919) *Sentences and thinking* {#sec:foerster1919}
 
