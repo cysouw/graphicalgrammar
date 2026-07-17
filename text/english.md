@@ -568,13 +568,7 @@ bio: https://warwick.ac.uk/fac/soc/al/research/collections/elt_archive/publicati
 
 ### Greene (1846) *A treatise on the structure of the English language* {#sec:greene1846}
 
-Samuel Stillman Greene (1810-1883) Only 1874 system of abstract notation is really notewhorthy, based on the idea of analysis from earlier. https://en.wikipedia.org/wiki/Samuel_Stillman_Greene Basic biographical information is provided by [@ward1918: 24-27].
-
-Teacher in Boston 1842-1849
-
-1848: PRINCIPAL OF THE PHILLIPS GRAMMAR SCHOOL, BOSTON
-1851: Professor of didactics at Brown, later "promoted" to Professor of mathematics (1855) and even astronomy (1864), and superintendent of public schools in Providence
-
+Samuel Stillman Greene (1810-1883) was a teacher in Boston in the 1840s. In 1851 he became professor of didactics at Brown University and superintendent of the public schools in Providence. Later he was "promoted" to professor of mathematics in 1855 and even astronomy in 1864. Basic biographical information on Greene is provided by Ward [-@ward1918: 24-27].
 
 > The introduction, some thirty years ago, of the method of Sentential Analysis, devised by the German philologist Becker, and adapted to American school use in the meritorious works of Professor Greene and others, marks the only considerable innovation, in this country, on the Murray system. [@swinton1872: iii-iv, probably misattributing Greene with the introduction of Becker's approach]
 
