@@ -62,7 +62,7 @@ As a result, every cited reference in the text is clickable and leads directly t
 
 # General issues
 
-## The rise of the subject-object-predicate trinity
+## The rise of the subject-object-predicate trinity {#sec:subjectobject}
 
 Slowly, during the 17th and 18th Century, a new terminological amalgamation arose, combining terms from Aristotelian logic with concepts from the descriptive grammatical tradition. The result of this mixture are the contemporary terms "subject", "object" and "predicate", which seem to be first used in the modern sense at the start of the 19th Century. The history of the emergence of these terms deserves a detailed investigation in it's own right [cf. @forsgren1985; -@forsgren1992 for the German grammatical tradition]. The following summary is but a very short and strongly simplified overview of this terminological development. The underlying impetus for this development appears to be an ambition on behalve of grammarians to insert more "logic" into their analyses, or, in more modern terms, to create general terms for ~~grammatical functions~~ on top of the description of the ~~grammatical form~~ of linguistic elements.
 
