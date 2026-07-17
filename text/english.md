@@ -622,9 +622,9 @@ Scarcely HAD the RETREAT of Mr. Pitt DEPRIVED Prussia of her only friend, when t
 *Model for construction* for the sentence [@last] from Greene [-@greene1860: 172]. The subject-predicate base is placed in the middle with modifiers in brackets, to the left modifiers of the subject, to the right the modifiers of the predicate. The ordering of the sentence is not reflected in this notation and Greene does not expand this notation for the subordinate clause (4) *when the death of Elizabeth*. This graphical approach is adapted by Buckham (cf. [@fig:buckham1881_140])
 :::
 
-A few years later, in the *analysis of the English language* [@greene1874], he develops this analysis into an "algebraic" notation, for which he explicitly thanks Buckham (see [@sec:buckham1881]) in the introduction: 
+A few years later, in the *analysis of the English language* [@greene1874], he develops this analysis into an "algebraic" notation, for which he explicitly thanks Buckham (see [@sec:buckham1881]) in the introduction. Buckham traces his ideas back to Gibbs, and Gibbs got them from the German grammatical tradition.
 
-> […] especially indebted to Professor H. B. Buckham, of the Buffalo State Normal School, for the preparation of the selections and for important suggestions in regard to the symbols by which the sentence is represented. [@greene1874: 4]
+> [I am] especially indebted to Professor H. B. Buckham, of the Buffalo State Normal School, for the preparation of the selections and for important suggestions in regard to the symbols by which the sentence is represented. [@greene1874: 4]
 
 Greene now abbreviates his five elements with individual letters [@greene1874: 23-24], using capital letters for the "principal" elements (S=subject, P=predicate) and lower case letter for the "subordinate" elements (a=adjective, o=object, v=adverb). However, for subordinate clauses also the letters "s" and "p" should be lowercased. At the end of the book Greene analyses a few longer passages using this system [@greene1874: 285-293]. An example is shown in [@fig:greene1874_288] for the quotation from William Prescott in [@next]. The superscripts indicate the number of words that are in this element. The apostrophe indicates that the words do not occur in the order as written in the formula. The full stops are not explained, but they appear to stand for prepositions.
 
