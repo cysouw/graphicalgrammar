@@ -700,11 +700,15 @@ Swinton (1872: iii-iv) “The introduction, some thirty years ago, of the method
 
 Swinton may have been mistaken in his memory of Greene's analysis here, because Becker's approach was only adapted to the American school by Gibbs 1857, who is not cited by Swinton.
 
-Swinton's approach clearly follows the GB examples: he cites Dalgleish, Morell, Bain (p.viii)
+Swinton's approach clearly follows the GB examples: he cites Dalgleish, Morell, Bain (p.viii) also later Mason
 
 He writes many versions of grammars and textbooks, but never uses diagramming. He cites many GB-grammars (p. viii), so this work seems to belong more in that tradition
 
 https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Swinton%2C%20William%2C%201833%2D1892
+
+- 1878: new language lessons https://catalog.hathitrust.org/Record/100279053
+- 1885: A grammar containing the etymology and syntax of the English language https://catalog.hathitrust.org/Record/100399801 analysis 204ff. complex sentence 228ff.
+- 
 
 ### Buckham (1881) *The analysis of sentences* {#sec:buckham1881}
 
