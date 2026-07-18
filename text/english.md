@@ -19,7 +19,7 @@ Similar: "syntactic parsing" in Bullions (1849:197) https://www.loc.gov/item/060
 - Grammars in 18th Century: [@tieken2008] does not give much of interest for the current book
 - GB-Grammars in 19th Century: [@busse2019;@busse2021] 
 
-Influence of the newly developed independent examination boards, in 1850 starting with the College of Preceptors, 1855 the Society of Arts, in 1858 in Oxford and Cambridge. [@watts2008]
+Influence of the newly developed independent examination boards, in 1850 starting with the College of Preceptors, 1855 the Society of Arts, in 1858 in Oxford and Cambridge. [@watts2008] Some details about start of college of preceptors in [@aldrich1995: Ch. 4]
 
 society of arts does not include English grammar in their assesment of 1863 [@society1863]
 
@@ -131,7 +131,7 @@ The use of capital letters for main clauses and lowercase letters for subordinat
 
 ### Mason (1858) *English grammar* {#sec:mason1858}
 
-Charles Peter Mason (1820-1900) was a teacher and owner of a school at Denmark Hill in south London.^[I have not been able to find any biographical information about Mason. The obituary of his wife Eleanor (Edwards) Mason in the West Sussex Gazette of 10 October 1912, page 4, mentions that Charles was "for many years the proprietor of a school at Denmark Hill". This obituary is available online at <https://www.britishnewspaperarchive.co.uk/viewer/bl/0002166/19121010/090/0004>, accessed 25 June 2026.] On the title page of his books he self-identifies as a Fellow of University College in London and at various points he alludes his work to prepare his pupils for admission to university [e.g. @mason1861: iv]. Mason is listed as one of the examinars for English language and literature for the College of Preceptors [@preceptors1882]
+Charles Peter Mason (1820-1900) was a teacher and principal of a school at Denmark Hill in south London.^[I have not been able to find any biographical information about Mason. The obituary of his wife Eleanor (Edwards) Mason in the West Sussex Gazette of 10 October 1912, page 4, mentions that Charles was "for many years the proprietor of a school at Denmark Hill". This obituary is available online at <https://www.britishnewspaperarchive.co.uk/viewer/bl/0002166/19121010/090/0004>, accessed 25 June 2026. A history of the school at Denmark Hill is provided by Aldrich [-@aldrich1995: 45-52]. Mason starting working at the school in 1850 and was its principal from 1853 until its closure in 1873.] On the title page of his books he self-identifies as a Fellow of University College in London and at various points he alludes his work to prepare his pupils for admission to university [e.g. @mason1861: iv]. Mason is listed as one of the examinars for English language and literature for the College of Preceptors [@preceptors1882]
 
 Mason wrote various textbooks on the analysis of the English language. His main work is the *English grammar including the principles of grammatical analysis* [@mason1858], which is revised and reprinted at least up to a 40th edition from 1901 [@gorlach1998: 233]. From the 25th edition onwards [@mason1881] the phrase *the principles of* is dropped from the title. Throughout his life, Mason also prepared various shorter version of his grammar and various books with supplementary exercises, all of which do not seem to contain any new or different ideas from his grammar. Early in his career Mason also published a few books with linguistic analyses of literary works. Mason [-@mason1859] is an analysis of a poem by William Cowper (1731-1800), namely the first book of *The Task* (1785) called *The Sofa*. As part of the literary analysis, Mason performs a detailed syntactic analysis of two stanzas from the poem, exemplifying his analytic approach [@mason1859: 47-50]. A similar book deals with John Milton's (1608-1674) *Paradise Lost* (1667), also including a syntactic analysis of a few excerpts [@mason1861: xi-xvi].
 
@@ -566,32 +566,31 @@ bio: https://warwick.ac.uk/fac/soc/al/research/collections/elt_archive/publicati
 
 ## German-style syntax in North America
 
-### Greene (1846) *A treatise on the structure of the English language* {#sec:greene1846}
+### Greene (1848) *A treatise on the structure of the English language* {#sec:greene1846}
 
-Samuel Stillman Greene (1810-1883) was a teacher in Boston in the 1840s. In 1851 he became professor of didactics at Brown University and superintendent of the public schools in Providence. Later he was "promoted" to professor of mathematics in 1855 and even astronomy in 1864. Basic biographical information on Greene is provided by Ward [-@ward1918: 24-27].
+Samuel Stillman Greene (1810-1883) was a teacher in Boston in the 1840s. In 1851 he became professor of didactics at Brown University and simlutaneously superintendent of the public schools in Providence. In 1855 he was "promoted" to become professor of mathematics and in 1864 even professor of astronomy. Basic biographical information on Greene is provided by Ward [-@ward1918: 24-27]. Greene was a highly productive author of grammatical textbooks, which were quite popular at American schools:
 
-> The introduction, some thirty years ago, of the method of Sentential Analysis, devised by the German philologist Becker, and adapted to American school use in the meritorious works of Professor Greene and others, marks the only considerable innovation, in this country, on the Murray system. [@swinton1872: iii-iv, probably misattributing Greene with the introduction of Becker's approach]
+> The introduction, some thirty years ago, of the method of Sentential Analysis, devised by the German philologist Becker, and adapted to American school use in the meritorious works of Professor Greene and others, marks the only considerable innovation, in this country, on the Murray system. [@swinton1872: iii-iv, probably misattributing Greene with the introduction of Becker's approach to the USA]
 
 > Green’s Analysis deserves especial mention because it inaugurated a new movement. Glancing through his book one finds him clinging to the old method of parsing, but bringing it into connection with and laying emphasis upon sentence analysis accompanied by constant practice in sentence building. [@barbour1901: 18, erroneously calling the author "Green" instead of "Greene"]
 
 > Greene's "Analysis" of 1847 was the culmination of various influences breaking away from the older conceptions and the forerunner of numerous other textbooks of the next 25 years. [@lyman1922: 7]
 
+All of Greene's textbooks repeat basically the same approach to grammatical analysis for different levels of proficiency and different audiences. The major developments of his approach to graphical grammar are found in the *treatise* [@greene1846], the *grammar* [@greene1860] and the *analysis* [@greene1874]. His other grammatical writings will not be further discussed here.
 
+- *A treatise on the structure of the English language* [@greene1848]^[There is some confusion about the date of publication of the *treatise*. Lyman [-@lyman1922: 7] dates it to 1847, while Görlach dates the original edition to 1846 [@gorlach1998: 152]. A google books copy is also dated 1846, available at <https://books.google.com/?id=GMYCAAAAIAAJ>, accessed 17 July 2026. This date probably arose because the act-of-congress notice at the start of the book is dated 1846. However, the preface is signed by Greene in 1847, and the copy at the library of congress [@greene1848] clearly states a publication date of 1848.]
+- *First lessons in language* [@greene1848a]
+- *The elements of English grammar* [@greene1856, first edition from 1852]
+- *An introduction to the study of English grammar* [@greene1856a; revised -@greene1868]
+- *A grammar of the English language* [@greene1860]
+- *An analysis of the English language* [@greene1874]
+- *Outlines of English grammar* [@greene1879]
 
-original version: [@greene1846]
+Looking at the sources used by Greene it appears that he was not proficient in German. He cites mostly American authors, except for the Latin and Greek grammars of Raphael Kühner from Germany. However, Greene explicitly mentions that he used Kühner's work from the English translations [@greene1846: 4]. Kühner was part of the *Frankfurtische Gelehrtenverein* around Herling and Becker, but the English translations of Kühner's grammars do not appear to show any explicit reference to their work.
 
-act of congress notice from 1846, preface signed 1847, identical editions from 1848 [@greene1848] and 1849 [@greene1849]. additional lessons and exercises in [@greene1848a]
+Instead, the Latin grammar of Andrews & Stoddard [-@andrews1836] appears to have been a major influence on the grammatical analysis of Greene. Andrews & Stoddard do not use any graphical grammar, but their description of syntactic analysis is very similar to what Greene will use in his works. Andrews and Stoddard propose to always separate a sentence into a ~~logical~~ subject and predicate, including all modifiers (including objects as modifiers of the predicate). In a second step the logical subject and predicate are subdivided into their ~~grammatical~~ subject and predicate (roughly the "heads" in modern terminology) and their modifiers. An example of their analysis is shown below for the example [@next].
 
-Greene cites only works in English translation, prominentnly Kühner. Kühner is part of Gelehrtenverein and cites Herling and Becker (e.g. 1835 https://books.google.de/books?id=5K1DAAAAIAAJ). However, no graphical grammar.
-
-he cites: Andrew & Stoddard (1836) *A grammar of the Latin language*
-
-no graphics, but very concise description of dependency structure "syntactic analysis"
-
-> In analyzing a proposition, it is first to be divided into its logical subject and predicate. \
-> If the logical subject consists of more than one word, its grammatical subject should be pointed out, and distinguished as simple or compound. \
-> When the grammatical subject is determined, the words which modify or limit it should next be specified, and then the words which modify them, and so on, until the logical subject is exhausted. \
-> In analyzing the logical predicate, the grammatical predicate should first be mentioned, then the words which modify or limit it, and their modifiers, until the logical predicate is exhausted. [@andrews1836: 254-255
+> In analyzing a proposition, it is first to be divided into its logical subject and predicate. […] If the logical subject consists of more than one word, its grammatical subject should be pointed out, and distinguished as simple or compound. […] When the grammatical subject is determined, the words which modify or limit it should next be specified, and then the words which modify them, and so on, until the logical subject is exhausted. […] In analyzing the logical predicate, the grammatical predicate should first be mentioned, then the words which modify or limit it, and their modifiers, until the logical predicate is exhausted. [@andrews1836: 254-255]
 
 ::: ex
 Mithridātes, duārum et viginti gentium rex, totǐdem linguis jura dixit
@@ -599,74 +598,66 @@ Mithridātes, duārum et viginti gentium rex, totǐdem linguis jura dixit
 
 > The logical subject is *Mithridātes duārum et viginti gentium rex*. \
 > The logical predicate is *totǐdem linguis jura dixit*. \
-> The grammatical subject is *Mithridātes*: this is modified by rex. Rex
+> The grammatical subject is *Mithridātes*: this is modified by *rex*. *Rex*
 is limited by *gentium*, which is itself limited by *duārum* and *viginti*.
 *Et* connects *duārum* and *viginti*. \
-> The grammatical predicate is *dixit*, which is limited by *jura* and *linguis*, and the latter by *totǐdem*. [@andrews1836: 255-256]
+The grammatical predicate is *dixit*, which is limited by *jura* and *linguis*, and the latter by *totǐdem*. \
+[@andrews1836: 255-256]
 
-
-
-graphics "formula for a sentence" [@greene1848: 67, 70, 82, 111, 120, 167, 184] 
-
-page 10: elements of a sentence:
-
-> 7. The component parts of a sentence are called its elements.
-> 8. Asentence may contain five distinct elements. Of these, two are indispensable to its formation, and are hence called principaL ELEMENTS. The other three are dependent on these, and are hence
-called SUBORDINATE ELEMENTS.
-> 9. Each of these five elements may take three distinct forms, called the first, second, and third classes of the elements. [@greene1848: 10]
-
-(first/second/third "class" = word/phrase/clause)
-
-second class: infinite, preposition and its object [@greene1848: 84]
-
-67: also abbreviations of five principal elements S, P subordinate elements Obj, Adv, Adj
-70: scheme of a sentence
+This two-step analysis if taken over by Greene. In his analysis, there are two "principal elements" (subject, predicate) and three "subordinate elements" (adjective, object, adverb) in each sentence [@greene1848: 10]. The five elements are summarised in [@fig:greene1849_70], clearly showing the two steps of his analysis. The individual elements can themselves be modified further, a process that "may be continued indefinitely, forming different degrees of subordination" [@greene1848: 70]. He claims that each of the five elements of a sentence can be of one of three "classes", namely: (1) a word, (2) a phrase or (3) a clause [@greene1848: 67, 82, 111, 120, 162, 167, 184]. He does not give clear examples for each possible combination, unfortunately.
 
 ::: {.im #greene1849_70}
-*Formula* for a sentence from Greene [-@greene1846: 70], reproduced here from a later identical edition because of better image quality [@greene1849: 70]
+*Formula* for a sentence from Greene [-@greene1848: 70], reproduced here from a later identical edition because of better image quality [@greene1849: 70]. There are two different levels of analysis. Each sentence as a whole always consists of a (complex) subject and a predicate. These can be further analysed into five different elements, which can then be further modified. 
 :::
 
-Discussing the sentence: "He purchased a good farm."
-
-> "Good," in this example, is subordinate to "farm." This element, in turn, may become the basis to another element subordinate to itself; as, "He purchased a very good farm." […] This connection of elements may be continued indefinitely, forming different degrees of subordination. [@greene1848: 70]
-
-146: Complex elements are formed. There are no concrete examples of complex sentences with the analysis superimposed.
-
-[@greene1860: 171-177] subject-predicate base with modifiers in brackets
-
-::: {.im #greene1860_172}
-subject-predicate base with modifiers in brackets [@greene1860: 172]
-:::
-
-Later further development, especiaaly 1874 system is very "algebraic": [@greene1874: 23-24] summarise structure with "significant symbols" S, P, a, o, v [@greene1874: 285-293] many examples of analysis of complete paragraphs
-
-in 1874 Greene thanks Buckham!
-
-> […] especially indebted to Professor H. B. Buckham, of the Buffalo State Normal School, for the preparation of the selections and for important suggestions in regard to the symbols by which the sentence is represented. [@greene1874: 4]
+In the *grammar of the English language* [@greene1860] he repeats this approach to the analysis of the sentence, but adds a slighly changed graphical approach to their representation, as shown in [@fig:greene1860_172] for the example [@next]. The head words of the subject and predicate are place in the middle, with the modifiers of the subject placed to the left and the modifiers of the predicate are placed to the right [@greene1860: 171-177]. Although this example has a subordinate clause, Greene does not use his notation to further analyse this clause.
 
 ::: ex
-- Wit is a shining quality that everybody admires; most people aim at it, all people fear it, and few love
-it unless in themselves. [@greene1874: 24]
-- Cortez received this remonstrance with the embarrassed air of one by whom it was altogether unexpected. \
-He modestly requested time for deliberation, and promised to give his answer on the following day. \
-At the time appointed he called his troops together, and made them a brief address. \
-He concluded by declaring his willingness to take measures for settling in the country. \
-[@greene1874: 285, citing William Hickling Prescott (1843) *The Conquest of Mexico*]
+Greene [-@greene1860: 171], citing Thomas Macaulay (1842) *Frederic the Great*:
+
+Scarcely HAD the RETREAT of Mr. Pitt DEPRIVED Prussia of her only friend, when the death of Elizabeth produced an entire revolution in the politics of the north.
 :::
 
-::: {.im #greene1874_24}
-*System of significant symbols* for [@last a] from Greene [-@greene1874: 24].
+::: {.im #greene1860_172}
+*Model for construction* for the sentence [@last] from Greene [-@greene1860: 172]. The subject-predicate base is placed in the middle with modifiers in brackets, to the left modifiers of the subject, to the right the modifiers of the predicate. The ordering of the sentence is not reflected in this notation and Greene does not expand this notation for the subordinate clause (4) *when the death of Elizabeth*. This graphical approach is adapted by Buckham (cf. [@fig:buckham1881_140])
+:::
+
+A few years later, in the *analysis of the English language* [@greene1874], he develops this analysis into an "algebraic" notation, for which he explicitly thanks Buckham (see [@sec:buckham1881]) in the introduction. Buckham traces his ideas back to Gibbs, and Gibbs got them from the German grammatical tradition.
+
+> [I am] especially indebted to Professor H. B. Buckham, of the Buffalo State Normal School, for the preparation of the selections and for important suggestions in regard to the symbols by which the sentence is represented. [@greene1874: 4]
+
+Greene now abbreviates his five elements with individual letters [@greene1874: 23-24], using capital letters for the "principal" elements (S=subject, P=predicate) and lower case letter for the "subordinate" elements (a=adjective, o=object, v=adverb). However, for subordinate clauses also the letters "s" and "p" should be lowercased. At the end of the book Greene analyses a few longer passages using this system [@greene1874: 285-293]. An example is shown in [@fig:greene1874_288] for the quotation from William Prescott in [@next]. The superscripts indicate the number of words that are in this element. The apostrophe indicates that the words do not occur in the order as written in the formula. The full stops are not explained, but they appear to stand for prepositions.
+
+::: ex
+Greene [-@greene1874: 285], citing William Prescott (1843) *The Conquest of Mexico*:
+
+- Cortez received this remonstrance with the embarrassed air of one by whom it was altogether unexpected.
+- He modestly requested time for deliberation, and promised to give his answer on the following day.
+- At the time appointed he called his troops together, and made them a brief address.
+- He concluded by declaring his willingness to take measures for settling in the country.
 :::
 
 ::: {.im #greene1874_288}
-*Analysis of a paragraph* for [@last b] from Greene [-@greene1874: 288].
+Analysis of a paragraph with the *system of significant symbols* for [@last] from Greene [-@greene1874: 288]. It becomes sort-of a puzzle to relate the symbols to the actual parts of the example sentence.
 :::
 
-more books, no graphics:
+As becomes apparent when attempting to follow the example in [@fig:greene1874_288], this "system of significant symbols" quickly becomes highly convoluted and impractical. Identifying the correspondences between the text and the letters in the formula turns into a puzzle. Moreover, the details of Greene's analysis are often inelegant and difficult to follow. Modifiers are sometimes represented explicitly, while at other times they are simply subsumed under a larger phrase, as indicated by the superscript notation. Non-finite *to*-infinitival clauses are treated without further distinction as objects. I have attempted to make the analysis of the first sentence more explicit below:
 
-- First lessons in language [@greene1848b]
-- The elements of English grammar [@greene1856]
-- An introduction to the study of English grammar [@greene1868]
+- **S**: *Cortez*
+- **P**: *received*
+  - **o**: *remonstrance*
+    - **a'**: *this*
+  - **.** : *with*
+    - **v²**: *the air*
+      - **a'**: *embarrassed* 
+      - **a²**: *of one*
+      - **a³**: *by whom*^[The superscript should probably be "2" here, although it is strange that the same error is repeated so blatently.]
+  - **s**: *it*
+  - **p²**: *was unexpected*
+    - **v'**: *althogether*
+    - **(v²^*tr.*^)**: back-reference to the phrase in parenthesis, viz *by whom*
+
+The relative clause in this sentence is interesting, because Greene proposes to explicitly write down the "original" position of the relative pronoun as an adverbial phrase in the relative clause, marked with the abbreviation "tr.". I have not been able to find what this abbreviation is supposed to mean. From a modern perspective it is tempting to call this a "trace", but it more likely to mean "transposed".
 
 ### Gibbs (1857) *Philological studies* {#sec:gibbs1857}
 
@@ -715,7 +706,7 @@ He writes many versions of grammars and textbooks, but never uses diagramming. H
 
 https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Swinton%2C%20William%2C%201833%2D1892
 
-### Buckham (1881) *The analysis of sentences*
+### Buckham (1881) *The analysis of sentences* {#sec:buckham1881}
 
 Henry Barmby Buckham (1827-1914) began his professional life as a schoolteacher in Connecticut before becoming a member of the founding faculty of Vassar College, where he taught during its inaugural year (1865-1866). He left the institution after a single year due to his dissatisfaction with its administration and the limited prior knowledge of its students. In 1872 he was appointed as the first principal of the newly established Normal School in Buffaly, New York, a position he held until 1887. Afterwards Buckham relocated to the West Coast and eventually retired in Santa Barbara, California.^[Some basic biographical information is available at <https://vcencyclopedia.vassar.edu/faculty/original-faculty/henry-buckham/>, accessed 15 July 2026.]
 
