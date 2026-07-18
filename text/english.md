@@ -11,7 +11,7 @@ https://google.com/books?id=PI4VAQAAMAAJ
 
 black board proposed in school class in 1832: 22 https://www.loc.gov/item/e14001332/
 
-Similar: "syntactic parsing" in Bullions (1849:197) https://www.loc.gov/item/06019122 or (1846: 125) https://www.loc.gov/item/tmp96027743/ or (1845: 131ff.) https://www.loc.gov/item/40023554/
+"syntactic parsing" in Bullions (1849:197) https://www.loc.gov/item/06019122 or (1846: 125) https://www.loc.gov/item/tmp96027743/ or (1845: 131ff.) https://www.loc.gov/item/40023554/
 
 ## German-style syntax in Great Brittain
 
