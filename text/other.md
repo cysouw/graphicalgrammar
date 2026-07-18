@@ -2036,3 +2036,14 @@ https://journals.lki.lt/bendrinekalba/article/view/2210
 Hori Hidenari (1819-87) 弖爾乎波略図義解 'A simple illustrated explanation of Telhoba' (1858) https://dl.ndl.go.jp/pid/13387055
 
 bio: https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9559
+
+Motoori Haruniwa (1763-1828) https://en.wikipedia.org/wiki/Motoori_Haruniwa
+
+- Kotoba no yachimata (1808) https://cudl.lib.cam.ac.uk/view/PR-FJ-00490-00006/1
+- Kotoba no yachimata (1808) https://cudl.lib.cam.ac.uk/view/PR-FJ-00490-00005/1
+- Kotoba no kayoiji (1828) https://cudl.lib.cam.ac.uk/view/PR-FJ-00490-00013/133
+
+Mozume Takayo (物集高世) (1817-1883) https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9495 https://ja.wikipedia.org/wiki/物集高世
+
+- 1858: Jikakukō shōhon (辞格考抄本; Abridgment of Studies on Grammatical Categories). https://kokusho.nijl.ac.jp/biblio/100164716/3?ln=en
+https://kokusho.nijl.ac.jp/biblio/100375645/64?ln=en

@@ -1808,6 +1808,20 @@ added chapter on TGG from different author. seems to be added late in the proces
 
 ## Idiosyncratic analyses
 
+### Holmes (1873) *First lessons in English grammar*
+
+George Frederick Holmes (1820-1897) https://en.wikipedia.org/wiki/George_Frederick_Holmes
+
+"First lessons in English grammar. (illustrated)” (New York and Baltimore: University Publishing Company, 1873)
+Peter Kilpe has a copy! Illustrations are more "semantic" than really morphosyntactic.
+
+1871 grammar without diagrams (original verion ±1867): https://archive.org/details/grammarofenglish00holm
+cites Clark and Greene, among many others. better copy: https://www.loc.gov/item/11005884/
+
+The text on active/passive voice on page 109 is almost the same as in the image from the 1873 version (from Peter Kilpe). So, he probably took the grammar and made a more accessible version of it with illustrations.
+
+https://archive.org/search?query=creator%3A%22George+Frederick+Holmes%22
+
 ### Foerster & Steadman (1919) *Sentences and thinking* {#sec:foerster1919}
 
 Norman Foerster (1887–1972) taught English at various universities (Wisconsin, North Carolina, Iowa and Duke). In contrast, John M. Steadman (1889-1945) taught at Emory University for his whole career.^[Some minimal biographical information about Foerster is available at <https://aspace.lib.uiowa.edu/agents/people/557>. Likewise minimal is the information that I have been able to find about Steadman, being a short obituary from the New York Times, available at <https://www.nytimes.com/1945/12/22/archives/dr-jm-steadman-educator-author-professor-emeritus-of-english-at.html>, both accessed 7 May 2026.] Together they wrote the book *Sentences and thinking* [@foerster1919], which is predominantly a guide to creative writing, but also contains a small part about grammatical structure. There appears to be no direct link to Sheffield's *Grammar and thinking* (see [@sec:sheffield1912]), neither through explicit references nor through their personal histories. The similarity in titles suggests there may have been some influence from Sheffield's book. Foerster and Steadman's book appears to have been reasonably successful, revised thoroughly in 1923 and again in 1931. The last revision was retitled *Writing and thinking*. The grammatical section remained unchanged across these revisions.
