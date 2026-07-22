@@ -682,6 +682,43 @@ In a textbook about Latin, published a year later, Gibbs uses German-style abbre
 *Notation of compound propositions* for [@last] from Gibbs [-@gibbs1858: 54]. The sentence consists of a main clause marked "A" (*Non promissa servanda sunt ea*) with a following subordinate relative clause marked "a" (*quae sint iis […] inutilia*), which has an internal secondary relative clause marked "*(a)*" (*quibus promisseris*). Secondary subordination is indicate by italics, clauses internal to another clause are bracketed. 
 :::
 
+### Cruttenden (1859) *The philosophy of sentential language*
+
+David Henry Cruttenden (1816-1874) was a teacher in New York State. In 1841 he was at the Mechanics Institute in New York City and later he moved to upstate New York. In 1861-1864 he is in Binghamton and in 1871 at the Normal School in Oswego.^[These biographical details have been extracted from various online sources, all accessed 16 July 2026, namely: page 167 of Volume 2 of the 1909 edition of *Herringshaw's national library of American biography* <https://archive.org/details/cu31924088421601>, page 240 of the 1872 *Annals of Binghamton* <https://archive.org/details/annalsofbinghamt01wilk> and autobiographical notes by Woodbridge N. Ferris <https://www.ferris.edu/news/founder/woodbridge/16Owego.htm>.] He published two long books on language and grammatical structure, first *The philosophy of sentential language* [@cruttenden1859] and in the following year *A rhetorical grammar of the English language* [@cruttenden1860], which he classified as an introduction to the earlier book. In subsequent years he revised these books in various forms and with slightly changing titles, but not much new seems to have been added.^[Various version are available online at <https://www.loc.gov/item/10028727> (1869), <https://books.google.com/?vid=Harvard:HN23IR> (1870), <https://books.google.com/?id=qQASAAAAIAAJ> (1870), <https://www.loc.gov/item/10033615> (1872).] There are no indications of any sources for the grammatical analysis in these books. Cruttenden's approach to grammatical analysis is also discussed by Brittain [-@brittain1973: 31-36].
+
+Cruttenden distinguished "three principal or essential parts" of the sentence, roughly what today linguists would call agent, predicate and patient. He represent them with the letters X, Y, and Z, respectively. Later he also sometimes uses the letter F(irst), S(econd) and T(hird). He does not distinguish any further syntactical function of the sentence.
+
+> The First Part is that, which produces, causes, or does something, or maintains some State of Existence. This  is called The Producer, Cause, Doer, Maintainer, &c. For convenience let it be represented by the abstract character X. […] The Second Part is the Act, or State of Existence. For convenience let it be represented by Y. […] The Third Part receives the Act, and hence, it is called the Receiver. For convenience let it be represented by Z. [@cruttenden1859: 79-80]
+
+In his syntactic formulas, Cruttenden in much detail discusses the possibility that one of the three parts can have its own clausal structure, again having possibly three principal parts X, Y, and Z. When such a subordination occurs, he writes them under the letter of the matrix clause, separated by a horizontal line. Almost all examples of such clausal subordination as discussed by Cruttenden only have a single level of subordination. I found a single example in which he shows how more complex examples should be analysed, as shown in [@fig:cruttenden1860_194] for the example in [@next]. Note that there is a typesetting error in the graphic, as the middle part of the main clause is marked on top as "X" in the figure. From the text it is clear that this is intended to be a "Y". The plus-symbols represent connectives: the first (in brackets) for the implicit connector before a relative pronoun, the second for the conjunction *but*. 
+
+::: ex
+Mr. Webster once replied to a gentleman, who pressed him to speak on a subject of a great importance; "The subject interests me deeply, but I have not time."
+:::
+
+::: {.im #cruttenden1860_194}
+*Formula* for the sentence [@last] from Cruttenden [-@cruttenden1860: 194]. There is a typesetting error, because in the middle part, the "X" on top of the line should be a "Y" (as is clear from the accompanying text). The small "z" in some unclear way indicates the non-finite subordination of *to speak on a subject*. It would have been more sensible to make the predicate a lower case letter, e.g. "yZ" instead of "Yz".
+:::
+
+The analysis proposed by the formula in [@fig:cruttenden1860_194] can be represented as shown below. I have corrected the erroneous "X" in the middle and omitted the attributive phrase *of great importance* in this overview. Adverbs like *once* and *deeply* are unanalysed parts of their predicates. Also the addressee *to a gentleman* is not further analysed and simply combined with its predicate *replied*. Likewise *on the subject* is treated as part of the predicate *speak*. It appears that Cruttenden does not allow for prepositional phrases to be arguments.
+
+- **X**: *Mr. Webster*
+- **Y**: *once replied to a gentleman, who pressed him to speak on a subject*
+  - **Y**: *once replied to a gentleman* 
+  - **X**: *who*
+  - **Y**: *pressed*
+  - **Z**: *him to speak on the subject*
+    - **X**: *him*
+    - **Yz**: *to speak on the subject*
+- **Z**: *The subject interests me deeply, but I have not time*
+  - **X**: *the subject*
+  - **Y**: *interests deeply*
+  - **Z**: *me*
+  - **+**: *but*
+  - **X**: *I*
+  - **Y**: *have not*
+  - **Z**: *time*
+
 ### Macallum (1867) *An eclectic grammar*
 
 Archibald Macallum (1824-1879) https://www.biographi.ca/en/bio/macallum_archibald_10E.html Hamilton, Canada
@@ -741,7 +778,7 @@ Although Buckham's book is only published in 1881, he very likely used this appr
 
 > [I am] especially indebted to Professor H. B. Buckham, of the Buffalo State Normal School, for the preparation of the selections and for important suggestions in regard to the symbols by which the sentence is represented. [@greene1874: 4]
 
-## Proto-Diagramming
+## Lines for government
 
 Jeremiah Greenleaf "simplified Grammar" (first edition 1819) used word-class abbreviations above the words for parsing, e.g. third edition 1821: https://google.com/books?id=fegaAAAAYAAJ, extended version later: https://archive.org/details/laborsavinggramm00greerich
 
@@ -807,6 +844,37 @@ And keep his only son, myself, at home. \
 ::: {.im #picket1815_80}
 *Vinculum* from Picket [-@picket1815: 80] for the opening of *Douglas* by John Home. The numbers refer to syntactic rules and the lines indicate government (curved lines) and agreement/conjunction (straight lines). The image shown here was recreated for improved legibility. The original image is available at the following link:
 :::
+
+### Alcott (1842) *Slate and black board exercises*
+
+William Andrus Alcott (1798-1859) was an educator and a well-known early proponent of the vegetable diet. Originally from Connecticut, he lived most of his active life in around Boston.^[Basic biographical information is provided on https://en.wikipedia.org/wiki/William_Alcott, accessed 10 July 2026.] One of his many educational writing dealed with using the black board in class:
+
+> The importance of the black board as an instrument of instruction in the common school, has been insisted on in every periodical on education which I have seen, either of this country or Europe; as well as in almost every recent treatise on the same subject. It has also been introduced into most of our improved schools, of every grade, especially in New England and New York. In many of our common schools, however, it has been but barely introduced. The teacher knows almost as little how to use it as his pupils. [@alcott1842: 5]
+
+Alcott discusses how to use the black board for many different subjects, among them he also included a chapter on teaching grammar [@alcott1842: 178-194]. At the end of the chapter he proposes to explain government and coordination by drawing curved lines, as shown in [@fig:alcott1842_193]. This approach is strongly reminiscent of the *vinculum* of Picket (see [@sec:picket1815]).
+
+::: {.im #alcott1842_193}
+Blackboard exercise from Alcott [-@alcott1842: 193]. He proposes that "we may draw a curved line from the governing word to the word which is governed; or at least require a pupil to do it, in view of the rest." This approach looks very much like the *vinculum* from Picket, cf. [@fig:picket1815_80].
+:::
+
+### Holmes (1873) First lessons in English grammar
+
+[@holmes1873]
+
+Holmes seems to be this person: https://en.wikipedia.org/wiki/George_Frederick_Holmes
+
+The internet archive has various books digitised, also a grammar from 1871 (which is a new edition, the original is from around 1867), but this one does not yet have the illustrations:
+
+https://archive.org/details/grammarofenglish00holm
+(Also at library of congress: https://www.loc.gov/item/11005884/)
+
+The text on active/passive voice on page 109 is almost the same as in your image from the 1873 version. So, he probably took the grammar and made a more accessible version of it with illustrations.
+
+Holmes cites many different grammars available at the time, among them Clark and Greene
+
+More digital works by him here: https://onlinebooks.library.upenn.edu/webbin/who/Holmes%2C%20George%20Frederick%2C%201820-1897
+
+## Proto-diagramming
 
 ### Brown (1826) *The American system of English grammar* {#sec:brown1826}
 
@@ -1067,19 +1135,6 @@ Frontispiece of the Latin grammar from Barret [-@barrett1857, inserted between p
 
 Later, Barret writes yet another book [@barrett1859], which has basically the same content as the previous book, but a strongly revised presentation. He now puts his 21 grammatical relations front and centre of the analysis. There is also a 1876 book by Barrett called *A "signal" grammar of the English language*,^[Catalogue entry at the Library of Congress: <https://lccn.loc.gov/11004540>.] which is not available digitally and which I have not yet been able yet to access.
 
-### Alcott (1842) *Slate and black board exercises*
-
-William Andrus Alcott (1798-1859) was an educator and a well-known early proponent of the vegetable diet. Originally from Connecticut, he lived most of his active life in around Boston.^[Basic biographical information is provided on https://en.wikipedia.org/wiki/William_Alcott, accessed 10 July 2026.] One of his many educational writing dealed with using the black board in class:
-
-> The importance of the black board as an instrument of instruction in the common school, has been insisted on in every periodical on education which I have seen, either of this country or Europe; as well as in almost every recent treatise on the same subject. It has also been introduced into most of our improved schools, of every grade, especially in New England and New York. In many of our common schools, however, it has been but barely introduced. The teacher knows almost as little how to use it as his pupils. [@alcott1842: 5]
-
-Alcott discusses how to use the black board for many different subjects, among them he also included a chapter on teaching grammar [@alcott1842: 178-194]. At the end of the chapter he proposes to explain government and coordination by drawing curved lines, as shown in [@fig:alcott1842_193]. This approach is strongly reminiscent of the *vinculum* of Picket (see [@sec:picket1815]).
-
-::: {.im #alcott1842_193}
-Blackboard exercise from Alcott [-@alcott1842: 193]. He proposes that "we may draw a curved line from the governing word to the word which is governed; or at least require a pupil to do it, in view of the rest." This approach looks very much like the *vinculum* from Picket, cf. [@fig:picket1815_80].
-:::
-
-
 ### Hall (1849) *Encyclopedia of English grammar*
 
 William Hall published his *Encyclopedia of English grammar* probably in 1849, printed in Virginia [cf. @gorlach1998: 161], but the only online copy with that date has a missing title page, so I am not sure this really is that version [@hall1849]. That incomplete version is exactly the same as a 1850 version, printed in Ohio [@hall1850]. Nothing is known about the author, except that it is not the same person as William D. Hall (see [@sec:hall1898]) nor Milo Baldwin Hall (see [@sec:hall1904]). The book is clearly influenced by Brown (see [@sec:brown1826]), because in the introduction Hall says that the book deals with "the science of English Syntithology" [@hall1850: iii]. The term "syntithology" (instead of syntax) is one of the many terminological inventions of Brown. Brown is explicitly cited in various footnotes [@hall1849: 72, 98, 246, 297]. Barrett (see [@sec:barrett1842]) is obliquely cited once among many other grammars in the context of word-class division [@hall1849: 51]. In contrast, Peirce (see [@sec:peirce1839]) is cited in a long rant, typesetted as a footnote running over 10 pages [@hall1849: 96-105], criticizing Peirce's use of the term *asserter* for verbs.
@@ -1089,43 +1144,6 @@ Hall includes an extensive discussion of *monology* [@hall1849: 297-305], direct
 ::: {.im #hall1849_297}
 *Monology* from Hall [-@hall1849: 297], adapting the analysis from Brown ([@sec:brown1826]). Identical numbers indicate which words belong to the same *mono* (=constituent), which are sometimes also indicated by brackets. Just like Brown, Hall never uses hierarchical bracketing. Different from Brown, Hall does not distinguish between square and round brackets.
 :::
-
-### Cruttenden (1859) *The philosophy of sentential language*
-
-David Henry Cruttenden (1816-1874) was a teacher in New York State. In 1841 he was at the Mechanics Institute in New York City and later he moved to upstate New York. In 1861-1864 he is in Binghamton and in 1871 at the Normal School in Oswego.^[These biographical details have been extracted from various online sources, all accessed 16 July 2026, namely: page 167 of Volume 2 of the 1909 edition of *Herringshaw's national library of American biography* <https://archive.org/details/cu31924088421601>, page 240 of the 1872 *Annals of Binghamton* <https://archive.org/details/annalsofbinghamt01wilk> and autobiographical notes by Woodbridge N. Ferris <https://www.ferris.edu/news/founder/woodbridge/16Owego.htm>.] He published two long books on language and grammatical structure, first *The philosophy of sentential language* [@cruttenden1859] and in the following year *A rhetorical grammar of the English language* [@cruttenden1860], which he classified as an introduction to the earlier book. In subsequent years he revised these books in various forms and with slightly changing titles, but not much new seems to have been added.^[Various version are available online at <https://www.loc.gov/item/10028727> (1869), <https://books.google.com/?vid=Harvard:HN23IR> (1870), <https://books.google.com/?id=qQASAAAAIAAJ> (1870), <https://www.loc.gov/item/10033615> (1872).] There are no indications of any sources for the grammatical analysis in these books. Cruttenden's approach to grammatical analysis is also discussed by Brittain [-@brittain1973: 31-36].
-
-Cruttenden distinguished "three principal or essential parts" of the sentence, roughly what today linguists would call agent, predicate and patient. He represent them with the letters X, Y, and Z, respectively. Later he also sometimes uses the letter F(irst), S(econd) and T(hird). He does not distinguish any further syntactical function of the sentence.
-
-> The First Part is that, which produces, causes, or does something, or maintains some State of Existence. This  is called The Producer, Cause, Doer, Maintainer, &c. For convenience let it be represented by the abstract character X. […] The Second Part is the Act, or State of Existence. For convenience let it be represented by Y. […] The Third Part receives the Act, and hence, it is called the Receiver. For convenience let it be represented by Z. [@cruttenden1859: 79-80]
-
-In his syntactic formulas, Cruttenden in much detail discusses the possibility that one of the three parts can have its own clausal structure, again having possibly three principal parts X, Y, and Z. When such a subordination occurs, he writes them under the letter of the matrix clause, separated by a horizontal line. Almost all examples of such clausal subordination as discussed by Cruttenden only have a single level of subordination. I found a single example in which he shows how more complex examples should be analysed, as shown in [@fig:cruttenden1860_194] for the example in [@next]. Note that there is a typesetting error in the graphic, as the middle part of the main clause is marked on top as "X" in the figure. From the text it is clear that this is intended to be a "Y". The plus-symbols represent connectives: the first (in brackets) for the implicit connector before a relative pronoun, the second for the conjunction *but*. 
-
-::: ex
-Mr. Webster once replied to a gentleman, who pressed him to speak on a subject of a great importance; "The subject interests me deeply, but I have not time."
-:::
-
-::: {.im #cruttenden1860_194}
-*Formula* for the sentence [@last] from Cruttenden [-@cruttenden1860: 194]. There is a typesetting error, because in the middle part, the "X" on top of the line should be a "Y" (as is clear from the accompanying text). The small "z" in some unclear way indicates the non-finite subordination of *to speak on a subject*. It would have been more sensible to make the predicate a lower case letter, e.g. "yZ" instead of "Yz".
-:::
-
-The analysis proposed by the formula in [@fig:cruttenden1860_194] can be represented as shown below. I have corrected the erroneous "X" in the middle and omitted the attributive phrase *of great importance* in this overview. Adverbs like *once* and *deeply* are unanalysed parts of their predicates. Also the addressee *to a gentleman* is not further analysed and simply combined with its predicate *replied*. Likewise *on the subject* is treated as part of the predicate *speak*. It appears that Cruttenden does not allow for prepositional phrases to be arguments.
-
-- **X**: *Mr. Webster*
-- **Y**: *once replied to a gentleman, who pressed him to speak on a subject*
-  - **Y**: *once replied to a gentleman* 
-  - **X**: *who*
-  - **Y**: *pressed*
-  - **Z**: *him to speak on the subject*
-    - **X**: *him*
-    - **Yz**: *to speak on the subject*
-- **Z**: *The subject interests me deeply, but I have not time*
-  - **X**: *the subject*
-  - **Y**: *interests deeply*
-  - **Z**: *me*
-  - **+**: *but*
-  - **X**: *I*
-  - **Y**: *have not*
-  - **Z**: *time*
 
 ## Diagramming
 
@@ -1650,6 +1668,18 @@ Use of vertical bars for separation appears old, e.g. Alexander Crombie https://
 
 [@ajdukiewicz1935; @ajdukiewicz1961]
 
+Der Begriff der syntaktischen Konnexität lässt
+sich aber besonders schön und einfach mit Hilfe der von Prof.
+Stanislaw Leśniewski ausgearbeiteten Lehre von den Bedeu
+tungskategorien fassen. Wir werden uns hier auf die diesbezüglichen
+Resultate von Leśniewski stützen
+
+Wir
+entlehnen von Leśniewski nur die Grundidee der Bedeutungskategorien
+und ihrer Arten 
+
+https://eudml.org/doc/212136 does not contain anything similary to ajdukiewicz analysis
+
 ### Pike (1943) *Taxemes and immediate constituents* {#sec:pike1943}
 
 [@pike1943: 70], citing bloomfield: boxes seem explication of Bloomfield's vertical bars
@@ -1803,20 +1833,6 @@ added chapter on TGG from different author. seems to be added late in the proces
 
 ## Idiosyncratic analyses
 
-### Holmes (1873) *First lessons in English grammar*
-
-George Frederick Holmes (1820-1897) https://en.wikipedia.org/wiki/George_Frederick_Holmes
-
-"First lessons in English grammar. (illustrated)” (New York and Baltimore: University Publishing Company, 1873)
-Peter Kilpe has a copy! Illustrations are more "semantic" than really morphosyntactic.
-
-1871 grammar without diagrams (original verion ±1867): https://archive.org/details/grammarofenglish00holm
-cites Clark and Greene, among many others. better copy: https://www.loc.gov/item/11005884/
-
-The text on active/passive voice on page 109 is almost the same as in the image from the 1873 version (from Peter Kilpe). So, he probably took the grammar and made a more accessible version of it with illustrations.
-
-https://archive.org/search?query=creator%3A%22George+Frederick+Holmes%22
-
 ### Foerster & Steadman (1919) *Sentences and thinking* {#sec:foerster1919}
 
 Norman Foerster (1887–1972) taught English at various universities (Wisconsin, North Carolina, Iowa and Duke). In contrast, John M. Steadman (1889-1945) taught at Emory University for his whole career.^[Some minimal biographical information about Foerster is available at <https://aspace.lib.uiowa.edu/agents/people/557>. Likewise minimal is the information that I have been able to find about Steadman, being a short obituary from the New York Times, available at <https://www.nytimes.com/1945/12/22/archives/dr-jm-steadman-educator-author-professor-emeritus-of-english-at.html>, both accessed 7 May 2026.] Together they wrote the book *Sentences and thinking* [@foerster1919], which is predominantly a guide to creative writing, but also contains a small part about grammatical structure. There appears to be no direct link to Sheffield's *Grammar and thinking* (see [@sec:sheffield1912]), neither through explicit references nor through their personal histories. The similarity in titles suggests there may have been some influence from Sheffield's book. Foerster and Steadman's book appears to have been reasonably successful, revised thoroughly in 1923 and again in 1931. The last revision was retitled *Writing and thinking*. The grammatical section remained unchanged across these revisions.
@@ -1859,7 +1875,6 @@ The example is quote verbatim in –of all places– a Chinese grammar by Li Jin
 ::: {.im #jinxi1924_361}
 Same tree analysis as in the previous [@fig:foerster1919_30] from a Chinese grammar by Jinxi [-@jinxi1924: 361]. The complete example from Foerster & Steadman is quoted verbatim in this grammar over multiple pages, but the picture is completely overhauled and much improved. The ordering of the main clauses (indicated by numbers) now correctly reflects the original sentence, and multiple subordination is correctly analysed. Even the linking between the three main branches appears to be reflected in small graphical flourishes. The Chinese caption reads: '(Figure 7) illustrates the structure of the complex sentence mentioned above' This is exactly the caption from the original.
 :::
-
 
 ### Robert (1956) *Patterns of English*
 
