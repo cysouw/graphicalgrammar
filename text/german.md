@@ -30,8 +30,6 @@ The term *bekleidet* leads to a lot of discussion, because of the sexual connota
 
 > Seit lange (ich weiß nicht, seit wann) wird in der deutschen Grammatik gelehrt, daß ein nackter Satz wie *die Sonne scheint* die ursprünglichste Satzform darstelle und daß die Erweiterungen in einem bekleideten Satze wie z.B. *die helle Sonne bescheint die erfrischten Fluren* ihrerseits aus nackten Sätzen hervorgegangen sind. [@delbruck1901: 150]
 
-## *Periodenbild* and *Satzbild*
-
 ### Moritz (1782) *Deutsche Sprachlehre* {#sec:moritz1782}
 
 Karl Philipp Moritz (1756-1793) was a prolific author with wide ranging interests. Towards the end of his rather short life he became professor for the arts at the *Königliche Akademie der Künste* in Berlin. Among his many writings there are various instructional books and articles about grammar, see Schmidt [-@schmidt1993] for a concise summary of his linguistic oeuvre and Eichinger [-@eichinger1998] for an extensive discussion of his work. Of particular interest here is the *Deutsche Sprachlehre für die Damen in Briefen* [@moritz1782]. The context and linguistic content of this work is discussed in more detail by Buhofer [-@buhofer1994]. This book was quite successful, being reprinted in 1791, 1794 and 1806. All later editions dropped the somewhat curious addition *für die Damen* from the title.
@@ -88,6 +86,8 @@ Constituency tree of the example in [@last] following the analysis from Moritz [
 Summarising, Moritz appears to have a clear understanding of, first, phrases as the basis of syntactic analysis. Second, he assigns a syntactic function to each phrase. Third, his examples indicate a basic, through rather implicit, understanding of adjuncts as less crucial phrases (*Hinanfügung*) that are visually displayed below the main constituents. Fourth, subordinate clauses have their own clausal structure, while the subordinate as a whole is assigned a function in the superordinate clause, which is a clear precursor of constituency structure. Finally, in the text he explicitly mentions that the ordering of the elements in the actual sentence is slightly different from the ordering in his analyses, and he hints at rules that determine how the abstract "underlying" structure has to be reordered into the actual form (though he does not explicitly formulate such rules).
 
 All these theoretical concepts are quite charmingly summarised by his graphical display, which can be interpreted as a kind of precursor of a constituency structure. Apparently appearing completely out of the blue, the idea of using graphics to elucidate grammatical structure is off to a great start with these proposals from Moritz' *Deutsche Sprachlehre*. Unfortunately, his approach does not have had any following and it would take almost 50 years for graphical methods to be used again for grammatical analysis in Germany, namely by Diesterweg in 1830 (see [@sec:diesterweg1830]).
+
+## Frankfurtische Gelehrtenverein
 
 ### Herling (1823) *Periodenbau der deutschen Sprache* {#sec:herling1823}
 
@@ -201,27 +201,11 @@ b.
 Graphical explanation of the different structures in [@last] from Grotefend [-@grotefend1833: 162]. Note the hierarchical constituency of the example of *Einordnung* at the bottom of the figure.
 :::
 
-### Götzinger (1827) *Deutsche Sprachlehre* {#sec:götzinger1827}
-
-Maximilian Wilhelm Götzinger (1799–1856) was a teacher of German, most of his life working in Schaffhausen (Switzerland). He wrote extensively about grammar, literature and dialectology, see Olsson [-@olsson2009] for an comprehensive appraisal of his work. Besides his didactic writings, Götzinger also provided material for Grimm's dictionary project [@olsson2009: 37] and he was even awarded a doctorate *honoris causa* from the University of Basel in 1838 [@olsson2009: 36], probably through his personal contact with Wilhelm Wackernagel (the father of Jacob Wackernagel of *Wackernagel's law*-fame).
-
-Götzinger wrote two didactic grammatical textbooks, both of which appeared in many different editions throughout the 19th Century [see @olsson2009: 42-46 for a list of all editions]. The book *Die Anfangsgründe der deutschen Sprachlehre in Regeln und Aufgaben* was first published in Leipzig in 1825. This was followed in quick succession by the *Deutsche Sprachlehre für Schulen*, first published in 1827 in Aarau. He also wrote a much more interesting book in 1836, which will be discussed separately (see [@sec:götzinger1836]).
-
-There is a curious graphic in the first edition of the *Deutsche Sprachlehre für Schulen* [@gotzinger1827: 263], reproduced here in [@fig:götzinger1827_263] from the second edition because of the higher quality of the scan [@gotzinger1830: 263]. The graphic indicates the *Hebung* 'raising' and *Senkung* 'lowering' of the voice at the various *Glieder* of a *Periode*, so this is not a graphical display of syntactic structure. For example, the example sentence in [@next] illustrates the option *Viergliedrig*, in this case probably intended to show a case with three rising *Glieder* and a final falling one.
-
-::: ex
-Wo göttliche Kraft und Empfindung die Gedanken belebt; wo Dank und Bitte auf den Flügeln des Wortes zum Himmel steigt; wo ein heiliger Ort den umherschweifenden Sinn feßelt und sammelt – da ist Religion. [@gotzinger1827: 264, citing an example from Köppen]
-:::
-
-::: {.im #götzinger1827_263}
-Götzinger's early attempt to list different kinds of sentence combinations inside a *Periode* [@gotzinger1827: 263]. The *Periode* consists of multiple *Glieder* that can have a rising or falling intonation, as indicated by the lines. By the fact that all possible structures always have a single rising part and a single falling part, Götzinger implies that each *Periode* should always have a single central maximum.
-:::
-
 ### Schmitthenner (1828) *Teutonia* {#sec:schmitthenner1828}
 
 Friedrich Jakob Schmitthenner (1796-1850) was school director in Dillenburg and later professor for history and organisation of state at the university of Gießen. He also wrote various books about German grammar and was part of the *Frankfurtischer Gelehrtenverein für deutsche Sprache*, alongside Herling ([@sec:herling1823]) and Becker ([@sec:becker1829]).
 
-In his 1828 book *Teutonia. Ausführliche Sprachlehre nach neuer wissenschaftlicher Begründung. II. Buch. Höhere Sprachlehre* Schmitthenner includes a graphic for the *Periode* ([@fig:schmitthenner1828_186]). This graphic is very similar to Götzinger's graphic (see [@sec:götzinger1827]), though it is unclear whether there is any direct influence. Like Götzinger, Schmitthenner explains that in his graphic the up and down strokes are supposed to indicate rising (*Hebung*) and falling (*Senkung*) intonation, and not syntactic structure. [@schmitthenner1828: 185]
+In his 1828 book *Teutonia. Ausführliche Sprachlehre nach neuer wissenschaftlicher Begründung. II. Buch. Höhere Sprachlehre* Schmitthenner includes a graphic for the *Periode* ([@fig:schmitthenner1828_186]). This graphic is very similar to Götzinger's graphic (see [@sec:götzinger1836]), though it is unclear whether there is any direct influence. Like Götzinger, Schmitthenner explains that in his graphic the up and down strokes are supposed to indicate rising (*Hebung*) and falling (*Senkung*) intonation, and not syntactic structure. [@schmitthenner1828: 185]
 
 ::: {.im #schmitthenner1828_186}
 Intonation contours for multi-clause extended sentences, the so-called *Periode* [@schmitthenner1828: 186]. According to Schmitthenner, a *Periode* consists of multiple *Glieder*, the *Glieder* consist of *Abschnitte*, and each *Abschnitt* seems to be an individual sentence. The lines in the graphic indicate *Abschnitte* (with rising or falling intonation), the *Glieder* are separated by colons or semicolons. For example, the last example has six *Abschnitte* and four *Glieder*. Differently from Götzinger in [@fig:götzinger1827_263], for Schmitthenner a *Periode* can have multiple intonation maxima. It remains unclear from the text whether there is an intended difference between slanted and vertical lines.
@@ -295,6 +279,8 @@ Dasjenige Objektiv, welches als das Hauptwort des ganzen Verhältnisses anzusehe
 [@becker1830: 261]
 :::
 
+## Periodenbilder & Satzbilder
+
 ### Diesterweg (1830) *Praktischer Lehrgang für den Unterricht*  {#sec:diesterweg1830}
 
 Friedrich *Adolph* Wilhelm Diesterweg (1790-1866) was a teacher and a prolific author of textbooks. He also wrote extensively about didactic methods in general, strongly influenced by the ideas of Pestalozzi. Later in life he was politically active in an attempt to reform the Prussian educational system. His practical textbooks mainly dealt with mathematics and German linguistics. A comprehensive analysis of his linguistic work can be found in Czoska [-@czoska1984]. Although his work is not cited much, and is basically unknown to contemporary linguists, it seems to have had a substantial influence on syntactic analysis in the 19th Century. Specifically, Diesterweg might have influenced Billroth (see [@sec:billroth1832], though the evidence is only circumstantial) and consequently ignited the tradition of line diagrams for dependency trees. Diesterweg's influence is explicitly acknowledged by Honcamp ([@sec:honcamp1838]), Mager ([@sec:mager1840]), Wander ([@sec:wander1856]), Schlecht ([@sec:schlecht1856]) and  Buslaev ([@sec:buslaev1844]).
@@ -303,7 +289,7 @@ The *Praktischer Lehrgang für den Unterricht in der deutschen Sprache* is a mas
 
 In the preface to the second edition from 1834, Diesterweg calls his approach *Elementarmethode* 'elementary method' (a clear nod to Pestalozzi), in opposition to the *wissenschaftliche oder die constructive Methode* 'scientific or constructive method' [@diesterweg1834: xii-xiii]. As examples of the scientific method he explicitly cites Herling, Becker, Götzinger and Schmitthenner, all of which he deems inappropriate for secondary education. However, the subsequent proposals Diesterweg makes in his book are all clearly inspired by these authors.
 
-In the first edition from 1830, Diesterweg includes a graphical represenation of the intonation contour of a *Periode*, following Götzinger ([@sec:götzinger1827]) and Schmitthenner ([@sec:schmitthenner1828]), shown here in [@fig:diesterweg1838_169] [@diesterweg1830: 191], shown here in the version from the third edition [@diesterweg1838: 169]. Diesterweg proposes a consistent uses of punctuation marks, with semicolons for sequences of *Beiordung* and colons for the main intonation maximum. With this analysis, Diesterweg follows the approach from Götzinger that each *Periode* has a single maximum.
+In the first edition from 1830, Diesterweg includes a graphical represenation of the intonation contour of a *Periode*, following Götzinger ([@sec:götzinger1836]) and Schmitthenner ([@sec:schmitthenner1828]), shown here in [@fig:diesterweg1838_169] [@diesterweg1830: 191], shown here in the version from the third edition [@diesterweg1838: 169]. Diesterweg proposes a consistent uses of punctuation marks, with semicolons for sequences of *Beiordung* and colons for the main intonation maximum. With this analysis, Diesterweg follows the approach from Götzinger that each *Periode* has a single maximum.
 
 ::: {.im #diesterweg1838_169}
 The rhythmical structure of the *Periode* [@diesterweg1830: 191; @diesterweg1838: 169], clearly inspired by Götzinger and Schmitthenner. The structure is actually closest to Götzinger as shown in [@fig:götzinger1827_263], because for Diesterweg each *Periode* only has a single intonation maximum, which is indicated by the colon between two slanted lines. The semicolons are always linking a *Beiordnung* and were originally accompanied by a horizontal line [@diesterweg1830: 191]. When the horizontal lines were removed in later editions [e.g. @diesterweg1838: 169 shown here], the same structure as found in Götzinger [-@gotzinger1827: 263] is obtained.
@@ -381,55 +367,6 @@ Second, throughout the discussion of syntax, Diesterweg frequently uses the nome
 
 In summary, the grammatical analysis of Diesterweg is a complex tour-de-force, combining insights from various scholars of the preceding decade, synthesising everything into a coherent and visually appealing package. Additionally, he attempts to make the grammatical analysis practically useful for application in the classroom. Many ideas proposed in his book feel rather modern and might have kickstarted a fruitful dicussion about syntactic analysis. Unfortunately, Diesterweg's *Lehrgang* does not seem to have had much impact on the further development of linguistics in general, nor specifically on the establishment of linguistic education. From here on, the development of grammatical analysis in Germany will proceed taking baby steps, instead of leaping ahead like Diesterweg demonstrated to be possible.
 
-### Billroth (1832) *Lateinische Syntax* {#sec:billroth1832}
-
-(Note: the first modern author to rediscover Billroth was probably Sandmann [-@sandmann1971: 428] in a book edited by Coseriu, who cited Billroth in [@coseriu1980].)
-
-At the end of his short life, Johann Gustav Willhelm Billroth (1808-1836) became professor for religion at the university in Halle. Before that, between his *Habilitation* in Leipzig in 1830 and the start of his position in Halle in 1834, he worked as a teacher for Latin [@alwast2000]. In that context he wrote two latin grammars for use in schools, first the *Lateinische Syntax für die obern Klassen gelehrter Schulen* [@billroth1832], later followed by the *Lateinische Schulgrammatik für alle Klassen* [@billroth1834].
-
-In these grammars there is a single graphical display of a grammatical structure, shown below in [@fig:billroth1832_102] [@billroth1832: 102; -@billroth1834: 332-333]. Not much is known about the grammatical background of Billroth, nor is there any explicit indication in his books about the inspiration for drawing a grammatical analysis. As he was active as a school teachter, he might very well have been aware of Becker [-@becker1829, see [@sec:becker1829]] or Diesterweg [-@diesterweg1830, see [@sec:diesterweg1830]], both of which might have been an inspiration for Billroth's graphical display. One (circumstantial) argument that Billroth was inspired by Diesterweg is that Billroth uses the term *bestimmter Satz* as a synonym to *bekleideter Satz* [@billroth1832: 97], and he also uses the noun *Bestimmung* in the meaning of "modifier" [@billroth1832: 126-127]. Diesterweg very extensively used the nouns *Bestimmung* and *Bestimmer*, the last one of which is not found in Billroth. It is possible that Billroth just used these words out of his own inspiration, but this parallel usage is idiosyncratic enough to be notewhorthy, as these terms do not seem to be in wide use at this time.
-
-In Billroth's syntax, the whole discussion of the structure of the sentence takes 11 pages [@billroth1832: 91-102]. The structure of the text is rather difficult to follow, although on closer inspection there is a clear, but drawn-out organisation. First, he introduces the simple 'naked' sentence as option *A*:
-
-> Ein Satz ist entweder: A. ein einfacher (oder nackter) d.h. ein solcher, welcher bloß aus Subject, Prädicat und Copula besteht. [@billroth1832: 91] 
-> 
-> ('A sentence is either: A. a simple (or naked) one i.e. one such that it only consists of subject, predicate and copula.')
-
-It takes 8 pages of explanations of the simple sentence until finally the expected follow-up to the option *A* occurs. Without clear formatting, the option *B* is announced innocuously on page 97, using a rather strange sentence structure that only makes sense when it is read immediately after the option *A* as quoted above.
-
-> B. oder ein bestimmter (bekleideter) d.h. ein solcher, wo entweder ein einzelner Theil oder mehrere durch Zusätze näher bestimmt werden. [@billroth1832: 97]
-> 
-> ('B. or a determined (dressed) one, i.e. one such, in which either a single part or multiple parts are further determined by additions.')
-
-Then it takes another 5 pages of explanations of different kinds of such "dressed" sentences until finally this topic is closed with the conclusion quoted below. Billroth simply states (without explanation) that the example sentence [@next] is 'dressed' as illustrated by the drawing in [@fig:billroth1832_102]. In this quote, Billroth takes the metaphor of the naked/dressed sentence even one step further by using the term *Körper* 'body' for the naked sentence.
-
-> Auf diese Weise wird z.B. folgender Satz [@next], dessen Körper eigentlich nur aus dem Subj.: *Miltiades* und dem Prädicat (mit dem Copula) *reddidit* besteht, bekleidet: [@billroth1832: 102]
-> 
-> ('In this way, the following sentence, whose body only consists of the subject *Miltiades* and the predicate (with copula) *reddidit*, is dressed:')
-
-::: ex
-|
-| Milti﻿ades, dux Atheniensium, toti Graeciae libertatem paene oppressam in pugna apud Marathonem reddidit.
-| miltiades leader Athenian.GEN.PL whole.DAT Greece.DAT liberty.ACC almost oppressed in battle near marathon restore.PERF.3SG
-| Miltiades, the leader of the Athenians, in the battle at Marathon restored to all of Greece the almost destroyed freedom.
-:::
-
-::: {.im #billroth1832_102}
-Graphical sentence analysis of [@last] from Billroth [-@billroth1832: 102]. Note the horizontal depiction of the subject-predicate pairing and all modifiers hanging down from this main structure. This depiction is rather similar to Diesterweg's approach in [@fig:diesterweg1838_260], but the usage of lines instead of braces is different.
-:::
-
-Interpreting his graphical illustration in more detail, the naked sentence is depicted by a horizonal line, while the additional elements of the "dressed" sentence are all shown as vertical/slanted lines. Billroth very clearly intends the vertical lines to represent some kind of dependency, with multiple levels of modification being illustrated by subsequent vertical lines. The structure of the graphic is quite similar to Diesterwegs proposal in [@fig:diesterweg1838_260], but with lines instead of curly braces. Note that the attachment of the phrase *in pugna apud Marathonem* 'in the battle of Marathon' is actually ambiguous. From historical knowledge it is clear that the restoration (*reddidit*) of the freedom happened at Marathon, as the graphical analysis illustrates. However, grammatically it would also be possible for the phrase *in pugna apud Marathonem* to modify the destruction (*oppressam*) of the freedom. That (factually incorrect) interpretation would result in a different diagram. Such an application of diagrams – to explain different possible structural intepretations – is later used by Brassai (see [@sec:brassai1873]).
-
-Exactly the same approach with the same picture is found in his extended grammar written two years later [@billroth1834: 332-333]. After Billroth's early death this grammar has seen various new editions. The second edition of 1838 is prepared by Friedrich Ellendt and uses exactly the same figure [@billroth1838: 329]. However, in the third edition, the picture is changed, erroneously, and has become completely incomprehensible, cf. [@fig:billroth1848_358] [@billroth1848: 358]. Ellendt possibly did not completely understand what the figure is supposed to represent.
-
-::: {.im #billroth1848_358}
-Revision of the graphical analysis in [@fig:billroth1832_102] from the 1848 revision on the auspices of Friedrich Ellendt [@billroth1848: 358]. Instead of lines there are braces, and the structure of the braces is completely incomprehensible and in places clearly wrong.
-:::
-
-Billroth's grammar has an interesting afterlife, but unfortunately without any further development of his graphical innovation. Friedrich Ellendt writes a different grammer for younger students based on Billroth's model, called *Lateinische Grammatik für die unteren Klassen der Gymnasien*. The discussion of *bekleidete oder erweitete Sätze* is very similar to Billroth's, but it has different examples and it does not have a picture anymore [@ellendt1838: 115-116]. After the death of Ellendt, that grammar is in turn adapted by Moritz Seyffert as *Dr. Friedrich Ellendt's Lateinische Grammatik für die unteren und mittleren Klassen der höheren Unterrichtsanstalten*. This grammar has seen very many revisions, editions and reprints under the heading *Ellendt-Seyfferts lateinische Grammatik* far into the 20th Century. However, Seyffert was not very impressed by the syntactical analysis of Billroth (as noted in the preface of his revision), and he rewrote the discussion of syntax wholesale.
-
-On a more positive note, Billroth's grammar had a direct influence on Julius Hoffmann (see [@sec:hoffmann1839]), and Hoffmann is quoted indirectly by Franz Kern (see [@sec:kern1883]). So it seems very plausible that Billroth's line diagram was a seed that grew slowly but surely.
-
 ### Lehmann (1833) *Allgemeiner Mechanismus des Periodenbaues* {#sec:lehmann1833}
 
 Johann August Otto Leopold Lehmann (1802-1883) worked as a teacher in Danzig (Gdańsk) and later as a school principal in Marienwerder (Kwidzyn). In this context, he prepared various educational textbooks, mainly consisting of literary commentaries, but also including songbooks, dialect analyses and some works on local history. Early in his career he wrote a linguistic treatise about the structure of the complex sentence: *Allgemeiner Mechanismus des Periodenbaues, nebst einem Versuche, an ihn eine Kritik der deutschen Periode anzuknüpfen* [@lehmann1833]. His approach to the analysis of complex sentences is based on the work of Herling (see [@sec:herling1823]), who is explicitly cited as a source of inspiration [@lehmann1833: xv-xvi]. 
@@ -505,13 +442,72 @@ Finally, Lehmann wrote a literary analysis *Forschungen über Lessings Sprache* 
 
 Lehmann's examples of the application of the scheme to actual literary texts inspired many philological analyses in the decades to come. For example, via the *Repetitorium* of Menge (see [@sec:menge1873]) there is a direct line to the 1969 dissertation on the *Amadisroman* from Langholf (see [@sec:langholf1969]) using similar graphical analyses as Lehmann, more than a century after the original proposals.
 
-## The many guises of linguistic *Bilder*
+### Billroth (1832) *Lateinische Syntax* {#sec:billroth1832}
+
+(Note: the first modern author to rediscover Billroth was probably Sandmann [-@sandmann1971: 428] in a book edited by Coseriu, who cited Billroth in [@coseriu1980].)
+
+At the end of his short life, Johann Gustav Willhelm Billroth (1808-1836) became professor for religion at the university in Halle. Before that, between his *Habilitation* in Leipzig in 1830 and the start of his position in Halle in 1834, he worked as a teacher for Latin [@alwast2000]. In that context he wrote two latin grammars for use in schools, first the *Lateinische Syntax für die obern Klassen gelehrter Schulen* [@billroth1832], later followed by the *Lateinische Schulgrammatik für alle Klassen* [@billroth1834].
+
+In these grammars there is a single graphical display of a grammatical structure, shown below in [@fig:billroth1832_102] [@billroth1832: 102; -@billroth1834: 332-333]. Not much is known about the grammatical background of Billroth, nor is there any explicit indication in his books about the inspiration for drawing a grammatical analysis. As he was active as a school teachter, he might very well have been aware of Becker [-@becker1829, see [@sec:becker1829]] or Diesterweg [-@diesterweg1830, see [@sec:diesterweg1830]], both of which might have been an inspiration for Billroth's graphical display. One (circumstantial) argument that Billroth was inspired by Diesterweg is that Billroth uses the term *bestimmter Satz* as a synonym to *bekleideter Satz* [@billroth1832: 97], and he also uses the noun *Bestimmung* in the meaning of "modifier" [@billroth1832: 126-127]. Diesterweg very extensively used the nouns *Bestimmung* and *Bestimmer*, the last one of which is not found in Billroth. It is possible that Billroth just used these words out of his own inspiration, but this parallel usage is idiosyncratic enough to be notewhorthy, as these terms do not seem to be in wide use at this time.
+
+In Billroth's syntax, the whole discussion of the structure of the sentence takes 11 pages [@billroth1832: 91-102]. The structure of the text is rather difficult to follow, although on closer inspection there is a clear, but drawn-out organisation. First, he introduces the simple 'naked' sentence as option *A*:
+
+> Ein Satz ist entweder: A. ein einfacher (oder nackter) d.h. ein solcher, welcher bloß aus Subject, Prädicat und Copula besteht. [@billroth1832: 91] 
+> 
+> ('A sentence is either: A. a simple (or naked) one i.e. one such that it only consists of subject, predicate and copula.')
+
+It takes 8 pages of explanations of the simple sentence until finally the expected follow-up to the option *A* occurs. Without clear formatting, the option *B* is announced innocuously on page 97, using a rather strange sentence structure that only makes sense when it is read immediately after the option *A* as quoted above.
+
+> B. oder ein bestimmter (bekleideter) d.h. ein solcher, wo entweder ein einzelner Theil oder mehrere durch Zusätze näher bestimmt werden. [@billroth1832: 97]
+> 
+> ('B. or a determined (dressed) one, i.e. one such, in which either a single part or multiple parts are further determined by additions.')
+
+Then it takes another 5 pages of explanations of different kinds of such "dressed" sentences until finally this topic is closed with the conclusion quoted below. Billroth simply states (without explanation) that the example sentence [@next] is 'dressed' as illustrated by the drawing in [@fig:billroth1832_102]. In this quote, Billroth takes the metaphor of the naked/dressed sentence even one step further by using the term *Körper* 'body' for the naked sentence.
+
+> Auf diese Weise wird z.B. folgender Satz [@next], dessen Körper eigentlich nur aus dem Subj.: *Miltiades* und dem Prädicat (mit dem Copula) *reddidit* besteht, bekleidet: [@billroth1832: 102]
+> 
+> ('In this way, the following sentence, whose body only consists of the subject *Miltiades* and the predicate (with copula) *reddidit*, is dressed:')
+
+::: ex
+|
+| Milti﻿ades, dux Atheniensium, toti Graeciae libertatem paene oppressam in pugna apud Marathonem reddidit.
+| miltiades leader Athenian.GEN.PL whole.DAT Greece.DAT liberty.ACC almost oppressed in battle near marathon restore.PERF.3SG
+| Miltiades, the leader of the Athenians, in the battle at Marathon restored to all of Greece the almost destroyed freedom.
+:::
+
+::: {.im #billroth1832_102}
+Graphical sentence analysis of [@last] from Billroth [-@billroth1832: 102]. Note the horizontal depiction of the subject-predicate pairing and all modifiers hanging down from this main structure. This depiction is rather similar to Diesterweg's approach in [@fig:diesterweg1838_260], but the usage of lines instead of braces is different.
+:::
+
+Interpreting his graphical illustration in more detail, the naked sentence is depicted by a horizonal line, while the additional elements of the "dressed" sentence are all shown as vertical/slanted lines. Billroth very clearly intends the vertical lines to represent some kind of dependency, with multiple levels of modification being illustrated by subsequent vertical lines. The structure of the graphic is quite similar to Diesterwegs proposal in [@fig:diesterweg1838_260], but with lines instead of curly braces. Note that the attachment of the phrase *in pugna apud Marathonem* 'in the battle of Marathon' is actually ambiguous. From historical knowledge it is clear that the restoration (*reddidit*) of the freedom happened at Marathon, as the graphical analysis illustrates. However, grammatically it would also be possible for the phrase *in pugna apud Marathonem* to modify the destruction (*oppressam*) of the freedom. That (factually incorrect) interpretation would result in a different diagram. Such an application of diagrams – to explain different possible structural intepretations – is later used by Brassai (see [@sec:brassai1873]).
+
+Exactly the same approach with the same picture is found in his extended grammar written two years later [@billroth1834: 332-333]. After Billroth's early death this grammar has seen various new editions. The second edition of 1838 is prepared by Friedrich Ellendt and uses exactly the same figure [@billroth1838: 329]. However, in the third edition, the picture is changed, erroneously, and has become completely incomprehensible, cf. [@fig:billroth1848_358] [@billroth1848: 358]. Ellendt possibly did not completely understand what the figure is supposed to represent.
+
+::: {.im #billroth1848_358}
+Revision of the graphical analysis in [@fig:billroth1832_102] from the 1848 revision on the auspices of Friedrich Ellendt [@billroth1848: 358]. Instead of lines there are braces, and the structure of the braces is completely incomprehensible and in places clearly wrong.
+:::
+
+Billroth's grammar has an interesting afterlife, but unfortunately without any further development of his graphical innovation. Friedrich Ellendt writes a different grammer for younger students based on Billroth's model, called *Lateinische Grammatik für die unteren Klassen der Gymnasien*. The discussion of *bekleidete oder erweitete Sätze* is very similar to Billroth's, but it has different examples and it does not have a picture anymore [@ellendt1838: 115-116]. After the death of Ellendt, that grammar is in turn adapted by Moritz Seyffert as *Dr. Friedrich Ellendt's Lateinische Grammatik für die unteren und mittleren Klassen der höheren Unterrichtsanstalten*. This grammar has seen very many revisions, editions and reprints under the heading *Ellendt-Seyfferts lateinische Grammatik* far into the 20th Century. However, Seyffert was not very impressed by the syntactical analysis of Billroth (as noted in the preface of his revision), and he rewrote the discussion of syntax wholesale.
+
+On a more positive note, Billroth's grammar had a direct influence on Julius Hoffmann (see [@sec:hoffmann1839]), and Hoffmann is quoted indirectly by Franz Kern (see [@sec:kern1883]). So it seems very plausible that Billroth's line diagram was a seed that grew slowly but surely.
 
 ### Götzinger (1836) *Die deutsche Sprache* {#sec:götzinger1836}
 
 Maximilian Wilhelm Götzinger (1799–1856) was a teacher of German, most of his life working in Schaffhausen (Switzerland). He wrote extensively about grammar, literature and dialectology, see Olsson [-@olsson2009] for an comprehensive appraisal of his work. Besides his didactic writings, Götzinger also provided material for Grimm's dictionary project [@olsson2009: 37] and he was even awarded a doctorate *honoris causa* from the University of Basel in 1838 [@olsson2009: 36], probably through his personal contact with Wilhelm Wackernagel (the father of Jacob Wackernagel of *Wackernagel's law*-fame).
 
-Götzinger's early textbooks were already mentioned in [@sec:götzinger1827], but these early books did not contain any graphical analyses of sentences. But then Götzinger discovered Lehmann's *Periodenbau* [-@lehmann1833] and that changed everything. In 1835 Götzinger wrote a review of Lehmann' book [@gotzinger1835a] and in the third edition of the *Sprachlehre* from 1835 he introduced Lehmann's graphical displays. Götzinger cites the influence of Lehmann in the preface [@gotzinger1835: xiii-xiv] and he applies Lehmann's graphical analysis both to clause structure, under heading *Stellungen der Bekleidung* [@gotzinger1835: 243-248], and to sentence structure, under the heading *Stellung der Nebensätze* [@gotzinger1835: 310-315]. Götzinger distinguishes these two applications of Lehmann's analysis by using different names: *Satzbild* for clause structure and *Periodenbild* for larger sentence structures consisting of multiple clauses [@gotzinger1835: 311].
+Before his main work *Die deutsche Sprache* [@gotzinger1836; -@gotzinger1839], Götzinger wrote two didactic grammatical textbooks, both of which appeared in many different editions throughout the 19th Century [see @olsson2009: 42-46 for a list of all editions]. The book *Die Anfangsgründe der deutschen Sprachlehre in Regeln und Aufgaben* was first published in Leipzig in 1825. This was followed in quick succession by the *Deutsche Sprachlehre für Schulen*, first published in 1827 in Aarau.
+
+There is a curious graphic in the first edition of the *Deutsche Sprachlehre für Schulen* [@gotzinger1827: 263], reproduced here in [@fig:götzinger1827_263] from the second edition because of the higher quality of the scan [@gotzinger1830: 263]. The graphic indicates the *Hebung* 'raising' and *Senkung* 'lowering' of the voice at the various *Glieder* of a *Periode*, so this is not a graphical display of syntactic structure. For example, the example sentence in [@next] illustrates the option *Viergliedrig*, in this case probably intended to show a case with three rising *Glieder* and a final falling one. (also in Schmitthenner, and later used by Diesterweg)
+
+::: ex
+Wo göttliche Kraft und Empfindung die Gedanken belebt; wo Dank und Bitte auf den Flügeln des Wortes zum Himmel steigt; wo ein heiliger Ort den umherschweifenden Sinn feßelt und sammelt – da ist Religion. [@gotzinger1827: 264, citing an example from Köppen]
+:::
+
+::: {.im #götzinger1827_263}
+Götzinger's early attempt to list different kinds of sentence combinations inside a *Periode* [@gotzinger1827: 263]. The *Periode* consists of multiple *Glieder* that can have a rising or falling intonation, as indicated by the lines. By the fact that all possible structures always have a single rising part and a single falling part, Götzinger implies that each *Periode* should always have a single central maximum.
+:::
+
+Then Götzinger discovered Lehmann's *Periodenbau* [-@lehmann1833] and that changed everything. In 1835 Götzinger wrote a review of Lehmann' book [@gotzinger1835a] and in the third edition of the *Sprachlehre* from 1835 he introduced Lehmann's graphical displays. Götzinger cites the influence of Lehmann in the preface [@gotzinger1835: xiii-xiv] and he applies Lehmann's graphical analysis both to clause structure, under heading *Stellungen der Bekleidung* [@gotzinger1835: 243-248], and to sentence structure, under the heading *Stellung der Nebensätze* [@gotzinger1835: 310-315]. Götzinger distinguishes these two applications of Lehmann's analysis by using different names: *Satzbild* for clause structure and *Periodenbild* for larger sentence structures consisting of multiple clauses [@gotzinger1835: 311].
 
 Contamporaneously to revising this textbook, Götzinger prepared his magnum opus *Die deutsche Sprache und ihre Literatur* [volume one -@gotzinger1836; volume two -@gotzinger1839]. This book also includes many graphical analyses inspired by the *Periodenbilder* from Lehmann (see [@sec:lehmann1833]). In this book, Götzinger does not explicitly cite Lehmann as his inspiration for the graphical display, but he mentions Lehmann's *vortreffliches Buch* ('excellent book') in a different context [@gotzinger1839: 217]. I will use these two volumes of *Die deutsche Sprache* to summarise Götzinger's interpretation of Lehmann's approach.
 
@@ -565,6 +561,20 @@ Friedrich Julius Horn (1809-1841) was a teacher in Rastenburg (today Kętrzyn in
 *Periodenbild* in the style of Lehmann (cf. [@fig:lehmann1833_126]) for the example in [@last] from Horn [-@horn1837: 313].
 :::
 
+### Honcamp (1838) *Leitfaden für die Sprachbildung* {#sec:honcamp1838}
+
+*Franz* Cornelius Honcamp (1805-1866) was a teacher in Büren (Westfalen). He wrote various grammatical textbooks, strongly influenced by Becker (see [@sec:becker1829]) and Diesterweg (see [@sec:diesterweg1830]). Because of a small article, in which he implicitly criticised the role of the church in schools, he was eventualy laid off by the Prussian state in 1854 and worked as a private teacher for the last few years of his life. More biographical details and a detailed discussion of the unfortunate clash with church and state is provided by Diesterweg [-@diesterweg1866].^[A useful summary of Honcamps life and work is available online at <https://www.lexikon-westfaelischer-autorinnen-und-autoren.de/autoren/honcamp-franz-cornelius>, accessed 11 February 2025.]
+
+Honcamp's first grammatical book is called *Leitfaden für die Sprachbildung in deutschen Volkschulen* [@honcamp1838]. In the subtitle he mentions the explicit influence from the work of Becker: *Begründet auf Dr. K.F.Becker’s grammatische Ansicht, und fachgemäß methodologisch angeordnet* 'based on Dr. K.F.Becker’s grammatical view, and properly methodologically arranged'. Specifically, Honcamp uses the tabular analysis from Becker, in which each row is numbered [@honcamp1838: 259-260, 271-275]. An extensive explanation of Honcamp's syntactic analysis is provided in his *Vollständige Anleitung zum Elementar-Unterrichte in der Sprachlehre* [@honcamp1841: 13, 21, 30, 87, 90, 224-226]. This book is dedicated to Becker and follows his proposals almost verbatim. An example of a Becker-style numbered table from this book is shown in [@fig:honcamp1841_224] for the biblical example in [@next]. This numbering allows for concrete reference of dependent words to their heads. Exactly the same use of numbered reference is (again) used by contemporary dependency grammar formats like *Universal Dependencies* (UD). Similar examples of syntactic analysis are also included in later books by Honcamp, e.g. in his *Gedanken über den Unterricht in der Sprachlehre* [@honcamp1845: 29, dedicated to Diesterweg] and *Lehr- und Übungsbuch für den Sprachunterricht in niederdeutschen Landschulen* [@honcamp1851: 19-20].
+
+::: ex
+Als in Kanaan die Theurung ausgebrochen war schickte Jakob zehn seiner Söhne nach Aegypten, weil er hörte, daß man dort noch Getreide kaufen könnte.
+:::
+
+::: {.im #honcamp1841_224}
+Tabular analysis of the structure of [@last] from Honcamp [-@honcamp1841: 224], following the system of Becker (see [@fig:becker1833_43]). By using numbered rows and references to these numbers, this analysis almost perfectly represents the notation of a contemporary dependency tree.
+:::
+
 ### Beilhack (1838) *Deutsche Grammatik* {#sec:beilhack1838}
 
 Johann Georg Beilhack (1802-1864) was a teacher and school principal in Munich.^[A succinct biographical sketch is available online at <https://de.wikipedia.org/wiki/Johann_Georg_Beilhack>, accessed 9 May 2025.]
@@ -596,28 +606,18 @@ The fourth edition [@beilhack1838] is completely reworked. Besides citing Becker
 - using 'nackte' and 'bekleidete' Sätze 1838: 179
 - fifth edtion 1840 basically the same: numbers above words 1838:177, 1840:175 (1: subject, 2: predicate, 3: copula) https://www.digitale-sammlungen.de/en/view/bsb10583397?page=187
 - numbers also used for "Stufen der Bekleidung" "Grad der Abhängigkeit" (level of embedding of noun phrase inside noun phrases) on 1838:196
-- complex sentences with graphic, only in fifth edition 1840:239 https://www.digitale-sammlungen.de/en/view/bsb10583397?page=251
+- complex sentences with graphic, only in fifth edition 1840:239 https://www.digitale-sammlungen.de/en/view/bsb10583397?page=251, also 261-265
 
-
-Periodenbilder 1838:266-267, example page 267:
+Periodenbilder 1838:266-267
 
 ::: ex
 Obwohl Cäcar, nachdem er diese Lage der Dinge erfahren hatte, überzeugt war, daß es von großer Bedeutung sei, sich sobald als möglich der Stadt zu bemächtigen und die Cohorten des Domitius zu sich ins Lager herüberzuführen, damit nicht durch Geschenke, Einflößung neuen Muthes oder falsche Gerüchte eine Umwandlung der Gesinnung eintreten könnte, weil im Kriege oft aus kleinen Veranlassungen große Nachtheile entstündne: so unterließ er doch dieses Alles, weil er fürchtete, es möchte beim Einbringen seiner Soldaten, indem bei der Nacht die Zügellosigkeit derselben nicht gehemmt werden könnte, die Stadt geplündert werden, lobte diejenigen, welche zu ihm gekommen waren, entsandte sie wieder in die Stadt und ließ die Thore und die Mauern sorgfältig beobachten.
 :::
 
-### Honcamp (1838) *Leitfaden für die Sprachbildung* {#sec:honcamp1838}
-
-*Franz* Cornelius Honcamp (1805-1866) was a teacher in Büren (Westfalen). He wrote various grammatical textbooks, strongly influenced by Becker (see [@sec:becker1829]) and Diesterweg (see [@sec:diesterweg1830]). Because of a small article, in which he implicitly criticised the role of the church in schools, he was eventualy laid off by the Prussian state in 1854 and worked as a private teacher for the last few years of his life. More biographical details and a detailed discussion of the unfortunate clash with church and state is provided by Diesterweg [-@diesterweg1866].^[A useful summary of Honcamps life and work is available online at <https://www.lexikon-westfaelischer-autorinnen-und-autoren.de/autoren/honcamp-franz-cornelius>, accessed 11 February 2025.]
-
-Honcamp's first grammatical book is called *Leitfaden für die Sprachbildung in deutschen Volkschulen* [@honcamp1838]. In the subtitle he mentions the explicit influence from the work of Becker: *Begründet auf Dr. K.F.Becker’s grammatische Ansicht, und fachgemäß methodologisch angeordnet* 'based on Dr. K.F.Becker’s grammatical view, and properly methodologically arranged'. Specifically, Honcamp uses the tabular analysis from Becker, in which each row is numbered [@honcamp1838: 259-260, 271-275]. An extensive explanation of Honcamp's syntactic analysis is provided in his *Vollständige Anleitung zum Elementar-Unterrichte in der Sprachlehre* [@honcamp1841: 13, 21, 30, 87, 90, 224-226]. This book is dedicated to Becker and follows his proposals almost verbatim. An example of a Becker-style numbered table from this book is shown in [@fig:honcamp1841_224] for the biblical example in [@next]. This numbering allows for concrete reference of dependent words to their heads. Exactly the same use of numbered reference is (again) used by contemporary dependency grammar formats like *Universal Dependencies* (UD). Similar examples of syntactic analysis are also included in later books by Honcamp, e.g. in his *Gedanken über den Unterricht in der Sprachlehre* [@honcamp1845: 29, dedicated to Diesterweg] and *Lehr- und Übungsbuch für den Sprachunterricht in niederdeutschen Landschulen* [@honcamp1851: 19-20].
-
-::: ex
-Als in Kanaan die Theurung ausgebrochen war schickte Jakob zehn seiner Söhne nach Aegypten, weil er hörte, daß man dort noch Getreide kaufen könnte.
+::: {.im #beilhack1838_267}
+[@beilhack1838: 267]
 :::
 
-::: {.im #honcamp1841_224}
-Tabular analysis of the structure of [@last] from Honcamp [-@honcamp1841: 224], following the system of Becker (see [@fig:becker1833_43]). By using numbered rows and references to these numbers, this analysis almost perfectly represents the notation of a contemporary dependency tree.
-:::
 
 ### Hoffmann (1839) *Neuhochdeutsche Schulgrammatik* {#sec:hoffmann1839}
 
@@ -2055,7 +2055,7 @@ Meyer-Lübke (1899) *Grammatik der Romanischen Sprachen* uses SVOPA abbreviation
 
 Feigl (1904) *Die Stellung der Satzglieder* Friedrich Feigl, inspired by Meyer-Lübke https://opac.ku.de/s/uei/de/2/10/BV008647023
 
-## Algebraic formulae
+## Constituency in Germany
 
 ### Wundt (1880) *Logik* {#sec:wundt1880}
 
