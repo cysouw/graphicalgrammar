@@ -168,7 +168,7 @@ earliest experience as a deaf-mute teacher [@storrs1880: 117]
 
 [@wing1885] further development of storrs/peet symbols for the deaf (which were also the basis for March 1869)
 
-## Danish
+## Scandinavia
 
 ### Broberg (1882) *Manuel de la langue danoise* {#sec:broberg1882}
 
@@ -189,185 +189,6 @@ Repeated here is one of Broberg's Danish example sentence in [@next a], with his
 ::: {.im #broberg1882_95}
 Indented table by Broberg [-@broberg1882: 95] to explain the sentence structure of the Danish example sentence in [@last a]. The actual order of the words is indicated by the numbers. The top to bottom order in the table indicates relative modification, i.e. each indented phrase modifies the head phrase above it. The placement of phrase 8 (*en af Gjæsterne*) is probably a printing error, it should be placed much more to the right.
 :::
-
-### Jespersen (1921) *De to hovedarter av grammattiske forbindelser* {#sec:jespersen1921}
-
-Otto Jespersen (1860-1943) was professor of English at Copenhagen. Jespersen worked on a wide variety of linguistic topics and throughout his long life he prepared a massive 7-volume *Modern English grammar on historical principles*. For most of his career he did not apply graphical or algebraic methods to linguistic analysis. There are just a few incidental symbolic representation in *Sprogets logik* 'The logic of language' [@jespersen1913: 80-81] and a single graphical representation in *De to hovedarter av grammattiske forbindelser* 'The two main types of grammatical connections' [@jespersen1921: 18]. Only towards the end of his life he published *Analytic syntax* [@jespersen1937], in which he laid out a completely symbolic framework for linguistic analysis. It feels like an idea he probably had been working on for a long time, but only published late in his career.
-
-Jespersen proposed various structural principles for linguistic analysis, above all his notion of *rang* 'rank' [first introduced in @jespersen1913: 31]. The basic idea of *rang* is that there are different levels of modification in language. Jespersen uses roman capital letters *I, II, III* for these levels. He named the first three levels as *overled*, *adled* and *underled* [@jespersen1913: 31] or in a different publication *primær*, *sekundær* and *tertiær* [@jespersen1921: 3] and in English *principal*, *adjunct* and *subjunct* [@jespersen1913: 31]. He clearly intends there to be more levels, but he claims without much argumentation that further levels are inherently the same as the third level [@jespersen1921: 3]. 
-
-Jespersen considers the first two levels to be the most interesting: *Da de tertiære elementer ikke gir anledning til videre bemærkninger, skal jeg nu helt forlade dem for at holde mig til forbindelserne mellem primære og sekundære elementer* 'Since the tertiary elements do not warrant further comment, I must now leave them entirely in order to stick to the connections between primary and secondary elements' [@jespersen1921: 4]. Jespersen goes into great detail about the many different ways level I and II occur in language. Curiously, he quickly stops using the letter I and II and changes to *P* and *S* instead. These letters are reminiscent of the terms "predicate" and "subject", though Jespersen does not want to use these terms:
-
-> den består av to led, som vi for at undgå forvexlinger ikke tør kalde subjekt og prædikat, men foreløbig betegner ved bogstaverne S og P. [@jespersen1921: 7]
-> 
-> ('it consists of two parts, which, to avoid confusion, we dare not call subject and predicate, but for the time being denoted by the letters S and P.')
-
-The abstract use of the letters *S* and *P* is probably an influence from Wundt (see [@sec:wundt1880]) and Sheffield (see [@sec:sheffield1912]). Jespersen cites both these authors at various places throughout his work, although not directly in connection to the abbreviations *S* and *P*. The impression arises that Jespersen had better used different terms like "dependent" and "head", but was stuck in the Wundtian tradition.
-
-The only graphical analysis that I have been able to find in Jespersen's work also points to an influence from Wundt. Jespersen uses the letters *S* and *P* recursively, similar to Wundt, in a footnote citing an incomplete quotation from Quintus Curtius Rufus' *Historiae Alexandri Magni* [@next]. He then explains that *vi det ejendommelige at S i den ene nexus selv er en nexus* 'we have the peculiarity that S in one nexus is itself a nexus' [@jespersen1921: 18]. The subsequent graphical represenation of this analysis is shown in [@fig:jespersen1921_18].
-
-::: ex
-| Latin [@jespersen1921: 18, quoting Quintus Curtius Rufus]
-| Alexander, audito Dareum movisse ab Ecbatanis, fugientem insequi pergit
-| Alexander hear.PART Darius.AKK move.INF from Ecbatana fleeing man follow.INF continue.3SG
-| Alexander, hearing that Darius had moved away from Ecbatana, continued to pursue the fleeing man.
-:::
-
-::: {.im #jespersen1921_18}
-Hierarchical *nexus* for a small part of the example [@last], *audito Dareum movisse* 'hearing that Darius had moved away', as analysed by Jespersen [-@jespersen1921: 18]. The use of the letters *S* and *P* in this hierarchical fashion is possibly an influence from Wundt.
-:::
-
-At the end of his long life Jespersen published the book *Analytic syntax* [@jespersen1937], in which he laid out a completely symbolic framework for linguistic analysis, leaving the simplistic *S/P* approach behind. The approach in *Analytic syntax* is algebraic, using symbols and brackets to analyse linguistic utterances. He does not draw any graphical representations, although Francis [-@francis1989: 83] shows that is clearly possible to interpret the bracketing as a constituent tree. Also, Jespersen [-@jespersen1937: 83] includes a graphical syntactic analysis in his book, citing Fry (see [@sec:fry1925]), so he was clearly aware of the possibility to use images to analyse language. However, for some reason Jespersen preferred an algebraical approach, citing Stöhr (see [@sec:stöhr1898]), Sapir (see [@sec:sapir1921]), Bologne (see [@sec:bologne1935]) and Brøndal (see [@sec:brøndal1932]) as having similar approaches.
-
-Jespersen uses letters, superscripts and brackets to represent syntactic structure, and, being the detailed grammarian that he has been for his whole life, he presents many pages with hundreds of examples of this system for a plethora of different grammatical phenomena from a dozen different languages [@jespersen1937: 6-84]. This is hands-down the most well-documented system of all approaches discussed in this book. A more in-depth discussion of Jespersen's approach can be found in Francis [-@francis1989] and Cigana [-@cigana2020]. As an illustration of his approach an example is shown here in [@fig:jespersen1937_83] for an example sentence taken from Fry [-@fry1925: 64].
-
-::: {.im #jespersen1937_83}
-Analysis of a complex sentence from Jespersen [-@jespersen1937: 83] citing an example from Fry [-@fry1925: 64] that originally was used to illustrate a graphical analysis (cf. [@fig:fry1925_64]). The brackets are not consistently closed in this example, but that appears to be a printing error (there should have been a closing bracket below *knife* and below *feeding*). All other examples in his book that I have checked have properly closed brackets.
-:::
-
-### Hjelmslev (1928) *Principes de grammaire générale*
-
-Louis Trolle Hjelmslev (1899-1965) was a linguist at the university of Copenhagen and co-founder of the *Lingvistkredsen* 'Linguistic Circle of Copenhagen' with Brøndal (see [@sec:brøndal1932]). Hjelmslev developed an intricate system of linguistic analysis under the label *glossomatik*, but he does not appear to have applied this to the analysis of longer stretches of text. There are many graphics in his work, but they mostly deal with paradigmatic structures. A rare syntactic visualisation is the rather trivial example shown in [@fig:hjelmslev1928_138] [@hjelmslev1928: 138] for the Latin sentence in [@next a]. A few years later he adds another trivial visualisation, as shown in [@fig:hjelmslev1935_52] [@hjelmslev1935: 52] for the Latin example in [@next b]. These visualisations are probably better analysed as showing government/agreement relations, and not as a real syntactic sentence analysis.
-
-::: ex
-a.
-| Latin [@hjelmslev1928: 138]
-| dā‑b‑ō frātrī librum
-| give‑FUT‑1SG brother.DAT book.AKK
-| I will give (my) brother a book.
-b.
-| Latin [@hjelmslev1935: 52]
-| rosa est pulchra
-| rose.NOM BE.3SG beautiful.NOM
-| The rose is beautiful.
-:::
-
-::: {.im #hjelmslev1928_138}
-A trivial graphical analysis of the case government relations in the Latin sentence [@last a] as visualised by Hjelmslev [-@hjelmslev1928: 138].
-:::
-
-::: {.im #hjelmslev1935_52}
-Analysis of government (top) and agreement (bottom) relations inside the Latin sentence [@last b] as visualised by Hjelmslev [-@hjelmslev1935: 52].
-:::
-
-### Hammerich (1930) *Nexus, Subjekt und Objekt, Aktiv und Passiv* {#sec:hammerich1930}
-
-In *Liber americorum* for Jespersen's 70th birthday, closely following Jespersen (see [@sec:jespersen1921])
-
-> Sage ich: "Der Knabe schlägt den Hund", so haben wir hier zwei Gedanken 1) *der Knabe schlägt*, dadurch 2) *der Hund wird geschlagen*. [@hammerich1930: 312]
->
-> ('When I say "the boy hits the dog", then we have two thoughts 1) "the boy hits", and therefore 2) "the dog is begin hit".')
-
-::: {.im #hammerich1930_312}
-Hierarchical analysis of Hammerich [-@hammerich1930: 312] following the proposal by Jespersen (see [@fig:jespersen1921_18]).
-:::
-
-### Brøndal (1932) *Morfologi og syntax* {#sec:brøndal1932}
-
-Rasmus *Viggo* Brøndal (1887-1942) was a professor at Copenhagen and a co-founder of the *Lingvistkredsen* 'Linguistic Circle of Copenhagen' [biographical information is available in @hallon1989: xvi-xxvi]. In his books *Ordklasserne: partes orationis. Studier over de sproglige kategorier* [@brondal1928] and more specifically in *Morfologi og syntax* [@brondal1932; translated in @hallon1989] Brøndal develops a highly idiosyncratic system for linguistic analysis based on symbolic combinations of the letters *D, d, R, r*, as summarised in the fold-out appendix to the *Ordklasserne* [@brondal1928], shown here in [@fig:brøndal1928_appendix].
-
-::: {.im #brøndal1928_appendix}
-[@brondal1928]
-:::
-
-In his books, Brøndal applies combinations of these letters (extended with colons and italic typesetting) for all kinds of different linguistic phenomena. Unfortunately, his examples for the application of this system to actual linguistic data are very short and difficult to interpret. For example, there are no real analyses of longer sentences in the discussion about syntax [@brondal1932: Chapter 2]. Togeby [-@togeby1989] proposes an interpretation of Brøndal ideas in more modern terms and visualisations. Specifically, he argues that Brøndal actually describes a hierarchichal constituency structure for sentences as shown in [@fig:togeby1989_109] for the example in [@next a]. For the internal structure of noun phrases, Brøndal [-@brondal1932: §70] uses roman numerals I through VI, which Togeby [-@togeby1989: 110] interprets as a templatic structure, shown in [@fig:togeby1989_110] for the examples in [@next b]. Such a templatic structure only becomes mainstream with the work of Diderichsen (see [@sec:diderichsen1947]).
-
-::: ex
-a.
-|
-| … at dreng-en ikke omhyggeligt har malet porten rød.
-| … that boy-DEF not carefully has painted gate red.
-| … that the boy has not carefully painted the gate red.
-b.
-|
-| de mange uartige små børn du så i går
-| the many naughty little child.PL you see.PAST yesterday
-| the many naughty little children that you saw yesterday
-:::
-
-::: {.im #togeby1989_109}
-Graphical application of Brøndal's system to the clause in [@last a] as proposed by Togeby [-@togeby1989: 109]. Such graphics are not attested in Brøndal's own work, but are implicit in his descriptions. However, it is quite hard to interpret how Brøndal really intended his system to be used [cf. @brondal1932: §48-55].
-:::
-
-::: {.im #togeby1989_110}
-Tabular representation of Brøndal's categories inside of a noun phrase like [@last b] as proposed by Togeby [-@togeby1989: 110]. The roman numerals (I through VI) are directly taken from Brøndal [-@brondal1932: §70]. Brøndal's text is really hard to interpret, and he does not directly say that these roman numerals represent ordering classes as implied by the graphic shown here. However, Togeby's interpretation is consistent with the examples as discussed by Brøndal.
-:::
-
-### Hansen (1933) *Sætningen og dens led in moderne dansk* {#sec:hansen1933}
-
-Aage Hansen (1894-1983) studied with Otto Jespersen in Copenhagen and worked at that university for the rest of his career. He was a central author in the preparation of two major encyclopaedic works about the Danish language, namely the dictionary *Ordbog over det danske Sprog* and the grammar *Moderne Dansk* [more biographical information in @hjorth2025]. Earlier in his career Hansen wrote a rather programmatic book about language analysis, called *Sætningen og dens led in moderne dansk* 'sentences and its parts in modern danish' [@hansen1933]. This book is dedicated to Jespersen and contains various graphical analyses. However, the graphics do not play a central role in his argumentation and are only used sporadically as illustrations. 
-
-Hansen uses examples from danish literature throughout his book, and he is particularly precise in referencing these examples. The examples in [@next], used for the graphics shown below, are from the author Karl Larsen. In contrast, Hansen does not cite much scientific literature, so it remains unclear how his diagrams originated. However, he regularly mentions his teacher Jesperson, who cites [e.g. in @jespersen1913] the work of Sheffield (see [@sec:sheffield1912]) and Wundt (see [@sec:wundt1880]). So the diagrams of Hansen are probably related to the immediate constituent tradition developing in the USA at the time Hansen is writing this book. 
-
-The whole book is centered around the assumption that a sentence consists of two parts, which Hansen called the *A-led* 'part A' and *B-led* 'part B' [@hansen1933: 23]. He explicitly explains that this division is not equivalent to the subject/predicate devision, but more alike to a topic/comment opposition or the classical onoma/rhema distinction [@hansen1933: 69].
-
-> en meddelelse består af to nødvendige elementer: en angivelse af den størrelse, man vil meddele noget om, og en angivelse af selve det, man
-vil meddele om denne størrelse. [@hansen1933: 22]
->
-> ('A message consists of two necessary elements: a statement of the quantity you want to communicate, and a statement of what you want to communicate about this quantity.')
-
-The graphical illustrations in his book only deal with the internal structure of the part B, although this might be a coincidence due to the sparse usage of the illustrations. Hansen uses three different graphical approaches, all intended to illustrate hierarchical modification of constituents. The first approach is a "chinese boxes" or "Matryoshka dolls" visualisation in which modifiers are hierachically organised by drawing enclosing circles or boxes. One of his drawings is shown here in [@fig:hansen1933_93a] for a small part of the example [@next a]. Hansen's second approach is particularly innovative, and I have not seen anything like this before or since. As shown in [@fig:hansen1933_93b] Hansen draws a *Planetskemaet* 'planetary scheme', in which a modifier is metaphorically compared to a planet or moon circling around another celectial body. 
-
-Finally, he also uses a more 'regular' visualisation using hierarchically ordered brackets, with a Roman numeral I for the modified element and a Roman numeral II for the modifier. This approach is shown in [@fig:hansen1933_105] for part of the sentence [@next b]. The use of Roman numerals is probably taken from Jespersen's *rang* notation [@jespersen1913: 31]. The hierarchical brackets are also found in Jespersen's work (see [@sec:jespersen1921]), but Jespersen never seems to have applied this visualisation as consistently as Hansen does here (see [@sec:jespersen1921]).
-
-::: ex
-a.
-| Danish [@hansen1933: 92, citing Karl Larsen]
-| saa har vi her en lille Samling ganske særligt fremragende Videnskabsmænd.
-| so here we have a small collection very special outstanding scientists
-| So here we have a small collection of very outstanding scientists.
-b.
-| Danish [@hansen1933: 105, citing Karl Larsen]
-| Han udmærk‑ede sig ganske særligt ved en naiv Mangel paa Kendskab til alle praktiske Ting.
-| he mark-PAST REFL very special by a naive lack of knowledge for all practical matters
-| He was particularly distinguished by a naive lack of knowledge of all practical matters.
-:::
-
-::: {.im #hansen1933_93a}
-"Chinese boxes" or "Matryoshka dolls" visualisation of relative modification of part of the noun phrase in [@last a] as used by Hansen [-@hansen1933: 93]. In this approach a modifier is placed inside the area of the modified element, and this placement of modifiers can be repeated hierarchically.
-:::
-
-::: {.im #hansen1933_93b}
-*Planetskemaet* 'planetary scheme' for the noun phrase in [@last a] as proposed by Hansen [-@hansen1933: 93]. Modification is metaphorically displayed here as a planet surrounding its head. The letters at the bottom help to identify the words represented: *(l=lille, s=samling v=videnskabsmænd f=fremragende s=særligt g=ganske)*.
-:::
-
-::: {.im #hansen1933_105}
-Hierarchical brackets for the structure of sentence [@last b] as used by Hansen [-@hansen1933: 105]. The roman numeral I indicates the *bestemmes* 'modified' and the numeral II indicates the *bestemmer* 'modifier'. The subject *han* 'he' is left out of the analysis.
-:::
-
-### Diderichsen (1947) *Elementær dansk grammatik* {#sec:diderichsen1947}
-
-https://de.wikipedia.org/wiki/Paul_Diderichsen
-
-second edition seems identical to first edition from 1947
-
-Feldertheorie [@diderichsen1957], giving nested schema like hansen [@diderichsen1957: 146] does not cite drach (1935) uses term "chinese boxes"
-
-*kinesisk Æskesystem* 'Chinese box-system' (146)
-
-"Disse Led markerer da Afsnit inden for den større Helhed, som vi vil kalde „Felter"; inden for Felterne kan der saa atter markeres en Række „Pladser"." (151)
-
-These parts mark sections within the larger whole, which we will call "fields"; within the fields a series of "places" can then again be marked.
-
-1964 English translation???
-
-details about history: https://da.wikipedia.org/wiki/Sætningsskema
-
-example p. 162, 167 (only later editions), 186
-
-He knew about Hansen, but never cited it. acknowledgement in 1964 Festschrift for Hansen [@diderichsen1966: 364].
-
-### Rehling (1951) *Det danske Sprog* {#sec:rehling1951}
-
-Erik Johan Gerhard Rehling (1890-1978) https://biografiskleksikon.lex.dk/Erik_Rehling
-
-first edition 1932, third completely revised edtion 1951
-
-::: {.im #rehling1951_232}
-[@rehling1951: 232-233]
-:::
-
-## Swedish
 
 ### Lindwall (1903) *Några ord om satsanalys* {#sec:lindwall1903}
 
@@ -469,8 +290,6 @@ In the 1935 version, there is a single page with various examples of the graphic
 Graphical analysis of the sentence [@last] from Rebbe [-@rebbe1935: 118]. The pointing arrows for modification are similar to Beckman's approach (cf. [@fig:beckman1904_194]).
 :::
 
-## Finnish
-
 ### Nieminen (1939) *Suomen kielen oppikirja*
 
 Eemil Nestor Setälä (1864-1935) was a well-known Finnish politician and author of the Finnish declaration of independence.^[I thank Fred Karlsson and Matti Miestamo for their assistance with the Finnisch language and linguistic tradition.] However, he was also a professor for Finnish language and literature at Helsinki University and among many other grammatical works he wrote a little booklet *Suomen kielen oppikirja* 'Finnisch language textbook'. The first edition appeared in 1898 and has been reprinted various time. The version from 1925, that I have consulted, does not have any graphical analyses [@setala1925].
@@ -521,165 +340,9 @@ For complex sentences with subordinate clauses, Setälä, Nieminen & Ojajärvi [
 Visualisation of clause subordination for the examples sentence in [@last] from Setälä, Nieminen & Ojajärvi [-@setala1970: 98]. Subordination is indicated by graphically lower placement of the clause, depending on the depth of the embedding.
 :::
 
-## Hungarian
-
-### Lonkay (1855) *Gyakorlati Német Nyelvtan* {#sec:lonkay1855}
-
-Antal Lonkay (1827-1888) was a teacher in Pest, Hungary [some biographical information is available in @benda1971]. He wrote a German grammar for speakers of Hungarian, called *Gyakorlati Nemet Nyelvtan az ausztriai birodalombeli elemi tanodak masodik es harmadik osztalyainak szamara* 'Practical German grammar for the second and third grades of elementary school students in the Austrian Empire' [@lonkay1855]. 
-
-In this grammar Lonkay used a templatic table for German sentence structure [see @good2016 for the linguistic notion of a template]. Most interestingly, Lonkay distinguishes specific positions for the finite verb at the second position and for non-finite parts at the end. The table is shown here in [@fig:lonkay1855_175] [@lonkay1855: 175]. This syntactic analysis is very similar to what today in German grammar is called a "topological model", which is commonly attributed to Drach (1937, see [@sec:drach1937]) and/or Diderichsen (1946, see [@sec:diderichsen1947]). However, as shown by this example from Lonkay, this approach is much older, possibly even dating back to Becker. There is no indication in the book for any inspiration that Lonkay might have had for this approach.
-
-The first position in this table is called *alany* 'subject' and the rest *allitmány* 'predicate'. Lonkay also explicitly discusses examples with non-subjects in first position on the next page as deviating from the structure shown in this table. The section called 'predicate' is separated into the following columns:
-
-- *Ige vagy esak segédige* 'Verb or auxiliary verb'
-- *Idöt*  'Time'
-- *Helyet* 'Place'
-- *Ohot* 'Reason'
-- *Módot* 'Manner'
-- *Kiegészitö nevek különféle esetekben elöljárók nélkül* 'Proper nouns in various cases without prepositions'
-- *Igenév v. határtalan mod és az igének hátratett elöljárók* 'Participle or non-finite mode and prepositions placed behind the verb'
-
-Lonkay explains in a bit more detail which elements are placed in this final position, which today is commonly called the *Rechte Satzklammer* 'rightmost sentence bracket'. This proposal to combine non-finite verbs together with separable preverbs ('prepositions') into a single slot at the end of a sentence is, for example, not yet found in Drach [-@drach1937].
-
-> … végre az igenév vagy a határtalan mód, vagy bezárhatja még a mondatot az igének elülröl elszakított s hátratett elöljárója. [@lonkay1855: 175]
->
-> ('… finally the participle or indefinite mood, or the sentence may be closed by the preposition of the verb that has been separated from the front and placed behind.')
-
-::: {.im #lonkay1855_175}
-Templatic table for German sentence structure from Lonkay [-@lonkay1855: 175]. The *allitmány* 'predicate' starts with a slot *Ige vagy esak segédige* 'Verb or auxiliary verb' and ends with a slot *Igenév v. határtalan mod és az igének hátratett elöljárók* 'Participle or non-finite mode and prepositions placed behind the verb'. This is very similar to the contemporary German grammatical sentence analysis using a *Verbalklammer* "sentence bracket".
-:::
-
-### Brassai (1873) *Paraleipomena kai diorthoumena* {#sec:brassai1873}
-
-Sámuel Brassai (1800-1897) was a polymath in the Austro-Hungarian empire, who worked most of his life at the university of Klausenburg (today Cluj, Rumania). He published in Hungarian about a wide variety of subjects, including linguistics [more details about his linguistic work in @imrenyi2020a].
-
-Of particular interest in the present context is his *Paraleipomena kai diorthoumena. A mit nem mondtak s a mit roszul mondtak a commentatorok Virg. Aeneise II. könyvére* 'Omissions and corrections: What was not said and what was wrongly said by the commentators on Book II of Virgil's Aeneid' [@brassai1873]. As the title clearly states, this book is a discussion of classical literature. The graphical analyses are inside a (long) footnote, explaining that adverbial modifiers can have different interpretations, depending on which word they modify. The graphical illustrations are thus only used as an aside, it is not the central topic of the discussion at all.
-
-To exemplify the problem of adverbial modification, Brassai chooses a sentence rather randomly from classical literature, ending up with a sentence from Ovid, shown here in [@next a] with a poetic translation in [@next b]. Ovid's sentence structure is infamous for being particularly unwieldy. Out of context, the adverbial phrase *imbre per indignas usque cadente genas* 'a shower (of tears) falling on innocent cheeks' could either modify the verb *tenebat* 'she held him' ([@fig:brassai1873_7] I), the accusative *flentem* 'the weeping one' ([@fig:brassai1873_7] II) or the nominative *uxor flens* 'wife weeping' ([@fig:brassai1873_7] III). Brassai uses the images to explain the structural difference between these possibilities.
-
-::: ex
-- uxor amans flentem flens acrius ipsa tenebat imbre per indignas usque cadente genas. [@brassai1873: 7, citing Ovid *Tristia*]
-- My loving wife was in my arms as I wept, herself weeping more bitterly, tears raining constantly over her innocent cheeks.^[Translation by A. L. Wheeler. Revised by G. P. Goold for the Loeb Classical Library. Available online at <https://www.loebclassics.com/view/ovid-tristia/1924/pb_LCL151.21.xml>.]
-:::
-
-::: {.im #brassai1873_7}
-*Schemaja* from Brassai [-@brassai1873: 7-8] of the examples sentence in [@last a]. With these graphics, Brassai explains that the adverbial phrase *imbre per indignas usque cadente genas* 'a shower (of tears) falling on innocent cheeks' could be interpreted in different ways, modifying different elements of the sentence. The Latin structure does not tell which is the right interpretation, it has to be decided from context.
-:::
-
-Brassai uses a similar graphic later in his book [@brassai1873: 37], also in a footnote. There he calls his graphic a *schemaja*. It is unclear where the inspiration for this graphical display originates. Imrényi & Vladár [-@imrenyi2020a: 166-169] propose that it is Brassai's own interpretation of Priscian, with possibly an influence from Billroth (cf. [@sec:billroth1832]). There is no direct evidence that Brassai was aware of Billroth's work [@imrenyi2021: 61], but the line diagrams are suspiciously similar. Particularly noteworthy is the verb-centric display, which he develops in the 1860s as a better representation of the Hungarian sentence structure [@imrenyi2021]. Brassai appears to be the first to use such an analysis. The next author to use rather similar looking graphical displays is Kern (cf. [@sec:kern1883]), but there is no evidence that Kern knew about Brassai's graphical analysis.
-
-A different metaphor proposed by Brassai is to compare the structure of a sentence to a solar system with the sun in the centre. Brassai does not use this metaphor for any visual display. Independently, this approach is used for the graphical analysis of sentences by Hansen (see [@sec:hansen1933]) and in much detail by Rehling (see [@sec:rehling1951]).
-
-> Szerintem t.i. abban a rendszerben, a mit "mondat<"-nak (Satz, phrase) neveznek, a nap – az uralkodó középpont, az ige. Ez vonzza a körülte keringö s forgó planétákat, melyeket a nyelvtanok Subject, Atribut, Object, Umstandswort, s ki tudja még hány különbözö nevek alatt tárgyalnak, s a melyeket mindnyájokat én a "határozó" rovatfogalom alá húzok. És méltán, mert syntactikai tekintetböl épen semmi különbség sincs köztük. Egy igazán szabatos mondatban egyikök sem elébbvaló, egyikök sem lényegesebb, egyikök sem nélkülözhetlenebb, mint akármelyik másik. A határozók ismét holdakat vonzanak és vezetnek magok körül *jelzők* képében, melyek megint különbféle alakokban jelennek meg; de azért, mint határozók határzói, syntactice mind egyneműek. [@brassai1873: 5-6]
->
-> 'I think, for example, that in the system called "sentence" (Satz, phrase), the sun is the dominant center, the verb. This attracts the planets that orbit and revolve around it, which grammarians discuss under the heading of Subject, Attribute, Object, Umstandswort, and who knows how many other different names, and which I bring all under the heading of "dependent". And rightly so, because from a syntactic point of view there is absolutely no difference between them. In a truly correct sentence, none of them is more important, none of them is more indispensable than any other. The dependents again attract and govern moons around themselves in the form of attributes, which again appear in different forms; but nevertheless, as dependents of dependents, they are all syntactically of the same kind.'
-
-## Dutch
-
-### Kinker (1817) *Inleidung voor eene wijsgeerige algemene theorie der talen*
-
-Johannes Kinker (1764-1845) was a Dutch poet and professor for Dutch language in Liège (from 1817 until the Belgian independence in 1830). He also was a member of the *Koninklijk-Nederlandsche Institut van Wetenschappen*, the predecessor of the current dutch academy of sciences (KNAW). Some further biographical information about Kinker is presented by Hanou [-@hanou1988: 19-35].
-
-He presented his thoughts about language at the academy between 1810 and 1812, and submitted a written version of these speeches in 1813. It took until 1817 for this manuscript to be published as the first *Gedenkschrift* of the academy with the title *Inleidung voor eene wijsgeerige algemene theorie der talen* 'introduction to a philosophical general theory of languages' [@kinker1817]. A thorough analysis of this work is presented by Van der Wal [-@wal1977]. There are hardly any references to other authors in the work of Kinker, so it if difficult to assess whether he had any inspiration for this graphical analysis. In a later paper read at the academy he proposes to position his approach within Kantian philosophy [@kinker1833].
-
-In the *Inleiding* Kinker proposes a general approach to the analysis of language. After discussing the problem of meaning and examining the parts of speech, he turns his attention to syntax starting in chapter nine [@kinker1817: 214 ff.]. His approach to syntax is based on a tripartite analysis of a proposition consisting of the parts *agens-agere-actum*, or in Dutch *persoon-daad-zaak* 'person-act-thing' [@kinker1817: 216-217]. Kinker proposes to write these three elements symbolically as *A:B*, in which the colon identifies the act, i.e. the 'verbal part' [@kinker1817: 217]. Any additional elements are marked with an *n* and are not further analysed.
-
-Kinker calls his symbolic approach *pasigraphisch* [@kinker1817: 224-226], which is a direct reference to the pasigraphic proposals of Maimieux [-@maimieux1797], who is not mentioned by name in the work of Kinker. Although Maimieux proposed a highly complex semiotic symbolic analysis, there does not appear to be any real syntax in that work. Kinker, in contrast, devises his system as a real syntactic analysis. He illustrates his syntactic approach with an analysis of a quotation from Cicero's *Orationes in Catilinam* [@next]. The graphical analysis is shown in [@fig:kinker1817_225]. This example is also discussed by Van der Wal [-@wal1977: 78, fn. 89], but only in a short footnote.
-
-::: ex
-- Quare, quoniam id, quod est primum atque hujus Imperii disciplinaeque maiorum proprium est, facere nondum [ego] audeo, faciam [ego] id, quod est ad severitatem lenius, ad communem salutem utilius. Nam si te interfici [ego] jussero, residebit in republica reliqua conjuratorum manus: sin tu (quod te jam dudum [ego] hortor) exieris; exhaurietur ex urbe tuorum comitum magna et perniciosa sentina reipublicae. \
-  [@kinker1817: 217, citing Cicero, *Orationes in Catilinam*. The pronouns *ego* are added by Kinker]
-- Wherefore, since that which is first, and which is proper to this empire and the discipline of our ancestors I do not yet dare to do, I will do that which is milder in severity and more useful to the common welfare. For if I order you to be killed, the remaining band of conspirators will remain in the republic: but if you (as I have long since urged you) would depart; then drained from the city will be your comrades' massive and pernicious scum of the republic.
-:::
-
-Kinker subdivides this text into nine propositions [@next], which are organised in a binary hierarchical structure, using hebrew letters Alef א and Bet ב on the highest level of analysis, latin capitals *AB* on the second level, latin lowercase letters *ab* on the third level and greek lowercase letters *αβ* on the fourth level. His analysis in [@fig:kinker1817_225] shows the logical structure of the text, rearranging the actual order as needed. All levels consist of the tripartite structure *agens-agere-actum*, but on the higher levels the *agere* colon is not represented by any linguistic form.
-
-The whole cited text from Cicero is analysed as an *actum* for the first part (hebrew Bet) and *agens* for the second (hebrew Alef), so in the graphic these sentences are reversed from the original order, because Kinker always puts the agens first, before the actum. The Alef-part, in turn, consists of two propositions connected by a plus sign, each internally is a *A:B* combination. The resulting four elements are the propositions [@last a-e], with an additional inserted parenthetical clause. Each of these has internally an *a:b* structure with additional elements marked as *(n)*. The Bet-part of the text concists of a single *A:B* combination, but both the *A* and *B* propositions have an internal structure. They consist of an *a:b* proposition in which the *b* part is itself a subordinate proposition, marked by greek letters *α:β*. Interestingly, Kinker does not use this subordinate analysis for the part *te interfici* of [@last a], which would have made grammatical sense. Also note that Kinker analyses the prepositions of *in republica* [@last b] and *ex urbe* [@last e] as part of the predicate instead of as part of a prepositional phrase.
-
-::: ex
-a.
-|
-| Nam si te interfici jussero
-| because if you be.killed order.1SG
-| for if I order you to be killed
-a.
-|
-| residebit in republica reliqua conjuratorum manus
-| remain.FUT.3SG in republic remainder conspirators.GEN group.GEN
-| the remaining band of conspirators will remain in the republic
-a.
-|
-| sin tu exieris
-| if you depart.2SG
-| but if you would depart
-a. 
-| 
-| quod te jam dudum hortor
-| which you for.a.long.time urge.1SG
-| as I have long since urged you
-a.
-|
-| exhaurietur ex urbe tuorum comitum magna et perniciosa sentina reipublicae
-| be.drained from city your comrades.GEN large and pernicious scum republic.GEN
-| drained from the city will be your comrades' massive and pernicious scum of the republic
-a.
-|
-| quoniam id facere nondum audeo
-| since that do not.yet dare.1SG
-| since that I do not yet dare to do
-a.
-|
-| quod est primum atque hujus imperii disciplinae‑que maiorum proprium est
-| which is first and proper empire.GEN discipline.GEN‑and ancestors.GEN real.GEN is
-| which is first, and which is proper to this empire and the discipline of our ancestors
-a.
-|
-| Quare faciam id
-| wherfore do.FUT.1SG that
-| Wherefore I will do that
-a.
-|
-| quod est ad severitatem lenius, ad communem salutem utilius
-| which is in severity milder for common welfare useful
-| which is milder in severity and more useful to the common welfare
-:::
-
-::: {.im #kinker1817_225}
-*Pasigraphische zin-afbeelding* 'pasigraphic sentence-picture' for a sentence of Cicero [@llast] from Kinker [@kinker1817: 225]. He subdivises the text into nine propositions, glossed in [@last], each with a tripartite *a : b* structure, representing approximately subject-verb-object. Note that the prepositions 6 and 7 in the graphic each have an internal subordinate clause marked with greek letters *α : β*. Additionally, the connection between the nine propositions is analysed on the left side as *agens-actum* pairs *A:B*, but here the colon does not represent anything. On the highest level, the whole text is again analysed as an *agens-actum* pair, marked by hebrew letters Alef א and Bet ב.
-:::
-
-Kinker considers this visual analysis just to be a introductory illustration and remarks that for a complete system much more symbolic elements would have to be introduced. However, he does not pursue this endevour himself, and nobody else seems to have taken up on this task.
-
-> Om de formelijke pasigraphie, overeenkomstig de algemeene taal-theorie, welke wij in de toepassing der grondbeteekenissen op de taalformen ontwikkeld hebben, tot een volledig stelsel optetrekken, zou men niet alleen de acht verbale dynamische wijzigingen, maar ook al de wijzigingen der wortelwerkwoorden, door onderscheiden teekenen moeten aanwijzen, en aan de voorzetsels, in hunne
-quantitatieve duiding, zoo wel als aan de dynamische en modale voegwoorden, een onderscheidend kenmerk moeten geven. Doch dit kan mijne taak, in deze inleiding voor eene algemeene taalwetenschap, niet zijn. Men beschouwe dit schema slechts als een voorbeeld, strekkende om den aard van het formelijke en werktuigelijke der taal, eenigzins toetelichten. [@kinker1817: 226]
->
-> ('To extend this formal pasigraphy into a complete system, in accordance with the general theory of language, which we have developed by the application of basic meanings to the linguistic forms, one would have to indicate not only the eight verbal dynamic modifications, but also all the modifications of verbal roots, by means of distinct signs, and assign a distinguishing mark to the prepositions, in their quantitative interpretation, as well as to the dynamic and modal conjunctions. However, this cannot be my task in this introduction to a general theory of linguistics. This scheme should be regarded merely as an example, intended to somewhat illustrate the nature of the formal and mechanical aspects of language.')
-
-### de Groot (1949) *Structural linguistics and syntactic Laws* {#sec:degroot1949}
-
-Albert W. de Groot (1892-1963)
-
-brackets [@groot1949: 10], numbers and incidental brackets [@groot1949a: 117, 156, 184, 230]
-
-### Paardekooper (1955) *syntaktische verkenningen*
-
-basic underline-style diagramming in [@paardekooper1955], published version identical to thesis [@paardekooper1955a]. More extensive diagramming in [@paardekooper1963]
-
 ## French
 
 Origin of the term *syntagma* in the Cours of 1916? Analyse logique with Du Marsais in 1754?
-
-### Maimieux (1797) *Pasigraphie*
-
-Joseph de Maimieux (1753-1820)
-
-https://en.wikipedia.org/wiki/Joseph_de_Maimieux [@maimieux1797; @maimieux1797a]
-
-more? 
-
-- http://www.lingviko.net/biblio.html#chap11
-- https://academic.oup.com/edited-volume/62210/chapter/550164521
-- https://en.wikipedia.org/wiki/An_Essay_Towards_a_Real_Character,_and_a_Philosophical_Language
 
 ### Lanusse & Yvon (1923) *Cours complet de grammaire française* {#sec:lanusse1923}
 
@@ -771,68 +434,6 @@ first edition no graphic [@bally1932], only in revision of 1944
 ::: {.im #bally1944_39}
 [@bally1944: 39]
 :::
-
-### Mikuš (1947) *Le Syntagme EST-IL Binaire?* {#sec:mikuš1947}
-
-Radivoj Francis Mikuš (1906-1983) was born in current Slovenia, but his life almost perfectly coincided with the existence of Yugoslavia. He studied romance languages in Ljubljana and Paris, and after WWII he became a lecturer in Ljubjana. After cricizing the influential linguist Aleksandar Belić, Mikuš left Ljubjana in 1958 and became professor in Zadar (today in Croatia). In his years in Ljubljana he signed his papers with the first name "Francis", while in the Zadar period he used "Radivoj" instead. Basic biographical data about Mikuš in provided by Jevnikar [-@jevnikar1984]. More details, specifically about his time in Zadar, can be found in Ćosić [-@cosic2014].
-
-During his studies in Paris, Mikuš was strongy influenced by the Geneva school of linguistics (as Mikuš himself calls it) of de Saussure and Bally. All early papers by Mikuš are written in french, and his work is mainly recognized in the french-speaking scientific community. Especially Bally and his differentiation of *determiné T* and *determinant T'* (see [@sec:bally1944]) is regularly cited by Mikuš. A major part of Mikuš' work is devoted to the analysis of the *syntagme*, which he equates with the notion of *constituent* as used by US-linguists [@mikus1952: 431]. For his tree-like constituency analysis, Mikuš refers to Wundt as an influence (see [@sec:wundt1880]), singling out the work of Wundt-follower Jan Michał Rozwadowski [@mikus1955], who does not draw any pictures himself. Mikuš [-@mikus1952: 432] also cites the work of De Groot [-@groot1949], which might have been the influence for the usage of hierarchical bracketing. There is no indication for any influence for the recursive "chinese" boxes diagram, which is used by Mikuš as early as 1947 as *encadrement* [@mikus1947: 37].
-
-The first international paper written by Mikuš [-@mikus1947] is a short paper in the journal *Word* about the binary structure of the *syntagme* called *le syntagme EST-IL binaire?*. He proposes to use Wundt's hierarchical tree structures as a model for Bally's *determiné-determinant* analysis of the *syntagme* (see [@fig:mikus1947_33]). Later in the same paper he uses a recursive *encadrement* for the same example (see [@fig:mikus1947_37]).
-
-::: {.im #mikus1947_33}
-*Formule* from Mikuš [-@mikus1947: 33] *faites sur les moules de Wundt* 'made in the mold of Wundt'.
-:::
-
-::: {.im #mikus1947_37}
-*Encadrement* for the same examples as analysed in [@fig:mikus1947_33] from Mikuš [-@mikus1947: 37]. There is no indication for Mikuš' inspiration for this "chinese boxes" diagram.
-:::
-
-Mikuš next paper, called *Quelle est en fin de compte la structure-type du langage?* 'What, ultimately, is the typical structure of language?' [@mikus1952] is an innovative further development of his analysis of the *structure syntagmatique*. Exactly the same analysis was also published at the slovenian academy of sciences in Ljubljana [@mikus1952a: 59-65], but with a critical preface about the ideas of Aleksandar Belić, the president of the academy, which lead eventually to Mikuš departure from Ljubljana a few years later. While developing his ideas for this paper, Mikuš did not know about the analysis of immediate constituents in the USA. He notes at the start of the paper that *je regrette de ne pas connaître de près* 'I regret not being intimately familiar' with the work of Bloomfield (see [@sec:bloomfield1933]) or Pike (see [@sec:pike1943]). Mikuš' paper seems to have been little noticed, neither in Europe nor in the USA, although it was published in the widely read journal *Lingua*. Today the paper is still largely unknown in the linguistic community, in spite of the fact that it contains a very early example of generative rewrite rules, published before chomsky's work. Mikuš discussed the syntactic structure of various longer examples [@mikus1952: 453-460], using different visualisations, including hierachical bracketings, see [@fig:mikus1952_460a] [@mikus1952: 460], recursively enclosed boxes, see [@fig:mikus1952_460b] [@mikus1952: 452, 457, 460, 462] and spirals, see [@fig:mikus1952_461] [@mikus1952: 461-462]. 
-
-Mikuš approach is illustrated here with the example [@next], which is analysed as shown in [@fig:mikus1952_460a]. He analyses this sentence into ten *monèmes*, a term introduced by Frei [-@frei1941: 51], and nine *structures*. Mikuš uses these terms meaning (using Chomskian terminology here) "lexical entry" and "constituent", respectively. In the top part of [@fig:mikus1952_460a] he lists the nine structures/constituents, differentiating them into head (*determiné T*) and dependent (*determinant T′*). The bottom part of [@fig:mikus1952_460a] analyses the constituency by listing the *substitutions*, which are rewrite rules. There is no indication that Mikuš knew about the approach of Harris (see [@sec:harris1946]). In these rewrite rules, the *monèmes* 'lexical entries' are printed in italics, indicating the endpoints of the recursion.
-
-::: ex
-Après dix ans de absence, Joseph rentre dans son village. \
-After ten years of absence, Joseph returns to his village.
-:::
-
-There are various errors in the printed version of the rewrite rules as shown in lower part of [@fig:mikus1952_460a], which have been corrected below. First, in the last line of the first column it should be *T 3* instead of *T′3*. Second, the order of *T′5.T 5* and of *T′7.T 7* should have been reversed (but note that in line five of the right side the accent with *T′7* is correct). Third, the usage of *T 7* in the last line on the right side should be *T′7*. Finally, the full stops are applied inconsistently. A different printed version [@mikus1952a: 61] of exactly the same example makes clear that Mikuš intended the dots to be left out before brackets.
-
-- T 1 = *T 2.*T′2
-- T 2 = *T 3.*T′3 and thus: T 1 = *T 2* (*T 3.*T′3)
-- T′3 = *T 4.*T′4 and thus: T 1 = *T 2* [*T 3* (*T 4.*T′4)] 
-- T'4 = *T′5.T 5* and thus: T 1 = *T 2* {*T 3* [*T 4.* (*T′5.T 5*)]}
-- T′1 = *T 6.*T′6
-- T′6 = *T′7.*T 7 and thus: T′1 = *T 6* (*T′7.*T 7)
-- T 7 = *T 8.*T′8 and thus: T′1 = *T 6* [*T′7* (*T 8*T′8)]
-- T′8 = *T 9.T′9* and thus: T′1 = *T 6* {*T′7* [*T 8* (*T 9.T′9*)]}
-- and thus: T1′.T1 = [[*T 6* {*T′7* [*T 8* (*T 9.T′9*)]}] [*T 2* {*T 3* [*T 4* (*T′5.T 5*)]}]]
-
-::: {.im #mikus1952_460a}
-*Structures* (top) and *substitutions* (bottom) for [@last] from Mikuš [-@mikus1952: 460]. The substitutions contain various errors, but this still is a very early example of generative rewrite rules. There is no indication that Mikuš knew about the similar work of Harris (see [@sec:harris1946]). Chomsky's first publication of a generative model is from 1953, a year later than this paper by Mikuš.
-:::
-
-::: {.im #mikus1952_460b}
-*Encadrements englobés l’un dans l’autre* 'frames nested within each other' from Mikuš [-@mikus1952: 460], graphically illustrating the structure of [@last].
-:::
-
-::: {.im #mikus1952_461}
-*Spirale* for the same example as the previous analyses from Mikuš [-@mikus1952: 461]. He appears particularly enthousiastically about this illustration, although it remains unclear what additional benefit this graphic is supposed to convey.
-:::
-
-Mikuš remained active in the European linguistic community. Another interesting graphical example is his reanalysis of an example by Sapir (see [@sec:sapir1921]) using "chinese boxes" [@mikus1953: 20]. In another paper, Mikuš [-@mikus1955] analyses the constituency of [@next], now also including morphological structure, using the same kind of rewrite rules as discussed above. He illustrates the resulting structure with a tree structure, as shown in [@fig:mikus1955_27].^[In this paper, Mikuš [-@mikus1955] discusses Jan Michał Rozwadowski (1867-1935), who was strongly influenced by Wundt. In his main book *Wortbildung und Wortbedeutung: eine Untersuchung ihrer Grundgesetze* (1904) there are no graphical representation of syntactic structure. The book is available online at <https://catalog.hathitrust.org/Record/006527156>.]
-
-::: ex
-Federmesser mit Korkenzieher \
-Penknife with corkscrew
-:::
-
-::: {.im #mikus1955_27}
-*Architecture functionelle de syntagme* of [@last] from Mikuš [-@mikus1955: 27]. The six *monèmes* on top are (from left to right): *Feder-* 'feather', *-Messer* 'knife', *mit* 'with', *Korken-* 'cork', *zieh-* 'pull' and *-er* 'nomen agentis'. The abbreviations used are *S = syntagme*, *F = function* and *CF = cofunction*. The terms *function/cofunction* are used here for head and  dependent, respectively. 
-:::
-
-After moving to Zadar, Mikuš wrote various further papers, but he basically recapitulates his earlier ideas [@mikus1960; @mikus1962]. He participated in a large international conference on syntax in Erfurt [@mikus1961] and gave lectures in various universities in the GDR.^[Two papers from these lectures were published in 1962, available online at <https://doi.org/10.1524/stuf.1962.15.14.127> and <https://doi.org/10.1524/stuf.1962.15.14.137>.] In the 1960s, he moved to Lubumbashi in Zaire (today Democratic Republic of the Congo), where he wrote a monograph collecting all his ideas together [@mikus1972], but no new ideas can be found here.
 
 ### Galichet (1947) *Essai de grammaire psychologique*
 
@@ -1019,52 +620,6 @@ Dupont [-@dupont1969: 163], analysing an example from Stéphane Mallarmé *A la 
 
 I thank María José García Folgado for many suggestions
 
-### Senillosa (1817) *Gramática española*
-
-(The lines above the words, representing grouping, might be inspired by a mathematical tradition of using the *vinculum* for grouping, see <https://mathshistory.st-andrews.ac.uk/Miller/mathsym/grouping/> or <http://webhotel4.ruc.dk/~jensh/Publications/2015%7Bf%7D_Embedding--Another%20Case%20of%20Stumbling%20Progress%20in%20the%20History%20of%20Algebra_S.pdf> or <https://rucforsk.ruc.dk/ws/portalfiles/portal/99659043/JH_Guwahati_presentation_2024-01-19.pdf>)
-
-Felipe Senillosa (1790-1858) was an Argentinean educator and politician of Spanish origin. During the Spanish War of Independence he fled to London, where he met Manual Belgrano and Bernardino Rivadavia, who convinced him to come to Argentina. In Argentina he wrote various educational books, among which was his *Gramática española, o principios de la gramática general, aplicados á la lengua castellana* [@senillosa1817]. The linguistic approach from this grammar has been discussed by Garcia Folgado [-@garcia-folgado2010; -@garcia-folgado2016] and Narvaja de Arnoux [-@narvaja-de-arnoux2012], who has also explored the work of Senillosa in the context of other early 19th century grammar writing in Argentina [@narvaja-de-arnoux2013: 152-158].
-
-Senillosa spends a third of his short grammar on the syntactic analysis of the sentence, called *proposicion* [@senillosa1817: part three, 35-56]. At the end of the book there are even a few extra pages discussing a more complex example [@senillosa1817: 60-63]. Senillosa [-@senillosa1817: 35-36] starts his syntactic analysis with the introduction of the functional elements of a sentence. A *proposicion* 'proposition/sentence' consist of (possibly multiple) *juicios* 'judgements/clauses'. A simple judgement consists minimally of a *sujeto* 'subject' and an *atributo* 'predicate', with optionally additional *complementos* 'objects/verbal complements'. Nouns can be further determined by a *calificativo* 'nominal attribute'.
-
-His syntactic analysis is thoroughly graphical. Senillosa uses two different graphical approaches, one alike to a constituent analysis and one more like a dependency structure. The most widespread approach is a constituent analysis, using lines to indicate the functional parts of a sentence. Subordinate elements are written in subsequent lines of analysis, like the relative clause in [@fig:senillosa1817_37]. These subordinate elements are clearly part of superordinate elements, which makes this a constituent analysis.
-
-::: {.im #senillosa1817_37}
-Graphical constituent analysis of a sentence with a subordinate relative clause from Senillosa [-@senillosa1817: 37]. The first line of the graphic delimits the basic *Sug(eto)* 'subject' and *atr(ibuto)* 'predicate', while the second line analyses the relative clause, which is part of the subject.
-:::
-
-Additionally, Senillosa also uses a graphical display with cross-cutting clauses, which are connected at the position of the modified element, alike to a dependency analysis. This is not used very frequently [e.g. for negation, @senillosa1817: 50], but it is used with much effect in a large graphic at the end of his book for a more complex sentence, shown below in [@fig:senillosa1817_62]. This sentence [@next] is first analysed with underlined hierarchical constituents, as shown in [@fig:senillosa1817_61]. He then proceeds to argue that this sentence actually consists of five separate *juicios* 'judgements/clauses' [@nnext], which relate to each other in an interlocking patterns as shown in [@fig:senillosa1817_62]. All modifying clauses are rephrased as relative clauses, using *los quales/la qual* to refer to the modified element of the superordinate clause.
-
-The main clause of this sentence is written horizontally on the bottom left. The word *los bienes* 'the good things' is modified by two cross-cutting clauses. In the first cross-cutting clause (*Los quales son dos*, bottom right) the subject refers to *los bienes*, while in the second one it is the object (*Los vayvenes no disipáron nunca los quales*, top left to bottom right). The subject *los vayvenes* of this second clause is again modified (*Los quales vienen de la fortuna*, top left to top right). Finally, the object of this clause *la fortuna* is modified by the last clause (*La qual es injusta*, top right).
-
-::: ex
-|
-| La ciencia y la virtud son los dos bienes que los vayvenes de la fortuna injusta no disipáron nunca.
-| the science and the virtue are the two goods that the sways of the fortune unjust no disperse never
-| Science and virtue are the two good things that are never dispersed by the ups and downs of unjust fortune.
-:::
-
-::: ex
-- La ciencia y la virtud son los bienes \
-  'science and virtue are good things'
-- Los quales ("los bienes") son dos \
-  'those (i.e. good things) are two'
-- Los vayvenes no disipáron nunca los quales ("los bienes") \
-  'the to and fro are never dispersed by those (i.e. by the good things)'
-- Los quales ("los vayvenes") vienen de la fortuna \
-  'those (i.e. the to and fro) stem from fortune'
-- La qual ("la fortuna") es injusta \
-  'that (i.e. the fortune) is unjust'
-:::
-
-::: {.im #senillosa1817_61}
-Hierarchical constituent analysis to represent the structure of [@llast] from Senillosa [-@senillosa1817: 61]. The whole sentence is a *sugeto* 'subject' plus *atributo* 'predicate' construct (top line). The predicate in turn has a short one-word modifier *calif.* and a long subordinate clause with a *sug., atr.* and three *comp.* parts (second line). The subject of this subordinate clause has in turn a *compl. calif.* (third line) and this has yet another *calificativo* (fourth line).
-:::
-
-::: {.im #senillosa1817_62}
-Interlocking graphic to represent the structure of [@llast] from Senillosa [-@senillosa1817: 62]. The whole *proposicion* 'proposition/sentence' is analysed as five separate *juicios* 'judgements/clauses' [@last], displayed as lines, to be read from bottom left to top right. Somewhat reminiscent of a dependency structure, the words modified by a subordinate *juicio* are the junctures of the diagram, referenced by relativizers, i.e. by *los quales/la qual*.
-:::
-
 ### Montoy (1882) *Análisis gramatical razonado*
 
 Montoy, Joaquim (1882, mayo 12). “Análisis gramatical razonado”. El Clamor del Magisterio, año 17, n°. 19 [@garcia-folgado2023]
@@ -1123,424 +678,6 @@ Oca y Merino, Esteban (1851-1924), no real graphical grammar
 https://www.bvfe.es/es/autor/10340-oca-y-merino-esteban.html
 
 Antonio Valcárcel [@garrido-vilchez2023] ???
-
-## Romanian
-
-### Tiktin (1895) *Gramatica Românǎ*
-
-Hariton Tiktin (1850-1936) was born in Breslau (Wrocław), but moved to Iași in Romania at the age of 18, where he worked as a teacher. He wrote a dissertation in Leipzig and worked as a lecturer at the Humboldt-University Berlin
-
-[@tiktin1895: 206-207] second edition, but difference to first edition (1891) unknown
-
-Figures look very much like Kern, but no attribution
-
-## Czech
-
-### Hattala (1857) *Srovnávací mluvnice jazyka českého a slovenského* {#sec:hattala1857}
-
-Martin Hattala (1821-1903) was a Slowakian teacher in Bratislava and later professor for Slavic languages in Prague.^[The Czech Wikipedia has a concise summary of his life and work with many references to original sources at https://cs.wikipedia.org/wiki/Martin_Hattala, accessed 14 May 2025.] He has written extensively about the Czech and Slowak languages, but the only graphical analysis in his work appears in *Srovnávací mluvnice jazyka českého a slovenského* ['Comparative grammar of the Czech and Slovak languages', @hattala1857]. However, I have not been able to access his earlier book called *Skladba jazyka českého* 'Syntax of the Czech language' from 1855, which might be relevant for the present context.
-
-Hattala was intimately familiar with the German grammatical literature. Specifically, in the preface of the *Srovnávací mluvnice* [@hattala1857: xvii] he cites Bauer (see [@sec:bauer1850]) and Mager (see [@sec:mager1840]), among many other scholars. For his syntactic analysis Hattala uses a strongly simplified *Periodenbild* [@hattala1857: 97-99]. An example is shown in [@fig:hattala1857_99] for the sentence in [@next]. He uses capitals for main clauses, lowercase letters for subordinate clauses, superscript numbers for multiple subordination and greek letters for non-finite subordinate clauses:
-
-- a, α for complement clauses (*pobočný věty podstatné*)
-- b, β for attribute/relative clauses (*pobočný věty přívlastkové*)
-- c, γ for adverbial clauses (*pobočný věty příslovkové*)
-
-::: ex
-Czech [@hattala1857: 99, citing a poem from Ján Kollár]
-
-a. [A]{.grey} Lépe činí ten, [a]{.grey} kdo těží s mále‑m, \
-   [γ]{.grey} stoje věrně na své postati, \
-   [A]{.grey} velký‑t' je, [c]{.grey} bud' sluhou nebo králem.
-b.
-|
-| Lépe činí ten, kdo těží s mále‑m,
-| better act.3SG DEM who benefit.3SG with little‑INST 
-| He does better, who makes do with little, 
-c.
-|
-| stoje věrně na své postati, 
-| stand.PART faithfully on REFL position
-| standing true to his position,
-d.
-|
-| velký‑t' je, bud' sluhou nebo králem.
-| great‑even.if BE.3SG whether servant or king
-| even if he is great, whether he is a servant or a king.
-:::
-
-::: {.im #hattala1857_99}
-Analysis of the *perioda* 'period' in [@last] from Hattala [@hattala1857: 99]. He uses a strongly simplified *Periodenbild* from the German tradition. He cites many German authors, specifically Bauer (see [@sec:bauer1850]) and Mager (see [@sec:mager1840]).
-:::
-
-### Kunz (1859) *Náuka o větách*
-
-Karel Kunz (1827-1895) was a teacher in Ošek, Opava and Plzeň. A summary of his life and work is presented by Newerkla [@newerkla2005: 108-111]. He wrote various textbooks on Czech grammar, among them *Náuka o větách pro školu a dům* ['Lessons in sentence (structure) for school and home', @kunz1861], cited here from the second edition, because I have not been able to access the first edition from 1859. From the preface is appears that there have not been any major revisions. The book appears to have been popular as it received seven editions, the last one from 1874. In the preface he cites Hattala (see [@sec:hattala1857]) and Zikmund (see [@sec:zikmund1863]) as influences. 
-
-The book includes a discussion of the analysis of complex sentences using letters in the tradition of the German *Periodenbild* [@kunz1861: 93-95]. An example is shown in [@fig:kunz1861_95] for the unreferenced poem in [@next]. The details of the graphic are quite close to Lehmann's original proposals (see [@sec:lehmann1833]), but Kunz only uses latin letters and names the different clauses simply in alphabetical order. The use of the equal sign for asyndetic coordination appears to be his own invention.
-
-::: ex
-- [a]{.grey} A jako hlahol, [(b)]{.grey} jejž vyzvání, \
-  [a]{.grey} ve krátce v uchu pomine; \
-  [C]{.grey} tak zvěstuj, [d]{.grey} nic že nemá stání, \
-  [e]{.grey} že vše pozemské pohyne.
-- [a]{.grey} And as the ringing, [(b)]{.grey} that sounds, \
-  [a]{.grey} quickly passes away in the ear; \
-  [C]{.grey} so proclaim, [d]{.grey} that nothing endures, \
-  [e]{.grey} that all earthly things perish.
-:::
-
-::: {.im #kunz1861_95}
-Structure of [@last] 'depicted in letters' (*písmeny zobrazen*) by Kunz [-@kunz1861: 95].
-:::
-
-### Zikmund (1863) *Skladba jazyka českého* {#sec:zikmund1863}
-
-Václav Zikmund (1816-1873) was a teacher in Písek and later in Prague.^[Some basic biographical information is available at <https://www.ctenizpisku.cz/cteni_autori/zikmund-vaclav/>, accessed 14 April 2025.] He taught Czech language in a time of newly blooming Czech nationalism. The preface of his *Skladba jazyka českého* ['syntax of the Czech language', @zikmund1863] starts with a note that the Czech language was recently reintroduced as a regular language for secondary school in 1849, which raised the need for new descriptive and didactic material in and about the Czech language.
-
-Zikmund moved from Písek to Prague in 1858, just a year after Ferdinand Bachmann moved to Prague in 1857 (see [@sec:bachmann1864]). Zikmund belongs to the Czech-speaking community and Bachmann to the German-speaking community at a time when in Prague the tension between Czech and German speakers is rising. Also, Zikmund and Bachmann do not cite each other. Yet, Zikmund's *obrázek* 'diagram' [@zikmund1863: 689] is very similar to the *Satzbild* from Bachmann. Bachmann's book was first published in 1864, but it was based on a series of lectures that Bachmann had been presenting for various years before. It seems very likely that Bachmann was the inspiration for Zikmund's diagrams. 
-
-In general, Zikmund was intimately familiar with the German grammatical literature. The book is litterred with contrastive examples, comparing Czech structure with German structure. A telling detail is Zikmund's usage of the latinate terms *enuntiatio nuda* 'naked sentence' and *enuntiatio amplificata, dilatata* 'amplified, expanded sentence' [@zikmund1863: 7]. These terms clearly point to a German influence, as these terms were widely used and discussed in Germany in the previous decades (see [@sec:nackt]), although never using these Latin words. It seems likely that Zikmund was influenced by Hoffmann (see [@sec:hoffmann1839]).
-
-In the *Skladba jazyka českého* [@zikmund1863] Zikmund uses various graphical syntactic analyses. Show in [@fig:zikmund1863_8] is a dependency tree for the example [@next a]. It is unclear in which way Zikmund was influences by other authors in drawing such a syntactic tree as he does not cite any other authors. Given the early date of Zikmund's graphics, only Hoffmann (see [@sec:hoffmann1839]) appears to be a possible influence on Zikmund.
-
-A different graphic, illustrating different kinds of constituency, is shown in [@fig:zikmund1863_322] for the complex noun phrase [@next b]. Zikmund claims that such a complex noun phrase has different possible interpretations depending on the relative constituency of the words. The graphic shows different kinds of constituency structure, but it remains unclear what exactly the (semantic) effect of these different structures should be. Zikmund also does not comment why only these three structures are relevant out of the six different theoretically possible bracketings.
-
-::: ex
-a.
-| Czech [@zikmund1863: 8]
-| Za rajské údolí Kašmiřské ne‑změni‑l by tento Čech věrný nikdy své vlasti, otočené pěknými lesy a horami.
-| PREP paradise valley Kashmir NEG‑change‑PART BE DEM Czech loyal never own homeland turned nice forest and moutain
-| This loyal Czech would never exchange his own homeland, surrounded by beautiful forests and mountains, for a paradisal Kashmiri valley.
-b.
-| Czech [@zikmund1863: 322]
-| tito dva synové moji
-| these two sons mine
-| These two sons of mine
-:::
-
-::: {.im #zikmund1863_8}
-Dependency tree for examples [@last a] from Zikmund [-@zikmund1863: 8]. Zikmund does not give any indication to possible influences for this graphical display. Given the early date of his work, only Hoffmann (cf. [@fig:hoffmann1839_148]) could have been a possible source of inspiration.
-:::
-
-::: {.im #zikmund1863_322}
-*Vyobrazit* 'to depict' different interpretations of the example in [@last b] from Zikmund [-@zikmund1863: 322]. Without much explanation, Zikmund claims that there is are different meanings depending on the hierarchical constituency, although it remains unclear what exactly the resulting differences are supposed to be.
-:::
-
-The previous two images are incidental examples in Zimund's work. Zikmund does not use these approaches consistently as a method of analysis, but only as peripheral illustration. In contrast, for the analysis of complex sentences he extensively discusses a variant of the *Periodenbild* with many examples [@zikmund1863: 688-694]. Zikmund does not cite any inspiration for these *obrázky* 'diagrams', but there are many similarities to the approach of Bachmann (see [@sec:bachmann1864]), who lived in Prague contemporaneously with Zikmund. An example of Zikmund's diagram is shown in [@fig:zikmund1866_147] for the example sentence in [@next].
-
-A few years later Zikmund wrote a two volume *Grammatika jazyka českého pro nižší gymnasia* ('Grammar of the Czech language for lower gymnasia'). The first volume deals with phonology and morphology [@zikmund1865]. For the second volume he changed the title, using *mluvnice*, the Czech word for grammar, instead of the latinate term *grammatika* [@zikmund1866]. The second volume deals with sentence and text structure and includes an extensive discussion of *obrázky* 'diagrams' for the analysis of complex sentences [@zikmund1866: 145-149]. The examples are mostly identical with the 1863 book, but much clearer structured. 
-
-A second revised edition of the *grammatika*, combining both volumes from the first edition and now using the title *Mluvnice jazyka českého pro střední školy*, was in preparation when Zikmund died and was finished after his death by Jan Gebauer (see [@sec:gebauer1890]). The discussion of *obrázky* 'diagrams' appears unchanged from the first edition [@zikmund1874: 365-370]. An unchanged third edition appeared a few years later [@zikmund1876: 365-370].
-
-::: ex
-Czech [@zikmund1866: 147, citing Václav Hájek of Libočany]
-
-- [A]{.grey} Kníže Kouřimský, \
-  [\[a]{.grey} ač byl častokrát, [(a^2)]{.grey} aby se proti nim postavil, [a]{.grey} napomínán, [\]]{.grey} \
-  [A]{.grey} nechtěl toho učiniti.
-- [A]{.grey} Prince Kouřimský, \
-  [\[a]{.grey} although he was often admonished [(a^2)]{.grey} to stand against them, [\]]{.grey} \
-  [A]{.grey} did not want to do so.
-:::
-
-::: {.im #zikmund1866_147}
-*Obrázek* 'diagram' for the example [@last] from Zikmund [-@zikmund1866: 147]. He already presented the same example earlier [@zikmund1863: 692] but without concrete diagram. The double centre embedding is indicated by different kinds of bracketing.
-:::
-
-### Bartoš (1878) *Skladba*
-
-František Bartoš (1837-1906) was a teacher and later school principal in Brno. He was a wide-ranging ethnologist, working on the Czech language, Moravian dialects, folksongs and other cultural practices.^[The Czech Wikipedia has a concise summary of his life and work with many references to original sources at <https://cs.wikipedia.org/wiki/František_Bartoš_(etnograf)>, accessed 14 May 2025.]
-
-Together with Matiáš Blažek he prepared the two-volume *Mluvnice jazyka českého pro školy střední a ústavy učitelské* 'Czech language grammar for secondary schools and teacher's institutes'. Bartoš wrote the second volume called *Skladba* 'Syntax' [@bartos1878]. This book was reprinted with only minor changes at least twice in 1880 and 1882. In the introduction he mentions the influence of Zikmund's grammar (see [@sec:zikmund1863]). Bartoš uses one-line *obrázky* 'diagrams', clearly adapted from Zikmund. Many of the examples analysed by Bartoš are even directly copied from Zikmund's grammar [@zikmund1866: 145-149]. For example, Zikmund's example [@last] is graphically analysed by Bartoš [@bartos1878: 155] as shown in [@fig:bartoš1878_155]
-
-::: {.im #bartoš1878_155}
-*Obrázek* 'diagram' for the example [@last] from Bartoš [-@bartos1878: 155]. This analysis is copied verbatim from Zikmund (cf. [@fig:zikmund1866_147]), though note that the square and round brackets are reversed.
-:::
-
-### Gebauer (1890) *Mluvnice česká* {#sec:gebauer1890}
-
-Jan Gebauer (1838-1907) was a teacher and later professor in Prague. He is widely considered to be a main figure in the 19th Century scientifc study of the Czech language.^[A useful summary of his life and work is available on the Czech Wikipedia at <https://cs.wikipedia.org/wiki/Jan_Gebauer>, accessed 3 July 2025. A thorough biography is provided by Syllaba [-@syllaba1983; -@syllaba1986]. A short summary of this biography is provided in a review by Heumos [-@heumos1989], which is available online.] Based on this work as a school teacher, he remained interested in teaching grammar during his whole life. He prepared, for example, a revision of Zikmund's *Mluvnice jazyka českého* after Zikmund's death (see [@sec:zikmund1863]). While already professor at the university of Prague he published the two-volume *Mluvnice česká pro školy střední a ústavy učitelské* 'Czech grammar for secondary schools and teacher training institutes' [@gebauer1890]. This book was revised and republished at least until a ninth edition in 1926, long after his demise. 
-
-The second volume of the *Mluvnice česká* deals with *skladba* 'syntax' and contains various different graphical approaches to sentence structure [@gebauer1890: 26, 38, 46, 54, 57-58]. The discussion remains basically the same in the second [@gebauer1894: 28, 40, 48, 56] and third edition [@gebauer1900: 237, 249, 257, 265]. After the death of Gebauer, the *Mluvnice česká* is revised by Václav Ertl (1875-1929) in the fifth edition. This edition is reprinted at least until a ninth edition in 1926. In this revised version, Ertl has removed all graphical analyses.^[The fifth edition from 1914 is available online at <https://ndk.cz/uuid/uuid:8d7c84d0-6a51-11e3-8387-001018b5eb5c>. The ninth edition from 1926 is available online at <https://ndk.cz/uuid/uuid:93df09ca-3d33-46b4-b76a-0670fcc328ed>.] 
-
-The major scientific work of Gebauer is a massive four-volume *Historická mluvnice jazyka českého* 'Historical grammar of the Czech language'. The fourth volume deals with syntax and was only finished in 1929 by Frantiček Trávníček after the death of Gebauer. The first part of this fourth volume on syntax is basically a revision of *Mluvnice česká* and it contains all the same images from the original 1890 version [@gebauer1929: 38, 46, 53-54, 65, 76].
-
-Gebauer uses various different graphical approaches to illustrate the hierachical structure of sentences. The first illustrations in his 1890 book use horizontal braces for the internal structure of a clause, as shown in [@fig:gebauer1890_26] for the sentence [@next]. 
-
-::: ex
-| Czech [@gebauer1890: 26]
-| Země otáčí se každých čtyřiadvacet hodin okolo své osy.
-| earth rotate.3SG REFL every twenty‑four hours around its axis
-| The Earth rotates around its axis every twenty-four hours.
-:::
-
-::: {.im #gebauer1890_26}
-Hierarchical analysis of the sentence [@last] from Gebauer [-@gebauer1890: 26]. In the image, the subject *země* 'earth' stands apart from the predicate *otáčí se* 'rotates', including all modifiers. The modifiers are then grouped in a third level of analysis.
-:::
-
-For the structure of complex sentences with multiple subordinate clauses Gebauer uses a simplified system of abbreviations, clearly inspired by the German tradition from Lehmann (see [@sec:lehmann1833]). He uses capital letters for main clauses and lower-case letters for subordinate clauses. However, different from the German tradition, Gebauer repeats the structure of the matrix clause with each subordinate clause, so *Aaa* is the subordinate clause to *Aa*, which is the subordinate clause to the main clause *A*, as shown in [@fig:gebauer1890_38] for the sentence [@next]. These abbreviations are either displayed in a music-score metaphor, with the sentence running from left to right and subordination indicated by lower placement (cf. the rigthward version in [@fig:gebauer1890_38]), or using horizontal braces (cf. the graphic to the left in [@fig:gebauer1890_38]).
-
-::: ex
-| Czech [@gebauer1890: 38]
-| Přij-de čas, že se zeptá zima, co‑s děla‑l v létě.
-| come‑FUT time SUB REFL ask.FUT winter, SUB‑2SG do‑PAST in summer
-| The time will come when winter will ask what you did in the summer.
-:::
-
-::: {.im #gebauer1890_38}
-Two different graphical representations of the same complex sentence with two subordinate clauses [@last] from Gebauer [-@gebauer1890: 38]. Gebauer here uses the German tradition following Lehmann (see [@sec:lehmann1833]), designating the main clause with a capital letter and subordinate clauses with lowercase letters. Idiosyncratically, Gebauer repeats the letters of the respective matrix clause, so *Aaa* is the subordinate clause to *Aa*, which is the subordinate clause to the main clause *A*.
-:::
-
-Gebauer also discusses larger syntactic constructions under the heading of *perioda* 'period'. In his definition, a period consist of a *předvětí* 'pre-clause' and a *závětí* 'post-clause', typically separated by a colon. However, he also notes [-@gebauer1890: 53] that the distinction between a period proper and a regular complex sentence with subordinated clauses is not clear-cut. For the internal structure of a period he proposes a graphical representation as shown in [@fig:gebauer1890_54] for the example in [@next]. Subordination is indicated by position downwards, typically connected by lines. However, the *předvětí* 'pre-clause' is also positioned downwards but without a connecting line, though there is a dotted line above on the level of the main clause *závětí*. Otherwise dotted lines are used to connect parts of the same clause that are separated by subordinate clauses. However, the dotted lines on the lower right of the graphic are probably an error, because these are two separate subordinate clauses. It might also be the case that the dotted lines are simply an indication of the level of embedding, a bit like in [@fig:gebauer1890_38]. However, then the dots are wrongly omitted on the lower left of the graphic. Such a usage of dotted lines to indicate the depth of the embedding is reminiscent of Kern's approach, as published just a few years prior to Gebauer's book (cf. [@fig:kern1884_56]).
-
-::: ex
-Czech [@gebauer1890: 53, citing an example from Daniel Adam z Veleslavína]
-
-- Jakož větší lásku máme k pravým rodičům, \
-  kteří nás zplodili, \
-  nežli k jiným, \
-  kteří nás sobě za syny zvolili a vzali: \
-  tak i ta země, \
-  v níž jsme zrozeni a vychováni, \
-  milejší jest nám nežli jiná, \
-  do níž nás štěstí obrátilo.
-- Just as we have greater love for our true parents, \
-  who begot us, \
-  than for others, \
-  who chose and adopted us as their own sons: \
-  so too the country, \
-  in which we were born and raised, \
-  is dearer to us than another, \
-  to which fortune has turned us.
-:::
-
-::: {.im #gebauer1890_54}
-Graphical analysis of the complex *perioda* [@last] from Gebauer [-@gebauer1890: 54]. Ideally, a period consists of a *předvětí* 'pre-clause' and a *závětí* 'post-clause', both can have internal clausal subordinates, as shown by the vertical lines. The dots connect parts of the same clause. It is unclear why the three dots on the lower right are added, because these two subordinate clauses are not directly connected to each other. Another interpretation of the dots is that they link the same level of embedding, but then the dots are wronly omitted from the lower left side of the graphic.
-:::
-
-In 1891 Gebauer publishes a short introductory version of the grammar, called *Krátká mluvnice česká pro první třídy škol středních* 'Short Czech grammar for the first grades of secondary schools', which basically contains the same graphics [@gebauer1891: 113-116, 125-128]. The third revised edition of this short version basically remains the same, but extends the use of arches to indicate argument-verb relations [@gebauer1902: 126-127] as shown in [@fig:gebauer1902_127]. Throughout his writing, Gebauer recurrently uses such arches to indicate various kinds of relations between words in a sentence. However, he never develops this this arches-approach into a full-blown syntactic analysis.
-
-::: {.im #gebauer1902_127}
-Arches to indicate verb-argument and adjective-noun relations by Gebauer [-@gebauer1902: 127]. This graphical approach is revisited by Gebauer at various points in his writing, but it is never extended into a full-blown syntactic analysis.
-:::
-
-### Havránek (1933) *Cvičebnice jazyka českého* {#sec:havranek1933}
-
-Bohuslav Havránek (1893-1978) was professor at the university of Prague and one the founders of the Prague Linguistic Circle, alongside the more widely known Vilém Mathesius. Before becoming professor in 1945 Havránek worked as a school teacher for many years. He retained an strong interest in the didactical aspects of grammar throughout his long life. An extensive overview of his many didactic pursuits is presented by Šmejkalová [-@smejkalova2013]. Havránek is too young to have personally known Gebauer (see [@sec:gebauer1890]), but he surely knew Gebauer's Czech grammar. However, at the time when Havránek studied Czech at Prague university, the grammar of Gebauer had already been revised by Ertl, who removed all graphical analyses, so there is probably no direct influence on Havránek in this regard. Interpreting the visual appearance of the graphical analyses in the work of Havránek it seems clear that they are influenced by the Russian tradition (cf. Ushakov *et al.*,[@sec:ushakov1926]). However, no concrete influences are acknowledged by Havránek in his writings.
-
-In the 1930s Havránek worked on a complete revision of the Czech language curriculum. In this context he wrote, together with Alois Získal (1891-1974), Leontij Kopecký (1894–1976) and Eduard Starý (1877-???), a four-volume textbook *Cvičebnice jazyka českého* 'Czech language exercises'. The first volume appeared in 1933 *pro první třídu středních škol* 'for the first grade of secondary schools' [@havranek1933]. The included graphical display of the *závislost* 'dependence' within clauses is shown in [@fig:havranek1933_85; @fig:havranek1933_198] for the examples in [@next]. The use of arrows for dependence is a clear indication of influence from the Russian grammatical tradition. Notewhorty is the usage of boxes within boxes in [@fig:havranek1933_85]. It is not explained whether this is intended to be a different analysis as a simply sequence of arrows as used in [@fig:havranek1933_85]. The hierarchical boxes are mostly not used.
-
-::: ex
-a.
-| Czech [@havranek1933: 85]
-| Pilní rolníci vy‑mlát‑ili sklizené obilí.
-| diligent peasant.PL PERF‑thresh‑PAST.3SG harvest.PART grain
-| The diligent peasants threshed the harvested grain.
-b.
-| Czech [@havranek1947: 198, quoting Karla Čapek]
-| Klika musí běžet plavně, oble a při každé pisn‑ičce jiný‑m tempe‑m!
-| crank must run smoothly roundly and with each song‑LOC different‑INSTR tempo‑INSTR
-| The crank must run smoothly, roundly, and with each song at a different pace!
-:::
-
-::: {.im #havranek1933_85}
-Illustration of the *závislost* 'dependence' for the example [@last a] from Havránek *et al.* [-@havranek1933: 85]. This graphical display is clearly influenced by the Russian tradition of sentence analysis, most closely the approach by Peshkovsky *et al.* (cf. [@fig:peshkovsky1931_35]). The enclosement of the words does not occur in the Russian tradition. Notewhorthy is the introduction of boxes within boxes.
-:::
-
-::: {.im #havranek1933_198}
-*Obrázek závislost* 'diagram of the dependence' for the example [@last b] from Havránek *et al.* [@havranek1947: 198]. Different from the previous example, there are no hierachical boxes used here.
-:::
-
-The second volume *pro dryhou třídu středních škol* 'for the second grade of secondary schools' was published in 1934, quoted here from a 1947 reprint [@havranek1947].^[The 1934 version seems to be completely identical to the 1947 reprint. Low resolution thumbnails of the 1934 version are available online at <https://ndk.cz/uuid/uuid:5af02996-ed8f-476b-b00a-2808ee38d72f>, accessed 7 July 2025. Unfortunately, due to copyright restructions the full digital images of this version are not made available outside of the Czech Republic.] The authors summarise the graphical approach from the first volume and propose an alternative display (see [@fig:havranek1947_28]), which they claim to be an improvement: *vzájemnou závislost jednotlivých členů větny nám ještě lépe znázorni šipky v tomto obrazci* 'the arrows in this diagram show us even better the interdependence of the individual members of the sentence' [@havranek1947: 27]. Visually, this kind of display is much more confusing that the purely dependency-based display with the boxes. However, the alternative approach in [@fig:havranek1947_28] retains the information about the ordering of the parts, which is lost in the original approach.
-
-::: ex
-a.
-| Czech [@havranek1947: 28, quoting Vladislav Vančura]
-| Dům pekař‑e Marhoul‑a stál na jižní stran‑ě náměstí.
-| house baker-GEN Marhoul‑GEN stand.PAST on south side‑LOC square.GEN
-| The house of the baker Marhoul stood on the south side of the square.
-b.
-| Czech [@havranek1947: 121, quoting Jana Vrby]
-| Musíme si přitom uvědomiti, že pes je šelma, kterou všecka přirozenost nutí, aby po zvěři, kterou nalezl, skočil a utíkal za ní.
-| Musíme si přitom uvědomiti, že pes je šelma, kterou všecka přirozenost nutí, aby po zvěři, kterou nalezl, skočil a utíkal za ní.
-| We must realize that a dog is a beast that is forced by all nature to jump and run after the game it finds.
-:::
-
-::: {.im #havranek1947_28}
-[@havranek1947: 28]
-:::
-
-::: {.im #havranek1947_121}
-[@havranek1947: 121]
-:::
-
-Much later, simplified schemas of complex sentences appear in a work together with Alois Jedlička (1912-2000). Together they wrote the *Stručná mluvnice česká* 'Concise Czech grammar', first published in 1950, but cited here from a much later edition [@havranek1981: 183-184]. The graphical analyses were added somewhere in the 1960s.^[Because of copyright restrictions outside of the Czech Republic only low resolution thumbnails are available online of early editions. From these thumbnails it appears that these graphics were not included in the original 1950 version, available at <https://dk.uzei.cz/nkp/view/uuid:55b14040-3d82-11e4-8fc5-005056827e52>. The graphics are included at least since the 1968 version <http://cdk.kramerius.org/view/uuid:9a7549c0-87e3-11e2-aa2b-005056827e51>.]
-
-::: ex
-- Slunce zářilo na modré obloze, ale jeho paprsky nepálily, protože od zasněžených krkonošských bor povíval vlahý větřík. \
-  The sun shone in the blue sky, but its rays did not burn, because a warm breeze blew from the snowy Krkonoše mountains.
-:::
-
-### Mrázek (1936) *Nová cesta* {#sec:mrazek1936}
-
-Josef Mrázek (1890−1969) was a native of Moravia, and worked as a high school professor in Prague. All information about Mrázek is taken from Novotna [-@novotna2012: 147-150, 190-191] because I have not been able to access any of his work myself. He uses graphical syntactic analyses in the third volume (for the third grade, published 1936) of his *Nová cesta. Pracovní učebnice a cvičebnice jazyka vyučovacího pro české měšťanské školy* 'New way. Workbook and exercise book of the language of instruction for Czech middle-class schools'. He refers to the use of graphical display in Russian grammars as an inspiration [@novotna2012: 190]. However, his graphics are very similar to the ones from Havránek (see [@sec:havranek1933]). Two examples from Mrázek are shown in [@fig:mrazek1936_6a] and [@fig:mrazek1936_6b] for the examples in [@next]. The second example shows that subordinate clauses are treated equally to other sentence constituents.
-
-::: ex
-Czech [Mrázek 1936: 6, cited after @novotna2012: 190-191]
-
-a.
-|
-| Starostlivý otec odje-l zarmoucen za nemocným synem do města.
-| caring father leave‑PAST sad to sick son to city
-| The caring father left, saddened, to the city to (visit his) sick son.
-b.
-|
-| Náš tatínek vypavova‑l, jak se uči‑l řemeslu.
-| our father tell‑PAST how REFL learn‑PAST trade
-| Our dad told how he learned the trade.
-:::
-
-::: {.im #mrazek1936_6a}
-Graphical analysis of a single-clause sentence [@last a] from Mrázek [Mrázek 1936: 6, cited after @novotna2012: 190]. The visual structure is very similar to Havránek (see [@sec:havranek1933]). Both are probably strongly influences by the Russian tradition, as indicated by the use of arrows (see e.g. Petrov in [@sec:petrov1906]).
-:::
-
-::: {.im #mrazek1936_6b}
-Graphical analysis of a multi-clause sentence [@last b] from Mrázek [Mrázek 1936: 6, cited after @novotna2012: 191]. Exactly the same visualisation as for single-clause sentences is used for complex sentences with subordinate clauses, though note the absence of arrows.
-:::
-
-### Rostohar (1937) *O struktuře vẽtných významů*
-
-Hierarchical bracketing [@rostohar1937]
-
-### Kaňka & Vachek (1945) *Česká mluvnice a cvičebnice*
-
-Jan Kaňka 1897-1966
-Josef Vachek 1909-1996 https://cs.wikipedia.org/wiki/Josef_Vachek (prague circle)
-
-*Česká mluvnice a cvičebnice pro obchodní akademie a pro obchodní školy* 'Czech grammar and exercise book for business academies and business schools'
-
-I have accessed a copy from the University of Bamberg which was dedicated on the title page by the authors to Havránek: *J. Sp. p. univ. prof. dr. B. Havránka v upřímé úctě* 'To university professor Dr. B. Havránek, your humble servant, with sincere respect'
-
-::: ex
-- Když Bolemír Nebeský nadšen rozvijel před Boženou Němcovou myšlenky, co by jako žena mohla vykonat pro lepši národa, a přimo ji povzbuzoval, aby svými silami byla při tom dile nápomocna, otvíral se před ní svět vzácné krásy, o jakém si nikdy netroufala snit. \
-  When Bolemír Nebeský enthusiastically before Božena Němcová developed ideas about what she, as a woman, could do for the betterment of the nation, and directly encouraged her to use her strength to assist in this work, a world of rare beauty opened up before her, the likes of which she had never dared to dream.
-:::
-
-::: {.im #kanka1945_priloha2}
-[@kanka1945: appendix 2]
-:::
-
-see also 1929 book *Česká mluvnice s připojenou cvičebnicí a slovníčkem pro obchodní školy*, which is hard to find: https://katalog.npmk.gov.cz/records/4e07c2f9-2b22-4772-977f-2f84ff9fdfd9
-
-### Šmilauer (1947) *Novočeská skladba*
-
-Vladimír Šmilauer (1895–1983)
-
-[@panevova2024] https://en.wikipedia.org/wiki/Vladimír_Šmilauer https://comenius-bibl.wz.cz/Smilauer.html
-
-[@smilauer1947: 416-425] Appendix with graphics
-
-Vladimír Šmilauer (1955) fifth edition [@smilauer1968]
-
-Šmilauer probably knew of Tesnière's work. Tesniere 1953 is cited in Šmilauer (1968: 6)
-
-Panevová, J. 2016. Syntax Vladimíra Šmilauera včera a dnes. Jazykovědné aktuality 53 (1 a 2): 30–35. https://www.jazykovednesdruzeni.cz/wp-content/uploads/2020/04/2016_1-2.pdf
-
-### Staněk (1952) Grafická metoda veíneho rozboru
-
-[@smilauer1953] talks about an article from Vladimir Staněk dealing with graphical representations [@stanek1952]
-
-### Other Czech
-
-grafické [@novotna2013; @novotna2012; @novotna2006; @vernerova2019]
-
-- ŽOFKOVÁ−TOŽIČKA (1933-1938) [@novotna2012: 187]
-- *Jazyk vyučovací na škole obecné* Václav Medonos, Bohumil Tožička, Lidmila Žofková, Jiří Haller: https://www.antikvariat-ol.cz/jazyk-vyucovaci-na-skole-obecne/produkt/17470/34/
-- BOJANOVSKÁ−KOHOUTEK−SEDLÁKOVÁ, I. díl, 1936, s. 29; též II. díl, 1936, s. 38 [@novotna2012: 184, 187-189]
-- KOHOUTEK−KOMÁREK, 1937, s. 135−136 [@novotna2012: 184]
-- VÍTEK−SIROTEK, II. díl, 1935, s. 112 [@novotna2012: 190] František Vítek, 1896-1990 https://www.cervenyknir.cz/vitek-ceska-mluvnice-pro-hlavni-skoly-5944v https://irel.knihovny.cz/Record/mzk.MZK01-000746958?sid=2718
-
-## Polish
-
-Digitalisations:
-
-- https://polona.pl
-- https://pbc.biaman.pl/
-- http://pbc.up.krakow.pl/
-- https://pbc.gda.pl/
-
-not accessible?
-
-- http://pbc.up.krakow.pl/dlibra/publication/5776/edition/5662
-- http://pbc.up.krakow.pl/dlibra/publication/6574/edition/6439
-- http://pbc.up.krakow.pl/dlibra/publication/6356/edition/6230
-
-### Lehr-Spławiński & Kubiński (1927) *Gramatyka języka polskiego*
-
-Tadeusz Lehr-Spławiński (1891-1965)
-Roman Kubiński (1886-1957)
-
-https://gramatyki.uw.edu.pl/book/544?lang=en
-
-first edition 1927, cited here in 2nd edition [@lehr-spawinski1928: 150] single tree-image of sentence.
-
-::: ex
-- Dziś rano przez dwie godziny padał bezustannie bardzo gęsty śnieg.
-- This morning it snowed very heavily for two hours straight.
-:::
-
-::: {.im #lehr1928_150}
-[@lehr-spawinski1928: 150] 
-:::
-
-### Klemenciewicz (1935) *Język Polski*
-
-Zenon Klemenciewicz (1891-1969) structure of complex sentences consisting of multiple clauses [@klemensiewicz1935: 66-67]
-
-::: ex
-- \(1) Przed burza bywa chwila cicha i ponura, (2) kiedy, (3) nad glowy
-ludzi przyleciawszy, (2 c.d.) chmura stanie (4) i (5) grozac twarza,
-(4 c.d.) dech wiatrów zatrzyma, (6) milezy, (7) obiega ziemie blyskawic oczyma, (8) znaczac te miejsca, (9) gdzie wnet cisnie grom po gromie.
-- \(1) Before a storm there is a quiet and gloomy moment, (2) when, (3) flying over people's heads, (2 c.d.) a cloud stands (4) and (5) threatening with its face, (4 c.d.) stopping the winds' breath, (6) passing by, (7) flashing lightning with its eyes, (8) marking those places, (9) where it will immediately hurl thunder after thunder
-:::
-
-::: {.im #klemensiewicz1935_67}
-[@klemensiewicz1935: 67]
-:::
-
-https://gramatyki.uw.edu.pl/book/506
-
-Encyklopedia języka polskiego (ed. by Urbańczyk, 2nd ed. 1991) calls it wykres składniowy (syntactic graph) and says that as a didactic convention it was popularised (scil. in Poland) by Klemensiewicz. One ex. can indeed be found in his Zarys składni polskiej (Outline of Pol. syntax) of 1953, p. 62.
-
-Various textbooks by Klemenciewicz in the 1930s, but no graphics:
-
-- https://pbc.biaman.pl/dlibra/doccontent?id=47579
-- https://pbc.biaman.pl/dlibra/doccontent?id=47595
-- https://pbc.biaman.pl/dlibra/doccontent?id=49283
-- https://pbc.biaman.pl/dlibra/doccontent?id=49305
-- https://pbc.biaman.pl/dlibra/doccontent?id=48885
-
-### Bąk (1977) *Gramatyka języka polskiego*
-
-Piotr Bąk (1911-2000) dialectologist, teacher and later lecturer at the university of Łódź
-
-*Gramatyka języka polskiego: zarys popularny* 'Polish grammar: a popular outline' [@bak1977] (sentence 400-402, complex sentences: 428-430, 435-442, generative: 446-450)
-
-only major revision in 4th edition [@bak1984]
-(sentence 442, complex sentences: 459, 470-487, generative: 497-502)
-(the illustrations are from 4th ed. of 1984; 1st ed. in 1977; 15th ed. in 2016).
-
-https://pl.wikipedia.org/wiki/Piotr_Bąk_(językoznawca)
-
-### Other Polish
-
-More on old polish grammars, but apparaently no other syntactic graphics: https://gramatyki-uw-edu-pl.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp
-
-Info from Tomasz (Ma)ksymil(ian) Majtczak: https://bsky.app/profile/ksymil.bsky.social
-
-- wykres zdania złożonego (graph of a compound sentence)
-- Modern summary: Gruszczyński & Bralczyk (ed.), Słownik gramatyki języka polskiego, 2002 [@gruszczynskiego2002: 302-304]
 
 ## Russian
 
@@ -1981,6 +1118,483 @@ Admoni: Partiturnoje strojenije recevoj cepi i sistema grammaticeskich znacenij 
 
 see also 4th edition 1982, p. 311-317 https://archive.org/details/derdeutschesprac0000admo
 
+## Czech
+
+### Hattala (1857) *Srovnávací mluvnice jazyka českého a slovenského* {#sec:hattala1857}
+
+Martin Hattala (1821-1903) was a Slowakian teacher in Bratislava and later professor for Slavic languages in Prague.^[The Czech Wikipedia has a concise summary of his life and work with many references to original sources at https://cs.wikipedia.org/wiki/Martin_Hattala, accessed 14 May 2025.] He has written extensively about the Czech and Slowak languages, but the only graphical analysis in his work appears in *Srovnávací mluvnice jazyka českého a slovenského* ['Comparative grammar of the Czech and Slovak languages', @hattala1857]. However, I have not been able to access his earlier book called *Skladba jazyka českého* 'Syntax of the Czech language' from 1855, which might be relevant for the present context.
+
+Hattala was intimately familiar with the German grammatical literature. Specifically, in the preface of the *Srovnávací mluvnice* [@hattala1857: xvii] he cites Bauer (see [@sec:bauer1850]) and Mager (see [@sec:mager1840]), among many other scholars. For his syntactic analysis Hattala uses a strongly simplified *Periodenbild* [@hattala1857: 97-99]. An example is shown in [@fig:hattala1857_99] for the sentence in [@next]. He uses capitals for main clauses, lowercase letters for subordinate clauses, superscript numbers for multiple subordination and greek letters for non-finite subordinate clauses:
+
+- a, α for complement clauses (*pobočný věty podstatné*)
+- b, β for attribute/relative clauses (*pobočný věty přívlastkové*)
+- c, γ for adverbial clauses (*pobočný věty příslovkové*)
+
+::: ex
+Czech [@hattala1857: 99, citing a poem from Ján Kollár]
+
+a. [A]{.grey} Lépe činí ten, [a]{.grey} kdo těží s mále‑m, \
+   [γ]{.grey} stoje věrně na své postati, \
+   [A]{.grey} velký‑t' je, [c]{.grey} bud' sluhou nebo králem.
+b.
+|
+| Lépe činí ten, kdo těží s mále‑m,
+| better act.3SG DEM who benefit.3SG with little‑INST 
+| He does better, who makes do with little, 
+c.
+|
+| stoje věrně na své postati, 
+| stand.PART faithfully on REFL position
+| standing true to his position,
+d.
+|
+| velký‑t' je, bud' sluhou nebo králem.
+| great‑even.if BE.3SG whether servant or king
+| even if he is great, whether he is a servant or a king.
+:::
+
+::: {.im #hattala1857_99}
+Analysis of the *perioda* 'period' in [@last] from Hattala [@hattala1857: 99]. He uses a strongly simplified *Periodenbild* from the German tradition. He cites many German authors, specifically Bauer (see [@sec:bauer1850]) and Mager (see [@sec:mager1840]).
+:::
+
+### Kunz (1859) *Náuka o větách*
+
+Karel Kunz (1827-1895) was a teacher in Ošek, Opava and Plzeň. A summary of his life and work is presented by Newerkla [@newerkla2005: 108-111]. He wrote various textbooks on Czech grammar, among them *Náuka o větách pro školu a dům* ['Lessons in sentence (structure) for school and home', @kunz1861], cited here from the second edition, because I have not been able to access the first edition from 1859. From the preface is appears that there have not been any major revisions. The book appears to have been popular as it received seven editions, the last one from 1874. In the preface he cites Hattala (see [@sec:hattala1857]) and Zikmund (see [@sec:zikmund1863]) as influences. 
+
+The book includes a discussion of the analysis of complex sentences using letters in the tradition of the German *Periodenbild* [@kunz1861: 93-95]. An example is shown in [@fig:kunz1861_95] for the unreferenced poem in [@next]. The details of the graphic are quite close to Lehmann's original proposals (see [@sec:lehmann1833]), but Kunz only uses latin letters and names the different clauses simply in alphabetical order. The use of the equal sign for asyndetic coordination appears to be his own invention.
+
+::: ex
+- [a]{.grey} A jako hlahol, [(b)]{.grey} jejž vyzvání, \
+  [a]{.grey} ve krátce v uchu pomine; \
+  [C]{.grey} tak zvěstuj, [d]{.grey} nic že nemá stání, \
+  [e]{.grey} že vše pozemské pohyne.
+- [a]{.grey} And as the ringing, [(b)]{.grey} that sounds, \
+  [a]{.grey} quickly passes away in the ear; \
+  [C]{.grey} so proclaim, [d]{.grey} that nothing endures, \
+  [e]{.grey} that all earthly things perish.
+:::
+
+::: {.im #kunz1861_95}
+Structure of [@last] 'depicted in letters' (*písmeny zobrazen*) by Kunz [-@kunz1861: 95].
+:::
+
+### Zikmund (1863) *Skladba jazyka českého* {#sec:zikmund1863}
+
+Václav Zikmund (1816-1873) was a teacher in Písek and later in Prague.^[Some basic biographical information is available at <https://www.ctenizpisku.cz/cteni_autori/zikmund-vaclav/>, accessed 14 April 2025.] He taught Czech language in a time of newly blooming Czech nationalism. The preface of his *Skladba jazyka českého* ['syntax of the Czech language', @zikmund1863] starts with a note that the Czech language was recently reintroduced as a regular language for secondary school in 1849, which raised the need for new descriptive and didactic material in and about the Czech language.
+
+Zikmund moved from Písek to Prague in 1858, just a year after Ferdinand Bachmann moved to Prague in 1857 (see [@sec:bachmann1864]). Zikmund belongs to the Czech-speaking community and Bachmann to the German-speaking community at a time when in Prague the tension between Czech and German speakers is rising. Also, Zikmund and Bachmann do not cite each other. Yet, Zikmund's *obrázek* 'diagram' [@zikmund1863: 689] is very similar to the *Satzbild* from Bachmann. Bachmann's book was first published in 1864, but it was based on a series of lectures that Bachmann had been presenting for various years before. It seems very likely that Bachmann was the inspiration for Zikmund's diagrams. 
+
+In general, Zikmund was intimately familiar with the German grammatical literature. The book is litterred with contrastive examples, comparing Czech structure with German structure. A telling detail is Zikmund's usage of the latinate terms *enuntiatio nuda* 'naked sentence' and *enuntiatio amplificata, dilatata* 'amplified, expanded sentence' [@zikmund1863: 7]. These terms clearly point to a German influence, as these terms were widely used and discussed in Germany in the previous decades (see [@sec:nackt]), although never using these Latin words. It seems likely that Zikmund was influenced by Hoffmann (see [@sec:hoffmann1839]).
+
+In the *Skladba jazyka českého* [@zikmund1863] Zikmund uses various graphical syntactic analyses. Show in [@fig:zikmund1863_8] is a dependency tree for the example [@next a]. It is unclear in which way Zikmund was influences by other authors in drawing such a syntactic tree as he does not cite any other authors. Given the early date of Zikmund's graphics, only Hoffmann (see [@sec:hoffmann1839]) appears to be a possible influence on Zikmund.
+
+A different graphic, illustrating different kinds of constituency, is shown in [@fig:zikmund1863_322] for the complex noun phrase [@next b]. Zikmund claims that such a complex noun phrase has different possible interpretations depending on the relative constituency of the words. The graphic shows different kinds of constituency structure, but it remains unclear what exactly the (semantic) effect of these different structures should be. Zikmund also does not comment why only these three structures are relevant out of the six different theoretically possible bracketings.
+
+::: ex
+a.
+| Czech [@zikmund1863: 8]
+| Za rajské údolí Kašmiřské ne‑změni‑l by tento Čech věrný nikdy své vlasti, otočené pěknými lesy a horami.
+| PREP paradise valley Kashmir NEG‑change‑PART BE DEM Czech loyal never own homeland turned nice forest and moutain
+| This loyal Czech would never exchange his own homeland, surrounded by beautiful forests and mountains, for a paradisal Kashmiri valley.
+b.
+| Czech [@zikmund1863: 322]
+| tito dva synové moji
+| these two sons mine
+| These two sons of mine
+:::
+
+::: {.im #zikmund1863_8}
+Dependency tree for examples [@last a] from Zikmund [-@zikmund1863: 8]. Zikmund does not give any indication to possible influences for this graphical display. Given the early date of his work, only Hoffmann (cf. [@fig:hoffmann1839_148]) could have been a possible source of inspiration.
+:::
+
+::: {.im #zikmund1863_322}
+*Vyobrazit* 'to depict' different interpretations of the example in [@last b] from Zikmund [-@zikmund1863: 322]. Without much explanation, Zikmund claims that there is are different meanings depending on the hierarchical constituency, although it remains unclear what exactly the resulting differences are supposed to be.
+:::
+
+The previous two images are incidental examples in Zimund's work. Zikmund does not use these approaches consistently as a method of analysis, but only as peripheral illustration. In contrast, for the analysis of complex sentences he extensively discusses a variant of the *Periodenbild* with many examples [@zikmund1863: 688-694]. Zikmund does not cite any inspiration for these *obrázky* 'diagrams', but there are many similarities to the approach of Bachmann (see [@sec:bachmann1864]), who lived in Prague contemporaneously with Zikmund. An example of Zikmund's diagram is shown in [@fig:zikmund1866_147] for the example sentence in [@next].
+
+A few years later Zikmund wrote a two volume *Grammatika jazyka českého pro nižší gymnasia* ('Grammar of the Czech language for lower gymnasia'). The first volume deals with phonology and morphology [@zikmund1865]. For the second volume he changed the title, using *mluvnice*, the Czech word for grammar, instead of the latinate term *grammatika* [@zikmund1866]. The second volume deals with sentence and text structure and includes an extensive discussion of *obrázky* 'diagrams' for the analysis of complex sentences [@zikmund1866: 145-149]. The examples are mostly identical with the 1863 book, but much clearer structured. 
+
+A second revised edition of the *grammatika*, combining both volumes from the first edition and now using the title *Mluvnice jazyka českého pro střední školy*, was in preparation when Zikmund died and was finished after his death by Jan Gebauer (see [@sec:gebauer1890]). The discussion of *obrázky* 'diagrams' appears unchanged from the first edition [@zikmund1874: 365-370]. An unchanged third edition appeared a few years later [@zikmund1876: 365-370].
+
+::: ex
+Czech [@zikmund1866: 147, citing Václav Hájek of Libočany]
+
+- [A]{.grey} Kníže Kouřimský, \
+  [\[a]{.grey} ač byl častokrát, [(a^2)]{.grey} aby se proti nim postavil, [a]{.grey} napomínán, [\]]{.grey} \
+  [A]{.grey} nechtěl toho učiniti.
+- [A]{.grey} Prince Kouřimský, \
+  [\[a]{.grey} although he was often admonished [(a^2)]{.grey} to stand against them, [\]]{.grey} \
+  [A]{.grey} did not want to do so.
+:::
+
+::: {.im #zikmund1866_147}
+*Obrázek* 'diagram' for the example [@last] from Zikmund [-@zikmund1866: 147]. He already presented the same example earlier [@zikmund1863: 692] but without concrete diagram. The double centre embedding is indicated by different kinds of bracketing.
+:::
+
+### Bartoš (1878) *Skladba*
+
+František Bartoš (1837-1906) was a teacher and later school principal in Brno. He was a wide-ranging ethnologist, working on the Czech language, Moravian dialects, folksongs and other cultural practices.^[The Czech Wikipedia has a concise summary of his life and work with many references to original sources at <https://cs.wikipedia.org/wiki/František_Bartoš_(etnograf)>, accessed 14 May 2025.]
+
+Together with Matiáš Blažek he prepared the two-volume *Mluvnice jazyka českého pro školy střední a ústavy učitelské* 'Czech language grammar for secondary schools and teacher's institutes'. Bartoš wrote the second volume called *Skladba* 'Syntax' [@bartos1878]. This book was reprinted with only minor changes at least twice in 1880 and 1882. In the introduction he mentions the influence of Zikmund's grammar (see [@sec:zikmund1863]). Bartoš uses one-line *obrázky* 'diagrams', clearly adapted from Zikmund. Many of the examples analysed by Bartoš are even directly copied from Zikmund's grammar [@zikmund1866: 145-149]. For example, Zikmund's example [@last] is graphically analysed by Bartoš [@bartos1878: 155] as shown in [@fig:bartoš1878_155]
+
+::: {.im #bartoš1878_155}
+*Obrázek* 'diagram' for the example [@last] from Bartoš [-@bartos1878: 155]. This analysis is copied verbatim from Zikmund (cf. [@fig:zikmund1866_147]), though note that the square and round brackets are reversed.
+:::
+
+### Gebauer (1890) *Mluvnice česká* {#sec:gebauer1890}
+
+Jan Gebauer (1838-1907) was a teacher and later professor in Prague. He is widely considered to be a main figure in the 19th Century scientifc study of the Czech language.^[A useful summary of his life and work is available on the Czech Wikipedia at <https://cs.wikipedia.org/wiki/Jan_Gebauer>, accessed 3 July 2025. A thorough biography is provided by Syllaba [-@syllaba1983; -@syllaba1986]. A short summary of this biography is provided in a review by Heumos [-@heumos1989], which is available online.] Based on this work as a school teacher, he remained interested in teaching grammar during his whole life. He prepared, for example, a revision of Zikmund's *Mluvnice jazyka českého* after Zikmund's death (see [@sec:zikmund1863]). While already professor at the university of Prague he published the two-volume *Mluvnice česká pro školy střední a ústavy učitelské* 'Czech grammar for secondary schools and teacher training institutes' [@gebauer1890]. This book was revised and republished at least until a ninth edition in 1926, long after his demise. 
+
+The second volume of the *Mluvnice česká* deals with *skladba* 'syntax' and contains various different graphical approaches to sentence structure [@gebauer1890: 26, 38, 46, 54, 57-58]. The discussion remains basically the same in the second [@gebauer1894: 28, 40, 48, 56] and third edition [@gebauer1900: 237, 249, 257, 265]. After the death of Gebauer, the *Mluvnice česká* is revised by Václav Ertl (1875-1929) in the fifth edition. This edition is reprinted at least until a ninth edition in 1926. In this revised version, Ertl has removed all graphical analyses.^[The fifth edition from 1914 is available online at <https://ndk.cz/uuid/uuid:8d7c84d0-6a51-11e3-8387-001018b5eb5c>. The ninth edition from 1926 is available online at <https://ndk.cz/uuid/uuid:93df09ca-3d33-46b4-b76a-0670fcc328ed>.] 
+
+The major scientific work of Gebauer is a massive four-volume *Historická mluvnice jazyka českého* 'Historical grammar of the Czech language'. The fourth volume deals with syntax and was only finished in 1929 by Frantiček Trávníček after the death of Gebauer. The first part of this fourth volume on syntax is basically a revision of *Mluvnice česká* and it contains all the same images from the original 1890 version [@gebauer1929: 38, 46, 53-54, 65, 76].
+
+Gebauer uses various different graphical approaches to illustrate the hierachical structure of sentences. The first illustrations in his 1890 book use horizontal braces for the internal structure of a clause, as shown in [@fig:gebauer1890_26] for the sentence [@next]. 
+
+::: ex
+| Czech [@gebauer1890: 26]
+| Země otáčí se každých čtyřiadvacet hodin okolo své osy.
+| earth rotate.3SG REFL every twenty‑four hours around its axis
+| The Earth rotates around its axis every twenty-four hours.
+:::
+
+::: {.im #gebauer1890_26}
+Hierarchical analysis of the sentence [@last] from Gebauer [-@gebauer1890: 26]. In the image, the subject *země* 'earth' stands apart from the predicate *otáčí se* 'rotates', including all modifiers. The modifiers are then grouped in a third level of analysis.
+:::
+
+For the structure of complex sentences with multiple subordinate clauses Gebauer uses a simplified system of abbreviations, clearly inspired by the German tradition from Lehmann (see [@sec:lehmann1833]). He uses capital letters for main clauses and lower-case letters for subordinate clauses. However, different from the German tradition, Gebauer repeats the structure of the matrix clause with each subordinate clause, so *Aaa* is the subordinate clause to *Aa*, which is the subordinate clause to the main clause *A*, as shown in [@fig:gebauer1890_38] for the sentence [@next]. These abbreviations are either displayed in a music-score metaphor, with the sentence running from left to right and subordination indicated by lower placement (cf. the rigthward version in [@fig:gebauer1890_38]), or using horizontal braces (cf. the graphic to the left in [@fig:gebauer1890_38]).
+
+::: ex
+| Czech [@gebauer1890: 38]
+| Přij-de čas, že se zeptá zima, co‑s děla‑l v létě.
+| come‑FUT time SUB REFL ask.FUT winter, SUB‑2SG do‑PAST in summer
+| The time will come when winter will ask what you did in the summer.
+:::
+
+::: {.im #gebauer1890_38}
+Two different graphical representations of the same complex sentence with two subordinate clauses [@last] from Gebauer [-@gebauer1890: 38]. Gebauer here uses the German tradition following Lehmann (see [@sec:lehmann1833]), designating the main clause with a capital letter and subordinate clauses with lowercase letters. Idiosyncratically, Gebauer repeats the letters of the respective matrix clause, so *Aaa* is the subordinate clause to *Aa*, which is the subordinate clause to the main clause *A*.
+:::
+
+Gebauer also discusses larger syntactic constructions under the heading of *perioda* 'period'. In his definition, a period consist of a *předvětí* 'pre-clause' and a *závětí* 'post-clause', typically separated by a colon. However, he also notes [-@gebauer1890: 53] that the distinction between a period proper and a regular complex sentence with subordinated clauses is not clear-cut. For the internal structure of a period he proposes a graphical representation as shown in [@fig:gebauer1890_54] for the example in [@next]. Subordination is indicated by position downwards, typically connected by lines. However, the *předvětí* 'pre-clause' is also positioned downwards but without a connecting line, though there is a dotted line above on the level of the main clause *závětí*. Otherwise dotted lines are used to connect parts of the same clause that are separated by subordinate clauses. However, the dotted lines on the lower right of the graphic are probably an error, because these are two separate subordinate clauses. It might also be the case that the dotted lines are simply an indication of the level of embedding, a bit like in [@fig:gebauer1890_38]. However, then the dots are wrongly omitted on the lower left of the graphic. Such a usage of dotted lines to indicate the depth of the embedding is reminiscent of Kern's approach, as published just a few years prior to Gebauer's book (cf. [@fig:kern1884_56]).
+
+::: ex
+Czech [@gebauer1890: 53, citing an example from Daniel Adam z Veleslavína]
+
+- Jakož větší lásku máme k pravým rodičům, \
+  kteří nás zplodili, \
+  nežli k jiným, \
+  kteří nás sobě za syny zvolili a vzali: \
+  tak i ta země, \
+  v níž jsme zrozeni a vychováni, \
+  milejší jest nám nežli jiná, \
+  do níž nás štěstí obrátilo.
+- Just as we have greater love for our true parents, \
+  who begot us, \
+  than for others, \
+  who chose and adopted us as their own sons: \
+  so too the country, \
+  in which we were born and raised, \
+  is dearer to us than another, \
+  to which fortune has turned us.
+:::
+
+::: {.im #gebauer1890_54}
+Graphical analysis of the complex *perioda* [@last] from Gebauer [-@gebauer1890: 54]. Ideally, a period consists of a *předvětí* 'pre-clause' and a *závětí* 'post-clause', both can have internal clausal subordinates, as shown by the vertical lines. The dots connect parts of the same clause. It is unclear why the three dots on the lower right are added, because these two subordinate clauses are not directly connected to each other. Another interpretation of the dots is that they link the same level of embedding, but then the dots are wronly omitted from the lower left side of the graphic.
+:::
+
+In 1891 Gebauer publishes a short introductory version of the grammar, called *Krátká mluvnice česká pro první třídy škol středních* 'Short Czech grammar for the first grades of secondary schools', which basically contains the same graphics [@gebauer1891: 113-116, 125-128]. The third revised edition of this short version basically remains the same, but extends the use of arches to indicate argument-verb relations [@gebauer1902: 126-127] as shown in [@fig:gebauer1902_127]. Throughout his writing, Gebauer recurrently uses such arches to indicate various kinds of relations between words in a sentence. However, he never develops this this arches-approach into a full-blown syntactic analysis.
+
+::: {.im #gebauer1902_127}
+Arches to indicate verb-argument and adjective-noun relations by Gebauer [-@gebauer1902: 127]. This graphical approach is revisited by Gebauer at various points in his writing, but it is never extended into a full-blown syntactic analysis.
+:::
+
+### Havránek (1933) *Cvičebnice jazyka českého* {#sec:havranek1933}
+
+Bohuslav Havránek (1893-1978) was professor at the university of Prague and one the founders of the Prague Linguistic Circle, alongside the more widely known Vilém Mathesius. Before becoming professor in 1945 Havránek worked as a school teacher for many years. He retained an strong interest in the didactical aspects of grammar throughout his long life. An extensive overview of his many didactic pursuits is presented by Šmejkalová [-@smejkalova2013]. Havránek is too young to have personally known Gebauer (see [@sec:gebauer1890]), but he surely knew Gebauer's Czech grammar. However, at the time when Havránek studied Czech at Prague university, the grammar of Gebauer had already been revised by Ertl, who removed all graphical analyses, so there is probably no direct influence on Havránek in this regard. Interpreting the visual appearance of the graphical analyses in the work of Havránek it seems clear that they are influenced by the Russian tradition (cf. Ushakov *et al.*,[@sec:ushakov1926]). However, no concrete influences are acknowledged by Havránek in his writings.
+
+In the 1930s Havránek worked on a complete revision of the Czech language curriculum. In this context he wrote, together with Alois Získal (1891-1974), Leontij Kopecký (1894–1976) and Eduard Starý (1877-???), a four-volume textbook *Cvičebnice jazyka českého* 'Czech language exercises'. The first volume appeared in 1933 *pro první třídu středních škol* 'for the first grade of secondary schools' [@havranek1933]. The included graphical display of the *závislost* 'dependence' within clauses is shown in [@fig:havranek1933_85; @fig:havranek1933_198] for the examples in [@next]. The use of arrows for dependence is a clear indication of influence from the Russian grammatical tradition. Notewhorty is the usage of boxes within boxes in [@fig:havranek1933_85]. It is not explained whether this is intended to be a different analysis as a simply sequence of arrows as used in [@fig:havranek1933_85]. The hierarchical boxes are mostly not used.
+
+::: ex
+a.
+| Czech [@havranek1933: 85]
+| Pilní rolníci vy‑mlát‑ili sklizené obilí.
+| diligent peasant.PL PERF‑thresh‑PAST.3SG harvest.PART grain
+| The diligent peasants threshed the harvested grain.
+b.
+| Czech [@havranek1947: 198, quoting Karla Čapek]
+| Klika musí běžet plavně, oble a při každé pisn‑ičce jiný‑m tempe‑m!
+| crank must run smoothly roundly and with each song‑LOC different‑INSTR tempo‑INSTR
+| The crank must run smoothly, roundly, and with each song at a different pace!
+:::
+
+::: {.im #havranek1933_85}
+Illustration of the *závislost* 'dependence' for the example [@last a] from Havránek *et al.* [-@havranek1933: 85]. This graphical display is clearly influenced by the Russian tradition of sentence analysis, most closely the approach by Peshkovsky *et al.* (cf. [@fig:peshkovsky1931_35]). The enclosement of the words does not occur in the Russian tradition. Notewhorthy is the introduction of boxes within boxes.
+:::
+
+::: {.im #havranek1933_198}
+*Obrázek závislost* 'diagram of the dependence' for the example [@last b] from Havránek *et al.* [@havranek1947: 198]. Different from the previous example, there are no hierachical boxes used here.
+:::
+
+The second volume *pro dryhou třídu středních škol* 'for the second grade of secondary schools' was published in 1934, quoted here from a 1947 reprint [@havranek1947].^[The 1934 version seems to be completely identical to the 1947 reprint. Low resolution thumbnails of the 1934 version are available online at <https://ndk.cz/uuid/uuid:5af02996-ed8f-476b-b00a-2808ee38d72f>, accessed 7 July 2025. Unfortunately, due to copyright restructions the full digital images of this version are not made available outside of the Czech Republic.] The authors summarise the graphical approach from the first volume and propose an alternative display (see [@fig:havranek1947_28]), which they claim to be an improvement: *vzájemnou závislost jednotlivých členů větny nám ještě lépe znázorni šipky v tomto obrazci* 'the arrows in this diagram show us even better the interdependence of the individual members of the sentence' [@havranek1947: 27]. Visually, this kind of display is much more confusing that the purely dependency-based display with the boxes. However, the alternative approach in [@fig:havranek1947_28] retains the information about the ordering of the parts, which is lost in the original approach.
+
+::: ex
+a.
+| Czech [@havranek1947: 28, quoting Vladislav Vančura]
+| Dům pekař‑e Marhoul‑a stál na jižní stran‑ě náměstí.
+| house baker-GEN Marhoul‑GEN stand.PAST on south side‑LOC square.GEN
+| The house of the baker Marhoul stood on the south side of the square.
+b.
+| Czech [@havranek1947: 121, quoting Jana Vrby]
+| Musíme si přitom uvědomiti, že pes je šelma, kterou všecka přirozenost nutí, aby po zvěři, kterou nalezl, skočil a utíkal za ní.
+| Musíme si přitom uvědomiti, že pes je šelma, kterou všecka přirozenost nutí, aby po zvěři, kterou nalezl, skočil a utíkal za ní.
+| We must realize that a dog is a beast that is forced by all nature to jump and run after the game it finds.
+:::
+
+::: {.im #havranek1947_28}
+[@havranek1947: 28]
+:::
+
+::: {.im #havranek1947_121}
+[@havranek1947: 121]
+:::
+
+Much later, simplified schemas of complex sentences appear in a work together with Alois Jedlička (1912-2000). Together they wrote the *Stručná mluvnice česká* 'Concise Czech grammar', first published in 1950, but cited here from a much later edition [@havranek1981: 183-184]. The graphical analyses were added somewhere in the 1960s.^[Because of copyright restrictions outside of the Czech Republic only low resolution thumbnails are available online of early editions. From these thumbnails it appears that these graphics were not included in the original 1950 version, available at <https://dk.uzei.cz/nkp/view/uuid:55b14040-3d82-11e4-8fc5-005056827e52>. The graphics are included at least since the 1968 version <http://cdk.kramerius.org/view/uuid:9a7549c0-87e3-11e2-aa2b-005056827e51>.]
+
+::: ex
+- Slunce zářilo na modré obloze, ale jeho paprsky nepálily, protože od zasněžených krkonošských bor povíval vlahý větřík. \
+  The sun shone in the blue sky, but its rays did not burn, because a warm breeze blew from the snowy Krkonoše mountains.
+:::
+
+### Mrázek (1936) *Nová cesta* {#sec:mrazek1936}
+
+Josef Mrázek (1890−1969) was a native of Moravia, and worked as a high school professor in Prague. All information about Mrázek is taken from Novotna [-@novotna2012: 147-150, 190-191] because I have not been able to access any of his work myself. He uses graphical syntactic analyses in the third volume (for the third grade, published 1936) of his *Nová cesta. Pracovní učebnice a cvičebnice jazyka vyučovacího pro české měšťanské školy* 'New way. Workbook and exercise book of the language of instruction for Czech middle-class schools'. He refers to the use of graphical display in Russian grammars as an inspiration [@novotna2012: 190]. However, his graphics are very similar to the ones from Havránek (see [@sec:havranek1933]). Two examples from Mrázek are shown in [@fig:mrazek1936_6a] and [@fig:mrazek1936_6b] for the examples in [@next]. The second example shows that subordinate clauses are treated equally to other sentence constituents.
+
+::: ex
+Czech [Mrázek 1936: 6, cited after @novotna2012: 190-191]
+
+a.
+|
+| Starostlivý otec odje-l zarmoucen za nemocným synem do města.
+| caring father leave‑PAST sad to sick son to city
+| The caring father left, saddened, to the city to (visit his) sick son.
+b.
+|
+| Náš tatínek vypavova‑l, jak se uči‑l řemeslu.
+| our father tell‑PAST how REFL learn‑PAST trade
+| Our dad told how he learned the trade.
+:::
+
+::: {.im #mrazek1936_6a}
+Graphical analysis of a single-clause sentence [@last a] from Mrázek [Mrázek 1936: 6, cited after @novotna2012: 190]. The visual structure is very similar to Havránek (see [@sec:havranek1933]). Both are probably strongly influences by the Russian tradition, as indicated by the use of arrows (see e.g. Petrov in [@sec:petrov1906]).
+:::
+
+::: {.im #mrazek1936_6b}
+Graphical analysis of a multi-clause sentence [@last b] from Mrázek [Mrázek 1936: 6, cited after @novotna2012: 191]. Exactly the same visualisation as for single-clause sentences is used for complex sentences with subordinate clauses, though note the absence of arrows.
+:::
+
+### Rostohar (1937) *O struktuře vẽtných významů*
+
+Hierarchical bracketing [@rostohar1937]
+
+### Kaňka & Vachek (1945) *Česká mluvnice a cvičebnice*
+
+Jan Kaňka 1897-1966
+Josef Vachek 1909-1996 https://cs.wikipedia.org/wiki/Josef_Vachek (prague circle)
+
+*Česká mluvnice a cvičebnice pro obchodní akademie a pro obchodní školy* 'Czech grammar and exercise book for business academies and business schools'
+
+I have accessed a copy from the University of Bamberg which was dedicated on the title page by the authors to Havránek: *J. Sp. p. univ. prof. dr. B. Havránka v upřímé úctě* 'To university professor Dr. B. Havránek, your humble servant, with sincere respect'
+
+::: ex
+- Když Bolemír Nebeský nadšen rozvijel před Boženou Němcovou myšlenky, co by jako žena mohla vykonat pro lepši národa, a přimo ji povzbuzoval, aby svými silami byla při tom dile nápomocna, otvíral se před ní svět vzácné krásy, o jakém si nikdy netroufala snit. \
+  When Bolemír Nebeský enthusiastically before Božena Němcová developed ideas about what she, as a woman, could do for the betterment of the nation, and directly encouraged her to use her strength to assist in this work, a world of rare beauty opened up before her, the likes of which she had never dared to dream.
+:::
+
+::: {.im #kanka1945_priloha2}
+[@kanka1945: appendix 2]
+:::
+
+see also 1929 book *Česká mluvnice s připojenou cvičebnicí a slovníčkem pro obchodní školy*, which is hard to find: https://katalog.npmk.gov.cz/records/4e07c2f9-2b22-4772-977f-2f84ff9fdfd9
+
+### Šmilauer (1947) *Novočeská skladba*
+
+Vladimír Šmilauer (1895–1983)
+
+[@panevova2024] https://en.wikipedia.org/wiki/Vladimír_Šmilauer https://comenius-bibl.wz.cz/Smilauer.html
+
+[@smilauer1947: 416-425] Appendix with graphics
+
+Vladimír Šmilauer (1955) fifth edition [@smilauer1968]
+
+Šmilauer probably knew of Tesnière's work. Tesniere 1953 is cited in Šmilauer (1968: 6)
+
+Panevová, J. 2016. Syntax Vladimíra Šmilauera včera a dnes. Jazykovědné aktuality 53 (1 a 2): 30–35. https://www.jazykovednesdruzeni.cz/wp-content/uploads/2020/04/2016_1-2.pdf
+
+### Staněk (1952) Grafická metoda veíneho rozboru
+
+[@smilauer1953] talks about an article from Vladimir Staněk dealing with graphical representations [@stanek1952]
+
+### Other Czech
+
+grafické [@novotna2013; @novotna2012; @novotna2006; @vernerova2019]
+
+- ŽOFKOVÁ−TOŽIČKA (1933-1938) [@novotna2012: 187]
+- *Jazyk vyučovací na škole obecné* Václav Medonos, Bohumil Tožička, Lidmila Žofková, Jiří Haller: https://www.antikvariat-ol.cz/jazyk-vyucovaci-na-skole-obecne/produkt/17470/34/
+- BOJANOVSKÁ−KOHOUTEK−SEDLÁKOVÁ, I. díl, 1936, s. 29; též II. díl, 1936, s. 38 [@novotna2012: 184, 187-189]
+- KOHOUTEK−KOMÁREK, 1937, s. 135−136 [@novotna2012: 184]
+- VÍTEK−SIROTEK, II. díl, 1935, s. 112 [@novotna2012: 190] František Vítek, 1896-1990 https://www.cervenyknir.cz/vitek-ceska-mluvnice-pro-hlavni-skoly-5944v https://irel.knihovny.cz/Record/mzk.MZK01-000746958?sid=2718
+
+## Polish
+
+Digitalisations:
+
+- https://polona.pl
+- https://pbc.biaman.pl/
+- http://pbc.up.krakow.pl/
+- https://pbc.gda.pl/
+
+not accessible?
+
+- http://pbc.up.krakow.pl/dlibra/publication/5776/edition/5662
+- http://pbc.up.krakow.pl/dlibra/publication/6574/edition/6439
+- http://pbc.up.krakow.pl/dlibra/publication/6356/edition/6230
+
+### Lehr-Spławiński & Kubiński (1927) *Gramatyka języka polskiego*
+
+Tadeusz Lehr-Spławiński (1891-1965)
+Roman Kubiński (1886-1957)
+
+https://gramatyki.uw.edu.pl/book/544?lang=en
+
+first edition 1927, cited here in 2nd edition [@lehr-spawinski1928: 150] single tree-image of sentence.
+
+::: ex
+- Dziś rano przez dwie godziny padał bezustannie bardzo gęsty śnieg.
+- This morning it snowed very heavily for two hours straight.
+:::
+
+::: {.im #lehr1928_150}
+[@lehr-spawinski1928: 150] 
+:::
+
+### Klemenciewicz (1935) *Język Polski*
+
+Zenon Klemenciewicz (1891-1969) structure of complex sentences consisting of multiple clauses [@klemensiewicz1935: 66-67]
+
+::: ex
+- \(1) Przed burza bywa chwila cicha i ponura, (2) kiedy, (3) nad glowy
+ludzi przyleciawszy, (2 c.d.) chmura stanie (4) i (5) grozac twarza,
+(4 c.d.) dech wiatrów zatrzyma, (6) milezy, (7) obiega ziemie blyskawic oczyma, (8) znaczac te miejsca, (9) gdzie wnet cisnie grom po gromie.
+- \(1) Before a storm there is a quiet and gloomy moment, (2) when, (3) flying over people's heads, (2 c.d.) a cloud stands (4) and (5) threatening with its face, (4 c.d.) stopping the winds' breath, (6) passing by, (7) flashing lightning with its eyes, (8) marking those places, (9) where it will immediately hurl thunder after thunder
+:::
+
+::: {.im #klemensiewicz1935_67}
+[@klemensiewicz1935: 67]
+:::
+
+https://gramatyki.uw.edu.pl/book/506
+
+Encyklopedia języka polskiego (ed. by Urbańczyk, 2nd ed. 1991) calls it wykres składniowy (syntactic graph) and says that as a didactic convention it was popularised (scil. in Poland) by Klemensiewicz. One ex. can indeed be found in his Zarys składni polskiej (Outline of Pol. syntax) of 1953, p. 62.
+
+Various textbooks by Klemenciewicz in the 1930s, but no graphics:
+
+- https://pbc.biaman.pl/dlibra/doccontent?id=47579
+- https://pbc.biaman.pl/dlibra/doccontent?id=47595
+- https://pbc.biaman.pl/dlibra/doccontent?id=49283
+- https://pbc.biaman.pl/dlibra/doccontent?id=49305
+- https://pbc.biaman.pl/dlibra/doccontent?id=48885
+
+### Bąk (1977) *Gramatyka języka polskiego*
+
+Piotr Bąk (1911-2000) dialectologist, teacher and later lecturer at the university of Łódź
+
+*Gramatyka języka polskiego: zarys popularny* 'Polish grammar: a popular outline' [@bak1977] (sentence 400-402, complex sentences: 428-430, 435-442, generative: 446-450)
+
+only major revision in 4th edition [@bak1984]
+(sentence 442, complex sentences: 459, 470-487, generative: 497-502)
+(the illustrations are from 4th ed. of 1984; 1st ed. in 1977; 15th ed. in 2016).
+
+https://pl.wikipedia.org/wiki/Piotr_Bąk_(językoznawca)
+
+### Other Polish
+
+More on old polish grammars, but apparaently no other syntactic graphics: https://gramatyki-uw-edu-pl.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp
+
+Info from Tomasz (Ma)ksymil(ian) Majtczak: https://bsky.app/profile/ksymil.bsky.social
+
+- wykres zdania złożonego (graph of a compound sentence)
+- Modern summary: Gruszczyński & Bralczyk (ed.), Słownik gramatyki języka polskiego, 2002 [@gruszczynskiego2002: 302-304]
+
+## Hungarian
+
+### Lonkay (1855) *Gyakorlati Német Nyelvtan* {#sec:lonkay1855}
+
+Antal Lonkay (1827-1888) was a teacher in Pest, Hungary [some biographical information is available in @benda1971]. He wrote a German grammar for speakers of Hungarian, called *Gyakorlati Nemet Nyelvtan az ausztriai birodalombeli elemi tanodak masodik es harmadik osztalyainak szamara* 'Practical German grammar for the second and third grades of elementary school students in the Austrian Empire' [@lonkay1855]. 
+
+In this grammar Lonkay used a templatic table for German sentence structure [see @good2016 for the linguistic notion of a template]. Most interestingly, Lonkay distinguishes specific positions for the finite verb at the second position and for non-finite parts at the end. The table is shown here in [@fig:lonkay1855_175] [@lonkay1855: 175]. This syntactic analysis is very similar to what today in German grammar is called a "topological model", which is commonly attributed to Drach (1937, see [@sec:drach1937]) and/or Diderichsen (1946, see [@sec:diderichsen1947]). However, as shown by this example from Lonkay, this approach is much older, possibly even dating back to Becker. There is no indication in the book for any inspiration that Lonkay might have had for this approach.
+
+The first position in this table is called *alany* 'subject' and the rest *allitmány* 'predicate'. Lonkay also explicitly discusses examples with non-subjects in first position on the next page as deviating from the structure shown in this table. The section called 'predicate' is separated into the following columns:
+
+- *Ige vagy esak segédige* 'Verb or auxiliary verb'
+- *Idöt*  'Time'
+- *Helyet* 'Place'
+- *Ohot* 'Reason'
+- *Módot* 'Manner'
+- *Kiegészitö nevek különféle esetekben elöljárók nélkül* 'Proper nouns in various cases without prepositions'
+- *Igenév v. határtalan mod és az igének hátratett elöljárók* 'Participle or non-finite mode and prepositions placed behind the verb'
+
+Lonkay explains in a bit more detail which elements are placed in this final position, which today is commonly called the *Rechte Satzklammer* 'rightmost sentence bracket'. This proposal to combine non-finite verbs together with separable preverbs ('prepositions') into a single slot at the end of a sentence is, for example, not yet found in Drach [-@drach1937].
+
+> … végre az igenév vagy a határtalan mód, vagy bezárhatja még a mondatot az igének elülröl elszakított s hátratett elöljárója. [@lonkay1855: 175]
+>
+> ('… finally the participle or indefinite mood, or the sentence may be closed by the preposition of the verb that has been separated from the front and placed behind.')
+
+::: {.im #lonkay1855_175}
+Templatic table for German sentence structure from Lonkay [-@lonkay1855: 175]. The *allitmány* 'predicate' starts with a slot *Ige vagy esak segédige* 'Verb or auxiliary verb' and ends with a slot *Igenév v. határtalan mod és az igének hátratett elöljárók* 'Participle or non-finite mode and prepositions placed behind the verb'. This is very similar to the contemporary German grammatical sentence analysis using a *Verbalklammer* "sentence bracket".
+:::
+
+### Brassai (1873) *Paraleipomena kai diorthoumena* {#sec:brassai1873}
+
+Sámuel Brassai (1800-1897) was a polymath in the Austro-Hungarian empire, who worked most of his life at the university of Klausenburg (today Cluj, Rumania). He published in Hungarian about a wide variety of subjects, including linguistics [more details about his linguistic work in @imrenyi2020a].
+
+Of particular interest in the present context is his *Paraleipomena kai diorthoumena. A mit nem mondtak s a mit roszul mondtak a commentatorok Virg. Aeneise II. könyvére* 'Omissions and corrections: What was not said and what was wrongly said by the commentators on Book II of Virgil's Aeneid' [@brassai1873]. As the title clearly states, this book is a discussion of classical literature. The graphical analyses are inside a (long) footnote, explaining that adverbial modifiers can have different interpretations, depending on which word they modify. The graphical illustrations are thus only used as an aside, it is not the central topic of the discussion at all.
+
+To exemplify the problem of adverbial modification, Brassai chooses a sentence rather randomly from classical literature, ending up with a sentence from Ovid, shown here in [@next a] with a poetic translation in [@next b]. Ovid's sentence structure is infamous for being particularly unwieldy. Out of context, the adverbial phrase *imbre per indignas usque cadente genas* 'a shower (of tears) falling on innocent cheeks' could either modify the verb *tenebat* 'she held him' ([@fig:brassai1873_7] I), the accusative *flentem* 'the weeping one' ([@fig:brassai1873_7] II) or the nominative *uxor flens* 'wife weeping' ([@fig:brassai1873_7] III). Brassai uses the images to explain the structural difference between these possibilities.
+
+::: ex
+- uxor amans flentem flens acrius ipsa tenebat imbre per indignas usque cadente genas. [@brassai1873: 7, citing Ovid *Tristia*]
+- My loving wife was in my arms as I wept, herself weeping more bitterly, tears raining constantly over her innocent cheeks.^[Translation by A. L. Wheeler. Revised by G. P. Goold for the Loeb Classical Library. Available online at <https://www.loebclassics.com/view/ovid-tristia/1924/pb_LCL151.21.xml>.]
+:::
+
+::: {.im #brassai1873_7}
+*Schemaja* from Brassai [-@brassai1873: 7-8] of the examples sentence in [@last a]. With these graphics, Brassai explains that the adverbial phrase *imbre per indignas usque cadente genas* 'a shower (of tears) falling on innocent cheeks' could be interpreted in different ways, modifying different elements of the sentence. The Latin structure does not tell which is the right interpretation, it has to be decided from context.
+:::
+
+Brassai uses a similar graphic later in his book [@brassai1873: 37], also in a footnote. There he calls his graphic a *schemaja*. It is unclear where the inspiration for this graphical display originates. Imrényi & Vladár [-@imrenyi2020a: 166-169] propose that it is Brassai's own interpretation of Priscian, with possibly an influence from Billroth (cf. [@sec:billroth1832]). There is no direct evidence that Brassai was aware of Billroth's work [@imrenyi2021: 61], but the line diagrams are suspiciously similar. Particularly noteworthy is the verb-centric display, which he develops in the 1860s as a better representation of the Hungarian sentence structure [@imrenyi2021]. Brassai appears to be the first to use such an analysis. The next author to use rather similar looking graphical displays is Kern (cf. [@sec:kern1883]), but there is no evidence that Kern knew about Brassai's graphical analysis.
+
+A different metaphor proposed by Brassai is to compare the structure of a sentence to a solar system with the sun in the centre. Brassai does not use this metaphor for any visual display. Independently, this approach is used for the graphical analysis of sentences by Hansen (see [@sec:hansen1933]) and in much detail by Rehling (see [@sec:rehling1951]).
+
+> Szerintem t.i. abban a rendszerben, a mit "mondat<"-nak (Satz, phrase) neveznek, a nap – az uralkodó középpont, az ige. Ez vonzza a körülte keringö s forgó planétákat, melyeket a nyelvtanok Subject, Atribut, Object, Umstandswort, s ki tudja még hány különbözö nevek alatt tárgyalnak, s a melyeket mindnyájokat én a "határozó" rovatfogalom alá húzok. És méltán, mert syntactikai tekintetböl épen semmi különbség sincs köztük. Egy igazán szabatos mondatban egyikök sem elébbvaló, egyikök sem lényegesebb, egyikök sem nélkülözhetlenebb, mint akármelyik másik. A határozók ismét holdakat vonzanak és vezetnek magok körül *jelzők* képében, melyek megint különbféle alakokban jelennek meg; de azért, mint határozók határzói, syntactice mind egyneműek. [@brassai1873: 5-6]
+>
+> 'I think, for example, that in the system called "sentence" (Satz, phrase), the sun is the dominant center, the verb. This attracts the planets that orbit and revolve around it, which grammarians discuss under the heading of Subject, Attribute, Object, Umstandswort, and who knows how many other different names, and which I bring all under the heading of "dependent". And rightly so, because from a syntactic point of view there is absolutely no difference between them. In a truly correct sentence, none of them is more important, none of them is more indispensable than any other. The dependents again attract and govern moons around themselves in the form of attributes, which again appear in different forms; but nevertheless, as dependents of dependents, they are all syntactically of the same kind.'
+
+## Romanian
+
+### Tiktin (1895) *Gramatica Românǎ*
+
+Hariton Tiktin (1850-1936) was born in Breslau (Wrocław), but moved to Iași in Romania at the age of 18, where he worked as a teacher. He wrote a dissertation in Leipzig and worked as a lecturer at the Humboldt-University Berlin
+
+[@tiktin1895: 206-207] second edition, but difference to first edition (1891) unknown
+
+Figures look very much like Kern, but no attribution
+
+## Dutch
+
+### Paardekooper (1955) *syntaktische verkenningen*
+
+basic underline-style diagramming in [@paardekooper1955], published version identical to thesis [@paardekooper1955a]. More extensive diagramming in [@paardekooper1963]
+
 ## Chinese
 
 ### Li Jinxi (1924) *New grammar of the national language* {#sec:jinxi1924}
@@ -2023,15 +1637,7 @@ Amedeo Cracco O.F.M. (1903-1970)
 
 *diagrammi dell'analisi logica* = Jinxi-style 圖解法 tújiě fǎ [@amedeo1951: 202-203, 243-245], disccussion in <https://doi.org/10.13135/1825-263X/11595>
 
-## Other
-
-Probably not graphical grammar
-
-### Lithuanian
-
-https://journals.lki.lt/bendrinekalba/article/view/2210
-
-### Japanese
+## Japanese
 
 Motoori Haruniwa (1763-1828) https://en.wikipedia.org/wiki/Motoori_Haruniwa
 
@@ -2046,3 +1652,6 @@ https://kokusho.nijl.ac.jp/biblio/100375645/64?ln=en
 
 Hori Hidenari (1819-87) 弖爾乎波略図義解 'A simple illustrated explanation of Telhoba' (1858) https://dl.ndl.go.jp/pid/13387055 bio: https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9559
 
+## Lithuanian
+
+https://journals.lki.lt/bendrinekalba/article/view/2210 ???

@@ -30,63 +30,6 @@ The term *bekleidet* leads to a lot of discussion, because of the sexual connota
 
 > Seit lange (ich weiß nicht, seit wann) wird in der deutschen Grammatik gelehrt, daß ein nackter Satz wie *die Sonne scheint* die ursprünglichste Satzform darstelle und daß die Erweiterungen in einem bekleideten Satze wie z.B. *die helle Sonne bescheint die erfrischten Fluren* ihrerseits aus nackten Sätzen hervorgegangen sind. [@delbruck1901: 150]
 
-### Moritz (1782) *Deutsche Sprachlehre* {#sec:moritz1782}
-
-Karl Philipp Moritz (1756-1793) was a prolific author with wide ranging interests. Towards the end of his rather short life he became professor for the arts at the *Königliche Akademie der Künste* in Berlin. Among his many writings there are various instructional books and articles about grammar, see Schmidt [-@schmidt1993] for a concise summary of his linguistic oeuvre and Eichinger [-@eichinger1998] for an extensive discussion of his work. Of particular interest here is the *Deutsche Sprachlehre für die Damen in Briefen* [@moritz1782]. The context and linguistic content of this work is discussed in more detail by Buhofer [-@buhofer1994]. This book was quite successful, being reprinted in 1791, 1794 and 1806. All later editions dropped the somewhat curious addition *für die Damen* from the title.
-
-The *Deutsche Sprachlehre* contains to my knowledge the first graphical display of a grammatical analysis. In the *Zehnter Brief: Von dem Bau der Rede*, starting on page 267, Moritz discusses various simple examples, culminating in two large fold-out page-inserts between pages 308 and 309, reproduced here in [@fig:moritz1782_308i] and [@fig:moritz1782_308ii]. This is an analysis of the first part of the *Amyntas*, one of the many *Idyllen* published by Salomon Geßner in 1756, shown here in [@next].^[The original text by Geßner is available online at https://www.deutschestextarchiv.de/gessner_idyllen_1756/43, accessed 21 October 2025.]
-
-Later, in the first volume of his 1793 *Grammatisches Wörterbuch der deutschen Sprache* there is a short summary of this grammatical analysis under the heading of *Construktion* [@moritz1793: 283-295]. After Moritz' early demise that same year (at only 37 years of age) this *Grammatisches Wörterbuch* was completed by other authors without any further mentioning of this new kind of sentence analysis. The most extensive exposition of Moritz' envisioned analysis thus remains the discussion in the 1782 *Deutsche Sprachlehre*.
-
-Moritz' linguistic analysis is particularly noteworthy because it is an early version of what later will be called a *Satzgliedanalyse* ('phrasal analysis'). Although Moritz consistently talks about the "words" of the sentence, he clearly intends these "words" to be something closer to what today would be called phrases. These phrases are classified into various functions, using German labels (e.g. *Grund*=subject, *Ziel*=accusative object, *Zweck*=dative indirect object). Note that the now ubiquitous terminological trinity of subject/predicate/object was not yet established in Moritz' time (see [@sec:subjectobject]). Forsgren [-@forsgren1985: 76], discussing the origin of such phrasal analyses at the end of the 18th Century, argues that Moritz' approach is one of the earliest examples of a phrasal analysis and his ideas appear to be developed independently from other contemporaries.
-
-::: ex
-[1]{.grey} Bei frühem Morgen kam der arme Amyntas aus dem dichten Hain, das Beil in seiner Rechten. [2]{.grey} Er hatte sich Stäbe geschnitten zu einem Zaun, [3]{.grey} und trug ihre Last gekrümmt auf der Schulter. [4]{.grey} Da sah er einen jungen Eichbaum neben einem Hinrauschenden Bach, [5]{.grey} und der Bach hatte wild seine Wurzeln von der Erd' entblößet, [6]{.grey} und der Baum stand da, traurig, [7]{.grey} und drohte zu sinken. [8]{.grey} Er sprach: [9]{.grey} solltest du Baum in dies wilde Wasser stürzen: schade, [10]{.grey} dein Wipfel soll nicht zum Spiel seiner Wellen hingeworfen seyn. [11]{.grey} Jetzt nahm er die schweren Stäbe von der Schulter. [13]{.grey} Ich kann mir andre Stäbe holen, [12]{.grey} sprach er, [14]{.grey} und hob an, einen starken Damm vor den Baum zu bauen, [15]{.grey} und grub frische Erde. [16]{.grey} Jetzt war der Damm gebaut [17]{.grey} und die entblößten Wurzeln waren mit frischer Erde bedeckt [18]{.grey} und jetzt nahm er sein Beil auf die Schulter [19]{.grey} und lächelte noch einmal, zufrieden mit seiner Arbeit, in den Schatten des geretteten Baumes hin, [20]{.grey} und wollte in den Hain zurück, [21]{.grey} um andre Stäbe zu holen.
-:::
-
-::: {.im #moritz1782_308i}
-First page insert in *Deutsche Sprachlehre* [@moritz1782: 308]. Individual clauses are marked by a numbered bracket. Note the graphically lowered adjuncts (*Hinanfügung, Einschiebung*) and subordinated direct speech clauses (clause 9 and 10).
-:::
-
-::: {.im #moritz1782_308ii}
-Second page insert in *Deutsche Sprachlehre* [@moritz1782: 308]. Note another example of a graphically lowered subordinated direct speech (clause 13) and subordinated adverbial *um zu+Infinitiv* clause (clause 21).
-:::
-
-Examining the details of this visual display, each clause can be identified by a large bracket. Within each clausal bracket there is a table-like structure with function-names on top and the actual words of the clause below. Each clause consists of *Grund* ("subject") and *Rede* ("predicate"), with possibly additional syntactic functions like *Ziel* ("accusative object"), *Zweck* ("dative object") or *Bindung* ("conjunction"). Optional elements like *Hinanfügung* ("adverbial phrase") and *Einschiebung* ("interjection") are placed loosely below the main syntactic functions, implicitly hinting at an argument/adjunct distinction. Various details are not completely thought through and the examples are sometimes slightly inconsistent. For example, the phrase *auf der Schulter* in clause 3 is analysed as an adverbial *Hinanfügung*, while the almost completely parallel phrase *auf die Schulter* in clause 18 is analysed as an object-like *zweites Ziel*.^[Note that there is a slight difference between these two phrases because the preposition *auf* is one of the infamous German *Wechselprepositionen* that can occur both with a dative and an accusative case. The first phrase has an dative *der* because it occurs in a context without change of state, i.e. *trug auf **der** Schulter* 'carried on the shoulder'. In contrast, the second phrase has an accusative *die* because it occurs in the context of a change of state, i.e. *nahm auf **die** Schulter* 'put on his shoulder'. In some modern syntactic approach, a change of state is considered "more transitive", so the argument is more object-like, e.g. the factor "affectedness of object" from the classic paper by Hopper & Thompson [-@hopper1980: 252] on transitivity. If Moritz intentionally made this difference, he was truly two centuries ahead of his time.]
-
-More interesting is the treatment of subordinate clauses. Subordinate clauses are given a function in the matrix clause and then are further analysed within a new bracket as a separate clause below. This can be seen in [@fig:moritz1782_308ii] with the analysis of direct speech in clause 13, which is the *Ziel* of the matrix clause 12. Likewise, the adverbial *um zu+Infinitiv* subordinate clause 21 is the *Zweck* of the matrix clause 20. 
-
-This display of subordinate clauses is no coincidence. In the text there is an explicit discussion of this analysis of subordinate clauses [@moritz1782: 299-300] based on the example sentence [@next]. This sentence is analysed by Moritz into four separate clauses. The four clauses and their functions in the superordinate clause are listed in [@next a-d], as shown in [@fig:moritz1782_299]. Each of these subordinate clauses is subsequently analysed using the same clausal structure as the superordinate clause, as can be seen in [@fig:moritz1782_300]. 
-
-::: ex
-Wenn ich meine Pflicht thue, so fühle ich, daß mir dieses genug ist, um vergnügt und glücklich zu sein.
-
-- Grund und Rede: *so fühle ich*
-- Ziel: *daß mir dieses genug ist*
-- Zweck: *um vergnügt und glücklich zu sein*
-- Hinanfügung: *wenn ich meine Pflicht thue*
-:::
-
-::: {.im #moritz1782_299}
-Complex sentence with syntactic functions assigned to subordinate clauses, from *Deutsche Sprachlehre* [@moritz1782: 299].
-:::
-
-::: {.im #moritz1782_300}
-Separate analyses of the subordinate clauses of the complex sentence in [@last] from *Deutsche Sprachlehre* [@moritz1782: 300].
-:::
-
-Nitpicking one might argue that this analysis of the complex sentence is not completely correct. Clause 2 from [@fig:moritz1782_300] is not a separate clause but the superordinate main clause itself. Further, The subordinate part *um vergnügt und glücklich zu sein* is analysed in [@fig:moritz1782_299] as *Zweck* ('reason', confusingly a label otherwise also used for dative arguments by Moritz). However, this clause is not directly subordinate to the main clause *so fühle ich* but it is secondary subordinate to the *Ziel* complement clause *daß mir dieses genug ist*. 
-
-Notwithstanding these inaccuracies, Moritz' analysis shows a clear understanding of subordinate clauses having simultaneously an internal functional structure and, as a whole clause, having a function inside a superordinate structure. Anachronistically interpreting this as a constituency analysis, this sentence can be displayed as shown in [@fig:moritz1782_300_tree]. Note that this is somewhat akin to an "underlying" structure as the ordering does not correspond to the original sentence. Moritz consistently applies the same functional structure on each clause (viz. the ordering *Grund-Rede-Ziel-Zweck-Hinanfügung*). The numbering in this example indicates the eventual ordering in the resulting sentence.
-
-::: {.tree #moritz1782_300_tree}
-Constituency tree of the example in [@last] following the analysis from Moritz [@moritz1782: 299-300]. Note the fixed ordering of the functional categories in each clause, making this a kind of "underlying" structure. The bracketed numbers indicate the ordering in the actual example.
-:::
-
-Summarising, Moritz appears to have a clear understanding of, first, phrases as the basis of syntactic analysis. Second, he assigns a syntactic function to each phrase. Third, his examples indicate a basic, through rather implicit, understanding of adjuncts as less crucial phrases (*Hinanfügung*) that are visually displayed below the main constituents. Fourth, subordinate clauses have their own clausal structure, while the subordinate as a whole is assigned a function in the superordinate clause, which is a clear precursor of constituency structure. Finally, in the text he explicitly mentions that the ordering of the elements in the actual sentence is slightly different from the ordering in his analyses, and he hints at rules that determine how the abstract "underlying" structure has to be reordered into the actual form (though he does not explicitly formulate such rules).
-
-All these theoretical concepts are quite charmingly summarised by his graphical display, which can be interpreted as a kind of precursor of a constituency structure. Apparently appearing completely out of the blue, the idea of using graphics to elucidate grammatical structure is off to a great start with these proposals from Moritz' *Deutsche Sprachlehre*. Unfortunately, his approach does not have had any following and it would take almost 50 years for graphical methods to be used again for grammatical analysis in Germany, namely by Diesterweg in 1830 (see [@sec:diesterweg1830]).
-
 ## Frankfurtische Gelehrtenverein
 
 ### Herling (1823) *Periodenbau der deutschen Sprache* {#sec:herling1823}
@@ -367,6 +310,55 @@ Second, throughout the discussion of syntax, Diesterweg frequently uses the nome
 
 In summary, the grammatical analysis of Diesterweg is a complex tour-de-force, combining insights from various scholars of the preceding decade, synthesising everything into a coherent and visually appealing package. Additionally, he attempts to make the grammatical analysis practically useful for application in the classroom. Many ideas proposed in his book feel rather modern and might have kickstarted a fruitful dicussion about syntactic analysis. Unfortunately, Diesterweg's *Lehrgang* does not seem to have had much impact on the further development of linguistics in general, nor specifically on the establishment of linguistic education. From here on, the development of grammatical analysis in Germany will proceed taking baby steps, instead of leaping ahead like Diesterweg demonstrated to be possible.
 
+### Billroth (1832) *Lateinische Syntax* {#sec:billroth1832}
+
+(Note: the first modern author to rediscover Billroth was probably Sandmann [-@sandmann1971: 428] in a book edited by Coseriu, who cited Billroth in [@coseriu1980].)
+
+At the end of his short life, Johann Gustav Willhelm Billroth (1808-1836) became professor for religion at the university in Halle. Before that, between his *Habilitation* in Leipzig in 1830 and the start of his position in Halle in 1834, he worked as a teacher for Latin [@alwast2000]. In that context he wrote two latin grammars for use in schools, first the *Lateinische Syntax für die obern Klassen gelehrter Schulen* [@billroth1832], later followed by the *Lateinische Schulgrammatik für alle Klassen* [@billroth1834].
+
+In these grammars there is a single graphical display of a grammatical structure, shown below in [@fig:billroth1832_102] [@billroth1832: 102; -@billroth1834: 332-333]. Not much is known about the grammatical background of Billroth, nor is there any explicit indication in his books about the inspiration for drawing a grammatical analysis. As he was active as a school teachter, he might very well have been aware of Becker [-@becker1829, see [@sec:becker1829]] or Diesterweg [-@diesterweg1830, see [@sec:diesterweg1830]], both of which might have been an inspiration for Billroth's graphical display. One (circumstantial) argument that Billroth was inspired by Diesterweg is that Billroth uses the term *bestimmter Satz* as a synonym to *bekleideter Satz* [@billroth1832: 97], and he also uses the noun *Bestimmung* in the meaning of "modifier" [@billroth1832: 126-127]. Diesterweg very extensively used the nouns *Bestimmung* and *Bestimmer*, the last one of which is not found in Billroth. It is possible that Billroth just used these words out of his own inspiration, but this parallel usage is idiosyncratic enough to be notewhorthy, as these terms do not seem to be in wide use at this time.
+
+In Billroth's syntax, the whole discussion of the structure of the sentence takes 11 pages [@billroth1832: 91-102]. The structure of the text is rather difficult to follow, although on closer inspection there is a clear, but drawn-out organisation. First, he introduces the simple 'naked' sentence as option *A*:
+
+> Ein Satz ist entweder: A. ein einfacher (oder nackter) d.h. ein solcher, welcher bloß aus Subject, Prädicat und Copula besteht. [@billroth1832: 91] 
+> 
+> ('A sentence is either: A. a simple (or naked) one i.e. one such that it only consists of subject, predicate and copula.')
+
+It takes 8 pages of explanations of the simple sentence until finally the expected follow-up to the option *A* occurs. Without clear formatting, the option *B* is announced innocuously on page 97, using a rather strange sentence structure that only makes sense when it is read immediately after the option *A* as quoted above.
+
+> B. oder ein bestimmter (bekleideter) d.h. ein solcher, wo entweder ein einzelner Theil oder mehrere durch Zusätze näher bestimmt werden. [@billroth1832: 97]
+> 
+> ('B. or a determined (dressed) one, i.e. one such, in which either a single part or multiple parts are further determined by additions.')
+
+Then it takes another 5 pages of explanations of different kinds of such "dressed" sentences until finally this topic is closed with the conclusion quoted below. Billroth simply states (without explanation) that the example sentence [@next] is 'dressed' as illustrated by the drawing in [@fig:billroth1832_102]. In this quote, Billroth takes the metaphor of the naked/dressed sentence even one step further by using the term *Körper* 'body' for the naked sentence.
+
+> Auf diese Weise wird z.B. folgender Satz [@next], dessen Körper eigentlich nur aus dem Subj.: *Miltiades* und dem Prädicat (mit dem Copula) *reddidit* besteht, bekleidet: [@billroth1832: 102]
+> 
+> ('In this way, the following sentence, whose body only consists of the subject *Miltiades* and the predicate (with copula) *reddidit*, is dressed:')
+
+::: ex
+|
+| Milti﻿ades, dux Atheniensium, toti Graeciae libertatem paene oppressam in pugna apud Marathonem reddidit.
+| miltiades leader Athenian.GEN.PL whole.DAT Greece.DAT liberty.ACC almost oppressed in battle near marathon restore.PERF.3SG
+| Miltiades, the leader of the Athenians, in the battle at Marathon restored to all of Greece the almost destroyed freedom.
+:::
+
+::: {.im #billroth1832_102}
+Graphical sentence analysis of [@last] from Billroth [-@billroth1832: 102]. Note the horizontal depiction of the subject-predicate pairing and all modifiers hanging down from this main structure. This depiction is rather similar to Diesterweg's approach in [@fig:diesterweg1838_260], but the usage of lines instead of braces is different.
+:::
+
+Interpreting his graphical illustration in more detail, the naked sentence is depicted by a horizonal line, while the additional elements of the "dressed" sentence are all shown as vertical/slanted lines. Billroth very clearly intends the vertical lines to represent some kind of dependency, with multiple levels of modification being illustrated by subsequent vertical lines. The structure of the graphic is quite similar to Diesterwegs proposal in [@fig:diesterweg1838_260], but with lines instead of curly braces. Note that the attachment of the phrase *in pugna apud Marathonem* 'in the battle of Marathon' is actually ambiguous. From historical knowledge it is clear that the restoration (*reddidit*) of the freedom happened at Marathon, as the graphical analysis illustrates. However, grammatically it would also be possible for the phrase *in pugna apud Marathonem* to modify the destruction (*oppressam*) of the freedom. That (factually incorrect) interpretation would result in a different diagram. Such an application of diagrams – to explain different possible structural intepretations – is later used by Brassai (see [@sec:brassai1873]).
+
+Exactly the same approach with the same picture is found in his extended grammar written two years later [@billroth1834: 332-333]. After Billroth's early death this grammar has seen various new editions. The second edition of 1838 is prepared by Friedrich Ellendt and uses exactly the same figure [@billroth1838: 329]. However, in the third edition, the picture is changed, erroneously, and has become completely incomprehensible, cf. [@fig:billroth1848_358] [@billroth1848: 358]. Ellendt possibly did not completely understand what the figure is supposed to represent.
+
+::: {.im #billroth1848_358}
+Revision of the graphical analysis in [@fig:billroth1832_102] from the 1848 revision on the auspices of Friedrich Ellendt [@billroth1848: 358]. Instead of lines there are braces, and the structure of the braces is completely incomprehensible and in places clearly wrong.
+:::
+
+Billroth's grammar has an interesting afterlife, but unfortunately without any further development of his graphical innovation. Friedrich Ellendt writes a different grammer for younger students based on Billroth's model, called *Lateinische Grammatik für die unteren Klassen der Gymnasien*. The discussion of *bekleidete oder erweitete Sätze* is very similar to Billroth's, but it has different examples and it does not have a picture anymore [@ellendt1838: 115-116]. After the death of Ellendt, that grammar is in turn adapted by Moritz Seyffert as *Dr. Friedrich Ellendt's Lateinische Grammatik für die unteren und mittleren Klassen der höheren Unterrichtsanstalten*. This grammar has seen very many revisions, editions and reprints under the heading *Ellendt-Seyfferts lateinische Grammatik* far into the 20th Century. However, Seyffert was not very impressed by the syntactical analysis of Billroth (as noted in the preface of his revision), and he rewrote the discussion of syntax wholesale.
+
+On a more positive note, Billroth's grammar had a direct influence on Julius Hoffmann (see [@sec:hoffmann1839]), and Hoffmann is quoted indirectly by Franz Kern (see [@sec:kern1883]). So it seems very plausible that Billroth's line diagram was a seed that grew slowly but surely.
+
 ### Lehmann (1833) *Allgemeiner Mechanismus des Periodenbaues* {#sec:lehmann1833}
 
 Johann August Otto Leopold Lehmann (1802-1883) worked as a teacher in Danzig (Gdańsk) and later as a school principal in Marienwerder (Kwidzyn). In this context, he prepared various educational textbooks, mainly consisting of literary commentaries, but also including songbooks, dialect analyses and some works on local history. Early in his career he wrote a linguistic treatise about the structure of the complex sentence: *Allgemeiner Mechanismus des Periodenbaues, nebst einem Versuche, an ihn eine Kritik der deutschen Periode anzuknüpfen* [@lehmann1833]. His approach to the analysis of complex sentences is based on the work of Herling (see [@sec:herling1823]), who is explicitly cited as a source of inspiration [@lehmann1833: xv-xvi]. 
@@ -442,55 +434,6 @@ Finally, Lehmann wrote a literary analysis *Forschungen über Lessings Sprache* 
 
 Lehmann's examples of the application of the scheme to actual literary texts inspired many philological analyses in the decades to come. For example, via the *Repetitorium* of Menge (see [@sec:menge1873]) there is a direct line to the 1969 dissertation on the *Amadisroman* from Langholf (see [@sec:langholf1969]) using similar graphical analyses as Lehmann, more than a century after the original proposals.
 
-### Billroth (1832) *Lateinische Syntax* {#sec:billroth1832}
-
-(Note: the first modern author to rediscover Billroth was probably Sandmann [-@sandmann1971: 428] in a book edited by Coseriu, who cited Billroth in [@coseriu1980].)
-
-At the end of his short life, Johann Gustav Willhelm Billroth (1808-1836) became professor for religion at the university in Halle. Before that, between his *Habilitation* in Leipzig in 1830 and the start of his position in Halle in 1834, he worked as a teacher for Latin [@alwast2000]. In that context he wrote two latin grammars for use in schools, first the *Lateinische Syntax für die obern Klassen gelehrter Schulen* [@billroth1832], later followed by the *Lateinische Schulgrammatik für alle Klassen* [@billroth1834].
-
-In these grammars there is a single graphical display of a grammatical structure, shown below in [@fig:billroth1832_102] [@billroth1832: 102; -@billroth1834: 332-333]. Not much is known about the grammatical background of Billroth, nor is there any explicit indication in his books about the inspiration for drawing a grammatical analysis. As he was active as a school teachter, he might very well have been aware of Becker [-@becker1829, see [@sec:becker1829]] or Diesterweg [-@diesterweg1830, see [@sec:diesterweg1830]], both of which might have been an inspiration for Billroth's graphical display. One (circumstantial) argument that Billroth was inspired by Diesterweg is that Billroth uses the term *bestimmter Satz* as a synonym to *bekleideter Satz* [@billroth1832: 97], and he also uses the noun *Bestimmung* in the meaning of "modifier" [@billroth1832: 126-127]. Diesterweg very extensively used the nouns *Bestimmung* and *Bestimmer*, the last one of which is not found in Billroth. It is possible that Billroth just used these words out of his own inspiration, but this parallel usage is idiosyncratic enough to be notewhorthy, as these terms do not seem to be in wide use at this time.
-
-In Billroth's syntax, the whole discussion of the structure of the sentence takes 11 pages [@billroth1832: 91-102]. The structure of the text is rather difficult to follow, although on closer inspection there is a clear, but drawn-out organisation. First, he introduces the simple 'naked' sentence as option *A*:
-
-> Ein Satz ist entweder: A. ein einfacher (oder nackter) d.h. ein solcher, welcher bloß aus Subject, Prädicat und Copula besteht. [@billroth1832: 91] 
-> 
-> ('A sentence is either: A. a simple (or naked) one i.e. one such that it only consists of subject, predicate and copula.')
-
-It takes 8 pages of explanations of the simple sentence until finally the expected follow-up to the option *A* occurs. Without clear formatting, the option *B* is announced innocuously on page 97, using a rather strange sentence structure that only makes sense when it is read immediately after the option *A* as quoted above.
-
-> B. oder ein bestimmter (bekleideter) d.h. ein solcher, wo entweder ein einzelner Theil oder mehrere durch Zusätze näher bestimmt werden. [@billroth1832: 97]
-> 
-> ('B. or a determined (dressed) one, i.e. one such, in which either a single part or multiple parts are further determined by additions.')
-
-Then it takes another 5 pages of explanations of different kinds of such "dressed" sentences until finally this topic is closed with the conclusion quoted below. Billroth simply states (without explanation) that the example sentence [@next] is 'dressed' as illustrated by the drawing in [@fig:billroth1832_102]. In this quote, Billroth takes the metaphor of the naked/dressed sentence even one step further by using the term *Körper* 'body' for the naked sentence.
-
-> Auf diese Weise wird z.B. folgender Satz [@next], dessen Körper eigentlich nur aus dem Subj.: *Miltiades* und dem Prädicat (mit dem Copula) *reddidit* besteht, bekleidet: [@billroth1832: 102]
-> 
-> ('In this way, the following sentence, whose body only consists of the subject *Miltiades* and the predicate (with copula) *reddidit*, is dressed:')
-
-::: ex
-|
-| Milti﻿ades, dux Atheniensium, toti Graeciae libertatem paene oppressam in pugna apud Marathonem reddidit.
-| miltiades leader Athenian.GEN.PL whole.DAT Greece.DAT liberty.ACC almost oppressed in battle near marathon restore.PERF.3SG
-| Miltiades, the leader of the Athenians, in the battle at Marathon restored to all of Greece the almost destroyed freedom.
-:::
-
-::: {.im #billroth1832_102}
-Graphical sentence analysis of [@last] from Billroth [-@billroth1832: 102]. Note the horizontal depiction of the subject-predicate pairing and all modifiers hanging down from this main structure. This depiction is rather similar to Diesterweg's approach in [@fig:diesterweg1838_260], but the usage of lines instead of braces is different.
-:::
-
-Interpreting his graphical illustration in more detail, the naked sentence is depicted by a horizonal line, while the additional elements of the "dressed" sentence are all shown as vertical/slanted lines. Billroth very clearly intends the vertical lines to represent some kind of dependency, with multiple levels of modification being illustrated by subsequent vertical lines. The structure of the graphic is quite similar to Diesterwegs proposal in [@fig:diesterweg1838_260], but with lines instead of curly braces. Note that the attachment of the phrase *in pugna apud Marathonem* 'in the battle of Marathon' is actually ambiguous. From historical knowledge it is clear that the restoration (*reddidit*) of the freedom happened at Marathon, as the graphical analysis illustrates. However, grammatically it would also be possible for the phrase *in pugna apud Marathonem* to modify the destruction (*oppressam*) of the freedom. That (factually incorrect) interpretation would result in a different diagram. Such an application of diagrams – to explain different possible structural intepretations – is later used by Brassai (see [@sec:brassai1873]).
-
-Exactly the same approach with the same picture is found in his extended grammar written two years later [@billroth1834: 332-333]. After Billroth's early death this grammar has seen various new editions. The second edition of 1838 is prepared by Friedrich Ellendt and uses exactly the same figure [@billroth1838: 329]. However, in the third edition, the picture is changed, erroneously, and has become completely incomprehensible, cf. [@fig:billroth1848_358] [@billroth1848: 358]. Ellendt possibly did not completely understand what the figure is supposed to represent.
-
-::: {.im #billroth1848_358}
-Revision of the graphical analysis in [@fig:billroth1832_102] from the 1848 revision on the auspices of Friedrich Ellendt [@billroth1848: 358]. Instead of lines there are braces, and the structure of the braces is completely incomprehensible and in places clearly wrong.
-:::
-
-Billroth's grammar has an interesting afterlife, but unfortunately without any further development of his graphical innovation. Friedrich Ellendt writes a different grammer for younger students based on Billroth's model, called *Lateinische Grammatik für die unteren Klassen der Gymnasien*. The discussion of *bekleidete oder erweitete Sätze* is very similar to Billroth's, but it has different examples and it does not have a picture anymore [@ellendt1838: 115-116]. After the death of Ellendt, that grammar is in turn adapted by Moritz Seyffert as *Dr. Friedrich Ellendt's Lateinische Grammatik für die unteren und mittleren Klassen der höheren Unterrichtsanstalten*. This grammar has seen very many revisions, editions and reprints under the heading *Ellendt-Seyfferts lateinische Grammatik* far into the 20th Century. However, Seyffert was not very impressed by the syntactical analysis of Billroth (as noted in the preface of his revision), and he rewrote the discussion of syntax wholesale.
-
-On a more positive note, Billroth's grammar had a direct influence on Julius Hoffmann (see [@sec:hoffmann1839]), and Hoffmann is quoted indirectly by Franz Kern (see [@sec:kern1883]). So it seems very plausible that Billroth's line diagram was a seed that grew slowly but surely.
-
 ### Götzinger (1836) *Die deutsche Sprache* {#sec:götzinger1836}
 
 Maximilian Wilhelm Götzinger (1799–1856) was a teacher of German, most of his life working in Schaffhausen (Switzerland). He wrote extensively about grammar, literature and dialectology, see Olsson [-@olsson2009] for an comprehensive appraisal of his work. Besides his didactic writings, Götzinger also provided material for Grimm's dictionary project [@olsson2009: 37] and he was even awarded a doctorate *honoris causa* from the University of Basel in 1838 [@olsson2009: 36], probably through his personal contact with Wilhelm Wackernagel (the father of Jacob Wackernagel of *Wackernagel's law*-fame).
@@ -548,6 +491,8 @@ Wenn ich mich in einer mittleren oder großen Stadt umsehe und bemerke, wo denn 
 ::: {.im #götzinger1839_391}
 Complex *Periodenbild* from Götzinger [-@gotzinger1839: 391] for the example from Goethe in [@last]. Note in comparison to Lehmann's *Periodenbild* (see [@sec:lehmann1833]) the different script letters are simplified to only lower-case latin letters and coordination is additionally indicated by using the equal sign.
 :::
+
+## Didactical approaches
 
 ### Horn (1837) *Grammatik der neuhochdeutschen Sprache* {#sec:horn1837}
 
@@ -617,7 +562,6 @@ Obwohl Cäcar, nachdem er diese Lage der Dinge erfahren hatte, überzeugt war, d
 ::: {.im #beilhack1838_267}
 [@beilhack1838: 267]
 :::
-
 
 ### Hoffmann (1839) *Neuhochdeutsche Schulgrammatik* {#sec:hoffmann1839}
 
@@ -703,52 +647,6 @@ Sein Vater, [a1]{.grey} der ihn herzlich liebte, und [a2]{.grey} Alles aufbot [�
 Analysis of the multi-clause sentence [@last] from Mager [-@mager1842: 118]. His system of analysis seems very close to the approach of Hoffmann (cf. [@fig:hoffmann1839_224]). Each clause is placed on a new line, with indentations indicating the level of subordination. Additionally alphanumeric codes are used to mark the different kinds of clauses. The application of vertical lines appears to be haphazard.
 :::
 
-### Rinne (1840) *Die Lehre vom deutschen Stile* {#sec:rinne1840}
-
-Karl Johann Friedrich Rinne (1802-1887) was a teacher in Erfurt and Zeitz. He wrote various textbooks including *Die deutsche Grammatik* in 1836. This textbook is an introduction to the latest developments in historical comparative grammar written specifically "for teachers and all those, who want to become acquainted with the contemporary position of this science" (*für Lehrer und für alle, welche sich mit dem gegenwärte Standpunkte dieser Wissenschaft vertraut machen wollen*). However, this textbook does not have any graphical grammatical analyses.
-
-Yet, in the first volume of his multi-volume *Lehre vom deutschen Stile*, published between 1840 and 1847, Rinne uses a system of symbols which he calls *Periodensymbolik* [@rinne1840: 276]. He explicitly references the "more extensive system" of Lehmann (see [@sec:lehmann1833]). Just as Lehmann, Rinne [-@rinne1840: 272-276] uses capital letters for main clauses and lower-case letters for subordinate clauses. Closer to Herling (see [@sec:herling1823]), recursively embedded clauses are indicated by superscripts, though using roman numerals. Central to Rinne's approach is a major separation of each *Periode* in a *Protasis/Vordersatz* and an *Apodosis/Nachsatz*, visually separated by a colon (cf. Diesterweg's approach in [@fig:diesterweg1838_169]). Additionally, Rinne uses letters *A/a* for the protasis and letters *B/b* for the apodosis. An example is shown in [@fig:rinne1840_274] for the example sentence in [@next] from Rinne [-@rinne1840: 274].
-
-The result of Rinne's graphical choices is a symbolic analysis on a single line, which makes it much easier to include it in a written text compared to the visually more involved approach by Lehmann. The concept of reducing the sentence scheme to a single line is similarly used by various later authors, for example by Nägelsbach (see [@sec:nägelsbach1846]) and by Hoffmann in his second edition (see [@sec:hoffmann1839]). These similarities could very well have been developed independently, though.
-
-::: ex
-Daß sich alles verändert, was uns hier umgibt; daß sich alles auflöst, was uns hier erscheint; daß wir uns in einem Wirbel befinden, der immer in Bewegung ist, der alles ergreift und mit sich fortreißt, der alles in einem Abgrund stürzt aus welchem es nie wieder hervorkommt: das fühlen wir, so bald wir aufmerken; das fällt in die Augen, so bald wir uns umsehen; das sagt uns unsre Erfahrung, und die Geschichte aller Zeitet bestätigt es
-:::
-
-::: {.im #rinne1840_274}
-Symbolic sentence analysis of the example in [@last] by Rinne [-@rinne1840: 274]. Different from Lehmann and Götzinger, this approach keeps the symbols on a single line, which makes it easier to include in written text, but much less visually appealing. Note that for easier interpretation, the period-symbols in thie analysis might better be replaced by the actual commas or semicolons as they occur in the example sentence.
-:::
-
-### Haupt (1841) *Deutsche Prosa* {#sec:haupt1841}
-
-Friedrich Haupt (1805-1891) was a teacher in Zürich and later pastor in the Odenwald region. More biographical information is available in Haupt [-@haupt1905]. During his time in Zürich he wrote various textbooks and prepared an anthology of the German language in his book *Deutsche Sprache und Literatur*. The second part of this anthology, *Deutsche Prosa* [@haupt1841], contains a preface on didactical methods, including syntactic analysis. This preface is removed in later editions of the anthology.^[Compare the 1865 edition available online at <https://mdz-nbn-resolving.de/bsb10597896>.]
-
-In this preface, Haupt is exceedingly enthousiastic about the syntactic approach of Becker. He heralds him as the founder of a new linguistics:
-
-> Becker […] Einer der scharfsinnigsten Sprachforscher, der der Begründer eines neuen Sprachsystems, und einer wahrhaft formal bildenden Unterrichtsmethode geworden ist [@haupt1841: 295]
->
-> ('Becker […] One of the most astute linguists, who has become the founder of a new language system and a true formally-educating method of teaching.')
-
-In a footnote Haupt even announces that he will publish an extensive analysis of Becker's method in a book to be called *K. F. Becker und die deutsche Volksschule. Ein Beitrag zur Förderung deutscher Sprachwissenschaft und Methodik* [@haupt1841: viii]. Unfortunately, he does not appear to have ever finished this planned book.
-
-As an example of Becker's syntactic analysis, Haupt analysed the example sentence [@next] from Jean Paul. In a first step he separates the various clauses and illustrates their interrelation with the graphical display in [@fig:haupt1841_viii]. Subsequently, Haupt also analyses the internal structure of one of the main clauses, but this is only done in words. Note that Haupt's graphical approach, using hierarchically-ordered reversed horizontal braces, is not found in the work of Becker (see [@sec:becker1829]). However, it is reminiscent of the visual approach by Diesterweg in [@fig:diesterweg1830_174].
-
-::: ex
-Der wahnsinnige Sterbliche begeht seine Sünden so kühn, blos weil sich ihm ihre mörderischen Folgen verhüllen; er kettet die in seiner Brust eingesperrten reißenden Thiere los und lässet sie in der Nacht unter die Menschn dringen; aber er siehet es nicht, wie viele Unschuldige das losgebundene Unthier ergreife und würge. [@haupt1841: viii, citing Jean Paul]
-:::
-
-The abbreviations that are used in the graphical analysis can be reconstructed from the text as follows:
-
-- **Main clause** (*Haupts.*): *Der wahnsinnige Sterbliche begeht seine Sünden so kühn,* 
-- **Causal subordinate clause** (*begründ. Nebs.*): *blos weil sich ihm ihre mörderischen Folgen verhüllen;*
-- **Coordinated main clauses** (*haupts. zusammengezog.) *er kettet die in seiner Brust eingesperrten reißenden Thiere los und lässet sie in der Nacht unter die Menschn dringen;*
-- **Adversative main clause** (*advers. Hpts.*): *aber er siehet es nicht,* 
-- **Complement clause** (*obj. Nebs.*): *wie viele Unschuldige das losgebundene Unthier ergreife und würge.* 
-
-::: {.im #haupt1841_viii}
-Graphical analysis of the example [@last] from Haupt [-@haupt1841: viii]. The internal structure of the six clauses is depicted by hierarchically ordered horizontal braces.
-:::
-
 ### Heußler (1844) *Kurzer Abriss der deutschen Sprachlehre* {#sec:heußler1844}
 
 Abraham Heußler (1803-1855) from Basel, Switzerland, in 1827 became a teacher at the *Mädchengemeindeschule St. Theodor*, then in 1837 teacher at the *Gymnasium* and 1843 rector of the *Töchterschule*.^[This basic bigoraphical information is taken from <https://d-nb.info/gnd/1089919689>, accessed 21 May 2026.] In 1840 Heußler published the first version of his *Kurzer Abriss der deutschen Sprachlehre* [@heussler1840], citing Götzinger (see [@sec:götzinger1836]) and Becker (see [@sec:becker1829]) as inspiration [@heussler1840: iv]. In this original version there are no graphical analyses yet. There is an appendix with a summary of all possible parts of a German sentence in the form of a table, but this table does not seem to be intended for the actual analysis of a specific sentence. In the second revised edition [@heussler1844] he added a new appendix with graphical *Satztheil- und Satzanalyse*. These approaches are adapted in Great Brittain by Morell [@morell1852] (see [@sec:morell1852]). The second edition will be cited from the mostly unchanged fifth edition [@heussler1870: 117-121], which is available online. Heußler's book appears to have been popular, as it was reprinted up to a 9th edition from 1902, and then revised by Wilhelm Bruckner under the title *Abriss der Deutschen Sprachlehre für höhere schweizerische Schulen*, published until a 9th edition in 1939.
@@ -776,18 +674,6 @@ The second graphic is called a *Satzanalyse* by Heußler, shown here in [@fig:he
 
 ::: {.im #heußler1870_121}
 *Satz-analyse* for the sentences in [@last] from Heußler [-@heussler1870: 121]. Originally this graphic is from some time in the 1840s.
-:::
-
-### Nägelsbach (1846) *Lateinische Stilistik* {#sec:nägelsbach1846}
-
-Carl Friedrich Nägelsbach (1806-1859) was professor for classical studies in Erlangen. He wrote various commentaries on classical texts and a didactic explanation of Latin style, called *Lateinische Stilistik für Deutsche, ein sprachvergleichender Versuch* [@nagelsbach1846]. The book saw various editions up to a ninth edition in 1905, prepared by Iwan Müller. This ninth edition has been reprinted up to at least 1980.
-
-In the *Lateinische Stilistik* Nägelsbach uses *Periodenbilder* to analyse latin constructions, citing both Lehmann [@nagelsbach1846: 281] and Götzinger [@nagelsbach1846: 282] as inspiration. He simplifies the structure of the *Periodenbild* to be able to write them on a single line, using slashes instead of horizontal braces, as illustrated in [@fig:nägelsbach1846_286] [@nagelsbach1846: 286].
-
-Another innovation proposed by Nägelsbach is to use brackets for relative modification at the front of the sentence. Specifically, he notes that in Latin it is quite common to have multiple *Vordersätze*, i.e. clauses in front of the main clause, as indicated by the colon in Lehmann's notation. Because of the ordering of modification, Nägelsbach proposed *Periodenbilder* like "a:(b:A)" and even "a:(b:[c:A])" for reverse-nested frontal clauses [@nagelsbach1846: 286, 289].
-
-::: {.im #nägelsbach1846_286}
-Simplified *Periodenbild* from Nägelsbach [-@nagelsbach1846: 286]. To be able to write *Periodenbilder* as a single line, he replaces the horizontal brace from Lehmann and Götzinger with a simple forward slash. This makes them much easier to typeset.
 :::
 
 ### Fürg (1847) *Satz und Styllehre* {#sec:fürg1847}
@@ -862,38 +748,6 @@ Theophanes zerstörte mit seinem griechischen Feuer die russische Flotte, welche
 In the lower right corner there is a graphical analysis of the sentence in [@last] by Hermes [-@hermes1866: 105]. The use of the letters is rather idiosyncratic (*H*=main clause, *a*=adverbial clause, *r*=relative clause, *s*=complement clause). Brackets are used for "inserted clauses" and second-level embedding is indicated by lowering the letter in the graphic. This is reminiscent of Lehmann, though the horizontal braces are missing.
 :::
 
-### Wander (1856) *Satzbilderschule* {#sec:wander1856}
-
-Karl Friedrich Wilhelm Wander (1803-1879) was a teacher in Silesia and a progressive padagogue in the tradition of Pestalozzi. He was persecuted by the prussian government as a revolutionist and communist, though his views appear moderately liberal-progressive from a contemporary point of view. He was a close friend of Diesterweg (see [@sec:diesterweg1830]) and wrote an influential pamphlet in defence of his friend, called *Der geschmähte Diester­weg*. In German linguistics, he is most well-known for his collection of German proverbs, the *Deutsches Sprichwörter-Lexikon*. Extensive biographical information about Wander is provided by Hohendorf [-@hohendorf1979].
-
-Among Wander's many publications there is a small booklet called *Satzbilderschule* [@wander1856]. It does not seem to have been noted by his contemporaries, and today only very few copies remain available. Wander's analysis of *Satzbilder* closely follows Diesterweg in all its details (see [@sec:diesterweg1830]). Wander's book is organised by possible sentence structures, trying to enumerate all possibilities of complex sentences. With this approach, Wander follows the same plan as Lehmann (see [@sec:lehmann1833]). Both Diesterweg and Lehmann are explicitly mentioned in the preface [@wander1856: vi].
-
-The main part of Wander's book consists only of *Satzbilder* in the form of letter sequences. Each letter encodes a clause, capital letters for main clauses and lower-case letters for subordinate clauses. Superscript numbers indicate the level of embedding. However, in the preface Wander additionally discusses three different kinds of visualisation that can be used to enhance the bare-bones letter-based analysis. The first two visualisations are directly adapted from Diesterweg, but the third appears to be an innovation of Wander himself. 
-
-For the analysis of the example sentence in [@next], Wander proposes two visualisations. First, in [@fig:wander1856_ix], he combines the rising-falling analysis of the *Kommata* in a *Periode* with the letter sequences of the individual clauses. Second, in [@fig:wander1856_x] he uses a grid to show the sequence of clauses from left to right and the depth of embedding from top to bottom. Another example of both these visualisations is found at the end of his book [@wander1856: 63-64].
-
-For the analysis of the  example sentence in [@nnext] Wander uses another visualisation, shown in [@fig:wander1856_x2]. He displays the hierarchical structure by indentation and connects separated parts of the same clause by large brackets. In all these example-visualisations there are minor typographic errors, as discussed below in the captions to the figures. With such complex sentences it turns out to be really difficult to stay faultless, even for an obviously competent author like Wander.
-
-::: ex
-[a]{.grey} Wer nur den groß nennt, [a^2^]{.grey} der in einem ungewöhnlichen Grade alles ist, [a^3^]{.grey} was er soll; [b]{.grey} wer aus der Zahl großer Monarchen jeden ausstößt, [b^2^]{.grey} dessen Regierung nicht durch ihn selbst, [c^2^]{.grey} sondern nur durch das glückliche, einträchtige Genie vortrefflicher Diener glänzte und [d^2^]{.grey} der nur weise genug war, [b^3^]{.grey} sich leiten zu lassen, [a^4^]{.grey} da er selbst hätte leiten sollen; [c]{.grey} wer, [e^2^]{.grey} mit unverwandtem Blick auf den einzigen würdigen Zweck eines Königs, [c]{.grey} keine, auch nicht die glänzendsten Thaten bewundert, [f]{.grey} sobald sie jenem Zweck entgegenlaufen; [d]{.grey} wer das einseitige Talent eines Kriegers von dem mannichfaltigen, so viele andere Talente in sich schließenden eines Monarchen unterscheidet: [A]{.grey} der wird die großen Könige, [e]{.grey} groß im echten Sinne des Wortes, [A]{.grey} durch ganze Jahrhunderte und unter ganzen Nationen vergebens suchen; [B]{.grey} er wird schon, [a]{.grey} eh' er sucht, [B]{.grey} ihrer nur äußerst wenige zu finden hoffen. [@wander1856: vii-viii, citing Johann Jakob Engel]
-:::
-
-::: {.im #wander1856_ix}
-*Satzbild* for the example sentence in [@last] from Wander [-@wander1856: ix]. This visualisation is completely parallel to the proposal from Diesterweg (cf. [@fig:diesterweg1834_169]). The lower-case letters are used for subordinate clauses, but the meaning of the different letters remains mysterious from this display. The alternative display in [@fig:wander1856_x] below solves this riddle. Note that there is a minor error in this display, which is corrected in the next figure. The second division (*Kolon*) should have *b^3^* instead of *a^3^*.
-:::
-
-::: {.im #wander1856_x}
-Alternative *Satzbild* for the example sentence in [@last] from Wander [-@wander1856: x]. The depth of the embedding is indicated by the lower placement in the display. This visualisation is probably inspired by the music-score display, which was proposed as an alternative by Diesterweg (cf. [@fig:diesterweg1834_169]). In this visualisation it becomes clear how the lower-case letters are chosen: on each level of embedding the subordinate clauses are simply assigned in alphabetical order. For example, the first second-order subordinate clause is *a^2^*, the second one is *b^2^*, etc. When the same letter re-occurs in the same level (e.g the clause *c* in the first subordinate level), then this indicates that the clause is separated into two parts. The alphabetical order is reset in a new main clause, cf. in main clause *B* the subordinate clause is *a* again.
-:::
-
-::: ex
-\(A) Die lebhaften Schilderungen (a) welche die Tarentiner ihm von dem glücklichen Leben machten, (a^2^) das im ruhigen Schoße ihres Vaterlandes und in Gesellschaft seiner dortigen Freunde auf ihn warte, (A) vollendeten endlich die Wirkung, (b) die der gewaltsame Zustand, (b^2^) worin er seit einiger Zeit gelebt hatte, (b) auf ein Gemüth, (c^2^) wie das seinige, (b) machen mußte, (c) indem sie ihm zugleich den ganzen Widerwillen, (d^2^) den er nach seiner Verbannung von Athen gegen den Stand eines Staatsmannes gefaßt hatte, (c) und seinen ganzen Hang zur Abgeschiedenheit von der Welt und zum Leben mit sich selbst und mit guten Menschen wieder gaben, (e^2^) welches ihm, (a^3^) wie er glaubte, (e^2^) jetzt um so nöthiger war, (b^3^) da er sein Gemüth auch von den geringsten Rostflecken, (a^4^) die von jenem syrakusischen Hofleben zurückgeblieben sein könnte, (b^3^) zu reinigen wünschte. [@wander1856: x, citing C. M. Wieland *Geschichte des Agathon*. Clause identifiers were not included in the original by Wander, but were added here for easier interpretation]
-:::
-
-::: {.im #wander1856_x2}
-Alternative *Satzbild* of the examples sentence in [@last] from Wander [-@wander1856: x] using indentation for subordination. The brackets connect separated parts of the same clause. Some minor typographic errors have crept in. The fourth bracket, linking subordinated clause *c*, is erroneously indented too far to the right: it should be placed on the same indentation as the previous clause *b*. Further, the second level subordination inside *c* should have been marked as *d^2^*. The text makes clear that these are purely typographic errors.
-:::
-
 ### Schötensack (1856) *Grammatik der neuhochdeutschen Sprache*
 
 Heinrich August Schötensack (1812-1891) was a teacher in Stendal. He wrote a massive (more than 800 pages) *Grammatik der neuhochdeutschen Sprache*. It contains just a very short discussion of *Periodenbilder* without much detail [@schotensack1856: 800-802]. The example in [@fig:schötensack1856_801] for the sentence in [@next] clearly shows the influence from Lehmann (see [@sec:lehmann1833]) in the use of the different typefaces for the different levels of embedding. However, even Lehmann did not venture into the Hebrew characters, as is shown here by the use of the Alef for the fifth embedding.
@@ -904,22 +758,6 @@ Heinrich August Schötensack (1812-1891) was a teacher in Stendal. He wrote a ma
 
 ::: {.im #schötensack1856_801}
 *Periodenbild* for the sentence in [@last] from Schötensack [@schotensack1856: 801]. The use of the different typefaces is a clear indication of the influence from Lehmann (see [@fig:lehmann1852_171]). Schötensack does not include any more complex examples, but he introduces a Hebrew character Alef for the fifth level of embedding.
-:::
-
-### Schlecht (1856) *Denk- und Sprachlehre* {#sec:schlecht1856}
-
-Raymund Schlecht (1811-1891) was director of a teacher's training college in Eichstätt [see @gmelch1931 for biographical details]. Besides being a teacher and theologian, he was a musical researcher. Most of his writings deal with musicology, but he also published a short grammar called *Denk- und Sprachlehre. Ein Leitfaden zur Ertheilung eines organischen Sprachunterrichts* [@schlecht1856]. In the preface he prominently mentions Becker (see [@sec:becker1829]).
-
-The grammar contains a few graphical displays for complex sentences using a musical notation [@schlecht1856: 71, 79]. This is reminiscent of the approach by Herling, as shown in [@fig:herling1828_366], and Diesterweg, as shown in [@fig:diesterweg1834_169]. There is no indication that Herling was an inspiration for Schlecht. In contrast, Schlecht clearly knew about Diesterweg, whom he went to visit in Berlin in 1862 [according to @gmelch1931: 21] and about whose didactic methods he wrote a small note in the *Katholische Schulzeitung* in 1868 [@gmelch1931: 54].^[The small note appeared in two parts, which are available online at <https://www.digitale-sammlungen.de/view/bsb10687402?page=260> and <https://www.digitale-sammlungen.de/view/bsb10687402?page=284>.] Yet, given that Schlecht was more of a musicologist than a linguist, it seems just as likely that he independently came up with the idea of using the musical score for the depiction of linguistic structure.
-
-He uses the musical display in [@fig:schlecht1856_79] to illustrate the structure of the highly complex sentence in [@next]. Before the main clause there are eleven subordinated clauses, separated graphically by a double bar. These eleven subordinated clauses are again subdivided into three subsections devided by a single bar, each of which is again internally complex. The main clause, after the double bar, also has a complex internal structure. It is impressive that grammarians like Schlecht had the audacity to tackle such complex sentences, something rarely seen in contemporary linguistics.
-
-::: ex
-Wie das innere Bewegen, das im Herbst die Schaaren der wandernden Vögel mit unwiderstehlicher Gewalt ergreift und über Land und Meer dahinführt, wie der Trieb der Säfte, der in den Tagen des Frühlings die Tausende der Blüthen aus dem Fruchtbaum herausdrängt an's Licht, an welchem die meisten, gleich einer vergeblichen Ueberfülle, verblühen und abfallen, ohne Frucht zu tragen, wie jeder Zug des Instinkts im niederen Reiche der Sichtbarkeit ein Walten der Kraft ist, die das Wesen der Leiblichkiet begründete und beherrscht; – so war auch jenes Bewegen, das die Menschenseelen zu dem Werke der Kreuzzüge dahin riß, nicht von unten her, sondern es kam von oben, aus einem Anwehen des Geistes, der dem Menschen im Anfang den lebendigen Odem gab. [@schlecht1856: 78, citing Gottfried Heinrich Schubert *Reise in das Morgenland*]
-:::
-
-::: {.im #schlecht1856_79}
-Music-score analysis of the complex sentence in [@last] from Schlecht [@schlecht1856: 79]. The main clauses are placed on the highest line, with subordinate clauses below, depending on the depth of their embedding. Vertical bars separate major parts, with the double vertical bar separating the preposed subordinated clauses from the main clause. The arches are used for conjunction reduction (first arch) and clauses that are interrupted by a subordinate clause (other two arches). The following abbreviations are used: *Vrgl*=*Vergleichssatz*=comparative clause, *B*=*Beifügesatz*=relative clause, *U*=*Umstandssatz*=adverbial clause, *Pr.Th*=*mit dem Prädicat verbundene Thätigkeit*. The intended meaning of the *P* just before the vertical double bar is unclear.
 :::
 
 ### Bachmann (1864) *Satz- und Wortlehre* {#sec:bachmann1864}
@@ -1009,41 +847,6 @@ Es ist ein Lob für einen Mann, wenn man seine Fehler sagen darf, ohne daß er a
 Graphical analysis of the sentence in [@last] from Zitzlsperger [-@zitzlsperger1871: 135]. The notational details are very similar to those of Bauer (see [@sec:bauer1850]). The underlining is new: it is used to indicate the complexity of the clause. Also the meaning of the superscripts is different from Bauer: it is used to indicate the semantic kind of the adverbial clause.
 :::
 
-### Menge (1873) *Repetitorium der lateinischen Syntax* {#sec:menge1873}
-
-Hermann August Menge (1841-1939) was a teacher and is widely known as the translator of the infamous German *Menge-Bibel*. Based on his practical experience as a teacher he wrote textbooks for Latin and Greek. The Latin textbook was still in use far into the 20th Century, though in a slightly revised version [e.g. a 1955 edition is cited in @langholf1969: 10]. I will use here the sixth edition, which is the earliest edition I have been able to access [@menge1890]. The prefaces to the earlier editions do not mention any changes as far as the graphical analysis is concerned, so I assume that they were already present in the first edition of 1873.
-
-Menge [-@menge1890: 357-364] uses a graphical analysis of the *Periode* in the tradition of Lehmann (see [@sec:lehmann1833]). However, he uses a forward slash instead of a horizontal brace, just like Nägelsbach (see [@sec:nägelsbach1846]). In the preface to the first edition Menge cites the influence of many different grammars of Latin [@menge1890: v], but not Nägelsbach. However, Nägelsbach is mentioned in passing at various times throughout the book [e.g. @menge1890: v, 342]. So it seems very likely that the use of the forward slashes is inspired by Nägelsbach.
-
-::: {.im #menge1890_364}
-Analysis of *Periode* from Menge [-@menge1890: 364]. In this example he presents various ways in which a subordinate clause can be positionen in Latin, nicely summarising the syntactic possibilities by using the different abbreviations. Menge here uses the forward slash for clause-final subordination, like Nägelsbach (see [@fig:nägelsbach1846_286]).
-:::
-
-### Schütze (1875) *Über den deutschen Gliedsatz* {#sec:schütze1875}
-
-Adolf Schütze (born 1824) was a teacher at the Karls-Gymnasium in Bernburg. In the school's yearbook of 1875 he wrote a small essay *Über den deutschen Gliedersatz (Periode) und die Gesetze seines Baues* [@schutze1875], which includes an interesting graphical syntactic analysis. He analyses a long quote from Friedrich Schiller [@next], consisting of four sentences with numerous subordinate clauses. This long and complex linguistic structure is very concisely summarised by the graphic in [@fig:schütze1875_15]. In a footnote he cites Herling, Lehmann, Becker and Haupt [@schutze1875: 8], but the graphical display is more similar to Diesterwegs's approach (see [@fig:diesterweg1834_169]). However, the details are completely idiosyncratic:
-
-- Main clauses are marked with a capital letter *A*
-- Different levels of embedding are indicated both by graphically lower placement and by different lower-case letters
-- The letter *k* indicates *kurz*, i.e. a shortened *zu+Infinitiv* clause
-- Arches connect separated parts from the same clause
-- Plusses connect clauses with shared arguments
-- Punctuation like commas, colons and semicolons are copied verbatim from the sentence into the graphic display.
-
-::: ex
-- Möglich allerdings und sehr wahrscheinlich, dass die französischen Protestanten emsig daran arbeiteten, in den Niederlanden eine Pflanzschule für ihre Religion zu erhalten, und eine gütliche Vergleichung ihrer dortigen Glaubensbrüder mit dem Könige von Spanien durch jedes Mittel zu verhindern strebten, um diesem unversöhnlichen Feinde ihrer Partei in seinem eigenen Lande zu thun zu geben; 
-- sehr natürlich also, dass ihre Unterhändler in den Provinzen nicht unterlassen haben werden, die unterdrückten Religionsverwandten zu verwegenen Hoffnungen zu ermuntern, ihre Erbitterung gegen die herrschende Kirche auf alle Arten zu nähren, den Druck, worunter sie seufzte, zu übertreiben, und sie dadurch unvermerkt zu Unthaten fortzureissen. 
-- Möglich, dass es auch unter den Verbundenen Viele gab, die ihrer eigenen verlorenen Sache dadurch aufzuhelfen meinten, wenn sie die Zahl ihrer Mitschuldigen vermehrten; die die Rechtmässigkeit ihres Bundes nicht anders retten zu können glaubten, als wenn sie die unglücklichen Folgen wirklich herbeiriefen, wovor sie den König gewarnt hatten, und die in dem allgemeinen Verbrechen ihr eigenes zu verhüllen hofften. 
-- Dass aber die Bilderstürmerei die Frucht eines überlegten Planes gewesen, der auf dem Convente zu St. Truyen verabredet worden; 
-- dass in einer solennen Versammlung so vieler Edlen und Tapfern, unter denen noch bei weitem der grössere Theil dem Papstthum anhing, ein Rasender sich hätte erdreisten sollen, den Entwurf zu einer offenbaren Schandthat zu geben, die nicht sowohl eine abgesonderte Religionspartei kränkte, als vielmehr alle Achtung für Religion überhaupt und alle Sittlichkeit mit Füssen trat, und die nur in dem schlammigen Schosse einer verworfenen Pöbelseele empfangen werden konnte: 
-- (dies Alles) wäre allein schon darum nicht glaublich, weil diese wüthende That in ihrer Entstehung zu rasch, in ihrer Ausführung zu leidenschaftlich, zu ungeheuer erscheint, um nicht die Geburt des Augenblicks zu sein, in welchem sie ans Licht trat, und weil sie aus dem Umständen, die ihr vorhergingen, so natürlich gliesst, dass es so tiefer Nachsuchungen nicht bedarf, um ihre Entstehung zu erklären. \
-[@schutze1875: 14-15, citing Schiller *Geschichte des Abfalls der Niederlande*]
-:::
-
-::: {.im #schütze1875_15}
-Graphical display from Schütze [-@schutze1875: 15] of the long and complex quotation from Friedrich Schiller in [@last]. Schütze calls this a *Gedankenperiode* 'thought-period' consisting of four sentences with 35 different subordinate clauses. The details of the abbreviations are rather idiosyncratic. By this point it seems like the idea of a *Periodenbild* is widely known, and the details of the notation are simply reinvented anew every time.
-:::
-
 ### Baron, Junghanns & Schindler (1876) *Deutsche Sprachschule*
 
 Baron, Carl Moritz (1839-1911) https://de.wikipedia.org/wiki/Moritz_Baron
@@ -1091,42 +894,6 @@ Wenn uns Gott durch einen seiner Engel – ist zu sagen, durch einen Diener sein
 
 ::: {.im #gelbe1877_152}
 *Satzbild* of Lessing's example sentence in [@last] as analysed by Gelbe [-@gelbe1877: 152]. Like so many examples of this approach in this time-frame, the details are a mix-and-match of various other systems without any single clear predecessor.
-:::
-
-### Diringer (1878) *Die Periode oder der Gliedersatz* {#sec:diringer1878}
-
-Joseph Diringer (1878-1883) was a teacher for German, Latin and Greek in Eichstätt. Besides various editions of classical texts, he wrote *Die Periode oder der Gliedersatz in der deutschen Sprache* [@diringer1878]. The second half of this small booklet is devoted to the application of *Periodenbilder* to the analysis of literary sentences.
-
-At the end of the preface to his book, Diringer cites many of the graphical approaches that are discussed above (e.g. Bauer, Becker, Götzinger, Herling, Lehmann), but the direct influences on Diringer's graphical display seem to be Schlecht (see [@sec:schlecht1856]) and Schütze (see [@sec:schütze1875]). He uses a quasi-music-score approach with horizontal lines for the depth of embedding and vertical lines for the separation of main sentences. Different lower-case letters are used for distinct kind of subordination, e.g. *s* for *Subjektivsatz* 'subject complement clause' and *l* for *Lokalsatz* 'local clause', etc. As an example of his approach, the sentence from Schiller in [@next] is analysed by Diringer as shown in [@fig:diringer1878_48].
-
-::: ex
-Wie der bildende Künstler die faltige Fülle der Gewänder um seine Figuren breitet, um die Räume seines Bildes reich und anmutig auszufüllen, um die getrennten Partieen desselben in ruhigen Massen stetig zu verbinden, um der Farbe, die das Auge reizt und erquickt, einen Spielraum zu geben, um die menschlichen Formen zugleich geistreich zu verhüllen und sichtbar zu machen: ebenso durchflicht und umgibt der tragische Dichter seine streng abgemessene Handlung und die festen Umrisse seiner handelnden Figuren mit einem lyirschen Prachgewebe, in welchem sich, als wie in einem weitgefalteten Purpurgewand, die handelnden Personen frei und edel mit einer gehaltenen Würde und hoher Ruhe bewegen. [@diringer1878: 48, citing Schiller's *Über den Gebrauch des Chors in der Tragödie*]
-:::
-
-::: {.im #diringer1878_48}
-*Periodenbild* for Schiller's example sentence in [@last] as proposed by Diringer [-@diringer1878: 48]. The music-score metapher to depict embedding is inspired by Schlecht (see [@fig:schlecht1856_79]) and Schütze (see [@fig:schütze1875_15]). Different lower-case letters are used for different subordinating functions (*m*=modal, *f*=final, *a*=attributive). The small *x* indicates reduces clauses with *zu-Infinitiv*.
-:::
-
-### Esser (1878) *Abhandlung über die Formen der Periode* {#sec:esser1878}
-
-Franz Esser (dates unknown) was a teacher in Weissenburg. In the yearly report of his Gymnasium for the year 1877-1878 he writes a short article with the title *Abhandlung über die Formen der Periode im Nibelungenlied* [@esser1878]. In this article he analyses sentences from the *Nibelungenlied* by using *Periodenbilder*. He organises the article by the complexity of the sentences. 
-
-For the inspiration of the *Periodenbilder* he cites Götzinger (see [@sec:götzinger1836]). However, different from Götzinger, Esser does not use the horizontal brace for post-clausal subordination. Instead, he uses forward slashes like Nägelsbach (see [@sec:nägelsbach1846]) or Menge (see [@sec:menge1873]). For multiple embedding Esser uses apostrophes, similary to Rinne (see [@sec:rinne1840]). As an example, the verse from the *Nibelungenlied* in [@next a], with an approximate translation into English in [@next b], is analysed by Esser as [@next c]. The original display is shown in [@fig:esser1878_7].
-
-::: ex
-- Dô die herren sâhen, daz der helt was tôt, \
-  sie leiten in ûf einen schilt, der was von golde rot, \
-  und wurden des ze râte, wie das solde ergân, \
-  daz man ez verhæle, daz es het Hagene getân.
-- When the men saw, that the hero was dead, \
-  they laid him on a shield, which was golden red, \
-  and it was discussed, how it should happen, \
-  that it stays hidden, that Hagen had done it.
-- (a/a'): A/b, B/a/a'/a''
-:::
-
-::: {.im #esser1878_7}
-*Periodenbild* for the verse from the *Nibelungenlied* in [@last] as analysed by Esser [-@esser1878: 7]. Although he cites Götzinger, the details of the graphical display are more similar to the Latin tradition from Nägelbach, most prominently the use of the forward slash instead of a horizontal brace as used by Götzinger.
 :::
 
 ### Sanders (1879) *Deutsche Sprachbriefe* {#sec:sanders1879}
@@ -1263,26 +1030,6 @@ Second, Kern does not like the notion of *bekleidetet* 'dressed' sentences. His 
 > Eine recht überflüssige doch weniger schädliche Terminologie, ist auch die des nackten und bekleideten (oder umkleideten) Satzes. … In dieser Terminologie wird es vorgezogen, die Bestimmungen, statt als Äste, Zweige und Blätter sich zu denken, sie sich lieber als Hemde, Rock und Weste vorzustellen. Ich finde dieses Bild weder treffend noch geschmackvoll. [@kern1883a: 95-96]
 >
 > ('A rather superfluous, though less harmfull terminology, is the one of *nackte* 'naked' and *bekleidete* 'dressed' (or *umkleidete* 'around-dressed') sentences. … In this terminology modifiers, instead of thinking about them as branches and leaves, are preferably imagined as shirt, skirt and waistcoat. I consider this image to be neither fitting nor tasteful.')
-
-### Schulze (1883) *Adiumenta Latinitatis* {#sec:schulze1883}
-
-Ernst Hendrik Ferdinand Schulze (1842-1911) was a teacher and school director, first in St. Petersburg and later in Bad Homburg vor der Höhe. Biographical details are available in Schulze [-@schulze1901: 46-47].^[A good overview is also available on <https://de.wikipedia.org/wiki/Ernst_Schulze_(Historiker)>, accessed 7 January 2025.] He wrote an advanced Latin textbook *Adiumenta Latinitatis. Grundzüge des lateinischen Stils in Verbindung mit Übersetzungsstücken für die oberste Stufe des Gymnasiums* [@schulze1883].
-
-In this book he used very simple *Periodenbilder* for the analysis of Latin sentences [@schulze1883: 116-122]. He only uses the letters *A* for main clause, *a* for subordinate clause, and *α* for secondary subordinate clause. Specifcally, he used this graphical analysis to explain differences between German and Latin sentence structure.  The regular Latin word order would be *a α A*, as shown in [@next]. However, the Latin word order is quite flexible, and many different orders are possible. Schulze then gives the table shown in [@fig:schulze1883_121] with the orders that are possible in Latin, but not in German.
-
-::: ex
-a. [a]{.grey} *facias me certiorem* [α]{.grey} *quid istic agatur* [A]{.grey}* velim*.
-b.
-|
-| faci-as me certior-em quid istic ag-atur velim.
-| make-2SG 1SG.OBJ surer-ACC.SG what there do-PASS.3SG wish.1SG
-| I would like you to inform me what is going on there.
-:::
-
-::: {.im #schulze1883_121}
-*Periodenbilder* from Schulze [-@schulze1883: 121] showing possible sentence orders in Latin that are impossible in German. He uses a very reduced system of symbols with *A* for main clause, *a* for subordinate clause, and *α* for secondary subordinate clause.
-:::
-
 
 ### Müllener (1885) *Praktische Übungsschule* {#sec:müllener1885}
 
@@ -1496,28 +1243,6 @@ Follower of Diesterweg: https://books.google.de/books?vid=OSU:32435007786817. Ci
 [@wilke1892: 465]
 :::
 
-### Golling (1892) *Chrestomathie aus Livius*
-
-https://de.wikipedia.org/wiki/Josef_Golling
-
-2nd edition [@golling1900], but first edition from 1892 is nowhere to be found. first edition also online! [@golling1892] 5th edition 1922. cites Nägelsbach and follows his abbreviations, e.g. vi-viii
-
-### Gloël (1895) *Schriftliche Übersetzung aus dem Griechischen* {#sec:gloël1895}
-
-Heinrich Gloël (1855-1940) was a teacher and literary scholar, first in Wesel and and later in Wetzlar. He started as a classical scholar, writing a disseration about the Greek play *Hippolytos* by Eurypides and teaching classical languages. Later in life he specialized in critical evaluations of texts of Goeths [more biographical information in @flender1983].
-
-In an article about the role of translation from Greek to German in secondary education, Gloël discussed various examples from classical Greek and the problems with their translation into German [@gloel1895]. The final example he discusses is an excerpt from Plato's *Crito* [@gloel1895: 67-76]. For two complex sentences with many subordinated clauses in this excerpt, Gloël uses *Satzbilder* to illustrate their syntactic structure. For example, the *Satzbild* in [@fig:gloël1895_75] is an analysis of the sentence in [@next a]. I have added the letters from Gloël's *Satzbild* into this example, something which Gloël assumes that the reader is able to do. The translation in [@next b] is by Harald Fowler.^[Plato in Twelve Volumes, Vol. 1 translated by Harold North Fowler; Introduction by W.R.M. Lamb. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1966. Available online at <https://www.perseus.tufts.edu/>.]
-
-::: ex
-- \(A) ἢ πρὸς μὲν ἄρα σοι τὸν πατέρα οὐκ ἐξ ἴσου ἦν τὸ δίκαιον καὶ πρὸς δεσπότην, (a) εἴ σοι ὢν ἐτύγχανεν, (b) ὥστε (β) ἅπερ πάσχοις ταῦτα (b) καὶ ἀντιποιεῖν, (1) οὔτε κακῶς ἀκούοντα ἀντιλέγειν (2) οὔτε τυπτόμενον ἀντιτύπτειν (3) οὔτε ἄλλα τοιαῦτα πολλά· (B) πρὸς δὲ τὴν πατρίδα ἄρα καὶ τοὺς νόμους ἐξέσται σοι, (c) ὥστε, (γ) ἐάν σε ἐπιχειρῶμεν ἡμεῖς ἀπολλύναι (~~P~~) δίκαιον ἡγούμενοι εἶναι, (c) καὶ σὺ δὲ ἡμᾶς τοὺς νόμους καὶ τὴν πατρίδα (δ) καθʼ ὅσον δύνασαι (c) ἐπιχειρήσεις ἀνταπολλύναι, (1) καὶ φήσεις ταῦτα ποιῶν (2) δίκαια πράττειν, (~~P~~) ὁ τῇ ἀληθείᾳ τῆς ἀρετῆς ἐπιμελόμενος; \
-  [@gloel1895: 67, citing Plato *Crito*. Clause-symbols are not given in the original, but inserted here to coincide with the *Satzbild* below]
-- \(A) There was no such equality of right between you and your father or your master, (a) if you had one, (b) so that (β) whatever treatment you received (b) you might return it, (1) answering them if you were reviled, (2) or striking back if you were struck, (3) and the like; (B) and do you think that it will be proper for you to act so toward your country and the laws, (c) so that (γ) if we undertake to destroy you, (~~P~~) thinking it is right, (c) you, to our laws and our country, (δ) so far as you are able, (c) will undertake in return to destroy them (1) and will say that in doing this (2) you are doing right, (~~P~~) you who really care for virtue?^[Translation by Harold North Fowler with a few very minor edits, available online at <https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg003.perseus-grc2:51/?right=perseus-eng2>.] 
-:::
-
-::: {.im #gloël1895_75}
-*Satzbild* for the sentence from Plato's *Crito* in [@last a] as analysed by Gloël [-@gloel1895: 75]. Capital letters are main clauses, lower-case Latin letters are subordinated clauses, greek letters are second-grade subordination. The letter "~~P~~" indicates a non-finite clause using a participles. Numbers indicate conjoined clauses to the previous letter-marked clause. The marker *B* for the second main clause should probably by placed on the same level as the main clause *A*. This appears to be a printing error.
-:::
-
 ### Kuderna (1895) *Das Satzbild in seiner Anwendung* {#sec:kuderna1985}
 
 Béla Kuderna (1846-1915) was a captian (*Hauptmann*) in the Austrian army and teacher for German language and style at the *Infanterie-Cadetenschule* in Vienna, Austria. In 1893 he wrote a short article on teaching German, called *Sprachliches Mahnwort* [@kuderna1893]. This article includes two mostly unexplained examples of *Satzbilder* as he used them in his classes [@kuderna1893: 268-269]. Shortly afterwards he published a complete booklet about his approach to graphically analyse sentences, called *Das Satzbild in seiner Anwendung für die Lehre vom Satze* [@kuderna1895]. This book goes into great detail explaining his approach, including numerous practical examples.
@@ -1582,31 +1307,6 @@ Matija (Matthias) Heric (1855-1927) was a teacher in Neukirchen (Novi Cerkvi) ne
 
 ::: {.im #heric1896_268}
 *Satzbilder* for the example sentences in [@last] from Herič [-@heric1896: 264]. He analyses the noun *Schneeglöckchen* as a predicative element, either in the nominative case as *Pn* [@last a] or the accusative case as *Pa* [@last b].  The finite verb is always the centre of the display, so in a passive senctence like [@last a] all arguments are attached to the finite auxiliary *wird* and the lexical verb *genannt* is linked to the auxiliary with an arch.
-:::
-
-### Toifel (1896) *Satzstellung in der Kudrun* {#sec:toifel1896}
-
-Otto Toifel (dates unknown) was a teacher in Austria, first in Salzburg and later in Ried im Innkreis. He wrote a few articles in which he applied Lehmann's graphical approach (see [@sec:lehmann1833]) to analyse examples from Middle High German literature. In particular, Toifel used one-line *Satzbilder* following Lehmann [-@lehmann1856], whom he explicitly cites. However, Toifel employs lower-case latin letters with superscript numbers for levels of subordination, instead of the different scripts used by Lehmann. 
-
-Toifel applies this approach in two short articles to analyse "unusual" sentence structures in the German epic *Kudrun* [@toifel1896; @toifel1897]. A few years later he did the same for special constructions in texts by Bertold of Regensburg [@toifel1901]. An example of his analysis is the *Satzbild* shown in [@fig:toifel1896_19] for the quotation from the *Kudrun* in [@next]. The symbols in the example are not in Toifel's original, but added here for comparison with the *Satzbild*. An attempted English translation is given in [@nnext]. The special phenomenon highlighted by Toifel is the relative clause *b^3^*, which he analyses as a preposed relative clause, refering to *die* 'them' in the following clause *b^2^*.
-
-In his graphical analysis, Toifel uses the colon in a special way. Lehmann originally used the colon only to indicate subordinate clauses that are preposed to the main clause (i.e. clauses in the German *Vorfeld* like *a^1^* ). Toifel additionally uses the colon for subordinate clauses that are preposed to another subordinate clause, which is a highly unusual structure in German. Specifically, the fact that clause *b^3^* is subordinated and preposed to clause *b^2^* is indicated by the colon between these clauses in [@fig:toifel1896_19].
-
-::: ex
-\(a^1^) und haete ich hundert swester, (A) die lieze ich sterben ê, \
-(b^1^) dann ich mich alsô starke in vremeden landen haele, \
-(b^3^) die man mir nam mit sturme, (b^2^) daz ich die minen grimmen vinden staele. \
-[@toifel1896: 19, citing *Kudrun* verse 1256, abbreviations added]
-:::
-
-::: ex
-\(a^1^) and even if I had a hundred sisters, (A) I would rather let them die, \
-(b^1^) before I would so strong in strange lands hide, \
-(b^3^) the ones that were taken from me in battle, (b^2^) to steal them from my furious enemies.
-:::
-
-::: {.im #toifel1896_19}
-*Satzbild* for the example in [@llast] from Toifel [-@toifel1896: 19]. Toifel argues that the relative clause *b^3^* is actually a preposed relative clause, referring to *die* 'them' in the following clause *b^2^*. This special proposing is indicated by the colon betwen *b^3^* and *b^2^* in the figure.
 :::
 
 ### Stamm (1899) *Graphische Darstellung* {#sec:stamm1899}
@@ -1817,18 +1517,6 @@ For complex sentences with multiple clauses Bartmann uses *Satzbilder* with vari
 *Satzbild* for a multi-clause *Gliedersatz* in [@last] from Bartmann [-@bartmann1913: 176]. Except for the different abbreviations (*erg*=complement clause, *beif*=relative clause, *zeit*=temporal adverbial clause), the sentence is divided into a rising part (*Hebung*) on top and a falling part (*Senkung*) at the bottom of the central line.
 :::
 
-### Schuberth (1908) *Deutsche Satzbilder* {#sec:schuberth1908}
-
-Gustav Schuberth (1850-1922) was a director of a school in Großenhain. In the 33th yearbook of his school he wrote a short paper [@schuberth1908], exemplifying how *Satzbilder* can be used to analyse a text. He took the first few pages of Schiller's *Geschichte des dreißigjährigen Kriegs* and analysed all sentences with a simplified one-lined *Satzbild*. As an example of his notational system, Schiller's sentence in [@next] is analysed by Schuberth as shown in [@fig:schuberth1908_7]. I have added the abbreviations from the figure into the example below.
-
-::: ex
-[A/~2~]{.grey} In keinem andere Falle, [(v)]{.grey} als unter diesem, [A/~2~]{.grey} war es den schwächern Fürsten möglich, [(g)]{.grey} die außerordentlichen Anstrengungen von ihren Ständen zu erzwingen, [e]{.grey} wodurch sie der österreichischen Macht widerstanden; [(A)]{.grey} in keinem andern Falle den Staaten möglich, [(g)]{.grey} sich gegen einen gemeinschaftlichen Feind zu vereinigen.
-:::
-
-::: {.im #schuberth1908_7}
-*Satzbild* for the example from Schiller in [@last] as analysed by Schuberth [-@schuberth1908: 7]. He uses the notation */~2~* for parts of separated clauses, round brackets for non-finite clauses, and different letters for kinds of subordinate clauses (e.g. *g=Gegenstand* for complement clauses or *e=Eigentschaft* for relative clauses). He considers the indication of the depth of embedding to be superfluous [@schuberth1908: 4].
-:::
-
 ### Paul (1910) *Deutsch wie es fehlerlos geschrieben und gesprochen wird*
 
 Theodor Paul was a *Seminar- und Präparandenlehrer*, i.e. a teacher at a teacher's seminary. I have not been able to find any further details about his biography, not even at which teacher's seminary he worked. In 1910 he wrote a German grammar, intended for self-education: *Deutsch wie es fehlerlos geschrieben und gesprochen wird* [cited here is the unchanged second edition, @paul1911a]. Two years later Paul also published an accompanying reader.^[Scans of the reader are available online at <https://commons.wikimedia.org/wiki/Category:Muster-Aufsätze_1912_von_Theodor_Paul>, accessed 5 June 2025.]
@@ -1870,49 +1558,6 @@ Martin, Karl, 1867 – 1956, https://www.deutsche-biographie.de/sfz099_00555_1.h
 
 No graphics in *Deutsche sprachlehre für höhere lehranstalten* with Albert Waag
 also not in *Die deutsche Sprache der Gegenwart ihre Laute, Wörter, Wortformen und Sätze*, various editions
-
-### Erman (1913) *Stellung und Funktion der Nebensätze* {#sec:erman1913}
-
-Konrad Bessel Erman (1888-1915) died a young man in the First World War, shortly after he finished his dissertation in Bonn [published as @erman1913a; the actual dissertation was only the first part, see @erman1913]. A short obituary is given by Schulze [-@schulze1917] and a biographical eulology is provided by his mourning father [@erman1916]. 
-
-In his dissertation, called *Beziehungen zwischen Stellung und Funktion der Nebensätze mehrfacher Unterordnung im Althochdeutschen*, Erman investigates different kinds of subordination in Old High German texts. He uses a symbolic representation to characterise the structure of complex sentences [@erman1913a: 4-5], but refrains from calling them *Periodenbild* or *Satzbild*, although he cites various authors that use *Periodenbilder* for similar purposes [viz. @lehmann1856; @esser1878; @toifel1897; @toifel1901]. 
-
-Erman's symbolic representation is rather different from his predecessors. An example of his display is shown in [@fig:erman1913_38] for the Old High German sentence in [@next a]. This sentence is from the 9th Century *Tatian* translation of the the Gospel of Luke. A word-by-word etymological equivalence into modern German is given in [@next b]. The Old High German translation follows the Latin structure [@next c], in which the verb *venit* of the first subordinate clause (marked *b* in the graphic) is separated by the second subordinate clause (marked *c* in the graphic). All this is placed before the main clause (marked *a* in the graphic).
-
-::: ex
-- [b]{.grey} ouh after thiu theser thin sun, [c]{.grey} ther thar fraz alla sina heht mit huorun, [b]{.grey} quam, [a]{.grey} arsluogi imo gifuotrit calb. \
-  [@erman1913a: 39, citing Tatian 97,7,7]
-- [b]{.grey} auch achter-dem dieser dein Sohn, [c]{.grey} der dort fraß all seine Echt mit Huren, [b]{.grey} kam, [a]{.grey} erschlägst ihm gefuttertes Kalb. \
-  (Modern German etymological equivalence)
-- [b]{.grey} sed postquam filius tuus hic [c]{.grey} qui devoravit substantiam suam cum meretricibus [b]{.grey} venit [a]{.grey} occidisti illi vitulum saginatum. \
-  (Vulgate, Luke 15:30)
-- But when this son of yours came, who has devoured your property with prostitutes, you killed the fattened calf for him! \
-  (English Standard Version, Luke 15:30)
-:::
-
-::: {.im #erman1913_38}
-Symbolic representation of the Old High German sentence from Luke 15:30 [@last] in the analysis of Erman [-@erman1913a: 38]. Erman uses his own symbolic representation, starting with *a* for the main clause, followed by subsequent letters for subordinate clauses. The arches combine parts of a clause that are separated by another clause. The "less-than" sign indicates the direction of subordination, though this is also evident from the alphabetical order.
-:::
-
-### Pfannkuchen (1914) *Periodenbau in Goethe und Schiller* {#sec:pfannkuchen1914}
-
-Wilhelm Pfannkuchen (born 1887) wrote a dissertation in Giessen with Otto Behagel [@pfannkuchen1914]. I have not been able to find any further reliable information about his biography.^[Pfannkuchen writes in his dissertation that he started teaching at the Ludwig-Georgs-Gymnasium in Darmstadt in 1914 [@pfannkuchen1914: 67]. The yearbook of that Gymnasium for 1915 notes that he is let go to become the director of a private school, see page 10 of <https://nbn-resolving.org/urn:nbn:de:hbz:061:1-718811>. Pfannkuchen appears to have edited some plays by Schiller in 1930. There is an entry for a Dr. phil. Wilhelm Pfannkuchen in the Addressbook of Gotha in 1949 <http://www.adressbuecher.net/addressbook/entry/54747dd11e6272f5d1ca01dc>.] Pfannkuchen's dissertation *Periodenbau in Goethes und Schillers größeren Dichtungen* is basically a long list of references to sentences in the works of Goethe and Schiller, organised by the structure of their subordination. For complex sentences, consisting of three or more clauses, he uses a graphical display to illustrate their structure [@pfannkuchen1914: 39-63]. He cites various previous authors who use a graphical display with similar goals [viz. @lehmann1852; @diringer1878; @gelbe1880; @kern1883a; @schulze1883 as discussed here previously], but in the end Pfannkuchen's graphics are a new combination of these widespread ideas. 
-
-An example of Pfannkuchen's graphical analysis is shown in [@fig:pfannkuchen1914_60] for the *Periode* from Friedrich Schiller in [@next]. The top-down ordering indicates depth of embedding and the left-right ordering corresponds to the actual ordering of the clauses in the sentence. Dots are used when a clause is separated by another clause and the plus-symbols is used for coordination.
-
-::: ex
-[Kond]{.grey} Und hast du dem Befehle deines Gottes, \
-[Relſ.]{.grey} Der in des Feld dich rief, [..ſ.]{.grey} genug getan \
-[Ausſ.]{.grey} So wirst du deine Waffen von dir legen \
-[+Ausſ.]{.grey} Und wiederkehren zu dem sanfteren \
-Geschlecht, [Relſ.]{.grey} das du verleugnet hast, [+Relſ.]{.grey} das nicht \
-Berufen ist zum blut'gen Werk der Waffen. \
-[@pfannkuchen1914: 56, citing Schiller *Jungfrau von Orleans*]
-:::
-
-::: {.im #pfannkuchen1914_60}
-*Periodenbau* for the example from Schiller in [@last] as analysed by Pfannkuchen [-@pfannkuchen1914: 60]. The vertical dimension indicates depth of embedding, the left-to-right ordering corresponds to the actual ordering of the clauses. Abbreviations apparently mean: *Ausſ.=Aussagesatz*, *Kondſ.=Konditionalsatz*, *Relſ.=Relativsatz*. The plus-symbol marks coordination. The dots indicate that the clause is separated by another subordinated clause.
-:::
 
 ### Müller (1921) *Vom Deutschunterricht in der Arbeitsschule* {#sec:müller1921}
 
@@ -1968,18 +1613,6 @@ For complex multi-clausal sentences he uses a simplified variant of a *Periodenb
 Alternative *Satzbild* for multi-clause complex sentences like [@last c] as proposed by Wollmann [-@wollmann1935: 250]. This visualisation builds upon the dependency tree from [@fig:wollmann1935_15] but adding subordinate clauses as individual nodes in the tree. Wollmann did not take the next step and analysing the internal structure of the subordinate clauses as well.
 :::
 
-### Diemke (1940) *Die Entstehung des hypotaktischen Relativsatzes*
-
-Willy Diemke (1911-???) memo by Diemke cited from 1952 here: https://www.tandfonline.com/doi/full/10.1080/23801883.2024.2303074
-
-[@diemke1940: 3-4] analysis of complex sentence from Thukydides using indentation. Probably also in his dissertation from 1934 https://ubdata.univie.ac.at/AC04461892 https://google.com/books?id=BXT6vgEACAAJ. Example cited by Bühler 1934: 400
-
-> Sein Nachfolger Willy Diemke (Referent von 1937–39), der von Zeitzeugen als „unsympathischer Typ des Naziführers“ beschrieben wurde, veranlasste als Geheimdienstbeauftagter die Installation von Abhörgeräten im Institut und ließ Verhöre deutscher Juden in den DAI-Institutsräumen stattfinden. Gleichzeitig sah man sich weiterhin unbeirrt „für das Ansehen der deutschen wissenschaftlichen Arbeit, und damit des Deutschtums überhaupt“ im Ausland verantwortlich. (p. 111)
-
-https://www.dainst.org/fileadmin/Media/Publikationen__PDFs_/DAI_Zentrale_Clusterbroschuere_Menschen__Kulturen__Traditionen.pdf
-
-see also https://doi.org/10.1524/9783050063416.267
-
 ### Heemstra (1947) *Grundrisz der deutsch-niederländischen Satzlehre* #{#sec:heemstra1947}
 
 Johannes Heemstra (1882-1961) was a teacher for German in Haarlem (Netherlands).^[It is probably this person: <https://gw.geneanet.org/pveenboer?n=heemstra&oc=&p=johannes>, but the birthdate is probably wrong there, cf. <https://www.erfgoedleiden.nl/collecties/personen/zoek-op-personen/deeds/f91c6f4d-a72c-7bf0-c389-d331292bb661?person=c4f023b1-de49-408f-eb22-ed91108d4107>, both pages accessed 8 January 2025.] He studied in Leiden, defended a PhD-thesis about German participles in Groningen and later wrote various textbooks for Dutch students of German. After his retirement he wrote the *Grundrisz der deutsch-niederländischen Satzlehre* [@heemstra1947]. In this book he used a *Satzbild* as shown in [@fig:heemstra1947_76] for the example sentence in [@next]. This display is inspired by Kern (see [@sec:kern1883]), whose approach is discussed explicitly by Heemstra [@heemstra1947: 77-78]. For good measure, Heemstra also reproduces an example from Flothuis (see [@sec:flothuis1930]) as another possibility to illustrate the structure of a complex sentence [@heemstra1947: 78-79].
@@ -2014,6 +1647,333 @@ Killinger remains active as an author of textbooks for many decades, specificall
 *Textpartitur* for the multi-clause sentence in [@last] in the analysis of Killinger [-@killinger1975: 88]. Different from all other examples of this visualisation, Killinger places the main clauses at the bottom and subordinated clauses upwards. Coordination is indicated by arches. The part between double vertical lines and bridged by a dotted line is analysed as an *Einschub* 'insertion'.
 :::
 
+### More
+
+Also: Bernhard Merth (1864-1922, Sprachübungen, Sprachbuch, Sprachunterricht) => Wollmann, Killinger, Sernko as co-authors/revisers. no apparent graphics.
+
+- https://www.suedmaehren.at/persoenlichkeit/bernhard-merth/
+- https://www.biographien.ac.at/oebl/oebl_M/Merth_Bernhard_1864_1922.xml
+- nothing in part 1: https://books.google.de/books?id=HXkXAAAAIAAJ
+
+Oskar Erdmann (1886) *Grundzüge der deutschen Syntax*, numbers above words 183, 192. Precise description of "rechte Satzklammer" p. 190. Reverse numbering on p.192 could be interpreted as relative dependency.
+
+- https://www.digitale-sammlungen.de/de/view/bsb11023225
+
+Meyer-Lübke (1899) *Grammatik der Romanischen Sprachen* uses SVOPA abbreviations https://archive.org/details/grammatikderrom00meyegoog/page/799/mode/2up
+
+Feigl (1904) *Die Stellung der Satzglieder* Friedrich Feigl, inspired by Meyer-Lübke https://opac.ku.de/s/uei/de/2/10/BV008647023
+
+## Periodenbilder for literary analysis
+
+### Rinne (1840) *Die Lehre vom deutschen Stile* {#sec:rinne1840}
+
+Karl Johann Friedrich Rinne (1802-1887) was a teacher in Erfurt and Zeitz. He wrote various textbooks including *Die deutsche Grammatik* in 1836. This textbook is an introduction to the latest developments in historical comparative grammar written specifically "for teachers and all those, who want to become acquainted with the contemporary position of this science" (*für Lehrer und für alle, welche sich mit dem gegenwärte Standpunkte dieser Wissenschaft vertraut machen wollen*). However, this textbook does not have any graphical grammatical analyses.
+
+Yet, in the first volume of his multi-volume *Lehre vom deutschen Stile*, published between 1840 and 1847, Rinne uses a system of symbols which he calls *Periodensymbolik* [@rinne1840: 276]. He explicitly references the "more extensive system" of Lehmann (see [@sec:lehmann1833]). Just as Lehmann, Rinne [-@rinne1840: 272-276] uses capital letters for main clauses and lower-case letters for subordinate clauses. Closer to Herling (see [@sec:herling1823]), recursively embedded clauses are indicated by superscripts, though using roman numerals. Central to Rinne's approach is a major separation of each *Periode* in a *Protasis/Vordersatz* and an *Apodosis/Nachsatz*, visually separated by a colon (cf. Diesterweg's approach in [@fig:diesterweg1838_169]). Additionally, Rinne uses letters *A/a* for the protasis and letters *B/b* for the apodosis. An example is shown in [@fig:rinne1840_274] for the example sentence in [@next] from Rinne [-@rinne1840: 274].
+
+The result of Rinne's graphical choices is a symbolic analysis on a single line, which makes it much easier to include it in a written text compared to the visually more involved approach by Lehmann. The concept of reducing the sentence scheme to a single line is similarly used by various later authors, for example by Nägelsbach (see [@sec:nägelsbach1846]) and by Hoffmann in his second edition (see [@sec:hoffmann1839]). These similarities could very well have been developed independently, though.
+
+::: ex
+Daß sich alles verändert, was uns hier umgibt; daß sich alles auflöst, was uns hier erscheint; daß wir uns in einem Wirbel befinden, der immer in Bewegung ist, der alles ergreift und mit sich fortreißt, der alles in einem Abgrund stürzt aus welchem es nie wieder hervorkommt: das fühlen wir, so bald wir aufmerken; das fällt in die Augen, so bald wir uns umsehen; das sagt uns unsre Erfahrung, und die Geschichte aller Zeitet bestätigt es
+:::
+
+::: {.im #rinne1840_274}
+Symbolic sentence analysis of the example in [@last] by Rinne [-@rinne1840: 274]. Different from Lehmann and Götzinger, this approach keeps the symbols on a single line, which makes it easier to include in written text, but much less visually appealing. Note that for easier interpretation, the period-symbols in thie analysis might better be replaced by the actual commas or semicolons as they occur in the example sentence.
+:::
+
+### Haupt (1841) *Deutsche Prosa* {#sec:haupt1841}
+
+Friedrich Haupt (1805-1891) was a teacher in Zürich and later pastor in the Odenwald region. More biographical information is available in Haupt [-@haupt1905]. During his time in Zürich he wrote various textbooks and prepared an anthology of the German language in his book *Deutsche Sprache und Literatur*. The second part of this anthology, *Deutsche Prosa* [@haupt1841], contains a preface on didactical methods, including syntactic analysis. This preface is removed in later editions of the anthology.^[Compare the 1865 edition available online at <https://mdz-nbn-resolving.de/bsb10597896>.]
+
+In this preface, Haupt is exceedingly enthousiastic about the syntactic approach of Becker. He heralds him as the founder of a new linguistics:
+
+> Becker […] Einer der scharfsinnigsten Sprachforscher, der der Begründer eines neuen Sprachsystems, und einer wahrhaft formal bildenden Unterrichtsmethode geworden ist [@haupt1841: 295]
+>
+> ('Becker […] One of the most astute linguists, who has become the founder of a new language system and a true formally-educating method of teaching.')
+
+In a footnote Haupt even announces that he will publish an extensive analysis of Becker's method in a book to be called *K. F. Becker und die deutsche Volksschule. Ein Beitrag zur Förderung deutscher Sprachwissenschaft und Methodik* [@haupt1841: viii]. Unfortunately, he does not appear to have ever finished this planned book.
+
+As an example of Becker's syntactic analysis, Haupt analysed the example sentence [@next] from Jean Paul. In a first step he separates the various clauses and illustrates their interrelation with the graphical display in [@fig:haupt1841_viii]. Subsequently, Haupt also analyses the internal structure of one of the main clauses, but this is only done in words. Note that Haupt's graphical approach, using hierarchically-ordered reversed horizontal braces, is not found in the work of Becker (see [@sec:becker1829]). However, it is reminiscent of the visual approach by Diesterweg in [@fig:diesterweg1830_174].
+
+::: ex
+Der wahnsinnige Sterbliche begeht seine Sünden so kühn, blos weil sich ihm ihre mörderischen Folgen verhüllen; er kettet die in seiner Brust eingesperrten reißenden Thiere los und lässet sie in der Nacht unter die Menschn dringen; aber er siehet es nicht, wie viele Unschuldige das losgebundene Unthier ergreife und würge. [@haupt1841: viii, citing Jean Paul]
+:::
+
+The abbreviations that are used in the graphical analysis can be reconstructed from the text as follows:
+
+- **Main clause** (*Haupts.*): *Der wahnsinnige Sterbliche begeht seine Sünden so kühn,* 
+- **Causal subordinate clause** (*begründ. Nebs.*): *blos weil sich ihm ihre mörderischen Folgen verhüllen;*
+- **Coordinated main clauses** (*haupts. zusammengezog.) *er kettet die in seiner Brust eingesperrten reißenden Thiere los und lässet sie in der Nacht unter die Menschn dringen;*
+- **Adversative main clause** (*advers. Hpts.*): *aber er siehet es nicht,* 
+- **Complement clause** (*obj. Nebs.*): *wie viele Unschuldige das losgebundene Unthier ergreife und würge.* 
+
+::: {.im #haupt1841_viii}
+Graphical analysis of the example [@last] from Haupt [-@haupt1841: viii]. The internal structure of the six clauses is depicted by hierarchically ordered horizontal braces.
+:::
+
+### Nägelsbach (1846) *Lateinische Stilistik* {#sec:nägelsbach1846}
+
+Carl Friedrich Nägelsbach (1806-1859) was professor for classical studies in Erlangen. He wrote various commentaries on classical texts and a didactic explanation of Latin style, called *Lateinische Stilistik für Deutsche, ein sprachvergleichender Versuch* [@nagelsbach1846]. The book saw various editions up to a ninth edition in 1905, prepared by Iwan Müller. This ninth edition has been reprinted up to at least 1980.
+
+In the *Lateinische Stilistik* Nägelsbach uses *Periodenbilder* to analyse latin constructions, citing both Lehmann [@nagelsbach1846: 281] and Götzinger [@nagelsbach1846: 282] as inspiration. He simplifies the structure of the *Periodenbild* to be able to write them on a single line, using slashes instead of horizontal braces, as illustrated in [@fig:nägelsbach1846_286] [@nagelsbach1846: 286].
+
+Another innovation proposed by Nägelsbach is to use brackets for relative modification at the front of the sentence. Specifically, he notes that in Latin it is quite common to have multiple *Vordersätze*, i.e. clauses in front of the main clause, as indicated by the colon in Lehmann's notation. Because of the ordering of modification, Nägelsbach proposed *Periodenbilder* like "a:(b:A)" and even "a:(b:[c:A])" for reverse-nested frontal clauses [@nagelsbach1846: 286, 289].
+
+::: {.im #nägelsbach1846_286}
+Simplified *Periodenbild* from Nägelsbach [-@nagelsbach1846: 286]. To be able to write *Periodenbilder* as a single line, he replaces the horizontal brace from Lehmann and Götzinger with a simple forward slash. This makes them much easier to typeset.
+:::
+
+### Wander (1856) *Satzbilderschule* {#sec:wander1856}
+
+Karl Friedrich Wilhelm Wander (1803-1879) was a teacher in Silesia and a progressive padagogue in the tradition of Pestalozzi. He was persecuted by the prussian government as a revolutionist and communist, though his views appear moderately liberal-progressive from a contemporary point of view. He was a close friend of Diesterweg (see [@sec:diesterweg1830]) and wrote an influential pamphlet in defence of his friend, called *Der geschmähte Diester­weg*. In German linguistics, he is most well-known for his collection of German proverbs, the *Deutsches Sprichwörter-Lexikon*. Extensive biographical information about Wander is provided by Hohendorf [-@hohendorf1979].
+
+Among Wander's many publications there is a small booklet called *Satzbilderschule* [@wander1856]. It does not seem to have been noted by his contemporaries, and today only very few copies remain available. Wander's analysis of *Satzbilder* closely follows Diesterweg in all its details (see [@sec:diesterweg1830]). Wander's book is organised by possible sentence structures, trying to enumerate all possibilities of complex sentences. With this approach, Wander follows the same plan as Lehmann (see [@sec:lehmann1833]). Both Diesterweg and Lehmann are explicitly mentioned in the preface [@wander1856: vi].
+
+The main part of Wander's book consists only of *Satzbilder* in the form of letter sequences. Each letter encodes a clause, capital letters for main clauses and lower-case letters for subordinate clauses. Superscript numbers indicate the level of embedding. However, in the preface Wander additionally discusses three different kinds of visualisation that can be used to enhance the bare-bones letter-based analysis. The first two visualisations are directly adapted from Diesterweg, but the third appears to be an innovation of Wander himself. 
+
+For the analysis of the example sentence in [@next], Wander proposes two visualisations. First, in [@fig:wander1856_ix], he combines the rising-falling analysis of the *Kommata* in a *Periode* with the letter sequences of the individual clauses. Second, in [@fig:wander1856_x] he uses a grid to show the sequence of clauses from left to right and the depth of embedding from top to bottom. Another example of both these visualisations is found at the end of his book [@wander1856: 63-64].
+
+For the analysis of the  example sentence in [@nnext] Wander uses another visualisation, shown in [@fig:wander1856_x2]. He displays the hierarchical structure by indentation and connects separated parts of the same clause by large brackets. In all these example-visualisations there are minor typographic errors, as discussed below in the captions to the figures. With such complex sentences it turns out to be really difficult to stay faultless, even for an obviously competent author like Wander.
+
+::: ex
+[a]{.grey} Wer nur den groß nennt, [a^2^]{.grey} der in einem ungewöhnlichen Grade alles ist, [a^3^]{.grey} was er soll; [b]{.grey} wer aus der Zahl großer Monarchen jeden ausstößt, [b^2^]{.grey} dessen Regierung nicht durch ihn selbst, [c^2^]{.grey} sondern nur durch das glückliche, einträchtige Genie vortrefflicher Diener glänzte und [d^2^]{.grey} der nur weise genug war, [b^3^]{.grey} sich leiten zu lassen, [a^4^]{.grey} da er selbst hätte leiten sollen; [c]{.grey} wer, [e^2^]{.grey} mit unverwandtem Blick auf den einzigen würdigen Zweck eines Königs, [c]{.grey} keine, auch nicht die glänzendsten Thaten bewundert, [f]{.grey} sobald sie jenem Zweck entgegenlaufen; [d]{.grey} wer das einseitige Talent eines Kriegers von dem mannichfaltigen, so viele andere Talente in sich schließenden eines Monarchen unterscheidet: [A]{.grey} der wird die großen Könige, [e]{.grey} groß im echten Sinne des Wortes, [A]{.grey} durch ganze Jahrhunderte und unter ganzen Nationen vergebens suchen; [B]{.grey} er wird schon, [a]{.grey} eh' er sucht, [B]{.grey} ihrer nur äußerst wenige zu finden hoffen. [@wander1856: vii-viii, citing Johann Jakob Engel]
+:::
+
+::: {.im #wander1856_ix}
+*Satzbild* for the example sentence in [@last] from Wander [-@wander1856: ix]. This visualisation is completely parallel to the proposal from Diesterweg (cf. [@fig:diesterweg1834_169]). The lower-case letters are used for subordinate clauses, but the meaning of the different letters remains mysterious from this display. The alternative display in [@fig:wander1856_x] below solves this riddle. Note that there is a minor error in this display, which is corrected in the next figure. The second division (*Kolon*) should have *b^3^* instead of *a^3^*.
+:::
+
+::: {.im #wander1856_x}
+Alternative *Satzbild* for the example sentence in [@last] from Wander [-@wander1856: x]. The depth of the embedding is indicated by the lower placement in the display. This visualisation is probably inspired by the music-score display, which was proposed as an alternative by Diesterweg (cf. [@fig:diesterweg1834_169]). In this visualisation it becomes clear how the lower-case letters are chosen: on each level of embedding the subordinate clauses are simply assigned in alphabetical order. For example, the first second-order subordinate clause is *a^2^*, the second one is *b^2^*, etc. When the same letter re-occurs in the same level (e.g the clause *c* in the first subordinate level), then this indicates that the clause is separated into two parts. The alphabetical order is reset in a new main clause, cf. in main clause *B* the subordinate clause is *a* again.
+:::
+
+::: ex
+\(A) Die lebhaften Schilderungen (a) welche die Tarentiner ihm von dem glücklichen Leben machten, (a^2^) das im ruhigen Schoße ihres Vaterlandes und in Gesellschaft seiner dortigen Freunde auf ihn warte, (A) vollendeten endlich die Wirkung, (b) die der gewaltsame Zustand, (b^2^) worin er seit einiger Zeit gelebt hatte, (b) auf ein Gemüth, (c^2^) wie das seinige, (b) machen mußte, (c) indem sie ihm zugleich den ganzen Widerwillen, (d^2^) den er nach seiner Verbannung von Athen gegen den Stand eines Staatsmannes gefaßt hatte, (c) und seinen ganzen Hang zur Abgeschiedenheit von der Welt und zum Leben mit sich selbst und mit guten Menschen wieder gaben, (e^2^) welches ihm, (a^3^) wie er glaubte, (e^2^) jetzt um so nöthiger war, (b^3^) da er sein Gemüth auch von den geringsten Rostflecken, (a^4^) die von jenem syrakusischen Hofleben zurückgeblieben sein könnte, (b^3^) zu reinigen wünschte. [@wander1856: x, citing C. M. Wieland *Geschichte des Agathon*. Clause identifiers were not included in the original by Wander, but were added here for easier interpretation]
+:::
+
+::: {.im #wander1856_x2}
+Alternative *Satzbild* of the examples sentence in [@last] from Wander [-@wander1856: x] using indentation for subordination. The brackets connect separated parts of the same clause. Some minor typographic errors have crept in. The fourth bracket, linking subordinated clause *c*, is erroneously indented too far to the right: it should be placed on the same indentation as the previous clause *b*. Further, the second level subordination inside *c* should have been marked as *d^2^*. The text makes clear that these are purely typographic errors.
+:::
+
+### Schlecht (1856) *Denk- und Sprachlehre* {#sec:schlecht1856}
+
+Raymund Schlecht (1811-1891) was director of a teacher's training college in Eichstätt [see @gmelch1931 for biographical details]. Besides being a teacher and theologian, he was a musical researcher. Most of his writings deal with musicology, but he also published a short grammar called *Denk- und Sprachlehre. Ein Leitfaden zur Ertheilung eines organischen Sprachunterrichts* [@schlecht1856]. In the preface he prominently mentions Becker (see [@sec:becker1829]).
+
+The grammar contains a few graphical displays for complex sentences using a musical notation [@schlecht1856: 71, 79]. This is reminiscent of the approach by Herling, as shown in [@fig:herling1828_366], and Diesterweg, as shown in [@fig:diesterweg1834_169]. There is no indication that Herling was an inspiration for Schlecht. In contrast, Schlecht clearly knew about Diesterweg, whom he went to visit in Berlin in 1862 [according to @gmelch1931: 21] and about whose didactic methods he wrote a small note in the *Katholische Schulzeitung* in 1868 [@gmelch1931: 54].^[The small note appeared in two parts, which are available online at <https://www.digitale-sammlungen.de/view/bsb10687402?page=260> and <https://www.digitale-sammlungen.de/view/bsb10687402?page=284>.] Yet, given that Schlecht was more of a musicologist than a linguist, it seems just as likely that he independently came up with the idea of using the musical score for the depiction of linguistic structure.
+
+He uses the musical display in [@fig:schlecht1856_79] to illustrate the structure of the highly complex sentence in [@next]. Before the main clause there are eleven subordinated clauses, separated graphically by a double bar. These eleven subordinated clauses are again subdivided into three subsections devided by a single bar, each of which is again internally complex. The main clause, after the double bar, also has a complex internal structure. It is impressive that grammarians like Schlecht had the audacity to tackle such complex sentences, something rarely seen in contemporary linguistics.
+
+::: ex
+Wie das innere Bewegen, das im Herbst die Schaaren der wandernden Vögel mit unwiderstehlicher Gewalt ergreift und über Land und Meer dahinführt, wie der Trieb der Säfte, der in den Tagen des Frühlings die Tausende der Blüthen aus dem Fruchtbaum herausdrängt an's Licht, an welchem die meisten, gleich einer vergeblichen Ueberfülle, verblühen und abfallen, ohne Frucht zu tragen, wie jeder Zug des Instinkts im niederen Reiche der Sichtbarkeit ein Walten der Kraft ist, die das Wesen der Leiblichkiet begründete und beherrscht; – so war auch jenes Bewegen, das die Menschenseelen zu dem Werke der Kreuzzüge dahin riß, nicht von unten her, sondern es kam von oben, aus einem Anwehen des Geistes, der dem Menschen im Anfang den lebendigen Odem gab. [@schlecht1856: 78, citing Gottfried Heinrich Schubert *Reise in das Morgenland*]
+:::
+
+::: {.im #schlecht1856_79}
+Music-score analysis of the complex sentence in [@last] from Schlecht [@schlecht1856: 79]. The main clauses are placed on the highest line, with subordinate clauses below, depending on the depth of their embedding. Vertical bars separate major parts, with the double vertical bar separating the preposed subordinated clauses from the main clause. The arches are used for conjunction reduction (first arch) and clauses that are interrupted by a subordinate clause (other two arches). The following abbreviations are used: *Vrgl*=*Vergleichssatz*=comparative clause, *B*=*Beifügesatz*=relative clause, *U*=*Umstandssatz*=adverbial clause, *Pr.Th*=*mit dem Prädicat verbundene Thätigkeit*. The intended meaning of the *P* just before the vertical double bar is unclear.
+:::
+
+### Menge (1873) *Repetitorium der lateinischen Syntax* {#sec:menge1873}
+
+Hermann August Menge (1841-1939) was a teacher and is widely known as the translator of the infamous German *Menge-Bibel*. Based on his practical experience as a teacher he wrote textbooks for Latin and Greek. The Latin textbook was still in use far into the 20th Century, though in a slightly revised version [e.g. a 1955 edition is cited in @langholf1969: 10]. I will use here the sixth edition, which is the earliest edition I have been able to access [@menge1890]. The prefaces to the earlier editions do not mention any changes as far as the graphical analysis is concerned, so I assume that they were already present in the first edition of 1873.
+
+Menge [-@menge1890: 357-364] uses a graphical analysis of the *Periode* in the tradition of Lehmann (see [@sec:lehmann1833]). However, he uses a forward slash instead of a horizontal brace, just like Nägelsbach (see [@sec:nägelsbach1846]). In the preface to the first edition Menge cites the influence of many different grammars of Latin [@menge1890: v], but not Nägelsbach. However, Nägelsbach is mentioned in passing at various times throughout the book [e.g. @menge1890: v, 342]. So it seems very likely that the use of the forward slashes is inspired by Nägelsbach.
+
+::: {.im #menge1890_364}
+Analysis of *Periode* from Menge [-@menge1890: 364]. In this example he presents various ways in which a subordinate clause can be positionen in Latin, nicely summarising the syntactic possibilities by using the different abbreviations. Menge here uses the forward slash for clause-final subordination, like Nägelsbach (see [@fig:nägelsbach1846_286]).
+:::
+
+### Schütze (1875) *Über den deutschen Gliedsatz* {#sec:schütze1875}
+
+Adolf Schütze (born 1824) was a teacher at the Karls-Gymnasium in Bernburg. In the school's yearbook of 1875 he wrote a small essay *Über den deutschen Gliedersatz (Periode) und die Gesetze seines Baues* [@schutze1875], which includes an interesting graphical syntactic analysis. He analyses a long quote from Friedrich Schiller [@next], consisting of four sentences with numerous subordinate clauses. This long and complex linguistic structure is very concisely summarised by the graphic in [@fig:schütze1875_15]. In a footnote he cites Herling, Lehmann, Becker and Haupt [@schutze1875: 8], but the graphical display is more similar to Diesterwegs's approach (see [@fig:diesterweg1834_169]). However, the details are completely idiosyncratic:
+
+- Main clauses are marked with a capital letter *A*
+- Different levels of embedding are indicated both by graphically lower placement and by different lower-case letters
+- The letter *k* indicates *kurz*, i.e. a shortened *zu+Infinitiv* clause
+- Arches connect separated parts from the same clause
+- Plusses connect clauses with shared arguments
+- Punctuation like commas, colons and semicolons are copied verbatim from the sentence into the graphic display.
+
+::: ex
+- Möglich allerdings und sehr wahrscheinlich, dass die französischen Protestanten emsig daran arbeiteten, in den Niederlanden eine Pflanzschule für ihre Religion zu erhalten, und eine gütliche Vergleichung ihrer dortigen Glaubensbrüder mit dem Könige von Spanien durch jedes Mittel zu verhindern strebten, um diesem unversöhnlichen Feinde ihrer Partei in seinem eigenen Lande zu thun zu geben; 
+- sehr natürlich also, dass ihre Unterhändler in den Provinzen nicht unterlassen haben werden, die unterdrückten Religionsverwandten zu verwegenen Hoffnungen zu ermuntern, ihre Erbitterung gegen die herrschende Kirche auf alle Arten zu nähren, den Druck, worunter sie seufzte, zu übertreiben, und sie dadurch unvermerkt zu Unthaten fortzureissen. 
+- Möglich, dass es auch unter den Verbundenen Viele gab, die ihrer eigenen verlorenen Sache dadurch aufzuhelfen meinten, wenn sie die Zahl ihrer Mitschuldigen vermehrten; die die Rechtmässigkeit ihres Bundes nicht anders retten zu können glaubten, als wenn sie die unglücklichen Folgen wirklich herbeiriefen, wovor sie den König gewarnt hatten, und die in dem allgemeinen Verbrechen ihr eigenes zu verhüllen hofften. 
+- Dass aber die Bilderstürmerei die Frucht eines überlegten Planes gewesen, der auf dem Convente zu St. Truyen verabredet worden; 
+- dass in einer solennen Versammlung so vieler Edlen und Tapfern, unter denen noch bei weitem der grössere Theil dem Papstthum anhing, ein Rasender sich hätte erdreisten sollen, den Entwurf zu einer offenbaren Schandthat zu geben, die nicht sowohl eine abgesonderte Religionspartei kränkte, als vielmehr alle Achtung für Religion überhaupt und alle Sittlichkeit mit Füssen trat, und die nur in dem schlammigen Schosse einer verworfenen Pöbelseele empfangen werden konnte: 
+- (dies Alles) wäre allein schon darum nicht glaublich, weil diese wüthende That in ihrer Entstehung zu rasch, in ihrer Ausführung zu leidenschaftlich, zu ungeheuer erscheint, um nicht die Geburt des Augenblicks zu sein, in welchem sie ans Licht trat, und weil sie aus dem Umständen, die ihr vorhergingen, so natürlich gliesst, dass es so tiefer Nachsuchungen nicht bedarf, um ihre Entstehung zu erklären. \
+[@schutze1875: 14-15, citing Schiller *Geschichte des Abfalls der Niederlande*]
+:::
+
+::: {.im #schütze1875_15}
+Graphical display from Schütze [-@schutze1875: 15] of the long and complex quotation from Friedrich Schiller in [@last]. Schütze calls this a *Gedankenperiode* 'thought-period' consisting of four sentences with 35 different subordinate clauses. The details of the abbreviations are rather idiosyncratic. By this point it seems like the idea of a *Periodenbild* is widely known, and the details of the notation are simply reinvented anew every time.
+:::
+### Diringer (1878) *Die Periode oder der Gliedersatz* {#sec:diringer1878}
+
+Joseph Diringer (1878-1883) was a teacher for German, Latin and Greek in Eichstätt. Besides various editions of classical texts, he wrote *Die Periode oder der Gliedersatz in der deutschen Sprache* [@diringer1878]. The second half of this small booklet is devoted to the application of *Periodenbilder* to the analysis of literary sentences.
+
+At the end of the preface to his book, Diringer cites many of the graphical approaches that are discussed above (e.g. Bauer, Becker, Götzinger, Herling, Lehmann), but the direct influences on Diringer's graphical display seem to be Schlecht (see [@sec:schlecht1856]) and Schütze (see [@sec:schütze1875]). He uses a quasi-music-score approach with horizontal lines for the depth of embedding and vertical lines for the separation of main sentences. Different lower-case letters are used for distinct kind of subordination, e.g. *s* for *Subjektivsatz* 'subject complement clause' and *l* for *Lokalsatz* 'local clause', etc. As an example of his approach, the sentence from Schiller in [@next] is analysed by Diringer as shown in [@fig:diringer1878_48].
+
+::: ex
+Wie der bildende Künstler die faltige Fülle der Gewänder um seine Figuren breitet, um die Räume seines Bildes reich und anmutig auszufüllen, um die getrennten Partieen desselben in ruhigen Massen stetig zu verbinden, um der Farbe, die das Auge reizt und erquickt, einen Spielraum zu geben, um die menschlichen Formen zugleich geistreich zu verhüllen und sichtbar zu machen: ebenso durchflicht und umgibt der tragische Dichter seine streng abgemessene Handlung und die festen Umrisse seiner handelnden Figuren mit einem lyirschen Prachgewebe, in welchem sich, als wie in einem weitgefalteten Purpurgewand, die handelnden Personen frei und edel mit einer gehaltenen Würde und hoher Ruhe bewegen. [@diringer1878: 48, citing Schiller's *Über den Gebrauch des Chors in der Tragödie*]
+:::
+
+::: {.im #diringer1878_48}
+*Periodenbild* for Schiller's example sentence in [@last] as proposed by Diringer [-@diringer1878: 48]. The music-score metapher to depict embedding is inspired by Schlecht (see [@fig:schlecht1856_79]) and Schütze (see [@fig:schütze1875_15]). Different lower-case letters are used for different subordinating functions (*m*=modal, *f*=final, *a*=attributive). The small *x* indicates reduces clauses with *zu-Infinitiv*.
+:::
+
+### Esser (1878) *Abhandlung über die Formen der Periode* {#sec:esser1878}
+
+Franz Esser (dates unknown) was a teacher in Weissenburg. In the yearly report of his Gymnasium for the year 1877-1878 he writes a short article with the title *Abhandlung über die Formen der Periode im Nibelungenlied* [@esser1878]. In this article he analyses sentences from the *Nibelungenlied* by using *Periodenbilder*. He organises the article by the complexity of the sentences. 
+
+For the inspiration of the *Periodenbilder* he cites Götzinger (see [@sec:götzinger1836]). However, different from Götzinger, Esser does not use the horizontal brace for post-clausal subordination. Instead, he uses forward slashes like Nägelsbach (see [@sec:nägelsbach1846]) or Menge (see [@sec:menge1873]). For multiple embedding Esser uses apostrophes, similary to Rinne (see [@sec:rinne1840]). As an example, the verse from the *Nibelungenlied* in [@next a], with an approximate translation into English in [@next b], is analysed by Esser as [@next c]. The original display is shown in [@fig:esser1878_7].
+
+::: ex
+- Dô die herren sâhen, daz der helt was tôt, \
+  sie leiten in ûf einen schilt, der was von golde rot, \
+  und wurden des ze râte, wie das solde ergân, \
+  daz man ez verhæle, daz es het Hagene getân.
+- When the men saw, that the hero was dead, \
+  they laid him on a shield, which was golden red, \
+  and it was discussed, how it should happen, \
+  that it stays hidden, that Hagen had done it.
+- (a/a'): A/b, B/a/a'/a''
+:::
+
+::: {.im #esser1878_7}
+*Periodenbild* for the verse from the *Nibelungenlied* in [@last] as analysed by Esser [-@esser1878: 7]. Although he cites Götzinger, the details of the graphical display are more similar to the Latin tradition from Nägelbach, most prominently the use of the forward slash instead of a horizontal brace as used by Götzinger.
+:::
+
+### Schulze (1883) *Adiumenta Latinitatis* {#sec:schulze1883}
+
+Ernst Hendrik Ferdinand Schulze (1842-1911) was a teacher and school director, first in St. Petersburg and later in Bad Homburg vor der Höhe. Biographical details are available in Schulze [-@schulze1901: 46-47].^[A good overview is also available on <https://de.wikipedia.org/wiki/Ernst_Schulze_(Historiker)>, accessed 7 January 2025.] He wrote an advanced Latin textbook *Adiumenta Latinitatis. Grundzüge des lateinischen Stils in Verbindung mit Übersetzungsstücken für die oberste Stufe des Gymnasiums* [@schulze1883].
+
+In this book he used very simple *Periodenbilder* for the analysis of Latin sentences [@schulze1883: 116-122]. He only uses the letters *A* for main clause, *a* for subordinate clause, and *α* for secondary subordinate clause. Specifcally, he used this graphical analysis to explain differences between German and Latin sentence structure.  The regular Latin word order would be *a α A*, as shown in [@next]. However, the Latin word order is quite flexible, and many different orders are possible. Schulze then gives the table shown in [@fig:schulze1883_121] with the orders that are possible in Latin, but not in German.
+
+::: ex
+a. [a]{.grey} *facias me certiorem* [α]{.grey} *quid istic agatur* [A]{.grey}* velim*.
+b.
+|
+| faci-as me certior-em quid istic ag-atur velim.
+| make-2SG 1SG.OBJ surer-ACC.SG what there do-PASS.3SG wish.1SG
+| I would like you to inform me what is going on there.
+:::
+
+::: {.im #schulze1883_121}
+*Periodenbilder* from Schulze [-@schulze1883: 121] showing possible sentence orders in Latin that are impossible in German. He uses a very reduced system of symbols with *A* for main clause, *a* for subordinate clause, and *α* for secondary subordinate clause.
+:::
+
+### Golling (1892) *Chrestomathie aus Livius*
+
+https://de.wikipedia.org/wiki/Josef_Golling
+
+2nd edition [@golling1900], but first edition from 1892 is nowhere to be found. first edition also online! [@golling1892] 5th edition 1922. cites Nägelsbach and follows his abbreviations, e.g. vi-viii
+
+### Gloël (1895) *Schriftliche Übersetzung aus dem Griechischen* {#sec:gloël1895}
+
+Heinrich Gloël (1855-1940) was a teacher and literary scholar, first in Wesel and and later in Wetzlar. He started as a classical scholar, writing a disseration about the Greek play *Hippolytos* by Eurypides and teaching classical languages. Later in life he specialized in critical evaluations of texts of Goeths [more biographical information in @flender1983].
+
+In an article about the role of translation from Greek to German in secondary education, Gloël discussed various examples from classical Greek and the problems with their translation into German [@gloel1895]. The final example he discusses is an excerpt from Plato's *Crito* [@gloel1895: 67-76]. For two complex sentences with many subordinated clauses in this excerpt, Gloël uses *Satzbilder* to illustrate their syntactic structure. For example, the *Satzbild* in [@fig:gloël1895_75] is an analysis of the sentence in [@next a]. I have added the letters from Gloël's *Satzbild* into this example, something which Gloël assumes that the reader is able to do. The translation in [@next b] is by Harald Fowler.^[Plato in Twelve Volumes, Vol. 1 translated by Harold North Fowler; Introduction by W.R.M. Lamb. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1966. Available online at <https://www.perseus.tufts.edu/>.]
+
+::: ex
+- \(A) ἢ πρὸς μὲν ἄρα σοι τὸν πατέρα οὐκ ἐξ ἴσου ἦν τὸ δίκαιον καὶ πρὸς δεσπότην, (a) εἴ σοι ὢν ἐτύγχανεν, (b) ὥστε (β) ἅπερ πάσχοις ταῦτα (b) καὶ ἀντιποιεῖν, (1) οὔτε κακῶς ἀκούοντα ἀντιλέγειν (2) οὔτε τυπτόμενον ἀντιτύπτειν (3) οὔτε ἄλλα τοιαῦτα πολλά· (B) πρὸς δὲ τὴν πατρίδα ἄρα καὶ τοὺς νόμους ἐξέσται σοι, (c) ὥστε, (γ) ἐάν σε ἐπιχειρῶμεν ἡμεῖς ἀπολλύναι (~~P~~) δίκαιον ἡγούμενοι εἶναι, (c) καὶ σὺ δὲ ἡμᾶς τοὺς νόμους καὶ τὴν πατρίδα (δ) καθʼ ὅσον δύνασαι (c) ἐπιχειρήσεις ἀνταπολλύναι, (1) καὶ φήσεις ταῦτα ποιῶν (2) δίκαια πράττειν, (~~P~~) ὁ τῇ ἀληθείᾳ τῆς ἀρετῆς ἐπιμελόμενος; \
+  [@gloel1895: 67, citing Plato *Crito*. Clause-symbols are not given in the original, but inserted here to coincide with the *Satzbild* below]
+- \(A) There was no such equality of right between you and your father or your master, (a) if you had one, (b) so that (β) whatever treatment you received (b) you might return it, (1) answering them if you were reviled, (2) or striking back if you were struck, (3) and the like; (B) and do you think that it will be proper for you to act so toward your country and the laws, (c) so that (γ) if we undertake to destroy you, (~~P~~) thinking it is right, (c) you, to our laws and our country, (δ) so far as you are able, (c) will undertake in return to destroy them (1) and will say that in doing this (2) you are doing right, (~~P~~) you who really care for virtue?^[Translation by Harold North Fowler with a few very minor edits, available online at <https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg003.perseus-grc2:51/?right=perseus-eng2>.] 
+:::
+
+::: {.im #gloël1895_75}
+*Satzbild* for the sentence from Plato's *Crito* in [@last a] as analysed by Gloël [-@gloel1895: 75]. Capital letters are main clauses, lower-case Latin letters are subordinated clauses, greek letters are second-grade subordination. The letter "~~P~~" indicates a non-finite clause using a participles. Numbers indicate conjoined clauses to the previous letter-marked clause. The marker *B* for the second main clause should probably by placed on the same level as the main clause *A*. This appears to be a printing error.
+:::
+
+### Toifel (1896) *Satzstellung in der Kudrun* {#sec:toifel1896}
+
+Otto Toifel (dates unknown) was a teacher in Austria, first in Salzburg and later in Ried im Innkreis. He wrote a few articles in which he applied Lehmann's graphical approach (see [@sec:lehmann1833]) to analyse examples from Middle High German literature. In particular, Toifel used one-line *Satzbilder* following Lehmann [-@lehmann1856], whom he explicitly cites. However, Toifel employs lower-case latin letters with superscript numbers for levels of subordination, instead of the different scripts used by Lehmann. 
+
+Toifel applies this approach in two short articles to analyse "unusual" sentence structures in the German epic *Kudrun* [@toifel1896; @toifel1897]. A few years later he did the same for special constructions in texts by Bertold of Regensburg [@toifel1901]. An example of his analysis is the *Satzbild* shown in [@fig:toifel1896_19] for the quotation from the *Kudrun* in [@next]. The symbols in the example are not in Toifel's original, but added here for comparison with the *Satzbild*. An attempted English translation is given in [@nnext]. The special phenomenon highlighted by Toifel is the relative clause *b^3^*, which he analyses as a preposed relative clause, refering to *die* 'them' in the following clause *b^2^*.
+
+In his graphical analysis, Toifel uses the colon in a special way. Lehmann originally used the colon only to indicate subordinate clauses that are preposed to the main clause (i.e. clauses in the German *Vorfeld* like *a^1^* ). Toifel additionally uses the colon for subordinate clauses that are preposed to another subordinate clause, which is a highly unusual structure in German. Specifically, the fact that clause *b^3^* is subordinated and preposed to clause *b^2^* is indicated by the colon between these clauses in [@fig:toifel1896_19].
+
+::: ex
+\(a^1^) und haete ich hundert swester, (A) die lieze ich sterben ê, \
+(b^1^) dann ich mich alsô starke in vremeden landen haele, \
+(b^3^) die man mir nam mit sturme, (b^2^) daz ich die minen grimmen vinden staele. \
+[@toifel1896: 19, citing *Kudrun* verse 1256, abbreviations added]
+:::
+
+::: ex
+\(a^1^) and even if I had a hundred sisters, (A) I would rather let them die, \
+(b^1^) before I would so strong in strange lands hide, \
+(b^3^) the ones that were taken from me in battle, (b^2^) to steal them from my furious enemies.
+:::
+
+::: {.im #toifel1896_19}
+*Satzbild* for the example in [@llast] from Toifel [-@toifel1896: 19]. Toifel argues that the relative clause *b^3^* is actually a preposed relative clause, referring to *die* 'them' in the following clause *b^2^*. This special proposing is indicated by the colon betwen *b^3^* and *b^2^* in the figure.
+:::
+
+### Schuberth (1908) *Deutsche Satzbilder* {#sec:schuberth1908}
+
+Gustav Schuberth (1850-1922) was a director of a school in Großenhain. In the 33th yearbook of his school he wrote a short paper [@schuberth1908], exemplifying how *Satzbilder* can be used to analyse a text. He took the first few pages of Schiller's *Geschichte des dreißigjährigen Kriegs* and analysed all sentences with a simplified one-lined *Satzbild*. As an example of his notational system, Schiller's sentence in [@next] is analysed by Schuberth as shown in [@fig:schuberth1908_7]. I have added the abbreviations from the figure into the example below.
+
+::: ex
+[A/~2~]{.grey} In keinem andere Falle, [(v)]{.grey} als unter diesem, [A/~2~]{.grey} war es den schwächern Fürsten möglich, [(g)]{.grey} die außerordentlichen Anstrengungen von ihren Ständen zu erzwingen, [e]{.grey} wodurch sie der österreichischen Macht widerstanden; [(A)]{.grey} in keinem andern Falle den Staaten möglich, [(g)]{.grey} sich gegen einen gemeinschaftlichen Feind zu vereinigen.
+:::
+
+::: {.im #schuberth1908_7}
+*Satzbild* for the example from Schiller in [@last] as analysed by Schuberth [-@schuberth1908: 7]. He uses the notation */~2~* for parts of separated clauses, round brackets for non-finite clauses, and different letters for kinds of subordinate clauses (e.g. *g=Gegenstand* for complement clauses or *e=Eigentschaft* for relative clauses). He considers the indication of the depth of embedding to be superfluous [@schuberth1908: 4].
+:::
+
+### Erman (1913) *Stellung und Funktion der Nebensätze* {#sec:erman1913}
+
+Konrad Bessel Erman (1888-1915) died a young man in the First World War, shortly after he finished his dissertation in Bonn [published as @erman1913a; the actual dissertation was only the first part, see @erman1913]. A short obituary is given by Schulze [-@schulze1917] and a biographical eulology is provided by his mourning father [@erman1916]. 
+
+In his dissertation, called *Beziehungen zwischen Stellung und Funktion der Nebensätze mehrfacher Unterordnung im Althochdeutschen*, Erman investigates different kinds of subordination in Old High German texts. He uses a symbolic representation to characterise the structure of complex sentences [@erman1913a: 4-5], but refrains from calling them *Periodenbild* or *Satzbild*, although he cites various authors that use *Periodenbilder* for similar purposes [viz. @lehmann1856; @esser1878; @toifel1897; @toifel1901]. 
+
+Erman's symbolic representation is rather different from his predecessors. An example of his display is shown in [@fig:erman1913_38] for the Old High German sentence in [@next a]. This sentence is from the 9th Century *Tatian* translation of the the Gospel of Luke. A word-by-word etymological equivalence into modern German is given in [@next b]. The Old High German translation follows the Latin structure [@next c], in which the verb *venit* of the first subordinate clause (marked *b* in the graphic) is separated by the second subordinate clause (marked *c* in the graphic). All this is placed before the main clause (marked *a* in the graphic).
+
+::: ex
+- [b]{.grey} ouh after thiu theser thin sun, [c]{.grey} ther thar fraz alla sina heht mit huorun, [b]{.grey} quam, [a]{.grey} arsluogi imo gifuotrit calb. \
+  [@erman1913a: 39, citing Tatian 97,7,7]
+- [b]{.grey} auch achter-dem dieser dein Sohn, [c]{.grey} der dort fraß all seine Echt mit Huren, [b]{.grey} kam, [a]{.grey} erschlägst ihm gefuttertes Kalb. \
+  (Modern German etymological equivalence)
+- [b]{.grey} sed postquam filius tuus hic [c]{.grey} qui devoravit substantiam suam cum meretricibus [b]{.grey} venit [a]{.grey} occidisti illi vitulum saginatum. \
+  (Vulgate, Luke 15:30)
+- But when this son of yours came, who has devoured your property with prostitutes, you killed the fattened calf for him! \
+  (English Standard Version, Luke 15:30)
+:::
+
+::: {.im #erman1913_38}
+Symbolic representation of the Old High German sentence from Luke 15:30 [@last] in the analysis of Erman [-@erman1913a: 38]. Erman uses his own symbolic representation, starting with *a* for the main clause, followed by subsequent letters for subordinate clauses. The arches combine parts of a clause that are separated by another clause. The "less-than" sign indicates the direction of subordination, though this is also evident from the alphabetical order.
+:::
+
+### Pfannkuchen (1914) *Periodenbau in Goethe und Schiller* {#sec:pfannkuchen1914}
+
+Wilhelm Pfannkuchen (born 1887) wrote a dissertation in Giessen with Otto Behagel [@pfannkuchen1914]. I have not been able to find any further reliable information about his biography.^[Pfannkuchen writes in his dissertation that he started teaching at the Ludwig-Georgs-Gymnasium in Darmstadt in 1914 [@pfannkuchen1914: 67]. The yearbook of that Gymnasium for 1915 notes that he is let go to become the director of a private school, see page 10 of <https://nbn-resolving.org/urn:nbn:de:hbz:061:1-718811>. Pfannkuchen appears to have edited some plays by Schiller in 1930. There is an entry for a Dr. phil. Wilhelm Pfannkuchen in the Addressbook of Gotha in 1949 <http://www.adressbuecher.net/addressbook/entry/54747dd11e6272f5d1ca01dc>.] Pfannkuchen's dissertation *Periodenbau in Goethes und Schillers größeren Dichtungen* is basically a long list of references to sentences in the works of Goethe and Schiller, organised by the structure of their subordination. For complex sentences, consisting of three or more clauses, he uses a graphical display to illustrate their structure [@pfannkuchen1914: 39-63]. He cites various previous authors who use a graphical display with similar goals [viz. @lehmann1852; @diringer1878; @gelbe1880; @kern1883a; @schulze1883 as discussed here previously], but in the end Pfannkuchen's graphics are a new combination of these widespread ideas. 
+
+An example of Pfannkuchen's graphical analysis is shown in [@fig:pfannkuchen1914_60] for the *Periode* from Friedrich Schiller in [@next]. The top-down ordering indicates depth of embedding and the left-right ordering corresponds to the actual ordering of the clauses in the sentence. Dots are used when a clause is separated by another clause and the plus-symbols is used for coordination.
+
+::: ex
+[Kond]{.grey} Und hast du dem Befehle deines Gottes, \
+[Relſ.]{.grey} Der in des Feld dich rief, [..ſ.]{.grey} genug getan \
+[Ausſ.]{.grey} So wirst du deine Waffen von dir legen \
+[+Ausſ.]{.grey} Und wiederkehren zu dem sanfteren \
+Geschlecht, [Relſ.]{.grey} das du verleugnet hast, [+Relſ.]{.grey} das nicht \
+Berufen ist zum blut'gen Werk der Waffen. \
+[@pfannkuchen1914: 56, citing Schiller *Jungfrau von Orleans*]
+:::
+
+::: {.im #pfannkuchen1914_60}
+*Periodenbau* for the example from Schiller in [@last] as analysed by Pfannkuchen [-@pfannkuchen1914: 60]. The vertical dimension indicates depth of embedding, the left-to-right ordering corresponds to the actual ordering of the clauses. Abbreviations apparently mean: *Ausſ.=Aussagesatz*, *Kondſ.=Konditionalsatz*, *Relſ.=Relativsatz*. The plus-symbol marks coordination. The dots indicate that the clause is separated by another subordinated clause.
+:::
+
+### Diemke (1940) *Die Entstehung des hypotaktischen Relativsatzes*
+
+Willy Diemke (1911-???) memo by Diemke cited from 1952 here: https://www.tandfonline.com/doi/full/10.1080/23801883.2024.2303074
+
+[@diemke1940: 3-4] analysis of complex sentence from Thukydides using indentation. Probably also in his dissertation from 1934 https://ubdata.univie.ac.at/AC04461892 https://google.com/books?id=BXT6vgEACAAJ. Example cited by Bühler 1934: 400
+
+> Sein Nachfolger Willy Diemke (Referent von 1937–39), der von Zeitzeugen als „unsympathischer Typ des Naziführers“ beschrieben wurde, veranlasste als Geheimdienstbeauftagter die Installation von Abhörgeräten im Institut und ließ Verhöre deutscher Juden in den DAI-Institutsräumen stattfinden. Gleichzeitig sah man sich weiterhin unbeirrt „für das Ansehen der deutschen wissenschaftlichen Arbeit, und damit des Deutschtums überhaupt“ im Ausland verantwortlich. (p. 111)
+
+https://www.dainst.org/fileadmin/Media/Publikationen__PDFs_/DAI_Zentrale_Clusterbroschuere_Menschen__Kulturen__Traditionen.pdf
+
+see also https://doi.org/10.1524/9783050063416.267
+
 ### Langholf (1969) *Die Syntax des deutschen Amadisromans* {#sec:langholf1969}
 
 Barbara Langholf wrote a dissertation at the university of Hamburg in 1969. She appears not to have pursued an academtic career after her dissertation as I have not been able to locate any subsequent scholarly works by her. Her dissertation investigates syntactic structures in the 16th Century anonymous German translation of the French novel *Amadis de Gaule*. The syntactic analyses used by Langholf are a direct descendant of the *Periodenbilder* of the 19th Century, although by the time of her dissertation the syntactic theories of Chomsky and Tesnière already had become widespread in the linguistic community. Langholf does not seem to have been aware of (or not interested in) those theories.
@@ -2038,315 +1998,6 @@ Langholf adds a functional category to each clause, written as a superscript abb
 ::: {.im #langholf1969_142}
 *Formel* for the example in [@last] in the analysis of Langholf [-@langholf1969: 142]. The superscript abbreviations are functional classifications, the actual syntactic analysis are the base letters of the superscripts. Brackets indicate internal subordination, forward slashes are for final subordination. The numbers are just a counter for the clauses, but they also function as identification for the parts of separated clauses, e.g. 1, 4, 8 and 11.
 :::
-
-### More
-
-Also: Bernhard Merth (1864-1922, Sprachübungen, Sprachbuch, Sprachunterricht) => Wollmann, Killinger, Sernko as co-authors/revisers. no apparent graphics.
-
-- https://www.suedmaehren.at/persoenlichkeit/bernhard-merth/
-- https://www.biographien.ac.at/oebl/oebl_M/Merth_Bernhard_1864_1922.xml
-- nothing in part 1: https://books.google.de/books?id=HXkXAAAAIAAJ
-
-Oskar Erdmann (1886) *Grundzüge der deutschen Syntax*, numbers above words 183, 192. Precise description of "rechte Satzklammer" p. 190. Reverse numbering on p.192 could be interpreted as relative dependency.
-
-- https://www.digitale-sammlungen.de/de/view/bsb11023225
-
-Meyer-Lübke (1899) *Grammatik der Romanischen Sprachen* uses SVOPA abbreviations https://archive.org/details/grammatikderrom00meyegoog/page/799/mode/2up
-
-Feigl (1904) *Die Stellung der Satzglieder* Friedrich Feigl, inspired by Meyer-Lübke https://opac.ku.de/s/uei/de/2/10/BV008647023
-
-## Constituency in Germany
-
-### Wundt (1880) *Logik* {#sec:wundt1880}
-
-Wilhelm Maximilian Wundt (1832-1920), professor in Leipzig, was one of the founders of modern psychology, but his writings touched on a wide range of topics including language. A survey of his linguistic work is presented by Knobloch [-@knobloch1992]. As for the graphical representation of sentence structure, he wrote a few pages about this in the first volume of his book *Logik* [@wundt1880: 49-70] and later expanded upon his approach in his ten-volume magnum opus *Völkerpsychologie*, specifically, in the second volume of the two-volume book *Sprache* [-@wundt1900b: 320-355].
-
-Wundt approaches grammatical structure in very broad and general terms. Consequently, his graphical analysis is not so much rooted in a detailed analysis of grammatical structure but rather in a-priori logical analysis, which is then applied to language. The basic unit of his analysis is the *apperceptive Verbindung* 'apperceptive connection'. The notion of apperception has a long history in the philosophy of mind, dating back at least to Leibniz.
-
-Wundt takes an almost algebraic approach to the analysis of apperception, which  might have been influenced by the "formulas" of apperceptive structures as used by Steinthal [-@steinthal1871: 198-204, 254, 388, 407-428], though Wundt does not cite this aspect of Steinthal's work (but Wundt cited Steinthal in other contexts). Incidentally, Wundt's *Logik* appears just a year after Frege's *Begriffsschrift* [@frege1879], which also uses graphical representations of logical formulas, though there does not seem to have been any direct influence from Frege on Wundt's thinking [see @picardi2022: 24-26 for the relatively positive view of Frege about Wundt's philosophical approach to logic and language]. Wundt's algebraic approach to the structure of thought has to considered in the wake of the highly influential book *Laws of Thought* by Boole [-@boole1954]. Wundt does not directly cite Frege nor Boole.
-
-For Wundt, an apperceptive connection is the basic building block of a thought, indicated visually by a connecting arch. Such a connection is introduced analytically top-down, as for Wundt a thought starts as a *Gesammtvorstellung* 'complete idea', which is subsequently divided into parts. There appears to be a direct through-line from Wundt's apperceptive connections as divisions of larger elements to the 20th century concept of syntactic "immediate constituents" first proposed by Blooomfield in 1933 (see [@sec:bloomfield1933]).
-
-> Die einfachste Form eines Gedankens oder eines in sich abgeschlossenen apperceptiven Vorstellungsverlaufs ist dann gegeben, wenn eine Gesammtvorstellung in zwei mit einander verbundene Theile zerlegt wird. Dies geschieht im einfachen Urtheil. Deuten wir allgemein die apperceptive Verbindung auf einander folgender Vorstellungen durch das Zeichen ^⏜^ an, so ist A^⏜^B das psychologische Symbol des einfachen Urtheils. [@wundt1880: 53]
->
-> ('The simplest form of a thought or a self-contained apperceptive sequence of ideas occurs when a complete idea is divided into two interconnected parts. This happens with a simple judgment. If we generally indicate the apperceptive connection of successive elements by the symbol ^⏜^, then A^⏜^B is the psychological symbol for a simple judgment.')
-
-Such an apperceptive connection can be recursively applied, leading to a binary-branching structure of thought. This is probably the first explicit proposal to exlusively use binary branching for the analysis of though and language. Wundt even calls this the *Gesetz der Dualität* 'law of duality'. However, this law is purely a-priori in the work of Wundt. He does not give any argument why this law should apply, instead he simply assumes that binary division is the only option.
-
-> Die successive Apperception dagegen geschieht stets in der Form einer Zweitheilung: sie folgt einem Gesetze, das wir füglich als das Gesetz der Dualität oder der binären Gliederung der Gedanken bezeichnen können. [@wundt1880: 28]
->
-> ("Successive apperception, on the other hand, always occurs in the form of a division into two: it follows a law that we can aptly call the law of duality or the binary organization of thoughts.")
-
-According to Wundt, this logical binary division is also found in the structure of linguistic utterances. His argumentation is quoted below in full, because he does not explicitly discuss various example sentences to illustrate how his syntactic analysis is supposed to work.
-
-> Dieses Princip der Dualität oder der binären Verbindung hat in den Kategorieen der grammatischen Syntax seinen unverkennbaren Ausdruck gefunden. Denn alle diese Kategorieen führen zurück auf je zwei Vorstellungen, die mit einander in Beziehung gesetzt sind. So werden zunächst die beiden Hauptvorstellungen, die der ersten Gliederung des Gedankens entsprechen, als Subject und Prädicat unterschieden. Das Subject kann wieder gegliedert sein in Nomen und Attribut. Das Prädicat zerfällt, sofern es ein nominales ist, in die Copula und das eigentliche Prädicat, worauf sich das letztere, ähnlich dem Subject, noch einmal in Nomen und Attribut trennen kann. Ist das Prädicat aber ein verbales, so kann es sich in Verbum und Object gliedern oder in das eigentliche und das ergänzende Prädicat. Selbst da wo sich ein näheres und ein entfernteres Object mit dem Verbum verbinden, erhält sich diese fortschreitende Zweitheilang. Denn hiebei [sic!] bildet zunächst das Verbum mit dem s.g. näheren Object ein einheitliches Prädicat, welches dem entfernteren Object gegenübertritt, worauf dann erst jenes Prädicat wieder in das die Handlung ausdrückende Verbum und in das Object, auf welches sich die Handlung beziebt, getrennt wird. In dem Satz 'er unterrichtet den Knaben in Musik' bildet 'er unterrichtet in Musik' zunächst eine einheitliche Vorstellung, die den Knaben als das Object, auf das sie bezogen wird, sich gegenüber hat; dann erst zerlegt sich jene Vorstellung wieder in ihre beiden Bestandteile. [@wundt1880: 54]
->
-> ("This principle of duality or binary connection has found its unmistakable expression in the categories of grammatical syntax. For all these categories lead back to two concepts that are related to one another. Thus, the two main concepts corresponding to the initial division of thought are distinguished as subject and predicate. The subject can be further divided into noun and attribute. The predicate, insofar as it is nominal, is divided into the copula and the proper predicate, the latter of which, similar to the subject, can again be divided into noun and attribute. If, however, the predicate is verbal, it can be divided into verb and object, or into the proper and the complementary predicate. Even where a closer and a more distant object combine with the verb, this progressive division is maintained. For here, the verb initially forms a unified predicate with the so-called nearer object, which contrasts with the more distant object. Only then is that predicate separated again into the verb expressing the action and the object to which the action refers. In the sentence 'he teaches music to the boy' the part 'he teaches music' initially forms a unified concept, which has the boy as the object to which it refers; only then does that concept break down again into its two components.")
-
-The equivalence between syntactic structure and binary-branching subject-predicate structures is illustrated graphically by Wundt as shown in [@fig:wundt1893_62]. A syntactic structure is shown to the left, which is proposed to be equivalent to the logical structure to the right. This graphic does not explicitly analyse a specific sentence, but from the text it is clear that a sentence like [@next] is intended. The abbreviations from the graphic are added in grey before the respective words into this examples sentence. The meanings of these abbreviations as explained by Wundt are listed below [-@wundt1880: 55-56].^[The usage of apostrophes is eerily similar to the way they were sometimes used as an easier-to-type alternative in Chomsky's X-bar approach from the 1980s, although the number of apostrophes is reversed between Wundt and Chomsky. This similarity seems to be a purely coincidental parallel.] It is not completely clear where Wundt would place the actual lexical verb into this structure. From a modern point of view it makes most sense to consider *v* and *v'* as phrasal constituents, while the leaf-node *v"* is the locus of the lexical verb. However, Wundt's text remains ambigious about this. He does not use a syntactic term like "constituent" at all and all three nodes marked *v* are identically called *Verbalvorstellung* 'verbal concept'.
-
-- s: *Gegenstandsvorstellung*
-- a: *Attribut*
-- v: *Verbalvorstellung*
-- v': *Verbalvorstellung zweiter Ordnung*
-- v'': *Verbalvorstellung dritter Ordnung*
-- o: *entfernteres Object*
-- o': *näheres Object*
-- a': *adverbiale Bestimmung*
-
-::: ex
-Der [a]{.grey} alte [s]{.grey} Lehrer [v'']{.grey} unterrichtet [a']{.grey} morgen [o]{.grey} den Knaben [o']{.grey} in Musik
-:::
-
-::: {.im #wundt1893_62}
-Equivalence between grammatical structure (left) and logical binary structure (right) from Wundt [-@wundt1880: 56]. The graphic shown here is from second edition because of better printing quality [@wundt1893: 62]. Wundt does not provide an explicit German sentence, whose structure would be illustrated with this graphic, but from Wundt's description an example sentence like [@last] can be inferred.
-:::
-
-Wundt extends his linguistic analysis into two large volumes in his book *Sprache*, which start off his ten-volume opus-magnum *Völkerpsychologie*. Specifically, in the second volume Wundt dives deep into grammatical analysis [@wundt1900b]. In Chapter 7, Section 5 *Gliederung des Satzes und Satzformen* [@wundt1900b: 309-346] he revisits his graphical approach to the analysis of syntax. Confusingly, Wundt does not repeat the basic analysis of a simple sentence, as presented above from his 1880 work. Instead, there is a lengthy discussion of purported structures from a few "exotic" languages like Wolof and Jakut, but only using very crude German glossings of the original examples, never once even citing any real sentence from those languages.
-
-Wundt discusses two more elaborate examples of his syntactic analysis using sentences from Goethe's *Die Leiden des jungen Werthers*, repeated here in [@next]. These sentences are typical examples as found in 19th century German grammatical analysis, consisting of multiple subordinate clauses. The graphical analysis of these sentences is shown in [@fig:wundt1900_351a] and [@fig:wundt1900_351b], respectively. The annotation letters in the example sentences in [@next] are reproduced here verbatim as used by Wundt to explain the relation between the sentences and the graphical analysis. After the first example he concludes that his (very short) description is sufficient to explain his analytical approach. Instead of explaining his second example, he simple states: *das ergibt folgende Strukturformel, die nach dem Vorangegangenen wohl keines weiteren Kommentars bedarf* 'this results in the following structural formula, that – given the preceding discussion – does not need any further explanation' [@wundt1900b: 351]. However, quite to the contrary, on closer inspection his syntactic analysis is difficult to follow and quite sloppy. It comes nowhere near the highly precise dissections as found in the works of many of the 19th century German syntacticians.
-
-::: ex
-- Wenn ich zu meinem Fenster hinaus an den fernen Hügel sehe [(a^⏜^b)]{.grey}, wie die Morgensonne über ihn her durch den stillen Nebel durchbricht [(a~1~^⏜^b~1~)]{.grey}, und den stillen Wiesengrund bescheint [(G~1~)]{.grey}, und der sanfte Fluß zwischen seinen entblätterten Eichen zu mir herschlängelt [(G~2~)]{.grey} — O! wenn da diese herrliche Natur so starr vor mir steht wie ein lackiertes Bildchen [(G~3~)]{.grey}, und alle die Wonne [(a~4~)]{.grey} keinen Tropfen Seligkeit hinauf in das Gehirn pumpen [(b~4~)]{.grey} kann [(G~4~)]{.grey}, und der ganze Kerl [(a~5~)]{.grey} vor Gottes Angesicht steht [(G~5~)]{.grey} wie ein versiegter Brunnen [(b~5~)]{.grey}, wie ein verlechter Eimer [(b~6~)]{.grey}. \
-[@wundt1900b: 350, citing Goethe, *Die Leiden des jungen Werthers*, abbreviations verbatim as in Wundt's text]
-- Als er sich den Vorwurf sehr zu Herzen zu nehmen schien [(a^⏜^b)]{.grey}, und immer aufs neue beteuerte [(c)]{.grey}, daß er gewiß gern mitteile [(d)]{.grey}, gern für Freunde tätig sei [(e)]{.grey}, so empfand sie [(A^⏜^B)]{.grey}, daß sie sein zartes Gemüt verletzt habe [(a~1~^⏜^b~1~)]{.grey}, und sie fühlte sich als seine Schuldnerin [(A^⏜^D)]{.grey}. \
-[@wundt1900b: 351, citing Goethe, *Die Leiden des jungen Werthers*, abbreviations verbatim as in Wundt's text]
-:::
-
-::: {.im #wundt1900_351a}
-Graphical analysis of [@last a] from Wundt [-@wundt1900b: 351]. The capital letter *G* stands for *Gesammtvorstellung* 'complete idea' and is used for what today would be called a clause. This example is actually unusual (as explicitly noted by Wundt), because the sentence is syntactically incomplete, as indicated by the empty right part of the main bracket. The arches and straight-line connections are applied rather inconsistently, indicating that Wundt did not realy grasp how a constituency analysis (in its modern sense) works.
-:::
-
-::: {.im #wundt1900_351b}
-Graphical analysis of [@last b] from Wundt [-@wundt1900b: 351]. He introduces (without explanation) round brackets for non-repeated subjects on the left side. This graphical analysis seems to use to old tradition to reserve capital letters for main clauses and lowercase letters for subordinate clauses, a convention originally introduced by Lehmann in 1833 (see [@sec:lehmann1833]). However, this convention is never explained by Wundt.
-:::
-
-These syntactic analyses by Wundt are very inprecise and inconsistent, indicating that Wundt was not really interested in the minute details of the syntactic structure of these sentences. He appears to be confused about what is a *Gesammtvorstellung* (i.e. what is a clausal constituent), what are its parts, and how the various clauses relate to each other. For clause combinations, Wundt [-@wundt1900b: 334] distinguishes *Parataxe* (including conjunction, using a straight line), *Relativsatz* (relative clause, using some kind of subscript in the analysis) and *conjunctiver Nebensatz* (adverbial clauses, using the curved arch). He never mentions complement clauses, but in [@fig:wundt1900_351b] he simply positions those below the matric clause. Wundt also talks about *attributive Satzformen* (non-finite clauses), but he only discusses rather incomprehensible examples from non-european languages, without any details and only on the basis of crude German glossing. The lowercase letters appear intended to indicate subject and predicate of a subordinate clause, which together should form a clause, for which he sometimes (but not always) uses the uppercase *G*. However, all these visual mechanisms are applied haphazardly, and often simply erroneously. It would take too long to explain all errors in Wundt's analyses, so I will just point to a few of the many problems.
-
-In the first sentence, the topmost clause *G* is actually incomplete (as explicitly noted by Wundt) because the main clause is missing. This is (correctly) indicated by the empty right side of the main arch. However, different from Wundt's analysis, the left (subordinate) side consists of two long conditional clauses introduced by *wenn*. These two should have been marked as being conjoined as a *Parataxe*. The internal structure of these two *wenn* clauses is complemently wrong in Wundt's analysis.
-
-In the second example Wundt does not use any internal capital letter *G*, but there are uppercase letters *A,B,C,D*, probably indicating subject and predicate of main clauses. This is reminiscent of the Lehmann tradition, using capital letters for main clauses and lowercase for subordinate clauses (see [@sec:lehmann1833]). On the left side, the lowercase *(a)* in brackets seems to suggest an omitted subject, though the subject of predicate *d* is actually present. Wundt also appears to mark complements clauses (introduced with *daß*) by simply positioning them below their matrix clauses (without explanation), but erroneously links the last main clause *(A^⏜^D)* to the complement clause, instead of to the main clause *(A^⏜^C)*. The use of the subscripts on the right side seems superfluous.
-
-German grammarians are not impressed by Wundt's linguistic analysis, and his graphical analysis is completely ignored. Extensive reviews of Wundt's book *Sprache* are written by Delbrück [-@delbruck1901] and Sütterlin [-@sutterlin1902], leading to a lengthy reply by Wundt [-@wundt1901] and by his student Dittrich [-@dittrich1902]. Only Dittrich in passing mentions the graphical approach. Delbrück off-handedly dismisses the idea of binary branching: *Ich bin demnach der Meinung, daß dieses ganze Princip der fortgesetzten binären Zerlegung […] durch die sprachlichen Thatsachen nicht empfohlen wird* 'I am therefore of the opinion that this entire principle of continued binary decomposition […] is not recommended by linguistic facts' [@delbruck1901: 153-154].
-
-Although Wundt's graphical analysis does not have had any direct followers (except for Sheffield in the USA, [@sec:sheffield1912]), his general approach seems to have influenced Bloomfield ([@sec:bloomfield1933]) and via Bloomfield it has influenced the tradition of *immediate constituents* in the USA, directly leading to Chomsky's generative grammar in the 1960. Specifically the idea of an exclusively binary subdivisions of sentences, a major tenet of Chomsky's approach, is probably directly attributable to Wundt (apparently without Chomsky knowing about this).
-
-### Götzinger (1880) *Deutsche Grammatik in genetischer Darstelllung* {#sec:götzinger1880}
-
-his father used hierarchical brackets at some points, e.g. [@gotzinger1839: 383]
-
-Ernst Götzinger (1837-1896), son of Maximilian Götzinger (see [@sec:götzinger1836]), was a teacher in St. Gallen (Switzerland). He wrote extensively about local history, German literature and he reissued his father's books after his death [more biographical details in @dierauer1897]. He also wrote a grammar, called *Deutsche Grammatik in genetischer Darstelllung* [@gotzinger1880]. Concerning graphical display, Götzinger [-@gotzinger1880: 151] criticised the *Periodenbilder* of Lehmann (see [@sec:lehmann1833]) and proposes an alternative. Intriguingly, he does not mention his father's graphical approach, which is highly similar to the proposals by Lehmann.
-
-Götzinger proposes a very simple model for sentence analysis, consisting only of a plus symbol and hierarchically ordered brackets [@gotzinger1880: 155-156]. He uses the term *algebraische Gleichungen* 'algebraic formulae' for his approach. Although the method is described very clearly in words, as quoted below, Götzinger does not give any examples of how his grammatical algebra works in practice for more complex sentences. A few concrete examples of Götzinger's approach are given much later by Dinkel (see [@sec:dinkel1895]).
-
-> Will man das Satzgefüge in schematischen Bildern darstellen, so wird man sich besser der Methode der algebraischen Gleichungen bedienen. Angenommen, S heiße Subject, SS Subjectsubstantiv, P Prädicat, PV Prädicatverb, so ist die Formel jedes Satzes: S+P oder SS+PV. Beide Satzglieder lassen sich nun erweitern; ist das Subject-substantiv durch ein Adjectiv (a) oder durch eine Apposition (A) oder durch einen Genitiv (G) oder durch einen indirecten Casus (IC) erweitert, so würden die Formeln entstehen: (a+SS)+PV; (SS+A)+PV; (SS+G)+PV oder (G+SS)+PV; (SS+IC)+PV. Wäre das Prädicatsverb durch einen Accusativ (Acc.) oder Genitiv (Gen.) oder Dativ (D) oder einen indirecten Casus (IC) oder durch ein Adverb erweitert, so würde sich der Buchstabe dafür mit PV zusammenklammern lassen müssen, z.B. SS+(PV+Gen). Jede neue Erweiterung beiordnender oder unterordnender Natur ließe sich dergestalt in die Grundgleichung einfügen, ebenso jeder Nebensatz, der entweder dem Subject oder dem Prädicat angehört; das wesentlichste Mittel dieser Satztypen ist immer die Klammer, vermittelst welcher die zu einer begrifflichen Einheit zusammentretenden Einzelglieder aneinandergefügt werden. [@gotzinger1880: 156]
->
-> ('When one wants to display the sentence structure in a schematic image, then it is to be preferred to use the method of algebraic equations. Suppose S is called subject, SS subjective substantive, P predicate, PV predicative verb, then the formula for each sentence is: S+P or SS+PV. Both these constituents can be expanded; when the subjective substantive is expanded with an adjective (a) or with an apposition (A) or with a genitive (G) or with an indirect case (IC), then the following formulae would arise: (a+SS)+PV; (SS+A)+PV; (SS+G)+PV or (G+SS)+PV; (SS+IC)+PV. When the predicative verb is expanded with an accusative (Acc.) or a genitive (Gen.) or dative (D) or an indirect case (IC) or with an adverb, than the letter for this expansion would be encapsulated together with the PV, e.g. SS+(PV+Gen). Likewise, each new expansion of a coordinating or subordinating nature can be inserted into the basic formula, and likewise each subordinate clause, which belong either to the subject or the predicate. The crucial method for these [more complex, MC] sentence types is the bracket, by which the elements, which are to be assembled into a conceptual unit, are joined together.')
-
-### Dinkel (1895) *Zum Umsturz der Vulgärgrammatik* {#sec:dinkel1895}
-
-Georg Dinkel (dates unknown) from Nürnberg wrote a small article in the *Bayerische Lehrerzeitung* about his *Plan einer einfachen Grammatik des Deutschen auf historischer Grundlage* 'plan for a simple German grammar on a historical basis' [@dinkel1895]. In this article he proposes a *Satzbild* that is based on the proposals from Ernst Götzinger (see [@sec:götzinger1880]), who is explicitly cited by Dinkel. Götzinger himself did not give any concrete examples of his approach, so the few examples in Dinkel's article are the only available examples of this kind of analysis. Of particular interest is the principle to use nested brackets to indicate hierarchical structure. For example, the sentence in [@next] is analysed with the *Satzbild* in [@fig:dinkel1895_634] 
-
-::: ex
-[Ew]{.grey} Ein munterer Sennbub [3.]{.grey} aus einem Dorfe [3.]{.grey} in der Schweiz [P]{.grey} stieg [2.]{.grey} eines Tages [3.]{.grey} auf einem steilen Gebirgspfade [4.]{.grey} ins Thal herab.
-:::
-
-::: {.im #dinkel1895_634}
-*Satzbild* for the example sentenence in [@last] from Dinkel [-@dinkel1895: 634]. The numbers indicate cases (2=genitive, 3=dative, 4=accusative), ignoring the fact that the cases are governed by prepositions. Of particular interest is the use of nested brackets to indicate hierarchical structure.
-:::
-
-### Stöhr (1898) *Algebra der Grammatik* {#sec:stöhr1898}
-
-- Also note very simple diagrams in [@stohr1889: 199, 201]
-- cites jevons, who did some grammatical analysis in (1870). Stöhr might not have seen those examples specifically
-- discussion in short article [@luschutzky2017]
-
-Adolf Stöhr (1855–1921) was professor for philosophy in Vienna [biographical details in @angetter2009]. He wrote a rather curious book called *Algebra der Grammatik* [@stohr1898], which was assessed as "rather fantastic" by Jespersen [-@jespersen1937: 83]. Although idiosyncratic, Stöhr's book is not as crazy as Jespersen makes it sound. Stöhr assigns codes to linguistic elements, which are subsequently combined into larger expressions. However, his primary goal does not appear to be any detailed description of linguistics structures, but rather an attempt to try and "calculate" with these larger expressions, somewhat akin to what today would be called deriving semantic inferences. Stöhr cites the logical work of George Boole as an inspiration for his approach.
-
-Stöhr [-@stohr1898: 6-11] differentiates between elements *a* (=*Ausdruck*, today we would say "lexical morpheme") and *d* (=*Derivation*, today we would say "grammatical morpheme"). Different morphemes are distinguished by a numeric identifier that is written above the letter. Stöhr goes into great detail for the grammatical morphemes, defining many different kinds of *d* elements. Although he explicitly states not to pursue completeness [*nicht ein erschöpfendes Verzeichnis*, @stohr1898: 15], I have counted more than 200 different defined codes in his book, classified into 15 different classes indicated by different letters.^[Just scrolling through his book, I found 46 different grammatical elements designated as *i*, 47 elements called *m*, 62 times *o*, 6 times *v*, 9 times *t*, 5 times *e*, 2 times *p*, 3 times *n*, 4 times *b*, 2 times *h*, 4 times *l*, 4 times *f*, 11 times *q*, 2 times *g* and 2 times *s*. It is beyond the scope of this book to go into more detail here.]
-
-Elements can be combined by writing them side-by-side, called *Ableitung*, which is typically used for examples of composition and derivation (in modern terminology). This *Ableitung* is opposed to *Apposition* [@stohr1898: 51ff.] for syntactic combination, written with a star-symbol in between the elements. Stöhr notes that such *Apposition* is hierarchically organised and he proposes to use brackets to indicate this hierarchy. He exemplifies this with the example [@next] as graphically represented in [@fig:stöhr1898_87].
-
-> Das geeignetste Zeichen für die Apposition eines selbst wiederum
-durch Apposition gebildeten Ausdruckes zu anderen Ausdrücken, dürften zwei Klammern sein, zwischen welche man den zusammengesetzten Ausdruck schreibt. [@stohr1898: 87]
->
-> ('The most suitable sign for the *Apposition* of an expression, which itself is formed by *Apposition* to other expressions, is probably two brackets, between which the compound expression is written.')
-
-::: ex
-[a^1^]{.grey} ein [a^2^]{.grey} Mann, [o^6^]{.grey} in [a^1^]{.grey} einem [a^3^]{.grey} langen [a^4^]{.grey} Mantel, [o^4^]{.grey} mit [l^4^]{.grey} dem [a^5^]{.grey} Hut [o^44^]{.grey} auf [l^4^]{.grey} dem [a^6^]{.grey} Kopfe
-:::
-
-::: {.im #stöhr1898_87}
-Complex *Apposition* with hierarchically ordered brackets for the noun phrase in [@last] as proposed by Stöhr [-@stohr1898: 87]. The individual letters stand for linguistic expressions, *a* for lexical material and other letters for various grammatical elements. Although Stöhr claims some general "univeral" nature for the grammatical elements, they corresponds one-to-one to German words.
-:::
-
-### Drach (1937) *Grundgedanken der deutschen Satzlehre* {#sec:drach1937}
-
-Erich Drach (1885-1935) was a professor for speech science in Berlin [some basic biographical information is available in @winkler1959]. His posthumously published book *Grundgedanken der deutschen Satzlehre* [@drach1937] is regularly cited as the foundation of the contemporary *Felderanalyse* as used widely in German syntax. However, while Drach indeed uses the term *Feld* 'field', his templatic analysis of the German clause is far from original nor innovative (see [@fig:drach1937_18]). First, the idea to name positions in relation to the verb-position in a German sentence (*Vorfeld, Nachfeld*) was already used by Lehmann in 1833 (see [@sec:lehmann1833]). Further, Drach does not distinguish between what today would be called a *Mittelfeld* and a *Nachfeld* and simply collapses everything in one position called *Nachfeld*. Additionally, Drach's analysis omits the crucial idea of a fixed position for non-finite part of the verbal complex, which today is often referred to as a *rechte Satzklammer*. This structural position was, for example, already identified by Lonkay in 1855 (see [@sec:lonkay1855]). Drach instead talks about the end of his *Nachfeld* as the *Zielpol* 'goal pole', but this is not a syntactic position in Drach's analysis. The *Zielpol* is simply the focus of the sentence, which could just as well be an object or an adverb.
-
-::: {.im #drach1937_18}
-*Grundplan* of the German sentence according to Drach [-@drach1937: 18]. Although Drach is often mentioned as the founder of the German *Felderanalyse*, his templatic structure was much simpler as the contemporary analysis. Specifically, Drach does not specify a *rechte Satzklammer* and his term *Nachfeld* corresponds roughly to what today would be called *Mittelfeld* combined with the *rechte Satzklammer*.
-:::
-
-Not widely discussed, but much more interesting, is Drach's discussion of *Umklammerung* 'bracketing'. He argues that one of the major challanges for stilistically well-build sentences in German is the syntactic tendency to insert constituents inside other constituents (rephrasing Drach's approach in contemporary terminology here). This leads to bracketing because related parts of the utterance are separated by internal subordination. Such internal subordination is used very frequently in German and can lead to *unmögliches Deutsch* 'impossible German' [@drach1937: 46]. With this slightly ironic formulation Drach does not argue that the resulting structures are syntactically ill-formed, but that they are stylistically problematic.
-
-Drach uses different kinds of brackets to depict the levels of subordination, as illustrated in [@next] reproduced from Drach [-@drach1937: 46, similar examples on page 39 and 49]. The brackets clearly enclose parts that today would be called a constituent. The only difference to a modern constituency analysis is that Drach does not label these constituents. Other than that, Drach's *Umklammerung* is completely analogous to a constituent tree, as shown in [@fig:drach1937_46_tree]. It remains unclear what inspiration drew Drach to use hierachically ordered brackets. It does not seem to occur in any of his other writings
-
-::: ex
-Er { ging, [ ohne ( auf die < sich bei ihr wiederholenden > Klagen ) einzugehen ] aus dem Zimmer }.
-:::
-
-::: {.tree #drach1937_46_tree}
-Constituency tree-visualisation of the bracketed sentence structure [@last] from Drach [-@drach1937: 46]. The bracketed structure is clearly a constituent structure, although Drach does not use any labels for the constituents. In lieu of labels I have used the brackets itself in this graphical representation.
-:::
-
-### Weisgerber (1950) *Vom Weltbild der deutschen Sprache* {#sec:weisgerber1950}
-
-Johann *Leo* Weisgerber (1899-1985) was a professor for comparative linguistics in Rostock, Marburg and Bonn. An extensive discussion of his life and work is provided by Roth [-@Roth2004]. In his syntactic analyses, Weisgerber was strongly influenced by the posthumously published work of Drach (see [@sec:drach1937]). Already in *Die volkhaften Kräfte der Muttersprache* [@weisgerber1939] he cites Drach's *Grundplan* 'outline' (see [@fig:drach1937_18]) and he re-iterates the importance of Drach's notion of *Umklammerung* 'bracketing' for the syntactic stucture of German [@weisgerber1939: 54-58]. After the war, Weisgerber published his 4-volume *opus magnum*, called *Von den Kräften der deutschen Sprache*, in which he again discusses the proposals from Drach in volume 3: *Die Muttersprache im Aufbau unserer Kultur* [@weisgerber1950: *Grundplan* 120-121, *Umklammerung* 188-193]. In this discussion Weisgerber includes various different visualisation for the hierarchical structure of the *Umklammerung*. 
-
-The first visualisation is used for the example [@next a], which Weisgerber already used in his earlier work [@weisgerber1939: 58]. However, he now adds the hierarchical visualisation as shown here in [@fig:weisgerber1950_191a]. This sentence is an example of a single hierarchical bracketing, but Weisgerber notes that it is perfectly possible, though slightly cumbersome, to have multiple such complex brackets in a single sentence. As an example he uses the sentence [@next b], visualised as [@fig:weisgerber1950_191b]. This analysis uses Drach's *Grundplan* (consisting of *Vorfeld-Mitte-Nachfeld*), but in a rather different way from all other examples from both Drach and Weisgerber. Normally only the verb *fand* 'found' would be placed in the middle, the rest would be placed in the *Nachfeld*. Also note that the predicative bracket *fand…statt* from the verb *stattfinden* 'to take place' is not considered as a bracket. This kind of "particle-verb" bracket is very common in German, and Weisgerber includes such structures as a bracket in the other examples shown here [@next a,c]. For the more complex example in [@next b] he is clearly stimified by Drach's simplistic *Grundplan*, which does not include a separate position for the verb particle. Such a position is commonly added in contemporary analyses of German (e.g. as a *rechte Satzklammer*). Finally, Weisgerber presents yet another example of a single hierarchically complex bracketing in [@next c] with a visually pleasing diagram as shown in [@fig:weisgerber1950_193]. In this illustration he tries to emphasize the ordering and the hierarchichal depth of the bracketing.
-
-In the second, much expanded, edition of this work, Weisgerber repeats the same illustrations [@weisgerber1954: 190-192]. Furthermore, he adds another approach for the visualisation of hierarchical structure by using a "chinese boxes" diagram with hierarchically enclosed rectangles [@weisgerber1954: 252]. However, this illustration is copied verbatim from the work of his student Gipper (see [@sec:gipper1950]) and will be discussed there.
-
-::: ex
-- Sie zogen [ in die [ reich [ mit [ bunten ] Fahnen ] geschmückte ] Stadt ] ein.
-- [Vorfeld]{.grey} Am [ dem [ seiner [ unerwarteten ] Rückkehr ] folgenden ] Abend [Mitte]{.grey} fand [ in dem [ lange [ von seinen [ rechtmäßigen ] Bewohnern ] verlassenen ] Schloß ] [Nachfeld]{.grey} ein [ mit [ aller [ aus [ früheren ] Zeiten ] gewohnten ] Pracht gefeiertes ] Fest statt.
-- Sie kamen [ mit [ einer [ infolge der [ plötzlichen [ in der [ vorangegan‍genen ] Nacht ] eingebrochenen ] Kälte ] ungewöhnlich großen ] Verspätung ] an.
-:::
-
-::: {.im #weisgerber1950_191a}
-Visualisation of the hierarchical structure of [@last a] from Weisgerber [-@weisgerber1950: 191]. This example was already used by Weisgerber in earlier work, but without visualisation [@weisgerber1939: 58]. The method of using brackets here is completely isomorphic to contemporary post-Chomsky constituency analyses.
-:::
-
-::: {.im #weisgerber1950_191b}
-Visualisation of the hierarchical structure of [@last b] from Weisgerber [-@weisgerber1950: 191]. This example is added to show that a sentence can have multiple hierarchical brackets. Curiously, Weisgerber ignores the verb+particle bracket *fand…statt*. Similar structures are implicitly analysed as a bracket in the other visualisations of Weisgerber. In this example, Weisgerber is probably confused by the simplistic *Grundplan* from Drach (see [@fig:drach1937_18]) which does not include a position for the sentence-final particle ("*rechte Satzklammer*").
-:::
-
-::: {.im #weisgerber1950_193}
-Visualisation of the hierarchical structure of [@last c] from Weisgerber [-@weisgerber1950: 193]. This is basically the same approach as shown in the earlier illustrations, but with an extra indication of the word order (by arrows) and the depth (by numbers) of the embeddings.
-:::
-
-### Gipper (1950) *Sprachliche und geistige Metamorphosen* {#sec:gipper1950}
-
-Helmut Gipper (1919-2005) was a professor for general linguistics in Münster and a student of Weisgerber (see [@sec:weisgerber1950]).^[The best biographical summary for Gipper that I could find is on the German Wikipedia at <https://de.wikipedia.org/wiki/Helmut_Gipper>.] He finished his dissertation *Sprachliche und geistige Metamorphosen bei Gedicht-Übersetzungen* in 1950, but it was only published in 1966 in *einen fast unveränderten Druck* 'an almost unchanged edition' [@gipper1966: 8]. In the preparation of his dissertation, Gipper had access to a pre-print version of Weisgerber's [-@weisgerber1950] *Von den Kräften der deutschen Sprache* and he cites Weisgerber's example [@last a] as an example of hierarchical embedding. 
-
-Gipper develops his own visualisation using a "Chinese boxes" approach to show the hierarchical structure *in einer besonders anschaulichen Form* 'in a particularly vivid manner' [@gipper1966: 118]. As shown in [@fig:gipper1966_119], he compares the central embedding of German with the right-modifying structure of the French translation. This visualisation is quoted verbatim by Weisgerber in the second edition of *Von den Kräften der deutschen Sprache* [@weisgerber1954: 252]. Gipper does not cite Pike (see [@sec:pike1943]), Diderichsen (see [@sec:diderichsen1947]) or Mikuš (see [@sec:mikuš1947]), who also use this visualisation in the same period in which Gipper wrote his dissertation. Apparently, this visual idea became *en vogue* in the 1940s.
-
-::: {.im #gipper1966_119}
-Chinese boxes visualisation for the sentence [@last a] by Gipper [-@gipper1966: 119]. This example is cited from Weisgerber, who uses another visualisation (see [@fig:weisgerber1950_191a]). Exactly this visualisation is later quoted verbatim in the second edition of Weisgerber's book. During the 1940s various other, apparently independent, example of this visualisations are found in the linguistic literatur.
-:::
-
-### Glinz (1952) *Die innere Form des Deutschen* {#sec:glinz1952}
-
-Hanz Glinz (1913-2008) was professor for German philology in Aachen. A biographical summary and an in-depth discussion of his work is provided by Zlobinska-Görtz [-@zlobinska-gortz2018]. His *Habilitationsschrift* was accepted in Zürich in 1948 and published as *Die innere Form des Deutschen. Eine neue deutsche Grammatik* [@glinz1952]. This book was widely discussed in Germany and is generally considered to be an early example of a structuralist grammar for German. Glinz consistently uses *Proben*, i.e. syntactic constituency tests, to analyse the grammatical structure of German.
-
-Glinz' book contains two large examples in which he uses a literary text to illustrate graphically how his analysis works in practice. The first example uses a paragraph from Goethe's *Wilhelm Meisters theatralische Sendung* and a paragraph from Heinrich Keller's *Der grüne Heinrich* [@glinz1952: 71-72]. The full analysis takes up ten whole pages [@glinz1952: 316-325]. The last sentence from this exemplary analysis [@next] is reproduced here in [@fig:glinz1952_325]. This visualisation places the words from top to bottom with thick black indicators for the verbal elements of the sentence. Glinz very clearly includes both the "finite" second position (*Leitglied*) and the sentence-final "infinite" position (*Nennglied*) in his analysis of the German sentence. The arrows indicate the governer of the case assignment. In the complex noun phrases the horizontal lines indicate the hierarchical structure. Subordinate clauses (not shown in the figure here) are not visually distinguished in this large example.
-
-::: ex
-und die kühle erfrischende Luft atmend schlief ich sozusagen an der Brust der gewaltigen Natur ein. [@glinz1952: 325, citing Heinrich Keller]
-:::
-
-::: {.im #glinz1952_325}
-Analysis of [@last] from Glinz [-@glinz1952: 325], citing an example from Heinrich Keller. The words of the sentence are placed vertically with the verbal elements highlighed on the vertical line. Case-assignment is indicated by arrows pointing to the governing element. Within the complex noun phrases the horizontal lines indicate the hierarchical structure.
-:::
-
-Glinz' second large example is introduced as a massive 10-page fold-out sheet inserted between pages 472 and 473. For this exemplary analysis Glinz uses a paragraph from a letter from Goethe, sent on the 12th of november 1779 and published in the collection *Briefen aus der Schweiz*. The graphical analysis of the first sentence of this letter [@next b] is shown here in [@fig:glinz1952_472]. The linked high-resolution image shows a panorama of the complete fold-out sheet. In this visualisation the words are ordered horizontally and there are lines added on top of the whole example. These lines indicates the depth of clausal embedding: deeper embedding is indicated by lines that are higher positioned.
-
-::: ex
-Es war ein seltsamer Anblick, wenn man einen Moment seine Aufmerksamkeit vom Wege ab und auf sich selbst und die Gesellschaft wendet. [@glinz1952: 472, citing Goethe]
-:::
-
-::: {.im #glinz1952_472}
-Analysis of [@last b] from Glinz [-@glinz1952: 472], citing an example sentence from Goethe. This analysis is basically the same as the one shown in [@fig:glinz1952_325], but ordered horizontally. The additional lines on top indicate the depth of the clausal embedding, with higher lines indicating deeper embedding. The linked high-resolution image shows a panoramic overview of the whole 10-page fold-out sheet.
-:::
-
-Meeting with US americans at International Congres of Linguists in London (52) and Oslo (58), especially Fries is mentioned (Introduction second edition of Innere Form, 1961: 4-5)
-
-Satzkern, Satzrahmen (p.64): Personalform, Infinitform, Verbzusatz (157)
-https://nbn-resolving.org/urn:nbn:de:bsz:mh39-101601
-
-### Erben (1958) *Abriss der deutschen Grammatik* {#sec:erben1958}
-
-[@erben1958: 188] tree, citing Tesniere [@tesniere1953]. Aussagerahmen (p.172), Nachfeld inside! (~ Mittelfeld??) p. 173, vorfeld only for "determiner" position? p. 175
-
-He uses vorfeld/nachfeld both for nouns and verbs. The term *Mittelfeld* is introduced on p82 "einem satzschließenden 'Prädikatsteil’, der zusammen mit dem Verb ein 'Mittelfeld’ umspannt"
-
-in the 1964 edition he adds a quib about the underwhelming results of the american constituent analys:
-
-"Die von einigen amerikanischen Linguisten propagierte 'Konstituenten-analyse' kommt — in den bisherigen Ergebnissen — kaum über die herkömmliche Satzgliederung hinaus" [@erben1964: 266]
-
-### Griesbach & Schulz (1960) *Grammatik der deutschen Sprache*
-
-Dora Schulz (1906-1974) in 1951 was a founding members of the *Goethe-Insitut*, a German nonprofit organisation that promotes knowledge and study of the German language internationally. Heinz Griesbach (1918-2008) joined the institute in 1953 as a teacher and later became the head of the institute's first teaching centre in Bad Reichenhall until his retirement in 1970. Because they were not satisfied with available German teaching materials for non-native speakers, Schulz and Griesbach developed their own textbooks on the basis of their practical experience, including a *Grammatik der deutschen Sprache* [@griesbach1960]. A first-hand personal account of the early years of didactic work at the Goethe-Institut in the 1950s is provided by Griesbach [-@griesbach2001].
-
-Griesbach & Schulz [-@griesbach1960: v] cite Glinz (see [@sec:glinz1952]) and Erben (see [@sec:erben1958]) as influences, but their approach to syntax in the *Grammatik der deutschen Sprache* is quite innovative and much clearer in presentation than that of their predecessors. They define a *Satzfeld* (today referred to as *Mittelfeld*), delimited by a *Satzrahmen* (today referred to as *Verbalklammer*), i.e. the two possible positions for parts of the predicate. In front of the *Satzfeld* there is a *Vorfeld* and after it there is a *Nachfeld* [@griesbach1960: 294-301]. The *Satzrahmen* is graphically displayed by two black quarter circles, as shown in [@fig:griesbach1960_295]. Although this templatic approach to the structure of the German sentence has a long history, this is the first clear and simple statement of what today is known as the *topologische Feldermodell* for the German sentence.
-
-::: {.im #griesbach1960_295}
-The German *Satzrahmen* delimiting the *Satzfeld*, as depicted by Griesbach & Schulz [-@griesbach1960: 295]. In front of the *Satzrahmen* there is a position called *Vorfeld* and after it there is a *Nachfeld*. This is the first succinct visual presentation of a templatic sentence model for the German language, which is still used today, known as the *Feldermodell*. The only difference is that the *Satzfeld* is nowadays called *Mittelfeld*.
-:::
-
-Griesbach & Schulz [-@griesbach1960: 370-371] take this approach even further and apply it to the analysis of multiple-embedded sentence constructions, as shown in [@fig:griesbach1960_371] for the example sentence [@next]. They call such an illustration a *Satzbild*, which indicates that they were aware of this tradition of syntactic analysis. In their *Satzbild*, each clause is depicted with a *Satzrahmen* consisting of two black quarter circles and all sentence consitituents are squares (for arguments) or triangles (for adjuncts). Different from all *Satzbilder* in the German tradition, subordinate clauses are here positioned vertically above the main clause. Each subordinate clause has itself a function in its matrix clause.
-
-- Squares are used to indicate verbal arguments, with a letter indicating the case: *N=Nominativ, A=Akkusativ, D=Dativ*.
-- Triangles are used for adjuncts, with the letters *T* being used for temporal and *M* for modal adjuncts.
-- Subjunctions and complementizers are indicated by white arrows in the leftmost black quarter-circle. Conjunctions are marked as plus-symbols (not shown here). They do not include any example of relative clauses in their graphical examples.
-
-In a later revision of the grammar [@griesbach1970: 417], the geometric objects are removed and subordination is depicted downwards, as shown in [@fig:griesbach1970_417]. This graphical approach is more in line with the new Chomskyan "style" of syntactic trees, which is explicitly acknowledged in the introduction [@griesbach1970: xiv].
-
-::: ex
-Wenn du mir versprichst, daß du mir das Geld wiedergibst, sobald dir dein Vater den Scheck geschickt hat, kann ich dir die 100 Mark geben, obwohl ich noch mindestens zwei Wochen warten muß, bis ich mein nächstes Gehalt bekomme.
-:::
-
-::: {.im #griesbach1960_371}
-*Satzbild* of the multiple embedded sentence [@last] from Griesbach & Schulz [-@griesbach1960: 371]. Embedded clauses are positioned upwards and each clause has its own *Satzrahmen* as indicated by the black quarter circles. Squares are used for arguments and triangles for adjuncts, with letters indicating the kind of consituent. Embedded clauses themselves have a function in their matrix clause, making this a clear example of a constituency structure.
-:::
-
-::: {.im #griesbach1970_417}
-Updated *Satzbild* of the same sentence as shown in [@fig:griesbach1960_371] from the 8th edition of Griesbach & Schulz [-@griesbach1970: 417]. Embedded sentences are now placed downward. The geometrical object are removed and replaced by more cryptic letter combinations. This "style" of syntactic analysis is more in-line with the Chomskyan approach, which has become fashionable at this point in time.
-:::
-
-### Esser (1961) *Grammatische und psychologische Kategorien in der deutschen Satzanalyse*
-
-Very close to Drach [@esser1961]
-
-### Engel (1970) *Regeln zur Wortstellung*
-
-https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/595/file/Engel_Regeln_zur_Wortstellung_1970.pdf
-
-- "Stellungsfelder" p.39, cites Erben
-- Feldertheorie graphisch? using numbers: p. 42-43
-- nominal template p. 110
-
-https://d-nb.info/112594563X/34
-http://nbn-resolving.de/urn:nbn:de:bsz:mh39-5959
-
-### Fourquet (1970) *Prolegomena zu einer deutschen Grammatik*
-
-https://ids-pub.bsz-bw.de/frontdoor/index/index/docId/1194
-
-### Reis (1980) *On Justifying Topological Frames* {#sec:reis1980}
-
-https://www.persee.fr/doc/drlav_0754-9296_1980_num_22_1_957
-
-thanks Höhle in first footnote, and cites his manuscript from 1976 "Die Stellungsfelder des Verbalsatzes"
-
-mostly uses term "positional field", which seems direct translation of "Stellungsfeld" from Erben > Engel > Höhle.
-
-sentence template p. 63-64
-
-Word "Topologie" used by Bech, chapter called "Zur typologie der verbalfelder" [@bech1955: 60]
-
-word "Topik/topisch" has a long tradition [@roth1799;[@herling1821;@pollaschek1902;@diderichsen1943] *topiske* in Danish in [@diderichsen1941: 10-14].
-
-Word "topologie" already used by Bierwisch (1961: 259, 261, 267) https://doi.org/10.1524/stuf.1961.14.14.244 However, he uses the term without introduction, so it seems to have been common usage already before him.
-
-word "topologie" already used by Walter Flämig in 1971: https://doi.org/10.1515/9783111350851-008, also chapter 4 in https://doi.org/10.1515/9783112642702 (1981)
-
-Höhle first uses word in print in 1979 [@hohle1979: 387]
-
-"Topologische Felder", manuscript from 1983 that circulated in the field, Höhle cites Herling and Becker [@hohle2019: 11, 38]
-
-"Die Lehre von den topologischen Feldern besteht – nicht unter diesem Namen, aber in ihren wesentlichen Inhalten – seit mindestens 100 Jahren in gereifter Form." p.11
 
 ## More recent didactic approaches
 
@@ -2395,10 +2046,9 @@ The 1956 Book has seen reprints and revisions at least until a 10th edition from
 
 [@kessler1957: 52]
 
-
 ### Grosse (1960) *Die deutsche Satzperiode*
 
-[@grosse1960] indented subordinates clauses
+[@grosse1960] indented subordinates clauses, cites Menge in first footnote
 [@grosse1966] many modern approaches
 
 ### Rychener (1960) *Freude an Grammatik*

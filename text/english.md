@@ -13,7 +13,7 @@ black board proposed in school class in 1832: 22 https://www.loc.gov/item/e14001
 
 "syntactic parsing" in Bullions (1849:197) https://www.loc.gov/item/06019122 or (1846: 125) https://www.loc.gov/item/tmp96027743/ or (1845: 131ff.) https://www.loc.gov/item/40023554/
 
-## German-style syntax in Great Brittain
+## German-style syntax in Britain
 
 - General overview: Michael in [@leitner1991]
 - Grammars in 18th Century: [@tieken2008] does not give much of interest for the current book
@@ -26,35 +26,6 @@ society of arts does not include English grammar in their assesment of 1863 [@so
 example from college of preceptors [@preceptors1882;@preceptors1889]
 
 examples from Oxford, Cambridge and COF [@bidlake1884], answers by Bidlake: [@bidlake1887]
-
-### Doherty (1841) *An introduction to English grammar*
-
-Hugh Doherty (???-1891) was an active proponent of Fourierism, a form of utopian socialism [@pankhurst1956: 400-408; @jenkins2003]. I have not been able to find more details about his life. In the 1840s, in the midst of the most active period of this movement, he managed to also publish a grammar [@doherty1841]. Later in life he publishes on diverse subjects like the *Philosophy of History and Social Evolution* and *Organic Philosophy*.^[Available online at <https://books.google.de/books?vid=Harvard:32044088061064> and <https://books.google.de/books?vid=Harvard:HXCXTR>, accessed 19 May 2026.]
-
-In his grammar, he proposes a visual analysis of complex sentences using an "imitation of a tree" [@doherty1841: 133-134], as shown in [@fig:doherty1841_134] for the example in [@next]. He distinguishes between the primary elements (in capitals in the example, and horizontally placed in the graphic) and the auxiliary functions (depicted as diagonal branches).
-
-> To have a complete idea of the various modes of grouping the *primary* and the *auxiliary functions* together in a very complex or ambiguous sentence, we have only to write the sentence in the form of a tree, in which the primary functions form the trunk and the auxiliary functions the branches [@doherty1841: 133]
-
-::: ex
-When the air is mild, WE sometimes, in the course of our evening walks, MEET ON the new PARADE your beautiful sister HELLEN, who is so much admired by every one for her modesty; AND sometimes WE CONVERSE WITH-HER.
-:::
-
-::: {.im #doherty1841_134}
-Structure of a complex sentence [@last] *in the form of a tree* from Doherty [-@doherty1841: 134]. The main sentence is the horizontal "trunk", while the auxiliary words and phrases are depicted as diagonal "branches".
-:::
-
-In an appendix at the end of the grammar ["to excite the curiosity of the student", @doherty1841: 209], he discusses the intricate order of words that can occur in Latin. Using a quotation for Horace [@next], he argues that this sentence has a bracketed structure, which he explains symbolically as shown in [@fig:doherty1841_235]. His analysis suggests a reading of this sentence as given in the translation in [@next].
-
-::: ex
-| Latin [Horatius, Epistles 1:15, cited in @doherty1841: 235]
-| dicta-que cessantem nervis elidere morbum sulfura 
-| chant‑AND linger.PART nerve.ABL.PL remove.INF disease.ACC sulfur.NOM
-| Chants and sulfur eliminate from the nerves the lingering disease
-:::
-
-::: {.im #doherty1841_235}
-Hierarchical brackets to explain the structure of the Latin example from Horace [@last] by Doherty [-@doherty1841: 235]. His brackets suggest an interpretation of this sentence as given in the translation in [@last].
-:::
 
 ### James (1847) *The elements of grammar*
 
@@ -1153,6 +1124,10 @@ Check Nietz (1961) https://digital.library.pitt.edu/islandora/object/pitt%3A00ae
 
 Stephen W. Clark (1810-1901) was a school principal of East Bloomfield Academy and wrote the influential book *The science of the English language. A practical grammar: in which words, phrases, and sentences are classified according to their offices, and their various relations to one another. Illustrated by a complete system of diagrams.* [@clark1847] He produced revisions of this book and wrote variants for different readers up to the 1870s [e.g @clark1870, see [@mazziotta2016: 303-305 for the little that is known about Clark]. A detailed investigation of the work of Clark is available in Mazziotta [-@mazziotta2016; -@mazziotta2020a; -@mazziotta2020].
 
+later at Cortland Academy in Homer, NY
+
+https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Clark%2C%20S%2E%20W%2E%20%28Stephen%20Watkins%29%2C%201810%2D1901
+
 It remains unclear whether Clark has had any sources of inspiration for his graphical display. In the preface he writes that he has been testing his method at least since 1840. The "chains" of Pierce (1839) or Barrett (1842). Peirce (Rome), Barrett (Madrid) and Clark (Bloomfield) all lived in upstate New York around Lake Ontario.
 
 > for the convenience of teachers a manuscript grammar was prepared, which embodied the principles of the science and the Author's mode of presenting it. These principles and this method have been properly tested by numerous and advanced classes during the seven years last past. [@clark1847: iii]
@@ -1171,9 +1146,9 @@ Check John A. Nietz: Old textbooks: Spelling, grammar, reading, arithmetic, geog
 
 ### Gengembre & Brown (1855) *Elements of English grammar*
 
-Philip Gengembre, later around 1890 renamed himself Hubert (1830-1911). Nothing can be found about J. (John?) H. Brown. biography Gengembre in [@price1914]
+Philip Gengembre, later around 1890 renamed himself Hubert (1830-1911). Nothing can be found about John H. Brown (Principal of the zane street grammar schools: p.20 of https://upload.wikimedia.org/wikipedia/commons/8/8f/Annual_report_of_the_Controllers_of_the_Public_Schools_of_the_city_and_county_of_Philadelphia_%28IA_annualreportofco00unse_4%29.pdf).
 
-Born in Paris, 1853 Girard College in Philadelphia teaching French and history, 1859 Boston teacher of French, apparently even asked for Professor at Harvard, which he declined. 1865 New York starting as an architect.
+biography Gengembre in [@price1914] Born in Paris, 1853 Girard College in Philadelphia teaching French and history, 1859 Boston teacher of French, apparently even asked for Professor at Harvard, which he declined. 1865 New York starting as an architect.
 
 https://en.wikipedia.org/wiki/Philip_Gengembre_Hubert
 
@@ -1208,7 +1183,9 @@ complete grammar in 1873, same diagrams [@holbrook1873: 145-151] title "diagramm
 
 ### Chandler (1861) *A class book on English grammar and analysis*
 
-1860 [@chandler1860] version has no diagrams, added in revised edition 1861 [@chandler1861]
+Z.M. Chandler https://www.hmdb.org/m.asp?m=5624 book published in Zanesville, Ohio
+
+1860 [@chandler1860] version has no diagrams, added in revised edition 1861 [@chandler1861: 151-160]
 
 "models for black board exercises" (p151-160) very clear inspiration for later Reed/Kellog (Reed/Kellog say in introduction that their system arose in 1868, so clearly later than chandler)
 
@@ -1616,220 +1593,6 @@ already escaped [at least] to this extent a plague so dire, so fearful, and so
 harmful to the body politic".
 
 Later "flow charts", introduced in [@hall1964: 206-207], much further developed in *Essentials of English phrase- and clause structures* [@hall1969]
-
-## Immediate constituents
-
-### Sheffield (1912) *Grammar and thinking* {#sec:sheffield1912}
-
-Alfred Dwight Sheffield (1871-1961) [@sheffield1912: 50-51] Grammar and Thinking (citing Wundt prominently) Brittain (1973:204) says “linguists seem to have been unaware of his work”. This is not true!
-
-Bio in [@subbiondo2025] Professor at Wellesley College, Massachusetts,
-
-also [@sheffield1929: 53]
-
-- Nida cites him in 1943 dissertation
-- Jespersen cites him in 1913 Sprogets Logic
-- review by Bloomfield, quite critical [@bloomfield1912]
-
-### Sapir (1921) *Language* {#sec:sapir1921}
-
-morphology-formula [@sapir1921]
-
-::: {.im #mikus1953_20}
-Chinese boxes diagram from Mikuš [-@mikus1953: 20]
-:::
-
-::: {.im #seuren1998_187}
-Immediate constituent analysis from Seuren [-@seuren1998: 187]
-:::
-
-### Bloomfield (1933) *Language* {#sec:bloomfield1933}
-
-[@bloomfield1933: 160-161] slowly builds up the terminology, which seems to indicate that the terminology is newly developed for this book. He starts with *constituent (or component)* which is *contained in* or *included in* complex forms. The basic building blocks are morphemes, which cannot be further subdivided, and are called *ultimate constituents*. Then, finally, any intermediate grouping are called *immediate constituents*.
-
-[@bloomfield1914: 60-61], cited in Percival (1976:235) clearly thinks about binary branching. Also note the Wundt-inspired psychological reasoning, also using the term "apperception" (p.60).
-
-Hypothesis that Wundt influenced Bloomfield: [@percival1976: 234-235 gives various detailed arguments], but again no pictures. The basic assumption of binary analysis pervasive in US-american 20th century analyses can probably be tracked back to Wundt.
-
-Historical survey of Bloomfield and post-Bloomfieldians: [@matthews1993]
-
-Use of vertical bars for separation appears old, e.g. Alexander Crombie https://en.wikipedia.org/wiki/Alexander_Crombie, originally 1802, cited here from the second edition [@crombie1809: 234]:
-
-> Complex sentences are divided into members; and these, if complex, are subdivided into clauses, as, "The ox knoweth his owner | and the ass his master's crib || but Israel doth not know | my people doth not consider." This complex sentence has two members, each of which contains two clauses.
-
-- first edition 1802
-- second edition 1809/1810
-- third edition 1830:226 https://google.com/books?id=uP0RAAAAIAAJ
-- fourth edition (1836:176) https://www.loc.gov/item/43047733/ 
-- fifth edition (1843:162) https://google.com/books?id=Tx1AAAAAYAAJ
-- seventh edition (1853:162) https://www.loc.gov/item/11008559/
-
-### Ajdukiewicz (1935) *Die syntaktische Konnexität*
-
-[@ajdukiewicz1935; @ajdukiewicz1961]
-
-Der Begriff der syntaktischen Konnexität lässt
-sich aber besonders schön und einfach mit Hilfe der von Prof.
-Stanislaw Leśniewski ausgearbeiteten Lehre von den Bedeu
-tungskategorien fassen. Wir werden uns hier auf die diesbezüglichen
-Resultate von Leśniewski stützen
-
-Wir
-entlehnen von Leśniewski nur die Grundidee der Bedeutungskategorien
-und ihrer Arten 
-
-https://eudml.org/doc/212136 does not contain anything similary to ajdukiewicz analysis
-
-### Pike (1943) *Taxemes and immediate constituents* {#sec:pike1943}
-
-[@pike1943: 70], citing bloomfield: boxes seem explication of Bloomfield's vertical bars
-
-### Bloch (1946) *Studies in colloquial Japanese*
-
-citing Bloomfield https://www.jstor.org/stable/410208 p238ff. System with six different syntactic functions
-
-### Harris (1946) *From morpheme to utterance* {#sec:harris1946}
-
-This system was already introduced in [@harris1946]! Cites Jespersen 1937 on p. 177, also Bloomfield, Pike, Bloch
-
-Also in *Methods in structuralist linguistics* (1951), this book is later called *Structural Linguistics* [@harris1963]
-
-examples of IC: *my most recent plays closed down* (p278-279) analysed as follows, with number of dots representing separation. Reversed bloomfield approach: more dots are "larger" separation
-
-T :: D . A : N² :. -s :.: V¹ . Pb : -ed
-
-Complete rewrite rules (in Chomskian format, harris writes them from right to left). Note the strange early past suffix insertion. but wihtout the notation for a complete sentence
-
-Utterance → N⁴V⁴
-N⁴ → TN³
-N³ → N²-s
-N² → AN²
-A → DA
-V⁴ → V²-ed
-V² → V¹Pb
-
-Insertion
-
-T = my
-D = most
-A = recent
-N² = play
-V¹ = close
-Pb = down
-
-see also the schemas on pp. 350, 353: more like "potential" structures, not actual sentence analyses
-
-[ === rsyntaxtree
-[Utterance
-  [N⁴
-    [T my]
-    [N³
-      [N²
-        [A 
-          [D most]
-          [A recent]
-        ]
-        [N² play]
-      ]
-      \-s
-    ]
-  ]
-  [V⁴
-    [V²
-      [V¹ close]
-      [Pb down]
-    ]
-    \-ed
-  ]
-]
-=== ]:
-
-### Wells (1947) *Immediate constituents*
-
-[@wells1947: 84]
-
-### Nida (1949) *Morphology*
-
-nothing in 1946 version! [@nida1946]
-
-sentence: [@nida1949: 87]
-hierarchical morphological structure p.101, both 105
-
-### Fries (1952) *The structure of English*
-
-Charles Carpenter Fries (November 29, 1887 – December 8, 1967)
-
-no graphics in "American English Grammar" (1940), probably one of the first real corpos-linguistic grammars of English.
-
-graphics in [@fries1952: 272] (Pike is a student of Fries, Fries might have been inspired by Pike 1943 here)
-
-### Bar-Hillel (1953) *A Quasi-Arithmetical Notation for Syntactic Description*
-
-[@barhillel1953] english explanation of [@ajdukiewicz1935]
-
-### Gleason (1955) *An introduction to descriptive linguistics*
-
-Henry Allan 'Al' Gleason Jr. (April 18, 1917 – January 13, 2007)
-
-[@gleason1955: 129-131] also accompanying workbook (no graphics)
-
-second edition from 1961 extended, Chomsky mentioned in introduction [@gleason1961]. Includes generation and transformation. But still the old IC-stuff as well [@gleason1961]
-
-[@gleason1965] very open description: Ch7 on Reed/Kellog and other approaches, but also many chapters on TGG
-
-### Chomsky (1955) *The logical structure of linguistic theory*
-
-note: first generative rewrite rules following Harris already in [@chomsky1953].
-
-[@chomsky1955]
-
-Chomsky (1955: 277) Note the reversal of the usage of dashes, here more alike to brackets.
-
-Chomsky (1955: 316b) Similar to Pike/Fries/Hockett
-
-Chomsky cites Bar-Hillel (1953: 57)
-
-line diagrams, but without actual words: 205-206, 214-215, 222, 232, 734-735
-
-also in [@chomsky1975: 181, 229, 258] https://archive.org/details/logicalstructure00noam
-
-First trees in [@chomsky1956: 117-118], based on boxed table from Pike/Fries/Hockett
-
-### Hockett (1958) *A course in modern linguistics*
-
-[@hockett1958: 151-155, 178-180, 188-189]
-
-### Francis (1958) *The structure of American English*
-
-[@francis1958] chinese boxes. Stewart [@stewart1976] reports from personal communication with Francis, that the chinese-box diagrams were inspired on the graphical display in [@fries1952]
-
-### Nida (1960) *A synopsis of English syntax*
-
-[@nida1960] added images to 1943 dissertation, which did not have images
-
-Nida (1973[1960]) writes his thesis in 1943, which is published in 1960. There do not seem to be trees in his thesis, but he Immediate Constituents might imply trees (but difficult to follow). In the 1960 edition he adds a long list of trees. But this is of course after Chomsky 1957.
-
-In the preface of the 1943: 30 dissertation he cited Sheffield 1912 (though not with respect to structural analysis) 
-
-Note the combination of dependency and constituency!
-
-### Gammon (1963) *On representing syntactic structure*
-
-[@gammon1963], completely ignoring chomsky?
-
-### Nida (1964) *Toward a Science of Translating*
-
-https://books.google.de/books?id=YskUAAAAIAAJ
-https://archive.org/details/towardsscienceof0000euge
-
-summary of different equivalent graphics [@nida1964: 58-62]
-
-### Stageberg (1965) *An introductory English grammar*
-
-chinese boxes [@stageberg1965: 263]
-Fries-scheme of IC [@stageberg1965: 263-273]
-
-added chapter on TGG from different author. seems to be added late in the process of making the book.
 
 ## Idiosyncratic analyses
 
