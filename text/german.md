@@ -857,14 +857,14 @@ all teacher in Dresden https://www.archiv.sachsen.de/archiv/bestand.jsp?guid=21a
 the "concentric circles" are a pedagogical concept in which every next book repeats the preceding content and adds something to it, instead of simply linearly expanding from year to year.
 
 - (first edition from 1876?) 
-- 1886 (4. edition, Heft 6) Same simple abbreviations p 52-60 in https://www.digitale-sammlungen.de/en/view/bsb11644111?page=54
-- same, but slightly revised, in edition for Prussian schools by Wübbe Jütting (seventh volume from 28th edition from 1903)
+- 1886 (4. edition, Heft 6 für die bayrische Volksschule) Same simple abbreviations p 52-60 in https://www.digitale-sammlungen.de/en/view/bsb11644111?page=54
+- same, but slightly revised, in edition for Prussian schools by Wübbe Jütting (seventh volume from 28th edition from 1903: [@baron1903]). Periodenbild on p. 33 which is not in the 1886 German version, but it is in the 1883 Austrian version.
 
 Austrian version by M. Stein, Bernhard Weiner and Wenzel Wrany, later revised by Michael Binstorfer
 
-nothing yet in 1880 version of Sprachschule 
+nothing yet in 1880 version of Sprachschule für Volksschulen
 
-- https://onb.digital/result/117D5246
+- https://onb.digital/result/117D5246: analysis of periode with symbols inside sentences (p. 67-68) Vordersatz || Nachsatz. Multiple clauses are separted by =
 - https://onb.digital/result/117D523D
 - https://onb.digital/result/117D5224
 
