@@ -858,6 +858,7 @@ the "concentric circles" are a pedagogical concept in which every next book repe
 
 - (first edition from 1876?) 
 - 1886 (4. edition, Heft 6) Same simple abbreviations p 52-60 in https://www.digitale-sammlungen.de/en/view/bsb11644111?page=54
+- same, but slightly revised, in edition for Prussian schools by Wübbe Jütting (seventh volume from 28th edition from 1903)
 
 Austrian version by M. Stein, Bernhard Weiner and Wenzel Wrany, later revised by Michael Binstorfer
 
