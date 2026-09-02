@@ -1,19 +1,4 @@
-# English
-
-## Introduction
-
-"Normal schools" < école normale, education for teachers!
-
-Greene (1836) *A practical grammar of the English language*
-"diagram" of tenses, not syntactic structure
-https://de.wikipedia.org/wiki/Roscoe_Greene
-https://google.com/books?id=PI4VAQAAMAAJ
-
-black board proposed in school class in 1832: 22 https://www.loc.gov/item/e14001332/
-
-"syntactic parsing" in Bullions (1849:197) https://www.loc.gov/item/06019122 or (1846: 125) https://www.loc.gov/item/tmp96027743/ or (1845: 131ff.) https://www.loc.gov/item/40023554/
-
-## German-style syntax in Britain
+# German-style syntax in Britain
 
 - General overview: Michael in [@leitner1991]
 - Grammars in 18th Century: [@tieken2008] does not give much of interest for the current book
@@ -27,7 +12,7 @@ example from college of preceptors [@preceptors1882;@preceptors1889]
 
 examples from Oxford, Cambridge and COF [@bidlake1884], answers by Bidlake: [@bidlake1887]
 
-### James (1847) *The elements of grammar*
+## James (1847) *The elements of grammar*
 
 Nothing is known about Esquire J.H. James, author of *The elements of grammar* [@james1847]. In the full title, James notes that his grammar is *according to Dr. Becker's system*, referring to Ferdinand Becker (see [@sec:becker1829]). As an introduction, James translates a long passage from Becker's *Ausführliche deutsche Grammatik* [-@becker1836: v-x] and mentions the *Organism der Sprache* [@becker1827]. However, the section about word order seems strongly influenced by Becker's *Grammar of the German language* [@becker1830: 250-265], which is a grammar of German written in English by Becker himself. James's book does not seem to have had any impact on the further development of grammar writing in Great Britain, and the strong influence of Becker there only arises through the work of John Morell, five years later (see [@sec:morell1852]).
 
@@ -37,7 +22,7 @@ James discussed word order under the heading *construction* [@james1847: 133-135
 *Constructions* illustrating the structure of the English sentence, from James [-@james1847: 134]. James very probably was inspired by a very similary approach to the analysis of sentence structure for German by Becker, cf. [@fig:becker1830_261].
 :::
 
-### Morell (1852) *The analysis of sentences* {#sec:morell1852}
+## Morell (1852) *The analysis of sentences* {#sec:morell1852}
 
 John Daniel Morell (1816-1891) was an inspector of schools and published scholarly works on philosophy and religion [basic biographical information is presented by @buckland1894]. From his background as a school inspector Morell decided to publish texts books on grammar because of "a deficiency experienced in the course of official duties as an Inspector of Schools" [@morell1852: iii]:
 
@@ -84,7 +69,7 @@ A reader, unacquainted with the real nature of a classical education, will proba
 "Third scheme" for the analysis of the sentence in [@last] from Morell [-@morell1857: 93]. This approach is much closer to the original from Becker, cf. [@fig:becker1829_xvii], but Morell does not consistently follow through with the usage of the numbers to encode the relative modification. Later authors, following Morel's example, will expand on this approach under the term "long-form analysis".
 :::
 
-### Findlater (1857) *English grammar* {#sec:findlater1857}
+## Findlater (1857) *English grammar* {#sec:findlater1857}
 
 Andrew Findlater (1810–1885) was the editor and major author of *Chambers's Encyclopaedia*, an important English encyclopedia from the 19th Century.^[Some basic biographical information on Findlater is provided by @bayne1889.] He was a good friend of Alexander Bain (see [@sec:bain1863]), who included various details about Findlater in his autobiography. Bain recounts that in 1842 Findlater, while the head master of Gordon's Hospital (which was a day school in Aberdeen, notwithstanding it's name), started to learn German [@bain1904: 116]. In 1852, Findlater joined Bain as a teacher of English at Bedford College in London, "the lectures for which he prepared carefully from the latest authorities on grammar and composition" [@bain1904: 234]. In 1853, Findlater got an engagement from Robert Chambers to go to Edinburgh to "superintend a cyclopaedia projected by the Chamberses on the basis of a German lexicon that they had purchased" [@bain1904: 235]. This German lexicon was the 10th Edition of the *Brockhaus Conversations-Lexikon* and the first version of *Chambers's Encyclopaedia* was basically a translation and re-editing of this German encyclopedia.
 
@@ -100,7 +85,7 @@ The use of notation "after the manner of algebraists" is introduced to English g
 
 The use of capital letters for main clauses and lowercase letters for subordinate clauses reflects the influence of the German tradition of sentence analysis. The notation of multiple levels of subordination through superscripts may likewise derive from Friedrich Bauer (see [@sec:bauer1850]), although I have found no direct evidence that Findlater was familiar with Bauer’s work. Such an influence is nevertheless plausible in light of Findlater’s strong command of German and his keen interest in grammatical analysis. At the same time, Findlater’s remark concerning the limited usefulness of deeply nested subordination is somewhat surprising, given that German grammatical literature is replete with examples featuring numerous clauses arranged in complex hierarchical structures. Findlater's approach to the analysis of complex sentences is adopted by Bain (see [@sec:bain1863]) and probably also influences Dalgleish (see [@sec:dalgleish1863]) and Meiklejohn (see [@sec:meiklejohn1862]), though without any explicit acknowledgement to Findlater.
 
-### Mason (1858) *English grammar* {#sec:mason1858}
+## Mason (1858) *English grammar* {#sec:mason1858}
 
 Charles Peter Mason (1820-1900) was a teacher and principal of a school at Denmark Hill in south London.^[I have not been able to find any biographical information about Mason. The obituary of his wife Eleanor (Edwards) Mason in the West Sussex Gazette of 10 October 1912, page 4, mentions that Charles was "for many years the proprietor of a school at Denmark Hill". This obituary is available online at <https://www.britishnewspaperarchive.co.uk/viewer/bl/0002166/19121010/090/0004>, accessed 25 June 2026. A history of the school at Denmark Hill is provided by Aldrich [-@aldrich1995: 45-52]. Mason starting working at the school in 1850 and was its principal from 1853 until its closure in 1873.] On the title page of his books he self-identifies as a Fellow of University College in London and at various points he alludes his work to prepare his pupils for admission to university [e.g. @mason1861: iv]. Mason is listed as one of the examinars for English language and literature for the College of Preceptors [@preceptors1882]
 
@@ -140,7 +125,7 @@ Large fold-out sheet from Mason [-@mason1871: after page 200], shown here from t
 
 Mason substantially revises his grammar again with the 25th edtion [@mason1881]. The section on sentence analysis is much expanded and the use of underlining is much more prominently used compared to earlier versions [@mason1881: 183-206]. However, the hierarchical bracketing and the dash-notation in the analysis of sentences with multiple subordination is completely removed.
 
-### Meiklejohn (1862) *An easy English grammar for beginners* {#sec:meiklejohn1862}
+## Meiklejohn (1862) *An easy English grammar for beginners* {#sec:meiklejohn1862}
 
 John Miller Dow Meiklejohn (1830-1902) was a prolific textbook author and in 1876 became the first professor of education in Great Brittain at the University of St. Andrews in Scotland. A detailed account of his life and work is provided by Graves [-@graves2004; -@graves2008]. Meiklejohn's year of birth is widely listed as 1836, for example in the *Oxford Dictionary of National Biography* [@montmorency2004], but Graves [-@graves2008: 11] argues that this is an error. Meiklejohn published an enormous amount of different textbooks about various subjects [@graves2008: 58-56, 91-109, see also 132-137 for a full list of his publications], partly because his income at St. Andrews was not very high [@graves2008: 50-51, 121]. Many of the books published under his name were probably researched and written by other people, while Meiklejohn had the final editorial control [@graves2008: 63].
 
@@ -263,7 +248,7 @@ And the great deluge still had left it green;
 *Mapping out* for the example [@last] from Meiklejohn [-@meiklejohn1890: 160]. The white-on-black typesetting probably represent the image of a blackboard. The details of the connecting lines are again changed slightly. The double lines indicate "conjunctions", which here clearly include both complement clauses and adverbial clauses. It is unclear why Meiklejohn did not use two different kinds of connections for these rather different kinds of subordination.
 :::
 
-### Lennie & Nutall (1863) *The principles of English grammar*
+## Lennie & Nutall (1863) *The principles of English grammar*
 
 William Lennie (c. 1779–1852) https://en.wikipedia.org/wiki/William_Lennie
 
@@ -271,7 +256,7 @@ nothing in third edition, Lennie (1815) https://google.com/books?id=RgphAAAAcAAJ
 
 revision of 1810 original by Lennie with expanded analysis of sentence by P. Austin Nutall in 1863 in the style of Morell using letters for clauses [@lennie1863: 120-123] "enlarged by a full explanation of the analysis of sentences"
 
-### Dalgleish (1863) *English composition* {#sec:dalgleish1863}
+## Dalgleish (1863) *English composition* {#sec:dalgleish1863}
 
 Walter Scott Dalgleish (1834-1897) was a teacher, textbook author and publicist in Edinburgh. A short obituary of Dalgleich is provided by Bartholomew, the founder of the Scottish Geographical Society [@bartholomew1897]. Between 1863 and 1867 Dalgleish writes various grammatical textbooks, which he signs on the cover as being the "Vice Principal of Dreghorn College", refering to the school that was founded by his parents:
 
@@ -310,7 +295,7 @@ Whose conscience with injustice is corrupted. \
 
 Dalgleish later publishes two reduced versions of his grammar, with more exercises and geared towards actual use in school: *Progressive English grammar* [@dalgleish1866a] and *Outlines of English grammar and analysis* [@dalgleish1867]. These contain nothing new and do not use any graphical syntactic analysis. Dalgleish's grammatical textbooks are reprinted various times throughout the following decades [@gorlach1998: 99-100], but he does not seem to have revisited the topic of grammatical analysis and instead turned his interest to other subject, like geography and history.
 
-### Bain (1863) *An English grammar* {#sec:bain1863}
+## Bain (1863) *An English grammar* {#sec:bain1863}
 
 Alexander Bain (1818-1903) was a philosopher, logician and educator, who worked in Glasgow and London, and in 1860 became the chair for logic and English literature at the university of his home town of Aberdeen.^[Basic biographical information is provided by Davidson [-@davidson1911] and more personal details are given in Bain's autobiography [@bain1904].] He was a good friend of Andrew Findlater (see [@sec:findlater1857]), whom he first met in Aberdeen in 1842 [@bain1904: 116]. In the period 1847-1850, Bain produced various texts for the third edition of *Chambers's Information for the People*, including the chapters about language [i.e. @bain1849]:
 
@@ -344,7 +329,7 @@ Analysis of a complex sentence by Bain [-@bain1863: 166], adapting the method of
 
 Bain revised his grammar as *Higher English Grammar* [@bain1872b], which is basically the same as the 1863 grammar. In parallel he also produced a *First English Grammar* including many more exercises [@bain1872a: 166-172], which are discussed in a separate *Key* [@bain1872: 113-145]. Here we find many more examples of the analysis of complex sentences with multiple subordinate clauses using the symbolic expressions from Findlater, but the superscripts are changed in subscripts (though not consistently). Also note that non-finite complement clauses (i.e. *to+infinitive* clauses) are not analysed as clauses by Bain.
 
-### Bidlake (1863) *A new English grammar*
+## Bidlake (1863) *A new English grammar*
 
 John Purdue Bidlake (1817-1906) wrote various textbooks about chemistry, geography and English grammar. He signs his books with "F.C.P.", indicating that he was a fellow of the college of preceptors. I have not been able to find any further details about his biography, except that he appears to be the father of racing cyclist Fredrick Thomas Bidlake.
 
@@ -372,7 +357,7 @@ May tell why heaven has made us what we are. \
 
 [@bidlake1887: 149] Key to the analysis of this sentence
 
-### Jevons (1870) *Elementary lessons in logic*
+## Jevons (1870) *Elementary lessons in logic*
 
 William Stanley Jevons (1835-1882) was an economist and logician. In 1866 he became professor at Owens College in Manchester.^[A summary of his life and work is available at https://en.wikipedia.org/wiki/William_Stanley_Jevons, accessed 9 July 2026.] In his many publications, he touches on grammatical analysis only in his introductory textbook *Elementary lessons in logic* [@jevons1870: 88-97]. In chapter 11 "Logical analysis of sentences" he proposes his rather idiosyncretic interpretation of the "several excellent little works devoted to the subject" (citing Dalgleish, Morell and Bain). He explains his approach at diagramming as follows:
 
@@ -397,13 +382,13 @@ Its function best of diligence in love. \
 
 The work of Jevons is cited by Stöhr (see [@sec:stöhr1898]), but Stöhr cites him as a logician in the tradition of Boole. There does not seem to have been any influence with respect to this grammatical analysis of Jevons on Stöhr.
 
-### Clark (1871) *Comprehensive English grammar*
+## Clark (1871) *Comprehensive English grammar*
 
 https://www.google.de/books/edition/The_comprehensive_English_grammar/UcQDAAAAQAAJ?hl=de&gbpv=1&dq=inauthor:%22David+Clark%22+grammar&printsec=frontcover
 
 complex sentence like Morell, p40-46
 
-### De Mornay (1873) *A grammar of the English language*
+## De Mornay (1873) *A grammar of the English language*
 
 A.A. de Mornay from Australia! Book published in Melbourne, preface signed in Williamstown, a suburb of Melbourne
 
@@ -412,7 +397,7 @@ became acquianted with Becker in 1844, cites Morell
 three schemes from Morell, though critical in introduction
 https://google.com/books?id=6ZyJHtGEad4C page 102-103, 113-123
 
-### Morris (1875) *English grammar*
+## Morris (1875) *English grammar*
 
 Richard Morris (1833-1894) 
 
@@ -427,17 +412,17 @@ using tables like Morell [@morris1877: 100-111]
 
 https://www.canadiana.ca/view/oocihm.61212/134 1881: simple letter-based analysis like Becker
 
-### Fitch (1881) *Lectures on teaching* {#sec:fitch1881}
+## Fitch (1881) *Lectures on teaching* {#sec:fitch1881}
 
 long-form analysis like becker [@fitch1881: 268-269]
 
-### Fleay (1884) *Logical English Grammar*
+## Fleay (1884) *Logical English Grammar*
 
 long-form analysis for complex subordinated example p.54-58, using special brackets for phrases
 
 https://google.com/books?id=BkgqAAAAMAAJ
 
-### Cooper & Sonnenschein (1889) *An English grammar for schools*
+## Cooper & Sonnenschein (1889) *An English grammar for schools*
 
 original edition from 1888
 second edition [@cooper1889] indentation p.17
@@ -448,14 +433,14 @@ indentation [@cooper1891: 25]
 Later more complex examples in [@sonnenschein1923], originally from 1916, specifically p.40ff
 Some information on Sonnenschein and his new english grammar [@walmsley1992], walso walmsley in [@leitner1991]
 
-### Davidson & Alcock (1889) *English grammar and analysis*
+## Davidson & Alcock (1889) *English grammar and analysis*
 
 https://catalog.hathitrust.org/Record/006151225
 table analysis p212, large example p220
 
 many different books and version, first collaboration from 1873
 
-### Douglas (1891) *The principles of English Grammar*
+## Douglas (1891) *The principles of English Grammar*
 
 James Douglas
 
@@ -475,29 +460,29 @@ He wrote his grammar in 1850, but I have only been able to access the 30th editi
 
 In the 112th edition [@douglas1891] tabular analysis like Morell ("three methods"), but with superscripts! p.169, 177, 180 same notation as Dalgleish
 
-### Adams (1892) *The elements of the English language*
+## Adams (1892) *The elements of the English language*
 
 new edition from 1868: https://archive.org/details/elementsofenglis00adamuoft/page/n5/mode/2up, no tables!
 
 Revision by Davis in 1892: very short discussion of syntax with two tables, p.224-225 in the style of Morell. This version is the 24th edition, book originally from mid century. https://archive.org/details/dli.ernet.242998/
 
-### Dale (1897) *The teaching of the mother tongue in Germany*
+## Dale (1897) *The teaching of the mother tongue in Germany*
 
 Describing schools in germany
 
 Kern is cited (p558) graphical display is presented as "normal" in Germany, example [@dale1897: 557]
 
-### Nesfield (1898) *English grammar, past and present*
+## Nesfield (1898) *English grammar, past and present*
 
 tables [@nesfield1898: 105-117]
 
-### Onions (1904) *Advanced English syntax*
+## Onions (1904) *Advanced English syntax*
 
 Charles Talbut Onions (1873-1965) Many editions, at least untill 1932
 
 tables and indented complex sentences [@onions1904] *sentence picture* p.25
 
-### Adamson (1907) *The practice of instruction*
+## Adamson (1907) *The practice of instruction*
 
 "schema" = diagramming? [@adamson1907: 176-177] It is not the mapping of Meiklejohn!
 
@@ -511,7 +496,7 @@ cites fitch (1881) on templatic columns (on p. 175), but does not cite inspirati
 
 (p.189) cites dale, cites Kittredge & Arnold (but 1905, does it already have diagrams then?)
 
-### Palser & Lewis (1923) *A new outline grammar of function*
+## Palser & Lewis (1923) *A new outline grammar of function*
 
 diagramming? [@palser1923] Also used in “Memorandum on the teaching of English” (1927: page 8)
 
@@ -519,7 +504,7 @@ diagramming? [@palser1923] Also used in “Memorandum on the teaching of English
 
 citing: Adamson and Dale (citing Kern!)
 
-### Fry (1925) *A key to language* {#sec:fry1925}
+## Fry (1925) *A key to language* {#sec:fry1925}
 
 own graphics
 
@@ -529,15 +514,26 @@ Fry [@fry1925: 12] commenting on Palser/Lewis: “all the chief features of my m
 [@fry1925: 64], cited by Jespersen [@jespersen1937: 83]
 :::
 
-### Palmer (1938) *The new method grammar*
+## Palmer (1938) *The new method grammar*
 
 [@palmer1938]
 
 bio: https://warwick.ac.uk/fac/soc/al/research/collections/elt_archive/publications/smith_1999.pdf
 
-## German-style syntax in North America
+# German-style syntax in North America
 
-### Greene (1848) *A treatise on the structure of the English language* {#sec:greene1846}
+"Normal schools" < école normale, education for teachers!
+
+Greene (1836) *A practical grammar of the English language*
+"diagram" of tenses, not syntactic structure
+https://de.wikipedia.org/wiki/Roscoe_Greene
+https://google.com/books?id=PI4VAQAAMAAJ
+
+black board proposed in school class in 1832: 22 https://www.loc.gov/item/e14001332/
+
+"syntactic parsing" in Bullions (1849:197) https://www.loc.gov/item/06019122 or (1846: 125) https://www.loc.gov/item/tmp96027743/ or (1845: 131ff.) https://www.loc.gov/item/40023554/
+
+## Greene (1848) *A treatise on the structure of the English language* {#sec:greene1846}
 
 Samuel Stillman Greene (1810-1883) was a teacher in Boston in the 1840s. In 1851 he became professor of didactics at Brown University and simlutaneously superintendent of the public schools in Providence. In 1855 he was "promoted" to become professor of mathematics and in 1864 even professor of astronomy. Basic biographical information on Greene is provided by Ward [-@ward1918: 24-27]. Greene was a highly productive author of grammatical textbooks, which were quite popular at American schools:
 
@@ -630,7 +626,7 @@ As becomes apparent when attempting to follow the example in [@fig:greene1874_28
 
 The relative clause in this sentence is interesting, because Greene proposes to explicitly write down the "original" position of the relative pronoun as an adverbial phrase in the relative clause, marked with the abbreviation "tr.". I have not been able to find what this abbreviation is supposed to mean. From a modern perspective it is tempting to call this a "trace", but it more likely to mean "transposed".
 
-### Gibbs (1857) *Philological studies* {#sec:gibbs1857}
+## Gibbs (1857) *Philological studies* {#sec:gibbs1857}
 
 Josiah Willard Gibbs (1790-1861) was a professor at Yale University and the father of the theoretical physicist with the same name.^[Some basic biographical information is available on <https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs_Sr.>, accessed 14 July 2026.] In 1857 he publishes his *Philological studies with English illustrations* [@gibbs1857], which consists of a collection of smaller articles that he had published in the preceding years, often with footnotes or additions added later. In the preface he very prominently states that his ideas about linguistic analysis are derived from Becker (see [@sec:becker1829]). From the dates added to his articles, it appears that Gibbs knew about Becker's work at least since the late 1840s. Gibbs seems to have been the first author to introduce Becker's approach to syntax to the United States. Except for Becker, Gibbs cites many other recent developments in syntactic analysis, e.g. Morell from Great Brittain (see [@sec:morell1852]), Bauer from Germany (see [@sec:bauer1850]) and Greene from the United States (see [@sec:greene1846]).
 
@@ -653,7 +649,7 @@ In a textbook about Latin, published a year later, Gibbs uses German-style abbre
 *Notation of compound propositions* for [@last] from Gibbs [-@gibbs1858: 54]. The sentence consists of a main clause marked "A" (*Non promissa servanda sunt ea*) with a following subordinate relative clause marked "a" (*quae sint iis […] inutilia*), which has an internal secondary relative clause marked "*(a)*" (*quibus promisseris*). Secondary subordination is indicate by italics, clauses internal to another clause are bracketed. 
 :::
 
-### Cruttenden (1859) *The philosophy of sentential language*
+## Cruttenden (1859) *The philosophy of sentential language*
 
 David Henry Cruttenden (1816-1874) was a teacher in New York State. In 1841 he was at the Mechanics Institute in New York City and later he moved to upstate New York. In 1861-1864 he is in Binghamton and in 1871 at the Normal School in Oswego.^[These biographical details have been extracted from various online sources, all accessed 16 July 2026, namely: page 167 of Volume 2 of the 1909 edition of *Herringshaw's national library of American biography* <https://archive.org/details/cu31924088421601>, page 240 of the 1872 *Annals of Binghamton* <https://archive.org/details/annalsofbinghamt01wilk> and autobiographical notes by Woodbridge N. Ferris <https://www.ferris.edu/news/founder/woodbridge/16Owego.htm>.] He published two long books on language and grammatical structure, first *The philosophy of sentential language* [@cruttenden1859] and in the following year *A rhetorical grammar of the English language* [@cruttenden1860], which he classified as an introduction to the earlier book. In subsequent years he revised these books in various forms and with slightly changing titles, but not much new seems to have been added.^[Various version are available online at <https://www.loc.gov/item/10028727> (1869), <https://books.google.com/?vid=Harvard:HN23IR> (1870), <https://books.google.com/?id=qQASAAAAIAAJ> (1870), <https://www.loc.gov/item/10033615> (1872).] There are no indications of any sources for the grammatical analysis in these books. Cruttenden's approach to grammatical analysis is also discussed by Brittain [-@brittain1973: 31-36].
 
@@ -690,7 +686,7 @@ The analysis proposed by the formula in [@fig:cruttenden1860_194] can be represe
   - **Y**: *have not*
   - **Z**: *time*
 
-### Macallum (1867) *An eclectic grammar*
+## Macallum (1867) *An eclectic grammar*
 
 Archibald Macallum (1824-1879) https://www.biographi.ca/en/bio/macallum_archibald_10E.html Hamilton, Canada
 
@@ -698,7 +694,7 @@ cites Morell, analysis similary to Morell 1857. tables p.85, complex sentence li
 
 https://archive.org/details/eclecticgrammarp00macauoft/page/84/mode/2up
 
-### Swinton (1872) *A progressive grammar of the English tongue*
+## Swinton (1872) *A progressive grammar of the English tongue*
 
 William Swinton (1833-1892) in USA (in 1869 Professor of the English language in the University of California. Preface written in New York), but no diagram - more likely britisch tradition [@swinton1872: 143-154]. Model of Synthesis with lines to the side, 157-158
 
@@ -718,7 +714,7 @@ https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Swinton%2C%20Wi
 - 1885: A grammar containing the etymology and syntax of the English language https://catalog.hathitrust.org/Record/100399801 analysis 204ff. complex sentence 228ff.
 - 
 
-### Buckham (1881) *The analysis of sentences* {#sec:buckham1881}
+## Buckham (1881) *The analysis of sentences* {#sec:buckham1881}
 
 Henry Barmby Buckham (1827-1914) began his professional life as a schoolteacher in Connecticut before becoming a member of the founding faculty of Vassar College, where he taught during its inaugural year (1865-1866). He left the institution after a single year due to his dissatisfaction with its administration and the limited prior knowledge of its students. In 1872 he was appointed as the first principal of the newly established Normal School in Buffaly, New York, a position he held until 1887. Afterwards Buckham relocated to the West Coast and eventually retired in Santa Barbara, California.^[Some basic biographical information is available at <https://vcencyclopedia.vassar.edu/faculty/original-faculty/henry-buckham/>, accessed 15 July 2026.]
 
@@ -749,13 +745,13 @@ Although Buckham's book is only published in 1881, he very likely used this appr
 
 > [I am] especially indebted to Professor H. B. Buckham, of the Buffalo State Normal School, for the preparation of the selections and for important suggestions in regard to the symbols by which the sentence is represented. [@greene1874: 4]
 
-## Lines for government
+# Lines for government
 
 Jeremiah Greenleaf "simplified Grammar" (first edition 1819) used word-class abbreviations above the words for parsing, e.g. third edition 1821: https://google.com/books?id=fegaAAAAYAAJ, extended version later: https://archive.org/details/laborsavinggramm00greerich
 
 charts were the rage: here is another one (without any graphical syntax) [@munsell1817]
 
-### Wilbur & Livingston (1814) *The grammatical alphabet* {#sec:wilbur1814}
+## Wilbur & Livingston (1814) *The grammatical alphabet* {#sec:wilbur1814}
 
 Nothing is known about the authors Josiah Wilbur and William Livingston of the book *the grammatical alphabet* [@wilbur1814]. Library catalogues recurrently list William Livingston with the dates 1723-1790, which are the year of birth and death of the Founding Father, also called William Livingston. This well-known figure is unlikely to be the author of these grammatical treatise from 1814 and a later book from 1817 [@gorlach1998: 344 repeats the dates, but adds a questionmark behind the publication date of a book, indicating that he also considers the dates unconvincing]. William Livingston (the grammarian) could possibly be the son of William Livingston (the founding father) with the same name. The son lived between 1754–1817, which would fit the publication dates of the grammars. However, I have no clear evidence for this identification.
 
@@ -795,7 +791,7 @@ Dissimulation in youth is the forerunner of perfidy in old age. Its first appear
 Illustration of the application of syntactical rules to sentence [@last] from Livingston [-@livingston1817a: 54]. The arches indicate concord and government. This approach to visualise the grammatical structure is clearly inspired by Picket, cf. [@fig:picket1815_80]. The image shown here was recreated for improved legibility. The original image is available at the following link:
 :::
 
-### Picket (1815) *The juvenile instructor* {#sec:picket1815}
+## Picket (1815) *The juvenile instructor* {#sec:picket1815}
 
 Albert Picket (1771-1850) was a teacher and ran his own school, first in Manhattan and later in Cincinnati.^[Some basic biographical information is available online at >https://prabook.com/web/albert.picket/3763249>, accessed 8 June 2026.] In the 1810s, He wrote a series of textbooks for the instruction of reading, writing, grammar and composition, which all have the word *juvenile* in the title. In *The juvenile instructor* [@picket1812] he dealt with grammatical structure. The first version does not have any graphical grammar, but in the second version he adds the method of a "vinculum or chain" as an illustration of government and agreement between words. An example of his approach is shown in [@fig:picket1815_80] for the opening lines of the second act of the play *Douglas* by John Home [@next], which was a staple of school texts in those days. Exactly the same examples is also used in the third edition [@picket1818: 108], though the rest of the book has been reworked. Later in life he wrote various other grammatical textbooks together with his son John W. Picket (1792-1875). The graphical approach is not used in these books.^[Picket and his son together wrote: *The Essentials of English Grammar* (1830) <https://google.com/books?id=Ie9BAQAAMAAJ>, *Principles of English grammar* (1837) <https://google.com/books?id=flEhAQAAMAAJ> and *Analyzer and expositor* (1847) <https://babel.hathitrust.org/cgi/pt?id=nyp.33433069240632&seq=9>, all accessed 8 June 2026.]
 
@@ -816,7 +812,7 @@ And keep his only son, myself, at home. \
 *Vinculum* from Picket [-@picket1815: 80] for the opening of *Douglas* by John Home. The numbers refer to syntactic rules and the lines indicate government (curved lines) and agreement/conjunction (straight lines). The image shown here was recreated for improved legibility. The original image is available at the following link:
 :::
 
-### Alcott (1842) *Slate and black board exercises*
+## Alcott (1842) *Slate and black board exercises*
 
 William Andrus Alcott (1798-1859) was an educator and a well-known early proponent of the vegetable diet. Originally from Connecticut, he lived most of his active life in around Boston.^[Basic biographical information is provided on https://en.wikipedia.org/wiki/William_Alcott, accessed 10 July 2026.] One of his many educational writing dealed with using the black board in class:
 
@@ -828,7 +824,7 @@ Alcott discusses how to use the black board for many different subjects, among t
 Blackboard exercise from Alcott [-@alcott1842: 193]. He proposes that "we may draw a curved line from the governing word to the word which is governed; or at least require a pupil to do it, in view of the rest." This approach looks very much like the *vinculum* from Picket, cf. [@fig:picket1815_80].
 :::
 
-### Holmes (1873) First lessons in English grammar
+## Holmes (1873) First lessons in English grammar
 
 [@holmes1873]
 
@@ -845,9 +841,9 @@ Holmes cites many different grammars available at the time, among them Clark and
 
 More digital works by him here: https://onlinebooks.library.upenn.edu/webbin/who/Holmes%2C%20George%20Frederick%2C%201820-1897
 
-## Proto-diagramming
+# Proto-diagramming
 
-### Brown (1826) *The American system of English grammar* {#sec:brown1826}
+## Brown (1826) *The American system of English grammar* {#sec:brown1826}
 
 James Brown (dates unknown, approximately 1790-1855) was a very productive and rather eccentric author of grammatical textbooks for the English language. Almost nothing is known about his life, except what can be gleaned from his publications. West [-@west2000: 91-109] interprets the places of publication of Brown's books as a sign of his whereabouts, which indicates that he was in Boston 1815, in Albany/Troy in 1819/1820, in Washington in 1826 and finally settled in Philadelphia in about 1831. In 1839 he announces his own private institute called "Brown's English Syntax Institution", located in 90 South Eighth Street, Philadelphia [e.g. the flyer attached to @brown1840]. His first known publication is from 1815 and his last available new publications are from 1854, so he was probably born around 1790 and died around 1855.
 
@@ -946,7 +942,7 @@ New approach to indicate *monos* (=constituents) from Brown [-@brown1841: 50] by
 
 Brown remains active, writing at least 13 more books in the next 15 years (see the list above), mostly rehashing earlier ideas, often repeating himself, but also adding new formulations of the same content. He appears to slowly dial back on the more fantastical terminological innovations as he grows older. The oevre of Brown is a cautious tale of wrapping up interesting ideas into incomprehensible terminology, becoming completely unintelligible, and thus being mostly ignored, in the process. However, his work was not completely in vain. He appears to have had a direct influence on Peirce ([@sec:peirce1839]), Barrett ([@sec:barrett1842]) and Hall ([@sec:hall1898]), and probably indirectly on Clark (see [@sec:clark1847]). Clark in turn founded the whole diagramming craze in the late 19th Century in the United States, so Brown might very well be considered to be the grandfather of this US-approach to syntactic analysis.
 
-### Peirce (1839) *The grammar of the English language* {#sec:peirce1839}
+## Peirce (1839) *The grammar of the English language* {#sec:peirce1839}
 
 Oliver Beale Peirce (1808-1865) was a teacher and textbook author in Rome, Oneida County, New York.^[Some limited biographical information is available online at <http://www.oneidacountyfreedomtrail.com/oliver-peirce.html>, accessed 27 January 2026. Dates for his birth and death are from <https://www.findagrave.com/memorial/13126231/oliver-beale-peirce>, accessed 27 January 2026.] His first grammar was calles *Grammatical instructor*, which was probably published around 1835, but I have only been able to acces the revised third edition [@peirce1837]. This book contains already much of the content of his subsequent textbooks, but it crucially does not contain any graphical syntax. Similar to Brown (see [@sec:brown1826]), Peirce likes to use his own terms instead of traditional grammatical terminology. Like Brown, Peirce also uses the term *asserter* instead of "verb" [@peirce1837: 98-99]. However, the other terminology does not coincide, so this might be a coincidence.
 
@@ -1014,7 +1010,7 @@ Two examples are shown in [@fig:peirce1843_295] for the example in [@next a] and
 
 The final grammar that was published by Peirce is a summary of the preceding work [@peirce1847]. It only contains a few very simple diagrams.
 
-### Barrett (1842) *The principles of language* {#sec:barrett1842}
+## Barrett (1842) *The principles of language* {#sec:barrett1842}
 
 Solomon Barrett Jr. (1800-1882) was a teacher in Madrid (NY). Some basic information about his life and a discussion of his work is provided by Scott [-@scott1982]. The St. Lawrence University Library in Canton (NY) appears to possess some of his papers.^[Listing of the archival content online at <https://library.stlawu.edu/collection/solomon-barrett-jr-collection>, accessed 2 February 2026.] In 1837 he wrote the first edition of *The principles of language* [@barrett1837], which does not yet contain any graphical syntax. Barrett will revise and extend this book throughout his life, but the basic approach to grammar is already present in this first edition. 
 
@@ -1106,7 +1102,7 @@ Frontispiece of the Latin grammar from Barret [-@barrett1857, inserted between p
 
 Later, Barret writes yet another book [@barrett1859], which has basically the same content as the previous book, but a strongly revised presentation. He now puts his 21 grammatical relations front and centre of the analysis. There is also a 1876 book by Barrett called *A "signal" grammar of the English language*,^[Catalogue entry at the Library of Congress: <https://lccn.loc.gov/11004540>.] which is not available digitally and which I have not yet been able yet to access.
 
-### Hall (1849) *Encyclopedia of English grammar*
+## Hall (1849) *Encyclopedia of English grammar*
 
 William Hall published his *Encyclopedia of English grammar* probably in 1849, printed in Virginia [cf. @gorlach1998: 161], but the only online copy with that date has a missing title page, so I am not sure this really is that version [@hall1849]. That incomplete version is exactly the same as a 1850 version, printed in Ohio [@hall1850]. Nothing is known about the author, except that it is not the same person as William D. Hall (see [@sec:hall1898]) nor Milo Baldwin Hall (see [@sec:hall1904]). The book is clearly influenced by Brown (see [@sec:brown1826]), because in the introduction Hall says that the book deals with "the science of English Syntithology" [@hall1850: iii]. The term "syntithology" (instead of syntax) is one of the many terminological inventions of Brown. Brown is explicitly cited in various footnotes [@hall1849: 72, 98, 246, 297]. Barrett (see [@sec:barrett1842]) is obliquely cited once among many other grammars in the context of word-class division [@hall1849: 51]. In contrast, Peirce (see [@sec:peirce1839]) is cited in a long rant, typesetted as a footnote running over 10 pages [@hall1849: 96-105], criticizing Peirce's use of the term *asserter* for verbs.
 
@@ -1116,11 +1112,11 @@ Hall includes an extensive discussion of *monology* [@hall1849: 297-305], direct
 *Monology* from Hall [-@hall1849: 297], adapting the analysis from Brown ([@sec:brown1826]). Identical numbers indicate which words belong to the same *mono* (=constituent), which are sometimes also indicated by brackets. Just like Brown, Hall never uses hierarchical bracketing. Different from Brown, Hall does not distinguish between square and round brackets.
 :::
 
-## Diagramming
+# Diagramming
 
 Check Nietz (1961) https://digital.library.pitt.edu/islandora/object/pitt%3A00aep6688m/viewer
 
-### Clark (1847) *The Science of the English Language* {#sec:clark1847}
+## Clark (1847) *The Science of the English Language* {#sec:clark1847}
 
 Stephen W. Clark (1810-1901) was a school principal of East Bloomfield Academy and wrote the influential book *The science of the English language. A practical grammar: in which words, phrases, and sentences are classified according to their offices, and their various relations to one another. Illustrated by a complete system of diagrams.* [@clark1847] He produced revisions of this book and wrote variants for different readers up to the 1870s [e.g @clark1870, see [@mazziotta2016: 303-305 for the little that is known about Clark]. A detailed investigation of the work of Clark is available in Mazziotta [-@mazziotta2016; -@mazziotta2020a; -@mazziotta2020].
 
@@ -1144,7 +1140,7 @@ Check John A. Nietz: Old textbooks: Spelling, grammar, reading, arithmetic, geog
 
 "Bloomfield Schools Revisited" https://www.ebhs1838.org/store
 
-### Gengembre & Brown (1855) *Elements of English grammar*
+## Gengembre & Brown (1855) *Elements of English grammar*
 
 Philip Gengembre, later around 1890 renamed himself Hubert (1830-1911). Nothing can be found about John H. Brown (Principal of the zane street grammar schools: p.20 of https://upload.wikimedia.org/wikipedia/commons/8/8f/Annual_report_of_the_Controllers_of_the_Public_Schools_of_the_city_and_county_of_Philadelphia_%28IA_annualreportofco00unse_4%29.pdf).
 
@@ -1165,7 +1161,7 @@ His french grammar's do not seem to have this system:
 - Gengembre's method for the French language, Part II (1851) https://google.com/books?id=UlIZAAAAYAAJ no graphics here! published in Cincinatti together with adalbert Doisy (maybe this one: Charles Praval, The idioms of the French language, revised and augmented by Adelbert Doisy (Dublin, John cumming, 1825); Charles Praval, The rudiments and syntax of the French language, improved and considerably enlarged by Adelbert Doisy (Belfast, Simms and McIntyre, 1833).)
 - The practical French instructor (complete course). (1859) https://google.com/books?id=USoBAAAAYAAJ no graphics!
 
-### Holbrook (1859) *The normal, or method of teaching*
+## Holbrook (1859) *The normal, or method of teaching*
 
 Alfred Holbrook (1816-1909) first director of the National Normal University in Lebanon, Ohio.
 
@@ -1181,7 +1177,7 @@ Diagramm of [@last] from Holbrook [-@holbrook1859: 174]
 
 complete grammar in 1873, same diagrams [@holbrook1873: 145-151] title "diagrammed analysis" nicer scan here (later version, same text and examples): [@holbrook1889: 221-227]
 
-### Chandler (1861) *A class book on English grammar and analysis*
+## Chandler (1861) *A class book on English grammar and analysis*
 
 Z.M. Chandler https://www.hmdb.org/m.asp?m=5624 book published in Zanesville, Ohio
 
@@ -1189,7 +1185,7 @@ Z.M. Chandler https://www.hmdb.org/m.asp?m=5624 book published in Zanesville, Oh
 
 "models for black board exercises" (p151-160) very clear inspiration for later Reed/Kellog (Reed/Kellog say in introduction that their system arose in 1868, so clearly later than chandler)
 
-### York (1862) *An Analytical, Illustrative, and Constructive Grammar*
+## York (1862) *An Analytical, Illustrative, and Constructive Grammar*
 
 Richard Brantley York (1805-1891) Brantley York was an educator, author, and Methodist clergyman in North Carolina. He organized Union Institute Academy at Brown's Schoolhouse in Randolph Co., N.C. in 1839, which would evolve into Normal College, Trinity College, and later Duke University. 
 
@@ -1217,7 +1213,7 @@ Other books:
 - 1864: https://archive.org/details/yorksenglishgram00york/
 - 1865: https://archive.org/details/yorksenglishgram01york/
 
-### Parker (1865) *A grammar of the English language*
+## Parker (1865) *A grammar of the English language*
 
 William Henry Parker (1845-1929), Principal of Ringgold Grammar School, Philadelphia
 
@@ -1227,13 +1223,13 @@ original not yet found [cited in @brittain1973: 53], see <https://lccn.loc.gov/1
 
 short version without graphics from 1866: https://scholar.uc.edu/concern/documents/ff365951p
 
-### Jewell (1867) *Grammatical diagrams defended and improved*
+## Jewell (1867) *Grammatical diagrams defended and improved*
 
 following clark (1847)
 
 https://google.com/books?id=dmwVAQAAMAAJ
 
-### Burtt (1868) *A practical grammar of the English language*
+## Burtt (1868) *A practical grammar of the English language*
 
 no graphics in [@burtt1859]
 
@@ -1241,14 +1237,14 @@ no graphics in [@burtt1859]
 
 same in [@burtt1873: 126-136], variant of Chandler
 
-### Chamberlin (1871) *Natural system of English grammar*
+## Chamberlin (1871) *Natural system of English grammar*
 
 original not yet found [@brittain1973: 67]
 
 https://bsky.app/profile/coffeeanddonatus.bsky.social/post/3kifj7o36bu2i
 https://nationallibraryofeducation.on.worldcat.org/search/detail/974041820?queryString=chamberlin%20natural%20system%20grammar&clusterResults=true&groupVariantRecords=false
 
-### Lighthall (1872) *Introduction to analysis and parsing*
+## Lighthall (1872) *Introduction to analysis and parsing*
 
 probably G.E. Lighthall (1872) *Introduction to analysis and parsing* with bubbles, original not yet found [@brittain1973: 73] <https://lccn.loc.gov/11005840>
 
@@ -1256,7 +1252,7 @@ probably G.E. Lighthall (1872) *Introduction to analysis and parsing* with bubbl
 
 https://archive.org/details/analysisparsing00lighgoog/page/n20/mode/2up
 
-### Butler (1874) *A practical and critical grammar*
+## Butler (1874) *A practical and critical grammar*
 
 originally *A practical grammar* from 1845 without diagrams, see https://google.com/books?id=-khKAAAAIAAJ for 1846 revision [@butler1846] note: "The rules for the Analysis of Sentences have been taken, with some changes, from Andrews and Stoddard's Latin Grammar" (preface p.3) examples like Andrews/Stoddard on p220-221
 
@@ -1265,16 +1261,16 @@ etymology together. The abbreviations will be readily understood"
 
 Revised edition with original name *A practical grammar* in 1879 with diagrams [@butler1879: 168-177]
 
-### Reed & Kellog (1875) *Graded lessons in English* {#sec:reedkellog1875}
+## Reed & Kellog (1875) *Graded lessons in English* {#sec:reedkellog1875}
 
 https://www.letsdiagram.com
 https://natureofwriting.com/course/diagramming-sentences
 
-### Whitney (1877) *Essentials of English grammar*
+## Whitney (1877) *Essentials of English grammar*
 
 very simple schemes and only very sparingly used, cf Exercises p. 204-205 https://www.google.de/books/edition/Essentials_of_English_Grammar/PlcXAAAAIAAJ?hl=de&gbpv=0
 
-### Harvey (1878) *A practical grammar of the English language*
+## Harvey (1878) *A practical grammar of the English language*
 
 Thomas Wadleigh Harvey (1821-1892)
 
@@ -1284,13 +1280,13 @@ practical grammar [@harvey1868] no graphics. revised practical grammar [@harvey1
 
 original elementary grammar (1869) https://lccn.loc.gov/11006142, but no graphical grammar
 
-### Lyte (1879) *Forms of parsing and analysis*
+## Lyte (1879) *Forms of parsing and analysis*
 
 first attempt [@lyte1879]
 
 expanded later in [@lyte1899; @lyte1898; @lyte1886]
 
-### Sanders (1879) *Analysis by diagrams*
+## Sanders (1879) *Analysis by diagrams*
 
 William Francis Lewis Sanders (1849-1930)
 
@@ -1300,44 +1296,44 @@ Born on Sept. 12, 1849, in Maxville, Ind., William Francis Lewis Sanders is the 
 
 1891 *The English sentence* diagrams included at [@sanders1891: 68-end]
 
-### Ridpath (1880) *Inductive grammar of the English language*
+## Ridpath (1880) *Inductive grammar of the English language*
 
 [@ridpath1881: 223-247]
 
 version from 1880 also exists! [@ridpath1880]
 
-### Maris (1880) *The normal English grammar*
+## Maris (1880) *The normal English grammar*
 
 original not yet found [@brittain1973: 102] only cover page here from 1888 edition:
 https://digital.klnpa.org/digital/collection/philips/id/8878/
 
-### Raub (1880) *Practical English grammar*
+## Raub (1880) *Practical English grammar*
 
 vertical analysis [@raub1880a: 129-156] "written analysis"
 
 also [@raub1880; @raub1885] both referring to the first book as the origin. 1885 seems most comprehensive summary
 
-### Eubank (1881) *Key to Harvey's practical grammar*
+## Eubank (1881) *Key to Harvey's practical grammar*
 
 first edition 1881, cited here revised edition from 1885. Diagramming [@eubank1885: 113-200] "brace system"
 
-### Adams (1882) *Grammatical diagrams and analyses*
+## Adams (1882) *Grammatical diagrams and analyses*
 
 [@adams1882] based on Holbrook and Harvey. Says Holbrook approach is widespread in America ?!
 
-### Vaughn (1883) *English grammar revolutionized and simplified*
+## Vaughn (1883) *English grammar revolutionized and simplified*
 
 [@vaughn1883: 82-end] following reed/kellog
 
-### Patterson (1884) *Elements of grammar*
+## Patterson (1884) *Elements of grammar*
 
 reed/kellog-style [@patterson1884: 206-220]
 
-### Sornberger (1884) *Normal language lessons*
+## Sornberger (1884) *Normal language lessons*
 
 [@sornberger1884: 80] vertical SP-diagram like Holbrook (author is from a "Normal school")
 
-### Irish (1884) *Grammar and analysis made easy*
+## Irish (1884) *Grammar and analysis made easy*
 
 Frank Van Buren Irish [@irish1884] like reed/kellog
 
@@ -1345,11 +1341,11 @@ Frank Van Buren Irish [@irish1884] like reed/kellog
 
 other version? https://google.com/books?id=I8IBAAAAYAAJ
 
-### Putnam (1885) *Supplementary lessons in English*
+## Putnam (1885) *Supplementary lessons in English*
 
 original not yet found [@brittain1973: 118]
 
-### Wilson (1886) *The system of branching method*
+## Wilson (1886) *The system of branching method*
 
 Isaac Eldridge Wilson
 
@@ -1358,7 +1354,7 @@ https://www.loc.gov/item/2018757044/
 
 - diagramming: [@wilson1886: 544-554]
 
-### Welsh (1887) *Lessons in English grammar*
+## Welsh (1887) *Lessons in English grammar*
 
 Alfred H. Welsh (1850-1889)
 
@@ -1379,7 +1375,7 @@ after death, edited by greenwood, based on welsh' "lessons" 1887:
 - 1892: Studies in English grammar books?id=8psSAAAAIAAJ same analysis as lesson 1887 p51-61
 - 1892: Elements of language and grammar https://lccn.loc.gov/11020466 diagramming 21-27
 
-### Rigdon (1887) *Analysis of the English sentence with diagrams*
+## Rigdon (1887) *Analysis of the English sentence with diagrams*
 
 diagramming [@rigdon1887: 13-26, 58-68]
 
@@ -1387,7 +1383,7 @@ Grammar of the English sentence (1890) diagramming like reed/kellog p.167
 
 https://books.google.de/books?id=dJAOAAAAYAAJ&printsec=frontcover&hl=de#v=onepage&q&f=false
 
-### Greene (1888) *Inductive language lessons*
+## Greene (1888) *Inductive language lessons*
 
 Harris R. Greene [@greene1889: 36, 41, 49, etc.]. combination of "reverse" tree and symbols below the worlds.
 
@@ -1398,18 +1394,18 @@ earlier books do not seem to have graphics
 - https://google.com/books?id=XBwBAAAAYAAJ
 - https://google.com/books?id=fUVKAAAAIAAJ
 
-### Welsh (1889) *A practical English grammar*
+## Welsh (1889) *A practical English grammar*
 
 Judson Perry Welsh (1857-1934) Bloomsburg normal school president  1890-1906, https://library.bloomu.edu/pages/Archives/Presidents/Welsh.html
 
 thanks teacher Francis A. March at lafayette college in the preface (p. v). diagram [@welsh1889: 29ff.]
 
-### Kiddle (1889) *Brown's language lessons with graded exercises*
+## Kiddle (1889) *Brown's language lessons with graded exercises*
 
 rather different kind of diagrams from the other traditions. Own invention? Grammar based on Goold Brown.
 [@kiddle1889: 44-]
 
-### Gauss & Hodge (1890) *A comprehensive English grammar*
+## Gauss & Hodge (1890) *A comprehensive English grammar*
 
 word-analysis (phonetics, orthography, syllables), parsing (word classes, morphology), sentence-analysis (syntax, "scheme" p.304), scanning (prosody)
 
@@ -1417,27 +1413,27 @@ word-analysis (phonetics, orthography, syllables), parsing (word classes, morpho
 
 tree-analysis p326-336. Note words ARE the branches!
 
-### Harper & Burgess (1891) *Inductive Latin primer*
+## Harper & Burgess (1891) *Inductive Latin primer*
 
 diagrams for english in first part called *Inductive studies in English grammar* [@harper1891: 42-43]
 
 Later separate book has similar diagrams [@harper1894: 59-60] in preface they cite grammars of Whitney, Meiklejohn, Salmon (Longman's grammar???) and Welsh (which Welsh???)
 
-### Maxwell (1891) *Advanced lessen in English grammar*
+## Maxwell (1891) *Advanced lessen in English grammar*
 
 William Henry Maxwell (1852-1920) [@maxwell1891]
 
 analysis simple sentences similar to reed/kellog but not identiacl 52-58, complex sentence completely different, using template-boxes among other methods: 280-297
 
-### Pendleton (1891) *Diagrams for grammar analysis*
+## Pendleton (1891) *Diagrams for grammar analysis*
 
 original not yet found [@brittain1973: 151]
 
-### Robbins (1893) *Practical English grammar made easy*
+## Robbins (1893) *Practical English grammar made easy*
 
 [@robbins1893] note: "revised edition", but earlier version cannot be found. Vertical diagrams all throughout
 
-### Gaines (1893) *Inductive grammar*
+## Gaines (1893) *Inductive grammar*
 
 original not yet found [@brittain1973: 156]
 
@@ -1445,19 +1441,19 @@ Inductive Grammar. A Manual of Direction for the Study of English based on the P
 
 Note very short mentioning of Butler with a single unexplained grammatical diagram on p43 of *Principles in teaching* (1891) https://catalog.hathitrust.org/Record/009568553
 
-### Buck (1894) *English grammar and analysis*
+## Buck (1894) *English grammar and analysis*
 
 diagrams [@buck1894: 15-16, 111, 136]
 
 more extensive subordination diagrams [@buck1900: 16-17, 117-118, 143]
 
-### Park (1894) *A practical and complete English grammar*
+## Park (1894) *A practical and complete English grammar*
 
 diagrams [@park1894: 14, 16, etc.] cite Sanders for diagrams (p5)
 
 also [@park1898: 107-109, 114-118]
 
-### Hoenschel (1896) *Complete English grammar for common and high schools*
+## Hoenschel (1896) *Complete English grammar for common and high schools*
 
 first edition from 1895, not yet found.
 
@@ -1469,15 +1465,15 @@ Diagramming [@hoenschel1897: 65-66], and throughout.
 
 Many more diagrams in the teacher's companion [@hoenschel1897a]
 
-### Hall (1898) *English grammar and composition* {#sec:hall1898}
+## Hall (1898) *English grammar and composition* {#sec:hall1898}
 
 William D. Hall. diagrams [@hall1898: 174-183] not the same Hall from "monology" in 1849
 
-### Bartlett (1899) *The essentials of language and grammar*
+## Bartlett (1899) *The essentials of language and grammar*
 
 diagrams [@bartlett1899]
 
-### Salmon (1901) *Longman's English grammar*
+## Salmon (1901) *Longman's English grammar*
 
 David Salmon originally wrote *School grammar* [@salmon1890], which was reissued as *Longman's school grammar* (1891). This grammar does not contain any graphical analysis of sentences
 
@@ -1485,35 +1481,35 @@ George J. Smith revised the book as *Longman's English grammar*, though most of 
 
 In 1988 a completely different grammar appeared under the name *Longman English grammar* by L.G. Alexander. No graphical analysis.
 
-### Garrison (1901) *Manual and diagrams to accompany Metcalf's grammars*
+## Garrison (1901) *Manual and diagrams to accompany Metcalf's grammars*
 
 [@garrison1901]
 
 refers to examples from English grammar for common schools, Robert C. Metcalf & Thomas Metcalf (1894) they give no diagrams https://archive.org/details/englishgrammarfo0000robe
 
-### Harris (1903) *Inductive lessons in language and grammar*
+## Harris (1903) *Inductive lessons in language and grammar*
 
 [@harris1903a; @harris1903]
 
 two books, many diagrams like reed/kellogg
 
-### Hall (1904) *Brown's first lessons in language and grammar* {#sec:hall1904}
+## Hall (1904) *Brown's first lessons in language and grammar* {#sec:hall1904}
 
 Again a different Hall, now Milo Baldwin Hall (1837-). based on Goold Brown, but with diagrams [@hall1904: 36-39, 51, 57-59, 85-90, 93, 100]
 
-### Eastman (1904) *English grammar*
+## Eastman (1904) *English grammar*
 
 [@eastman1904: 194-210]
 
-### White (1904) *Practical grammar and composition*
+## White (1904) *Practical grammar and composition*
 
 hand-drawn diagrams [@white1904: 26, 55, 60, etc.]
 
-### Baker (1907) *Correct English*
+## Baker (1907) *Correct English*
 
 redd/kellog style, but with boxes [@baker1907: 248-254]
 
-### Kittredge & Arnold (1908) *The mother tongue*
+## Kittredge & Arnold (1908) *The mother tongue*
 
 Book II. An elementary English grammar, by G.L. Kittredge and S.L. Arnold (Arnold, Sarah Louise, 1859-1943; Kittredge, George Lyman, 1860-1941)
 
@@ -1521,15 +1517,15 @@ Original does not have diagramming: [@kittredge1900]
 
 Revised edtion (1908) added appendic with diagrams [@kittredge1908: 338-349] with special symbols, moving upwards instead of downwards
 
-### Perrin (1911) *Constructive course grammar*
+## Perrin (1911) *Constructive course grammar*
 
 not yet found [@brittain1973: 200]
 
-### Edgar (1915) *Sentence analysis by diagram*
+## Edgar (1915) *Sentence analysis by diagram*
 
 many examples of redd/kellog style diagrams [@edgar1915: 9-66]
 
-### Perry & Eichmann (1920) *Grammar, Book 1-4*
+## Perry & Eichmann (1920) *Grammar, Book 1-4*
 
 graphic analysis
 
@@ -1538,41 +1534,41 @@ https://archive.org/details/grammarbooktwo00perr
 https://archive.org/details/grammarbookthree00perr
 https://archive.org/details/grammarbookfour00perr
 
-### Albertson (1921) *An English grammar*
+## Albertson (1921) *An English grammar*
 
 [@albertson1921: 91-95]
 
-### Cross (1922) *The little grammar*
+## Cross (1922) *The little grammar*
 
 reed/kellog with arrows! [@cross1922: 105-116]
 
-### Tresler (1928) *Grammar in action*
+## Tresler (1928) *Grammar in action*
 
 https://lccn.loc.gov/28010886
 
-### House & Harman (1931) *Descriptive English grammar*
+## House & Harman (1931) *Descriptive English grammar*
 
 reed/kellog again [@house1931: 145-325]
 
-### Scott (1934) *Foundation grammar for high school students*
+## Scott (1934) *Foundation grammar for high school students*
 
 not yet found [@brittain1973: 204]
 
-### Harrisson (1940) *Working essentials of English grammar*
+## Harrisson (1940) *Working essentials of English grammar*
 
 not yet found [@brittain1973: 206]
 
-### Pemberton (1944) *Laboratory manual of English grammar*
+## Pemberton (1944) *Laboratory manual of English grammar*
 
 not yet found [@brittain1973: 209]
 
-### Warriner (1951) *English grammar and composition*
+## Warriner (1951) *English grammar and composition*
 
 Original started in 1946 difficult to find. Still in use today. contains redd/kellog throughout https://en.wikipedia.org/wiki/Warriner%27s_English_Grammar_and_Composition
 
 "complete course" Edition from 1951 [@warriner1951]. Edition from 1969 [@warriner1969], revised, but basically the same. Revised Edition from 1986: https://archive.org/details/englishgrammarco00holt completely revised, and number of diagramms are less, but basically still the same redd/kellog structure
 
-### Pence (1947) *A grammar of present-day English*
+## Pence (1947) *A grammar of present-day English*
 
 Raymond Woodbury Pence
 
@@ -1580,7 +1576,7 @@ many reprints, later with Donald William Emery
 
 diagramming identical to reed/kellog [@pence1947: 311-368]
 
-### Hall (1964) *Introductory linguistics*
+## Hall (1964) *Introductory linguistics*
 
 Analysis of an example of Cicero "in the traditional scholastic fashion" (p. 203-204) [@hall1964]
 
@@ -1594,9 +1590,9 @@ harmful to the body politic".
 
 Later "flow charts", introduced in [@hall1964: 206-207], much further developed in *Essentials of English phrase- and clause structures* [@hall1969]
 
-## Idiosyncratic analyses
+# Idiosyncratic analyses
 
-### Foerster & Steadman (1919) *Sentences and thinking* {#sec:foerster1919}
+## Foerster & Steadman (1919) *Sentences and thinking* {#sec:foerster1919}
 
 Norman Foerster (1887–1972) taught English at various universities (Wisconsin, North Carolina, Iowa and Duke). In contrast, John M. Steadman (1889-1945) taught at Emory University for his whole career.^[Some minimal biographical information about Foerster is available at <https://aspace.lib.uiowa.edu/agents/people/557>. Likewise minimal is the information that I have been able to find about Steadman, being a short obituary from the New York Times, available at <https://www.nytimes.com/1945/12/22/archives/dr-jm-steadman-educator-author-professor-emeritus-of-english-at.html>, both accessed 7 May 2026.] Together they wrote the book *Sentences and thinking* [@foerster1919], which is predominantly a guide to creative writing, but also contains a small part about grammatical structure. There appears to be no direct link to Sheffield's *Grammar and thinking* (see [@sec:sheffield1912]), neither through explicit references nor through their personal histories. The similarity in titles suggests there may have been some influence from Sheffield's book. Foerster and Steadman's book appears to have been reasonably successful, revised thoroughly in 1923 and again in 1931. The last revision was retitled *Writing and thinking*. The grammatical section remained unchanged across these revisions.
 
@@ -1639,10 +1635,10 @@ The example is quote verbatim in –of all places– a Chinese grammar by Li Jin
 Same tree analysis as in the previous [@fig:foerster1919_30] from a Chinese grammar by Jinxi [-@jinxi1924: 361]. The complete example from Foerster & Steadman is quoted verbatim in this grammar over multiple pages, but the picture is completely overhauled and much improved. The ordering of the main clauses (indicated by numbers) now correctly reflects the original sentence, and multiple subordination is correctly analysed. Even the linking between the three main branches appears to be reflected in small graphical flourishes. The Chinese caption reads: '(Figure 7) illustrates the structure of the complex sentence mentioned above' This is exactly the caption from the original.
 :::
 
-### Robert (1956) *Patterns of English*
+## Robert (1956) *Patterns of English*
 
 completely idiosyncratic system of letters and numbers. No references whatsoever [@roberts1956].
 
-### Smith (1957) *Superfixes and syntactic markers*
+## Smith (1957) *Superfixes and syntactic markers*
 
 [@smith1957] idiosyncratic system with symbols

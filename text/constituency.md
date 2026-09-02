@@ -1,8 +1,6 @@
-# Constituency
+# Constituency in Germany
 
-## Constituency in Germany
-
-### Wundt (1880) *Logik* {#sec:wundt1880}
+## Wundt (1880) *Logik* {#sec:wundt1880}
 
 Wilhelm Maximilian Wundt (1832-1920), professor in Leipzig, was one of the founders of modern psychology, but his writings touched on a wide range of topics including language. A survey of his linguistic work is presented by Knobloch [-@knobloch1992]. As for the graphical representation of sentence structure, he wrote a few pages about this in the first volume of his book *Logik* [@wundt1880: 49-70] and later expanded upon his approach in his ten-volume magnum opus *Völkerpsychologie*, specifically, in the second volume of the two-volume book *Sprache* [-@wundt1900b: 320-355].
 
@@ -76,7 +74,7 @@ German grammarians are not impressed by Wundt's linguistic analysis, and his gra
 
 Although Wundt's graphical analysis does not have had any direct followers (except for Sheffield in the USA, [@sec:sheffield1912]), his general approach seems to have influenced Bloomfield ([@sec:bloomfield1933]) and via Bloomfield it has influenced the tradition of *immediate constituents* in the USA, directly leading to Chomsky's generative grammar in the 1960. Specifically the idea of an exclusively binary subdivisions of sentences, a major tenet of Chomsky's approach, is probably directly attributable to Wundt (apparently without Chomsky knowing about this).
 
-### Götzinger (1880) *Deutsche Grammatik in genetischer Darstelllung* {#sec:götzinger1880}
+## Götzinger (1880) *Deutsche Grammatik in genetischer Darstelllung* {#sec:götzinger1880}
 
 his father used hierarchical brackets at some points, e.g. [@gotzinger1839: 383]
 
@@ -88,7 +86,7 @@ Götzinger proposes a very simple model for sentence analysis, consisting only o
 >
 > ('When one wants to display the sentence structure in a schematic image, then it is to be preferred to use the method of algebraic equations. Suppose S is called subject, SS subjective substantive, P predicate, PV predicative verb, then the formula for each sentence is: S+P or SS+PV. Both these constituents can be expanded; when the subjective substantive is expanded with an adjective (a) or with an apposition (A) or with a genitive (G) or with an indirect case (IC), then the following formulae would arise: (a+SS)+PV; (SS+A)+PV; (SS+G)+PV or (G+SS)+PV; (SS+IC)+PV. When the predicative verb is expanded with an accusative (Acc.) or a genitive (Gen.) or dative (D) or an indirect case (IC) or with an adverb, than the letter for this expansion would be encapsulated together with the PV, e.g. SS+(PV+Gen). Likewise, each new expansion of a coordinating or subordinating nature can be inserted into the basic formula, and likewise each subordinate clause, which belong either to the subject or the predicate. The crucial method for these [more complex, MC] sentence types is the bracket, by which the elements, which are to be assembled into a conceptual unit, are joined together.')
 
-### Dinkel (1895) *Zum Umsturz der Vulgärgrammatik* {#sec:dinkel1895}
+## Dinkel (1895) *Zum Umsturz der Vulgärgrammatik* {#sec:dinkel1895}
 
 Georg Dinkel (dates unknown) from Nürnberg wrote a small article in the *Bayerische Lehrerzeitung* about his *Plan einer einfachen Grammatik des Deutschen auf historischer Grundlage* 'plan for a simple German grammar on a historical basis' [@dinkel1895]. In this article he proposes a *Satzbild* that is based on the proposals from Ernst Götzinger (see [@sec:götzinger1880]), who is explicitly cited by Dinkel. Götzinger himself did not give any concrete examples of his approach, so the few examples in Dinkel's article are the only available examples of this kind of analysis. Of particular interest is the principle to use nested brackets to indicate hierarchical structure. For example, the sentence in [@next] is analysed with the *Satzbild* in [@fig:dinkel1895_634] 
 
@@ -100,7 +98,7 @@ Georg Dinkel (dates unknown) from Nürnberg wrote a small article in the *Bayeri
 *Satzbild* for the example sentenence in [@last] from Dinkel [-@dinkel1895: 634]. The numbers indicate cases (2=genitive, 3=dative, 4=accusative), ignoring the fact that the cases are governed by prepositions. Of particular interest is the use of nested brackets to indicate hierarchical structure.
 :::
 
-### Stöhr (1898) *Algebra der Grammatik* {#sec:stöhr1898}
+## Stöhr (1898) *Algebra der Grammatik* {#sec:stöhr1898}
 
 - Also note very simple diagrams in [@stohr1889: 199, 201]
 - cites jevons, who did some grammatical analysis in (1870). Stöhr might not have seen those examples specifically
@@ -125,7 +123,7 @@ durch Apposition gebildeten Ausdruckes zu anderen Ausdrücken, dürften zwei Kla
 Complex *Apposition* with hierarchically ordered brackets for the noun phrase in [@last] as proposed by Stöhr [-@stohr1898: 87]. The individual letters stand for linguistic expressions, *a* for lexical material and other letters for various grammatical elements. Although Stöhr claims some general "univeral" nature for the grammatical elements, they corresponds one-to-one to German words.
 :::
 
-### Drach (1937) *Grundgedanken der deutschen Satzlehre* {#sec:drach1937}
+## Drach (1937) *Grundgedanken der deutschen Satzlehre* {#sec:drach1937}
 
 Erich Drach (1885-1935) was a professor for speech science in Berlin [some basic biographical information is available in @winkler1959]. His posthumously published book *Grundgedanken der deutschen Satzlehre* [@drach1937] is regularly cited as the foundation of the contemporary *Felderanalyse* as used widely in German syntax. However, while Drach indeed uses the term *Feld* 'field', his templatic analysis of the German clause is far from original nor innovative (see [@fig:drach1937_18]). First, the idea to name positions in relation to the verb-position in a German sentence (*Vorfeld, Nachfeld*) was already used by Lehmann in 1833 (see [@sec:lehmann1833]). Further, Drach does not distinguish between what today would be called a *Mittelfeld* and a *Nachfeld* and simply collapses everything in one position called *Nachfeld*. Additionally, Drach's analysis omits the crucial idea of a fixed position for non-finite part of the verbal complex, which today is often referred to as a *rechte Satzklammer*. This structural position was, for example, already identified by Lonkay in 1855 (see [@sec:lonkay1855]). Drach instead talks about the end of his *Nachfeld* as the *Zielpol* 'goal pole', but this is not a syntactic position in Drach's analysis. The *Zielpol* is simply the focus of the sentence, which could just as well be an object or an adverb.
 
@@ -145,7 +143,7 @@ Er { ging, [ ohne ( auf die < sich bei ihr wiederholenden > Klagen ) einzugehen 
 Constituency tree-visualisation of the bracketed sentence structure [@last] from Drach [-@drach1937: 46]. The bracketed structure is clearly a constituent structure, although Drach does not use any labels for the constituents. In lieu of labels I have used the brackets itself in this graphical representation.
 :::
 
-### Weisgerber (1950) *Vom Weltbild der deutschen Sprache* {#sec:weisgerber1950}
+## Weisgerber (1950) *Vom Weltbild der deutschen Sprache* {#sec:weisgerber1950}
 
 Johann *Leo* Weisgerber (1899-1985) was a professor for comparative linguistics in Rostock, Marburg and Bonn. An extensive discussion of his life and work is provided by Roth [-@Roth2004]. In his syntactic analyses, Weisgerber was strongly influenced by the posthumously published work of Drach (see [@sec:drach1937]). Already in *Die volkhaften Kräfte der Muttersprache* [@weisgerber1939] he cites Drach's *Grundplan* 'outline' (see [@fig:drach1937_18]) and he re-iterates the importance of Drach's notion of *Umklammerung* 'bracketing' for the syntactic stucture of German [@weisgerber1939: 54-58]. After the war, Weisgerber published his 4-volume *opus magnum*, called *Von den Kräften der deutschen Sprache*, in which he again discusses the proposals from Drach in volume 3: *Die Muttersprache im Aufbau unserer Kultur* [@weisgerber1950: *Grundplan* 120-121, *Umklammerung* 188-193]. In this discussion Weisgerber includes various different visualisation for the hierarchical structure of the *Umklammerung*. 
 
@@ -171,7 +169,7 @@ Visualisation of the hierarchical structure of [@last b] from Weisgerber [-@weis
 Visualisation of the hierarchical structure of [@last c] from Weisgerber [-@weisgerber1950: 193]. This is basically the same approach as shown in the earlier illustrations, but with an extra indication of the word order (by arrows) and the depth (by numbers) of the embeddings.
 :::
 
-### Gipper (1950) *Sprachliche und geistige Metamorphosen* {#sec:gipper1950}
+## Gipper (1950) *Sprachliche und geistige Metamorphosen* {#sec:gipper1950}
 
 Helmut Gipper (1919-2005) was a professor for general linguistics in Münster and a student of Weisgerber (see [@sec:weisgerber1950]).^[The best biographical summary for Gipper that I could find is on the German Wikipedia at <https://de.wikipedia.org/wiki/Helmut_Gipper>.] He finished his dissertation *Sprachliche und geistige Metamorphosen bei Gedicht-Übersetzungen* in 1950, but it was only published in 1966 in *einen fast unveränderten Druck* 'an almost unchanged edition' [@gipper1966: 8]. In the preparation of his dissertation, Gipper had access to a pre-print version of Weisgerber's [-@weisgerber1950] *Von den Kräften der deutschen Sprache* and he cites Weisgerber's example [@last a] as an example of hierarchical embedding. 
 
@@ -181,7 +179,7 @@ Gipper develops his own visualisation using a "Chinese boxes" approach to show t
 Chinese boxes visualisation for the sentence [@last a] by Gipper [-@gipper1966: 119]. This example is cited from Weisgerber, who uses another visualisation (see [@fig:weisgerber1950_191a]). Exactly this visualisation is later quoted verbatim in the second edition of Weisgerber's book. During the 1940s various other, apparently independent, example of this visualisations are found in the linguistic literatur.
 :::
 
-### Glinz (1952) *Die innere Form des Deutschen* {#sec:glinz1952}
+## Glinz (1952) *Die innere Form des Deutschen* {#sec:glinz1952}
 
 Hanz Glinz (1913-2008) was professor for German philology in Aachen. A biographical summary and an in-depth discussion of his work is provided by Zlobinska-Görtz [-@zlobinska-gortz2018]. His *Habilitationsschrift* was accepted in Zürich in 1948 and published as *Die innere Form des Deutschen. Eine neue deutsche Grammatik* [@glinz1952]. This book was widely discussed in Germany and is generally considered to be an early example of a structuralist grammar for German. Glinz consistently uses *Proben*, i.e. syntactic constituency tests, to analyse the grammatical structure of German.
 
@@ -210,7 +208,7 @@ Meeting with US americans at International Congres of Linguists in London (52) a
 Satzkern, Satzrahmen (p.64): Personalform, Infinitform, Verbzusatz (157)
 https://nbn-resolving.org/urn:nbn:de:bsz:mh39-101601
 
-### Erben (1958) *Abriss der deutschen Grammatik* {#sec:erben1958}
+## Erben (1958) *Abriss der deutschen Grammatik* {#sec:erben1958}
 
 [@erben1958: 188] tree, citing Tesniere [@tesniere1953]. Aussagerahmen (p.172), Nachfeld inside! (~ Mittelfeld??) p. 173, vorfeld only for "determiner" position? p. 175
 
@@ -220,7 +218,7 @@ in the 1964 edition he adds a quib about the underwhelming results of the americ
 
 "Die von einigen amerikanischen Linguisten propagierte 'Konstituenten-analyse' kommt — in den bisherigen Ergebnissen — kaum über die herkömmliche Satzgliederung hinaus" [@erben1964: 266]
 
-### Griesbach & Schulz (1960) *Grammatik der deutschen Sprache*
+## Griesbach & Schulz (1960) *Grammatik der deutschen Sprache*
 
 Dora Schulz (1906-1974) in 1951 was a founding members of the *Goethe-Insitut*, a German nonprofit organisation that promotes knowledge and study of the German language internationally. Heinz Griesbach (1918-2008) joined the institute in 1953 as a teacher and later became the head of the institute's first teaching centre in Bad Reichenhall until his retirement in 1970. Because they were not satisfied with available German teaching materials for non-native speakers, Schulz and Griesbach developed their own textbooks on the basis of their practical experience, including a *Grammatik der deutschen Sprache* [@griesbach1960]. A first-hand personal account of the early years of didactic work at the Goethe-Institut in the 1950s is provided by Griesbach [-@griesbach2001].
 
@@ -250,11 +248,11 @@ Wenn du mir versprichst, daß du mir das Geld wiedergibst, sobald dir dein Vater
 Updated *Satzbild* of the same sentence as shown in [@fig:griesbach1960_371] from the 8th edition of Griesbach & Schulz [-@griesbach1970: 417]. Embedded sentences are now placed downward. The geometrical object are removed and replaced by more cryptic letter combinations. This "style" of syntactic analysis is more in-line with the Chomskyan approach, which has become fashionable at this point in time.
 :::
 
-### Esser (1961) *Grammatische und psychologische Kategorien in der deutschen Satzanalyse*
+## Esser (1961) *Grammatische und psychologische Kategorien in der deutschen Satzanalyse*
 
 Very close to Drach [@esser1961]
 
-### Engel (1970) *Regeln zur Wortstellung*
+## Engel (1970) *Regeln zur Wortstellung*
 
 https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/595/file/Engel_Regeln_zur_Wortstellung_1970.pdf
 
@@ -265,11 +263,11 @@ https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/595/file/Engel_Regeln_zu
 https://d-nb.info/112594563X/34
 http://nbn-resolving.de/urn:nbn:de:bsz:mh39-5959
 
-### Fourquet (1970) *Prolegomena zu einer deutschen Grammatik*
+## Fourquet (1970) *Prolegomena zu einer deutschen Grammatik*
 
 https://ids-pub.bsz-bw.de/frontdoor/index/index/docId/1194
 
-### Reis (1980) *On Justifying Topological Frames* {#sec:reis1980}
+## Reis (1980) *On Justifying Topological Frames* {#sec:reis1980}
 
 https://www.persee.fr/doc/drlav_0754-9296_1980_num_22_1_957
 
@@ -293,9 +291,9 @@ Höhle first uses word in print in 1979 [@hohle1979: 387]
 
 "Die Lehre von den topologischen Feldern besteht – nicht unter diesem Namen, aber in ihren wesentlichen Inhalten – seit mindestens 100 Jahren in gereifter Form." p.11
 
-## Immediate constituents in the USA
+# Immediate constituents in the USA
 
-### Sheffield (1912) *Grammar and thinking* {#sec:sheffield1912}
+## Sheffield (1912) *Grammar and thinking* {#sec:sheffield1912}
 
 Alfred Dwight Sheffield (1871-1961) [@sheffield1912: 50-51] Grammar and Thinking (citing Wundt prominently) Brittain (1973:204) says “linguists seem to have been unaware of his work”. This is not true!
 
@@ -307,7 +305,7 @@ also [@sheffield1929: 53]
 - Jespersen cites him in 1913 Sprogets Logic
 - review by Bloomfield, quite critical [@bloomfield1912]
 
-### Sapir (1921) *Language* {#sec:sapir1921}
+## Sapir (1921) *Language* {#sec:sapir1921}
 
 morphology-formula [@sapir1921]
 
@@ -319,7 +317,7 @@ Chinese boxes diagram from Mikuš [-@mikus1953: 20]
 Immediate constituent analysis from Seuren [-@seuren1998: 187]
 :::
 
-### Bloomfield (1933) *Language* {#sec:bloomfield1933}
+## Bloomfield (1933) *Language* {#sec:bloomfield1933}
 
 [@bloomfield1933: 160-161] slowly builds up the terminology, which seems to indicate that the terminology is newly developed for this book. He starts with *constituent (or component)* which is *contained in* or *included in* complex forms. The basic building blocks are morphemes, which cannot be further subdivided, and are called *ultimate constituents*. Then, finally, any intermediate grouping are called *immediate constituents*.
 
@@ -340,15 +338,15 @@ Use of vertical bars for separation appears old, e.g. Alexander Crombie https://
 - fifth edition (1843:162) https://google.com/books?id=Tx1AAAAAYAAJ
 - seventh edition (1853:162) https://www.loc.gov/item/11008559/
 
-### Pike (1943) *Taxemes and immediate constituents* {#sec:pike1943}
+## Pike (1943) *Taxemes and immediate constituents* {#sec:pike1943}
 
 [@pike1943: 70], citing bloomfield: boxes seem explication of Bloomfield's vertical bars
 
-### Bloch (1946) *Studies in colloquial Japanese*
+## Bloch (1946) *Studies in colloquial Japanese*
 
 citing Bloomfield https://www.jstor.org/stable/410208 p238ff. System with six different syntactic functions
 
-### Harris (1946) *From morpheme to utterance* {#sec:harris1946}
+## Harris (1946) *From morpheme to utterance* {#sec:harris1946}
 
 This system was already introduced in [@harris1946]! Cites Jespersen 1937 on p. 177, also Bloomfield, Pike, Bloch
 
@@ -404,11 +402,11 @@ see also the schemas on pp. 350, 353: more like "potential" structures, not actu
 ]
 === ]:
 
-### Wells (1947) *Immediate constituents*
+## Wells (1947) *Immediate constituents*
 
 [@wells1947: 84]
 
-### Nida (1949) *Morphology*
+## Nida (1949) *Morphology*
 
 nothing in 1946 version! [@nida1946]
 
@@ -432,7 +430,7 @@ https://archive.org/details/towardsscienceof0000euge
 
 summary of different equivalent graphics [@nida1964: 58-62]
 
-### Fries (1952) *The structure of English*
+## Fries (1952) *The structure of English*
 
 Charles Carpenter Fries (November 29, 1887 – December 8, 1967)
 
@@ -440,11 +438,11 @@ no graphics in "American English Grammar" (1940), probably one of the first real
 
 graphics in [@fries1952: 272] (Pike is a student of Fries, Fries might have been inspired by Pike 1943 here)
 
-### Bar-Hillel (1953) *A Quasi-Arithmetical Notation for Syntactic Description*
+## Bar-Hillel (1953) *A Quasi-Arithmetical Notation for Syntactic Description*
 
 [@barhillel1953] english explanation of [@ajdukiewicz1935]
 
-### Gleason (1955) *An introduction to descriptive linguistics*
+## Gleason (1955) *An introduction to descriptive linguistics*
 
 Henry Allan 'Al' Gleason Jr. (April 18, 1917 – January 13, 2007)
 
@@ -454,7 +452,7 @@ second edition from 1961 extended, Chomsky mentioned in introduction [@gleason19
 
 [@gleason1965] very open description: Ch7 on Reed/Kellog and other approaches, but also many chapters on TGG
 
-### Chomsky (1955) *The logical structure of linguistic theory*
+## Chomsky (1955) *The logical structure of linguistic theory*
 
 note: first generative rewrite rules following Harris already in [@chomsky1953].
 
@@ -472,28 +470,28 @@ also in [@chomsky1975: 181, 229, 258] https://archive.org/details/logicalstructu
 
 First trees in [@chomsky1956: 117-118], based on boxed table from Pike/Fries/Hockett
 
-### Hockett (1958) *A course in modern linguistics*
+## Hockett (1958) *A course in modern linguistics*
 
 [@hockett1958: 151-155, 178-180, 188-189]
 
-### Francis (1958) *The structure of American English*
+## Francis (1958) *The structure of American English*
 
 [@francis1958] chinese boxes. Stewart [@stewart1976] reports from personal communication with Francis, that the chinese-box diagrams were inspired on the graphical display in [@fries1952]
 
-### Gammon (1963) *On representing syntactic structure*
+## Gammon (1963) *On representing syntactic structure*
 
 [@gammon1963], completely ignoring chomsky?
 
-### Stageberg (1965) *An introductory English grammar*
+## Stageberg (1965) *An introductory English grammar*
 
 chinese boxes [@stageberg1965: 263]
 Fries-scheme of IC [@stageberg1965: 263-273]
 
 added chapter on TGG from different author. seems to be added late in the process of making the book.
 
-## Danish constituency
+# Danish constituency
 
-### Jespersen (1921) *De to hovedarter av grammattiske forbindelser* {#sec:jespersen1921}
+## Jespersen (1921) *De to hovedarter av grammattiske forbindelser* {#sec:jespersen1921}
 
 Otto Jespersen (1860-1943) was professor of English at Copenhagen. Jespersen worked on a wide variety of linguistic topics and throughout his long life he prepared a massive 7-volume *Modern English grammar on historical principles*. For most of his career he did not apply graphical or algebraic methods to linguistic analysis. There are just a few incidental symbolic representation in *Sprogets logik* 'The logic of language' [@jespersen1913: 80-81] and a single graphical representation in *De to hovedarter av grammattiske forbindelser* 'The two main types of grammatical connections' [@jespersen1921: 18]. Only towards the end of his life he published *Analytic syntax* [@jespersen1937], in which he laid out a completely symbolic framework for linguistic analysis. It feels like an idea he probably had been working on for a long time, but only published late in his career.
 
@@ -528,7 +526,7 @@ Jespersen uses letters, superscripts and brackets to represent syntactic structu
 Analysis of a complex sentence from Jespersen [-@jespersen1937: 83] citing an example from Fry [-@fry1925: 64] that originally was used to illustrate a graphical analysis (cf. [@fig:fry1925_64]). The brackets are not consistently closed in this example, but that appears to be a printing error (there should have been a closing bracket below *knife* and below *feeding*). All other examples in his book that I have checked have properly closed brackets.
 :::
 
-### Hjelmslev (1928) *Principes de grammaire générale*
+## Hjelmslev (1928) *Principes de grammaire générale*
 
 Louis Trolle Hjelmslev (1899-1965) was a linguist at the university of Copenhagen and co-founder of the *Lingvistkredsen* 'Linguistic Circle of Copenhagen' with Brøndal (see [@sec:brøndal1932]). Hjelmslev developed an intricate system of linguistic analysis under the label *glossomatik*, but he does not appear to have applied this to the analysis of longer stretches of text. There are many graphics in his work, but they mostly deal with paradigmatic structures. A rare syntactic visualisation is the rather trivial example shown in [@fig:hjelmslev1928_138] [@hjelmslev1928: 138] for the Latin sentence in [@next a]. A few years later he adds another trivial visualisation, as shown in [@fig:hjelmslev1935_52] [@hjelmslev1935: 52] for the Latin example in [@next b]. These visualisations are probably better analysed as showing government/agreement relations, and not as a real syntactic sentence analysis.
 
@@ -553,7 +551,7 @@ A trivial graphical analysis of the case government relations in the Latin sente
 Analysis of government (top) and agreement (bottom) relations inside the Latin sentence [@last b] as visualised by Hjelmslev [-@hjelmslev1935: 52].
 :::
 
-### Hammerich (1930) *Nexus, Subjekt und Objekt, Aktiv und Passiv* {#sec:hammerich1930}
+## Hammerich (1930) *Nexus, Subjekt und Objekt, Aktiv und Passiv* {#sec:hammerich1930}
 
 In *Liber americorum* for Jespersen's 70th birthday, closely following Jespersen (see [@sec:jespersen1921])
 
@@ -565,7 +563,7 @@ In *Liber americorum* for Jespersen's 70th birthday, closely following Jespersen
 Hierarchical analysis of Hammerich [-@hammerich1930: 312] following the proposal by Jespersen (see [@fig:jespersen1921_18]).
 :::
 
-### Brøndal (1932) *Morfologi og syntax* {#sec:brøndal1932}
+## Brøndal (1932) *Morfologi og syntax* {#sec:brøndal1932}
 
 Rasmus *Viggo* Brøndal (1887-1942) was a professor at Copenhagen and a co-founder of the *Lingvistkredsen* 'Linguistic Circle of Copenhagen' [biographical information is available in @hallon1989: xvi-xxvi]. In his books *Ordklasserne: partes orationis. Studier over de sproglige kategorier* [@brondal1928] and more specifically in *Morfologi og syntax* [@brondal1932; translated in @hallon1989] Brøndal develops a highly idiosyncratic system for linguistic analysis based on symbolic combinations of the letters *D, d, R, r*, as summarised in the fold-out appendix to the *Ordklasserne* [@brondal1928], shown here in [@fig:brøndal1928_appendix].
 
@@ -596,7 +594,7 @@ Graphical application of Brøndal's system to the clause in [@last a] as propose
 Tabular representation of Brøndal's categories inside of a noun phrase like [@last b] as proposed by Togeby [-@togeby1989: 110]. The roman numerals (I through VI) are directly taken from Brøndal [-@brondal1932: §70]. Brøndal's text is really hard to interpret, and he does not directly say that these roman numerals represent ordering classes as implied by the graphic shown here. However, Togeby's interpretation is consistent with the examples as discussed by Brøndal.
 :::
 
-### Hansen (1933) *Sætningen og dens led in moderne dansk* {#sec:hansen1933}
+## Hansen (1933) *Sætningen og dens led in moderne dansk* {#sec:hansen1933}
 
 Aage Hansen (1894-1983) studied with Otto Jespersen in Copenhagen and worked at that university for the rest of his career. He was a central author in the preparation of two major encyclopaedic works about the Danish language, namely the dictionary *Ordbog over det danske Sprog* and the grammar *Moderne Dansk* [more biographical information in @hjorth2025]. Earlier in his career Hansen wrote a rather programmatic book about language analysis, called *Sætningen og dens led in moderne dansk* 'sentences and its parts in modern danish' [@hansen1933]. This book is dedicated to Jespersen and contains various graphical analyses. However, the graphics do not play a central role in his argumentation and are only used sporadically as illustrations. 
 
@@ -638,7 +636,7 @@ b.
 Hierarchical brackets for the structure of sentence [@last b] as used by Hansen [-@hansen1933: 105]. The roman numeral I indicates the *bestemmes* 'modified' and the numeral II indicates the *bestemmer* 'modifier'. The subject *han* 'he' is left out of the analysis.
 :::
 
-### Diderichsen (1947) *Elementær dansk grammatik* {#sec:diderichsen1947}
+## Diderichsen (1947) *Elementær dansk grammatik* {#sec:diderichsen1947}
 
 https://de.wikipedia.org/wiki/Paul_Diderichsen
 
@@ -660,7 +658,7 @@ example p. 162, 167 (only later editions), 186
 
 He knew about Hansen, but never cited it. acknowledgement in 1964 Festschrift for Hansen [@diderichsen1966: 364].
 
-### Rehling (1951) *Det danske Sprog* {#sec:rehling1951}
+## Rehling (1951) *Det danske Sprog* {#sec:rehling1951}
 
 Erik Johan Gerhard Rehling (1890-1978) https://biografiskleksikon.lex.dk/Erik_Rehling
 
@@ -670,9 +668,9 @@ first edition 1932, third completely revised edtion 1951
 [@rehling1951: 232-233]
 :::
 
-## Other European constituency
+# Other European constituency
 
-### Ajdukiewicz (1935) *Die syntaktische Konnexität*
+## Ajdukiewicz (1935) *Die syntaktische Konnexität*
 
 [@ajdukiewicz1935; @ajdukiewicz1961]
 
@@ -688,7 +686,7 @@ und ihrer Arten
 
 https://eudml.org/doc/212136 does not contain anything similary to ajdukiewicz analysis
 
-### Mikuš (1947) *Le Syntagme EST-IL Binaire?* {#sec:mikuš1947}
+## Mikuš (1947) *Le Syntagme EST-IL Binaire?* {#sec:mikuš1947}
 
 Radivoj Francis Mikuš (1906-1983) was born in current Slovenia, but his life almost perfectly coincided with the existence of Yugoslavia. He studied romance languages in Ljubljana and Paris, and after WWII he became a lecturer in Ljubjana. After cricizing the influential linguist Aleksandar Belić, Mikuš left Ljubjana in 1958 and became professor in Zadar (today in Croatia). In his years in Ljubljana he signed his papers with the first name "Francis", while in the Zadar period he used "Radivoj" instead. Basic biographical data about Mikuš in provided by Jevnikar [-@jevnikar1984]. More details, specifically about his time in Zadar, can be found in Ćosić [-@cosic2014].
 
@@ -751,7 +749,7 @@ Penknife with corkscrew
 After moving to Zadar, Mikuš wrote various further papers, but he basically recapitulates his earlier ideas [@mikus1960; @mikus1962]. He participated in a large international conference on syntax in Erfurt [@mikus1961] and gave lectures in various universities in the GDR.^[Two papers from these lectures were published in 1962, available online at <https://doi.org/10.1524/stuf.1962.15.14.127> and <https://doi.org/10.1524/stuf.1962.15.14.137>.] In the 1960s, he moved to Lubumbashi in Zaire (today Democratic Republic of the Congo), where he wrote a monograph collecting all his ideas together [@mikus1972], but no new ideas can be found here.
 
 
-### de Groot (1949) *Structural linguistics and syntactic Laws* {#sec:degroot1949}
+## de Groot (1949) *Structural linguistics and syntactic Laws* {#sec:degroot1949}
 
 Albert W. de Groot (1892-1963)
 

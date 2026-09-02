@@ -1,12 +1,10 @@
-# Other developments
-
-## Teaching grammar to the Deaf
+# Teaching grammar to the Deaf
 
 > the *Theory of Ciphers*, by which Sicard distinguished the parts of a proposition, must be admitted to be a valuable invention. It consisted as most if not all of you know, in placing the figure 1 over the subject of the proposition, 2 over the attribute, 3 over the direct object, 4 over the preposition, and 5 over the regimen of the preposition. [@peet1859: 321-322]
 
 Appendix to the 1860 Census report (https://www2.census.gov/prod2/decennial/documents/1860a-01.pdf) contains discussion of teachers of the deaf: https://www2.census.gov/prod2/decennial/documents/1860a-16.pdf has information about Barnard and others (Peet, Vaïsse)
 
-### Sicard (1799) *Cours d'instruction d'un sourd-muet* {#sec:sicard1799}
+## Sicard (1799) *Cours d'instruction d'un sourd-muet* {#sec:sicard1799}
 
 Roch-Ambroise Cucurron Sicard (1742-1822) was director of *L'Institut National de Jeunes Sourds de Paris* and a highly influential educator for the Deaf. His father's surname was *Cucuron*, but Roch-Ambroise used it as a second first name, using his mother's surname *Sicard* as his surname. He wrote a two-volume *Grammaire générale* in which he introduced a superscript *chiffre* 'number' [@sicard1798a: 29] to indicate subject (with the digit 1) and verb (with the digit 2). However, he never uses these digits in the rest of his grammar. There are various examples of dotted lines in the grammar [e.g. @sicard1798b: 120, 125, 224, 328, 360-362, 369], but they are never used for the syntactic analysis of a specific sentence.
 
@@ -40,7 +38,7 @@ Procedure from Sicard [-@sicard1799: 206] to explain the formation of a relative
 There are various examples in which Sicard uses boxes to indicate subordinate clauses. This example is from Sicard [-@sicard1799: 213]. He does not develop this idea further.
 :::
 
-### Gaultier (1819) *Leçons de grammaire en action* {#sec:gaultier1819}
+## Gaultier (1819) *Leçons de grammaire en action* {#sec:gaultier1819}
 
 l’abbé Louis Gaultier (1746-1818)[ @gaultier1817] parsing tables, but without numbers https://fr.wikipedia.org/wiki/Louis_Gaultier
 
@@ -49,7 +47,7 @@ l’abbé Louis Gaultier (1746-1818)[ @gaultier1817] parsing tables, but without
 - https://www.google.de/books/edition/Exercices_sur_la_construction_logique_de/uiM316rUwZAC
 - https://www.google.de/books/edition/Phrases_gradue_es_extraites_de_Cice_ron/5Gf6lH8k7N8C see p. xix
 
-### Bébian (1827) *Manuel d'enseignement pratique des sourds-muets* {#sec:bebian1827}
+## Bébian (1827) *Manuel d'enseignement pratique des sourds-muets* {#sec:bebian1827}
 
 Auguste Bébian (1789-1839), born in Guadeloupe and godchild of Sicard, worked at *l'Institution Nationale des Sourds-Muets de Paris* until 1821. He was pushed out in 1821 after an altercation with the administrator Louis-Pierre Paulmier about class sizes [@bertin2015: 136-139], just a year before the death of Sicard. Bébian remained active in the education of the Deaf for the rest of his life. He devised a highly detailed method to transcribe sign language [@bebian1825], but it does not contain any information on its syntactic structure. A detailed discussion of Bébian's life and work is provided by Bertin [-@bertin2015].
 
@@ -73,7 +71,7 @@ Bébian develops more and more ideas how to further analyse sentences graphicall
 Further example of hierarchical sentence structure from Bébian [-@bebian1827: 160]. The underlined digit 1 stands for the subject, while the overlined digit 1 is the predicate of the copula construction, the copula being marked with a digit 2. Each of the parts of the sentence below the horizontal lines has its own syntactic structure, as indicated by the numbers.
 :::
 
-### Barnard (1836) *Analytic Grammar* {#sec:barnard1836}
+## Barnard (1836) *Analytic Grammar* {#sec:barnard1836}
 
 Frederick Augustus Porter Barnard (1809-1889) Barnard had a hereditary form of deafness that intensified in his later years, as did his brother and most of his family.
 
@@ -91,7 +89,7 @@ Mentions sicard and thanks Leon Vaysse from Paris, who was in New York 1830-1834
 
 Mentions system from Hartford, which was further developed later by Storrs and led to Porter and March
 
-### Vaïsse (1839) *Essai d'une grammaire symbolique*
+## Vaïsse (1839) *Essai d'une grammaire symbolique*
 
 Léon Vaïsse (1807-1881) was teacher of the Deaf and later the thirteenth director at *l'Institut National de Jeunes Sourds de Paris* (1866-1872), following in the footsteps of Sicard ([@sec:sicard1799]) and Bébian ([@sec:bebian1827]). In 1875 he was the tenth president of the *Société de Linguistique de Paris*. He proposed a phonetic transcription of spoken language based on the articulatory properties of the sounds [@vaisse1838] and was active in promoting phonetic research in France. While president of the *Société de linguistique de Paris* Vaïsse presented his phonetic system to the society, as recorded in the *Bulletin* for the meeting on the 9th of January 1875: "Vaïsse fait une communication sur une nouvelle manière de représenter les voyelles et les consonnes" [@vaisse1875].^[Some more sources mentioning Vaïsse: Article by Robert Brain in
 <https://monoskop.org/File:Lenoir_Timothy_ed_Inscribing_Science_Scientific_Texts_and_the_Materiality_of_Communication.pdf>. Gallaudet quoting Vaïsse here: <https://www.jstor.org/stable/44391960>. see also his influence in the french phonetic development here: <https://books.openedition.org/enseditions/31210>.]
@@ -108,7 +106,7 @@ The symbolic system of Vaïsse is even more complex than the one of Barnard, and
 Symbolic analysis from Vaïsse [-@vaisse1839: 27]. The symbols describe the grammatical properties of the words quite precisely, but there does not appear to be much grammatical analysis. For example, subordinate clauses are not indicated as whole entities. 
 :::
 
-### Peet (1853) *Grammatical symbols*
+## Peet (1853) *Grammatical symbols*
 
 Harvey P. Peet started in New York Intstitute in 1831
 
@@ -136,7 +134,7 @@ men of liberal education as teachers, the New York Institution has taken
 its place among the most successful schools of deaf-mute instruction in the
 world. (p.95) https://archive.org/details/tributetogallaud00barn The author is also called Barnard, but is not apparently related to Frederick Barnard https://en.wikipedia.org/wiki/Henry_Barnard
 
-### Porter (1868) *The instruction of the deaf and dumb in grammar*
+## Porter (1868) *The instruction of the deaf and dumb in grammar*
 
 p. 136-148 https://archive.org/details/ANNUALREPORT-Gallaudet-1868/
 
@@ -146,12 +144,12 @@ same in: American Annals of the Deaf, vol 14 (1869) p30-48 and 128 https://googl
 
 refers to Clark and Jewell
 
-### March (1869) *A parser and analyzer for beginners*
+## March (1869) *A parser and analyzer for beginners*
 
 Francis A. March, A Parser and Analyzer for Beginners, with Diagrams and Suggestive Pictures (1869). http://www.polysyllabic.com/?q=olddiagrams/clarkderiv
 thanks to: Richard Salter Storrs (deaf education in hartford, mentioned in preface of March 1869), see [@williams1885: 102]
 
-### Storrs (1880) *Methods of deaf-mute teaching*
+## Storrs (1880) *Methods of deaf-mute teaching*
 
 Richard Salter Storrs (1830-1884) bio: [@williams1885] Hartford 1853-1884. seems to have extended an earlier system in the 1850s-early 1860s. It is unclear what system was used before. Porter makes some comments
 
@@ -164,13 +162,13 @@ this quote suggests, Storrs has been using it since the 1850s:
 > I claim no other originality for the device I am describing than that it was wholly and independently wrought out by me in my
 earliest experience as a deaf-mute teacher [@storrs1880: 117]
 
-### Wing (1885) *Function symbols*
+## Wing (1885) *Function symbols*
 
 [@wing1885] further development of storrs/peet symbols for the deaf (which were also the basis for March 1869)
 
-## Scandinavia
+# Scandinavia
 
-### Broberg (1882) *Manuel de la langue danoise* {#sec:broberg1882}
+## Broberg (1882) *Manuel de la langue danoise* {#sec:broberg1882}
 
 *Severin* Carl Olfert Fischer Broberg (1822-1900) was a danish author and occasional lecturer at the Universities of Randers and Odense. He wrote a Danish language guide for French speakers, called *Manuel de la langue danoise* [@broberg1882]. To explain the Danish sentence structure he used a special graphical technique of an indented table [@broberg1882: 95-102]. There is no indication towards any inspiration that might have led Broberg to propose this kind of analysis. (Maybe Mager, [@sec:mager1840])
 
@@ -190,7 +188,7 @@ Repeated here is one of Broberg's Danish example sentence in [@next a], with his
 Indented table by Broberg [-@broberg1882: 95] to explain the sentence structure of the Danish example sentence in [@last a]. The actual order of the words is indicated by the numbers. The top to bottom order in the table indicates relative modification, i.e. each indented phrase modifies the head phrase above it. The placement of phrase 8 (*en af Gjæsterne*) is probably a printing error, it should be placed much more to the right.
 :::
 
-### Lindwall (1903) *Några ord om satsanalys* {#sec:lindwall1903}
+## Lindwall (1903) *Några ord om satsanalys* {#sec:lindwall1903}
 
 Anshelm Fredrik Wilhelm Lindwall (1859-1931) was a teacher in Stockholm.^[Some biographical information is available on the swedish Wikipedia <https://sv.wikipedia.org/wiki/Wilhelm_Lindwall>, accessed 11 January 2025.] In 1903 he writes a short paper with the title *Några ord om satsanalys* 'a few words about sentence analysis' [@lindwall1903]. This paper starts out as a review of a grammatical textbook by Rebbe & Fischer, but in the second part of this review Lindwall proposes a graphical display for the exaplanation of syntax *med tillhjälp af svarta taflan* 'with the help of the blackboard' [@lindwall1903: 137]. There is no indication given by Lindwall about the inspiration for his drawings.
 
@@ -219,7 +217,7 @@ Single-clause sentence [@last a] in the analysis of Lindwall [-@lindwall1903: 13
 Multi-clause sentence [@last b] in the analysis of Lindwall [-@lindwall1903: 146]. Each line represents a clause in the order as they occur in the sentence. Main clause are shown horizontally, primary subordinate clauses vertically. Any subsequent subordination is shown by a diagonal line, alternating in direction.
 :::
 
-### Beckman (1904) *Svensk språklära* {#sec:beckman1904}
+## Beckman (1904) *Svensk språklära* {#sec:beckman1904}
 
 Karl Frederik *Natanael* Beckman (1868-1946) was a high school teacher and later professor of Scandinavian languages at Gothenburg University [more biographical details are available in @friesen1922]. He wrote many different analyses of Swedish, both synchronically and diachronically. His *Svensk språklära för den högre elementarundervisningen* [@beckman1904] has been widely used and has remained in print at least until a 9th edition in the 1960s. He also prepared two reduced versions of this work, namely the *Svensk språklära för elementarundervisningen* [@beckman1908] and the *Svensk språklära för folkskolan* [@beckman1912]. These do not seem to add anything new and will not be further discussed here. 
 
@@ -248,7 +246,7 @@ b.
 *Karta* of the multi-clause sentence in [@last b] in the analysis of Beckman [@beckman1904: 202]. The main clause *(Hufvudsats)* and the subordinate clause *(Bisatz)* are drawn separately, with the insertion point of the subordinate clause noted by the word *bisats* in the main clause.
 :::
 
-### Noreen (1906) *Vårt språk*
+## Noreen (1906) *Vårt språk*
 
 Adolf Gotthard Noreen (1854-1925) was a professor for Germanic languages at Uppsala University [More biographical information in @elmevik1990]. His work was of great influence on all of scandinavian linguistics, but he does not seem to have used graphical analyses for sentence structure. However, he used an interesting graphical approach to morphological structure in the 7th volume of his magnum opus *Vårt språk* [@noreen1906].
 
@@ -271,7 +269,7 @@ b.
 Hierarchical morphological structure of the compound in [@last a] from Noreen [-@noreen1906: 33]. Noreen did not visualise the structure as a tree, but he used dashes to indicate the hierarchical structure. The number of dashes was intended as an indication of the hierarchical structure, which is depicted here in a modern way.
 :::
 
-### Rebbe (1912) *Svensk språklära för realskolan*
+## Rebbe (1912) *Svensk språklära för realskolan*
 
 Carl Rebbe (1862-1948) was a teacher in Gothenburg [some basic biographical information is available in @sjogren1949]. In 1912 he wrote the *Svensk språklära för realskolan* 'Swedish language-teaching for middle school'. This book has been extremely popular and remained in print in various editions and revisions until the 1970s, revised by either Nils Ivan, Helge Gullberg and/or Birger Bjerre. I have only been able to access the tenth edition from 1935 [@rebbe1935]. Starting in 1917 Rebbe also prepared a frequently reprinted *kortfattad* 'concise' version of the *Svensk språklära*. And in 1902 he published a collection of examples called *Exempelsamling till inöfvande af allmänna satsläran och skiljetecknens bruk* 'Collection of examples for practicing general syntax and the use of punctuation marks'. Walter Fischer revised this collection in 1914 with a minor change in title (*svenska satsläran* instead of *allmänna satsläran*). All these different textbooks and their numerous editions need a more in-depth investigation and comparison.
 
@@ -290,7 +288,7 @@ In the 1935 version, there is a single page with various examples of the graphic
 Graphical analysis of the sentence [@last] from Rebbe [-@rebbe1935: 118]. The pointing arrows for modification are similar to Beckman's approach (cf. [@fig:beckman1904_194]).
 :::
 
-### Nieminen (1939) *Suomen kielen oppikirja*
+## Nieminen (1939) *Suomen kielen oppikirja*
 
 Eemil Nestor Setälä (1864-1935) was a well-known Finnish politician and author of the Finnish declaration of independence.^[I thank Fred Karlsson and Matti Miestamo for their assistance with the Finnisch language and linguistic tradition.] However, he was also a professor for Finnish language and literature at Helsinki University and among many other grammatical works he wrote a little booklet *Suomen kielen oppikirja* 'Finnisch language textbook'. The first edition appeared in 1898 and has been reprinted various time. The version from 1925, that I have consulted, does not have any graphical analyses [@setala1925].
 
@@ -311,7 +309,7 @@ Kaarlo Nieminen (1887-1955) was a Finnish language teacher and acting professor 
 Dependency graph with arrows for the example sentence in [@last] from Setälä & Nieminen [-@setala1946: 68]. There is some similarity to the diagrom of Lindwall (cf. [@fig:lindwall1903_138]). The diagonal placement of the arrows is also faintly reminiscent of the USA-style diagramming, but the details of the positioning are completely different. This display might very well be an innovation by Nieminen.
 :::
 
-### Ojajärvi (1964) *Suomen kielen oppikirja*
+## Ojajärvi (1964) *Suomen kielen oppikirja*
 
 Aulis Onni Ojajärvi (1913-1968) was a dialectologist and language teacher.^[Some biographical information is available online at <http://www.norssit.fi/sivut/5_5_norssin_ojajarvi.php>, accessed 13 January 2025.] In 1964, after the death of Kaarlo Nieminen, he once again revised the *Suomen kielen oppikirja*. The version from 1970, that I have consulted, is rather different from earlier versions and contains completely different graphical analyses [@setala1970]. The structure from the examples sentence [@next] is illustrated in two different ways in [@fig:setälä1970_77]. The upper version is strongly reminiscent of the visualisation of Beckman (see [@sec:beckman1904]). The lower display is structurally identical, but the words are placed in their regular sentence order.
 
@@ -340,11 +338,11 @@ For complex sentences with subordinate clauses, Setälä, Nieminen & Ojajärvi [
 Visualisation of clause subordination for the examples sentence in [@last] from Setälä, Nieminen & Ojajärvi [-@setala1970: 98]. Subordination is indicated by graphically lower placement of the clause, depending on the depth of the embedding.
 :::
 
-## French
+# French
 
 Origin of the term *syntagma* in the Cours of 1916? Analyse logique with Du Marsais in 1754?
 
-### Lanusse & Yvon (1923) *Cours complet de grammaire française* {#sec:lanusse1923}
+## Lanusse & Yvon (1923) *Cours complet de grammaire française* {#sec:lanusse1923}
 
 Maxime Lanusse (1853-1930) and Henri Yvon (1873-1963) both worked as teachers in many different places throughout France.^[Some basic biographical data is available on Wikipedia at <https://de.wikipedia.org/wiki/Maxime_Lanusse> and <https://de.wikipedia.org/wiki/Henri_Yvon>, accessed 8 January 2026.] Together they wrote the *Cours complet de grammaire française*, which (they say themselves) was basically finished in 1914, but only published in 1921. It is cited here from the third edition [@lanusse1923], because I have been unable to access earlier versions. It has been reprinted at least up to a 16th edition from 1955.
 
@@ -358,7 +356,7 @@ Puisque nos soldats, pendant qu'ils soutenaient contre les Allemands des luttes 
 *Tableau d'analyse logique* of example [@last] from Lanusse & Yvon [-@lanusse1923: 227]. The main clause is a coordination of clause 4 and 6 in the middle of the graphic. The arrow pointing towards this main clause should have been reversed: all other arrows point towards the subordinate clause.
 :::
 
-### Damourette & Pichon (1933) *Essai de grammaire de la langue française* {#sec:damourette1933}
+## Damourette & Pichon (1933) *Essai de grammaire de la langue française* {#sec:damourette1933}
 
 Jacques Damourette (1873-1943) was an architect by training, but highly interested in linguistic questions. In 1911 he started working on a french grammar together with his nephew Édouard Pichon (1890-1940), by training a pediatrician and influential as a psychoanalyst.^[Some limited biographical information about them is available on Wikipedia at <https://fr.wikipedia.org/wiki/Jacques_Damourette> and <https://fr.wikipedia.org/wiki/Édouard_Pichon>, accessed 18 December 2025.] The first volume of the resulting *Essai de grammaire de la langue française* was published in 1930. In the end, the project grew to seven volumes with more than 4500 pages in total, including more than 31.000 french examples [cf. @muni-toke2013].
 
@@ -386,7 +384,7 @@ Without explanation, the verbform *offre* is replaced with *est offrant* in the 
 *Figure* of example [@last] from Damourette & Pichon [-@damourette1933: 185]. The basic horizontal bars connect *le repère* 'the reference' with *l'about* 'the about'. Prepositional phrases are are hanging down from this horizontal bar. Inexplicably, the simple present verbform *offre* 'offers' from the example is exchanged with the verbform *est offrant* 'is offered'. Even stranger, the finite auxiliary *est* ist placed in the box with the subject. This is probably a printing error.
 :::
 
-### Tesnière (1934) *Comment construire une syntaxe* {#sec:tesniere1934}
+## Tesnière (1934) *Comment construire une syntaxe* {#sec:tesniere1934}
 
 Many biographical details in https://doi.org/10.1515/9783110715118
 
@@ -400,7 +398,7 @@ precursor of Elements: [@tesniere1953]
 
 Direct line from Tesnière to computational usage of dependency grammar via Machine Translation and David Glenn Hays (1928-1995) https://en.wikipedia.org/wiki/David_G._Hays, specifically 1964: https://doi.org/10.2307/411934. See also https://api.pageplace.de/preview/DT0400.9789027283719_A24760940/preview-9789027283719_A24760940.pdf
 
-### Bologne (1935) *Analyse grammaticale* {#sec:bologne1935}
+## Bologne (1935) *Analyse grammaticale* {#sec:bologne1935}
 
 maurice bologne (1900-1984), cited by Jespersen [@jespersen1937: 87-88] *L'analyse grammaticale à l'aide de signes conventionnels*, originally published 1935 with Georges Thone in Liège. Reissued version with inspiration from Jespersen [@bologne1963]
 
@@ -421,7 +419,7 @@ https://nl.wikipedia.org/wiki/Maurice_Bologne
 *Analyse algébrique* [@bologne1963: 23]
 :::
 
-### Bally (1944) *Linguistique générale et linguistique française* {#sec:bally1944}
+## Bally (1944) *Linguistique générale et linguistique française* {#sec:bally1944}
 
 Charles Bally (1865-1947), successor to Ferdinand de Saussure as professor for general linguistics in Geneva
 
@@ -435,7 +433,7 @@ first edition no graphic [@bally1932], only in revision of 1944
 [@bally1944: 39]
 :::
 
-### Galichet (1947) *Essai de grammaire psychologique*
+## Galichet (1947) *Essai de grammaire psychologique*
 
 Georges Galichet (1904-1992) was the author of various grammatical french textbooks.^[Some basic biographical information is available on wikipedia at https://de.wikipedia.org/wiki/Georges_Galichet, accessed on 27 december 2025.] In his first textbook, *Essai de grammaire psychologique* [@galichet1947], he includes an *arête de poisson* 'fishbone diagram' to illustrate the stucture of a sentence with multiple phrases and subordinate clauses. He illustrates the structure of [@next] with the illustration showing in [@fig:galichet1950_169]. This graphic also shows the tripartite structure that Galichet uses throughout all his textbooks. This analysis is based on the principle of a second position for the verb in the French sentence structure. The tripartite structure also return in his second textbook *Méthodologie grammaticale. Étude psychologique des structures*, but with much simpler graphics [@galichet1953: 106]. The second edition of this book adds downwards arrows for subordinated clauses [@galichet1963: 231].^[This book is possibly a revision of his dissertation from the university of Poitiers from 1945 *Les mécanismes de la langue française. Essai de méthodologie grammaticale*. I have not been able to access this work.]
 
@@ -487,7 +485,7 @@ Later in his life, Galichet [-@galichet1980a; -@galichet1980b] revisites his thr
 Illustration of the multiple sentence embedding [@last] from Galichet [-@galichet1980b: 34] using chinese boxes for clauses embedded inside other clauses.
 :::
 
-### Bonnard (1950) *Grammaire française des lycées et collèges* {#sec:bonnard1950}
+## Bonnard (1950) *Grammaire française des lycées et collèges* {#sec:bonnard1950}
 
 Henri Bonnard (1915-2004) was teacher and author of various grammatical textbooks. A survey of his major works in given by Fouillet [-@fouillet2024]. In 1950 he wrote his first textbook *Grammaire française des lycées et collèges*, in which he uses a graphical display of syntactic structures. I have not been able to access a copy of the first edition. The fourth edition [@bonnard1957] is 'corrected' but probably in essence the same as the first edition. The ninth edition appears to be completely identical to fourth edition [@bonnard1970]. I will cite the ninth edition from 1970 here, but I expect that everything said here also holds for the first edition from 1950. Bonnard [-@bonnard1970: 4] cites Bally (see [@sec:bally1944]) and Damourette & Pichon (see [@sec:damourette1933]) as inspiration, among others. Specifically the graphical approach from Damourette & Pichon (see [@fig:damourette1933_185]) seems to have been a possible starting point for Bonnard's graphical approach. 
 
@@ -540,7 +538,7 @@ Julien promenait sur le quai le chien de ses maitres. \
 *Schéme* for example [@last] from Bonnard [-@bonnard1964: 54], proposed as an alternative to the approach by Mikuš from [@fig:bonnard1964_52]. Bonnard claims that this approach is *le plus clairement possible* 'as clearly as possible'. Different from the schemes in his textbook (see [@fig:bonnard1970_10] above), these schemes are verb-centric, like the stemmas from Tesnière.
 :::
 
-### Grevisse (1959) *Précis de grammaire française* {#sec:grevisse1959}
+## Grevisse (1959) *Précis de grammaire française* {#sec:grevisse1959}
 
 Maurice Grevisse (1895-1980) was a Belgian teacher, who wrote various grammatical textbooks for French, a few of which are still in print today. A survey of his life and work is provided by Lieber [-@lieber1986]. In the 1930s he wrote his most well-known book, called *Le bon usage* 'the good usage'. In 1939 he produced a shorter version of this book for use in schools, called *Précis de grammaire française* 'a consise guide to French grammar'. This book is still in print unter the new title *Le petit Grevisse*. Starting from the 25th edition, this book included graphical syntactic analyses.
 
@@ -584,7 +582,7 @@ Je vous avertis que vous vendrez le nécessaire si vous achetez le superflu. [@g
 Example of *schéma* for a complex sentence [@last] from Grevisse [-@grevisse1966: 28]. Each of the three clauses has objects, which are positioned on the same level as subject and predicate. Also the complement clause (introduced by *que*) is put on the same level as its matrix clause. The main clause shows an SOV order, while the other clauses have a SVO order. The complementizer *que* is considered a conjunction, as it is marked using hooks. Following Grevisse's logic, the subordinating conjunction *si* should also have been marked with such hooks. Note that in this example the internal structure of the subordinate clauses is marked by boldface (for the verb) and small vertical lines (delimiting the parts of the clause). This approach is not followed through in the rest of the book.
 :::
 
-### Dupont (1969) *De l'analyse grammaticale à l'analyse littéraire*
+## Dupont (1969) *De l'analyse grammaticale à l'analyse littéraire*
 
 First edition from 1962, citing Galichet, who also wrote the preface.
 
@@ -610,24 +608,24 @@ Le flanc enfant d'une sirène
 Dupont [-@dupont1969: 163], analysing an example from Stéphane Mallarmé *A la nue accablante tu*
 :::
 
-### more
+## more
 
 - Cassignol (1969) Essai de visualisation d'une théorie syntaxique https://www.jstor.org/stable/30248821
 - Martinet (1973) Conventions pour une visualisation des rapports syntaxiques https://www.jstor.org/stable/30248838 see also gregov/mazziota (2023) https://orbi.uliege.be/handle/2268/303201
 - Dubois/Lagane (1973/1986) la nouvelle grammarier de francais https://archive.org/details/lanouvellegramma0000dubo_a3j7 normal chomskyan phrase structure rules
 
-## Spanish
+# Spanish
 
 I thank María José García Folgado for many suggestions
 
-### Montoy (1882) *Análisis gramatical razonado*
+## Montoy (1882) *Análisis gramatical razonado*
 
 Montoy, Joaquim (1882, mayo 12). “Análisis gramatical razonado”. El Clamor del Magisterio, año 17, n°. 19 [@garcia-folgado2023]
 
 - https://bsky.app/profile/mjgarciafolgado.bsky.social/post/3ldscj467zc2n
 - https://ca.wikipedia.org/wiki/Joaquim_Montoy_i_Escuer
 
-### Escriche y Mieg & Fernández Iparraguirre (1884) *Nociones de gramática general*
+## Escriche y Mieg & Fernández Iparraguirre (1884) *Nociones de gramática general*
 
 Tomás Escriche y Mieg (1844-1918) and Francisco Fernández Iparraguirre (1852-1889)
 
@@ -637,7 +635,7 @@ large fold-out page between p124-125 (word classes) and between p146-147 (syntac
 
 https://www.bvfe.es/es/autor/9670-escriche-y-meig-c-tomas-y-francisco-fernandez-iparraguirre.html
 
-### Cordero (1907) *Gramática de la lengua castellana*
+## Cordero (1907) *Gramática de la lengua castellana*
 
 Francisco Febres Cordero (1854-1910), also known as "brother Miguel" in the Ecuadorian brotherhood *Hermanos de las Escuelas Christiana* [@montoro-del-arco2023: 169-171].
 
@@ -649,11 +647,11 @@ Cordero was sent to europe, and probably this version was published under his au
 
 A different level of granularity for the analysis of the sentence is the *quadro de subordination* 'subordination scheme' [explained in @cordero1907alumno: 28; more examples in @cordero1907maestro: 78, 92, 97, 105]
 
-### Solana (1911) *Tratado de análisis lógico y gramatical*
+## Solana (1911) *Tratado de análisis lógico y gramatical*
 
 [@solana1911], nicer pictures in 5th edition [@solana1920]
 
-### Bastiniani (1916) *Sintaxis castellana*
+## Bastiniani (1916) *Sintaxis castellana*
 
 Bastianini, René (1916). “Análisis sintáctico inmediato y secundario”. Sintaxis castellana y nociones de lingüística y etimología. Buenos Aires: Librería de A. García Santos, 48-49.
 
@@ -663,14 +661,14 @@ René Bastianini (1877-1953) [@bastianini1916: 42-49], see also [@toscano2017]
 - https://es.wikisource.org/wiki/Índice:Sintaxis_castellana.djvu
 - https://artedelaargentina.com/disciplinas/artista/pintura/rene-bastianini
 
-### Bouilly (1918) *Bosquejo de un nuevo método de análisis objetivo*
+## Bouilly (1918) *Bosquejo de un nuevo método de análisis objetivo*
 
 Bouilly, Enrique. (1918). “Bosquejo de un nuevo método de análisis”. El Monitor de la Educación Común. Año 36, n°. 550, p. 39.
 
 http://www.bnm.me.gov.ar/giga1/monitor/monitor/550.pdf p.32
 https://amsacta.unibo.it/id/eprint/7830/1/129-151%20Esteban%20Lidgett%20et%20al.pdf
 
-### More Spanish
+## More Spanish
 
 León Sanz Lodre, profesor de la Escuela de Comercio de Zaragoz [@montoro-del-arco2019]
 
@@ -679,11 +677,11 @@ https://www.bvfe.es/es/autor/10340-oca-y-merino-esteban.html
 
 Antonio Valcárcel [@garrido-vilchez2023] ???
 
-## Russian
+# Russian
 
 <http://bibl.tikva.ru/base/B358/B358Addon3.php>
 
-### Buslaev (1844) *О преподавании отечественного языка* {#sec:buslaev1844}
+## Buslaev (1844) *О преподавании отечественного языка* {#sec:buslaev1844}
 
 Fedor Ivanovich Buslaev (1818-1897) was professor for Russian linguistics in Moscow.^[Some basic biographical information is available on Wikipedia <https://en.wikipedia.org/wiki/Fyodor_Buslaev>, accessed 20 February 2025.] He was strongly influenced by the German linguistic tradition and broadly cites the German literature. Although he does not explicity cite any influence for his graphical approach, he might have been inspired by Diesterweg (see [@sec:diesterweg1830]) and Mager (see [@sec:mager1840]), both of which are cited recurrently by Buslaev.
 
@@ -718,7 +716,7 @@ Structure of subordination of the fable in [@last] as analysed by Buslaev [-@bus
 
 Philip Fedorovich Fortunatov (1948-1914)^[Some basic biographical information is available online at <https://en.wikipedia.org/wiki/Filipp_Fortunatov>, accessed 25 March 2025.] was a student of Buslaev and the teacher of Ushakov (born 1873, see [@sec:ushakov1926]) and Peshkovsky (born 1878, see [@sec:peshkovsky1914]), who in turn both had a great influence on the post-revolution russian grammarians (born after 1890). However, Fortunatov does not appear to have used any graphical grammar. Also, the post-revolution grammatical visualisation in the russian tradition do not follow Buslaev's approach, so there does not seem to have been a direct influence. In their effort to renew grammatical analysis, Ushakov and Peshkovsky appear to be influenced by Petrov (see [@sec:petrov1906]), who in turn might have been influenced by Polivanov (see [@sec:polivanov1873]) or Smirnovsky (see [@sec:smirnovsky1899]). However, Ushakov and Peshkovsky only seem to have 'discovered' Petrov's graphical grammar after the revolution in the early 1920s.
 
-### Polivanov (1873) *Краткій учебникъ русской грамматики* {#sec:polivanov1873}
+## Polivanov (1873) *Краткій учебникъ русской грамматики* {#sec:polivanov1873}
 
 Lev Ivanovich Polivanov (1838-1899) was a student of Buslaev (see [@sec:buslaev1844]). He worked as a teacher in Moscow and later started his own private school, known as the Polivanovskaya Gymnasium, which became highly successful and attracted many high-society children.^[Some basic biographical information is available on the Russian Wikipedia at <https://ru.wikipedia.org/wiki/Поливанов,_Лев_Иванович> and on the online Great Russian Encyclopedia at <https://bigenc.ru/c/polivanov-lev-ivanovich-53a79c>, both accessed on 4 July 2025.] 
 
@@ -742,7 +740,7 @@ Russian [@polivanov1893: 23, citing a sentence from a letter by N.M. Karamzin]
 *Разбор графический* 'graphic analysis' of the complex sentence [@last] from Polivanoc [-@polivanov1893: 23]. The letters refer to individual clauses of the complex sentence, following the tradition of Lehmann [@sec:lehmann1833]. The use of vertical lines for subordination might have been an influence of Hoffmann or (cf. [@fig:hoffmann1839_148]) or Bauer (cf. [@fig:bauer1850_95]). 
 :::
 
-### Lugebil (1883) *Синтаксись Аполлонія Даскола* {#sec:lugebil1883}
+## Lugebil (1883) *Синтаксись Аполлонія Даскола* {#sec:lugebil1883}
 
 Karl Yakimovich Lugebil (1830-1887) was a classical scholar, teacher and from 1864 professor in St. Petersburg.^[Some basic biographical information is available online at <https://www.biografija.ru/biography/ljugebil-karl-yakimovich.htm>, accessed 22 February 2025.] In a review of a book by Anton Dobiasz about the *Syntax* of Apollonius Dyscolus he uses various graphical syntactic analyses [@lugebil1883: 127-128]. In his review, Lugebil mostly cites German grammatical literature, for example there is a long discussion about the merits of Becker's grammatical ideas (cf. [@sec:becker1829]). Later, in a discussion about different interpretations of copula constructions, Lugebil cites Lehmann (see [@sec:lehmann1833]) and Nägelsbach (see [@sec:nägelsbach1846]) as important proponents of the idea to use graphical representations to explain grammatical structure:
 
@@ -763,7 +761,7 @@ Lugebil uses a completely different graphical format from Lehmann and Nägelsbac
 Different analyses of the Latin sentence [@last] from Lugebil [-@lugebil1883: 127]. According to Lugebil, the regular "newer" interpretation of this sentence is shown to the right, while the "older" meaning is shown to the left. In this "older" interpretation the sentence would be something like 'Cicero is a consul, installed in that year'.
 :::
 
-### Smirnovsky (1895) *Учебник русской грамматики* {#sec:smirnovsky1899}
+## Smirnovsky (1895) *Учебник русской грамматики* {#sec:smirnovsky1899}
 
 7th edition 1895 exactly identical, 8th edition 1896 exactly identical 
 
@@ -784,7 +782,7 @@ The second volume of this textbook deals with elementary syntax [@smirnovsky1899
 *Графическимь способомь* 'graphical method' for the example [@last] from Smirnovsky [-@smirnovsky1899: 4]. This analysis has a basic subject-predicate distinction with modifiers placed below their heads. Interestingly, the adverb *глубоко* 'deeply' is placed at the end of this dependency tree, although the word occurs in front of the predicate.
 :::
 
-### Petrov (1906) *Русскій язык* {#sec:petrov1906}
+## Petrov (1906) *Русскій язык* {#sec:petrov1906}
 
 Konstantin Fedorovich Petrov (1850-1914) wrote an introductory grammar of Russian, called *Русскій язык* 'Russian language' in 1880. The first volume, called *синтаксис* 'syntax', contains two dependency-like sentence analyses. Petrov also writes a second volume about morphology, called *этимологія* 'etymology', which will not be further discussed here.^[Various editions of the etymology volume are available online: the second edition from 1886 at <https://vivaldi.dspl.ru/bx0005310>, the 24th edition from 1913 at <https://rusneb.ru/catalog/000202_000006_2570896>, the 27th edtion from 1915 at <https://imwerden.de/publ-1047> and the 32nd edition from 1922 (revised by Ushakov after Petrov's death) at <https://www.prlib.ru/en/node/363128>.] These books were popular and appeared in at least 32 editions up to the end of the 1920s.
 
@@ -848,7 +846,7 @@ After the death of Petrov the books are updated by Ushakov (see [@sec:ushakov192
 The same analysis of [@last] as shown in [@fig:petrov1912_127b] from the grammar by Petrov in the revision by Ushakov [-@petrov1923: 167]. The graphic is basically the same, though Ushakov updated the Russian orthography and, curiously, he reversed the direction of the arrow for the inital subordinate clause (marked *когда?* 'when'). Instead of pointing to the dependents, the arrows now seem to indicate the ordering of the clauses in the original sentence.
 :::
 
-### Peshkovsky (1914) *Русскій синтаксисъ въ научномъ освѣщеніи* {#sec:peshkovsky1914}
+## Peshkovsky (1914) *Русскій синтаксисъ въ научномъ освѣщеніи* {#sec:peshkovsky1914}
 
 Alexander Matveyevich Peshkovsky (1878-1933) was an educator and prolific author of grammatical textbooks.^[Some basic biographical information is available online at <https://ru.wikipedia.org/wiki/Пешковский,_Александр_Матвеевич>, accessed 27 March 2025.] In his textbooks he used various different approaches to graphically explain syntactic structures. It appears like he is experimenting with different formats. His most influential work was *Русскій синтаксисъ въ научномъ освѣщеніи* 'Russian syntax in scientific education', which was first published in 1914 [@peshkovsky1914]. In the introduction [@peshkovsky1914: iii] he thanks Ushakov (see [@sec:ushakov1926]), who is just a few years older and they both studied with Fortunatov in Moscow. 
 
@@ -953,11 +951,11 @@ Later, Peshkovsky wrote a four volume introductory grammatical textbook *Пер�
 *Чертежи хода зависимости* 'dependency line figure' for the example in [@last] from Peshkovsky *et al.* [-@peshkovsky1931: 35]. Different from the other Russian examples, the subject is connected to the predicate with an arrow.
 :::
 
-### Peterson (1923) *Очерк синтаксиса русского языка*
+## Peterson (1923) *Очерк синтаксиса русского языка*
 
 'Essay on the syntax of the Russian language' [@peterson1923: 35]
 
-### Zeltser & Vvedensky (1925) *Как самому изучать русский язык* {#sec:zeltser1925}
+## Zeltser & Vvedensky (1925) *Как самому изучать русский язык* {#sec:zeltser1925}
 
 Sofya Afanasyevna Zeltser and Dmitry Nikolaevich Vvedensky wrote *Как самому изучать русский язык* 'How to learn Russian yourself' around 1925 [the second edition is @zeltser1925]. The book includes a single dependency-like tree for the sentence [@next] as shown in [@fig:zeltser1926_68]. As in many other such graphics, the subject-predicate pair is placed on top. However, different from all other approaches, the other elements are linked to this whole pair, not to the predicate alone. Also notewhorthy is the fact, that the words are not themselves interpreted as the the nodes in the graph, but placed along the edges.
 
@@ -972,7 +970,7 @@ Sofya Afanasyevna Zeltser and Dmitry Nikolaevich Vvedensky wrote *Как сам�
 Analysis of the examples in [@last] from Zeltser & Vvedensky, cited here from the third edition because of better image quality [@zeltser1926: 68], but almost completely identical to second edition [@zeltser1925: 68]. The subject-predicate pairing at the top here forms a unit on which the other element depend.
 :::
 
-### Ushakov (1926) *Учебная книга по русскому языку* {#sec:ushakov1926}
+## Ushakov (1926) *Учебная книга по русскому языку* {#sec:ushakov1926}
 
 Dmitrij Nikolajevich Ushakov (1873-1942) was professor at the Russian language department of Moscow University and most well known for his work on the Russian spelling reform and for the *Толковым словарём русского языка* 'Explanatory Dictionary of the Russian Language'.^[Some basic biographical information is available online at <https://www.prlib.ru/en/history/618974>, accessed 13 March 2025.] Throughout his life he wrote various pedagogical textbooks about Russian. His *Brief introduction to the science of language* [@ushakov1913] was reprinted various times, but it did not contain any graphical grammar. In 1923, after the death of Petrov (see [@sec:petrov1906]) Ushakov revised Petrov's grammar, which already included a few graphical representations of sentence structures. Only after this revision graphical analyses also appear in Ushakov's textbooks. Ushakov is also mentioned as the "editor" of Pustalov's textbook (see [@sec:pustovalov1928]) and the grammar of Kryuchkov & Svetlaev (see [@sec:kryuchkov1936]). He is also acknowledged for his help by Peshkovsky (see [@sec:peshkovsky1914]).
 
@@ -989,19 +987,19 @@ In 1926 Ushakov wrote a two-volume introductory textbook together with A.M. Smir
 *схема* 'scheme' for the example in [@last] from Ushakov, Smirnova & Nikolajevna [-@ushakov1930: 28]. The annotation of the relationships with questionwords is reminiscent of the graphics of Petrov (see [@fig:petrov1912_127a]). Differently from Petrov, the arrows are replaced with simple lines.
 :::
 
-### Pustovalov (1928) *Русский язык* {#sec:pustovalov1928}
+## Pustovalov (1928) *Русский язык* {#sec:pustovalov1928}
 
 I.I. Pustovalov (???)
 
 Russian language: a workbook for preparation to the university (1928: p29, 33-34, 75, 138, 167-168) https://www.prlib.ru/en/node/363134
 
-### Polivanov (1933) *Русская грамматика в сопоставлении с узбекским языком*
+## Polivanov (1933) *Русская грамматика в сопоставлении с узбекским языком*
 
 Evgenij Dmitrievič Polivanov
 
 Russian grammar in comparison with the Uzbek language [@polivanov1933: 163]
 
-### Kryuchkov & Svetlaev (1936) *Грамматика учебник для школ взрослых* {#sec:kryuchkov1936}
+## Kryuchkov & Svetlaev (1936) *Грамматика учебник для школ взрослых* {#sec:kryuchkov1936}
 
 Sergey Efimovich Kryuchkov (1897-1969) was a teacher and educator at the Moscow State Pedagogical Institute and the Lomonosov Moscow State University.^[Some basic biographical information is available on Wikipedia at <https://ru.wikipedia.org/wiki/Крючков,_Сергей_Ефимович>, accessed 26 March 2025.] Mikhail Vasilyevich Svetlaev (1898-1959) was a teacher at the Moscow Pedagogical Defectological Institute and also worked at the Moscow Polygraphic Institute.^[Some basic biographical information is available on Wikipedia at <https://ru.wikipedia.org/wiki/Светлаев,_Михаил_Васильевич>, accessed 26 March 2025.] Both these authors wrote various textbooks in collaboration with other linguists. Together they wrote the *Грамматика учебник для школ взрослых* 'Grammar textbook for adult schools'. This book probably first appeared in 1925 but I have only been able to access the widespread 13th edition from 1936 [@kryuchkov1936]. Exactly this edition is mentioned by Tesnière as a main influence on the development of his stemmata [@tesniere1959: 15, fn. 1].
 
@@ -1018,7 +1016,7 @@ Kryuchkov & Svetlaev use a *схе́ма* 'scheme' that is very similar to the v
 *схе́ма* 'scheme' for the example [@last] from Kryuchkov & Svetlaev [-@kryuchkov1936: 6]. This graphical analysis is very similar to the approaches of Smirnovsky in [@fig:smirnovsky1899_4] and of Ushakov *et al.* in [@fig:ushakov1930_28].
 :::
 
-### Barkhudarov (1938) *Грамматика русского языка*
+## Barkhudarov (1938) *Грамматика русского языка*
 
 Stepan Grigorievich Barkhudarov (1894-1983) was the head of the Leningrad Pedagogical Institute and lifelong active member of the USSR Academy of Sciences. A major aspect of his work was supervising the work on the 17-Volume *Словарь русского языка XVIII века* ('Dictionary of the Russian Language of the XVIII century'), which started appearing only after his death [more biographical details are presented by @ivanchikova1994]. All through his long career he wrote various textbooks about Russian grammar, which remain in use at least up to the 1970s. He also wrote various books about English grammar in Russian, and in this context Barkhudarov was intemately familiar with immediate constituents and the developing transformation generative grammar. For example Barkhudarov [-@barkhudarov1966] includes many syntactic trees in the style of Chomsky, though Chomsky himself is not cited. Barkhudarov seem most strongly influenced by Postal [-@postal1964a].
 
@@ -1072,11 +1070,11 @@ With various co-authors, Burkhudarov wrote many grammar textbooks for use in sch
 
 Basic scheme in [@barkhudarov1963: 11]
 
-### Beskrovny (1940) *Конспект лекций по синтаксису русского языка*
+## Beskrovny (1940) *Конспект лекций по синтаксису русского языка*
 
 Andrey Efimovich Beskrovny  (1940: 14): https://www.prlib.ru/en/node/337185
 
-### Barkhudarov & Shcherba (1946) *Грамматика русского языка*
+## Barkhudarov & Shcherba (1946) *Грамматика русского языка*
 
 Lev Vladimirovich Shcherba (1880-1944) https://ru.wikipedia.org/wiki/Щерба,_Лев_Владимирович
 
@@ -1104,7 +1102,7 @@ In the fifth edition, released in 1944, the main author of the textbook, Profess
 As a result of these changes, starting with the fifth edition, the numbering of paragraphs in the textbook and the exercises given in it does not always coincide with the numbering in the editions of previous years.
 This, my edition is printed according to the sixth without alterations, with the exception of the replacement of individual texts made in it by Professor S. G. Barkhudarov in some exercises.
 
-### Zemskij, Kruchkov & Svetlajev (1950) *Русский язык*
+## Zemskij, Kruchkov & Svetlajev (1950) *Русский язык*
 
 [@zemskij1950: 62]
 
@@ -1112,15 +1110,15 @@ This, my edition is printed according to the sixth without alterations, with the
 - Sergej Jefimovič Krjučkov (1897-1969) teacher and educator at the Moscow State Pedagogical Institute and the Lomonosov Moscow State University https://library.upol.cz/arl-upol/cs/detail-upol_us_auth-0301642-Krjuckov-Sergej-Jefimovic-18971969/?qt=mg https://ru.wikipedia.org/wiki/Крючков,_Сергей_Ефимович
 - Michail Vasil'jevič Svetlajev (1898-1959) https://library.upol.cz/arl-upol/en/detail-upol_us_auth-0336498-Svetlajev-Michail-Vasiljevic-18981959/ https://ru.wikipedia.org/wiki/Светлаев,_Михаил_Васильевич
 
-### Admoni (1961) *Partiturnoje strojenije*
+## Admoni (1961) *Partiturnoje strojenije*
 
 Admoni: Partiturnoje strojenije recevoj cepi i sistema grammaticeskich znacenij ν predlo/.enii [Die „Partitur"-Struktur der Redekette und das System grammatischer Bedeutungen im Satz]. In: Naucnyje doklady vysäej äkoly. Filologiceskije nauki [Wissenschaftliche Beiträge der er Hochschule. Philologische Wissenschaften]. 1961, H° 3. - 253, 272, 278, 288
 
 see also 4th edition 1982, p. 311-317 https://archive.org/details/derdeutschesprac0000admo
 
-## Czech
+# Czech
 
-### Hattala (1857) *Srovnávací mluvnice jazyka českého a slovenského* {#sec:hattala1857}
+## Hattala (1857) *Srovnávací mluvnice jazyka českého a slovenského* {#sec:hattala1857}
 
 Martin Hattala (1821-1903) was a Slowakian teacher in Bratislava and later professor for Slavic languages in Prague.^[The Czech Wikipedia has a concise summary of his life and work with many references to original sources at https://cs.wikipedia.org/wiki/Martin_Hattala, accessed 14 May 2025.] He has written extensively about the Czech and Slowak languages, but the only graphical analysis in his work appears in *Srovnávací mluvnice jazyka českého a slovenského* ['Comparative grammar of the Czech and Slovak languages', @hattala1857]. However, I have not been able to access his earlier book called *Skladba jazyka českého* 'Syntax of the Czech language' from 1855, which might be relevant for the present context.
 
@@ -1157,7 +1155,7 @@ d.
 Analysis of the *perioda* 'period' in [@last] from Hattala [@hattala1857: 99]. He uses a strongly simplified *Periodenbild* from the German tradition. He cites many German authors, specifically Bauer (see [@sec:bauer1850]) and Mager (see [@sec:mager1840]).
 :::
 
-### Kunz (1859) *Náuka o větách*
+## Kunz (1859) *Náuka o větách*
 
 Karel Kunz (1827-1895) was a teacher in Ošek, Opava and Plzeň. A summary of his life and work is presented by Newerkla [@newerkla2005: 108-111]. He wrote various textbooks on Czech grammar, among them *Náuka o větách pro školu a dům* ['Lessons in sentence (structure) for school and home', @kunz1861], cited here from the second edition, because I have not been able to access the first edition from 1859. From the preface is appears that there have not been any major revisions. The book appears to have been popular as it received seven editions, the last one from 1874. In the preface he cites Hattala (see [@sec:hattala1857]) and Zikmund (see [@sec:zikmund1863]) as influences. 
 
@@ -1178,7 +1176,7 @@ The book includes a discussion of the analysis of complex sentences using letter
 Structure of [@last] 'depicted in letters' (*písmeny zobrazen*) by Kunz [-@kunz1861: 95].
 :::
 
-### Zikmund (1863) *Skladba jazyka českého* {#sec:zikmund1863}
+## Zikmund (1863) *Skladba jazyka českého* {#sec:zikmund1863}
 
 Václav Zikmund (1816-1873) was a teacher in Písek and later in Prague.^[Some basic biographical information is available at <https://www.ctenizpisku.cz/cteni_autori/zikmund-vaclav/>, accessed 14 April 2025.] He taught Czech language in a time of newly blooming Czech nationalism. The preface of his *Skladba jazyka českého* ['syntax of the Czech language', @zikmund1863] starts with a note that the Czech language was recently reintroduced as a regular language for secondary school in 1849, which raised the need for new descriptive and didactic material in and about the Czech language.
 
@@ -1232,7 +1230,7 @@ Czech [@zikmund1866: 147, citing Václav Hájek of Libočany]
 *Obrázek* 'diagram' for the example [@last] from Zikmund [-@zikmund1866: 147]. He already presented the same example earlier [@zikmund1863: 692] but without concrete diagram. The double centre embedding is indicated by different kinds of bracketing.
 :::
 
-### Bartoš (1878) *Skladba*
+## Bartoš (1878) *Skladba*
 
 František Bartoš (1837-1906) was a teacher and later school principal in Brno. He was a wide-ranging ethnologist, working on the Czech language, Moravian dialects, folksongs and other cultural practices.^[The Czech Wikipedia has a concise summary of his life and work with many references to original sources at <https://cs.wikipedia.org/wiki/František_Bartoš_(etnograf)>, accessed 14 May 2025.]
 
@@ -1242,7 +1240,7 @@ Together with Matiáš Blažek he prepared the two-volume *Mluvnice jazyka česk
 *Obrázek* 'diagram' for the example [@last] from Bartoš [-@bartos1878: 155]. This analysis is copied verbatim from Zikmund (cf. [@fig:zikmund1866_147]), though note that the square and round brackets are reversed.
 :::
 
-### Gebauer (1890) *Mluvnice česká* {#sec:gebauer1890}
+## Gebauer (1890) *Mluvnice česká* {#sec:gebauer1890}
 
 Jan Gebauer (1838-1907) was a teacher and later professor in Prague. He is widely considered to be a main figure in the 19th Century scientifc study of the Czech language.^[A useful summary of his life and work is available on the Czech Wikipedia at <https://cs.wikipedia.org/wiki/Jan_Gebauer>, accessed 3 July 2025. A thorough biography is provided by Syllaba [-@syllaba1983; -@syllaba1986]. A short summary of this biography is provided in a review by Heumos [-@heumos1989], which is available online.] Based on this work as a school teacher, he remained interested in teaching grammar during his whole life. He prepared, for example, a revision of Zikmund's *Mluvnice jazyka českého* after Zikmund's death (see [@sec:zikmund1863]). While already professor at the university of Prague he published the two-volume *Mluvnice česká pro školy střední a ústavy učitelské* 'Czech grammar for secondary schools and teacher training institutes' [@gebauer1890]. This book was revised and republished at least until a ninth edition in 1926, long after his demise. 
 
@@ -1309,7 +1307,7 @@ In 1891 Gebauer publishes a short introductory version of the grammar, called *K
 Arches to indicate verb-argument and adjective-noun relations by Gebauer [-@gebauer1902: 127]. This graphical approach is revisited by Gebauer at various points in his writing, but it is never extended into a full-blown syntactic analysis.
 :::
 
-### Havránek (1933) *Cvičebnice jazyka českého* {#sec:havranek1933}
+## Havránek (1933) *Cvičebnice jazyka českého* {#sec:havranek1933}
 
 Bohuslav Havránek (1893-1978) was professor at the university of Prague and one the founders of the Prague Linguistic Circle, alongside the more widely known Vilém Mathesius. Before becoming professor in 1945 Havránek worked as a school teacher for many years. He retained an strong interest in the didactical aspects of grammar throughout his long life. An extensive overview of his many didactic pursuits is presented by Šmejkalová [-@smejkalova2013]. Havránek is too young to have personally known Gebauer (see [@sec:gebauer1890]), but he surely knew Gebauer's Czech grammar. However, at the time when Havránek studied Czech at Prague university, the grammar of Gebauer had already been revised by Ertl, who removed all graphical analyses, so there is probably no direct influence on Havránek in this regard. Interpreting the visual appearance of the graphical analyses in the work of Havránek it seems clear that they are influenced by the Russian tradition (cf. Ushakov *et al.*,[@sec:ushakov1926]). However, no concrete influences are acknowledged by Havránek in his writings.
 
@@ -1366,7 +1364,7 @@ Much later, simplified schemas of complex sentences appear in a work together wi
   The sun shone in the blue sky, but its rays did not burn, because a warm breeze blew from the snowy Krkonoše mountains.
 :::
 
-### Mrázek (1936) *Nová cesta* {#sec:mrazek1936}
+## Mrázek (1936) *Nová cesta* {#sec:mrazek1936}
 
 Josef Mrázek (1890−1969) was a native of Moravia, and worked as a high school professor in Prague. All information about Mrázek is taken from Novotna [-@novotna2012: 147-150, 190-191] because I have not been able to access any of his work myself. He uses graphical syntactic analyses in the third volume (for the third grade, published 1936) of his *Nová cesta. Pracovní učebnice a cvičebnice jazyka vyučovacího pro české měšťanské školy* 'New way. Workbook and exercise book of the language of instruction for Czech middle-class schools'. He refers to the use of graphical display in Russian grammars as an inspiration [@novotna2012: 190]. However, his graphics are very similar to the ones from Havránek (see [@sec:havranek1933]). Two examples from Mrázek are shown in [@fig:mrazek1936_6a] and [@fig:mrazek1936_6b] for the examples in [@next]. The second example shows that subordinate clauses are treated equally to other sentence constituents.
 
@@ -1393,11 +1391,11 @@ Graphical analysis of a single-clause sentence [@last a] from Mrázek [Mrázek 1
 Graphical analysis of a multi-clause sentence [@last b] from Mrázek [Mrázek 1936: 6, cited after @novotna2012: 191]. Exactly the same visualisation as for single-clause sentences is used for complex sentences with subordinate clauses, though note the absence of arrows.
 :::
 
-### Rostohar (1937) *O struktuře vẽtných významů*
+## Rostohar (1937) *O struktuře vẽtných významů*
 
 Hierarchical bracketing [@rostohar1937]
 
-### Kaňka & Vachek (1945) *Česká mluvnice a cvičebnice*
+## Kaňka & Vachek (1945) *Česká mluvnice a cvičebnice*
 
 Jan Kaňka 1897-1966
 Josef Vachek 1909-1996 https://cs.wikipedia.org/wiki/Josef_Vachek (prague circle)
@@ -1417,7 +1415,7 @@ I have accessed a copy from the University of Bamberg which was dedicated on the
 
 see also 1929 book *Česká mluvnice s připojenou cvičebnicí a slovníčkem pro obchodní školy*, which is hard to find: https://katalog.npmk.gov.cz/records/4e07c2f9-2b22-4772-977f-2f84ff9fdfd9
 
-### Šmilauer (1947) *Novočeská skladba*
+## Šmilauer (1947) *Novočeská skladba*
 
 Vladimír Šmilauer (1895–1983)
 
@@ -1431,11 +1429,11 @@ Vladimír Šmilauer (1955) fifth edition [@smilauer1968]
 
 Panevová, J. 2016. Syntax Vladimíra Šmilauera včera a dnes. Jazykovědné aktuality 53 (1 a 2): 30–35. https://www.jazykovednesdruzeni.cz/wp-content/uploads/2020/04/2016_1-2.pdf
 
-### Staněk (1952) Grafická metoda veíneho rozboru
+## Staněk (1952) Grafická metoda veíneho rozboru
 
 [@smilauer1953] talks about an article from Vladimir Staněk dealing with graphical representations [@stanek1952]
 
-### Other Czech
+## Other Czech
 
 grafické [@novotna2013; @novotna2012; @novotna2006; @vernerova2019]
 
@@ -1445,7 +1443,7 @@ grafické [@novotna2013; @novotna2012; @novotna2006; @vernerova2019]
 - KOHOUTEK−KOMÁREK, 1937, s. 135−136 [@novotna2012: 184]
 - VÍTEK−SIROTEK, II. díl, 1935, s. 112 [@novotna2012: 190] František Vítek, 1896-1990 https://www.cervenyknir.cz/vitek-ceska-mluvnice-pro-hlavni-skoly-5944v https://irel.knihovny.cz/Record/mzk.MZK01-000746958?sid=2718
 
-## Polish
+# Polish
 
 Digitalisations:
 
@@ -1460,7 +1458,7 @@ not accessible?
 - http://pbc.up.krakow.pl/dlibra/publication/6574/edition/6439
 - http://pbc.up.krakow.pl/dlibra/publication/6356/edition/6230
 
-### Lehr-Spławiński & Kubiński (1927) *Gramatyka języka polskiego*
+## Lehr-Spławiński & Kubiński (1927) *Gramatyka języka polskiego*
 
 Tadeusz Lehr-Spławiński (1891-1965)
 Roman Kubiński (1886-1957)
@@ -1478,7 +1476,7 @@ first edition 1927, cited here in 2nd edition [@lehr-spawinski1928: 150] single 
 [@lehr-spawinski1928: 150] 
 :::
 
-### Klemenciewicz (1935) *Język Polski*
+## Klemenciewicz (1935) *Język Polski*
 
 Zenon Klemenciewicz (1891-1969) structure of complex sentences consisting of multiple clauses [@klemensiewicz1935: 66-67]
 
@@ -1505,7 +1503,7 @@ Various textbooks by Klemenciewicz in the 1930s, but no graphics:
 - https://pbc.biaman.pl/dlibra/doccontent?id=49305
 - https://pbc.biaman.pl/dlibra/doccontent?id=48885
 
-### Bąk (1977) *Gramatyka języka polskiego*
+## Bąk (1977) *Gramatyka języka polskiego*
 
 Piotr Bąk (1911-2000) dialectologist, teacher and later lecturer at the university of Łódź
 
@@ -1517,7 +1515,7 @@ only major revision in 4th edition [@bak1984]
 
 https://pl.wikipedia.org/wiki/Piotr_Bąk_(językoznawca)
 
-### Other Polish
+## Other Polish
 
 More on old polish grammars, but apparaently no other syntactic graphics: https://gramatyki-uw-edu-pl.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp
 
@@ -1526,9 +1524,9 @@ Info from Tomasz (Ma)ksymil(ian) Majtczak: https://bsky.app/profile/ksymil.bsky.
 - wykres zdania złożonego (graph of a compound sentence)
 - Modern summary: Gruszczyński & Bralczyk (ed.), Słownik gramatyki języka polskiego, 2002 [@gruszczynskiego2002: 302-304]
 
-## Hungarian
+# Hungarian
 
-### Lonkay (1855) *Gyakorlati Német Nyelvtan* {#sec:lonkay1855}
+## Lonkay (1855) *Gyakorlati Német Nyelvtan* {#sec:lonkay1855}
 
 Antal Lonkay (1827-1888) was a teacher in Pest, Hungary [some biographical information is available in @benda1971]. He wrote a German grammar for speakers of Hungarian, called *Gyakorlati Nemet Nyelvtan az ausztriai birodalombeli elemi tanodak masodik es harmadik osztalyainak szamara* 'Practical German grammar for the second and third grades of elementary school students in the Austrian Empire' [@lonkay1855]. 
 
@@ -1554,7 +1552,7 @@ Lonkay explains in a bit more detail which elements are placed in this final pos
 Templatic table for German sentence structure from Lonkay [-@lonkay1855: 175]. The *allitmány* 'predicate' starts with a slot *Ige vagy esak segédige* 'Verb or auxiliary verb' and ends with a slot *Igenév v. határtalan mod és az igének hátratett elöljárók* 'Participle or non-finite mode and prepositions placed behind the verb'. This is very similar to the contemporary German grammatical sentence analysis using a *Verbalklammer* "sentence bracket".
 :::
 
-### Brassai (1873) *Paraleipomena kai diorthoumena* {#sec:brassai1873}
+## Brassai (1873) *Paraleipomena kai diorthoumena* {#sec:brassai1873}
 
 Sámuel Brassai (1800-1897) was a polymath in the Austro-Hungarian empire, who worked most of his life at the university of Klausenburg (today Cluj, Rumania). He published in Hungarian about a wide variety of subjects, including linguistics [more details about his linguistic work in @imrenyi2020a].
 
@@ -1579,9 +1577,9 @@ A different metaphor proposed by Brassai is to compare the structure of a senten
 >
 > 'I think, for example, that in the system called "sentence" (Satz, phrase), the sun is the dominant center, the verb. This attracts the planets that orbit and revolve around it, which grammarians discuss under the heading of Subject, Attribute, Object, Umstandswort, and who knows how many other different names, and which I bring all under the heading of "dependent". And rightly so, because from a syntactic point of view there is absolutely no difference between them. In a truly correct sentence, none of them is more important, none of them is more indispensable than any other. The dependents again attract and govern moons around themselves in the form of attributes, which again appear in different forms; but nevertheless, as dependents of dependents, they are all syntactically of the same kind.'
 
-## Romanian
+# Romanian
 
-### Tiktin (1895) *Gramatica Românǎ*
+## Tiktin (1895) *Gramatica Românǎ*
 
 Hariton Tiktin (1850-1936) was born in Breslau (Wrocław), but moved to Iași in Romania at the age of 18, where he worked as a teacher. He wrote a dissertation in Leipzig and worked as a lecturer at the Humboldt-University Berlin
 
@@ -1589,15 +1587,15 @@ Hariton Tiktin (1850-1936) was born in Breslau (Wrocław), but moved to Iași in
 
 Figures look very much like Kern, but no attribution
 
-## Dutch
+# Dutch
 
-### Paardekooper (1955) *syntaktische verkenningen*
+## Paardekooper (1955) *syntaktische verkenningen*
 
 basic underline-style diagramming in [@paardekooper1955], published version identical to thesis [@paardekooper1955a]. More extensive diagramming in [@paardekooper1963]
 
-## Chinese
+# Chinese
 
-### Li Jinxi (1924) *New grammar of the national language* {#sec:jinxi1924}
+## Li Jinxi (1924) *New grammar of the national language* {#sec:jinxi1924}
 
 Li Jinxi (黎锦熙, 1890-1978) became professor at the Peking Normal University in 1919, a position he held until his death. He does not appear to have ever left China, but his linguistic work is strongly influenced by the diagramming tradition from the USA. A short description of his linguistic work and the relation to other Chinese approaches to syntax is given by Peverelli [-@peverelli2015: 97-104].^[Some bBasic biographical information about Li Jinxi is available at <https://en.wikipedia.org/wiki/Li_Jinxi>, accessed 17 May 2026.]
 
@@ -1631,13 +1629,13 @@ c.
 
 Aside from this diagramming method, Li Jinxi [-@jinxi1924: 360-363] also verbatim quotes another graphical approach to syntactic analysis from the United States, this time from Foerster & Steadman [-@foerster1919: 29-30]. This section is just a few pages long, and it concerns a single example as discussed by Foerster & Steadman. Although Li Jinxi does not change the example at all, he does improve the graphical display (see [@sec:foerster1919] for a comparison of the graphics).
 
-### Amedeo Cracco (1951) *Grammatica della lingua cinese moderna* {#sec:amedeo1951}
+## Amedeo Cracco (1951) *Grammatica della lingua cinese moderna* {#sec:amedeo1951}
 
 Amedeo Cracco O.F.M. (1903-1970) 
 
 *diagrammi dell'analisi logica* = Jinxi-style 圖解法 tújiě fǎ [@amedeo1951: 202-203, 243-245], disccussion in <https://doi.org/10.13135/1825-263X/11595>
 
-## Japanese
+# Japanese
 
 Motoori Haruniwa (1763-1828) https://en.wikipedia.org/wiki/Motoori_Haruniwa
 
@@ -1652,6 +1650,6 @@ https://kokusho.nijl.ac.jp/biblio/100375645/64?ln=en
 
 Hori Hidenari (1819-87) 弖爾乎波略図義解 'A simple illustrated explanation of Telhoba' (1858) https://dl.ndl.go.jp/pid/13387055 bio: https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9559
 
-## Lithuanian
+# Lithuanian
 
 https://journals.lki.lt/bendrinekalba/article/view/2210 ???
