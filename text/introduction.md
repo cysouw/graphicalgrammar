@@ -62,53 +62,56 @@ As a result, every cited reference in the text is clickable and leads directly t
 
 # Major developments
 
-## The rise of the subject-object-predicate trinity {#sec:subjectobject}
+## Teaching the Deaf from Paris to New York
 
-Slowly, during the 17th and 18th Century, a new terminological amalgamation arose, combining terms from Aristotelian logic with concepts from the descriptive grammatical tradition. The result of this mixture are the contemporary terms "subject", "object" and "predicate", which seem to be first used in the modern sense at the start of the 19th Century. The history of the emergence of these terms deserves a detailed investigation in it's own right [cf. @forsgren1985; -@forsgren1992 for the German grammatical tradition]. The following summary is but a very short and strongly simplified overview of this terminological development. The underlying impetus for this development appears to be an ambition on behalve of grammarians to insert more "logic" into their analyses, or, in more modern terms, to create general terms for ~~grammatical functions~~ on top of the description of the ~~grammatical form~~ of linguistic elements.
+Paris, Hartford, New York 
 
-Everything starts with Aristoteles. First, the term "subject", through Latin *subiectum*, is a calque from Greek *ὑποκείμενον* 'that which lies beneath'. This term is one of the central tenets of Aristotelian philosophy of substance. Similarly, the term "predicate" is derived from Latin *praedicatum*, which is a calque from Greek *κατηγορούμενον* 'that which is being spoken against'. These two elements, subject and predicate, are the building blocks of the Aristotelian (and medieval) logical proposition, not of a linguistic sentence. In contrast, linguistically a Greek *λόγος* 'sentence' consists of *ὄνομᾰ* 'noun' and *ῥῆμα* 'verb'. Although Aristotle describes a third element linking the logical terms *ὑποκείμενον* 'subject' and *κατηγορούμενον* 'predicate', he does not use a specific term for this third element. Moro [-@moro2017: 35] argues that only with Abelard in the 12th Century a specific term is introduced for this link, namely the Latin term *copula*. Separataly, the term object, from Latin *objectum*, is a calque from Aristotle's *ἀντικείμενον* 'that which lies opposite'. This term does not play any role in classical logical analysis, nor in linguistic analyses. It only figures as a philosophical concept for observed reality.
+## Grammar for a new world
 
-In the ensuing centuries, the Latin terms *subiectum*, *praedicatum* and *copula* become a staple in medieval logic, specifically in the analysis of the syllogism. In contrast, these terms are never used for grammatical analysis of language. For example, the 13th Century scholastic grammarians (the "Modists") use *suppositum* and *appositum* approximately in the sense of the Greek *ὄνομᾰ* and *ῥῆμα*, respectively [@robins1980a: 234].
+Diagramming
 
-In the 17th Century, the *Grammaire Générale et Raisonnée* from 1660 by Antoine Arnauld and Claude Lancelot is probably one of the first occurences of new terminology. In their attempt to link language to logic and thought, there is a first glimpse of a terminological confluence of Aristotelian logic and the grammatical tradition, as the french word *sujet* ist used, although alongside *attribut* and not yet something like *prédicat*:
+Brown, Peirce, Barrett => Clark (1847)
 
-> La connoissance de la nature du Verbe dépend de ce que nous avons dit au commencement de ce discours, que le jugement que nous faisons des choses (comme quand je dis, *la terre est ronde*) enferme necessairement deux termes; l’un appellé sujet, qui est ce dont on affirme, comme, *terre*; & l’autre appellé attribut, qui est ce qu’on affirme, comme *ronde*: Et de plus la liaison entre ces deux termes, qui est proprement l’action de notre esprit qui affirme l’attribut du sujet. [@arnauld1660: 89]
-> 
-> ['The knowledge of the nature of the Verb depends on what we said at the beginning of this discourse, that the judgment we make about things (as when I say, *the earth is round*) necessarily includes two terms: one called subject, which is what we affirm about, such as *earth*; and the other called attribute, which is what is affirmed, such as *round*. And moreover the connection between these two terms, which is strictly the action of our mind that affirms the attribute about the subject.' translation from @kahane2020: 100]
+## Tables, templates and topology
 
-Also in the 17th Century, Christopher Cooper in his *Grammatica Linguae Aglicanae*, a grammar of the English language written in Latin, makes an attempt to bridge the two worlds of grammatical and logical analysis, clearly articulating the difference between the grammatical term "nominative" and the logical term "subject". He also uses the term "predicate", but apparently not yet "object":
+British tradition, German Feldermodell
 
-> Substantivum … Et hoc a *grammaticis* noncupatur casus nominativus, a *logicis* subjectum. … Id … vocatur praedicatum; quod si duobus verbis exprimitur, substantivum vel adjectivum subsequens copulam in regimine. [@cooper1685: 171-172]
-> 
-> ('Noun, … grammatically it is called nominative, logically it is called subject. … It is called predicate when there are two words expressed, noun or adjective following a copula.')
+Gaultier (1819), Becker (1830), Lonkay (1855)
 
-In the 18th Century the use of the logical terminology for functional categories in the analysis of sentence structure broadens. For example, in France, l'Abbé Girard in *Les vrais principes de la language françoise* [-@girard1747: 90-92] uses the terms *Subjectif*, *Attributif* and *Objectif* [see also @forsgren1985: 43]. He seems to build on the *sujet/attribut* terminology from the *Grammaire Générale et Raisonnée* (see above) and extends this functional approach to other aspects of linguistic structure, notebly introducing the term "object". In Germany, Johann Christoph Adelung in his *Umständliches Lehrgebäude der Deutschen Sprache* [-@adelung1782: 61] uses the terms *Subject* and *Praedicat*, but not anyting resembling the term object. In yet another example, this time from England, Joseph Priestly in his *Rudiments of English Grammar* (1772) uses the terms "subject" and "object", but he does not appear to have used the term "predicate":
+## Phrasal hierarchy
 
-> *Q.* What is meant by the Subject of an affirmation? \
-> *A.* The person of thing concerning which the affirmation is made.
-> 
-> *Q.* What is a verb transitive? \
-> *A.* A verb transitive, besides having a subject, implies, likewise, an object of the affirmation, upon which its meaning may, as it were, pass; and without which the sense would not be complete. [@priestley1772: 13]
+Constituency
 
-In the 19th Century the use of the terms subject, object and predicate becomes standard practice. For example, Heyse [-@heyse1827: 633-634], a highly influential German grammar from the start of the century, uses the terms *Subject/Gegenstand*, *Prädicat/Äußerung* and *Object/Zielwort*. However, even he feels the urge to explicitly introduce the latinate terms as "foreign". For example, when introducing *Gegenstand* and *Äußerung* as the basic parts of a sentence, he says: *sie werden als solche mit einem fremden Namen das ~~Subject~~ und ~~Prädicat~~ genannt.* 'with a foreign name, they, as such, are called subject and predicate' [@heyse1827: 633]. The grammar of Murray was similarly highy influential in the English speaking world, with numerous editions appearing throughout the 19th Century. However, he uses the terms "subject" and "object", but never "predicate", opting for "attribute" instead: "the principal parts of a simple sentence are, the subject, the attribute, and the object" [@murray1824: 126].
+Influence from Logical tradition of Boole/Frege/Mill/Peirce/Jevons etc.
 
-These are just a few examples of the gradual adoption of erstwhile logical terminology into the realm of grammatical description. The expansion of this terminology in the 17th and 18th Century needs a more detailed investigation than what I am able to provide here. But by the start of the 19th Century the terms *subject*, *object*, *predicate* and *copula* all seem to have been accepted as regular terms for grammatical analysis. Yet, there are two aspects of the logical origin of these terms that spill over into the grammatical realm and remain widespread in the 19th Century and beyond. These are, first, the balanced and privilaged bond between subject and predicate [cf. the "S-P-Funktion" in @forsgren1992: 75-76] and, second, the universality of the copula [cf. the "Copula-Theorie" in @forsgren1992: 135-153].
+- mostly usage of hierarchical brackets
 
-There seem to be at least two reasons:
+  - Götzinger (1880) => Dinkel (1895)
+  - Lugebil (1883)
+  - Jevons (1870) => Stöhr (1898) => Jespersen (1937)
 
-- First, the opposition subject/predicate with many authors becomes just a updated terminological replacement for the classical linguistic concepts of Greek *ὄνομᾰ*/*ῥῆμα* or Latin *suppositum/appositum*.
-- Second, IE verb inflection
-- Argument against: developing ideas about the verb as centre of the sentence, projecting roles/arguments.
-- argument against the copula-theory, e.g. Wundt 1880. Wundt's discussion of the 'old grammarians' [@wundt1900b: 222-224], arguing against the 'copula-theory'
+  - Drach (1937) => Glinz
+  - Mikuš (1947)
 
-## Precursors
+- trees: Wundt (1880) => Sheffield (1912) => Jespersen (1921) => Hansen (1933), Mikuš (1947)
+- trees: Adjukiewicz (1935) => Bar Hilel => Chomsky
+- somewhat similar with braces: Gebauer (1890), 
+- multiple dashes: Bloomfield (1933) => boxes of Pike is probably based on this
+- hierarchical open boxes: Zikmund (1863), Pike (1943)
+- hierarchical closed boxes: Hansen (1933), Mikuš (1947), Gipper (1950), Fries (1952) => Francis (1958)
+- planetary metaphor: Hansen (1933) => Rehling (1951)
+- Rewrite rules: Harris (1946) => Chomsky, Mikuš (1952)
+
+In periodenbilder: Individual examples of hierarchical bracketing by Lehmann (1833:79) and Götzinger [@gotzinger1839: 383] and many examples later
+
+# Precursors
 
 - parsing/abbreviations for words
 - grammaire logique
 - universal language/pasigraphy
 - early examples: Moritz, Senillosa, Kinker, Doherty, Picket=>Livingston/Alcott
 
-### Moritz (1782) *Deutsche Sprachlehre* {#sec:moritz1782}
+## Moritz (1782) *Deutsche Sprachlehre* {#sec:moritz1782}
 
 Karl Philipp Moritz (1756-1793) was a prolific author with wide ranging interests. Towards the end of his rather short life he became professor for the arts at the *Königliche Akademie der Künste* in Berlin. Among his many writings there are various instructional books and articles about grammar, see Schmidt [-@schmidt1993] for a concise summary of his linguistic oeuvre and Eichinger [-@eichinger1998] for an extensive discussion of his work. Of particular interest here is the *Deutsche Sprachlehre für die Damen in Briefen* [@moritz1782]. The context and linguistic content of this work is discussed in more detail by Buhofer [-@buhofer1994]. This book was quite successful, being reprinted in 1791, 1794 and 1806. All later editions dropped the somewhat curious addition *für die Damen* from the title.
 
@@ -165,7 +168,7 @@ Summarising, Moritz appears to have a clear understanding of, first, phrases as 
 
 All these theoretical concepts are quite charmingly summarised by his graphical display, which can be interpreted as a kind of precursor of a constituency structure. Apparently appearing completely out of the blue, the idea of using graphics to elucidate grammatical structure is off to a great start with these proposals from Moritz' *Deutsche Sprachlehre*. Unfortunately, his approach does not have had any following and it would take almost 50 years for graphical methods to be used again for grammatical analysis in Germany, namely by Diesterweg in 1830 (see [@sec:diesterweg1830]).
 
-### Maimieux (1797) *Pasigraphie*
+## Maimieux (1797) *Pasigraphie*
 
 Joseph de Maimieux (1753-1820)
 
@@ -177,7 +180,7 @@ more?
 - https://academic.oup.com/edited-volume/62210/chapter/550164521
 - https://en.wikipedia.org/wiki/An_Essay_Towards_a_Real_Character,_and_a_Philosophical_Language
 
-### Kinker (1817) *Inleidung voor eene wijsgeerige algemene theorie der talen*
+## Kinker (1817) *Inleidung voor eene wijsgeerige algemene theorie der talen*
 
 Johannes Kinker (1764-1845) was a Dutch poet and professor for Dutch language in Liège (from 1817 until the Belgian independence in 1830). He also was a member of the *Koninklijk-Nederlandsche Institut van Wetenschappen*, the predecessor of the current dutch academy of sciences (KNAW). Some further biographical information about Kinker is presented by Hanou [-@hanou1988: 19-35].
 
@@ -256,7 +259,7 @@ quantitatieve duiding, zoo wel als aan de dynamische en modale voegwoorden, een 
 >
 > ('To extend this formal pasigraphy into a complete system, in accordance with the general theory of language, which we have developed by the application of basic meanings to the linguistic forms, one would have to indicate not only the eight verbal dynamic modifications, but also all the modifications of verbal roots, by means of distinct signs, and assign a distinguishing mark to the prepositions, in their quantitative interpretation, as well as to the dynamic and modal conjunctions. However, this cannot be my task in this introduction to a general theory of linguistics. This scheme should be regarded merely as an example, intended to somewhat illustrate the nature of the formal and mechanical aspects of language.')
 
-### Senillosa (1817) *Gramática española*
+## Senillosa (1817) *Gramática española*
 
 (The lines above the words, representing grouping, might be inspired by a mathematical tradition of using the *vinculum* for grouping, see <https://mathshistory.st-andrews.ac.uk/Miller/mathsym/grouping/> or <http://webhotel4.ruc.dk/~jensh/Publications/2015%7Bf%7D_Embedding--Another%20Case%20of%20Stumbling%20Progress%20in%20the%20History%20of%20Algebra_S.pdf> or <https://rucforsk.ruc.dk/ws/portalfiles/portal/99659043/JH_Guwahati_presentation_2024-01-19.pdf>)
 
@@ -302,7 +305,7 @@ Hierarchical constituent analysis to represent the structure of [@llast] from Se
 Interlocking graphic to represent the structure of [@llast] from Senillosa [-@senillosa1817: 62]. The whole *proposicion* 'proposition/sentence' is analysed as five separate *juicios* 'judgements/clauses' [@last], displayed as lines, to be read from bottom left to top right. Somewhat reminiscent of a dependency structure, the words modified by a subordinate *juicio* are the junctures of the diagram, referenced by relativizers, i.e. by *los quales/la qual*.
 :::
 
-### Doherty (1841) *An introduction to English grammar*
+## Doherty (1841) *An introduction to English grammar*
 
 Hugh Doherty (???-1891) was an active proponent of Fourierism, a form of utopian socialism [@pankhurst1956: 400-408; @jenkins2003]. I have not been able to find more details about his life. In the 1840s, in the midst of the most active period of this movement, he managed to also publish a grammar [@doherty1841]. Later in life he publishes on diverse subjects like the *Philosophy of History and Social Evolution* and *Organic Philosophy*.^[Available online at <https://books.google.de/books?vid=Harvard:32044088061064> and <https://books.google.de/books?vid=Harvard:HXCXTR>, accessed 19 May 2026.]
 
@@ -330,46 +333,4 @@ In an appendix at the end of the grammar ["to excite the curiosity of the studen
 ::: {.im #doherty1841_235}
 Hierarchical brackets to explain the structure of the Latin example from Horace [@last] by Doherty [-@doherty1841: 235]. His brackets suggest an interpretation of this sentence as given in the translation in [@last].
 :::
-
-## Teaching the Deaf from Paris to New York
-
-Paris, Hartford, New York 
-
-## Grammar for a new world
-
-Diagramming
-
-Brown, Peirce, Barrett => Clark (1847)
-
-## Tables, templates and topology
-
-British tradition, German Feldermodell
-
-Gaultier (1819), Becker (1830), Lonkay (1855)
-
-## Phrasal hierarchy
-
-Constituency
-
-Influence from Logical tradition of Boole/Frege/Mill/Peirce/Jevons etc.
-
-- mostly usage of hierarchical brackets
-
-  - Götzinger (1880) => Dinkel (1895)
-  - Lugebil (1883)
-  - Jevons (1870) => Stöhr (1898) => Jespersen (1937)
-
-  - Drach (1937) => Glinz
-  - Mikuš (1947)
-
-- trees: Wundt (1880) => Sheffield (1912) => Jespersen (1921) => Hansen (1933), Mikuš (1947)
-- trees: Adjukiewicz (1935) => Bar Hilel => Chomsky
-- somewhat similar with braces: Gebauer (1890), 
-- multiple dashes: Bloomfield (1933) => boxes of Pike is probably based on this
-- hierarchical open boxes: Zikmund (1863), Pike (1943)
-- hierarchical closed boxes: Hansen (1933), Mikuš (1947), Gipper (1950), Fries (1952) => Francis (1958)
-- planetary metaphor: Hansen (1933) => Rehling (1951)
-- Rewrite rules: Harris (1946) => Chomsky, Mikuš (1952)
-
-In periodenbilder: Individual examples of hierarchical bracketing by Lehmann (1833:79) and Götzinger [@gotzinger1839: 383] and many examples later
 

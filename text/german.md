@@ -1,10 +1,51 @@
-# German origins of syntactic analysis {#sec:germany}
+# German origins of syntactic analysis
 
 ## A mostly forgotten tradition
 
-The 19th Century is widely considered to be the heyday of German linguistics. Many of the great names from the history of linguistics were German scholars from this time period, like von Humboldt, Bopp, Grimm, Schleicher, Paul, and so on. Yet, none of these greats will be mentioned in this book. In contrast, most of the scholars that will be discussed here will be completely unfamiliar to most contemporeneous linguists. The main reason is that the well-known scholars from the 19th Century were not very much interested in syntactic analysis. In contrast, the more philologically and didactically interested linguists constantly were dealing with those long, complicated and even strange sentence structures that were produced by the well-respected and maybe even idolated authors and poets they were studying. To elucidate these long-winding sentences, either as part of their research into stilistic characteristics or to explain these structures to newer generations of philological students, many scholars started using graphical methods for syntactic analysis. Although many of the authors to be discussed in the following chapters were pondering didactic consideration, there is also an important strain of stilistic research that was an important impetus for these developments.
+The 19th century is widely considered to be the heyday of modern linguistics, especially in Germany. Many of the great names from the history of linguistics were German scholars from this time period, like von Humboldt, Bopp, Grimm, Schleicher, Paul, and so on. Yet, none of these greats will be mentioned in this book. In contrast, most of the scholars that will be discussed here will be completely unfamiliar to most contemporeneous linguists. The main reason is that the well-known scholars from the 19th century were mainly interested in historical and psychological aspects of language and not delved very much into questions of syntactic analysis. In contrast, the more philologically and didactically interested linguists in the 19th century were constantly dealing with those long, complicated and even strange sentence structures that were produced by the well-respected and maybe even idolated authors and poets they were studying. To elucidate these long-winding sentences, either as part of their research into stilistic characteristics or to explain these structures to newer generations of philological students, many scholars started using graphical methods for syntactic analysis. Many of the authors to be discussed here were pondering didactic consideration, but there is also an important strain of stilistic research that was an important impetus for these developments.
 
-## *Nackte Sätze* {#sec:nackt}
+To understand the discussions of syntactic analysis in the 19th-century German literature, there are a few terminological arguments that played a central role in debate about syntax around 1800. The first development is the gradual emergence of the terms subject, object and predicate as the central concepts of sentence structure. This modern trinity of syntactic structure only crystallized at the start of the 19th century (see [@sec:subjectobject]). The second development is the concept of a "naked" sentence as the minimal structure of syntactic analysis (see [@sec:nackt]). Finally, the analysis of highly developed and complex sentences is regulary discussed as the analysis of the *Periode*, a classical term that is mostly lost in contemporary linguistic argumentation (see [@sec:period]).
+
+## The subject-object-predicate trinity {#sec:subjectobject}
+
+Slowly, during the 17th and 18th century, a new terminological amalgamation arose, combining terms from Aristotelian logic with concepts from the descriptive grammatical tradition. The result of this mixture are the contemporary terms "subject", "object" and "predicate", which seem to be first used in the modern sense at the start of the 19th century. The history of the emergence of these terms deserves a detailed investigation in it's own right [cf. @forsgren1985; -@forsgren1992 for the German grammatical tradition]. The following summary is but a very short and strongly simplified overview of this terminological development. The underlying impetus for this development appears to be an ambition on behalve of grammarians to insert more "logic" into their analyses, or, in more modern terms, to create general terms for ~~grammatical functions~~ (e.g. "subject") on top of the description of the ~~grammatical form~~ (e.g. "nominative") of linguistic elements.
+
+Everything starts with Aristoteles. First, the term "subject", through Latin *subiectum*, is a calque from Greek *ὑποκείμενον* 'that which lies beneath'. This term is one of the central tenets of Aristotelian philosophy of substance. Similarly, the term "predicate" is derived from Latin *praedicatum*, which is a calque from Greek *κατηγορούμενον* 'that which is being spoken against'. These two elements, subject and predicate, are the building blocks of the Aristotelian (and medieval) logical proposition, not of a linguistic sentence. In contrast, the linguistic analysis of a Greek *λόγος* 'sentence' consists of an *ὄνομᾰ* 'noun' and a *ῥῆμα* 'verb'. Although Aristotle describes a third element linking the logical terms *ὑποκείμενον* 'subject' and *κατηγορούμενον* 'predicate', he does not use a specific term for this third element. Moro [-@moro2017: 35] argues that only with Abelard in the 12th century a specific term is introduced for this link, namely the Latin term *copula*. Separataly, the term object, from Latin *objectum*, is a calque from Aristotle's *ἀντικείμενον* 'that which lies opposite'. This term does not play any role in classical logical analysis, nor in linguistic analyses. In antiquity, it only figures as a philosophical concept for observed reality.
+
+In the ensuing centuries, the Latin terms *subiectum*, *praedicatum* and *copula* become a staple in medieval logic, specifically in the analysis of the syllogism. In contrast, these terms are never used for grammatical analysis of language. For example, the 13th Century scholastic grammarians (the "Modists") use *suppositum* and *appositum* approximately in the sense of the Greek *ὄνομᾰ* and *ῥῆμα*, respectively [@robins1980a: 234].
+
+In the 17th Century, the *Grammaire Générale et Raisonnée* from 1660 by Antoine Arnauld and Claude Lancelot is probably one of the first occurences of new terminology. In their attempt to link language to logic and thought, there is a first glimpse of a terminological confluence of Aristotelian logic and the grammatical tradition, as the french word *sujet* ist used, although alongside *attribut* and not yet something like *prédicat*:
+
+> La connoissance de la nature du Verbe dépend de ce que nous avons dit au commencement de ce discours, que le jugement que nous faisons des choses (comme quand je dis, *la terre est ronde*) enferme necessairement deux termes; l’un appellé sujet, qui est ce dont on affirme, comme, *terre*; & l’autre appellé attribut, qui est ce qu’on affirme, comme *ronde*: Et de plus la liaison entre ces deux termes, qui est proprement l’action de notre esprit qui affirme l’attribut du sujet. [@arnauld1660: 89]
+> 
+> ['The knowledge of the nature of the Verb depends on what we said at the beginning of this discourse, that the judgment we make about things (as when I say, *the earth is round*) necessarily includes two terms: one called subject, which is what we affirm about, such as *earth*; and the other called attribute, which is what is affirmed, such as *round*. And moreover the connection between these two terms, which is strictly the action of our mind that affirms the attribute about the subject.' translation from @kahane2020: 100]
+
+Also in the 17th Century, Christopher Cooper in his *Grammatica Linguae Aglicanae*, a grammar of the English language written in Latin, makes an attempt to bridge the two worlds of grammatical and logical analysis, clearly articulating the difference between the grammatical term "nominative" and the logical term "subject". He also uses the term "predicate", but apparently not yet "object":
+
+> Substantivum … Et hoc a *grammaticis* noncupatur casus nominativus, a *logicis* subjectum. … Id … vocatur praedicatum; quod si duobus verbis exprimitur, substantivum vel adjectivum subsequens copulam in regimine. [@cooper1685: 171-172]
+> 
+> ('Noun, … grammatically it is called nominative, logically it is called subject. … It is called predicate when there are two words expressed, noun or adjective following a copula.')
+
+In the 18th Century the use of the logical terminology for functional categories in the analysis of sentence structure broadens. For example, in France, l'Abbé Girard in *Les vrais principes de la language françoise* [-@girard1747: 90-92] uses the terms *Subjectif*, *Attributif* and *Objectif* [see also @forsgren1985: 43]. He seems to build on the *sujet/attribut* terminology from the *Grammaire Générale et Raisonnée* (see above) and extends this functional approach to other aspects of linguistic structure, notebly introducing the term "object". In Germany, Johann Christoph Adelung in his *Umständliches Lehrgebäude der Deutschen Sprache* [-@adelung1782: 61] uses the terms *Subject* and *Praedicat*, but not anyting resembling the term object. In yet another example, this time from England, Joseph Priestly in his *Rudiments of English Grammar* (1772) uses the terms "subject" and "object", but he does not appear to have used the term "predicate":
+
+> *Q.* What is meant by the Subject of an affirmation? \
+> *A.* The person of thing concerning which the affirmation is made.
+> 
+> *Q.* What is a verb transitive? \
+> *A.* A verb transitive, besides having a subject, implies, likewise, an object of the affirmation, upon which its meaning may, as it were, pass; and without which the sense would not be complete. [@priestley1772: 13]
+
+In the 19th Century the use of the terms subject, object and predicate becomes standard practice. For example, Heyse [-@heyse1827: 633-634], a highly influential German grammar from the start of the century, uses the terms *Subject/Gegenstand*, *Prädicat/Äußerung* and *Object/Zielwort*. However, even he feels the urge to explicitly introduce the latinate terms as "foreign". For example, when introducing *Gegenstand* and *Äußerung* as the basic parts of a sentence, he says: *sie werden als solche mit einem fremden Namen das ~~Subject~~ und ~~Prädicat~~ genannt.* 'with a foreign name, they, as such, are called subject and predicate' [@heyse1827: 633]. The grammar of Murray was similarly highy influential in the English speaking world, with numerous editions appearing throughout the 19th Century. However, he uses the terms "subject" and "object", but never "predicate", opting for "attribute" instead: "the principal parts of a simple sentence are, the subject, the attribute, and the object" [@murray1824: 126].
+
+These are just a few examples of the gradual adoption of erstwhile logical terminology into the realm of grammatical description. The expansion of this terminology in the 17th and 18th Century needs a more detailed investigation than what I am able to provide here. But by the start of the 19th Century the terms *subject*, *object*, *predicate* and *copula* all seem to have been accepted as regular terms for grammatical analysis. Yet, there are two aspects of the logical origin of these terms that spill over into the grammatical realm and remain widespread in the 19th Century and beyond. These are, first, the balanced and privilaged bond between subject and predicate [cf. the "S-P-Funktion" in @forsgren1992: 75-76] and, second, the universality of the copula [cf. the "Copula-Theorie" in @forsgren1992: 135-153].
+
+There seem to be at least two reasons:
+
+- First, the opposition subject/predicate with many authors becomes just a updated terminological replacement for the classical linguistic concepts of Greek *ὄνομᾰ*/*ῥῆμα* or Latin *suppositum/appositum*.
+- Second, IE verb inflection
+- Argument against: developing ideas about the verb as centre of the sentence, projecting roles/arguments.
+- argument against the copula-theory, e.g. Wundt 1880. Wundt's discussion of the 'old grammarians' [@wundt1900b: 222-224], arguing against the 'copula-theory'
+
+## The concept of *nackte Sätze* {#sec:nackt}
 
 In German grammars of the 18th and 19th Century there is a widespread conceptual distinction between a bare and an extended sentence. A bare sentence is mostly defined as a sentence with only a subject and a predicate without any attributive or adverbial modifiers; a minimal sentence of sorts. The examples given always have intransitive verbs and it remains unclear whether transitive sentences also could be "bare". An extended sentence, in contrast, contains additional modifiers, though subordinate clauses are mostly relegated to yet further categories of sentence structure. This distinction is mostly referred to using the German words *nackt* 'naked' vs. *ausgebildet* 'developed'.^[This distinction might have been inspired by the tradition distinguishing between *syntaxis regularis* and *syntaxis ornata*.] However, there is some interesting variations and discussion throughout the 19th Century about exactly which word should be used.
 
@@ -26,6 +67,22 @@ The term *bekleidet* leads to a lot of discussion, because of the sexual connota
 
 > Seit lange (ich weiß nicht, seit wann) wird in der deutschen Grammatik gelehrt, daß ein nackter Satz wie *die Sonne scheint* die ursprünglichste Satzform darstelle und daß die Erweiterungen in einem bekleideten Satze wie z.B. *die helle Sonne bescheint die erfrischten Fluren* ihrerseits aus nackten Sätzen hervorgegangen sind. [@delbruck1901: 150]
 
+## The analysis of the period
+
+The term *Periode* as a grammatical term for the complex sentence is widespread in German 18th and 19th century grammatical texts. For example, it is used already by Meiner [-@meiner1781: 446] and Heyse [-@heyse1814: 491] and it appears in many works to be discussed in this book. The precise definition is constantly being disputed, but most authors use the term *Periode* for a complex sentence with many subordinated clauses.
+
+This term goes straight back to antiquity. Aristotle used the term *περίοδος* 'periodos' to describe something akin to a complete sentence, consisting of multiple clauses (with *κῶλον* 'kolon' being used for something akin to a clause). Burkett explains that "the term *periodos* is one of Aristotle‘s visual metaphors, suggesting a circular motion or completeness of thought and rhythm." [@burkett2011: 206].
+
+> λέγω δὲ περίοδον λέξιν ἔχουσαν ἀρχὴν καὶ τελευτὴν αὐτὴν καθ᾽ αὑτὴν καὶ μέγεθος εὐσύνοπτον (Aristoteles, Rhetorica III 9.3)^[Original online at the Perseus Digital Library < http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg038.perseus-grc1:3.9.3>.]
+> 
+> ['I call a period an expression having a beginning and an end in itself and a magnitude easily taken in at a glance.' translation from @burkett2011: 206]
+
+The desire to summarise the structure of a complex *Periode* is a crucial starting point for the graphical analysis of sentences in 19th Century Germany, starting with Herling [-@herling1823, see [@sec:herling1823]]. The main tool that is used is a so-called *Periodenbild* 'image of a Period'. The basic idea is to assign some symbols to each clause, and then combine these symbols into a visualisation to illustrate the interrelation between the many clauses that make up a *Periode*. The term *Periodenbild* for the analysis of a multi-clause sentence was first used by August Lehmann [-@lehmann1833, see [@sec:lehmann1833]]. His proposal includes a distinction between capital letters for main clauses and lower-case letters for subordinate clauses, a principle that remains a fixture throughout all variants of these *Periodenbilder*. In contrast, almost all other details differ widely from author to author.
+
+Friedrich Diesterweg [-@diesterweg1834, see [@sec:diesterweg1830]] adopted Lehmann's terminology and added the term *Satzbild* for the structure of a monoclausal sentence. The two terms *Periodenbild* and *Satzbild* return throughout the 19th century in German grammars, although they start being used rather interchangeably. Even though many authors distinguish between two different graphical analyses, one for single-clause sentences and one for multi-clause sentences, Diesterweg's terminological distinction did not persist and most authors simply use the term *Satzbild* for both analyses. Linguistic *Bilder* remain virulent up to the present, the term *Periodenbild* gradually faded away from linguistic memory at the start of the 20th Century.
+
+# Frankfurt
+
 ## Frankfurtische Gelehrtenverein für deutsche Sprache
 
 Contemporary syntactic analyses have many different predecessors, but an astonishingly large number of historical pathways to today's approach to syntax lead back to a letter written in 1817 by Johann Georg Breidenstein (1769-1847), pastor in Bad Homburg, adressed to Georg Friedrich Grotefend (1775-1853), vice-chancellor of the *Städtische Gymnasium* in Frankfurt am Main, in which Breidenstein asks Grotefend: 
@@ -44,14 +101,13 @@ Herling and Becker were both strongly interested in syntactic matters, trying to
 
 The works of Herling and Becker proved enormously influential. In Germany, their ideas were further developed by Diesterweg (1830) and Lehmann (1833), initiating an important line of development that ultimately underlies almost all other approaches to graphical syntax. The only major independently developed tradition is the 19th century American school of sentence diagramming. Becker's ideas also entered the English grammatical tradition through Morell (1852) and Mason (1858), but unlike the German and the American tradition this line of development largely came to an end in the 20th century.
 
-
 ## Herling (1823) *Periodenbau der deutschen Sprache* {#sec:herling1823}
 
 Simon Heinrich Adolf Herling (1780-1849) was a teacher in Frankfurt am Main and founding member, and later main organiser, of the *Frankfurter Gelehrtenverein für deutsche Sprache*. His analysis of multi-clause sentences is widely considered foundational for the grammatical analysis of German. A wide-ranging appraisal of Herling's work can be found in Elmentaler [-@elmentaler1996]. Herling is a close friend and colleague to Ferdinand Becker (see [@sec:becker1829]), who is also an active member of the *Frankfurter Gelehrtenverein*. A plan to write a joint grammar fell apart, indicating different opinions in their approach to grammatical analysis [@haselbach1966: 69]. Their relation remains amicable, as indicated by the fact that the first part of Herling's *Syntax der deutschen Sprache* [@herling1830] is dedicated to Becker.
 
-Strictly speaking, the work of Herling does not include any graphical display of grammatical analysis. However, his work is still included here because he introduces some notation that will be expanded upon graphically by later authors, especially Lehmann (see [@sec:lehmann1833]) and Götzinger (see [@sec:götzinger1836]). Herling's notational framework is first introduced in the *Grundregeln des deutschen Stils oder der Periodenbau der deutschen Sprache. Ein Lehrbuch für den stilistischen Unterricht* [@herling1823], which later becomes the second part of *Die Syntax der deutschen Sprache* (second edition 1827, third edition 1832).
+Strictly speaking, the major works of Herling do not include any graphical display of grammatical analysis. However, his work is still included here because he introduces some notation that will be expanded upon graphically by later authors, especially Lehmann (see [@sec:lehmann1833]) and Götzinger (see [@sec:götzinger1836]). Herling's notational framework is first introduced in the *Grundregeln des deutschen Stils oder der Periodenbau der deutschen Sprache. Ein Lehrbuch für den stilistischen Unterricht* [@herling1823], which later becomes the second part of *Die Syntax der deutschen Sprache* (second edition 1827, third edition 1832).
 
-In his book Herling analyses the different ways a *Periode* is constructed from multiple clauses. In a short note inserted in small font inside the main text, Herling proposes a special notation *um die Umformungen kürzer zu bezeichnen, und so leichter überschauen zu können* 'to succinctly mark the transformations and thus be able to survey them more easily' [@herling1823: 177]. The usage of the term *Umformung* deserves it's own discussion, which will not be pursued here. The special notation is summarised slightly clearer in the second and third edition [e.g. @herling1832: 232, see also 177]. The version from the third edition is shown here in the [@fig:herling1832_232], which can be translated as follows:
+In his book Herling analyses the different ways a *Periode* is constructed from multiple clauses. In a short note inserted in small font inside the main text, Herling proposes a special notation *um die Umformungen kürzer zu bezeichnen, und so leichter überschauen zu können* 'to succinctly mark the transformations and thus be able to survey them more easily' [@herling1823: 177]. Herling's usage of the term *Umformung* 'transformation' deserves it's own discussion, which will not be pursued here. The special notation is summarised slightly clearer in the second and third edition [e.g. @herling1832: 232, see also 177]. The version from the third edition is shown here in the [@fig:herling1832_232], which can be translated as follows:
 
 > For the succinct marking of the sentences and their syntactic relationships may the following symbols be of use: *h* indicates grammatical main sentence; *b* adjective clause, *β*, when it is shortened; *a* adverbial clause, *α*, the same shortened; *s* nominal clause, *σ* the same shortened. The exponents, e.g. *a^2^* indicate the grammatical grade, to *h* e.g. *h^2^* the grade of the logical gradation; *h/2*, *h/3*, indicates that the main clause, or *a/2*, *a/3* that the adverbial clause is separated into two or three parts. The coefficients e.g. *2h* indicate the number of equivalent main clauses; with *a*, *b*, *s* their relationship to the main clauses, often their coordination. [@herling1832: 232]
 
@@ -235,21 +291,9 @@ Dasjenige Objektiv, welches als das Hauptwort des ganzen Verhältnisses anzusehe
 [@becker1830: 261]
 :::
 
-# The start of visual syntax in Germany
+# The inception of visual syntax in Germany
 
 ## *Periodenbilder* & *Satzbilder*
-
-The term *Periode* as a grammatical term for the complex sentence is widespread in German 18th and 19th century grammatical texts. For example, it is used already by Meiner [-@meiner1781: 446] and Heyse [-@heyse1814: 491] and it appears in many works to be discussed in this book. The precise definition is constantly being disputed, but most authors use the term *Periode* for a complex sentence with many subordinated clauses.
-
-This term goes straight back to antiquity. Aristotle used the term *περίοδος* 'periodos' to describe something akin to a complete sentence, consisting of multiple clauses (with *κῶλον* 'kolon' being used for something akin to a clause). Burkett explains that "the term *periodos* is one of Aristotle‘s visual metaphors, suggesting a circular motion or completeness of thought and rhythm." [@burkett2011: 206].
-
-> λέγω δὲ περίοδον λέξιν ἔχουσαν ἀρχὴν καὶ τελευτὴν αὐτὴν καθ᾽ αὑτὴν καὶ μέγεθος εὐσύνοπτον (Aristoteles, Rhetorica III 9.3)^[Original online at the Perseus Digital Library < http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg038.perseus-grc1:3.9.3>.]
-> 
-> ['I call a period an expression having a beginning and an end in itself and a magnitude easily taken in at a glance.' translation from @burkett2011: 206]
-
-The desire to summarise the structure of a complex *Periode* is a crucial starting point for the graphical analysis of sentences in 19th Century Germany, starting with Herling [-@herling1823, see [@sec:herling1823]]. The main tool that is used is a so-called *Periodenbild* 'image of a Period'. The basic idea is to assign some symbols to each clause, and then combine these symbols into a visualisation to illustrate the interrelation between the many clauses that make up a *Periode*. The term *Periodenbild* for the analysis of a multi-clause sentence was first used by August Lehmann [-@lehmann1833, see [@sec:lehmann1833]]. His proposal includes a distinction between capital letters for main clauses and lower-case letters for subordinate clauses, a principle that remains a fixture throughout all variants of these *Periodenbilder*. In contrast, almost all other details differ widely from author to author.
-
-Friedrich Diesterweg [-@diesterweg1834, see [@sec:diesterweg1830]] adopted Lehmann's terminology and added the term *Satzbild* for the structure of a monoclausal sentence. The two terms *Periodenbild* and *Satzbild* return throughout the 19th century in German grammars, although they start being used rather interchangeably. Even though many authors distinguish between two different graphical analyses, one for single-clause sentences and one for multi-clause sentences, Diesterweg's terminological distinction did not persist and most authors simply use the term *Satzbild* for both analyses. Linguistic *Bilder* remain virulent up to the present, the term *Periodenbild* gradually faded away from linguistic memory at the start of the 20th Century.
 
 ## Diesterweg (1830) *Praktischer Lehrgang für den Unterricht*  {#sec:diesterweg1830}
 
@@ -825,9 +869,9 @@ Example of the analysis of a multi-clause sentence from Wetzel & Wetzel [-@wetze
 
 ## Lehmann (1870) *Leitfaden für den Unterricht* {#sec:lehmann1870}
 
-Josef Lehmann (1838-1911) was a teacher at the teachers' seminary in Vienna (Austria), not related to Johann Lehmann (see [@sec:lehmann1833]). A few biographical details about Josef Lehmann are available in Klein [-@klein1993]. Lehmann wrote various popular textbooks that all saw many different editions:
+Josef Lehmann (1838-1911), born in northern Bohemia, eventually became a teacher at the teachers' seminary in Vienna (Austria). He is not related to Johann Lehmann (see [@sec:lehmann1833]). A few biographical details about Josef Lehmann are available in Klein [-@klein1993]. Lehmann wrote various popular textbooks that all saw many different editions:
 
-- *Leitfaden für den Unterricht in der deutschen Grammatik. Für Real- und Bürgerschulen*. First edition 1870, reissued at least until the 9th edition of 1894. It is cited her from the first edition [@lehmann1870].
+- *Leitfaden für den Unterricht in der deutschen Grammatik. Für Real- und Bürgerschulen*. First edition 1870, reissued at least until the 9th edition of 1894. It is cited her from the first edition [@lehmann1870]. The first edition, published in Prague, was written while Lehmann was still a teacher in Teplitz (Teplice) in the Czech Republic.
 - *Deutsche Schulgrammatik: Für Lehrerbildungsanstalten und zum Selbstunterrichte*. First edition in 1875, reissued at least until the 11th edition of 1912. It is cited here from the second edition [@lehmann1878]. This book became an official textbook for use in teacher's education in 1876 [as mentioned in the *Vorrede zur zweiten Auflage* of @lehmann1878].
 - *Sprachbuch für österreichische Volks- und Bürgerschulen*. First edition 1878, consisting of four volumes. Cited here is the fourth volume for classes six to eight [@lehmann1878a]. Revised after Lehmann's death by Rudolf Löhrl with a slightly changed title as *Deutsches Sprachbuch für österreichische Bürgerschulen*.
 - *Sprachbuch für österreichische Volksschulen*. First edition 1879, consisting of two volumes, apparently a simplified version of the previous book. This version does not contain any graphical display [@lehmann1879]. Revised after Lehmann's death by Rodulf Löhrl under the title *Deutsches Sprachbuch für österreichische allgemeine Volksschulen*.
@@ -874,33 +918,36 @@ Es ist ein Lob für einen Mann, wenn man seine Fehler sagen darf, ohne daß er a
 Graphical analysis of the sentence in [@last] from Zitzlsperger [-@zitzlsperger1871: 135]. The notational details are very similar to those of Bauer (see [@sec:bauer1850]). The underlining is new: it is used to indicate the complexity of the clause. Also the meaning of the superscripts is different from Bauer: it is used to indicate the semantic kind of the adverbial clause.
 :::
 
-## Baron, Junghanns & Schindler (1876) *Deutsche Sprachschule*
+## Baron, Junghanns & Schindler (1875) *Deutsche Sprachschule*
 
-Baron, Carl Moritz (1839-1911) https://de.wikipedia.org/wiki/Moritz_Baron
-Junghanns, Theodor
-Schindler, Hermann
-all teacher in Dresden https://www.archiv.sachsen.de/archiv/bestand.jsp?guid=21ab194c-f571-4937-ab3c-24f9b5d2d705
+The text book *Deutsche Sprachschule in konzentrischen Kreisen* is originally conceived by Carl Moritz Baron (1839-1911) from Dresden. The "concentric circles" are a pedagogical concept in which every next book repeats the preceding content and adds something to it, instead of simply linearly expanding from year to year with new content. The first edition was published in 1875 in collaboration with two younger colleagues from Dresden, Theodor Junghanns and Hermann Schindler.^[Basic biographical information about Baron is available online at <https://de.wikipedia.org/wiki/Moritz_Baron>. No biographaical information is available on Theodor Junghanns. Hermann Schindler is probably born in 1856 and still alive in 1927, cf. <http://digital.slub-dresden.de/id1935066625-19270000>. All links accessed 3 September 2026.]
 
-the "concentric circles" are a pedagogical concept in which every next book repeats the preceding content and adds something to it, instead of simply linearly expanding from year to year.
+In the most advanced 8th volume of the *Deutsche Sprachschule* a simplistic analysis of complex sentences with letters is introduced [cited here from the second edition, still in the same year, @baron1875: 2-36]. As many others around this time, capital letters indicate main clauses, while lowercase letter are used for subordinate clauses. Levels of subordination are indicated by superscript numbers. There is a possible influence from Josef Lehmann (see [@sec:lehmann1870]), who wrote his first book in Teplitz, which is close to Dresden. The most telling indication for an influence from Lehmann is the usage of the letter *v* to indicate *verkürzte* i.e. non-finite subordinate sentences. In the discussion of the *Periode* a graphical representation like Diesterweg (see [@sec:diesterweg1830]) is used, though a similar image is also found in the work of Josef Lehmann. The example from Baron et al. [-@baron1875: 38] is shown in [@fig:baron1875_38] for the quotation from a prayer by Emanual Geibel in [@next].
 
-- (first edition from 1876?) 
-- 1886 (4. edition, Heft 6 für die bayrische Volksschule) Same simple abbreviations p 52-60 in https://www.digitale-sammlungen.de/en/view/bsb11644111?page=54
-- same, but slightly revised, in edition for Prussian schools by Wübbe Jütting (seventh volume from 28th edition from 1903: [@baron1903]). Periodenbild on p. 33 which is not in the 1886 German version, but it is in the 1883 Austrian version.
+::: ex
+[a]{.grey} Der du mit Thau und Sonnenschein ernährst die Lilien auf dem Feld, [b]{.grey} der du die jungen Raben nicht vergiffest unterm Himmelszelt, [c]{.grey} der zu Wasserbächen führst den Hirsch, [cv^2^]{.grey} der durstig auf den Tod: [A]{.grey} o gieb, [dv]{.grey} du Allbarmherziger, [A]{.grey} auch unserer Zeit, [e]{.grey} was ihr so noth. [@baron1875: 37, citing a prayer from Emanuel Geibel]
+:::
 
-Austrian version by M. Stein, Bernhard Weiner and Wenzel Wrany, later revised by Michael Binstorfer
+::: {.im #baron1875_38}
+*Linien und Buchstabenbild* for the complex *Periode* in [@last] from Baron et al. [-@baron1875: 38], probably a direct influence from Diesterweg, cf. [@fig:diesterweg1834_169] or indirectly via Lehmann, cf. [@fig:lehmann1870_218].
+:::
+
+The *Deutsche Sprachschule* has seen many editions and various revision geared towards a specific audience. Friedrich Gärtner revised it for Bavarian students. He repeats the same usage of letters for the analysis of complex sentences, but the graphical analysis of the *Periode* as in [@fig:baron1875_38] is not included [@baron1886: 52-60, citing here the 4th edition of Gärtner's revision]. Wübbe Jütting [1825-1890, biography in @sander1905] revised it for Prussian schools, probably around 1880, but cited here from the 28th edition [@baron1903]. There are at least three different version (A in seven volumes, B in three volumes and C in two volumes) for different kinds of schools. In the most advanced volume (the seventh) of the A version, the same discussion using letters is included, including the graphical represenation of the *Periode* 
+[@baron1903: 14-33].
+
+There is also an Austrian version, prepared by M. Stein, Bernhard Weiner and Wenzel Wrany in 1880.^[I have not been able to find any biographical information about these people, except that Wrany was probably born in 1854. Not even the first name of Stein is known.]
+
 
 nothing yet in 1880 version of Sprachschule für Volksschulen
 
-- https://onb.digital/result/117D5246: analysis of periode with symbols inside sentences (p. 67-68) Vordersatz || Nachsatz. Multiple clauses are separted by =
-- https://onb.digital/result/117D523D
-- https://onb.digital/result/117D5224
+- [@stein1880] Oberstufe: analysis of periode with symbols inside sentences (p. 67-68) Vordersatz || Nachsatz. Multiple clauses are separted by =
 
 1883 version explicitly based on Baron et al.
 
-- 1883 (4. Schuljahr): https://onb.digital/result/1321B099 Very simple bracketed analysis in "Muster der Satz- und Wortanalyse" page XXIV, not in Baron et al.
-- 1883 (7. Heft, 8. Schuljahr): https://onb.digital/result/1321B095 p.24ff. Very simple abbreviations for analysis. page 38: Diesterweg-style analysis!!! [@stein1883: 38]
+- 1883 (4. Schuljahr): https://onb.digital/result/1321B099 Very simple bracketed analysis in "Muster der Satz- und Wortanalyse" [@stein1883_3: Appendix XXIV], not in Baron et al.
+- 1883 (7. Heft, 8. Schuljahr): https://onb.digital/result/1321B095 p.24ff. Very simple abbreviations for analysis. page 38: Diesterweg-style analysis!!! [@stein1883_7: 38]
 
-Bracketed hierarchichal constituence in Revision by Binstorfer:
+Bracketed hierarchichal constituence in Revision by Michael Binstorfer:
 
 - 1889 (3. volume): [@stein1889: 88]
 - 1890 (4. volume): [@stein1890: 92]
@@ -2027,7 +2074,7 @@ Langholf adds a functional category to each clause, written as a superscript abb
 *Formel* for the example in [@last] in the analysis of Langholf [-@langholf1969: 142]. The superscript abbreviations are functional classifications, the actual syntactic analysis are the base letters of the superscripts. Brackets indicate internal subordination, forward slashes are for final subordination. The numbers are just a counter for the clauses, but they also function as identification for the parts of separated clauses, e.g. 1, 4, 8 and 11.
 :::
 
-# More recent didactic approaches
+# More recent German didactic approaches
 
 ## Rahn & Pfleiderer (1951) *Deutsche Spracherziehung*
 
