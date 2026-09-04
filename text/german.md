@@ -1,6 +1,6 @@
 # PART II: German-speaking traditions {.unnumbered}
 
-# Origins of syntactic analysis
+# New approaches of syntax
 
 ## A mostly forgotten tradition
 
@@ -83,7 +83,7 @@ The desire to summarise the structure of a complex *Periode* is a crucial starti
 
 Friedrich Diesterweg [-@diesterweg1834, see [@sec:diesterweg1830]] adopted Lehmann's terminology and added the term *Satzbild* for the structure of a monoclausal sentence. The two terms *Periodenbild* and *Satzbild* return throughout the 19th century in German grammars, although they start being used rather interchangeably. Even though many authors distinguish between two different graphical analyses, one for single-clause sentences and one for multi-clause sentences, Diesterweg's terminological distinction did not persist and most authors simply use the term *Satzbild* for both analyses. Linguistic *Bilder* remain virulent up to the present, the term *Periodenbild* gradually faded away from linguistic memory at the start of the 20th Century.
 
-# Frankfurtische Gelehrtenverein
+# Frankfurt and beyond
 
 ## Frankfurtische Gelehrtenverein für deutsche Sprache
 
@@ -139,6 +139,18 @@ So lange der Mensch nicht reden konnte, so sah, hörte, fühlte und schmeckte er
 
 ::: {.im #herling1828_366}
 Musical notation used to illustrate the grammatical structure of whole paragraphs. Main clauses (indicated by *h*) are higher up, subordinate clauses are lower. Different sentences are separated by bar lines [@herling1828: 366].
+:::
+
+## Schmitthenner (1824) *Lehre von der Satzzeichnung* {#sec:schmitthenner1828}
+
+Already in [@schmitthenner1824: 28]!
+
+Friedrich Jakob Schmitthenner (1796-1850) was school director in Dillenburg and later professor for history and organisation of state at the university of Gießen. He also wrote various books about German grammar and was part of the *Frankfurtischer Gelehrtenverein für deutsche Sprache*, alongside Herling ([@sec:herling1823]) and Becker ([@sec:becker1829]).
+
+In his 1828 book *Teutonia. Ausführliche Sprachlehre nach neuer wissenschaftlicher Begründung. II. Buch. Höhere Sprachlehre* Schmitthenner includes a graphic for the *Periode* ([@fig:schmitthenner1828_186]). This graphic is very similar to Götzinger's graphic (see [@sec:götzinger1836]), though it is unclear whether there is any direct influence. Like Götzinger, Schmitthenner explains that in his graphic the up and down strokes are supposed to indicate rising (*Hebung*) and falling (*Senkung*) intonation, and not syntactic structure. [@schmitthenner1828: 185]
+
+::: {.im #schmitthenner1828_186}
+Intonation contours for multi-clause extended sentences, the so-called *Periode* [@schmitthenner1828: 186]. According to Schmitthenner, a *Periode* consists of multiple *Glieder*, the *Glieder* consist of *Abschnitte*, and each *Abschnitt* seems to be an individual sentence. The lines in the graphic indicate *Abschnitte* (with rising or falling intonation), the *Glieder* are separated by colons or semicolons. For example, the last example has six *Abschnitte* and four *Glieder*. Differently from Götzinger in [@fig:götzinger1827_263], for Schmitthenner a *Periode* can have multiple intonation maxima. It remains unclear from the text whether there is an intended difference between slanted and vertical lines.
 :::
 
 ## Grotefend (1825) *Commentar zu den Materialien lateinischer Stilübungen*
@@ -215,16 +227,6 @@ b.
 Graphical explanation of the different structures in [@last] from Grotefend [-@grotefend1833: 162]. Note the hierarchical constituency of the example of *Einordnung* at the bottom of the figure.
 :::
 
-## Schmitthenner (1828) *Teutonia* {#sec:schmitthenner1828}
-
-Friedrich Jakob Schmitthenner (1796-1850) was school director in Dillenburg and later professor for history and organisation of state at the university of Gießen. He also wrote various books about German grammar and was part of the *Frankfurtischer Gelehrtenverein für deutsche Sprache*, alongside Herling ([@sec:herling1823]) and Becker ([@sec:becker1829]).
-
-In his 1828 book *Teutonia. Ausführliche Sprachlehre nach neuer wissenschaftlicher Begründung. II. Buch. Höhere Sprachlehre* Schmitthenner includes a graphic for the *Periode* ([@fig:schmitthenner1828_186]). This graphic is very similar to Götzinger's graphic (see [@sec:götzinger1836]), though it is unclear whether there is any direct influence. Like Götzinger, Schmitthenner explains that in his graphic the up and down strokes are supposed to indicate rising (*Hebung*) and falling (*Senkung*) intonation, and not syntactic structure. [@schmitthenner1828: 185]
-
-::: {.im #schmitthenner1828_186}
-Intonation contours for multi-clause extended sentences, the so-called *Periode* [@schmitthenner1828: 186]. According to Schmitthenner, a *Periode* consists of multiple *Glieder*, the *Glieder* consist of *Abschnitte*, and each *Abschnitt* seems to be an individual sentence. The lines in the graphic indicate *Abschnitte* (with rising or falling intonation), the *Glieder* are separated by colons or semicolons. For example, the last example has six *Abschnitte* and four *Glieder*. Differently from Götzinger in [@fig:götzinger1827_263], for Schmitthenner a *Periode* can have multiple intonation maxima. It remains unclear from the text whether there is an intended difference between slanted and vertical lines.
-:::
-
 ## Becker (1829) *Deutsche Grammatik* {#sec:becker1829}
 
 Karl Ferdinand Becker (1775-1849) was probably one of the most influential grammatical educators from the start of the 19th Century. He originally started out as a medical doctor, but that turned out not be a financial success. Instead, he opened a small private school in Offenbach teaching German to English-speaking students. Turning his attention to linguistics, he wrote various books about German grammar. For a thorough repraisal of Becker's linguistic work, see Haselbach [-@haselbach1966]. Becker also became a member of the *Frankfurtischer Gelehrtenverein für deutsche Sprache*, where he met Herling (see [@sec:herling1823]) and Schmitthenner (see [@sec:schmitthenner1828]).
@@ -292,10 +294,6 @@ Dasjenige Objektiv, welches als das Hauptwort des ganzen Verhältnisses anzusehe
 ::: {.im #becker1830_261}
 [@becker1830: 261]
 :::
-
-# The inception of visual syntax
-
-## *Periodenbilder* & *Satzbilder*
 
 ## Diesterweg (1830) *Praktischer Lehrgang für den Unterricht*  {#sec:diesterweg1830}
 
@@ -382,55 +380,6 @@ Second, throughout the discussion of syntax, Diesterweg frequently uses the nome
 > ('The development (*Ausbildung*) happens by modification (*Bestimmung*) of the individual parts of the clause. In general, we will call such words, that further modify parts of the main clause, modifiers (*Bestimmer*).')
 
 In summary, the grammatical analysis of Diesterweg is a complex tour-de-force, combining insights from various scholars of the preceding decade, synthesising everything into a coherent and visually appealing package. Additionally, he attempts to make the grammatical analysis practically useful for application in the classroom. Many ideas proposed in his book feel rather modern and might have kickstarted a fruitful dicussion about syntactic analysis. Unfortunately, Diesterweg's *Lehrgang* does not seem to have had much impact on the further development of linguistics in general, nor specifically on the establishment of linguistic education. From here on, the development of grammatical analysis in Germany will proceed taking baby steps, instead of leaping ahead like Diesterweg demonstrated to be possible.
-
-## Billroth (1832) *Lateinische Syntax* {#sec:billroth1832}
-
-(Note: the first modern author to rediscover Billroth was probably Sandmann [-@sandmann1971: 428] in a book edited by Coseriu, who cited Billroth in [@coseriu1980].)
-
-At the end of his short life, Johann Gustav Willhelm Billroth (1808-1836) became professor for religion at the university in Halle. Before that, between his *Habilitation* in Leipzig in 1830 and the start of his position in Halle in 1834, he worked as a teacher for Latin [@alwast2000]. In that context he wrote two latin grammars for use in schools, first the *Lateinische Syntax für die obern Klassen gelehrter Schulen* [@billroth1832], later followed by the *Lateinische Schulgrammatik für alle Klassen* [@billroth1834].
-
-In these grammars there is a single graphical display of a grammatical structure, shown below in [@fig:billroth1832_102] [@billroth1832: 102; -@billroth1834: 332-333]. Not much is known about the grammatical background of Billroth, nor is there any explicit indication in his books about the inspiration for drawing a grammatical analysis. As he was active as a school teachter, he might very well have been aware of Becker [-@becker1829, see [@sec:becker1829]] or Diesterweg [-@diesterweg1830, see [@sec:diesterweg1830]], both of which might have been an inspiration for Billroth's graphical display. One (circumstantial) argument that Billroth was inspired by Diesterweg is that Billroth uses the term *bestimmter Satz* as a synonym to *bekleideter Satz* [@billroth1832: 97], and he also uses the noun *Bestimmung* in the meaning of "modifier" [@billroth1832: 126-127]. Diesterweg very extensively used the nouns *Bestimmung* and *Bestimmer*, the last one of which is not found in Billroth. It is possible that Billroth just used these words out of his own inspiration, but this parallel usage is idiosyncratic enough to be notewhorthy, as these terms do not seem to be in wide use at this time.
-
-In Billroth's syntax, the whole discussion of the structure of the sentence takes 11 pages [@billroth1832: 91-102]. The structure of the text is rather difficult to follow, although on closer inspection there is a clear, but drawn-out organisation. First, he introduces the simple 'naked' sentence as option *A*:
-
-> Ein Satz ist entweder: A. ein einfacher (oder nackter) d.h. ein solcher, welcher bloß aus Subject, Prädicat und Copula besteht. [@billroth1832: 91] 
-> 
-> ('A sentence is either: A. a simple (or naked) one i.e. one such that it only consists of subject, predicate and copula.')
-
-It takes 8 pages of explanations of the simple sentence until finally the expected follow-up to the option *A* occurs. Without clear formatting, the option *B* is announced innocuously on page 97, using a rather strange sentence structure that only makes sense when it is read immediately after the option *A* as quoted above.
-
-> B. oder ein bestimmter (bekleideter) d.h. ein solcher, wo entweder ein einzelner Theil oder mehrere durch Zusätze näher bestimmt werden. [@billroth1832: 97]
-> 
-> ('B. or a determined (dressed) one, i.e. one such, in which either a single part or multiple parts are further determined by additions.')
-
-Then it takes another 5 pages of explanations of different kinds of such "dressed" sentences until finally this topic is closed with the conclusion quoted below. Billroth simply states (without explanation) that the example sentence [@next] is 'dressed' as illustrated by the drawing in [@fig:billroth1832_102]. In this quote, Billroth takes the metaphor of the naked/dressed sentence even one step further by using the term *Körper* 'body' for the naked sentence.
-
-> Auf diese Weise wird z.B. folgender Satz [@next], dessen Körper eigentlich nur aus dem Subj.: *Miltiades* und dem Prädicat (mit dem Copula) *reddidit* besteht, bekleidet: [@billroth1832: 102]
-> 
-> ('In this way, the following sentence, whose body only consists of the subject *Miltiades* and the predicate (with copula) *reddidit*, is dressed:')
-
-::: ex
-|
-| Milti﻿ades, dux Atheniensium, toti Graeciae libertatem paene oppressam in pugna apud Marathonem reddidit.
-| miltiades leader Athenian.GEN.PL whole.DAT Greece.DAT liberty.ACC almost oppressed in battle near marathon restore.PERF.3SG
-| Miltiades, the leader of the Athenians, in the battle at Marathon restored to all of Greece the almost destroyed freedom.
-:::
-
-::: {.im #billroth1832_102}
-Graphical sentence analysis of [@last] from Billroth [-@billroth1832: 102]. Note the horizontal depiction of the subject-predicate pairing and all modifiers hanging down from this main structure. This depiction is rather similar to Diesterweg's approach in [@fig:diesterweg1838_260], but the usage of lines instead of braces is different.
-:::
-
-Interpreting his graphical illustration in more detail, the naked sentence is depicted by a horizonal line, while the additional elements of the "dressed" sentence are all shown as vertical/slanted lines. Billroth very clearly intends the vertical lines to represent some kind of dependency, with multiple levels of modification being illustrated by subsequent vertical lines. The structure of the graphic is quite similar to Diesterwegs proposal in [@fig:diesterweg1838_260], but with lines instead of curly braces. Note that the attachment of the phrase *in pugna apud Marathonem* 'in the battle of Marathon' is actually ambiguous. From historical knowledge it is clear that the restoration (*reddidit*) of the freedom happened at Marathon, as the graphical analysis illustrates. However, grammatically it would also be possible for the phrase *in pugna apud Marathonem* to modify the destruction (*oppressam*) of the freedom. That (factually incorrect) interpretation would result in a different diagram. Such an application of diagrams – to explain different possible structural intepretations – is later used by Brassai (see [@sec:brassai1873]).
-
-Exactly the same approach with the same picture is found in his extended grammar written two years later [@billroth1834: 332-333]. After Billroth's early death this grammar has seen various new editions. The second edition of 1838 is prepared by Friedrich Ellendt and uses exactly the same figure [@billroth1838: 329]. However, in the third edition, the picture is changed, erroneously, and has become completely incomprehensible, cf. [@fig:billroth1848_358] [@billroth1848: 358]. Ellendt possibly did not completely understand what the figure is supposed to represent.
-
-::: {.im #billroth1848_358}
-Revision of the graphical analysis in [@fig:billroth1832_102] from the 1848 revision on the auspices of Friedrich Ellendt [@billroth1848: 358]. Instead of lines there are braces, and the structure of the braces is completely incomprehensible and in places clearly wrong.
-:::
-
-Billroth's grammar has an interesting afterlife, but unfortunately without any further development of his graphical innovation. Friedrich Ellendt writes a different grammer for younger students based on Billroth's model, called *Lateinische Grammatik für die unteren Klassen der Gymnasien*. The discussion of *bekleidete oder erweitete Sätze* is very similar to Billroth's, but it has different examples and it does not have a picture anymore [@ellendt1838: 115-116]. After the death of Ellendt, that grammar is in turn adapted by Moritz Seyffert as *Dr. Friedrich Ellendt's Lateinische Grammatik für die unteren und mittleren Klassen der höheren Unterrichtsanstalten*. This grammar has seen very many revisions, editions and reprints under the heading *Ellendt-Seyfferts lateinische Grammatik* far into the 20th Century. However, Seyffert was not very impressed by the syntactical analysis of Billroth (as noted in the preface of his revision), and he rewrote the discussion of syntax wholesale.
-
-On a more positive note, Billroth's grammar had a direct influence on Julius Hoffmann (see [@sec:hoffmann1839]), and Hoffmann is quoted indirectly by Franz Kern (see [@sec:kern1883]). So it seems very plausible that Billroth's line diagram was a seed that grew slowly but surely.
 
 ## Lehmann (1833) *Allgemeiner Mechanismus des Periodenbaues* {#sec:lehmann1833}
 
@@ -566,6 +515,57 @@ Complex *Periodenbild* from Götzinger [-@gotzinger1839: 391] for the example fr
 :::
 
 # Visual syntax in textbooks
+
+## *Periodenbilder* & *Satzbilder*
+
+## Billroth (1832) *Lateinische Syntax* {#sec:billroth1832}
+
+(Note: the first modern author to rediscover Billroth was probably Sandmann [-@sandmann1971: 428] in a book edited by Coseriu, who cited Billroth in [@coseriu1980].)
+
+At the end of his short life, Johann Gustav Willhelm Billroth (1808-1836) became professor for religion at the university in Halle. Before that, between his *Habilitation* in Leipzig in 1830 and the start of his position in Halle in 1834, he worked as a teacher for Latin [@alwast2000]. In that context he wrote two latin grammars for use in schools, first the *Lateinische Syntax für die obern Klassen gelehrter Schulen* [@billroth1832], later followed by the *Lateinische Schulgrammatik für alle Klassen* [@billroth1834].
+
+In these grammars there is a single graphical display of a grammatical structure, shown below in [@fig:billroth1832_102] [@billroth1832: 102; -@billroth1834: 332-333]. Not much is known about the grammatical background of Billroth, nor is there any explicit indication in his books about the inspiration for drawing a grammatical analysis. As he was active as a school teachter, he might very well have been aware of Becker [-@becker1829, see [@sec:becker1829]] or Diesterweg [-@diesterweg1830, see [@sec:diesterweg1830]], both of which might have been an inspiration for Billroth's graphical display. One (circumstantial) argument that Billroth was inspired by Diesterweg is that Billroth uses the term *bestimmter Satz* as a synonym to *bekleideter Satz* [@billroth1832: 97], and he also uses the noun *Bestimmung* in the meaning of "modifier" [@billroth1832: 126-127]. Diesterweg very extensively used the nouns *Bestimmung* and *Bestimmer*, the last one of which is not found in Billroth. It is possible that Billroth just used these words out of his own inspiration, but this parallel usage is idiosyncratic enough to be notewhorthy, as these terms do not seem to be in wide use at this time.
+
+In Billroth's syntax, the whole discussion of the structure of the sentence takes 11 pages [@billroth1832: 91-102]. The structure of the text is rather difficult to follow, although on closer inspection there is a clear, but drawn-out organisation. First, he introduces the simple 'naked' sentence as option *A*:
+
+> Ein Satz ist entweder: A. ein einfacher (oder nackter) d.h. ein solcher, welcher bloß aus Subject, Prädicat und Copula besteht. [@billroth1832: 91] 
+> 
+> ('A sentence is either: A. a simple (or naked) one i.e. one such that it only consists of subject, predicate and copula.')
+
+It takes 8 pages of explanations of the simple sentence until finally the expected follow-up to the option *A* occurs. Without clear formatting, the option *B* is announced innocuously on page 97, using a rather strange sentence structure that only makes sense when it is read immediately after the option *A* as quoted above.
+
+> B. oder ein bestimmter (bekleideter) d.h. ein solcher, wo entweder ein einzelner Theil oder mehrere durch Zusätze näher bestimmt werden. [@billroth1832: 97]
+> 
+> ('B. or a determined (dressed) one, i.e. one such, in which either a single part or multiple parts are further determined by additions.')
+
+Then it takes another 5 pages of explanations of different kinds of such "dressed" sentences until finally this topic is closed with the conclusion quoted below. Billroth simply states (without explanation) that the example sentence [@next] is 'dressed' as illustrated by the drawing in [@fig:billroth1832_102]. In this quote, Billroth takes the metaphor of the naked/dressed sentence even one step further by using the term *Körper* 'body' for the naked sentence.
+
+> Auf diese Weise wird z.B. folgender Satz [@next], dessen Körper eigentlich nur aus dem Subj.: *Miltiades* und dem Prädicat (mit dem Copula) *reddidit* besteht, bekleidet: [@billroth1832: 102]
+> 
+> ('In this way, the following sentence, whose body only consists of the subject *Miltiades* and the predicate (with copula) *reddidit*, is dressed:')
+
+::: ex
+|
+| Milti﻿ades, dux Atheniensium, toti Graeciae libertatem paene oppressam in pugna apud Marathonem reddidit.
+| miltiades leader Athenian.GEN.PL whole.DAT Greece.DAT liberty.ACC almost oppressed in battle near marathon restore.PERF.3SG
+| Miltiades, the leader of the Athenians, in the battle at Marathon restored to all of Greece the almost destroyed freedom.
+:::
+
+::: {.im #billroth1832_102}
+Graphical sentence analysis of [@last] from Billroth [-@billroth1832: 102]. Note the horizontal depiction of the subject-predicate pairing and all modifiers hanging down from this main structure. This depiction is rather similar to Diesterweg's approach in [@fig:diesterweg1838_260], but the usage of lines instead of braces is different.
+:::
+
+Interpreting his graphical illustration in more detail, the naked sentence is depicted by a horizonal line, while the additional elements of the "dressed" sentence are all shown as vertical/slanted lines. Billroth very clearly intends the vertical lines to represent some kind of dependency, with multiple levels of modification being illustrated by subsequent vertical lines. The structure of the graphic is quite similar to Diesterwegs proposal in [@fig:diesterweg1838_260], but with lines instead of curly braces. Note that the attachment of the phrase *in pugna apud Marathonem* 'in the battle of Marathon' is actually ambiguous. From historical knowledge it is clear that the restoration (*reddidit*) of the freedom happened at Marathon, as the graphical analysis illustrates. However, grammatically it would also be possible for the phrase *in pugna apud Marathonem* to modify the destruction (*oppressam*) of the freedom. That (factually incorrect) interpretation would result in a different diagram. Such an application of diagrams – to explain different possible structural intepretations – is later used by Brassai (see [@sec:brassai1873]).
+
+Exactly the same approach with the same picture is found in his extended grammar written two years later [@billroth1834: 332-333]. After Billroth's early death this grammar has seen various new editions. The second edition of 1838 is prepared by Friedrich Ellendt and uses exactly the same figure [@billroth1838: 329]. However, in the third edition, the picture is changed, erroneously, and has become completely incomprehensible, cf. [@fig:billroth1848_358] [@billroth1848: 358]. Ellendt possibly did not completely understand what the figure is supposed to represent.
+
+::: {.im #billroth1848_358}
+Revision of the graphical analysis in [@fig:billroth1832_102] from the 1848 revision on the auspices of Friedrich Ellendt [@billroth1848: 358]. Instead of lines there are braces, and the structure of the braces is completely incomprehensible and in places clearly wrong.
+:::
+
+Billroth's grammar has an interesting afterlife, but unfortunately without any further development of his graphical innovation. Friedrich Ellendt writes a different grammer for younger students based on Billroth's model, called *Lateinische Grammatik für die unteren Klassen der Gymnasien*. The discussion of *bekleidete oder erweitete Sätze* is very similar to Billroth's, but it has different examples and it does not have a picture anymore [@ellendt1838: 115-116]. After the death of Ellendt, that grammar is in turn adapted by Moritz Seyffert as *Dr. Friedrich Ellendt's Lateinische Grammatik für die unteren und mittleren Klassen der höheren Unterrichtsanstalten*. This grammar has seen very many revisions, editions and reprints under the heading *Ellendt-Seyfferts lateinische Grammatik* far into the 20th Century. However, Seyffert was not very impressed by the syntactical analysis of Billroth (as noted in the preface of his revision), and he rewrote the discussion of syntax wholesale.
+
+On a more positive note, Billroth's grammar had a direct influence on Julius Hoffmann (see [@sec:hoffmann1839]), and Hoffmann is quoted indirectly by Franz Kern (see [@sec:kern1883]). So it seems very plausible that Billroth's line diagram was a seed that grew slowly but surely.
 
 ## Horn (1837) *Grammatik der neuhochdeutschen Sprache* {#sec:horn1837}
 
