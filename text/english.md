@@ -1,3 +1,5 @@
+# PART III: English-speaking traditions {.unnumbered}
+
 # German-style syntax in Britain
 
 - General overview: Michael in [@leitner1991]
@@ -745,7 +747,7 @@ Although Buckham's book is only published in 1881, he very likely used this appr
 
 > [I am] especially indebted to Professor H. B. Buckham, of the Buffalo State Normal School, for the preparation of the selections and for important suggestions in regard to the symbols by which the sentence is represented. [@greene1874: 4]
 
-# Lines for government
+# Proto-diagramming
 
 Jeremiah Greenleaf "simplified Grammar" (first edition 1819) used word-class abbreviations above the words for parsing, e.g. third edition 1821: https://google.com/books?id=fegaAAAAYAAJ, extended version later: https://archive.org/details/laborsavinggramm00greerich
 
@@ -811,37 +813,6 @@ And keep his only son, myself, at home. \
 ::: {.im #picket1815_80}
 *Vinculum* from Picket [-@picket1815: 80] for the opening of *Douglas* by John Home. The numbers refer to syntactic rules and the lines indicate government (curved lines) and agreement/conjunction (straight lines). The image shown here was recreated for improved legibility. The original image is available at the following link:
 :::
-
-## Alcott (1842) *Slate and black board exercises*
-
-William Andrus Alcott (1798-1859) was an educator and a well-known early proponent of the vegetable diet. Originally from Connecticut, he lived most of his active life in around Boston.^[Basic biographical information is provided on https://en.wikipedia.org/wiki/William_Alcott, accessed 10 July 2026.] One of his many educational writing dealed with using the black board in class:
-
-> The importance of the black board as an instrument of instruction in the common school, has been insisted on in every periodical on education which I have seen, either of this country or Europe; as well as in almost every recent treatise on the same subject. It has also been introduced into most of our improved schools, of every grade, especially in New England and New York. In many of our common schools, however, it has been but barely introduced. The teacher knows almost as little how to use it as his pupils. [@alcott1842: 5]
-
-Alcott discusses how to use the black board for many different subjects, among them he also included a chapter on teaching grammar [@alcott1842: 178-194]. At the end of the chapter he proposes to explain government and coordination by drawing curved lines, as shown in [@fig:alcott1842_193]. This approach is strongly reminiscent of the *vinculum* of Picket (see [@sec:picket1815]).
-
-::: {.im #alcott1842_193}
-Blackboard exercise from Alcott [-@alcott1842: 193]. He proposes that "we may draw a curved line from the governing word to the word which is governed; or at least require a pupil to do it, in view of the rest." This approach looks very much like the *vinculum* from Picket, cf. [@fig:picket1815_80].
-:::
-
-## Holmes (1873) First lessons in English grammar
-
-[@holmes1873]
-
-Holmes seems to be this person: https://en.wikipedia.org/wiki/George_Frederick_Holmes
-
-The internet archive has various books digitised, also a grammar from 1871 (which is a new edition, the original is from around 1867), but this one does not yet have the illustrations:
-
-https://archive.org/details/grammarofenglish00holm
-(Also at library of congress: https://www.loc.gov/item/11005884/)
-
-The text on active/passive voice on page 109 is almost the same as in your image from the 1873 version. So, he probably took the grammar and made a more accessible version of it with illustrations.
-
-Holmes cites many different grammars available at the time, among them Clark and Greene
-
-More digital works by him here: https://onlinebooks.library.upenn.edu/webbin/who/Holmes%2C%20George%20Frederick%2C%201820-1897
-
-# Proto-diagramming
 
 ## Brown (1826) *The American system of English grammar* {#sec:brown1826}
 
@@ -1102,6 +1073,18 @@ Frontispiece of the Latin grammar from Barret [-@barrett1857, inserted between p
 
 Later, Barret writes yet another book [@barrett1859], which has basically the same content as the previous book, but a strongly revised presentation. He now puts his 21 grammatical relations front and centre of the analysis. There is also a 1876 book by Barrett called *A "signal" grammar of the English language*,^[Catalogue entry at the Library of Congress: <https://lccn.loc.gov/11004540>.] which is not available digitally and which I have not yet been able yet to access.
 
+## Alcott (1842) *Slate and black board exercises*
+
+William Andrus Alcott (1798-1859) was an educator and a well-known early proponent of the vegetable diet. Originally from Connecticut, he lived most of his active life in around Boston.^[Basic biographical information is provided on https://en.wikipedia.org/wiki/William_Alcott, accessed 10 July 2026.] One of his many educational writing dealed with using the black board in class:
+
+> The importance of the black board as an instrument of instruction in the common school, has been insisted on in every periodical on education which I have seen, either of this country or Europe; as well as in almost every recent treatise on the same subject. It has also been introduced into most of our improved schools, of every grade, especially in New England and New York. In many of our common schools, however, it has been but barely introduced. The teacher knows almost as little how to use it as his pupils. [@alcott1842: 5]
+
+Alcott discusses how to use the black board for many different subjects, among them he also included a chapter on teaching grammar [@alcott1842: 178-194]. At the end of the chapter he proposes to explain government and coordination by drawing curved lines, as shown in [@fig:alcott1842_193]. This approach is strongly reminiscent of the *vinculum* of Picket (see [@sec:picket1815]).
+
+::: {.im #alcott1842_193}
+Blackboard exercise from Alcott [-@alcott1842: 193]. He proposes that "we may draw a curved line from the governing word to the word which is governed; or at least require a pupil to do it, in view of the rest." This approach looks very much like the *vinculum* from Picket, cf. [@fig:picket1815_80].
+:::
+
 ## Hall (1849) *Encyclopedia of English grammar*
 
 William Hall published his *Encyclopedia of English grammar* probably in 1849, printed in Virginia [cf. @gorlach1998: 161], but the only online copy with that date has a missing title page, so I am not sure this really is that version [@hall1849]. That incomplete version is exactly the same as a 1850 version, printed in Ohio [@hall1850]. Nothing is known about the author, except that it is not the same person as William D. Hall (see [@sec:hall1898]) nor Milo Baldwin Hall (see [@sec:hall1904]). The book is clearly influenced by Brown (see [@sec:brown1826]), because in the introduction Hall says that the book deals with "the science of English Syntithology" [@hall1850: iii]. The term "syntithology" (instead of syntax) is one of the many terminological inventions of Brown. Brown is explicitly cited in various footnotes [@hall1849: 72, 98, 246, 297]. Barrett (see [@sec:barrett1842]) is obliquely cited once among many other grammars in the context of word-class division [@hall1849: 51]. In contrast, Peirce (see [@sec:peirce1839]) is cited in a long rant, typesetted as a footnote running over 10 pages [@hall1849: 96-105], criticizing Peirce's use of the term *asserter* for verbs.
@@ -1111,6 +1094,23 @@ Hall includes an extensive discussion of *monology* [@hall1849: 297-305], direct
 ::: {.im #hall1849_297}
 *Monology* from Hall [-@hall1849: 297], adapting the analysis from Brown ([@sec:brown1826]). Identical numbers indicate which words belong to the same *mono* (=constituent), which are sometimes also indicated by brackets. Just like Brown, Hall never uses hierarchical bracketing. Different from Brown, Hall does not distinguish between square and round brackets.
 :::
+
+## Holmes (1873) First lessons in English grammar
+
+[@holmes1873]
+
+Holmes seems to be this person: https://en.wikipedia.org/wiki/George_Frederick_Holmes
+
+The internet archive has various books digitised, also a grammar from 1871 (which is a new edition, the original is from around 1867), but this one does not yet have the illustrations:
+
+https://archive.org/details/grammarofenglish00holm
+(Also at library of congress: https://www.loc.gov/item/11005884/)
+
+The text on active/passive voice on page 109 is almost the same as in your image from the 1873 version. So, he probably took the grammar and made a more accessible version of it with illustrations.
+
+Holmes cites many different grammars available at the time, among them Clark and Greene
+
+More digital works by him here: https://onlinebooks.library.upenn.edu/webbin/who/Holmes%2C%20George%20Frederick%2C%201820-1897
 
 # Diagramming
 
@@ -1589,6 +1589,204 @@ already escaped [at least] to this extent a plague so dire, so fearful, and so
 harmful to the body politic".
 
 Later "flow charts", introduced in [@hall1964: 206-207], much further developed in *Essentials of English phrase- and clause structures* [@hall1969]
+
+# Immediate constituents
+
+## Sheffield (1912) *Grammar and thinking* {#sec:sheffield1912}
+
+Alfred Dwight Sheffield (1871-1961) [@sheffield1912: 50-51] Grammar and Thinking (citing Wundt prominently) Brittain (1973:204) says “linguists seem to have been unaware of his work”. This is not true!
+
+Bio in [@subbiondo2025] Professor at Wellesley College, Massachusetts,
+
+also [@sheffield1929: 53]
+
+- Nida cites him in 1943 dissertation
+- Jespersen cites him in 1913 Sprogets Logic
+- review by Bloomfield, quite critical [@bloomfield1912]
+
+## Sapir (1921) *Language* {#sec:sapir1921}
+
+morphology-formula [@sapir1921]
+
+::: {.im #mikus1953_20}
+Chinese boxes diagram from Mikuš [-@mikus1953: 20]
+:::
+
+::: {.im #seuren1998_187}
+Immediate constituent analysis from Seuren [-@seuren1998: 187]
+:::
+
+## Bloomfield (1933) *Language* {#sec:bloomfield1933}
+
+[@bloomfield1933: 160-161] slowly builds up the terminology, which seems to indicate that the terminology is newly developed for this book. He starts with *constituent (or component)* which is *contained in* or *included in* complex forms. The basic building blocks are morphemes, which cannot be further subdivided, and are called *ultimate constituents*. Then, finally, any intermediate grouping are called *immediate constituents*.
+
+[@bloomfield1914: 60-61], cited in Percival (1976:235) clearly thinks about binary branching. Also note the Wundt-inspired psychological reasoning, also using the term "apperception" (p.60).
+
+Hypothesis that Wundt influenced Bloomfield: [@percival1976: 234-235 gives various detailed arguments], but again no pictures. The basic assumption of binary analysis pervasive in US-american 20th century analyses can probably be tracked back to Wundt.
+
+Historical survey of Bloomfield and post-Bloomfieldians: [@matthews1993]
+
+Use of vertical bars for separation appears old, e.g. Alexander Crombie https://en.wikipedia.org/wiki/Alexander_Crombie, originally 1802, cited here from the second edition [@crombie1809: 234]:
+
+> Complex sentences are divided into members; and these, if complex, are subdivided into clauses, as, "The ox knoweth his owner | and the ass his master's crib || but Israel doth not know | my people doth not consider." This complex sentence has two members, each of which contains two clauses.
+
+- first edition 1802
+- second edition 1809/1810
+- third edition 1830:226 https://google.com/books?id=uP0RAAAAIAAJ
+- fourth edition (1836:176) https://www.loc.gov/item/43047733/ 
+- fifth edition (1843:162) https://google.com/books?id=Tx1AAAAAYAAJ
+- seventh edition (1853:162) https://www.loc.gov/item/11008559/
+
+## Pike (1943) *Taxemes and immediate constituents* {#sec:pike1943}
+
+[@pike1943: 70], citing bloomfield: boxes seem explication of Bloomfield's vertical bars
+
+## Bloch (1946) *Studies in colloquial Japanese*
+
+citing Bloomfield https://www.jstor.org/stable/410208 p238ff. System with six different syntactic functions
+
+## Harris (1946) *From morpheme to utterance* {#sec:harris1946}
+
+This system was already introduced in [@harris1946]! Cites Jespersen 1937 on p. 177, also Bloomfield, Pike, Bloch
+
+Also in *Methods in structuralist linguistics* (1951), this book is later called *Structural Linguistics* [@harris1963]
+
+examples of IC: *my most recent plays closed down* (p278-279) analysed as follows, with number of dots representing separation. Reversed bloomfield approach: more dots are "larger" separation
+
+T :: D . A : N² :. -s :.: V¹ . Pb : -ed
+
+Complete rewrite rules (in Chomskian format, harris writes them from right to left). Note the strange early past suffix insertion. but wihtout the notation for a complete sentence
+
+Utterance → N⁴V⁴
+N⁴ → TN³
+N³ → N²-s
+N² → AN²
+A → DA
+V⁴ → V²-ed
+V² → V¹Pb
+
+Insertion
+
+T = my
+D = most
+A = recent
+N² = play
+V¹ = close
+Pb = down
+
+see also the schemas on pp. 350, 353: more like "potential" structures, not actual sentence analyses
+
+[ === rsyntaxtree
+[Utterance
+  [N⁴
+    [T my]
+    [N³
+      [N²
+        [A 
+          [D most]
+          [A recent]
+        ]
+        [N² play]
+      ]
+      \-s
+    ]
+  ]
+  [V⁴
+    [V²
+      [V¹ close]
+      [Pb down]
+    ]
+    \-ed
+  ]
+]
+=== ]:
+
+## Wells (1947) *Immediate constituents*
+
+[@wells1947: 84]
+
+## Nida (1949) *Morphology*
+
+nothing in 1946 version! [@nida1946]
+
+sentence: [@nida1949: 87]
+hierarchical morphological structure p.101, both 105
+
+Nida (1960) *A synopsis of English syntax*
+
+[@nida1960] added images to 1943 dissertation, which did not have images
+
+Nida (1973[1960]) writes his thesis in 1943, which is published in 1960. There do not seem to be trees in his thesis, but he Immediate Constituents might imply trees (but difficult to follow). In the 1960 edition he adds a long list of trees. But this is of course after Chomsky 1957.
+
+In the preface of the 1943: 30 dissertation he cited Sheffield 1912 (though not with respect to structural analysis) 
+
+Note the combination of dependency and constituency!
+
+Nida (1964) *Toward a Science of Translating*
+
+https://books.google.de/books?id=YskUAAAAIAAJ
+https://archive.org/details/towardsscienceof0000euge
+
+summary of different equivalent graphics [@nida1964: 58-62]
+
+## Fries (1952) *The structure of English*
+
+Charles Carpenter Fries (November 29, 1887 – December 8, 1967)
+
+no graphics in "American English Grammar" (1940), probably one of the first real corpos-linguistic grammars of English.
+
+graphics in [@fries1952: 272] (Pike is a student of Fries, Fries might have been inspired by Pike 1943 here)
+
+## Bar-Hillel (1953) *A Quasi-Arithmetical Notation for Syntactic Description*
+
+[@barhillel1953] english explanation of [@ajdukiewicz1935]
+
+## Gleason (1955) *An introduction to descriptive linguistics*
+
+Henry Allan 'Al' Gleason Jr. (April 18, 1917 – January 13, 2007)
+
+[@gleason1955: 129-131] also accompanying workbook (no graphics)
+
+second edition from 1961 extended, Chomsky mentioned in introduction [@gleason1961]. Includes generation and transformation. But still the old IC-stuff as well [@gleason1961]
+
+[@gleason1965] very open description: Ch7 on Reed/Kellog and other approaches, but also many chapters on TGG
+
+## Chomsky (1955) *The logical structure of linguistic theory*
+
+note: first generative rewrite rules following Harris already in [@chomsky1953].
+
+[@chomsky1955]
+
+Chomsky (1955: 277) Note the reversal of the usage of dashes, here more alike to brackets.
+
+Chomsky (1955: 316b) Similar to Pike/Fries/Hockett
+
+Chomsky cites Bar-Hillel (1953: 57)
+
+line diagrams, but without actual words: 205-206, 214-215, 222, 232, 734-735
+
+also in [@chomsky1975: 181, 229, 258] https://archive.org/details/logicalstructure00noam
+
+First trees in [@chomsky1956: 117-118], based on boxed table from Pike/Fries/Hockett
+
+## Hockett (1958) *A course in modern linguistics*
+
+[@hockett1958: 151-155, 178-180, 188-189]
+
+## Francis (1958) *The structure of American English*
+
+[@francis1958] chinese boxes. Stewart [@stewart1976] reports from personal communication with Francis, that the chinese-box diagrams were inspired on the graphical display in [@fries1952]
+
+## Gammon (1963) *On representing syntactic structure*
+
+[@gammon1963], completely ignoring chomsky?
+
+## Stageberg (1965) *An introductory English grammar*
+
+chinese boxes [@stageberg1965: 263]
+Fries-scheme of IC [@stageberg1965: 263-273]
+
+added chapter on TGG from different author. seems to be added late in the process of making the book.
 
 # Idiosyncratic analyses
 

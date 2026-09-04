@@ -83,7 +83,7 @@ The desire to summarise the structure of a complex *Periode* is a crucial starti
 
 Friedrich Diesterweg [-@diesterweg1834, see [@sec:diesterweg1830]] adopted Lehmann's terminology and added the term *Satzbild* for the structure of a monoclausal sentence. The two terms *Periodenbild* and *Satzbild* return throughout the 19th century in German grammars, although they start being used rather interchangeably. Even though many authors distinguish between two different graphical analyses, one for single-clause sentences and one for multi-clause sentences, Diesterweg's terminological distinction did not persist and most authors simply use the term *Satzbild* for both analyses. Linguistic *Bilder* remain virulent up to the present, the term *Periodenbild* gradually faded away from linguistic memory at the start of the 20th Century.
 
-# Frankfurt
+# Frankfurtische Gelehrtenverein
 
 ## Frankfurtische Gelehrtenverein für deutsche Sprache
 
@@ -293,7 +293,7 @@ Dasjenige Objektiv, welches als das Hauptwort des ganzen Verhältnisses anzusehe
 [@becker1830: 261]
 :::
 
-# The inception of visual syntax in Germany
+# The inception of visual syntax
 
 ## *Periodenbilder* & *Satzbilder*
 
@@ -565,7 +565,7 @@ Wenn ich mich in einer mittleren oder großen Stadt umsehe und bemerke, wo denn 
 Complex *Periodenbild* from Götzinger [-@gotzinger1839: 391] for the example from Goethe in [@last]. Note in comparison to Lehmann's *Periodenbild* (see [@sec:lehmann1833]) the different script letters are simplified to only lower-case latin letters and coordination is additionally indicated by using the equal sign.
 :::
 
-# Visual syntax in German text books
+# Visual syntax in textbooks
 
 ## Horn (1837) *Grammatik der neuhochdeutschen Sprache* {#sec:horn1837}
 
@@ -1782,7 +1782,7 @@ Meyer-Lübke (1899) *Grammatik der Romanischen Sprachen* uses SVOPA abbreviation
 
 Feigl (1904) *Die Stellung der Satzglieder* Friedrich Feigl, inspired by Meyer-Lübke https://opac.ku.de/s/uei/de/2/10/BV008647023
 
-# Periodenbilder for literary analysis
+# *Periodenbilder* for literary analysis
 
 ## Rinne (1840) *Die Lehre vom deutschen Stile* {#sec:rinne1840}
 
@@ -2411,7 +2411,7 @@ Höhle first uses word in print in 1979 [@hohle1979: 387]
 
 "Die Lehre von den topologischen Feldern besteht – nicht unter diesem Namen, aber in ihren wesentlichen Inhalten – seit mindestens 100 Jahren in gereifter Form." p.11
 
-# More recent German didactic approaches
+# More recent didactic approaches
 
 ## Rahn & Pfleiderer (1951) *Deutsche Spracherziehung*
 
