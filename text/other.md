@@ -168,7 +168,7 @@ earliest experience as a deaf-mute teacher [@storrs1880: 117]
 
 [@wing1885] further development of storrs/peet symbols for the deaf (which were also the basis for March 1869)
 
-# Danish constituency
+# Danish constituency {#sec:danish}
 
 ## Jespersen (1921) *De to hovedarter av grammattiske forbindelser* {#sec:jespersen1921}
 
@@ -351,7 +351,9 @@ first edition 1932, third completely revised edtion 1951
 
 ## Ajdukiewicz (1935) *Die syntaktische Konnexität*
 
-[@ajdukiewicz1935; @ajdukiewicz1961]
+Kazimierz Ajdukiewicz (1890-1963) was professor at the University of Lwów, Poznań and Warsaw
+
+[@ajdukiewicz1935]
 
 Der Begriff der syntaktischen Konnexität lässt
 sich aber besonders schön und einfach mit Hilfe der von Prof.
@@ -364,6 +366,8 @@ entlehnen von Leśniewski nur die Grundidee der Bedeutungskategorien
 und ihrer Arten 
 
 https://eudml.org/doc/212136 does not contain anything similary to ajdukiewicz analysis
+
+He participated in a 1959 conference *Zeichen und System der Sprache* 'Sign and System of Language' in Erfurt [@ajdukiewicz1961], where Mikuš also participated. See *Flexionssprache* on p. 8-9
 
 ## Mikuš (1947) *Le Syntagme EST-IL Binaire?* {#sec:mikuš1947}
 

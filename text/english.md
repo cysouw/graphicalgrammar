@@ -1590,7 +1590,7 @@ harmful to the body politic".
 
 Later "flow charts", introduced in [@hall1964: 206-207], much further developed in *Essentials of English phrase- and clause structures* [@hall1969]
 
-# Immediate constituents
+# Immediate constituents {#sec:ic}
 
 ## Sheffield (1912) *Grammar and thinking* {#sec:sheffield1912}
 
