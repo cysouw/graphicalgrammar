@@ -1,5 +1,7 @@
 > The vain pretensions of several modern simplifiers, contrivers of machines, charts, tallies, diagrams, vincula, pictures, dialogues, familiar lectures, ocular analyses, tabular compendiums, inductive exercises, productive systems, intellectual methods, and various new theories, for the purpose of teaching grammar, may serve to deceive the ignorant, to amuse the visionary, and to excite the admiration of the credulous; but none of these things has any favourable relation to that improvement which may justly be boasted as having taken place within the memory of the present generation. [@brown1851: 91]
 
+# PART I: A visual history {.unnumbered}
+
 # Visualising sentences
 
 ## Before Chomsky and Tesnière
@@ -13,21 +15,6 @@ A central driver of innovation for visual methods throughout this history was ed
 However, it is astonishingly difficult to find in-depth information about the history of the blackboard. Wich [-@wich2008] discusses many different technical developments, but most of his examples are from the late 19th Century and later. The early history still needs more research. There is a tantalising hint that blackboards might have been more widespread in Europe before 1800, as the picture of a class room in the *Orbis Pictus* by Comenius (1658) includes a blackboard, e.g. an edition from 1685: 198 <http://digitalna.kniznica.info/zoom/67138/view?page=205>
 
 Yet, also from the very start the graphical methods were also used to clarify linguistic structures in scholarly debates.
-
-## Graphical methods
-
-- symbols inserted between words
-- symbols added/above each word
-- symbolic abbreviations
-- curly braces for grouping
-- other brackets for grouping
-- vertical/slanted lines
-- chinese boxes
-- numbered tables
-- positional tables/templates
-- music score, high/low lines
-- indentation
-- etc.
 
 ## Previous research
 
@@ -61,6 +48,8 @@ There are often multiple editions of the works that are discussed here, and thes
 As a result, every cited reference in the text is clickable and leads directly to the bibliographical entry, which contains a link to the original online. This will be exactly the edition that is cited in this book, so the cited page numbers will match. You will still have to manually scroll to the respective page numbers, but in this way the original context of every contribution discussed here is easily available for closer inspection to the interested reader.
 
 # Major developments
+
+## Frankfurtische Gelehrtenverein
 
 ## Teaching the Deaf from Paris to New York
 
@@ -103,6 +92,21 @@ Influence from Logical tradition of Boole/Frege/Mill/Peirce/Jevons etc.
 - Rewrite rules: Harris (1946) => Chomsky, Mikuš (1952)
 
 In periodenbilder: Individual examples of hierarchical bracketing by Lehmann (1833:79) and Götzinger [@gotzinger1839: 383] and many examples later
+
+# Graphical methods
+
+- symbols inserted between words
+- symbols added/above each word
+- symbolic abbreviations
+- curly braces for grouping
+- other brackets for grouping
+- vertical/slanted lines
+- chinese boxes
+- numbered tables
+- positional tables/templates
+- music score, high/low lines
+- indentation
+- etc.
 
 # Precursors
 

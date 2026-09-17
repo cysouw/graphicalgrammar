@@ -1,4 +1,4 @@
-# PART IV: Other traditions {.unnumbered}
+# PART IV: Further traditions {.unnumbered}
 
 # Teaching grammar to the Deaf
 

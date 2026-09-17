@@ -1,4 +1,4 @@
-# PART III: English-speaking traditions {.unnumbered}
+# PART III: The English literature {.unnumbered}
 
 # German-style syntax in Britain
 
