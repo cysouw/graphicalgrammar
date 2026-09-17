@@ -506,6 +506,12 @@ diagramming? [@palser1923] Also used in “Memorandum on the teaching of English
 
 citing: Adamson and Dale (citing Kern!)
 
+=> Memorandum on the teaching of English [@memorandum1923: 7-8] Palser and Lewis are involved in this Memorandum revised edition, but same graphics [@memorandum1937: 7-8]
+
+version from 1932: p.8 from Association of assistant mistresses in secondary schools
+
+> In teaching the analysis of the Simple sentence we do not recommend elaborate diagrams; it seems a mistake to accustom children to visualise what are purely intellectual conceptions. Such devices should be sparingly used, and only as a last resource: it is the logical faculty we must develop, if we are to induce clear thinking. [@memorandum1932: 8]
+
 ## Fry (1925) *A key to language* {#sec:fry1925}
 
 own graphics
@@ -515,12 +521,6 @@ Fry [@fry1925: 12] commenting on Palser/Lewis: “all the chief features of my m
 ::: {.im #fry1925_64}
 [@fry1925: 64], cited by Jespersen [@jespersen1937: 83]
 :::
-
-## Palmer (1938) *The new method grammar*
-
-[@palmer1938]
-
-bio: https://warwick.ac.uk/fac/soc/al/research/collections/elt_archive/publications/smith_1999.pdf
 
 # German-style syntax in North America
 
@@ -752,6 +752,13 @@ Although Buckham's book is only published in 1881, he very likely used this appr
 Jeremiah Greenleaf "simplified Grammar" (first edition 1819) used word-class abbreviations above the words for parsing, e.g. third edition 1821: https://google.com/books?id=fegaAAAAYAAJ, extended version later: https://archive.org/details/laborsavinggramm00greerich
 
 charts were the rage: here is another one (without any graphical syntax) [@munsell1817]
+
+Check further examples listed in [@schweiger2019: 76-78], see also discussion in [@schweiger2010]
+
+- https://catalog.mbln.org/Polaris/search/title.aspx?ctx=3.1033.0.0.5&pos=2&cn=8453290
+- https://catalog.mwa.org/index.html
+- https://gigi.mwa.org/imagearchive/fileName/198799_0001.tif
+- https://gigi.mwa.org/imagearchive/fileName/253954_0001.tif
 
 ## Wilbur & Livingston (1814) *The grammatical alphabet* {#sec:wilbur1814}
 
@@ -1095,6 +1102,23 @@ Hall includes an extensive discussion of *monology* [@hall1849: 297-305], direct
 *Monology* from Hall [-@hall1849: 297], adapting the analysis from Brown ([@sec:brown1826]). Identical numbers indicate which words belong to the same *mono* (=constituent), which are sometimes also indicated by brackets. Just like Brown, Hall never uses hierarchical bracketing. Different from Brown, Hall does not distinguish between square and round brackets.
 :::
 
+## York (1854/1862) *An Analytical, Illustrative, and Constructive Grammar*
+
+Richard Brantley York (1805-1891) Brantley York was an educator, author, and Methodist clergyman in North Carolina. He organized Union Institute Academy at Brown's Schoolhouse in Randolph Co., N.C. in 1839, which would evolve into Normal College, Trinity College, and later Duke University. https://en.wikipedia.org/wiki/Brantley_York
+
+not yet found: first edition from 1854 (https://lccn.loc.gov/34036886, https://catalog.lib.unc.edu/catalog/UNCb2655289): An illustrative and constructive grammar of the English language (without "analytical"). History of publication in biography: https://archive.org/details/autobiographyofb00york/page/65
+
+Frontispiece of 1854 edition in [@schweiger2019: 83]
+
+third edition [@york1862] "dendrology" 38, 39 (note brackets and numbers like Brown 41ff, Brown cited in Preface)
+
+Other versions:
+
+- 1863: https://archive.org/details/yorksenglishgra00york/
+- 1864: https://archive.org/details/yorksenglishgram00york/
+- 1865: https://archive.org/details/yorksenglishgram01york/
+- 1865: https://catalog.hathitrust.org/Record/010944749
+
 ## Holmes (1873) First lessons in English grammar
 
 [@holmes1873]
@@ -1111,6 +1135,49 @@ The text on active/passive voice on page 109 is almost the same as in your image
 Holmes cites many different grammars available at the time, among them Clark and Greene
 
 More digital works by him here: https://onlinebooks.library.upenn.edu/webbin/who/Holmes%2C%20George%20Frederick%2C%201820-1897
+
+## Foerster & Steadman (1919) *Sentences and thinking* {#sec:foerster1919}
+
+Norman Foerster (1887–1972) taught English at various universities (Wisconsin, North Carolina, Iowa and Duke). In contrast, John M. Steadman (1889-1945) taught at Emory University for his whole career.^[Some minimal biographical information about Foerster is available at <https://aspace.lib.uiowa.edu/agents/people/557>. Likewise minimal is the information that I have been able to find about Steadman, being a short obituary from the New York Times, available at <https://www.nytimes.com/1945/12/22/archives/dr-jm-steadman-educator-author-professor-emeritus-of-english-at.html>, both accessed 7 May 2026.] Together they wrote the book *Sentences and thinking* [@foerster1919], which is predominantly a guide to creative writing, but also contains a small part about grammatical structure. There appears to be no direct link to Sheffield's *Grammar and thinking* (see [@sec:sheffield1912]), neither through explicit references nor through their personal histories. The similarity in titles suggests there may have been some influence from Sheffield's book. Foerster and Steadman's book appears to have been reasonably successful, revised thoroughly in 1923 and again in 1931. The last revision was retitled *Writing and thinking*. The grammatical section remained unchanged across these revisions.
+
+In the short grammatical section, Foerster & Steadman [-@foerster1919: 29-30] use the tree-metaphor to explain different kinds of sentence structure, as shown in [@fig:foerster1919_29]. They focus solely on the relationship of main and subordinate clauses (like in the German tradition of the *Periodenbild*), ignoring the internal structure of the individual clauses.
+
+::: {.im #foerster1919_29}
+Illustrations of different kinds of sentence structure from Foerster & Steadman [-@foerster1919: 29]. These illustrations are purely theoretical. These trees do not represent the structure of any concrete example sentences.
+:::
+
+As an illustration of these different kinds of sentence structure they discuss an example sentence, shown here in [@next]. They present two versions of this sentence, the first one being a basic enumeration [@next a], while the second has a more intricate grammatical structure with different kinds of subordination [@next b]. They explain their preference for the second version by expanding on the tree-metaphor:
+
+> We do not want piles of dead logs, but living trees. Our sentences should not be built mechanically; they should grow, as organisms grow. A sentence may contain […] many constituent thoughts, but of these thoughts perhaps one will stand out as the main thought (the trunk), which divides into several subordinate thoughts (large branches), which again divide into subordinate thoughts (small branches), etc. [@foerster1919: 29]
+
+::: ex
+- It stood there looking at a bright pebble, and it didn't move at all, and it seemed doomed, and we were filled with horror, and some of us turned pale as death, but suddenly we saw a man in a dark doorway, and he had doubtless been there right along, but we hadn't noticed him before, and he came out like a flash, and he blocked the way, and it was Martin. 
+- Standing there looking at a pebble, quite motionless, and apparently doomed, the child filled us with such horror that some of us turned pale as death; but suddenly we saw a man in a dark doorway, whom we hadn't noticed before (though he had doubtless been there right along) and who, coming out like a flash, blocked the way – it was Martin!
+:::
+
+For the analysis, Foerster & Steadman notice that the sentence consists of three main statements and eight subsidiary ones, as listed below. Actually, the statement (1a) below clearly consists of two statements (i.e. *standing there* and *looking at a pebble*), which are unexplicably not separated. They propose a graphical analysis of the structure of their preferred version [@last b], as shown in [@fig:foerster1919_30], which corresponds to a "highly developed compound sentence" from [@fig:foerster1919_29]. Unfortunately, this illustration only approximately represents the subordinate grammatical structure of the sentence. Neither the order of clauses, nor their relative subordination is represented in the diagram.
+
+1. The child filled us with horror.
+    a. Standing there looking at a pebble.
+    b. Quite motionless.
+    c. Apparently doomed.
+    d. Such that some of us turned pale as death.
+2. Suddenly we saw a man in a dark doorway.
+    a. Whom we hadn't noticed before.
+    b. Though he had doubtless been there right along.
+    c. Coming out like a flash.
+    d. Who blocked the way.
+3. It was Martin.
+
+::: {.im #foerster1919_30}
+Tree diagram of [@last b] from Foerster & Steadman [-@foerster1919: 30]. The representation of the syntactical structure is rather coarse and uninformative. It is unclear why they did not more accurately depict the structure of the sentence. For example, the clause 3 could have easily be moved to the right side and the subordinate branches could be added to the left or right depending on their relative order to the main clause. More interesting even would have been if secondary subordinations, like (2b), would have been depicted as secondary branches.
+:::
+
+The example is quote verbatim in –of all places– a Chinese grammar by Li Jinxi [-@jinxi1924: 361], see [@sec:jinxi1924]. Although the example is analysed exactly as it is described by Foerster & Steadman, the picture is completely redone by Li Jinxi and now more accurately reflects the grammatical structure, as shown in [@fig:jinxi1924_361]. The subordinate clause (1a) is still treated as a single clause, but the order and the relative subordination of the clauses is now faithfully represented by the illustration.
+
+::: {.im #jinxi1924_361}
+Same tree analysis as in the previous [@fig:foerster1919_30] from a Chinese grammar by Jinxi [-@jinxi1924: 361]. The complete example from Foerster & Steadman is quoted verbatim in this grammar over multiple pages, but the picture is completely overhauled and much improved. The ordering of the main clauses (indicated by numbers) now correctly reflects the original sentence, and multiple subordination is correctly analysed. Even the linking between the three main branches appears to be reflected in small graphical flourishes. The Chinese caption reads: '(Figure 7) illustrates the structure of the complex sentence mentioned above' This is exactly the caption from the original.
+:::
 
 # Diagramming
 
@@ -1185,34 +1252,6 @@ Z.M. Chandler https://www.hmdb.org/m.asp?m=5624 book published in Zanesville, Oh
 
 "models for black board exercises" (p151-160) very clear inspiration for later Reed/Kellog (Reed/Kellog say in introduction that their system arose in 1868, so clearly later than chandler)
 
-## York (1862) *An Analytical, Illustrative, and Constructive Grammar*
-
-Richard Brantley York (1805-1891) Brantley York was an educator, author, and Methodist clergyman in North Carolina. He organized Union Institute Academy at Brown's Schoolhouse in Randolph Co., N.C. in 1839, which would evolve into Normal College, Trinity College, and later Duke University. 
-
-not yet found: first edition from 1854 (https://lccn.loc.gov/34036886): An illustrative and constructive grammar of the English language (without "analytical"). History of publication in biography: https://archive.org/details/autobiographyofb00york/page/65
-
-https://en.wikipedia.org/wiki/Brantley_York
-
-third edtion 1862: 38, 39 (note brackets and numbers like Brown???)
-
-https://archive.org/details/analyticalillust00york
-
-p.21, 24, 40
-
-https://archive.org/details/yorksenglishgra00york/page/20/mode/2up?q=diagram
-
-https://catalog.hathitrust.org/Record/011199495
-
-diagram, tree metaphor in pictures
-
-https://books.google.de/books?id=BdIOAQAAMAAJ&newbks=1&newbks_redir=0&printsec=frontcover&hl=de#v=onepage&q=diagram&f=false
-
-Other books:
-
-- 1863: https://archive.org/details/yorksenglishgra00york/
-- 1864: https://archive.org/details/yorksenglishgram00york/
-- 1865: https://archive.org/details/yorksenglishgram01york/
-
 ## Parker (1865) *A grammar of the English language*
 
 William Henry Parker (1845-1929), Principal of Ringgold Grammar School, Philadelphia
@@ -1239,10 +1278,15 @@ same in [@burtt1873: 126-136], variant of Chandler
 
 ## Chamberlin (1871) *Natural system of English grammar*
 
-original not yet found [@brittain1973: 67]
+original not yet found [@brittain1973: 67] (Peter has a copy!)
+
+(1820-1874)
+
+Daniel B. Chamberlin. 1871. Natural System of English Grammar. Introductory Course. New York: Charles Scribner & Co. 55 pp.
 
 https://bsky.app/profile/coffeeanddonatus.bsky.social/post/3kifj7o36bu2i
-https://nationallibraryofeducation.on.worldcat.org/search/detail/974041820?queryString=chamberlin%20natural%20system%20grammar&clusterResults=true&groupVariantRecords=false
+https://nlecatalog.ed.gov/uhtbin/cgisirsi.exe/x/0/0/57/5/0?user_id=WEBSERVER&searchdata1=ocn974041820
+
 
 ## Lighthall (1872) *Introduction to analysis and parsing*
 
@@ -1790,47 +1834,14 @@ added chapter on TGG from different author. seems to be added late in the proces
 
 # Idiosyncratic analyses
 
-## Foerster & Steadman (1919) *Sentences and thinking* {#sec:foerster1919}
+## Palmer (1938) *The new method grammar*
 
-Norman Foerster (1887–1972) taught English at various universities (Wisconsin, North Carolina, Iowa and Duke). In contrast, John M. Steadman (1889-1945) taught at Emory University for his whole career.^[Some minimal biographical information about Foerster is available at <https://aspace.lib.uiowa.edu/agents/people/557>. Likewise minimal is the information that I have been able to find about Steadman, being a short obituary from the New York Times, available at <https://www.nytimes.com/1945/12/22/archives/dr-jm-steadman-educator-author-professor-emeritus-of-english-at.html>, both accessed 7 May 2026.] Together they wrote the book *Sentences and thinking* [@foerster1919], which is predominantly a guide to creative writing, but also contains a small part about grammatical structure. There appears to be no direct link to Sheffield's *Grammar and thinking* (see [@sec:sheffield1912]), neither through explicit references nor through their personal histories. The similarity in titles suggests there may have been some influence from Sheffield's book. Foerster and Steadman's book appears to have been reasonably successful, revised thoroughly in 1923 and again in 1931. The last revision was retitled *Writing and thinking*. The grammatical section remained unchanged across these revisions.
+Harold E. Palmer (1877-1949)
 
-In the short grammatical section, Foerster & Steadman [-@foerster1919: 29-30] use the tree-metaphor to explain different kinds of sentence structure, as shown in [@fig:foerster1919_29]. They focus solely on the relationship of main and subordinate clauses (like in the German tradition of the *Periodenbild*), ignoring the internal structure of the individual clauses.
+bio: https://warwick.ac.uk/fac/soc/al/research/collections/elt_archive/publications/smith_1999.pdf
 
-::: {.im #foerster1919_29}
-Illustrations of different kinds of sentence structure from Foerster & Steadman [-@foerster1919: 29]. These illustrations are purely theoretical. These trees do not represent the structure of any concrete example sentences.
-:::
-
-As an illustration of these different kinds of sentence structure they discuss an example sentence, shown here in [@next]. They present two versions of this sentence, the first one being a basic enumeration [@next a], while the second has a more intricate grammatical structure with different kinds of subordination [@next b]. They explain their preference for the second version by expanding on the tree-metaphor:
-
-> We do not want piles of dead logs, but living trees. Our sentences should not be built mechanically; they should grow, as organisms grow. A sentence may contain […] many constituent thoughts, but of these thoughts perhaps one will stand out as the main thought (the trunk), which divides into several subordinate thoughts (large branches), which again divide into subordinate thoughts (small branches), etc. [@foerster1919: 29]
-
-::: ex
-- It stood there looking at a bright pebble, and it didn't move at all, and it seemed doomed, and we were filled with horror, and some of us turned pale as death, but suddenly we saw a man in a dark doorway, and he had doubtless been there right along, but we hadn't noticed him before, and he came out like a flash, and he blocked the way, and it was Martin. 
-- Standing there looking at a pebble, quite motionless, and apparently doomed, the child filled us with such horror that some of us turned pale as death; but suddenly we saw a man in a dark doorway, whom we hadn't noticed before (though he had doubtless been there right along) and who, coming out like a flash, blocked the way – it was Martin!
-:::
-
-For the analysis, Foerster & Steadman notice that the sentence consists of three main statements and eight subsidiary ones, as listed below. Actually, the statement (1a) below clearly consists of two statements (i.e. *standing there* and *looking at a pebble*), which are unexplicably not separated. They propose a graphical analysis of the structure of their preferred version [@last b], as shown in [@fig:foerster1919_30], which corresponds to a "highly developed compound sentence" from [@fig:foerster1919_29]. Unfortunately, this illustration only approximately represents the subordinate grammatical structure of the sentence. Neither the order of clauses, nor their relative subordination is represented in the diagram.
-
-1. The child filled us with horror.
-    a. Standing there looking at a pebble.
-    b. Quite motionless.
-    c. Apparently doomed.
-    d. Such that some of us turned pale as death.
-2. Suddenly we saw a man in a dark doorway.
-    a. Whom we hadn't noticed before.
-    b. Though he had doubtless been there right along.
-    c. Coming out like a flash.
-    d. Who blocked the way.
-3. It was Martin.
-
-::: {.im #foerster1919_30}
-Tree diagram of [@last b] from Foerster & Steadman [-@foerster1919: 30]. The representation of the syntactical structure is rather coarse and uninformative. It is unclear why they did not more accurately depict the structure of the sentence. For example, the clause 3 could have easily be moved to the right side and the subordinate branches could be added to the left or right depending on their relative order to the main clause. More interesting even would have been if secondary subordinations, like (2b), would have been depicted as secondary branches.
-:::
-
-The example is quote verbatim in –of all places– a Chinese grammar by Li Jinxi [-@jinxi1924: 361], see [@sec:jinxi1924]. Although the example is analysed exactly as it is described by Foerster & Steadman, the picture is completely redone by Li Jinxi and now more accurately reflects the grammatical structure, as shown in [@fig:jinxi1924_361]. The subordinate clause (1a) is still treated as a single clause, but the order and the relative subordination of the clauses is now faithfully represented by the illustration.
-
-::: {.im #jinxi1924_361}
-Same tree analysis as in the previous [@fig:foerster1919_30] from a Chinese grammar by Jinxi [-@jinxi1924: 361]. The complete example from Foerster & Steadman is quoted verbatim in this grammar over multiple pages, but the picture is completely overhauled and much improved. The ordering of the main clauses (indicated by numbers) now correctly reflects the original sentence, and multiple subordination is correctly analysed. Even the linking between the three main branches appears to be reflected in small graphical flourishes. The Chinese caption reads: '(Figure 7) illustrates the structure of the complex sentence mentioned above' This is exactly the caption from the original.
+::: {.im #palmer1938_196}
+Flow-diagram for the English sentence from Palmer [-@palmer1938: 196]
 :::
 
 ## Robert (1956) *Patterns of English*
