@@ -2349,6 +2349,10 @@ Meeting with US americans at International Congres of Linguists in London (52) a
 Satzkern, Satzrahmen (p.64): Personalform, Infinitform, Verbzusatz (157)
 https://nbn-resolving.org/urn:nbn:de:bsz:mh39-101601
 
+## Boost (1955) *Neue Untersuchungen*
+
+Highly critical of Drach, but still basically the same analysis, e.g. [@boost1964: 87]
+
 ## Erben (1958) *Abriss der deutschen Grammatik* {#sec:erben1958}
 
 [@erben1958: 188] tree, citing Tesniere [@tesniere1953]. Aussagerahmen (p.172), Nachfeld inside! (~ Mittelfeld??) p. 173, vorfeld only for "determiner" position? p. 175
@@ -2422,7 +2426,7 @@ Word "Topologie" used by Bech, chapter called "Zur topologie der verbalfelder" [
 
 word "Topik/topisch" has a long tradition [@roth1799;[@herling1821;@pollaschek1902;@diderichsen1943] *topiske* in Danish in [@diderichsen1941: 10-14].
 
-Word "topologie" already used by Bierwisch (1961: 259, 261, 267) https://doi.org/10.1524/stuf.1961.14.14.244 However, he uses the term without introduction, so it seems to have been common usage already before him.
+Word "topologie" already used by Bierwisch (1961: 259, 261, 267) https://doi.org/10.1524/stuf.1961.14.14.244 However, he uses the term without introduction, so it seems to have been common usage already before him. He also uses the term without introduction in Bierwisch [-@bierwisch1966: 45], though in this paper he cited Bech [-@bech1955] at another point (p. 50).
 
 word "topologie" already used by Walter Flämig in 1971: https://doi.org/10.1515/9783111350851-008, also chapter 4 in https://doi.org/10.1515/9783112642702 (1981)
 
@@ -2433,6 +2437,18 @@ Höhle first uses word in print in 1979 [@hohle1979: 387]
 "Die Lehre von den topologischen Feldern besteht – nicht unter diesem Namen, aber in ihren wesentlichen Inhalten – seit mindestens 100 Jahren in gereifter Form." p.11
 
 # More recent didactic approaches
+
+## Arends & Jahn (1950) *Der deutsche Sprachspiegel*
+
+Felix Arends (1888-????) publication in 1962: https://ubmr.hds.hebis.de/Record/HEB111783623
+
+Robert Jahn (1885-1962) https://de.wikipedia.org/wiki/Robert_Jahn_%28Archivar%29
+
+2nd edition [@arends1954: 23,29] Anlauf - Kern - Zusätze - Kernerweiterung
+
+Revision in 1956, dropping the article, now *Deutscher Sprachspiegel* Volume 1 [@arends1956: 127] complex notation system for sentence analysis. Volume 2 [@arends1958: 127] lines for subordinated clauses. This volume has Erika Essen as co-author! More examples in [@arnold1968]
+
+Further revision in 1966 and 1971
 
 ## Rahn & Pfleiderer (1951) *Deutsche Spracherziehung*
 
