@@ -2444,7 +2444,7 @@ Felix Arends (1888-????) publication in 1962: https://ubmr.hds.hebis.de/Record/H
 
 Robert Jahn (1885-1962) https://de.wikipedia.org/wiki/Robert_Jahn_%28Archivar%29
 
-2nd edition [@arends1954: 23,29] Anlauf - Kern - Zusätze - Kernerweiterung
+2nd edition [@arends1954: 23,29] Anlauf - Kern - Zusätze - Kernerweiterung. Verbs marked with green, subject with red. (cf Bonnard: verbs blue, subject red)
 
 Revision in 1956, dropping the article, now *Deutscher Sprachspiegel* Volume 1 [@arends1956: 127] complex notation system for sentence analysis. Volume 2 [@arends1958: 127] lines for subordinated clauses. This volume has Erika Essen as co-author! More examples in [@arnold1968]
 
