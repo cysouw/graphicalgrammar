@@ -747,7 +747,7 @@ Although Buckham's book is only published in 1881, he very likely used this appr
 
 > [I am] especially indebted to Professor H. B. Buckham, of the Buffalo State Normal School, for the preparation of the selections and for important suggestions in regard to the symbols by which the sentence is represented. [@greene1874: 4]
 
-# Proto-diagramming
+# A new grammar for a new country
 
 Jeremiah Greenleaf "simplified Grammar" (first edition 1819) used word-class abbreviations above the words for parsing, e.g. third edition 1821: https://google.com/books?id=fegaAAAAYAAJ, extended version later: https://archive.org/details/laborsavinggramm00greerich
 
@@ -759,67 +759,6 @@ Check further examples listed in [@schweiger2019: 76-78], see also discussion in
 - https://catalog.mwa.org/index.html
 - https://gigi.mwa.org/imagearchive/fileName/198799_0001.tif
 - https://gigi.mwa.org/imagearchive/fileName/253954_0001.tif
-
-## Wilbur & Livingston (1814) *The grammatical alphabet* {#sec:wilbur1814}
-
-Nothing is known about the authors Josiah Wilbur and William Livingston of the book *the grammatical alphabet* [@wilbur1814]. Library catalogues recurrently list William Livingston with the dates 1723-1790, which are the year of birth and death of the Founding Father, also called William Livingston. This well-known figure is unlikely to be the author of these grammatical treatise from 1814 and a later book from 1817 [@gorlach1998: 344 repeats the dates, but adds a questionmark behind the publication date of a book, indicating that he also considers the dates unconvincing]. William Livingston (the grammarian) could possibly be the son of William Livingston (the founding father) with the same name. The son lived between 1754–1817, which would fit the publication dates of the grammars. However, I have no clear evidence for this identification.
-
-The places of publication point to locations to the north of the city of New York, i.e. the preface of Wilbur & Livingston [-@wilbur1814] is signed in Albany (NY) and is published in Hartford (CO) with endorsements from dignitaries in Albany (NY). Livingston [-@livingston1817a] is published in Middlebury (VT) but has a copyright notice by a clerk of the Northern District of New York. Wilbur [-@wilbur1821] is published in Bellows Falls (VT) and has a long list of recommendations from all over northeastern USA [@wilbur1821: 6-11], with notewhorthy formulations like "We [Thomas Kempton and J.S. Russell] having examined a school taught in this place [Dartmouth] by Josia Wilbur & Son for nineteen days …", which suggests that Wilbur might have been a sort of travelling salesman for his didactic approach to grammar.
-
-The precise history of publication of these two people are a bit mysterious, as there are many different references to their work, some of which I have been unable to access. I have been able to inspect the following works:
-
-- *The grammatical alphabet* [@wilbur1814, also a 1815 identical edition]. This book mentions an accompanying *grammar chart*, which might be the 2-page object called *English grammar simplified by the assistance of a chart* as listed in the Library of Congress.^[The Library of Congress record is online at <https://lccn.loc.gov/2020768232>, but no digital version available. This object might be the *English grammar* as cited by Görlach [-@gorlach1998: 344]. Görlach also mentions a second edition from 1822, but that is probably *the grammatical key* listed below. The title *English grammar simplified* from 1815 by Wilbur & Livingston is also mentioned in a list of acquired books on page 177 of the Proceedings of the Massachusetts Historical Society, available online at <https://www.jstor.org/stable/25080785>.]
-- *An English grammar* [@livingston1817a]
-- *The syntactical atlas* [@livingston1817]
-- *The grammatical key* [@wilbur1821].^[Garner [-@garner2021: 188] mentions a second edition from 1822, and lists the first edition as being from 1815, which is probably a mix-up with *the grammatical alphabet* as mentioned above.]
-
-In the *Grammatical alphabet* [@wilbur1814: 9-23] ten numbered word classes are distinguished and pictures are introduced for some of these word classes, i.e. for the verb, noun, article, adjective, adjective pronoun (including possessive pronouns, demonstratives and indefinite pronouns), conjunction and interjection, as shown in [@fig:wilbur1814_18]. The pictures seem to be intended to be combined into large constructions, but no examples are included of how they were supposed to be used. Basically the same approach is used in the *Grammatical key*, published alone by Wilbur [-@wilbur1821]. The numbering of the ten word classes is reshuffeled and all ten now have pictures [@wilbur1821: 13-18]. The details of the pictures are also slightly different from the 1814 version. The numbers for the word classes are used to parse a sentence by writing them above the words of a sentence. Maybe the pictures were alternatives for the numbers, but including them was too intricate for the printing press.
-
-::: {.im #wilbur1814_18}
-Pictures for word classes from Wilbur & Livingston [-@wilbur1814: 18]
-:::
-
-Additionally, Wilbur & Livingston [-@wilbur1814] in their title mention the inclusion of a "grammar chart", which I have not seen.^[The chart is possibly this 2-page object from the Library of Congress catalogue <https://lccn.loc.gov/2020768232>.] Apparantly, adding large sheets with summaries for quick reference were en-vogue. Munsell [-@munsell1817] is another example of such a "grammatical chart". Livingston [-@livingston1817] also publishes such a large sheet, called a *syntactical atlas. Similarly, Wilbur [-@wilbur1821] in the title mentions "an atlas for parsing". The term "atlas" is a bit confusing in this context, as it simply seems to refer to a large sheet and not to an actual map-like image.
-
-In 1817 Livingston publishes another book, without Wilbur: *An English grammar* [@livingston1817a] together with his *Syntactical atlas* [@livingston1817]. He takes a slightly different approach, probably inspired by the *vinculum* of Picket (see [@sec:picket1815]), although this influence is not mentioned explicitly. Livingston also uses numbers above (and sometimes below) the sentences to be analysed, but these numbers do not refer to word classes, but to syntactical rules. He distinguishes 23 syntactic rules [@livingston1817a: 35-47], highlighting "concord and government" [@livingston1817a: 34] by using connecting brackets to indicate such relationships. In all examples presented, Livingston is rather eclectic in which of the many possible brackets is actually shown. One of the more intricate examples from his book is shown in [@fig:livingston1817_54] for the example sentence in [@next].
-
-The syntactical rules indicated in this examples are the listed below. The formulation of rule 2 is rather unfortunate, especially the word *agree* should not be read in the modern meaning of "grammatical agreement". From the context it becomes clear that this rule is intended to mean something like "the definite article can be used both with singular and plural nouns, different from the indefinite article *a* as discussed in rule 1". There is of course no linguistic indication of number agreement between the definite article and the noun in the English language.
-
-- Rule 2: The definite article *the* agrees with nouns, either in singular or plural number.
-- Rule 3: Adjectives belong to nouns.
-- Rule 11: One noun governs another signifying a different thing is the possessive case.
-- Rule 14: Prepositions govern the objective case.
-- Rule 17: Conjunctions connect the same case of nouns and pronouns.
-- Rule 18: Neuter verbs have the same case after as before them.
-
-::: ex
-Dissimulation in youth is the forerunner of perfidy in old age. Its first appearance is the fatal omen of growing depravity and future shame. (Quotation from *The accomplished youth* (1811) by Hugh Blair)^[The original is available online at <https://archive.org/details/accomplishedyout00londiala>. This often cited quote is found on page 28.]
-:::
-
-::: {.im #livingston1817_54}
-Illustration of the application of syntactical rules to sentence [@last] from Livingston [-@livingston1817a: 54]. The arches indicate concord and government. This approach to visualise the grammatical structure is clearly inspired by Picket, cf. [@fig:picket1815_80]. The image shown here was recreated for improved legibility. The original image is available at the following link:
-:::
-
-## Picket (1815) *The juvenile instructor* {#sec:picket1815}
-
-Albert Picket (1771-1850) was a teacher and ran his own school, first in Manhattan and later in Cincinnati.^[Some basic biographical information is available online at >https://prabook.com/web/albert.picket/3763249>, accessed 8 June 2026.] In the 1810s, He wrote a series of textbooks for the instruction of reading, writing, grammar and composition, which all have the word *juvenile* in the title. In *The juvenile instructor* [@picket1812] he dealt with grammatical structure. The first version does not have any graphical grammar, but in the second version he adds the method of a "vinculum or chain" as an illustration of government and agreement between words. An example of his approach is shown in [@fig:picket1815_80] for the opening lines of the second act of the play *Douglas* by John Home [@next], which was a staple of school texts in those days. Exactly the same examples is also used in the third edition [@picket1818: 108], though the rest of the book has been reworked. Later in life he wrote various other grammatical textbooks together with his son John W. Picket (1792-1875). The graphical approach is not used in these books.^[Picket and his son together wrote: *The Essentials of English Grammar* (1830) <https://google.com/books?id=Ie9BAQAAMAAJ>, *Principles of English grammar* (1837) <https://google.com/books?id=flEhAQAAMAAJ> and *Analyzer and expositor* (1847) <https://babel.hathitrust.org/cgi/pt?id=nyp.33433069240632&seq=9>, all accessed 8 June 2026.]
-
-The numbers in the *Vinculum* refer to the relevant syntactical rules [@picket1815: 44-79]. He distinguishes 48 rules, e.g. "Rule 1. The indefinite article *a* or *an* is joined to nouns of the singular number"[@picket1815: 44]. These numbers are written on top of the sentences to be analysed. Additionally, Picket explains his use of lines as follows:
-
-> It is to be observed, that in this method of parsing or analysing, the learner should be taught to connect the words that are governed by each other, by a vinculum or curve line, designated thus, ⏜ , which represents the words thus connected, as governed by the former or latter word; or thus, ⸺ , which shows the agreement between the words conjoined, and when applied to conjunctions, denotes connection […]. [@picket1815: 82]
-
-::: ex
-Opening lines of the second act of the play *Douglas* (1756) by John Home
-
-My name is Norval; on the Grampian Hills \
-My father feeds his flocks; a frugal swain, \
-Whose constant cares were to increase his store. \
-And keep his only son, myself, at home. \
-:::
-
-::: {.im #picket1815_80}
-*Vinculum* from Picket [-@picket1815: 80] for the opening of *Douglas* by John Home. The numbers refer to syntactic rules and the lines indicate government (curved lines) and agreement/conjunction (straight lines). The image shown here was recreated for improved legibility. The original image is available at the following link:
-:::
 
 ## Brown (1826) *The American system of English grammar* {#sec:brown1826}
 
@@ -1080,18 +1019,6 @@ Frontispiece of the Latin grammar from Barret [-@barrett1857, inserted between p
 
 Later, Barret writes yet another book [@barrett1859], which has basically the same content as the previous book, but a strongly revised presentation. He now puts his 21 grammatical relations front and centre of the analysis. There is also a 1876 book by Barrett called *A "signal" grammar of the English language*,^[Catalogue entry at the Library of Congress: <https://lccn.loc.gov/11004540>.] which is not available digitally and which I have not yet been able yet to access.
 
-## Alcott (1842) *Slate and black board exercises*
-
-William Andrus Alcott (1798-1859) was an educator and a well-known early proponent of the vegetable diet. Originally from Connecticut, he lived most of his active life in around Boston.^[Basic biographical information is provided on https://en.wikipedia.org/wiki/William_Alcott, accessed 10 July 2026.] One of his many educational writing dealed with using the black board in class:
-
-> The importance of the black board as an instrument of instruction in the common school, has been insisted on in every periodical on education which I have seen, either of this country or Europe; as well as in almost every recent treatise on the same subject. It has also been introduced into most of our improved schools, of every grade, especially in New England and New York. In many of our common schools, however, it has been but barely introduced. The teacher knows almost as little how to use it as his pupils. [@alcott1842: 5]
-
-Alcott discusses how to use the black board for many different subjects, among them he also included a chapter on teaching grammar [@alcott1842: 178-194]. At the end of the chapter he proposes to explain government and coordination by drawing curved lines, as shown in [@fig:alcott1842_193]. This approach is strongly reminiscent of the *vinculum* of Picket (see [@sec:picket1815]).
-
-::: {.im #alcott1842_193}
-Blackboard exercise from Alcott [-@alcott1842: 193]. He proposes that "we may draw a curved line from the governing word to the word which is governed; or at least require a pupil to do it, in view of the rest." This approach looks very much like the *vinculum* from Picket, cf. [@fig:picket1815_80].
-:::
-
 ## Hall (1849) *Encyclopedia of English grammar*
 
 William Hall published his *Encyclopedia of English grammar* probably in 1849, printed in Virginia [cf. @gorlach1998: 161], but the only online copy with that date has a missing title page, so I am not sure this really is that version [@hall1849]. That incomplete version is exactly the same as a 1850 version, printed in Ohio [@hall1850]. Nothing is known about the author, except that it is not the same person as William D. Hall (see [@sec:hall1898]) nor Milo Baldwin Hall (see [@sec:hall1904]). The book is clearly influenced by Brown (see [@sec:brown1826]), because in the introduction Hall says that the book deals with "the science of English Syntithology" [@hall1850: iii]. The term "syntithology" (instead of syntax) is one of the many terminological inventions of Brown. Brown is explicitly cited in various footnotes [@hall1849: 72, 98, 246, 297]. Barrett (see [@sec:barrett1842]) is obliquely cited once among many other grammars in the context of word-class division [@hall1849: 51]. In contrast, Peirce (see [@sec:peirce1839]) is cited in a long rant, typesetted as a footnote running over 10 pages [@hall1849: 96-105], criticizing Peirce's use of the term *asserter* for verbs.
@@ -1102,13 +1029,13 @@ Hall includes an extensive discussion of *monology* [@hall1849: 297-305], direct
 *Monology* from Hall [-@hall1849: 297], adapting the analysis from Brown ([@sec:brown1826]). Identical numbers indicate which words belong to the same *mono* (=constituent), which are sometimes also indicated by brackets. Just like Brown, Hall never uses hierarchical bracketing. Different from Brown, Hall does not distinguish between square and round brackets.
 :::
 
-## York (1854/1862) *An Analytical, Illustrative, and Constructive Grammar*
+## York (1854) *An analytical, illustrative, and constructive Grammar*
 
 Richard Brantley York (1805-1891) Brantley York was an educator, author, and Methodist clergyman in North Carolina. He organized Union Institute Academy at Brown's Schoolhouse in Randolph Co., N.C. in 1839, which would evolve into Normal College, Trinity College, and later Duke University. https://en.wikipedia.org/wiki/Brantley_York
 
-not yet found: first edition from 1854 (https://lccn.loc.gov/34036886, https://catalog.lib.unc.edu/catalog/UNCb2655289): An illustrative and constructive grammar of the English language (without "analytical"). History of publication in biography: https://archive.org/details/autobiographyofb00york/page/65
+[@york1854] first edition from 1854 cites Brown, and uses his terminology and analysis in part. Frontispiece of 1854 edition in [@schweiger2019: 83]
 
-Frontispiece of 1854 edition in [@schweiger2019: 83]
+History of publication in biography: https://archive.org/details/autobiographyofb00york/page/65
 
 third edition [@york1862] "dendrology" 38, 39 (note brackets and numbers like Brown 41ff, Brown cited in Preface)
 
@@ -1118,6 +1045,22 @@ Other versions:
 - 1864: https://archive.org/details/yorksenglishgram00york/
 - 1865: https://archive.org/details/yorksenglishgram01york/
 - 1865: https://catalog.hathitrust.org/Record/010944749
+
+## Gengembre & Brown (1855) *Elements of English grammar*
+
+Philip Gengembre (1830-1911), who later changed his name to Philip Hubert, published *Elements of English grammar* in 1855 together with John H. Brown. Almost nothing is known about Brown beyond the fact that he was a principal of one of the Zane Street grammar schools, as he identifies himself on the title page of the book,^[This is confirmed by the 1850 annual report of the controllers of the public schools in Philadelphia, where he is listed as principal of the boy's grammar school (p. 20). The report is available online at <https://archive.org/details/annualreportofco00unse_4>, accessed 1 October 2026.] Much more is known about Gengembre's biography [@price1914]. Gengembre was born in Paris, but moved with his family to Cincinnati in 1849. He worked there as a teacher of French until 1853, when he accepted a position at Girard College in Philadelphia, where he taught French and history. In 1859, he moved to Boston to teach French and apparently he was even offered a professorship at Harvard, which he declined. In 1865, he moved to New York and embarked on a new career as an architect, following in his father's footsteps and eventually becoming very successful.
+
+Gengembre published textbooks about French grammar both before [@doisy1851] and after [@gengembre1859] the *English grammar*, but these books do not contain any graphical grammar. His French textbooks belong to a long tradition of French textbooks for English speakers that can be traced back to the grammar books of Charles Praval (1745?-1789), who worked in Dublin between 1773 and 1789 [@kennedy1999].^[Online versions are available at https://books.google.com/?id=6dxCnMm2rJMC (*Syntax* of 1779) and https://books.google.com/?id=vmIEgeRkMKEC (*Idioms* of 1783).] Praval's books were revised and expanded in 1825 and 1833 by Adalbert Doisy de Villargennes (1792–1879), who was born in Paris, spend several years in Dublin (1814-1846), and moved to Cincinnati in 1846. Gengembre married Doisy's daughter in 1851, the same year in which Gengembre and Adalbert Doisy together published a French textbook [@doisy1851].
+
+The visual approach to grammatical analysis developed by Gengembre and Brown stands alone within the vibrant period of grammatical innovation in the United States. They do not explicitly identify any sources of inspiration and their particular approach appears not to have had any direct successors. There are nevertheless several indications of possible influences for their graphical system.
+
+First, given that they were working and publishing in Philadelphia, it seems likely that Gengembre and Brown were familiar with the numerous and copious grammatical publications of James Brown (see [@sec:brown1826]), whose private school was located only a few streets from the Zane Street school of which John H. Brown was a principal. James Brown is never mentioned by Gengembre and Brown, but the following statement in the introduction might be a deliberate response to the numerous terminological "innovations" for which James Brown's books are notorious and which can make them difficult to read: "Grammatical innovations have been carefully avoided, no new terms have been introduced" [@gengembre1855: iv].
+
+Second, throughout the book, Gengembre and Brown describe their graphical system as a form of "shorthand". The idea of shorthand writing had been introduced to the United States in 1849 by Benjamin Pitman, the younger brother of Isaac Pitman, the inventor of modern shorthand introduced in Great Britain around 1837. Benjamin Pitman moved to Cincinnati in 1849, the same year in which Gengembre and his family moved there. During his years in Cincinati, Gengembre may therefore have become acquainted with the idea of shorthand. There is, however, no visual similarity between Pitman's phonetic shorthand and the grammatical shorthand of Gengembre and Brown. Any connection would thus seem to be conceptual rather than a direct adaptation of Pitman's system.
+
+Third, the visual approach of Gengembre and Brown is reminiscent of the symbols used by Barnard (see [@sec:barnard1836]), but I have not been able to find any concrete evidence of an influence, and the details of the graphical systems differ considerably. In essence, Barnard [@barnard1836: iii] uses a vertical line to represent nouns and a diagonal line to represent verbs. Gengembre and Brown, by contrast, use a vertical line for articles, a horizontal line for nouns and a cross for verbs. Like with shorthand, any possible connection to Barnard's system seems to be conceptual rather than a direct adaptation.
+
+> The characters employed in parsing occupy but little space, and can be used on the black board with great advantage and convenience. [@gengembre1855: vi]
 
 ## Holmes (1873) First lessons in English grammar
 
@@ -1135,49 +1078,6 @@ The text on active/passive voice on page 109 is almost the same as in your image
 Holmes cites many different grammars available at the time, among them Clark and Greene
 
 More digital works by him here: https://onlinebooks.library.upenn.edu/webbin/who/Holmes%2C%20George%20Frederick%2C%201820-1897
-
-## Foerster & Steadman (1919) *Sentences and thinking* {#sec:foerster1919}
-
-Norman Foerster (1887–1972) taught English at various universities (Wisconsin, North Carolina, Iowa and Duke). In contrast, John M. Steadman (1889-1945) taught at Emory University for his whole career.^[Some minimal biographical information about Foerster is available at <https://aspace.lib.uiowa.edu/agents/people/557>. Likewise minimal is the information that I have been able to find about Steadman, being a short obituary from the New York Times, available at <https://www.nytimes.com/1945/12/22/archives/dr-jm-steadman-educator-author-professor-emeritus-of-english-at.html>, both accessed 7 May 2026.] Together they wrote the book *Sentences and thinking* [@foerster1919], which is predominantly a guide to creative writing, but also contains a small part about grammatical structure. There appears to be no direct link to Sheffield's *Grammar and thinking* (see [@sec:sheffield1912]), neither through explicit references nor through their personal histories. The similarity in titles suggests there may have been some influence from Sheffield's book. Foerster and Steadman's book appears to have been reasonably successful, revised thoroughly in 1923 and again in 1931. The last revision was retitled *Writing and thinking*. The grammatical section remained unchanged across these revisions.
-
-In the short grammatical section, Foerster & Steadman [-@foerster1919: 29-30] use the tree-metaphor to explain different kinds of sentence structure, as shown in [@fig:foerster1919_29]. They focus solely on the relationship of main and subordinate clauses (like in the German tradition of the *Periodenbild*), ignoring the internal structure of the individual clauses.
-
-::: {.im #foerster1919_29}
-Illustrations of different kinds of sentence structure from Foerster & Steadman [-@foerster1919: 29]. These illustrations are purely theoretical. These trees do not represent the structure of any concrete example sentences.
-:::
-
-As an illustration of these different kinds of sentence structure they discuss an example sentence, shown here in [@next]. They present two versions of this sentence, the first one being a basic enumeration [@next a], while the second has a more intricate grammatical structure with different kinds of subordination [@next b]. They explain their preference for the second version by expanding on the tree-metaphor:
-
-> We do not want piles of dead logs, but living trees. Our sentences should not be built mechanically; they should grow, as organisms grow. A sentence may contain […] many constituent thoughts, but of these thoughts perhaps one will stand out as the main thought (the trunk), which divides into several subordinate thoughts (large branches), which again divide into subordinate thoughts (small branches), etc. [@foerster1919: 29]
-
-::: ex
-- It stood there looking at a bright pebble, and it didn't move at all, and it seemed doomed, and we were filled with horror, and some of us turned pale as death, but suddenly we saw a man in a dark doorway, and he had doubtless been there right along, but we hadn't noticed him before, and he came out like a flash, and he blocked the way, and it was Martin. 
-- Standing there looking at a pebble, quite motionless, and apparently doomed, the child filled us with such horror that some of us turned pale as death; but suddenly we saw a man in a dark doorway, whom we hadn't noticed before (though he had doubtless been there right along) and who, coming out like a flash, blocked the way – it was Martin!
-:::
-
-For the analysis, Foerster & Steadman notice that the sentence consists of three main statements and eight subsidiary ones, as listed below. Actually, the statement (1a) below clearly consists of two statements (i.e. *standing there* and *looking at a pebble*), which are unexplicably not separated. They propose a graphical analysis of the structure of their preferred version [@last b], as shown in [@fig:foerster1919_30], which corresponds to a "highly developed compound sentence" from [@fig:foerster1919_29]. Unfortunately, this illustration only approximately represents the subordinate grammatical structure of the sentence. Neither the order of clauses, nor their relative subordination is represented in the diagram.
-
-1. The child filled us with horror.
-    a. Standing there looking at a pebble.
-    b. Quite motionless.
-    c. Apparently doomed.
-    d. Such that some of us turned pale as death.
-2. Suddenly we saw a man in a dark doorway.
-    a. Whom we hadn't noticed before.
-    b. Though he had doubtless been there right along.
-    c. Coming out like a flash.
-    d. Who blocked the way.
-3. It was Martin.
-
-::: {.im #foerster1919_30}
-Tree diagram of [@last b] from Foerster & Steadman [-@foerster1919: 30]. The representation of the syntactical structure is rather coarse and uninformative. It is unclear why they did not more accurately depict the structure of the sentence. For example, the clause 3 could have easily be moved to the right side and the subordinate branches could be added to the left or right depending on their relative order to the main clause. More interesting even would have been if secondary subordinations, like (2b), would have been depicted as secondary branches.
-:::
-
-The example is quote verbatim in –of all places– a Chinese grammar by Li Jinxi [-@jinxi1924: 361], see [@sec:jinxi1924]. Although the example is analysed exactly as it is described by Foerster & Steadman, the picture is completely redone by Li Jinxi and now more accurately reflects the grammatical structure, as shown in [@fig:jinxi1924_361]. The subordinate clause (1a) is still treated as a single clause, but the order and the relative subordination of the clauses is now faithfully represented by the illustration.
-
-::: {.im #jinxi1924_361}
-Same tree analysis as in the previous [@fig:foerster1919_30] from a Chinese grammar by Jinxi [-@jinxi1924: 361]. The complete example from Foerster & Steadman is quoted verbatim in this grammar over multiple pages, but the picture is completely overhauled and much improved. The ordering of the main clauses (indicated by numbers) now correctly reflects the original sentence, and multiple subordination is correctly analysed. Even the linking between the three main branches appears to be reflected in small graphical flourishes. The Chinese caption reads: '(Figure 7) illustrates the structure of the complex sentence mentioned above' This is exactly the caption from the original.
-:::
 
 # Diagramming
 
@@ -1206,27 +1106,6 @@ adjuncts are hanging, but also enclosed as boxes on p17!
 Check John A. Nietz: Old textbooks: Spelling, grammar, reading, arithmetic, geography, American history, civil government, physiology, penmanship, art, music, as taught in the common schools (available in Germany)
 
 "Bloomfield Schools Revisited" https://www.ebhs1838.org/store
-
-## Gengembre & Brown (1855) *Elements of English grammar*
-
-Philip Gengembre, later around 1890 renamed himself Hubert (1830-1911). Nothing can be found about John H. Brown (Principal of the zane street grammar schools: p.20 of https://upload.wikimedia.org/wikipedia/commons/8/8f/Annual_report_of_the_Controllers_of_the_Public_Schools_of_the_city_and_county_of_Philadelphia_%28IA_annualreportofco00unse_4%29.pdf).
-
-biography Gengembre in [@price1914] Born in Paris, 1853 Girard College in Philadelphia teaching French and history, 1859 Boston teacher of French, apparently even asked for Professor at Harvard, which he declined. 1865 New York starting as an architect.
-
-https://en.wikipedia.org/wiki/Philip_Gengembre_Hubert
-
-> The characters employed in parsing occupy but little space, and can be used on the black board with great advantage and convenience. [@gengembre1855: vi]
-
-Do they know about James Brown from Philadelphia? This might be in that direction:
-
-> Grammatical innovations have been carefully avoided, no new terms have been introduced [@gengembre1855: iv]
-
-Although the approach is reminiscent of Barnard, there does not seem to be a connection, and the details of the graphics are also rather different
-
-His french grammar's do not seem to have this system:
-
-- Gengembre's method for the French language, Part II (1851) https://google.com/books?id=UlIZAAAAYAAJ no graphics here! published in Cincinatti together with adalbert Doisy (maybe this one: Charles Praval, The idioms of the French language, revised and augmented by Adelbert Doisy (Dublin, John cumming, 1825); Charles Praval, The rudiments and syntax of the French language, improved and considerably enlarged by Adelbert Doisy (Belfast, Simms and McIntyre, 1833).)
-- The practical French instructor (complete course). (1859) https://google.com/books?id=USoBAAAAYAAJ no graphics!
 
 ## Holbrook (1859) *The normal, or method of teaching*
 
@@ -1833,6 +1712,50 @@ Fries-scheme of IC [@stageberg1965: 263-273]
 added chapter on TGG from different author. seems to be added late in the process of making the book.
 
 # Idiosyncratic analyses
+
+## Foerster & Steadman (1919) *Sentences and thinking* {#sec:foerster1919}
+
+Norman Foerster (1887–1972) taught English at various universities (Wisconsin, North Carolina, Iowa and Duke). In contrast, John M. Steadman (1889-1945) taught at Emory University for his whole career.^[Some minimal biographical information about Foerster is available at <https://aspace.lib.uiowa.edu/agents/people/557>. Likewise minimal is the information that I have been able to find about Steadman, being a short obituary from the New York Times, available at <https://www.nytimes.com/1945/12/22/archives/dr-jm-steadman-educator-author-professor-emeritus-of-english-at.html>, both accessed 7 May 2026.] Together they wrote the book *Sentences and thinking* [@foerster1919], which is predominantly a guide to creative writing, but also contains a small part about grammatical structure. There appears to be no direct link to Sheffield's *Grammar and thinking* (see [@sec:sheffield1912]), neither through explicit references nor through their personal histories. The similarity in titles suggests there may have been some influence from Sheffield's book. Foerster and Steadman's book appears to have been reasonably successful, revised thoroughly in 1923 and again in 1931. The last revision was retitled *Writing and thinking*. The grammatical section remained unchanged across these revisions.
+
+In the short grammatical section, Foerster & Steadman [-@foerster1919: 29-30] use the tree-metaphor to explain different kinds of sentence structure, as shown in [@fig:foerster1919_29]. They focus solely on the relationship of main and subordinate clauses (like in the German tradition of the *Periodenbild*), ignoring the internal structure of the individual clauses.
+
+::: {.im #foerster1919_29}
+Illustrations of different kinds of sentence structure from Foerster & Steadman [-@foerster1919: 29]. These illustrations are purely theoretical. These trees do not represent the structure of any concrete example sentences.
+:::
+
+As an illustration of these different kinds of sentence structure they discuss an example sentence, shown here in [@next]. They present two versions of this sentence, the first one being a basic enumeration [@next a], while the second has a more intricate grammatical structure with different kinds of subordination [@next b]. They explain their preference for the second version by expanding on the tree-metaphor:
+
+> We do not want piles of dead logs, but living trees. Our sentences should not be built mechanically; they should grow, as organisms grow. A sentence may contain […] many constituent thoughts, but of these thoughts perhaps one will stand out as the main thought (the trunk), which divides into several subordinate thoughts (large branches), which again divide into subordinate thoughts (small branches), etc. [@foerster1919: 29]
+
+::: ex
+- It stood there looking at a bright pebble, and it didn't move at all, and it seemed doomed, and we were filled with horror, and some of us turned pale as death, but suddenly we saw a man in a dark doorway, and he had doubtless been there right along, but we hadn't noticed him before, and he came out like a flash, and he blocked the way, and it was Martin. 
+- Standing there looking at a pebble, quite motionless, and apparently doomed, the child filled us with such horror that some of us turned pale as death; but suddenly we saw a man in a dark doorway, whom we hadn't noticed before (though he had doubtless been there right along) and who, coming out like a flash, blocked the way – it was Martin!
+:::
+
+For the analysis, Foerster & Steadman notice that the sentence consists of three main statements and eight subsidiary ones, as listed below. Actually, the statement (1a) below clearly consists of two statements (i.e. *standing there* and *looking at a pebble*), which are unexplicably not separated. They propose a graphical analysis of the structure of their preferred version [@last b], as shown in [@fig:foerster1919_30], which corresponds to a "highly developed compound sentence" from [@fig:foerster1919_29]. Unfortunately, this illustration only approximately represents the subordinate grammatical structure of the sentence. Neither the order of clauses, nor their relative subordination is represented in the diagram.
+
+1. The child filled us with horror.
+    a. Standing there looking at a pebble.
+    b. Quite motionless.
+    c. Apparently doomed.
+    d. Such that some of us turned pale as death.
+2. Suddenly we saw a man in a dark doorway.
+    a. Whom we hadn't noticed before.
+    b. Though he had doubtless been there right along.
+    c. Coming out like a flash.
+    d. Who blocked the way.
+3. It was Martin.
+
+::: {.im #foerster1919_30}
+Tree diagram of [@last b] from Foerster & Steadman [-@foerster1919: 30]. The representation of the syntactical structure is rather coarse and uninformative. It is unclear why they did not more accurately depict the structure of the sentence. For example, the clause 3 could have easily be moved to the right side and the subordinate branches could be added to the left or right depending on their relative order to the main clause. More interesting even would have been if secondary subordinations, like (2b), would have been depicted as secondary branches.
+:::
+
+The example is quote verbatim in –of all places– a Chinese grammar by Li Jinxi [-@jinxi1924: 361], see [@sec:jinxi1924]. Although the example is analysed exactly as it is described by Foerster & Steadman, the picture is completely redone by Li Jinxi and now more accurately reflects the grammatical structure, as shown in [@fig:jinxi1924_361]. The subordinate clause (1a) is still treated as a single clause, but the order and the relative subordination of the clauses is now faithfully represented by the illustration.
+
+::: {.im #jinxi1924_361}
+Same tree analysis as in the previous [@fig:foerster1919_30] from a Chinese grammar by Jinxi [-@jinxi1924: 361]. The complete example from Foerster & Steadman is quoted verbatim in this grammar over multiple pages, but the picture is completely overhauled and much improved. The ordering of the main clauses (indicated by numbers) now correctly reflects the original sentence, and multiple subordination is correctly analysed. Even the linking between the three main branches appears to be reflected in small graphical flourishes. The Chinese caption reads: '(Figure 7) illustrates the structure of the complex sentence mentioned above' This is exactly the caption from the original.
+:::
+
 
 ## Palmer (1938) *The new method grammar*
 

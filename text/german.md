@@ -1789,15 +1789,9 @@ Killinger remains active as an author of textbooks for many decades, specificall
 
 ## More
 
-Also: Bernhard Merth (1864-1922, Sprachübungen, Sprachbuch, Sprachunterricht) => Wollmann, Killinger, Sernko as co-authors/revisers. no apparent graphics.
+Nordmeyer (1883) *Die grammatischen Gesetze der deutschen Wortstellung* https://books.google.de/books?vid=PRNC:32101067701894 "Umschließung"
 
-- https://www.suedmaehren.at/persoenlichkeit/bernhard-merth/
-- https://www.biographien.ac.at/oebl/oebl_M/Merth_Bernhard_1864_1922.xml
-- nothing in part 1: https://books.google.de/books?id=HXkXAAAAIAAJ
-
-Oskar Erdmann (1886) *Grundzüge der deutschen Syntax*, numbers above words 183, 192. Precise description of "rechte Satzklammer" p. 190. Reverse numbering on p.192 could be interpreted as relative dependency.
-
-- https://www.digitale-sammlungen.de/de/view/bsb11023225
+Oskar Erdmann (1886) *Grundzüge der deutschen Syntax*, numbers above words 183, 192. Precise description of "rechte Satzklammer" p. 190. Reverse numbering on p.192 could be interpreted as relative dependency. https://www.digitale-sammlungen.de/de/view/bsb11023225
 
 Meyer-Lübke (1899) *Grammatik der Romanischen Sprachen* uses SVOPA abbreviations https://archive.org/details/grammatikderrom00meyegoog/page/799/mode/2up
 
@@ -2114,6 +2108,11 @@ https://www.dainst.org/fileadmin/Media/Publikationen__PDFs_/DAI_Zentrale_Cluster
 
 see also https://doi.org/10.1524/9783050063416.267
 
+## Grosse (1960) *Die deutsche Satzperiode*
+
+[@grosse1960] indented subordinates clauses, cites Menge in first footnote
+[@grosse1966] many modern approaches
+
 ## Langholf (1969) *Die Syntax des deutschen Amadisromans* {#sec:langholf1969}
 
 Barbara Langholf wrote a dissertation at the university of Hamburg in 1969. She appears not to have pursued an academtic career after her dissertation as I have not been able to locate any subsequent scholarly works by her. Her dissertation investigates syntactic structures in the 16th century anonymous German translation of the French novel *Amadis de Gaule*. The syntactic analyses used by Langholf are a direct descendant of the *Periodenbilder* of the 19th century, although by the time of her dissertation the syntactic theories of Chomsky and Tesnière already had become widespread in the linguistic community. Langholf does not seem to have been aware of (or not interested in) those theories.
@@ -2274,6 +2273,8 @@ Erich Drach (1885-1935) was a professor for speech science in Berlin [some basic
 
 Not widely discussed, but much more interesting, is Drach's discussion of *Umklammerung* 'bracketing'. He argues that one of the major challanges for stilistically well-build sentences in German is the syntactic tendency to insert constituents inside other constituents (rephrasing Drach's approach in contemporary terminology here). This leads to bracketing because related parts of the utterance are separated by internal subordination. Such internal subordination is used very frequently in German and can lead to *unmögliches Deutsch* 'impossible German' [@drach1937: 46]. With this slightly ironic formulation Drach does not argue that the resulting structures are syntactically ill-formed, but that they are stylistically problematic.
 
+Nordmeyer (1883) *Die grammatischen Gesetze der deutschen Wortstellung* https://books.google.de/books?vid=PRNC:32101067701894 uses "Umschließung"
+
 Drach uses different kinds of brackets to depict the levels of subordination, as illustrated in [@next] reproduced from Drach [-@drach1937: 46, similar examples on page 39 and 49]. The brackets clearly enclose parts that today would be called a constituent. The only difference to a modern constituency analysis is that Drach does not label these constituents. Other than that, Drach's *Umklammerung* is completely analogous to a constituent tree, as shown in [@fig:drach1937_46_tree]. It remains unclear what inspiration drew Drach to use hierachically ordered brackets. It does not seem to occur in any of his other writings
 
 ::: ex
@@ -2362,36 +2363,6 @@ He uses vorfeld/nachfeld both for nouns and verbs. The term *Mittelfeld* is intr
 in the 1964 edition he adds a quib about the underwhelming results of the american constituent analys:
 
 "Die von einigen amerikanischen Linguisten propagierte 'Konstituenten-analyse' kommt — in den bisherigen Ergebnissen — kaum über die herkömmliche Satzgliederung hinaus" [@erben1964: 266]
-
-## Griesbach & Schulz (1960) *Grammatik der deutschen Sprache*
-
-Dora Schulz (1906-1974) in 1951 was a founding members of the *Goethe-Insitut*, a German nonprofit organisation that promotes knowledge and study of the German language internationally. Heinz Griesbach (1918-2008) joined the institute in 1953 as a teacher and later became the head of the institute's first teaching centre in Bad Reichenhall until his retirement in 1970. Because they were not satisfied with available German teaching materials for non-native speakers, Schulz and Griesbach developed their own textbooks on the basis of their practical experience, including a *Grammatik der deutschen Sprache* [@griesbach1960]. A first-hand personal account of the early years of didactic work at the Goethe-Institut in the 1950s is provided by Griesbach [-@griesbach2001].
-
-Griesbach & Schulz [-@griesbach1960: v] cite Glinz (see [@sec:glinz1952]) and Erben (see [@sec:erben1958]) as influences, but their approach to syntax in the *Grammatik der deutschen Sprache* is quite innovative and much clearer in presentation than that of their predecessors. They define a *Satzfeld* (today referred to as *Mittelfeld*), delimited by a *Satzrahmen* (today referred to as *Verbalklammer*), i.e. the two possible positions for parts of the predicate. In front of the *Satzfeld* there is a *Vorfeld* and after it there is a *Nachfeld* [@griesbach1960: 294-301]. The *Satzrahmen* is graphically displayed by two black quarter circles, as shown in [@fig:griesbach1960_295]. Although this templatic approach to the structure of the German sentence has a long history, this is the first clear and simple statement of what today is known as the *topologische Feldermodell* for the German sentence.
-
-::: {.im #griesbach1960_295}
-The German *Satzrahmen* delimiting the *Satzfeld*, as depicted by Griesbach & Schulz [-@griesbach1960: 295]. In front of the *Satzrahmen* there is a position called *Vorfeld* and after it there is a *Nachfeld*. This is the first succinct visual presentation of a templatic sentence model for the German language, which is still used today, known as the *Feldermodell*. The only difference is that the *Satzfeld* is nowadays called *Mittelfeld*.
-:::
-
-Griesbach & Schulz [-@griesbach1960: 370-371] take this approach even further and apply it to the analysis of multiple-embedded sentence constructions, as shown in [@fig:griesbach1960_371] for the example sentence [@next]. They call such an illustration a *Satzbild*, which indicates that they were aware of this tradition of syntactic analysis. In their *Satzbild*, each clause is depicted with a *Satzrahmen* consisting of two black quarter circles and all sentence consitituents are squares (for arguments) or triangles (for adjuncts). Different from all *Satzbilder* in the German tradition, subordinate clauses are here positioned vertically above the main clause. Each subordinate clause has itself a function in its matrix clause.
-
-- Squares are used to indicate verbal arguments, with a letter indicating the case: *N=Nominativ, A=Akkusativ, D=Dativ*.
-- Triangles are used for adjuncts, with the letters *T* being used for temporal and *M* for modal adjuncts.
-- Subjunctions and complementizers are indicated by white arrows in the leftmost black quarter-circle. Conjunctions are marked as plus-symbols (not shown here). They do not include any example of relative clauses in their graphical examples.
-
-In a later revision of the grammar [@griesbach1970: 417], the geometric objects are removed and subordination is depicted downwards, as shown in [@fig:griesbach1970_417]. This graphical approach is more in line with the new Chomskyan "style" of syntactic trees, which is explicitly acknowledged in the introduction [@griesbach1970: xiv].
-
-::: ex
-Wenn du mir versprichst, daß du mir das Geld wiedergibst, sobald dir dein Vater den Scheck geschickt hat, kann ich dir die 100 Mark geben, obwohl ich noch mindestens zwei Wochen warten muß, bis ich mein nächstes Gehalt bekomme.
-:::
-
-::: {.im #griesbach1960_371}
-*Satzbild* of the multiple embedded sentence [@last] from Griesbach & Schulz [-@griesbach1960: 371]. Embedded clauses are positioned upwards and each clause has its own *Satzrahmen* as indicated by the black quarter circles. Squares are used for arguments and triangles for adjuncts, with letters indicating the kind of consituent. Embedded clauses themselves have a function in their matrix clause, making this a clear example of a constituency structure.
-:::
-
-::: {.im #griesbach1970_417}
-Updated *Satzbild* of the same sentence as shown in [@fig:griesbach1960_371] from the 8th edition of Griesbach & Schulz [-@griesbach1970: 417]. Embedded sentences are now placed downward. The geometrical object are removed and replaced by more cryptic letter combinations. This "style" of syntactic analysis is more in-line with the Chomskyan approach, which has become fashionable at this point in time.
-:::
 
 ## Esser (1961) *Grammatische und psychologische Kategorien in der deutschen Satzanalyse*
 
@@ -2495,10 +2466,35 @@ The 1956 Book has seen reprints and revisions at least until a 10th edition from
 
 [@kessler1957: 52]
 
-## Grosse (1960) *Die deutsche Satzperiode*
+## Griesbach & Schulz (1960) *Grammatik der deutschen Sprache*
 
-[@grosse1960] indented subordinates clauses, cites Menge in first footnote
-[@grosse1966] many modern approaches
+Dora Schulz (1906-1974) in 1951 was a founding members of the *Goethe-Insitut*, a German nonprofit organisation that promotes knowledge and study of the German language internationally. Heinz Griesbach (1918-2008) joined the institute in 1953 as a teacher and later became the head of the institute's first teaching centre in Bad Reichenhall until his retirement in 1970. Because they were not satisfied with available German teaching materials for non-native speakers, Schulz and Griesbach developed their own textbooks on the basis of their practical experience, including a *Grammatik der deutschen Sprache* [@griesbach1960]. A first-hand personal account of the early years of didactic work at the Goethe-Institut in the 1950s is provided by Griesbach [-@griesbach2001].
+
+Griesbach & Schulz [-@griesbach1960: v] cite Glinz (see [@sec:glinz1952]) and Erben (see [@sec:erben1958]) as influences, but their approach to syntax in the *Grammatik der deutschen Sprache* is quite innovative and much clearer in presentation than that of their predecessors. They define a *Satzfeld* (today referred to as *Mittelfeld*), delimited by a *Satzrahmen* (today referred to as *Verbalklammer*), i.e. the two possible positions for parts of the predicate. In front of the *Satzfeld* there is a *Vorfeld* and after it there is a *Nachfeld* [@griesbach1960: 294-301]. The *Satzrahmen* is graphically displayed by two black quarter circles, as shown in [@fig:griesbach1960_295]. Although this templatic approach to the structure of the German sentence has a long history, this is the first clear and simple statement of what today is known as the *topologische Feldermodell* for the German sentence.
+
+::: {.im #griesbach1960_295}
+The German *Satzrahmen* delimiting the *Satzfeld*, as depicted by Griesbach & Schulz [-@griesbach1960: 295]. In front of the *Satzrahmen* there is a position called *Vorfeld* and after it there is a *Nachfeld*. This is the first succinct visual presentation of a templatic sentence model for the German language, which is still used today, known as the *Feldermodell*. The only difference is that the *Satzfeld* is nowadays called *Mittelfeld*.
+:::
+
+Griesbach & Schulz [-@griesbach1960: 370-371] take this approach even further and apply it to the analysis of multiple-embedded sentence constructions, as shown in [@fig:griesbach1960_371] for the example sentence [@next]. They call such an illustration a *Satzbild*, which indicates that they were aware of this tradition of syntactic analysis. In their *Satzbild*, each clause is depicted with a *Satzrahmen* consisting of two black quarter circles and all sentence consitituents are squares (for arguments) or triangles (for adjuncts). Different from all *Satzbilder* in the German tradition, subordinate clauses are here positioned vertically above the main clause. Each subordinate clause has itself a function in its matrix clause.
+
+- Squares are used to indicate verbal arguments, with a letter indicating the case: *N=Nominativ, A=Akkusativ, D=Dativ*.
+- Triangles are used for adjuncts, with the letters *T* being used for temporal and *M* for modal adjuncts.
+- Subjunctions and complementizers are indicated by white arrows in the leftmost black quarter-circle. Conjunctions are marked as plus-symbols (not shown here). They do not include any example of relative clauses in their graphical examples.
+
+In a later revision of the grammar [@griesbach1970: 417], the geometric objects are removed and subordination is depicted downwards, as shown in [@fig:griesbach1970_417]. This graphical approach is more in line with the new Chomskyan "style" of syntactic trees, which is explicitly acknowledged in the introduction [@griesbach1970: xiv].
+
+::: ex
+Wenn du mir versprichst, daß du mir das Geld wiedergibst, sobald dir dein Vater den Scheck geschickt hat, kann ich dir die 100 Mark geben, obwohl ich noch mindestens zwei Wochen warten muß, bis ich mein nächstes Gehalt bekomme.
+:::
+
+::: {.im #griesbach1960_371}
+*Satzbild* of the multiple embedded sentence [@last] from Griesbach & Schulz [-@griesbach1960: 371]. Embedded clauses are positioned upwards and each clause has its own *Satzrahmen* as indicated by the black quarter circles. Squares are used for arguments and triangles for adjuncts, with letters indicating the kind of consituent. Embedded clauses themselves have a function in their matrix clause, making this a clear example of a constituency structure.
+:::
+
+::: {.im #griesbach1970_417}
+Updated *Satzbild* of the same sentence as shown in [@fig:griesbach1960_371] from the 8th edition of Griesbach & Schulz [-@griesbach1970: 417]. Embedded sentences are now placed downward. The geometrical object are removed and replaced by more cryptic letter combinations. This "style" of syntactic analysis is more in-line with the Chomskyan approach, which has become fashionable at this point in time.
+:::
 
 ## Rychener (1960) *Freude an Grammatik*
 
