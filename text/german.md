@@ -86,7 +86,7 @@ Adolf Diesterweg [-@diesterweg1834, see [@sec:diesterweg1830]] adopted Lehmann's
 
 # A Frankfurt origin {#sec:frankfurt}
 
-## The *Frankfurtische Gelehrtenverein für deutsche Sprache*
+## The *Frankfurtische Gelehrtenverein*
 
 Contemporary syntactic analyses have many different predecessors, but an astonishingly large number of historical pathways to today's approaches to syntax lead back to a letter written in 1817 by Johann Georg Breidenstein (1769-1847), pastor in Bad Homburg, adressed to Georg Friedrich Grotefend (1775-1853), vice-chancellor of the *Städtische Gymnasium* in Frankfurt am Main, in which Breidenstein asks Grotefend the following: 
 
@@ -475,7 +475,7 @@ Lehmann's examples of the application of the scheme to actual literary texts ins
 
 ## *Periodenbilder* & *Satzbilder*
 
-The ideas behind Lehmann's *Periodenbilder* (see [@sec:lehmann1833]) and Diesterweg's *Satzbilder* (see [@sec:diesterweg1830]) quickly spread throughout German linguistic literature. They became particularly common in educational textbooks designed to teach German to native speakers. The distinction between the term *Periodenbild*, used to analyze a multi-clause sentence, and the term *Satzbild*, used to analyze a single clause, did not persist for long. By the second half of the nineteenth century, the term *Satzbild* was generally used for all forms of graphical syntax. Most examples descend directly from the early approaches developed in Frankfurt.
+The ideas behind Diesterweg's *Satzbilder* (see [@sec:diesterweg1830]) and Lehmann's *Periodenbilder* (see [@sec:lehmann1833]) quickly spread throughout German linguistic literature. They became particularly common in educational textbooks designed to teach German to native speakers. The distinction between the term *Periodenbild*, used to analyze a multi-clause sentence, and the term *Satzbild*, used to analyze a single clause, did not persist for long. By the second half of the nineteenth century, the term *Satzbild* was generally used for all forms of graphical syntax. Most examples descend directly from the early approaches developed in Frankfurt.
 
 Becker's use of numbered tables to analyze clauses and sentences (see [@sec:becker1829]) attracted relatively few followers and seems to have been largely forgotten by the 1850s. Heußler's adaptation of Becker's approach (see [@sec:heußler1844]), however, had a wider impact: it was the main influence on Morell in Britain in the 1850s (see [@sec:morell1852]) and thus helped shape the British development of graphical syntax.
 
@@ -483,7 +483,7 @@ Diesterweg's *Satzbilder* using curly braces (see [@sec:diesterweg1830]) was pro
 
 Lehmann's approach to *Periodenbilder* (see [@sec:lehmann1833]) also had many followers, although authors frequently changed the details of the notation. One feature remained consistent: main clauses were represented by capital letters and subordinate clauses by lowercase letters.
 
-A few other visual approaches also appeared in German textbooks. These included Diesterweg's variant of the *Periodenbild*, which combined Lehmann's abbreviations with Schmitthenner's diagonal lines. Herling's music-score metaphor (see [@sec:herling1823]), in which subordinate clauses appear lower on the page, also recurred. By contrast, horizontal indentation, introduced in the 1840s by Mager (see [@sec:mager1840]) and Heußler (see [@sec:heußler1844]), was not developed further in the German tradition.
+A few other visual approaches also appeared in German textbooks. These included Diesterweg's variant of the *Periodenbild*, which combined Lehmann's abbreviations with Schmitthenner's diagonal lines. Herling's music-score metaphor (see [@sec:herling1823]), in which subordinate clauses appear lower on the page, also recurred. By contrast, horizontal indentation, introduced in the 1840s by Mager (see [@sec:mager1840]) and Heußler (see [@sec:heußler1844]), was not developed further.
 
 ## Götzinger (1827) *Deutsche Sprachlehre* {#sec:götzinger1827}
 
@@ -949,7 +949,7 @@ Es ist ein Lob für einen Mann, wenn man seine Fehler sagen darf, ohne daß er a
 Graphical analysis of the sentence in [@last] from Zitzlsperger [-@zitzlsperger1871: 135]. The notational details are very similar to those of Bauer (see [@sec:bauer1850]). The underlining is new: it is used to indicate the complexity of the clause. Also the meaning of the superscripts is different from Bauer: it is used to indicate the semantic kind of the adverbial clause.
 :::
 
-## Baron, Junghanns & Schindler (1875) *Deutsche Sprachschule*
+## Baron, Junghanns & Schindler (1875) *Deutsche Sprachschule* {#sec:baron1875}
 
 The textbook *Deutsche Sprachschule in konzentrischen Kreisen* was originally conceived by Carl Moritz Baron (1839-1911) from Dresden. The "concentric circles" are a pedagogical concept in which every next book repeats the preceding content and adds something to it, instead of simply linearly expanding from year to year with new content. The first edition was published in 1875 in collaboration with two younger colleagues from Dresden, Theodor Junghanns and Hermann Schindler.^[Basic biographical information about Baron is available online at <https://de.wikipedia.org/wiki/Moritz_Baron>. No biographaical information is available on Theodor Junghanns. Hermann Schindler is probably born in 1856 and still alive in 1927, cf. <http://digital.slub-dresden.de/id1935066625-19270000>. All links accessed 3 September 2026.]
 
@@ -1050,15 +1050,17 @@ Daniel Sanders (1819-1897) was a school director in Strelitz and private scholar
 
 Starting in the 10th issue, he introduces the concept of *Satzbild* [@sanders1879: 167]. Subordinate clauses are indicated by a lower-case letter corresponding to the capital for the main clause. Coordinated subordinate clauses are indicated by a number before the letter (e.g. *2a*), while superscript numbers and different typefaces are used for the depth of the embedding (e.g. *𝔞^2^* using a small fraktur letter *a*). These conventions are closest to the original abbreviations introduced by Herling all the way back in 1823 (see [@fig:herling1832_232]).
 
-Throughout the issues of the *Sprachbriefe* Sanders returns to these *Satzbilder*, adding brackets and horizontal braces. The brackets are particularly interesting, as he uses them hierarchically to enclose multiple embeddings. Horizontal braces are used to link parts of a clause that are separated by internally embedded clauses. An example of his analysis for a sentence from Goethe in [@next a] is repeated in [@next b] as shown in the original in [@fig:sanders1879_263].
+Throughout the issues of the *Sprachbriefe* Sanders returns to these *Satzbilder*, adding brackets and horizontal braces. The brackets are particularly interesting, as he uses them hierarchically to enclose multiple embeddings. Horizontal braces are used to link parts of a clause that are separated by internally embedded clauses. An example of his analysis for a sentence from Goethe's *Die Wahlverwandtschaften* in [@next a] is shown in [@next b]. The original typesetting is shown in [@fig:sanders1879_263].
 
 ::: ex
-- Aber auch da noch wehrte sie sich so gewaltsam, dass er, um seine Augen zu erhalten und die Feindin doch nicht zu beschädigen, sein seidnes Halstuch abreißen und ihr die Hände damit auf den Rücken binden musste. [@sanders1879: 250, citing Goethe *Die wunderlichen Nachbarskinder*]
+Sanders [-@sanders1879: 250], citing Goethe's *Die Wahlverwandtschaften*
+
+- Aber [A]{.grey} auch da noch wehrte sie sich so gewaltsam, dass [a]{.grey} er, [𝔞^2^]{.grey} um seine Augen zu erhalten und [2𝔞^2^]{.grey} die Feindin doch nicht zu beschädigen, [a]{.grey} sein seidnes Halstuch abreißen und [2a]{.grey} ihr die Hände damit auf den Rücken binden musste. 
 - *Aber* A *so, dass* (a (, *um zu* 𝔞^2^ *und doch nicht* 2𝔞^2^,) a *und* 2a)
 :::
 
 ::: {.im #sanders1879_263}
-*Satzbild* for the example sentence from Goethe in [@last] as proposed by Sanders [@sanders1879: 263]. Linking words (conjunction, complementisers, etc.) are retained in the *Satzbild*. The hierarchical structure of the subordination is indicated by brackets inside brackets. The horizontal brace is used to link elements of a clause that are separted by other clauses.
+*Satzbild* for an example sentence [@last] from Goethe, as proposed by Sanders [@sanders1879: 263]. Linking words (conjunction, complementisers, etc.) are retained in the *Satzbild*. The hierarchical structure of the subordination is indicated by brackets inside brackets. The horizontal brace is used to link elements of a clause that are separted by subordinate clauses.
 :::
 
 ## Blatz (1879) *Neuhochdeutsche Grammatik* {#sec:blatz1879}
@@ -1068,27 +1070,29 @@ Friedrich Blatz (1824-1900) was a teacher in Offenburg and later *Oberschulinspe
 In the first edition, completely at the end of the book, after the discussion of the *Periode*, Blatz adds a short discussion about *Satzbilder* [@blatz1879: 866-871]. The abbreviations used look very much like the system from Gelbe (see [@sec:gelbe1877]), especially the superscript *v* for *Verkürzung*, i.e. non-finite subordinate clauses. Blatz also offers the option to use different letters for different kinds of subordinate clauses, e.g. *m* for modal clauses or *r* for relative clauses. His use of these abbreviations is quite similar, but not identical, to the approach used by Diringer (see [@sec:diringer1878]). Blatz does not mention either Gelbe or Diringer. An example of Blatz' approach is shown in [@fig:blatz1879_869] for the example sentence in [@next].
 
 ::: ex
-Durch solche und ähnliche Thorheiten sind reiche und vornehme Leute an den Bettelstab gekommen und genöthigt worden, die um Hilfe anzusprehen, auf welche sie früher hochmüthig herabgesehen haben, die aber durch Fleiß und Sparsamkeit zu Vermögen sun ansehen gekommen sind. [@blatz1879: 868, citing Benjamin Franklin *Alte Goldbriefe*]
+Blatz [-@blatz1879: 868], citing Benjamin Franklin *Alte Goldbriefe*
+
+[A]{.grey} Durch solche und ähnliche Thorheiten sind reiche und vornehme Leute an den Bettelstab gekommen und [B]{.grey} genöthigt worden, [a^v^]{.grey} die um Hilfe anzusprechen, [b]{.grey} auf welche sie früher hochmüthig herabgesehen haben, [c]{.grey} die aber durch Fleiß und Sparsamkeit zu Vermögen und ansehen gekommen sind. 
 :::
 
 ::: {.im #blatz1879_869}
 *Satzbild* for the example sentence from Benjamin Franklin in [@last] in the analysis of Blatz [-@blatz1879: 869]. The conventions used are quite similar to Gelbe (see [@fig:gelbe1877_152]).
 :::
 
-In the major revision of the *Neuhochdeutsch Grammatik* published in 1896 the analysis of sentence structure is greatly expanded. The discussion of the *Periode* is only slightly increased, with most examples being still almost the same [@blatz1896: 1284-1288]. However, Blatz now adds a new section about the internal structure of a clause [@blatz1896: 43-46], using the term *Satzbild* for both analyses. However, the internal structure of a clause looks completely different (see [@fig:blatz1896_45]). This analysis is probably influenced by Kern (see [@sec:kern1883]), whose proposals were published only after the second edition of Blatz' book, but before the major revision. Although Blatz' graphics look rather different from Kern's, it is particularly telling that the verb is now alone at the top of the analysis, with all constituents depending on it, including the subject. In his explanation of this method, Blatz quite confusingly uses many different terms in a single introductory sentence:
+In the major revision of the *Neuhochdeutsch Grammatik* published in 1896 the analysis of sentence structure is greatly expanded. The discussion of the *Periode* is only slightly increased, with most examples being still almost the same [@blatz1896: 1284-1288]. However, Blatz now adds a new section about the internal structure of a clause [@blatz1896: 43-46], using the term *Satzbild* for both analyses. However, the internal structure of a clause looks completely different (see [@fig:blatz1896_45]). This analysis is probably influenced by Kern (see [@sec:kern1883]), whose proposals were published only after the second edition of Blatz' book, but before the major revision. Although Blatz' graphics look rather different from Kern's, it is particularly telling that the verb is now alone at the top of the analysis, with all constituents depending on it, including the subject. In his explanation of this method, Blatz uses many different terms in a single introductory sentence:
 
 > Die Zerlegung des Satzes in seine Glieder (Auflösung, Analyse des Satzes) gründet sich auf das Durchfragen (Kontruieren) desselben. [@blatz1896: 43]
 >
 > ('The dismantling of the sentence into its pieces (disbandment, analysis of the sentence) is based on recurrent questioning (construction) of the same.')
 
-The graphical structure in [@fig:blatz1896_45] is an analysis of the sentence in [@next]. The verb *heißen* is positioned at the top and all major constituents are listed below it. It is a bit confusing that there are no lines connecting them to the main predicate above. Further modifiers are linked with lines below the major constituents. Complete phrases are repeated, mixing constituency with dependency (to use moder terminology). This mix makes the graphical analysis really confusing to interpret.
+The graphical structure in [@fig:blatz1896_45] is an analysis of the sentence in [@next]. The verb *heißen* is positioned at the top and all major constituents are listed below it. It is a bit confusing that there are no lines connecting them to the main predicate above. Further modifiers are linked with lines below the major constituents. Complete phrases are repeated, mixing constituency with dependency (to use modern terminology). This mix makes the graphical analysis rather confusing to interpret.
 
 ::: ex
 Heißen Sie den Hausdiener meinen Reisesack in mein Zimmer im zweiten Stockwerk bringen.
 :::
 
 ::: {.im #blatz1896_45}
-Clause-internal structure of the example sentence in [@last] from Blatz [-@blatz1896: 45]. This analysis has the verb (*heißen*) alone at the top, with all constituents hanging down from it (not all lines are explicitly drawn, which makes the image quite confusing). All earlier line-drawing have subject and predicate equally placed on the top. This verb-centric analysis is probably inspired by Kern (see Figure ???), whose method was published between the second and third edition of Blatz' book.
+Clause-internal structure of the example sentence in [@last] from the third edition of Blatz [-@blatz1896: 45]. This analysis puts the verb (*heißen*) alone at the top, with all constituents hanging down from it (not all lines are explicitly drawn, which makes the image quite confusing). All earlier line-drawing have subject and predicate equally placed on the top. This verb-centric analysis is probably inspired by Kern (see [@fig:kern1883_17]), whose approach was published between the second and third edition of Blatz' book.
 :::
 
 ## Zettel (1882) *Unterricht in der deutschen Sprache* {#sec:zettel1882}
@@ -1096,7 +1100,7 @@ Clause-internal structure of the example sentence in [@last] from Blatz [-@blatz
 Karl Zettel (1831-1904) was a teacher in Regensburg and later an editor of de-luxe editions of German poetry in Munich. He wrote a small article about the method of teaching German in schools, called *Auf welche Weise kann der Unterricht in der deutschen Sprache und Literatur an unseren Studienanstalten methodisch und systematisch betrieben werden?* [@zettel1882]. He argues that *Satzbilder* are quite useful in school, as they can readily be displayed on the blackboard [@zettel1882: 85-87]. His graphics look like those of Götzinger (see [@sec:götzinger1827]), although Zettel uses superscript numbers to indicate the parts of a clause that are separated by other clauses. Also telling is his example sentence [@next], which is a reformulation of the example given by Bauer (see [@fig:bauer1850_97]).
 
 ::: ex
-Ich schenkte ihm 300 Rubel, und als ich erfuhr, dass derselbe in Kiew einen Anverwandten habe, der ihn zu sehen wünschte, stellte ich ihm frei, ob er seine Reise Fortzusetzen gedenke, oder ob er umkehren wolle.
+[A]{.grey} Ich schenkte ihm 300 Rubel, [+]{.grey} und [a]{.grey} als ich erfuhr, [b]{.grey} dass derselbe in Kiew einen Anverwandten habe, [c]{.grey} der ihn zu sehen wünschte, [B]{.grey} stellte ich ihm frei, [d]{.grey} ob er seine Reise Fortzusetzen gedenke, [+]{.grey} oder [e]{.grey} ob er umkehren wolle.
 :::
 
 ::: {.im #zettel1882_86}
@@ -1169,7 +1173,9 @@ Simplified analysis of the example sentence in [@last] from Kern [-@kern1884: 57
 
 Finally, the following two details from Kern's descriptions suggest influences that might have led Kern to his particular graphical approach. First, he argues against the term *Erweiterung* with an argumentation that is eerily similar to the one made by Diesterweg as discussed in [@sec:diesterweg1830] [@diesterweg1830: 167; -@diesterweg1834: 151]. So maybe Kern knew about Diesterweg's approach, although there is no other concrete evidence for this.
 
-> Uebrigens besagt der Ausdruck Satzerweiterung gar nichts als Satzverlängerung; denn durch hinzugefügte Bestimmungen wird der Inhalt des Satzes natürlich nicht erweitert, sondern verengert und dadurch bereichert. [@kern1883: 5, footnote]
+(Wilke [@wilke1890: 100-101] says, Kern cites Diesterweg in *Zustand und Gegenstand*)
+
+> Uebrigens besagt der Ausdruck Satzerweiterung gar nichts als Satzverlängerung; denn durch hinzugefügte Bestimmungen wird der Inhalt des Satzes natürlich nicht erweitert, sondern verengert und dadurch bereichert. [@kern1883: 5fn]
 >
 > ('Incidentally, the term *Satzerweiterung* 'sentence expansion' refers to nothing more than elongation of the sentence; however, by adding modifications the content of a sentence is not expanded, but narrowed and enriched in the process.')
 
@@ -1238,9 +1244,9 @@ Numbered table in the style of Becker (cf. [@fig:becker1829_xvii]) from Willomit
 For sentences with multiple subordination like in [@next] Willomitzer uses a different visualisation as shown in [@fig:willomitzer1879_157] [@willomitzer1879: 157-158]. Each clause is indicated by a horizontal line with a letter, and these clauses are connected by slanted lines. A line left-downwards indicates a preposed subordinate clauses, while slanted lines right-downwards indicate postposed subordination. Internal subordination, like with relative clauses, is not discussed. Exactly the same visualisation is also used in the fourth edition [@willomitzer1882: 144-145].
 
 ::: ex
-- Als Karl der Große den Kaiserstuhl Roms bestieg, war ein Ziel erreicht, dem hochstrebenden deutschen Fürsten seit Jahrhunderten nachgetrachtet haben.
-- Nur der ist unser Wahrer Freund, der mit uns gleiche Bestrebungen teilt und auf den wir uns in guten und bösen Tagen verlassen können.
-- Ich erinnere mich, dass wir in einem alten Haus wohnten, welches eigentlich aus zwei durchbrochenen Häusern bestand.
+- [a]{.grey} Als Karl der Große den Kaiserstuhl Roms bestieg, [A]{.grey} war ein Ziel erreicht, [a]{.grey} dem hochstrebenden deutschen Fürsten seit Jahrhunderten nachgetrachtet haben.
+- [A]{.grey} Nur der ist unser Wahrer Freund, [a]{.grey} der mit uns gleiche Bestrebungen teilt und [a]{.grey} auf den wir uns in guten und bösen Tagen verlassen können.
+- [A]{.grey} Ich erinnere mich, [a]{.grey} dass wir in einem alten Haus wohnten, [b]{.grey} welches eigentlich aus zwei durchbrochenen Häusern bestand.
 :::
 
 ::: {.im #willomitzer1879_157}
@@ -1272,7 +1278,9 @@ Analysis of a complex sentence with subordination [@last b] from Willomitzer [-@
 
 Otto Lyon (1853-1912) was a teacher and *Stadtschulrat* in Dresden [biographical details in @kolb1987]. He was an extremely productive author, revising and reissuing classical linguistic works of the likes of Heyse, Becker and Eberhard, editing an anthology of German literature for use in schools, and producing a textbook for teaching all aspects of German. He also co-founded the journal *Zeitschrift für den deutschen Unterricht*.
 
-His textbook *Handbuch der deutschen Sprache für höhere Schulen* was originally published in 1885. There have been many different versions of this handbook. I have counted at least 36 editions among seven different variants, some having multiple volumes, including six different co-authors. These books are often indexed incompletely or wrongly in catalogues, so it takes some effort to identify which version is available at any library. I have tried to reconstruct the editorial developments, but this edition-mess is in need of a more proper clean-up. Different variants of the handbook were introduced starting with the sixth edition in 1902.^[The second volume of Lyon's original sixth edition from 1902 is available online at <https://google.com/books?id=ZQkYT08lhVYC>.] A distinction into four different versions was made, which are sometimes (but not always) indicated by the letters A through D. I will use these letters as a shortcut to identify the different versions, and I will add a subscript for major revisions of the C and D variants.
+Lyon's textbook *Handbuch der deutschen Sprache für höhere Schulen* was originally published in 1885. It was published by the publishing house *Teubner* in Leipzig, which was a competitor of *Klinkhardt*, who published the *Deutsche Sprachschule* around the same time (see [@sec:baron1875]). Just like with the *Deutsche Sprachschule*, there have been many different versions of Lyon's *Handbuch*, depending on region and type of school. I have counted at least 36 editions among seven different variants, some having multiple volumes, including six different co-authors. These books are often indexed incompletely or wrongly in catalogues, so it takes some effort to identify which version is available at any library. I have tried to reconstruct the editorial developments, but this edition-mess is in need of a more proper clean-up. 
+
+Different variants of the handbook were introduced starting with the sixth edition in 1902.^[The second volume of Lyon's original sixth edition from 1902 is available online at <https://google.com/books?id=ZQkYT08lhVYC>.] A distinction into four different versions was made, which are sometimes (but not always) indicated by the letters A through D. I will use these letters as a shortcut to identify the different versions, and I will add a subscript for major revisions of the C and D variants.
 
 - **A-variant**: The original handbook written by Otto Lyon is spread out over two volumes and separates the topics by schoolyear. The majority of the grammatical analysis is included in the first volume, which was written for the lower classes of secondary education (*untere und mittlere Klassen, Sexta bis Tertia).* This first volume will be cited here from the second edition [@lyon1889] because I have not been able to find a first edition. Lyon has updated his handbook up to a seventh edition in 1907.^[The second volume of Lyon's original seventh edition from 1907 is available online at <https://google.com/books?vid=OSU:32435022678213>.]
 - **B-variant**: This is the same A-variant, but published as smaller booklets. It appears that the first volume was subdivided into four booklets and the second volums into three booklets. I have not been able to access this version.
@@ -1335,18 +1343,21 @@ Separate from the clause-internal analysis, Lyon also discusses *Satzbilder* in 
 Exactly the same explanations and examples are found in the D~1~-variant [@lyon1911: 164-165], the D~2~-variant [@lyon1920: 268] and the C~2~-variant [@lyon1919: 197-198]. Only in the C~1~-variant  there is a short note offering an alternative notation [@lyon1902: 154-156]. In this variation, a superscript *v* is used for non-finite clauses (cf. Gelbe, [@sec:gelbe1877]) and a fractional number is used for parts of clauses that are separated by another clause (cf. Herling, [@sec:herling1823]).
 
 ::: ex
-Obgleich er in seinen Anstalten weit genug vorwärts gerückt war, um die Stadt zu beängstigen, so wared doch noch sehr viele Schritte zu thun, um sich wirklich zum Meister derselben zu machen. [@lyon1889: 270, citing an example from Schiller *Geschichte des Abfalls der vereinigten Niederlande*]
+Lyon [-@lyon1889: 270], citing Schiller's *Geschichte des Abfalls der vereinigten Niederlande*
+
+[c]{.grey} Obgleich er in seinen Anstalten weit genug vorwärts gerückt war, [(c)^2^]{.grey} um die Stadt zu beängstigen, [A]{.grey} so wared doch noch sehr viele Schritte zu thun, [(c)]{.grey} um sich wirklich zum Meister derselben zu machen.
 :::
 
 ::: {.im #lyon1889_270}
 *Satzbild* for the examples sentence in [@last] from Lyon [-@lyon1889: 270]. The lower-case letters for subordinated clauses indicate the kind of clause (here: *c*=adverbial clause), the round brackets indicate non-finite clauses (here: *um zu+Infinitiv*) and the superscript numbers indicate the level of embedding.
 :::
 
-Lyon also wrote a separate series of anthologies of German literature called *Die Lektüre als Grundlage eines einheitlichen und naturgemäßen Unterrichtes in der deutschen Sprache*. In volume 2, part 1 (for *Obertertia*, i.e roughly for teenagers of age 15) there is an extensive discussion of the use of these *Satzbilder* with numerous examples [@lyon1897: 130-154]. To finish the discussion of Otto Lyon's graphical analysis, I have repeated here in [@next] one of Lyon's examples from Lessing with the corresponding *Satzbild* in [@fig:lyon1897_140]. The reader is invited to follow along, just like the teenage students were supposed to do back at the later part of the 19th century.
+Lyon also wrote a separate series of anthologies of German literature called *Die Lektüre als Grundlage eines einheitlichen und naturgemäßen Unterrichtes in der deutschen Sprache*. In volume 2, part 1 (for *Obertertia*, i.e roughly for teenagers of age 15) there is an extensive discussion of the use of these *Satzbilder* with numerous examples [@lyon1897: 130-154]. To finish the discussion of Otto Lyon's graphical analysis, I have repeated here in [@next] one of Lyon's examples from Lessing with the corresponding *Satzbild* in [@fig:lyon1897_140]. The reader is invited to follow along, just like the teenage students were supposed to do back at the later part of the 19th century. Note that the inserted letters in the example were not part of the original, but are added here for easier processing of the example by contemporary readers.
 
 ::: ex
-Es ist wahr, mit dergleichen leidigen Nachahmungen fängt das Genie an zu lernen; es sind seine Vorübungen; auch braucht es sie in größeren Werken zu Füllungen, zu Ruhepunkten unserer wärmeren Teilnehmung: allein mit der Anlage und Ausbildung seiner Hauptcharaktere verbindet es weitere und größere Absichten: die Absicht, uns zu unterrichten, was wir zu tun oder zu lassen haben, die Absicht, uns mit den eigentlichen Merkmalen des Guten und Bösen, des Anständigen und Lächerlichen bekannt zu machen; die Absicht, uns jenes in allen seinen Verbindungen und Folgen als schön und als glücklich selbst im Unglücke, dieses hingegen als häßlich und unglücklich selbst im Glücke zu zeigen, die Absicht, bei Vorwürfen, wo keine unmittelbare Nacheiferung, keine unmittelbare Abschreckung für uns statthat, wenigstens unsere Begehrungs- und Verabscheuungskräfte mit solchen Gegenständen zu beschäftigen, die es zu sein verdienen, und diese Gegenstände jederzeit in ihr wahres Licht zu stellen, damit uns kein falscher Tag verführt, was wir begehren sollten, zu verabscheuen, und was wir verabscheuen sollten, zu begehren. \
-[@lyon1897: 140, citing Lessing's *Hamburgische Dramaturgie*]
+Lyon [-@lyon1897: 140], citing Lessing's *Hamburgische Dramaturgie*
+
+[A]{.grey} Es ist wahr, [a]{.grey} mit dergleichen leidigen Nachahmungen fängt das Genie an zu lernen; [B]{.grey} es sind seine Vorübungen; [C]{.grey} auch braucht es sie in größeren Werken zu Füllungen, zu Ruhepunkten unserer wärmeren Teilnehmung: [D]{.grey} allein mit der Anlage und Ausbildung seiner Hauptcharaktere verbindet es weitere und größere Absichten: die Absicht, [(b)]{.grey} uns zu unterrichten, [a^2^]{.grey} was wir zu tun oder zu lassen haben, [D]{.grey} die Absicht, [(b)]{.grey} uns mit den eigentlichen Merkmalen des Guten und Bösen, des Anständigen und Lächerlichen bekannt zu machen; [D]{.grey} die Absicht, [(b)]{.grey} uns jenes in allen seinen Verbindungen und Folgen als schön und als glücklich selbst im Unglücke, dieses hingegen als häßlich und unglücklich selbst im Glücke zu zeigen, [D]{.grey} die Absicht, [(b)]{.grey} bei Vorwürfen, [b^2^]{.grey} wo keine unmittelbare Nacheiferung, keine unmittelbare Abschreckung für uns statthat, [(b)]{.grey} wenigstens unsere Begehrungs- und Verabscheuungskräfte mit solchen Gegenständen zu beschäftigen, [b^2^]{.grey} die es zu sein verdienen, [(b)]{.grey} und diese Gegenstände jederzeit in ihr wahres Licht zu stellen, [c^2^]{.grey} damit uns kein falscher Tag verführt, [a^4^]{.grey} was wir begehren sollten, [(a)^3^]{.grey} zu verabscheuen, und [a^4^]{.grey} was wir verabscheuen sollten, [(a)^3^]{.grey} zu begehren.
 :::
 
 ::: {.im #lyon1897_140}
@@ -1370,7 +1381,7 @@ Die älteste Geschichte eines jeden Volkes ist gewöhnlich durch mancherlei Sage
 For the analysis of complex sentences with multiple subordinate clauses Utzinger proposes a different format [@utzinger1887: 122]. He uses a one-line summary, which he calls a *Satzbild*, as shown in [@fig:utzinger1887_122] for the examples sentence in [@next]. The depth of embedding is indicated by subscript numbers. Lower-case letters indicate subordinate clauses, but it remains unclear why the letters *a* and *b* are used multiple times in this example. In the example, the two parts marked *a~1~* are actually two separated parts of the same subordinate clause, but all other parts are separate clauses, and might better have been indicated by separate letters.
 
 ::: ex
-Als der Graf von Strassberg, welcher über den Brünig ins Unterwaldnerland eingefallen war, von der Niederlage des Herzogs Leopold Kunde erhilet, kehrte er schleunig zurück, da er wohl einsah, dass ein weiteres Vordringen unnütz sein würde.
+[a_1_]{.grey} Als der Graf von Strassberg, [a_2_]{.grey} welcher über den Brünig ins Unterwaldnerland eingefallen war, [a_1_]{.grey} von der Niederlage des Herzogs Leopold Kunde erhilet, [A]{.grey} kehrte er schleunig zurück, [b_1_]{.grey} da er wohl einsah, [b_2_]{.grey} dass ein weiteres Vordringen unnütz sein würde.
 :::
 
 ::: {.im #utzinger1887_122}
@@ -1379,17 +1390,66 @@ Als der Graf von Strassberg, welcher über den Brünig ins Unterwaldnerland eing
 
 ## Wilke (1892) *Das vereinfachte grammatische System* {#sec:wilke1892}
 
-Edwin Wilke (1861-1926+) was a teacher in Coeslin (now Koszalin in Poland) in 1890, then school principal in Ratzebuhr (now Okonek in Poland) in 1892, and finally school principal in Quedlinburg since 1893. I have not been able to find any indication of his passing. His last published work that I have been able to find is from 1926.^[https://www.jstor.org/stable/44327871]
+Edwin Wilke (1861-1927?) was a teacher in Coeslin (now Koszalin in Poland) in 1890, then school principal in Ratzebuhr (now Okonek in Poland) in 1892, and finally school principal in Quedlinburg (in Germany) starting in 1893. I have not been able to find any indication of his passing. His last published work that I have been able to find is a short article from 1926.^[https://www.jstor.org/stable/44327871. His name also appears on the *Seehund: Amtliche Liste der Badegäste und Fremden des Nordseebades Juist* of 1927, vol. 3, available online at https://inselmuseum-juist.de/seehund/, accessed 7 October 2026.] He was a follower of Diesterweg [@wilke1890] and he sees himself in the tradition of Kern and Wundt [@wilke1909: iii].
 
-Follower of Diesterweg: https://books.google.de/books?vid=OSU:32435007786817. Cites Kern and Wundt.
+In a short article on grammar in school, Wilke [-@wilke1892: 465] uses a visual representation as shown in [@fig:wilke1892_465] for sentence [@next]. His image is *in Kerns Weise* 'in the vein of Kern', referring to Franz Kern (see [@sec:kern1883]).
 
-- "Sprachhefte für Volksschulen" 1st edition 1896 - 14th edtion 1921. Afterwards 1923: re-edited by Moegelin, Johannes: Sprachhefte für die neue deutsche Volksschule. graphics in [@wilke1902: 12, 15, 19]
-- Extensive discussion in [@wilke1909: 153-169]
-- [@wilke1903: 123-124] uses indentation to illustrate clausal subordination
+::: ex
+Das wissen wir aus vielen Erscheinungen.
+:::
 
 ::: {.im #wilke1892_465}
-[@wilke1892: 465]
+*Satzbild in Kerns Weise* for [@last] from Wilke [-@wilke1892: 465].
 :::
+
+Wilke expands this approach in more detail in the *Sprachhefte für Volksschulen*. This was a highly successful textbook for use in schools. The first edition is from 1896, and it remained in print until a 14th edtion of 1921. It has been re-edited by Moegelin & Johannes in 1923 under a slightly different title as *Sprachhefte für die neue deutsche Volksschule*. It is cited here after an edition from 1902 that I have been able to access. In this book, Wilke includes a lenghty discussion of sentence analysis in the vein of Kern [@wilke1902: 12-19]. An example is shown in [@fig:wilke1902_19] for the example in [@next].
+
+::: ex
+Wilke [@wilke1902: 19], citing Alfred Brehm's *Tierleben*
+
+Wohlklingende Töne locken sie aus ihrem Versteck und lassen sie alle Furchtsamkeit vergessen.
+:::
+
+::: {.im #wilke1902_19}
+*Satzbild* for [@last] from Wilke [-@wilke1902: 19].
+:::
+
+A later book called *Schriftdeutsch und Volkssprache* [@wilke1903] is a textbook for teacher's seminaries. There are no diagrams as discussed previously in this book, but there is a discussion of the stucture of long sentences with many subordinate clauses [@wilke1903: 123-124]. To examplify (and criticize) the structure of such long sentences, Wilke uses indentation to illustrate the structure of the clausal subordination. An example is shown in [@fig:wilke1903_124] for the example in [@next]. Wilke remarks on this sentence:
+
+> Werden Nebensätze oder gleichwertige Satzteile mehrfach zwischen Teile des Hauptsatzes oder eines Nebensatzes eingeschoben, so wird er zerhackt und unübersichtlich [@wilke1903: 124]
+
+::: ex
+Wilke [-@wilke1903: 124], citing Adalbert Stifter's *Der Waldsteig*
+
+Endlich brachte er es so weit, \
+  [Level 1]{.grey} dass er, \
+    [Level 2]{.grey} wenn er nicht ganz spät am Vormittage hinausfuhr, \
+  [Level 1]{.grey} bis zu die Glockenwiese, \
+    [Level 2]{.grey} wo er den Berg mit den Scheefeldern und das herausbrodelnde Wasser sah, \
+  [Level 1]{.grey} und von da zurück zu dem Wagen gehen konnte.
+:::
+
+::: {.im #wilke1903_124}
+Analysis of a *Schachtelsatz* [@last] from Wilke [-@wilke1903: 124] using indentation to illustrate the structure of the clausal subordination. He remarks that an example with a structure as attested in this example is difficult to understand. In a footnote Wilke complains, that the edition of the text he used did not have a comma after *hinausfuhr*, which makes the sentence even more difficult to interpret.
+:::
+
+The book *Der Sprachformenunterricht in der Volks- und Mittelschule* [@wilke1909] is intended for teachers, accompanying the new edition of his *Sprachhefte*.
+
+> Das Höchste, was die Satzlehre in der Schule leisten kann und soll, ist also dieses, daß sie dem Kinde das Gefühl für Abrundung und Vollständigkeit des Gedankenausdrucks gibt und ihm beim Hören, Lesen, Schreiben den Überblick über die Gedankengebilde erleichtert. […] Das die richtig betriebene Satzlehre solches leisten kann, das hat namentlich Franz Kern betont […]. [@wilke1909: 153]
+
+In this book Wilke spends a long section on grammatical analysis, using graphical methods throughout [@wilke1909: 153-169]. As an example he goes through part of Liliencron's story *Unter flatternden Fahnen* sentence by sentence.^[The complete text of Liliencron's story is available online at <https://hdl.handle.net/11858/00-1734-0000-0003-EE45-A>.] Most analyses are in the vein of Kern, like the examples discussed previously. However, there is one example in which Wilke uses the tradition of the *Periodenbilder*, abbreviating each clause of a multi-clause sentence with letters, as shown in [@fig:wilke1909_157]. In the tradition of Diesterweg, he even proposes to illustrate subordination by placing subordinated clauses lower on the page.
+
+::: ex
+Wilke [-@wilke1909: 155-156], citing Detlev von Liliencron's *Unter flatternden Fahnen*
+
+[A^1^]{.grey} Schon lange, [a]{.grey} ein wenig seitwärts mich losmachend aus meinem Bataillon, [A^2^]{.grey} hatte ich – [B]{.grey} wir zogen hügelaufwärts – [A^3^]{.grey} bemerkt, [b]{.grey} wie von der Kuppe des Berges das Korps nach und nach in einem Kessel Verschwand.
+:::
+
+::: {.im #wilke1909_157}
+*Übersicht des Satzgefüge* for [@last] from Wilke [-@wilke1909: 157]. This is the only example by Wilke of using the tradition of the *Periodenbild* using letters as abbreviations for clauses in a multi-clause sentence.
+:::
+
+*Unsere Muttersprache* in 1925, revision in 1928 with Gustav Stephan (maybe after Wilke's death?)
 
 ## Kuderna (1895) *Das Satzbild in seiner Anwendung* {#sec:kuderna1985}
 
