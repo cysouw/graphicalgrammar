@@ -749,9 +749,41 @@ Sein Vater, [a1]{.grey} der ihn herzlich liebte, und [a2]{.grey} Alles aufbot [�
 Analysis of the multi-clause sentence [@last] from Mager [-@mager1842: 118]. His system of analysis seems very close to the approach of Hoffmann (cf. [@fig:hoffmann1839_224]). Each clause is placed on a new line, with indentations indicating the level of subordination. Additionally alphanumeric codes are used to mark the different kinds of clauses. The application of vertical lines appears to be haphazard.
 :::
 
+## Haupt (1841) *Deutsche Prosa* {#sec:haupt1841}
+
+Friedrich Haupt (1805-1891) was a teacher in Zürich and later pastor in the Odenwald region. More biographical information is available in Haupt [-@haupt1905]. During his time in Zürich he wrote various textbooks and prepared an anthology of the German language in his book *Deutsche Sprache und Literatur*. The second part of this anthology, *Deutsche Prosa* [@haupt1841], contains a preface on didactical methods, including syntactic analysis. This preface is removed in later editions of the anthology.^[Compare the 1865 edition available online at <https://mdz-nbn-resolving.de/bsb10597896>.]
+
+In this preface, Haupt is exceedingly enthousiastic about the syntactic approach of Becker. He heralds him as the founder of a new linguistics:
+
+> Becker […] Einer der scharfsinnigsten Sprachforscher, der der Begründer eines neuen Sprachsystems, und einer wahrhaft formal bildenden Unterrichtsmethode geworden ist [@haupt1841: 295]
+>
+> ('Becker […] One of the most astute linguists, who has become the founder of a new language system and a true formally-educating method of teaching.')
+
+In a footnote Haupt even announces that he will publish an extensive analysis of Becker's method in a book to be called *K. F. Becker und die deutsche Volksschule. Ein Beitrag zur Förderung deutscher Sprachwissenschaft und Methodik* [@haupt1841: viii]. Unfortunately, he does not appear to have ever finished this planned book.
+
+As an example of Becker's syntactic analysis, Haupt analysed the example sentence [@next] from Jean Paul's novel *Leben des Quintus Fixlein*. In a first step he separates the various clauses and illustrates their interrelation with the graphical display in [@fig:haupt1841_viii]. Subsequently, Haupt also analyses the internal structure of one of the main clauses, but this is only done in words. Note that Haupt's graphical approach, using hierarchically-ordered reversed horizontal braces, is not found in the work of Becker (see [@sec:becker1829]). However, it is reminiscent of the visual approach by Diesterweg in [@fig:diesterweg1830_174].
+
+::: ex
+Haupt [-@haupt1841: viii], citing Jean Paul's *Leben des Quintus Fixlein*
+
+[Haupts.]{.grey} Der wahnsinnige Sterbliche begeht seine Sünden so kühn, [begründ. Nebs.]{.grey} blos weil sich ihm ihre mörderischen Folgen verhüllen; [Haupts. zusammengezog.]{.grey} er kettet die in seiner Brust eingesperrten reißenden Thiere los und lässet sie in der Nacht unter die Menschn dringen; [advers. Hpts.]{.grey} aber er siehet es nicht, [obj. Nebs.]{.grey} wie viele Unschuldige das losgebundene Unthier ergreife und würge.
+:::
+
+The abbreviations that are used in the graphical analysis can be reconstructed from the text as follows:
+
+- ***Haupts.*** = *Hauptsatz* 'Main clause'
+- ***begründ. Nebs.*** = *begründender Nebensatz 'causal subordinate clause'
+- ***Haupts. zusammengezog.*** = *Hauptsatz zusammengezogen* 'coordinated main clauses'
+- ***advers. Hpts.*** = *adversativer Hauptsatz* 'adversative main clause'
+- ***obj. Nebs.*** = *objektiver Nebensatz* 'object complement clause'
+
+::: {.im #haupt1841_viii}
+Graphical analysis of the example [@last] from Haupt [-@haupt1841: viii]. The internal structure of the six clauses is depicted by hierarchically ordered horizontal braces.
+:::
+
 ## Heußler (1844) *Kurzer Abriss der deutschen Sprachlehre* {#sec:heußler1844}
 
-Abraham Heußler (1803-1855) from Basel, Switzerland, in 1827 became a teacher at the *Mädchengemeindeschule St. Theodor*, then in 1837 teacher at the *Gymnasium* and 1843 rector of the *Töchterschule*.^[This basic bigoraphical information is taken from <https://d-nb.info/gnd/1089919689>, accessed 21 May 2026.] In 1840 Heußler published the first version of his *Kurzer Abriss der deutschen Sprachlehre* [@heussler1840], citing Götzinger (see [@sec:götzinger1827]) and Becker (see [@sec:becker1829]) as inspiration [@heussler1840: iv]. In this original version there are no graphical analyses yet. There is an appendix with a summary of all possible parts of a German sentence in the form of a table, but this table does not seem to be intended for the actual analysis of a specific sentence. In the second revised edition [@heussler1844] he added a new appendix with graphical *Satztheil- und Satzanalyse*. These approaches are adapted in Great Brittain by Morell [@morell1852] (see [@sec:morell1852]). The second edition will be cited from the mostly unchanged fifth edition [@heussler1870: 117-121], which is available online. Heußler's book appears to have been popular, as it was reprinted up to a 9th edition from 1902, and then revised by Wilhelm Bruckner under the title *Abriss der Deutschen Sprachlehre für höhere schweizerische Schulen*, published until a 9th edition in 1939.
+Abraham Heußler (1803-1855) from Basel, Switzerland, in 1827 became a teacher at the *Mädchengemeindeschule St. Theodor*, then in 1837 teacher at the *Gymnasium* and 1843 rector of the *Töchterschule*.^[This basic bigoraphical information is taken from <https://d-nb.info/gnd/1089919689>, accessed 21 May 2026.] In 1840 Heußler published the first version of his *Kurzer Abriss der deutschen Sprachlehre* [@heussler1840], citing Götzinger (see [@sec:götzinger1827]) and Becker (see [@sec:becker1829]) as inspiration [@heussler1840: iv]. In this original version there are no graphical analyses yet. There is an appendix with a summary of all possible parts of a German sentence in the form of a table, but this table does not seem to be intended for the actual analysis of a specific sentence. In the second revised edition [@heussler1844] he added a new appendix with graphical *Satztheil- und Satzanalyse*. These approaches are adapted in Great Brittain by Morell [@morell1852] (see [@sec:morell1852]). The second edition will be cited from the mostly unchanged fifth edition [@heussler1870: 117-121], which is available online. Heußler's book appears to have been popular, as it was reprinted up to a 9th edition from 1902, and then revised in 1910 by Wilhelm Bruckner under the title *Abriss der Deutschen Sprachlehre für höhere schweizerische Schulen*, published at least until a 9th edition in 1939. The revision by Bruckner does not include the graphical display anymore [@bruckner1913].
 
 The new appendix from the revised edition [@heussler1844] has three analytical tables: *Wort-Analyse*, *Satztheil-Analyse* and *Satz-Analyse*. The second is shown in [@fig:heußler1870_119]. This table shows an analyses of the simple sentences in [@next]. This analysis does not represent the ordering of the words in the German sentence, but classifies all *Satztheile* 'parts of the sentence' into different kinds. Besides *Subjekt* 'subject' and *Aussagew(ort)* 'predicate', Heußler distinguishes between *Präd(ikative) Ergänzungen* 'argument' and *Präd(ikative) Bestimmung* 'adjunct. This four-part classification is quite similar to the approach from Moritz (see [@sec:moritz1782]), although there does not seem to be a direct connection. However, this table seems to have been a direct inspiration for Morell (see [@sec:morell1852]) and much of the grammatical tradition in Great Brittain in the 19th century.
 
@@ -1883,36 +1915,6 @@ Daß sich alles verändert, was uns hier umgibt; daß sich alles auflöst, was u
 Symbolic sentence analysis of the example in [@last] by Rinne [-@rinne1840: 274]. Different from Lehmann and Götzinger, this approach keeps the symbols on a single line, which makes it easier to include in written text, but much less visually appealing. Note that for easier interpretation, the period-symbols in thie analysis might better be replaced by the actual commas or semicolons as they occur in the example sentence.
 :::
 
-## Haupt (1841) *Deutsche Prosa* {#sec:haupt1841}
-
-Friedrich Haupt (1805-1891) was a teacher in Zürich and later pastor in the Odenwald region. More biographical information is available in Haupt [-@haupt1905]. During his time in Zürich he wrote various textbooks and prepared an anthology of the German language in his book *Deutsche Sprache und Literatur*. The second part of this anthology, *Deutsche Prosa* [@haupt1841], contains a preface on didactical methods, including syntactic analysis. This preface is removed in later editions of the anthology.^[Compare the 1865 edition available online at <https://mdz-nbn-resolving.de/bsb10597896>.]
-
-In this preface, Haupt is exceedingly enthousiastic about the syntactic approach of Becker. He heralds him as the founder of a new linguistics:
-
-> Becker […] Einer der scharfsinnigsten Sprachforscher, der der Begründer eines neuen Sprachsystems, und einer wahrhaft formal bildenden Unterrichtsmethode geworden ist [@haupt1841: 295]
->
-> ('Becker […] One of the most astute linguists, who has become the founder of a new language system and a true formally-educating method of teaching.')
-
-In a footnote Haupt even announces that he will publish an extensive analysis of Becker's method in a book to be called *K. F. Becker und die deutsche Volksschule. Ein Beitrag zur Förderung deutscher Sprachwissenschaft und Methodik* [@haupt1841: viii]. Unfortunately, he does not appear to have ever finished this planned book.
-
-As an example of Becker's syntactic analysis, Haupt analysed the example sentence [@next] from Jean Paul. In a first step he separates the various clauses and illustrates their interrelation with the graphical display in [@fig:haupt1841_viii]. Subsequently, Haupt also analyses the internal structure of one of the main clauses, but this is only done in words. Note that Haupt's graphical approach, using hierarchically-ordered reversed horizontal braces, is not found in the work of Becker (see [@sec:becker1829]). However, it is reminiscent of the visual approach by Diesterweg in [@fig:diesterweg1830_174].
-
-::: ex
-Der wahnsinnige Sterbliche begeht seine Sünden so kühn, blos weil sich ihm ihre mörderischen Folgen verhüllen; er kettet die in seiner Brust eingesperrten reißenden Thiere los und lässet sie in der Nacht unter die Menschn dringen; aber er siehet es nicht, wie viele Unschuldige das losgebundene Unthier ergreife und würge. [@haupt1841: viii, citing Jean Paul]
-:::
-
-The abbreviations that are used in the graphical analysis can be reconstructed from the text as follows:
-
-- **Main clause** (*Haupts.*): *Der wahnsinnige Sterbliche begeht seine Sünden so kühn,* 
-- **Causal subordinate clause** (*begründ. Nebs.*): *blos weil sich ihm ihre mörderischen Folgen verhüllen;*
-- **Coordinated main clauses** (*haupts. zusammengezog.) *er kettet die in seiner Brust eingesperrten reißenden Thiere los und lässet sie in der Nacht unter die Menschn dringen;*
-- **Adversative main clause** (*advers. Hpts.*): *aber er siehet es nicht,* 
-- **Complement clause** (*obj. Nebs.*): *wie viele Unschuldige das losgebundene Unthier ergreife und würge.* 
-
-::: {.im #haupt1841_viii}
-Graphical analysis of the example [@last] from Haupt [-@haupt1841: viii]. The internal structure of the six clauses is depicted by hierarchically ordered horizontal braces.
-:::
-
 ## Nägelsbach (1846) *Lateinische Stilistik* {#sec:nägelsbach1846}
 
 Carl Friedrich Nägelsbach (1806-1859) was professor for classical studies in Erlangen. He wrote various commentaries on classical texts and a didactic explanation of Latin style, called *Lateinische Stilistik für Deutsche, ein sprachvergleichender Versuch* [@nagelsbach1846]. The book saw various editions up to a ninth edition in 1905, prepared by Iwan Müller. This ninth edition has been reprinted up to at least 1980.
@@ -1949,12 +1951,14 @@ For the analysis of the  example sentence in [@nnext] Wander uses another visual
 Alternative *Satzbild* for the example sentence in [@last] from Wander [-@wander1856: x]. The depth of the embedding is indicated by the lower placement in the display. This visualisation is probably inspired by the music-score display, which was proposed as an alternative by Diesterweg (cf. [@fig:diesterweg1834_169]). In this visualisation it becomes clear how the lower-case letters are chosen: on each level of embedding the subordinate clauses are simply assigned in alphabetical order. For example, the first second-order subordinate clause is *a^2^*, the second one is *b^2^*, etc. When the same letter re-occurs in the same level (e.g the clause *c* in the first subordinate level), then this indicates that the clause is separated into two parts. The alphabetical order is reset in a new main clause, cf. in main clause *B* the subordinate clause is *a* again.
 :::
 
+Another approach: indentation and vertical brackets, very similar to Mager, see [@sec:mager1840], who is not cited by Wander.
+
 ::: ex
 \(A) Die lebhaften Schilderungen (a) welche die Tarentiner ihm von dem glücklichen Leben machten, (a^2^) das im ruhigen Schoße ihres Vaterlandes und in Gesellschaft seiner dortigen Freunde auf ihn warte, (A) vollendeten endlich die Wirkung, (b) die der gewaltsame Zustand, (b^2^) worin er seit einiger Zeit gelebt hatte, (b) auf ein Gemüth, (c^2^) wie das seinige, (b) machen mußte, (c) indem sie ihm zugleich den ganzen Widerwillen, (d^2^) den er nach seiner Verbannung von Athen gegen den Stand eines Staatsmannes gefaßt hatte, (c) und seinen ganzen Hang zur Abgeschiedenheit von der Welt und zum Leben mit sich selbst und mit guten Menschen wieder gaben, (e^2^) welches ihm, (a^3^) wie er glaubte, (e^2^) jetzt um so nöthiger war, (b^3^) da er sein Gemüth auch von den geringsten Rostflecken, (a^4^) die von jenem syrakusischen Hofleben zurückgeblieben sein könnte, (b^3^) zu reinigen wünschte. [@wander1856: x, citing C. M. Wieland *Geschichte des Agathon*. Clause identifiers were not included in the original by Wander, but were added here for easier interpretation]
 :::
 
 ::: {.im #wander1856_x2}
-Alternative *Satzbild* of the examples sentence in [@last] from Wander [-@wander1856: x] using indentation for subordination. The brackets connect separated parts of the same clause. Some minor typographic errors have crept in. The fourth bracket, linking subordinated clause *c*, is erroneously indented too far to the right: it should be placed on the same indentation as the previous clause *b*. Further, the second level subordination inside *c* should have been marked as *d^2^*. The text makes clear that these are purely typographic errors.
+Alternative *Satzbild* of the examples sentence in [@last] from Wander [-@wander1856: x] using indentation for subordination. The brackets connect separated parts of the same clause. Some minor typographic errors have crept in. The fourth bracket, linking subordinated clause *c*, is erroneously indented too far to the right: it should be placed on the same indentation as the previous clause *b*. Further, the second level subordination inside *c* should have been marked as *d^2^*. The text makes clear that these are purely typographic errors. This visual approach seems to be inflenced by Mager (cf. [@fig:mager1840_251]).
 :::
 
 ## Schlecht (1856) *Denk- und Sprachlehre* {#sec:schlecht1856}
@@ -2422,7 +2426,7 @@ https://nbn-resolving.org/urn:nbn:de:bsz:mh39-101601
 
 ## Boost (1955) *Neue Untersuchungen*
 
-Highly critical of Drach, but still basically the same analysis, e.g. [@boost1964: 87]
+Highly critical of Drach, but still basically the same analysis, e.g. [@boost1964: 87]. Drach mentioned in [@boost1949], but no graphical analysis
 
 ## Erben (1958) *Abriss der deutschen Grammatik* {#sec:erben1958}
 
