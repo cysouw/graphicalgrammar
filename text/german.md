@@ -894,11 +894,41 @@ Heinrich August Schötensack (1812-1891) was a teacher in Stendal. He wrote a ma
 *Periodenbild* for the sentence in [@last] from Schötensack [@schotensack1856: 801]. The use of the different typefaces is a clear indication of the influence from Lehmann (see [@fig:lehmann1852_171]). Schötensack does not include any more complex examples, but he introduces a Hebrew character Alef for the fifth level of embedding.
 :::
 
+## Knappe (1856) *Grundzüge der Grammatik* {#sec:knappe1856}
+
+Josef Knappe was a teacher in Prague. I have not been able to find any details about his biography. From 1870 onwards is he probably a teacher at the newly founded *Deutsche Kleinseitner Lehrerinnenanstalt*, together with Ferdinand Bachmann (see [@sec:bachmann1864]).^[The founding of the school in 1870 is described in the *Jahresbericht* from 1872, available onlin at <https://data.onb.ac.at/rep/131CD5A1>. Knappe and Bachmann are also mentioned in the *Allgemeines Adress- und Handels- Handbuch der Hauptstadt Prag sammt Vorstädten* from 1871 (page 253), available online at <https://kramerius5.nkp.cz/uuid/uuid:fad57270-7ca5-11e7-94b3-005056825209>, all sources accessed 13 October 2026.] Knappe is the author of various grammar and geography textbooks. He publishes his *Grundzüge der Grammatik* [-@knappe1856] himself (*Selbstverlag*). A revision [@knappe1872] is published at a regular publishing house in Vienna.
+
+For the analysis of single clauses, Knappe proposes the method of *Zergliedern (Analysieren)* in the style of Becker (see [@sec:becker1829]) with a numbered tables [@knappe1856: 42; slighly more extended in the second edition @knappe1872: 46-47]. An example from the second edition is shown in [@fig:knappe1872_46] for the examples in [@next].
+
+::: ex
+Dieser sah voll Verwunderung den Herrn an und reichte ihm nach einigem Zögern die Geige.
+:::
+
+::: {.im #knappe1872_46}
+*Zergliederung* of [@last a] from Knappe [@knappe1872: 46], using the style of Becker (cf. [@fig:becker1829_xvii]).
+:::
+
+For the analysis of multi-clause sentences, Knappe [-@knappe1856: 60-61] uses a *Satzbild* like Bauer (see [@sec:bauer1850]). Bauer is explicitly mentioned by Knappe in the introduction as a source of inspiration. An example of Knappe's *Satzbild* is shown in [@fig:knappe1856_61] for the example in [@next].
+
+::: ex
+[A]{.grey} Ich meine, [o]{.grey} es sei thöricht, [s^2^]{.grey} wenn der Mensch dem nachjagt, [o^3^]{.grey} was er nimmer erreichen kann.
+:::
+
+::: {.im #knappe1856_61}
+*Satzbild* for [@last] from Knappe [-@knappe1856: 61] using the style from Bauer, cf. [@fig:bauer1850_95].
+:::
+
 ## Bachmann (1864) *Satz- und Wortlehre* {#sec:bachmann1864}
 
-Ferdinand Bachmann (1817-1891) was a teacher and later director of a teachers' seminary in Prague [more biographical details in @jahne1897]. He was chosen for this job partly because of the popularity of his lectures, published 1864 as a textbook *Die Satz- und Wortlehre in praktischen Vorträgen. Ein methodischer Leitfaden zur Behandlung des grammatischen Theils unserer Lesebücher in der Volksschule. Für angehende Lehrer und Lehrerinnen* [@bachmann1868, cited here from the second edition]. The book saw reprints at least up to a fifth edition in 1884.
+Ferdinand Bachmann (1817-1891) was a teacher and later director of a teachers' seminary in Prague [more biographical details in @jahne1897]. He was chosen for this job partly because of the popularity of his lectures, published 1864 as a textbook *Die Satz- und Wortlehre in praktischen Vorträgen. Ein methodischer Leitfaden zur Behandlung des grammatischen Theils unserer Lesebücher in der Volksschule. Für angehende Lehrer und Lehrerinnen* [@bachmann1868, cited here from the second edition]. The book saw reprints at least up to a fifth edition in 1884. Bachmann might have been a direct collegue of Josef Knappe at the *Deutsche Kleinseitner Lehrerinnenanstalt* (see [@sec:knappe1856]).
 
-Bachmann uses *Satzbilder* to illustrate the structure of complex sentences, copying the style from Bauer (see [@sec:bauer1850]), who is not cited. The construction of this graphical display is explained in great detail [@bachmann1868: 97-104] and exemplary applied for various longer sentences in an appendix [@bachmann1868: 244-255]. An example is given below in [@fig:bachmann1868_251] for the example sentence in [@next]. The graphical analysis only deals with the clause structure, but note that conjoined predicates like *schön und edel* 'beautiful and noble' are treated as two conjoined clauses marked with a plus-symbol and a large arch above. Commas are used both for preposed and postposed subordination, while internal subordination is marked by round brackets (not shown in the figure). Secondary and deeper subordination is placed downwards connected by lines and additionally marked by superscript numbers. Strikethrough indicates non-finite clauses. 
+Bachmann uses *Satzbilder* to illustrate the structure of complex sentences, copying the style from Bauer (see [@sec:bauer1850]), who is not cited directly. However, Bachmann [-@bachmann1868: v] mentions Knappe (see [@sec:knappe1856]) in this context. Bauer considers the usage of *Satzbilder* to be too advanced for the audience of his book, and only includes it for the more ambitious students:
+
+> Was in Bezug auf das Verhältnis der Nebensätze zu einander, auf die Grade ihrer Unterordnung und den Gebrauch der Satzbilder aufgenommen worden [ist], geht über das Ziel der Volkschule hinaus und ist lediglich auf die Selbstbildung des Lehrers und auf die Unterweisung solcher Schüler berechnet, die nach zurückgelegten Schuljahren ihre grammatische Studien fortsetzen wollen. Da unsere Lehramtszöglinge meist "Knappe's Grundzüge der Grammatik" in Händen haben, so wurden selbe auch in dieser Partie dem Leitfaden zu Grunde gelegt. [@bachmann1868: iv-v]
+>
+> 'The material included regarding the relationship between subordinate clauses, their degrees of subordination, and the use of *Satzbilder*, goes beyond the scope of the school curriculum. It is intended solely for the teacher's own professional development and for the instruction of students who wish to continue their grammatical studies after completing their regular schooling. Since our trainees generally use *Knappe’s Grundzüge der Grammatik*, that work has also served as the basis for this section of the guide.'
+
+The construction of the graphical display is explained in great detail [@bachmann1868: 97-104] and exemplary applied for various longer sentences in an appendix [@bachmann1868: 244-255]. An example is given below in [@fig:bachmann1868_251] for the example sentence in [@next]. The graphical analysis only deals with the clause structure, but note that conjoined predicates like *schön und edel* 'beautiful and noble' are treated as two conjoined clauses marked with a plus-symbol and a large arch above. Commas are used both for preposed and postposed subordination, while internal subordination is marked by round brackets (not shown in the figure). Secondary and deeper subordination is placed downwards connected by lines and additionally marked by superscript numbers. Strikethrough indicates non-finite clauses. 
 
 ::: ex
 [a+a,]{.grey} Wenn es schön und edel ist, [s̶^2^]{.grey} für das Vaterland zu sterben; [A+A]{.grey} so ist es noch schöner und edler, [,s̶]{.grey} so ganz für das Vaterland zu leben. [@bachmann1868: 250, with obvious reference to Horace's *dulce et decorum est pro patria mori*]
@@ -948,7 +978,9 @@ Tabular *Wort- und Satzanalyse* from Lehmann [-@lehmann1870: 186]. This approach
 Second, for complex sentences Lehmann uses a letter-based *Satzbild* [@lehmann1870: 217-218; see also *Schulgrammatik*: @lehmann1878: 281-282; and *Sprachbuch*: @lehmann1878a: 128]. He use a simplified one-line approach with lower-case letters indicating the function of the subordinate clause (e.g. *o=Objektsatz*, *k=Kausalsatz*, *m=Modalsatz).* Depth of embedding is indicated by a number after the letter and non-finite clauses by an additional letter *v=verkürzt*. An example is shown in [@fig:lehmann1870_218] for the example sentence in [@next].
 
 ::: ex
-[A]{.grey} Thu', [o]{.grey} was jeder loben müsste, [k2]{.grey} wenn die ganze Welt es wüsste; [B]{.grey} thu' es, [m]{.grey} dass es niemand weiß, und [C]{.grey} gedoppelt ist dein Preis. [@lehmann1870: 218, citing an aphorism of Friedrich Rückert]
+Lehmann [-@lehmann1870: 218], citing an aphorism of Friedrich Rückert.
+
+[A]{.grey} Thu', [o]{.grey} was jeder loben müsste, [k2]{.grey} wenn die ganze Welt es wüsste; [B]{.grey} thu' es, [m]{.grey} dass es niemand weiß, und [C]{.grey} gedoppelt ist dein Preis.
 :::
 
 ::: {.im #lehmann1870_218}
