@@ -896,16 +896,16 @@ Heinrich August Schötensack (1812-1891) was a teacher in Stendal. He wrote a ma
 
 ## Knappe (1856) *Grundzüge der Grammatik* {#sec:knappe1856}
 
-Josef Knappe was a teacher in Prague. I have not been able to find any details about his biography. From 1870 onwards is he probably a teacher at the newly founded *Deutsche Kleinseitner Lehrerinnenanstalt*, together with Ferdinand Bachmann (see [@sec:bachmann1864]).^[The founding of the school in 1870 is described in the *Jahresbericht* from 1872, available onlin at <https://data.onb.ac.at/rep/131CD5A1>. Knappe and Bachmann are also mentioned in the *Allgemeines Adress- und Handels- Handbuch der Hauptstadt Prag sammt Vorstädten* from 1871 (page 253), available online at <https://kramerius5.nkp.cz/uuid/uuid:fad57270-7ca5-11e7-94b3-005056825209>, all sources accessed 13 October 2026.] Knappe is the author of various grammar and geography textbooks. He publishes his *Grundzüge der Grammatik* [-@knappe1856] himself (*Selbstverlag*). A revision [@knappe1872] is published at a regular publishing house in Vienna.
+Josef Knappe was a teacher in Prague. I have not been able to find any details about his biography. From 1870 onwards is he probably a teacher at the newly founded *Deutsche Kleinseitner Lehrerinnenanstalt*, together with Ferdinand Bachmann (see [@sec:bachmann1864]).^[The founding of the school in 1870 is described in the *Jahresbericht* from 1872, available onlin at <https://data.onb.ac.at/rep/131CD5A1>. Knappe and Bachmann are also mentioned in the *Allgemeines Adress- und Handels- Handbuch der Hauptstadt Prag sammt Vorstädten* from 1871 (page 253), available online at <https://kramerius5.nkp.cz/uuid/uuid:fad57270-7ca5-11e7-94b3-005056825209>, all sources accessed 13 October 2026.] Knappe is the author of various grammar and geography textbooks. He originally published his *Grundzüge der Grammatik* [-@knappe1856] out of his own pocket (*Selbstverlag*). Much later, a second edition [@knappe1872] is published at a regular publishing house in Vienna.
 
-For the analysis of single clauses, Knappe proposes the method of *Zergliedern (Analysieren)* in the style of Becker (see [@sec:becker1829]) with a numbered tables [@knappe1856: 42; slighly more extended in the second edition @knappe1872: 46-47]. An example from the second edition is shown in [@fig:knappe1872_46] for the examples in [@next].
+For the analysis of single clauses, Knappe proposes the method of *Zergliedern (Analysieren)* in the style of Becker (see [@sec:becker1829]) with a numbered tables [@knappe1856: 42; slighly more extended in the second edition @knappe1872: 46-47], although Knappe does not mention Becker explicitly. An example from the second edition is shown in [@fig:knappe1872_46] for the examples in [@next].
 
 ::: ex
 Dieser sah voll Verwunderung den Herrn an und reichte ihm nach einigem Zögern die Geige.
 :::
 
 ::: {.im #knappe1872_46}
-*Zergliederung* of [@last a] from Knappe [@knappe1872: 46], using the style of Becker (cf. [@fig:becker1829_xvii]).
+*Zergliederung* of [@last a] from Knappe [@knappe1872: 46], using the style of Becker (cf. [@fig:becker1829_xvii]). There is a minimal aspect of hierarchical constituency included in the analysis of the adverbial phrase *nach einigem Zögern*.
 :::
 
 For the analysis of multi-clause sentences, Knappe [-@knappe1856: 60-61] uses a *Satzbild* like Bauer (see [@sec:bauer1850]). Bauer is explicitly mentioned by Knappe in the introduction as a source of inspiration. An example of Knappe's *Satzbild* is shown in [@fig:knappe1856_61] for the example in [@next].
@@ -915,20 +915,28 @@ For the analysis of multi-clause sentences, Knappe [-@knappe1856: 60-61] uses a 
 :::
 
 ::: {.im #knappe1856_61}
-*Satzbild* for [@last] from Knappe [-@knappe1856: 61] using the style from Bauer, cf. [@fig:bauer1850_95].
+*Satzbild* for [@last] from Knappe [-@knappe1856: 61] using the style from Bauer (cf. [@fig:bauer1850_95]).
 :::
+
+## Scheinpflug (1860) *Der deutsche Satzbau*
+
+Bernard Scheinpflug (1811–1882), <https://de.wikipedia.org/wiki/Bernhard_Scheinpflug> biography <https://de.wikisource.org/wiki/BLKÖ:Scheinpflug,_Bernard> teacher at the *Deutsche Oberrealschule* in Prague
+
+Erzählungen aus der Geschichte (Prag 1860) "diese Erzählungen bearbeitete Scheinpflug gemeinschaftlich mit Joseph Knappe"
+
+[@scheinpflug1860] extensive examples p.56-64
 
 ## Bachmann (1864) *Satz- und Wortlehre* {#sec:bachmann1864}
 
-Ferdinand Bachmann (1817-1891) was a teacher and later director of a teachers' seminary in Prague [more biographical details in @jahne1897]. He was chosen for this job partly because of the popularity of his lectures, published 1864 as a textbook *Die Satz- und Wortlehre in praktischen Vorträgen. Ein methodischer Leitfaden zur Behandlung des grammatischen Theils unserer Lesebücher in der Volksschule. Für angehende Lehrer und Lehrerinnen* [@bachmann1868, cited here from the second edition]. The book saw reprints at least up to a fifth edition in 1884. Bachmann might have been a direct collegue of Josef Knappe at the *Deutsche Kleinseitner Lehrerinnenanstalt* (see [@sec:knappe1856]).
+Ferdinand Bachmann (1817-1891) was a teacher and later director of a teachers' seminary in Prague [more biographical details in @jahne1897]. Bachmann might have been a direct collegue of Josef Knappe at the *Deutsche Kleinseitner Lehrerinnenanstalt* (see [@sec:knappe1856]). Bachmann was chosen for this job partly because of the popularity of his lectures, published 1864 as a textbook *Die Satz- und Wortlehre in praktischen Vorträgen. Ein methodischer Leitfaden zur Behandlung des grammatischen Theils unserer Lesebücher in der Volksschule. Für angehende Lehrer und Lehrerinnen* [@bachmann1868, cited here from the second edition]. The book saw reprints at least up to a fifth edition in 1884. The book is intended for 
 
-Bachmann uses *Satzbilder* to illustrate the structure of complex sentences, copying the style from Bauer (see [@sec:bauer1850]), who is not cited directly. However, Bachmann [-@bachmann1868: v] mentions Knappe (see [@sec:knappe1856]) in this context. Bauer considers the usage of *Satzbilder* to be too advanced for the audience of his book, and only includes it for the more ambitious students:
+Bachmann uses *Satzbilder* to illustrate the structure of complex sentences, copying the style from Bauer (see [@sec:bauer1850]), who is not cited directly. However, Bachmann [-@bachmann1868: v] mentions Knappe (see [@sec:knappe1856]) in this context, who cites Bauer. Bachmann considers the usage of *Satzbilder* to be too advanced for use in secondary school. He only includes it for the education of the teachers and possibly for the more ambitious students in school:
 
 > Was in Bezug auf das Verhältnis der Nebensätze zu einander, auf die Grade ihrer Unterordnung und den Gebrauch der Satzbilder aufgenommen worden [ist], geht über das Ziel der Volkschule hinaus und ist lediglich auf die Selbstbildung des Lehrers und auf die Unterweisung solcher Schüler berechnet, die nach zurückgelegten Schuljahren ihre grammatische Studien fortsetzen wollen. Da unsere Lehramtszöglinge meist "Knappe's Grundzüge der Grammatik" in Händen haben, so wurden selbe auch in dieser Partie dem Leitfaden zu Grunde gelegt. [@bachmann1868: iv-v]
 >
-> 'The material included regarding the relationship between subordinate clauses, their degrees of subordination, and the use of *Satzbilder*, goes beyond the scope of the school curriculum. It is intended solely for the teacher's own professional development and for the instruction of students who wish to continue their grammatical studies after completing their regular schooling. Since our trainees generally use *Knappe’s Grundzüge der Grammatik*, that work has also served as the basis for this section of the guide.'
+> ('The material included regarding the relationship between subordinate clauses, their degrees of subordination, and the use of *Satzbilder*, goes beyond the scope of the school curriculum. It is intended solely for the teacher's own professional development and for the instruction of students who wish to continue their grammatical studies after completing their regular schooling. Since our trainees generally use *Knappe’s Grundzüge der Grammatik*, that work has also served as the basis for this section of the guide.')
 
-The construction of the graphical display is explained in great detail [@bachmann1868: 97-104] and exemplary applied for various longer sentences in an appendix [@bachmann1868: 244-255]. An example is given below in [@fig:bachmann1868_251] for the example sentence in [@next]. The graphical analysis only deals with the clause structure, but note that conjoined predicates like *schön und edel* 'beautiful and noble' are treated as two conjoined clauses marked with a plus-symbol and a large arch above. Commas are used both for preposed and postposed subordination, while internal subordination is marked by round brackets (not shown in the figure). Secondary and deeper subordination is placed downwards connected by lines and additionally marked by superscript numbers. Strikethrough indicates non-finite clauses. 
+The construction of the graphical display is explained in great detail [@bachmann1868: 97-104] and exemplary applied for various longer sentences in an appendix [@bachmann1868: 244-255]. An example is given below in [@fig:bachmann1868_251] for the example sentence in [@next]. The graphical analysis only deals with the clause structure, but note that conjoined predicates like *schön und edel sein* 'to be beautiful and noble' are treated as two conjoined clauses marked with a plus-symbol and a large arch above. Commas are used both for preposed and postposed subordination, while internal subordination is marked by round brackets (not shown in the figure). Secondary and deeper subordination is placed downwards connected by lines and additionally marked by superscript numbers. Strikethrough indicates non-finite clauses. 
 
 ::: ex
 [a+a,]{.grey} Wenn es schön und edel ist, [s̶^2^]{.grey} für das Vaterland zu sterben; [A+A]{.grey} so ist es noch schöner und edler, [,s̶]{.grey} so ganz für das Vaterland zu leben. [@bachmann1868: 250, with obvious reference to Horace's *dulce et decorum est pro patria mori*]
@@ -938,10 +946,10 @@ The construction of the graphical display is explained in great detail [@bachman
 *Satzbild* for the example sentence in [@last] in the analysis of Bachmann [-@bachmann1868: 251]. The style of this graphic is copied from the structural summaries of Bauer (cf. [@fig:bauer1850_95]). Commas are used to separate both preposed and postposed subordinate clauses. Deeper embedded clauses use vertical lines and superscript numbers. Strikethrough indicates non-finite clauses.
 :::
 
-Bachmann also uses tables, with the each word as a row and two columns for the analysis: one row is called *syntaktisch* (for the syntactic function) and the other row is called *etymologisch* (for the morphological analysis). This approach, including the term "etymology" for what we would today call morphology, is highly reminiscent of the british tradition of parsing as proposed by Murray [-@murray1824: 195]. It could also be an influence from Becker (see [@sec:becker1829]), but Bachmann does not use numbers to explicate the dependencies. This table-style approach is first introduced only for syntactic functions [@bachmann1868: 38], but later applied in great detail in the appendix including morphological analysis [@bachmann1868: 244-255]. A tabular analysis of the first subordinate part of example [@last] is showhn in [@fig:bachmann1868_251a].
+Bachmann also uses tables, with the each word as a row and two columns for the analysis: one row is called *syntaktisch* (for the syntactic function) and the other row is called *etymologisch* (for the morphological analysis). This approach, including the term "etymology" for what we would today call morphology, is highly reminiscent of the british tradition of parsing as proposed by Murray [-@murray1824: 195]. It could also be an influence from Becker (see [@sec:becker1829]), but Bachmann does not use numbers to explicate the dependencies (different from Knappe, who does use numbering, cf. [@fig:knappe1872_46]). This table-style approach is first introduced only for syntactic functions [@bachmann1868: 38], but later applied in great detail in the appendix including morphological analysis [@bachmann1868: 244-255]. A tabular analysis of the first subordinate part of example [@last] is shown in [@fig:bachmann1868_251a].
 
 ::: {.im #bachmann1868_251a}
-Tabular analysis of the first subordinate part of examples sentence [@last]. This tabular analysis both has a column for syntactic function *(syntaktisch)* and a column for morphological structure *(etymologisch)*. This might be an influence from Becker (cf. [@fig:becker1829_xvii]), but the absence of any numbering and the use of the term "etymology" also points to a direct influence from the english tradition of Murray [e.g. -@murray1824: 195].
+Tabular analysis of the first subordinate part of examples sentence [@last]. This tabular analysis both has a column for syntactic function *(syntaktisch)* and a column for morphological structure *(etymologisch)*. This might be an influence from Becker (cf. [@fig:becker1829_xvii]), but the absence of any numbering and the use of the term "etymology" also points to a direct influence from the english tradition of Murray [e.g. -@murray1824: 195]. Bachmann collegue Knappe did use tables with numbering (cf. [@fig:knappe1872_46]).
 :::
 
 ## Wetzel & Wetzel (1865) *Die deutsche Sprache* {#sec:wetzel1865}
@@ -953,11 +961,11 @@ In 1865 they wrote a textbook on German grammar, called *Die deutsche Sprache. E
 Their analysis of multi-clause sentences is limited to inserting symbols into the text at the end of each clause [@wetzel1871: 313-314], similar to Herling [-@herling1823] as shown in [@fig:herling1832_232]. Wetzel & Wetzel use capital letters for main clause and lower-case letters for subordinate clauses, with superscript numbers for the depth of the embedding. All subordinate clauses of a specific main clause use the same letter, e.g. all *A/a* or *B/b* etc. An example of their analysis is shown in [@fig:wetzel1871_313] for the example sentence in [@next].
 
 ::: ex
-Es ist ein altes Sprichwort (A), daß der Mensch dann beten lernt (a^1^), wenn er in eine Noth geräth (a^2^), aus der er sich selbst nicht zu erretten vermag (a^3^), weil es ihm an der rechten Einsicht fehlt (a^4^), die für diesen Zweck ersprießlichen Mittel und Wege zu wählen (a^5^).
+Es ist ein altes Sprichwort [(A)]{.grey}, daß der Mensch dann beten lernt [(a^1^)]{.grey}, wenn er in eine Noth geräth [(a^2^)]{.grey}, aus der er sich selbst nicht zu erretten vermag [(a^3^)]{.grey}, weil es ihm an der rechten Einsicht fehlt [(a^4^)]{.grey}, die für diesen Zweck ersprießlichen Mittel und Wege zu wählen [(a^5^)]{.grey}.
 :::
 
 ::: {.im #wetzel1871_313}
-Example of the analysis of a multi-clause sentence from Wetzel & Wetzel [-@wetzel1871: 313]. Their basic approach is to add letters inside the sentence, similar to the approach of Herling [-@herling1823] as shown in [@fig:herling1832_232]. The schema to the side is a secondary depiction of the internal structure.
+Example of the analysis of a multi-clause sentence from Wetzel & Wetzel [-@wetzel1871: 313]. Their basic approach is to add letters at the end of each clause, similar to the approach of Herling [-@herling1823] as shown in [@fig:herling1832_232]. The schema on the left side is a secondary depiction of the internal structure.
 :::
 
 ## Lehmann (1870) *Leitfaden für den Unterricht* {#sec:lehmann1870}
@@ -2079,6 +2087,10 @@ For the inspiration of the *Periodenbilder* he cites Götzinger (see [@sec:götz
 *Periodenbild* for the verse from the *Nibelungenlied* in [@last] as analysed by Esser [-@esser1878: 7]. Although he cites Götzinger, the details of the graphical display are more similar to the Latin tradition from Nägelbach, most prominently the use of the forward slash instead of a horizontal brace as used by Götzinger.
 :::
 
+## Weissenborn (1879) *Untersuchungen über den Satz- und Periodenbau*
+
+Weissenborn, Edmund, (1841-1923), one-line *Periodenbilder* [@weissenborn1879: e.g. 39-41] Gymnasium in Mühlhausen in Thuringia
+
 ## Schulze (1883) *Adiumenta Latinitatis* {#sec:schulze1883}
 
 Ernst Hendrik Ferdinand Schulze (1842-1911) was a teacher and school director, first in St. Petersburg and later in Bad Homburg vor der Höhe. Biographical details are available in Schulze [-@schulze1901: 46-47].^[A good overview is also available on <https://de.wikipedia.org/wiki/Ernst_Schulze_(Historiker)>, accessed 7 January 2025.] He wrote an advanced Latin textbook *Adiumenta Latinitatis. Grundzüge des lateinischen Stils in Verbindung mit Übersetzungsstücken für die oberste Stufe des Gymnasiums* [@schulze1883].
@@ -2097,6 +2109,10 @@ b.
 ::: {.im #schulze1883_121}
 *Periodenbilder* from Schulze [-@schulze1883: 121] showing possible sentence orders in Latin that are impossible in German. He uses a very reduced system of symbols with *A* for main clause, *a* for subordinate clause, and *α* for secondary subordinate clause.
 :::
+
+## Clemens (1885) *De catulli periodis*
+
+Emil Clemens (1860–?) biography in <https://d-nb.info/1064096115/34> [@clemens1885] Schemata Lehmann/Nägelsbach (p17)
 
 ## Golling (1892) *Chrestomathie aus Livius*
 
