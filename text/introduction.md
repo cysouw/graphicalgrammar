@@ -371,6 +371,15 @@ Hierarchical constituent analysis to represent the structure of [@llast] from Se
 Interlocking graphic to represent the structure of [@llast] from Senillosa [-@senillosa1817: 62]. The whole *proposicion* 'proposition/sentence' is analysed as five separate *juicios* 'judgements/clauses' [@last], displayed as lines, to be read from bottom left to top right. Somewhat reminiscent of a dependency structure, the words modified by a subordinate *juicio* are the junctures of the diagram, referenced by relativizers, i.e. by *los quales/la qual*.
 :::
 
+## Gaultier (1819) *Leçons de grammaire en action* {#sec:gaultier1819}
+
+l’abbé Louis Gaultier (1746-1818)[ @gaultier1817] parsing tables, but without numbers https://fr.wikipedia.org/wiki/Louis_Gaultier
+
+[@gaultier1819] using colors and circles to teach word classes to small kids
+
+- https://www.google.de/books/edition/Exercices_sur_la_construction_logique_de/uiM316rUwZAC
+- https://www.google.de/books/edition/Phrases_gradue_es_extraites_de_Cice_ron/5Gf6lH8k7N8C see p. xix
+
 ## Doherty (1841) *An introduction to English grammar*
 
 Hugh Doherty (???-1891) was an active proponent of Fourierism, a form of utopian socialism [@pankhurst1956: 400-408; @jenkins2003]. I have not been able to find more details about his life. In the 1840s, in the midst of the most active period of this movement, he managed to also publish a grammar [@doherty1841]. Later in life he publishes on diverse subjects like the *Philosophy of History and Social Evolution* and *Organic Philosophy*.^[Available online at <https://books.google.de/books?vid=Harvard:32044088061064> and <https://books.google.de/books?vid=Harvard:HXCXTR>, accessed 19 May 2026.]

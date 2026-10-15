@@ -1658,7 +1658,7 @@ Charles Carpenter Fries (November 29, 1887 – December 8, 1967)
 
 no graphics in "American English Grammar" (1940), probably one of the first real corpos-linguistic grammars of English.
 
-graphics in [@fries1952: 272] (Pike is a student of Fries, Fries might have been inspired by Pike 1943 here)
+graphics in [@fries1952: 272] (Pike is a student of Fries, Fries might have been inspired by Pike 1943 here). Cites Jespersen "analytic syntax" on p3
 
 ## Bar-Hillel (1953) *A Quasi-Arithmetical Notation for Syntactic Description*
 

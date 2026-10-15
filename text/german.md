@@ -894,6 +894,56 @@ Heinrich August Schötensack (1812-1891) was a teacher in Stendal. He wrote a ma
 *Periodenbild* for the sentence in [@last] from Schötensack [@schotensack1856: 801]. The use of the different typefaces is a clear indication of the influence from Lehmann (see [@fig:lehmann1852_171]). Schötensack does not include any more complex examples, but he introduces a Hebrew character Alef for the fifth level of embedding.
 :::
 
+## Wander (1856) *Satzbilderschule* {#sec:wander1856}
+
+Karl Friedrich Wilhelm Wander (1803-1879) was a teacher in Silesia and a progressive padagogue in the tradition of Pestalozzi. He was persecuted by the prussian government as a revolutionist and communist, though his views appear moderately liberal-progressive from a contemporary point of view. He was a close friend of Diesterweg (see [@sec:diesterweg1830]) and wrote an influential pamphlet in defence of his friend, called *Der geschmähte Diester­weg*. In German linguistics, he is most well-known for his collection of German proverbs, the *Deutsches Sprichwörter-Lexikon*. Extensive biographical information about Wander is provided by Hohendorf [-@hohendorf1979].
+
+Among Wander's many publications there is a small booklet called *Satzbilderschule* [@wander1856]. It does not seem to have been noted by his contemporaries, and today only very few copies remain available. Wander's analysis of *Satzbilder* closely follows Diesterweg in all its details (see [@sec:diesterweg1830]). Wander's book is organised by possible sentence structures, trying to enumerate all possibilities of complex sentences. With this approach, Wander follows the same plan as Lehmann (see [@sec:lehmann1833]). Both Diesterweg and Lehmann are explicitly mentioned in the preface [@wander1856: vi].
+
+The main part of Wander's book consists only of *Satzbilder* in the form of letter sequences. Each letter encodes a clause, capital letters for main clauses and lower-case letters for subordinate clauses. Superscript numbers indicate the level of embedding. However, in the preface Wander additionally discusses three different kinds of visualisation that can be used to enhance the bare-bones letter-based analysis. The first two visualisations are directly adapted from Diesterweg, but the third appears to be an innovation of Wander himself. 
+
+For the analysis of the example sentence in [@next], Wander proposes two visualisations. First, in [@fig:wander1856_ix], he combines the rising-falling analysis of the *Kommata* in a *Periode* with the letter sequences of the individual clauses. Second, in [@fig:wander1856_x] he uses a grid to show the sequence of clauses from left to right and the depth of embedding from top to bottom. Another example of both these visualisations is found at the end of his book [@wander1856: 63-64].
+
+For the analysis of the  example sentence in [@nnext] Wander uses another visualisation, shown in [@fig:wander1856_x2]. He displays the hierarchical structure by indentation and connects separated parts of the same clause by large brackets. In all these example-visualisations there are minor typographic errors, as discussed below in the captions to the figures. With such complex sentences it turns out to be really difficult to stay faultless, even for an obviously competent author like Wander.
+
+::: ex
+[a]{.grey} Wer nur den groß nennt, [a^2^]{.grey} der in einem ungewöhnlichen Grade alles ist, [a^3^]{.grey} was er soll; [b]{.grey} wer aus der Zahl großer Monarchen jeden ausstößt, [b^2^]{.grey} dessen Regierung nicht durch ihn selbst, [c^2^]{.grey} sondern nur durch das glückliche, einträchtige Genie vortrefflicher Diener glänzte und [d^2^]{.grey} der nur weise genug war, [b^3^]{.grey} sich leiten zu lassen, [a^4^]{.grey} da er selbst hätte leiten sollen; [c]{.grey} wer, [e^2^]{.grey} mit unverwandtem Blick auf den einzigen würdigen Zweck eines Königs, [c]{.grey} keine, auch nicht die glänzendsten Thaten bewundert, [f]{.grey} sobald sie jenem Zweck entgegenlaufen; [d]{.grey} wer das einseitige Talent eines Kriegers von dem mannichfaltigen, so viele andere Talente in sich schließenden eines Monarchen unterscheidet: [A]{.grey} der wird die großen Könige, [e]{.grey} groß im echten Sinne des Wortes, [A]{.grey} durch ganze Jahrhunderte und unter ganzen Nationen vergebens suchen; [B]{.grey} er wird schon, [a]{.grey} eh' er sucht, [B]{.grey} ihrer nur äußerst wenige zu finden hoffen. [@wander1856: vii-viii, citing Johann Jakob Engel]
+:::
+
+::: {.im #wander1856_ix}
+*Satzbild* for the example sentence in [@last] from Wander [-@wander1856: ix]. This visualisation is completely parallel to the proposal from Diesterweg (cf. [@fig:diesterweg1834_169]). The lower-case letters are used for subordinate clauses, but the meaning of the different letters remains mysterious from this display. The alternative display in [@fig:wander1856_x] below solves this riddle. Note that there is a minor error in this display, which is corrected in the next figure. The second division (*Kolon*) should have *b^3^* instead of *a^3^*.
+:::
+
+::: {.im #wander1856_x}
+Alternative *Satzbild* for the example sentence in [@last] from Wander [-@wander1856: x]. The depth of the embedding is indicated by the lower placement in the display. This visualisation is probably inspired by the music-score display, which was proposed as an alternative by Diesterweg (cf. [@fig:diesterweg1834_169]). In this visualisation it becomes clear how the lower-case letters are chosen: on each level of embedding the subordinate clauses are simply assigned in alphabetical order. For example, the first second-order subordinate clause is *a^2^*, the second one is *b^2^*, etc. When the same letter re-occurs in the same level (e.g the clause *c* in the first subordinate level), then this indicates that the clause is separated into two parts. The alphabetical order is reset in a new main clause, cf. in main clause *B* the subordinate clause is *a* again.
+:::
+
+Another approach: indentation and vertical brackets, very similar to Mager, see [@sec:mager1840], who is not cited by Wander.
+
+::: ex
+\(A) Die lebhaften Schilderungen (a) welche die Tarentiner ihm von dem glücklichen Leben machten, (a^2^) das im ruhigen Schoße ihres Vaterlandes und in Gesellschaft seiner dortigen Freunde auf ihn warte, (A) vollendeten endlich die Wirkung, (b) die der gewaltsame Zustand, (b^2^) worin er seit einiger Zeit gelebt hatte, (b) auf ein Gemüth, (c^2^) wie das seinige, (b) machen mußte, (c) indem sie ihm zugleich den ganzen Widerwillen, (d^2^) den er nach seiner Verbannung von Athen gegen den Stand eines Staatsmannes gefaßt hatte, (c) und seinen ganzen Hang zur Abgeschiedenheit von der Welt und zum Leben mit sich selbst und mit guten Menschen wieder gaben, (e^2^) welches ihm, (a^3^) wie er glaubte, (e^2^) jetzt um so nöthiger war, (b^3^) da er sein Gemüth auch von den geringsten Rostflecken, (a^4^) die von jenem syrakusischen Hofleben zurückgeblieben sein könnte, (b^3^) zu reinigen wünschte. [@wander1856: x, citing C. M. Wieland *Geschichte des Agathon*. Clause identifiers were not included in the original by Wander, but were added here for easier interpretation]
+:::
+
+::: {.im #wander1856_x2}
+Alternative *Satzbild* of the examples sentence in [@last] from Wander [-@wander1856: x] using indentation for subordination. The brackets connect separated parts of the same clause. Some minor typographic errors have crept in. The fourth bracket, linking subordinated clause *c*, is erroneously indented too far to the right: it should be placed on the same indentation as the previous clause *b*. Further, the second level subordination inside *c* should have been marked as *d^2^*. The text makes clear that these are purely typographic errors. This visual approach seems to be inflenced by Mager (cf. [@fig:mager1840_251]).
+:::
+
+## Schlecht (1856) *Denk- und Sprachlehre* {#sec:schlecht1856}
+
+Raymund Schlecht (1811-1891) was director of a teacher's training college in Eichstätt [see @gmelch1931 for biographical details]. Besides being a teacher and theologian, he was a musical researcher. Most of his writings deal with musicology, but he also published a short grammar called *Denk- und Sprachlehre. Ein Leitfaden zur Ertheilung eines organischen Sprachunterrichts* [@schlecht1856]. In the preface he prominently mentions Becker (see [@sec:becker1829]).
+
+The grammar contains a few graphical displays for complex sentences using a musical notation [@schlecht1856: 71, 79]. This is reminiscent of the approach by Herling, as shown in [@fig:herling1828_366], and Diesterweg, as shown in [@fig:diesterweg1834_169]. There is no indication that Herling was an inspiration for Schlecht. In contrast, Schlecht clearly knew about Diesterweg, whom he went to visit in Berlin in 1862 [according to @gmelch1931: 21] and about whose didactic methods he wrote a small note in the *Katholische Schulzeitung* in 1868 [@gmelch1931: 54].^[The small note appeared in two parts, which are available online at <https://www.digitale-sammlungen.de/view/bsb10687402?page=260> and <https://www.digitale-sammlungen.de/view/bsb10687402?page=284>.] Yet, given that Schlecht was more of a musicologist than a linguist, it seems just as likely that he independently came up with the idea of using the musical score for the depiction of linguistic structure.
+
+He uses the musical display in [@fig:schlecht1856_79] to illustrate the structure of the highly complex sentence in [@next]. Before the main clause there are eleven subordinated clauses, separated graphically by a double bar. These eleven subordinated clauses are again subdivided into three subsections devided by a single bar, each of which is again internally complex. The main clause, after the double bar, also has a complex internal structure. It is impressive that grammarians like Schlecht had the audacity to tackle such complex sentences, something rarely seen in contemporary linguistics.
+
+::: ex
+Wie das innere Bewegen, das im Herbst die Schaaren der wandernden Vögel mit unwiderstehlicher Gewalt ergreift und über Land und Meer dahinführt, wie der Trieb der Säfte, der in den Tagen des Frühlings die Tausende der Blüthen aus dem Fruchtbaum herausdrängt an's Licht, an welchem die meisten, gleich einer vergeblichen Ueberfülle, verblühen und abfallen, ohne Frucht zu tragen, wie jeder Zug des Instinkts im niederen Reiche der Sichtbarkeit ein Walten der Kraft ist, die das Wesen der Leiblichkiet begründete und beherrscht; – so war auch jenes Bewegen, das die Menschenseelen zu dem Werke der Kreuzzüge dahin riß, nicht von unten her, sondern es kam von oben, aus einem Anwehen des Geistes, der dem Menschen im Anfang den lebendigen Odem gab. [@schlecht1856: 78, citing Gottfried Heinrich Schubert *Reise in das Morgenland*]
+:::
+
+::: {.im #schlecht1856_79}
+Music-score analysis of the complex sentence in [@last] from Schlecht [@schlecht1856: 79]. The main clauses are placed on the highest line, with subordinate clauses below, depending on the depth of their embedding. Vertical bars separate major parts, with the double vertical bar separating the preposed subordinated clauses from the main clause. The arches are used for conjunction reduction (first arch) and clauses that are interrupted by a subordinate clause (other two arches). The following abbreviations are used: *Vrgl*=*Vergleichssatz*=comparative clause, *B*=*Beifügesatz*=relative clause, *U*=*Umstandssatz*=adverbial clause, *Pr.Th*=*mit dem Prädicat verbundene Thätigkeit*. The intended meaning of the *P* just before the vertical double bar is unclear.
+:::
+
 ## Knappe (1856) *Grundzüge der Grammatik* {#sec:knappe1856}
 
 Josef Knappe was a teacher in Prague. I have not been able to find any details about his biography. From 1870 onwards is he probably a teacher at the newly founded *Deutsche Kleinseitner Lehrerinnenanstalt*, together with Ferdinand Bachmann (see [@sec:bachmann1864]).^[The founding of the school in 1870 is described in the *Jahresbericht* from 1872, available onlin at <https://data.onb.ac.at/rep/131CD5A1>. Knappe and Bachmann are also mentioned in the *Allgemeines Adress- und Handels- Handbuch der Hauptstadt Prag sammt Vorstädten* from 1871 (page 253), available online at <https://kramerius5.nkp.cz/uuid/uuid:fad57270-7ca5-11e7-94b3-005056825209>, all sources accessed 13 October 2026.] Knappe is the author of various grammar and geography textbooks. He originally published his *Grundzüge der Grammatik* [-@knappe1856] out of his own pocket (*Selbstverlag*). Much later, a second edition [@knappe1872] is published at a regular publishing house in Vienna.
@@ -1967,56 +2017,6 @@ Another innovation proposed by Nägelsbach is to use brackets for relative modif
 Simplified *Periodenbild* from Nägelsbach [-@nagelsbach1846: 286]. To be able to write *Periodenbilder* as a single line, he replaces the horizontal brace from Lehmann and Götzinger with a simple forward slash. This makes them much easier to typeset.
 :::
 
-## Wander (1856) *Satzbilderschule* {#sec:wander1856}
-
-Karl Friedrich Wilhelm Wander (1803-1879) was a teacher in Silesia and a progressive padagogue in the tradition of Pestalozzi. He was persecuted by the prussian government as a revolutionist and communist, though his views appear moderately liberal-progressive from a contemporary point of view. He was a close friend of Diesterweg (see [@sec:diesterweg1830]) and wrote an influential pamphlet in defence of his friend, called *Der geschmähte Diester­weg*. In German linguistics, he is most well-known for his collection of German proverbs, the *Deutsches Sprichwörter-Lexikon*. Extensive biographical information about Wander is provided by Hohendorf [-@hohendorf1979].
-
-Among Wander's many publications there is a small booklet called *Satzbilderschule* [@wander1856]. It does not seem to have been noted by his contemporaries, and today only very few copies remain available. Wander's analysis of *Satzbilder* closely follows Diesterweg in all its details (see [@sec:diesterweg1830]). Wander's book is organised by possible sentence structures, trying to enumerate all possibilities of complex sentences. With this approach, Wander follows the same plan as Lehmann (see [@sec:lehmann1833]). Both Diesterweg and Lehmann are explicitly mentioned in the preface [@wander1856: vi].
-
-The main part of Wander's book consists only of *Satzbilder* in the form of letter sequences. Each letter encodes a clause, capital letters for main clauses and lower-case letters for subordinate clauses. Superscript numbers indicate the level of embedding. However, in the preface Wander additionally discusses three different kinds of visualisation that can be used to enhance the bare-bones letter-based analysis. The first two visualisations are directly adapted from Diesterweg, but the third appears to be an innovation of Wander himself. 
-
-For the analysis of the example sentence in [@next], Wander proposes two visualisations. First, in [@fig:wander1856_ix], he combines the rising-falling analysis of the *Kommata* in a *Periode* with the letter sequences of the individual clauses. Second, in [@fig:wander1856_x] he uses a grid to show the sequence of clauses from left to right and the depth of embedding from top to bottom. Another example of both these visualisations is found at the end of his book [@wander1856: 63-64].
-
-For the analysis of the  example sentence in [@nnext] Wander uses another visualisation, shown in [@fig:wander1856_x2]. He displays the hierarchical structure by indentation and connects separated parts of the same clause by large brackets. In all these example-visualisations there are minor typographic errors, as discussed below in the captions to the figures. With such complex sentences it turns out to be really difficult to stay faultless, even for an obviously competent author like Wander.
-
-::: ex
-[a]{.grey} Wer nur den groß nennt, [a^2^]{.grey} der in einem ungewöhnlichen Grade alles ist, [a^3^]{.grey} was er soll; [b]{.grey} wer aus der Zahl großer Monarchen jeden ausstößt, [b^2^]{.grey} dessen Regierung nicht durch ihn selbst, [c^2^]{.grey} sondern nur durch das glückliche, einträchtige Genie vortrefflicher Diener glänzte und [d^2^]{.grey} der nur weise genug war, [b^3^]{.grey} sich leiten zu lassen, [a^4^]{.grey} da er selbst hätte leiten sollen; [c]{.grey} wer, [e^2^]{.grey} mit unverwandtem Blick auf den einzigen würdigen Zweck eines Königs, [c]{.grey} keine, auch nicht die glänzendsten Thaten bewundert, [f]{.grey} sobald sie jenem Zweck entgegenlaufen; [d]{.grey} wer das einseitige Talent eines Kriegers von dem mannichfaltigen, so viele andere Talente in sich schließenden eines Monarchen unterscheidet: [A]{.grey} der wird die großen Könige, [e]{.grey} groß im echten Sinne des Wortes, [A]{.grey} durch ganze Jahrhunderte und unter ganzen Nationen vergebens suchen; [B]{.grey} er wird schon, [a]{.grey} eh' er sucht, [B]{.grey} ihrer nur äußerst wenige zu finden hoffen. [@wander1856: vii-viii, citing Johann Jakob Engel]
-:::
-
-::: {.im #wander1856_ix}
-*Satzbild* for the example sentence in [@last] from Wander [-@wander1856: ix]. This visualisation is completely parallel to the proposal from Diesterweg (cf. [@fig:diesterweg1834_169]). The lower-case letters are used for subordinate clauses, but the meaning of the different letters remains mysterious from this display. The alternative display in [@fig:wander1856_x] below solves this riddle. Note that there is a minor error in this display, which is corrected in the next figure. The second division (*Kolon*) should have *b^3^* instead of *a^3^*.
-:::
-
-::: {.im #wander1856_x}
-Alternative *Satzbild* for the example sentence in [@last] from Wander [-@wander1856: x]. The depth of the embedding is indicated by the lower placement in the display. This visualisation is probably inspired by the music-score display, which was proposed as an alternative by Diesterweg (cf. [@fig:diesterweg1834_169]). In this visualisation it becomes clear how the lower-case letters are chosen: on each level of embedding the subordinate clauses are simply assigned in alphabetical order. For example, the first second-order subordinate clause is *a^2^*, the second one is *b^2^*, etc. When the same letter re-occurs in the same level (e.g the clause *c* in the first subordinate level), then this indicates that the clause is separated into two parts. The alphabetical order is reset in a new main clause, cf. in main clause *B* the subordinate clause is *a* again.
-:::
-
-Another approach: indentation and vertical brackets, very similar to Mager, see [@sec:mager1840], who is not cited by Wander.
-
-::: ex
-\(A) Die lebhaften Schilderungen (a) welche die Tarentiner ihm von dem glücklichen Leben machten, (a^2^) das im ruhigen Schoße ihres Vaterlandes und in Gesellschaft seiner dortigen Freunde auf ihn warte, (A) vollendeten endlich die Wirkung, (b) die der gewaltsame Zustand, (b^2^) worin er seit einiger Zeit gelebt hatte, (b) auf ein Gemüth, (c^2^) wie das seinige, (b) machen mußte, (c) indem sie ihm zugleich den ganzen Widerwillen, (d^2^) den er nach seiner Verbannung von Athen gegen den Stand eines Staatsmannes gefaßt hatte, (c) und seinen ganzen Hang zur Abgeschiedenheit von der Welt und zum Leben mit sich selbst und mit guten Menschen wieder gaben, (e^2^) welches ihm, (a^3^) wie er glaubte, (e^2^) jetzt um so nöthiger war, (b^3^) da er sein Gemüth auch von den geringsten Rostflecken, (a^4^) die von jenem syrakusischen Hofleben zurückgeblieben sein könnte, (b^3^) zu reinigen wünschte. [@wander1856: x, citing C. M. Wieland *Geschichte des Agathon*. Clause identifiers were not included in the original by Wander, but were added here for easier interpretation]
-:::
-
-::: {.im #wander1856_x2}
-Alternative *Satzbild* of the examples sentence in [@last] from Wander [-@wander1856: x] using indentation for subordination. The brackets connect separated parts of the same clause. Some minor typographic errors have crept in. The fourth bracket, linking subordinated clause *c*, is erroneously indented too far to the right: it should be placed on the same indentation as the previous clause *b*. Further, the second level subordination inside *c* should have been marked as *d^2^*. The text makes clear that these are purely typographic errors. This visual approach seems to be inflenced by Mager (cf. [@fig:mager1840_251]).
-:::
-
-## Schlecht (1856) *Denk- und Sprachlehre* {#sec:schlecht1856}
-
-Raymund Schlecht (1811-1891) was director of a teacher's training college in Eichstätt [see @gmelch1931 for biographical details]. Besides being a teacher and theologian, he was a musical researcher. Most of his writings deal with musicology, but he also published a short grammar called *Denk- und Sprachlehre. Ein Leitfaden zur Ertheilung eines organischen Sprachunterrichts* [@schlecht1856]. In the preface he prominently mentions Becker (see [@sec:becker1829]).
-
-The grammar contains a few graphical displays for complex sentences using a musical notation [@schlecht1856: 71, 79]. This is reminiscent of the approach by Herling, as shown in [@fig:herling1828_366], and Diesterweg, as shown in [@fig:diesterweg1834_169]. There is no indication that Herling was an inspiration for Schlecht. In contrast, Schlecht clearly knew about Diesterweg, whom he went to visit in Berlin in 1862 [according to @gmelch1931: 21] and about whose didactic methods he wrote a small note in the *Katholische Schulzeitung* in 1868 [@gmelch1931: 54].^[The small note appeared in two parts, which are available online at <https://www.digitale-sammlungen.de/view/bsb10687402?page=260> and <https://www.digitale-sammlungen.de/view/bsb10687402?page=284>.] Yet, given that Schlecht was more of a musicologist than a linguist, it seems just as likely that he independently came up with the idea of using the musical score for the depiction of linguistic structure.
-
-He uses the musical display in [@fig:schlecht1856_79] to illustrate the structure of the highly complex sentence in [@next]. Before the main clause there are eleven subordinated clauses, separated graphically by a double bar. These eleven subordinated clauses are again subdivided into three subsections devided by a single bar, each of which is again internally complex. The main clause, after the double bar, also has a complex internal structure. It is impressive that grammarians like Schlecht had the audacity to tackle such complex sentences, something rarely seen in contemporary linguistics.
-
-::: ex
-Wie das innere Bewegen, das im Herbst die Schaaren der wandernden Vögel mit unwiderstehlicher Gewalt ergreift und über Land und Meer dahinführt, wie der Trieb der Säfte, der in den Tagen des Frühlings die Tausende der Blüthen aus dem Fruchtbaum herausdrängt an's Licht, an welchem die meisten, gleich einer vergeblichen Ueberfülle, verblühen und abfallen, ohne Frucht zu tragen, wie jeder Zug des Instinkts im niederen Reiche der Sichtbarkeit ein Walten der Kraft ist, die das Wesen der Leiblichkiet begründete und beherrscht; – so war auch jenes Bewegen, das die Menschenseelen zu dem Werke der Kreuzzüge dahin riß, nicht von unten her, sondern es kam von oben, aus einem Anwehen des Geistes, der dem Menschen im Anfang den lebendigen Odem gab. [@schlecht1856: 78, citing Gottfried Heinrich Schubert *Reise in das Morgenland*]
-:::
-
-::: {.im #schlecht1856_79}
-Music-score analysis of the complex sentence in [@last] from Schlecht [@schlecht1856: 79]. The main clauses are placed on the highest line, with subordinate clauses below, depending on the depth of their embedding. Vertical bars separate major parts, with the double vertical bar separating the preposed subordinated clauses from the main clause. The arches are used for conjunction reduction (first arch) and clauses that are interrupted by a subordinate clause (other two arches). The following abbreviations are used: *Vrgl*=*Vergleichssatz*=comparative clause, *B*=*Beifügesatz*=relative clause, *U*=*Umstandssatz*=adverbial clause, *Pr.Th*=*mit dem Prädicat verbundene Thätigkeit*. The intended meaning of the *P* just before the vertical double bar is unclear.
-:::
-
 ## Menge (1873) *Repetitorium der lateinischen Syntax* {#sec:menge1873}
 
 Hermann August Menge (1841-1939) was a teacher and is widely known as the translator of the infamous German *Menge-Bibel*. Based on his practical experience as a teacher he wrote textbooks for Latin and Greek. The Latin textbook was still in use far into the 20th century, though in a slightly revised version [e.g. a 1955 edition is cited in @langholf1969: 10]. I will use here the sixth edition, which is the earliest edition I have been able to access [@menge1890]. The prefaces to the earlier editions do not mention any changes as far as the graphical analysis is concerned, so I assume that they were already present in the first edition of 1873.
@@ -2407,6 +2407,37 @@ Er { ging, [ ohne ( auf die < sich bei ihr wiederholenden > Klagen ) einzugehen 
 Constituency tree-visualisation of the bracketed sentence structure [@last] from Drach [-@drach1937: 46]. The bracketed structure is clearly a constituent structure, although Drach does not use any labels for the constituents. In lieu of labels I have used the brackets itself in this graphical representation.
 :::
 
+## Glinz (1948) *Die innere Form des Deutschen* {#sec:glinz1952}
+
+Inspiration from Louis Züllig? <https://dls.staatsarchiv.sg.ch/records/686860>
+
+Hanz Glinz (1913-2008) was professor for German philology in Aachen. A biographical summary and an in-depth discussion of his work is provided by Zlobinska-Görtz [-@zlobinska-gortz2018]. His *Habilitationsschrift* was accepted in Zürich in 1948 and published as *Die innere Form des Deutschen. Eine neue deutsche Grammatik* [@glinz1952]. This book was widely discussed in Germany and is generally considered to be an early example of a structuralist grammar for German. Glinz consistently uses *Proben*, i.e. syntactic constituency tests, to analyse the grammatical structure of German.
+
+Glinz' book contains two large examples in which he uses a literary text to illustrate graphically how his analysis works in practice. The first example uses a paragraph from Goethe's *Wilhelm Meisters theatralische Sendung* and a paragraph from Heinrich Keller's *Der grüne Heinrich* [@glinz1952: 71-72]. The full analysis takes up ten whole pages [@glinz1952: 316-325]. The last sentence from this exemplary analysis [@next] is reproduced here in [@fig:glinz1952_325]. This visualisation places the words from top to bottom with thick black indicators for the verbal elements of the sentence. Glinz very clearly includes both the "finite" second position (*Leitglied*) and the sentence-final "infinite" position (*Nennglied*) in his analysis of the German sentence. The arrows indicate the governer of the case assignment. In the complex noun phrases the horizontal lines indicate the hierarchical structure. Subordinate clauses (not shown in the figure here) are not visually distinguished in this large example.
+
+::: ex
+und die kühle erfrischende Luft atmend schlief ich sozusagen an der Brust der gewaltigen Natur ein. [@glinz1952: 325, citing Heinrich Keller]
+:::
+
+::: {.im #glinz1952_325}
+Analysis of [@last] from Glinz [-@glinz1952: 325], citing an example from Heinrich Keller. The words of the sentence are placed vertically with the verbal elements highlighed on the vertical line. Case-assignment is indicated by arrows pointing to the governing element. Within the complex noun phrases the horizontal lines indicate the hierarchical structure.
+:::
+
+Glinz' second large example is introduced as a massive 10-page fold-out sheet inserted between pages 472 and 473. For this exemplary analysis Glinz uses a paragraph from a letter from Goethe, sent on the 12th of november 1779 and published in the collection *Briefen aus der Schweiz*. The graphical analysis of the first sentence of this letter [@next b] is shown here in [@fig:glinz1952_472]. The linked high-resolution image shows a panorama of the complete fold-out sheet. In this visualisation the words are ordered horizontally and there are lines added on top of the whole example. These lines indicates the depth of clausal embedding: deeper embedding is indicated by lines that are higher positioned.
+
+::: ex
+Es war ein seltsamer Anblick, wenn man einen Moment seine Aufmerksamkeit vom Wege ab und auf sich selbst und die Gesellschaft wendet. [@glinz1952: 472, citing Goethe]
+:::
+
+::: {.im #glinz1952_472}
+Analysis of [@last b] from Glinz [-@glinz1952: 472], citing an example sentence from Goethe. This analysis is basically the same as the one shown in [@fig:glinz1952_325], but ordered horizontally. The additional lines on top indicate the depth of the clausal embedding, with higher lines indicating deeper embedding. The linked high-resolution image shows a panoramic overview of the whole 10-page fold-out sheet.
+:::
+
+Meeting with US americans at International Congres of Linguists in London (52) and Oslo (58), especially Fries is mentioned (Introduction second edition of Innere Form, 1961: 4-5)
+
+Satzkern, Satzrahmen (p.64): Personalform, Infinitform, Verbzusatz (157)
+https://nbn-resolving.org/urn:nbn:de:bsz:mh39-101601
+
 ## Weisgerber (1950) *Vom Weltbild der deutschen Sprache* {#sec:weisgerber1950}
 
 Johann *Leo* Weisgerber (1899-1985) was a professor for comparative linguistics in Rostock, Marburg and Bonn. An extensive discussion of his life and work is provided by Roth [-@Roth2004]. In his syntactic analyses, Weisgerber was strongly influenced by the posthumously published work of Drach (see [@sec:drach1937]). Already in *Die volkhaften Kräfte der Muttersprache* [@weisgerber1939] he cites Drach's *Grundplan* 'outline' (see [@fig:drach1937_18]) and he re-iterates the importance of Drach's notion of *Umklammerung* 'bracketing' for the syntactic stucture of German [@weisgerber1939: 54-58]. After the war, Weisgerber published his 4-volume *opus magnum*, called *Von den Kräften der deutschen Sprache*, in which he again discusses the proposals from Drach in volume 3: *Die Muttersprache im Aufbau unserer Kultur* [@weisgerber1950: *Grundplan* 120-121, *Umklammerung* 188-193]. In this discussion Weisgerber includes various different visualisation for the hierarchical structure of the *Umklammerung*. 
@@ -2442,39 +2473,6 @@ Gipper develops his own visualisation using a "Chinese boxes" approach to show t
 ::: {.im #gipper1966_119}
 Chinese boxes visualisation for the sentence [@last a] by Gipper [-@gipper1966: 119]. This example is cited from Weisgerber, who uses another visualisation (see [@fig:weisgerber1950_191a]). Exactly this visualisation is later quoted verbatim in the second edition of Weisgerber's book. During the 1940s various other, apparently independent, example of this visualisations are found in the linguistic literatur.
 :::
-
-## Glinz (1952) *Die innere Form des Deutschen* {#sec:glinz1952}
-
-Hanz Glinz (1913-2008) was professor for German philology in Aachen. A biographical summary and an in-depth discussion of his work is provided by Zlobinska-Görtz [-@zlobinska-gortz2018]. His *Habilitationsschrift* was accepted in Zürich in 1948 and published as *Die innere Form des Deutschen. Eine neue deutsche Grammatik* [@glinz1952]. This book was widely discussed in Germany and is generally considered to be an early example of a structuralist grammar for German. Glinz consistently uses *Proben*, i.e. syntactic constituency tests, to analyse the grammatical structure of German.
-
-Glinz' book contains two large examples in which he uses a literary text to illustrate graphically how his analysis works in practice. The first example uses a paragraph from Goethe's *Wilhelm Meisters theatralische Sendung* and a paragraph from Heinrich Keller's *Der grüne Heinrich* [@glinz1952: 71-72]. The full analysis takes up ten whole pages [@glinz1952: 316-325]. The last sentence from this exemplary analysis [@next] is reproduced here in [@fig:glinz1952_325]. This visualisation places the words from top to bottom with thick black indicators for the verbal elements of the sentence. Glinz very clearly includes both the "finite" second position (*Leitglied*) and the sentence-final "infinite" position (*Nennglied*) in his analysis of the German sentence. The arrows indicate the governer of the case assignment. In the complex noun phrases the horizontal lines indicate the hierarchical structure. Subordinate clauses (not shown in the figure here) are not visually distinguished in this large example.
-
-::: ex
-und die kühle erfrischende Luft atmend schlief ich sozusagen an der Brust der gewaltigen Natur ein. [@glinz1952: 325, citing Heinrich Keller]
-:::
-
-::: {.im #glinz1952_325}
-Analysis of [@last] from Glinz [-@glinz1952: 325], citing an example from Heinrich Keller. The words of the sentence are placed vertically with the verbal elements highlighed on the vertical line. Case-assignment is indicated by arrows pointing to the governing element. Within the complex noun phrases the horizontal lines indicate the hierarchical structure.
-:::
-
-Glinz' second large example is introduced as a massive 10-page fold-out sheet inserted between pages 472 and 473. For this exemplary analysis Glinz uses a paragraph from a letter from Goethe, sent on the 12th of november 1779 and published in the collection *Briefen aus der Schweiz*. The graphical analysis of the first sentence of this letter [@next b] is shown here in [@fig:glinz1952_472]. The linked high-resolution image shows a panorama of the complete fold-out sheet. In this visualisation the words are ordered horizontally and there are lines added on top of the whole example. These lines indicates the depth of clausal embedding: deeper embedding is indicated by lines that are higher positioned.
-
-::: ex
-Es war ein seltsamer Anblick, wenn man einen Moment seine Aufmerksamkeit vom Wege ab und auf sich selbst und die Gesellschaft wendet. [@glinz1952: 472, citing Goethe]
-:::
-
-::: {.im #glinz1952_472}
-Analysis of [@last b] from Glinz [-@glinz1952: 472], citing an example sentence from Goethe. This analysis is basically the same as the one shown in [@fig:glinz1952_325], but ordered horizontally. The additional lines on top indicate the depth of the clausal embedding, with higher lines indicating deeper embedding. The linked high-resolution image shows a panoramic overview of the whole 10-page fold-out sheet.
-:::
-
-Meeting with US americans at International Congres of Linguists in London (52) and Oslo (58), especially Fries is mentioned (Introduction second edition of Innere Form, 1961: 4-5)
-
-Satzkern, Satzrahmen (p.64): Personalform, Infinitform, Verbzusatz (157)
-https://nbn-resolving.org/urn:nbn:de:bsz:mh39-101601
-
-## Boost (1955) *Neue Untersuchungen*
-
-Highly critical of Drach, but still basically the same analysis, e.g. [@boost1964: 87]. Drach mentioned in [@boost1949], but no graphical analysis
 
 ## Erben (1958) *Abriss der deutschen Grammatik* {#sec:erben1958}
 
@@ -2529,21 +2527,37 @@ Höhle first uses word in print in 1979 [@hohle1979: 387]
 
 "Die Lehre von den topologischen Feldern besteht – nicht unter diesem Namen, aber in ihren wesentlichen Inhalten – seit mindestens 100 Jahren in gereifter Form." p.11
 
-# More recent didactic approaches
+# Post-war didactic approaches
+
+Some of the old approaches still in print, e.g. Mensing. However, there is a clear discontinuity in didactic approaches. Feldermodell emerges
 
 ## Arends & Jahn (1950) *Der deutsche Sprachspiegel*
 
 Felix Arends (1888-????) publication in 1962: https://ubmr.hds.hebis.de/Record/HEB111783623
 
+https://archivdatenbank.bbf.dipf.de/actaproweb/document/Vz_F74C0F7A-0424-41D9-8558-EB11AE03494B: 
+
+studied in Bonn and Berlin 1907-1909, where he probably met Robert Jahn. Teacher in Mühlheim 1915-1919, Essen-Frintrop (Oberlehrer Realgymnasium) 1919-1934 and Duisburg (Oberstudienrat Oberrealschule) 1934-
+
 Robert Jahn (1885-1962) https://de.wikipedia.org/wiki/Robert_Jahn_%28Archivar%29
 
-2nd edition [@arends1954: 23,29] Anlauf - Kern - Zusätze - Kernerweiterung. Verbs marked with green, subject with red. (cf Bonnard: verbs blue, subject red)
+The source of inspiration remains unclear. They probably met Weisgerber (who wrote a preface) through the contact of the publisher (Schwann Verlag, specifically through Kurt Derleth)
 
-Revision in 1956, dropping the article, now *Deutscher Sprachspiegel* Volume 1 [@arends1956: 127] complex notation system for sentence analysis. Volume 2 [@arends1958: 127] lines for subordinated clauses. This volume has Erika Essen as co-author! More examples in [@arnold1968]
+1914 bis 1933 Gymnasiallehrer für deutsche, englische und französische Sprache am Realgymnasium in Essen-Bredeney, dann Archivar (wegen NS Regime)
+
+1st edition: Basic scheme already present, but no underlining [@arends1950: 14]. Already with *Geleitwort* of Weisgerber
+
+2nd edition [@arends1954: 23,29] Anlauf - Kern - Zusätze - Kernerweiterung. Verbs marked with green squirkly lines, subject with red straight line. (cf Bonnard: verbs blue, subject red)
+
+Revision in 1956, dropping the article, now *Deutscher Sprachspiegel* Volume 1 [@arends1956: 127] complex notation system for sentence analysis. Now more involvement of Glinz and Weisgerber! 
+
+Volume 2 [@arends1958: 127] lines for subordinated clauses. This volume has Erika Essen as co-author! More examples in [@arnold1968]
 
 Further revision in 1966 and 1971
 
 ## Rahn & Pfleiderer (1951) *Deutsche Spracherziehung*
+
+=> Pfleiderer simplistic sentence schemes in [@pfleiderer1940]: Hauptglied-Zeitwort-Erweiterung
 
 Fritz Rahn (1891–1964) and Wolfgang Pfleiderer (1877-1971) were teachers in the region around Stuttgart, Germany.^[some basic biographical information is available on Wikipedia at <https://de.wikipedia.org/wiki/Fritz_Rahn> and <https://de.wikipedia.org/wiki/Wolfgang_Pfleiderer_(Philologe)>, accessed 9 January 2026.] They wrote an extensive educational framework for teaching German called *Deutsche Spracherziehung* in various editions throughout the 1950s. These books are written as collections of methods and exercises for teachers to be used in class.
 
@@ -2573,6 +2587,10 @@ In 1951 Rahn gave a presentation about the didactical renewal of grammar, which 
 ::: {.im #rahn1951_20}
 Proposal for underlining and color-use for sentence analysis on the blackboard by Rahn & Pfleiderer [-@rahn1951a: 20].
 :::
+
+## Boost (1955) *Neue Untersuchungen*
+
+Highly critical of Drach, but still basically the same analysis, e.g. [@boost1964: 87]. Drach mentioned in [@boost1944; @boost1949], but no graphical analysis
 
 ## Essen (1956) *Methodik des Deutschunterrichts*
 

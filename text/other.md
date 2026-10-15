@@ -40,15 +40,6 @@ Procedure from Sicard [-@sicard1799: 206] to explain the formation of a relative
 There are various examples in which Sicard uses boxes to indicate subordinate clauses. This example is from Sicard [-@sicard1799: 213]. He does not develop this idea further.
 :::
 
-## Gaultier (1819) *Leçons de grammaire en action* {#sec:gaultier1819}
-
-l’abbé Louis Gaultier (1746-1818)[ @gaultier1817] parsing tables, but without numbers https://fr.wikipedia.org/wiki/Louis_Gaultier
-
-[@gaultier1819] using colors and circles to teach word classes to small kids
-
-- https://www.google.de/books/edition/Exercices_sur_la_construction_logique_de/uiM316rUwZAC
-- https://www.google.de/books/edition/Phrases_gradue_es_extraites_de_Cice_ron/5Gf6lH8k7N8C see p. xix
-
 ## Bébian (1827) *Manuel d'enseignement pratique des sourds-muets* {#sec:bebian1827}
 
 Auguste Bébian (1789-1839), born in Guadeloupe and godchild of Sicard, worked at *l'Institution Nationale des Sourds-Muets de Paris* until 1821. He was pushed out in 1821 after an altercation with the administrator Louis-Pierre Paulmier about class sizes [@bertin2015: 136-139], just a year before the death of Sicard. Bébian remained active in the education of the Deaf for the rest of his life. He devised a highly detailed method to transcribe sign language [@bebian1825], but it does not contain any information on its syntactic structure. A detailed discussion of Bébian's life and work is provided by Bertin [-@bertin2015].
@@ -696,9 +687,16 @@ https://nl.wikipedia.org/wiki/Maurice_Bologne
 
 Charles Bally (1865-1947), successor to Ferdinand de Saussure as professor for general linguistics in Geneva
 
-Il est d’usage, pour les syntagmes réduits, de remplacer «thème» par *déterminé* et «propos» par *déterminant*. Nous préférons aussi, dans ce cas,
-remplacer *A* par *t* et *Z* par *t'*. D’ailleurs, nous emploierons dans la suite *tt'* (ou *t't*) pour désigner un syntagme quel qu’il soit. 
-1944: 102, 1932: 43
+Analysis of *syntagme* based on Saussure, who proposes a binary structure of syntagmas, and implies that they occur on various levels in language. Saussure never gives an explicit example of a hierarchical analysis of syntagmas:
+
+> D'une part, dans le discours, les mots contractent entre eux, en vertu de leur enchaînement, des rapports fondés sur le caractère linéaire de la langue, qui exclut la possibilité de prononcer deux éléments à la fois. Ceux-ci se rangent les uns à la suite des autres sur la chaîne de la parole. Ces combinaisons qui ont pour support l'étendue peuvent être appelées *syntagmes*. Le syntagme se compose donc toujours de deux ou plusieurs unités consécutives (par exemple: *re-lire ; contre tous; la vie humaine ; Dieu est bon; s'il fait beau temps, nous sortirons,* etc.). [@saussure1916: 170]
+>
+> ('Words as used in discourse, strung together one after another, enter into relations based on the linear character of languages. Linearity precludes the possibility of uttering two words simultaneoudly. They must be arranged consecutively in spoken sequence. Combinations based on sequentiality may be called *syntagmas*. The syntagme invariably comprises two or more consecutive units: for example, *re-lire* ('re-read'), *contre tous* ('against all'), *la vie humaine* ('the life of man'), *Dieu est bon* ('God is good'), *s'il fait beau temps, nous sortirons* ('if it's fine, we'll go out'), etc.') [translation by Roy Harris, @saussure1983: 121]
+
+Bally adding notion *déterminant* and *déterminé*
+
+> Il est d’usage, pour les syntagmes réduits, de remplacer «thème» par *déterminé* et «propos» par *déterminant*. Nous préférons aussi, dans ce cas,
+remplacer *A* par *t* et *Z* par *t'*. D’ailleurs, nous emploierons dans la suite *tt'* (ou *t't*) pour désigner un syntagme quel qu’il soit. [@bally1932: 43; @bally1944: 102]
 
 first edition no graphic [@bally1932], only in revision of 1944
 
