@@ -2397,14 +2397,14 @@ Not widely discussed, but much more interesting, is Drach's discussion of *Umkla
 
 Nordmeyer (1883) *Die grammatischen Gesetze der deutschen Wortstellung* https://books.google.de/books?vid=PRNC:32101067701894 uses "Umschließung"
 
-Drach uses different kinds of brackets to depict the levels of subordination, as illustrated in [@next] reproduced from Drach [-@drach1937: 46, similar examples on page 39 and 49]. The brackets clearly enclose parts that today would be called a constituent. The only difference to a modern constituency analysis is that Drach does not label these constituents. Other than that, Drach's *Umklammerung* is completely analogous to a constituent tree, as shown in [@fig:drach1937_46_tree]. It remains unclear what inspiration drew Drach to use hierachically ordered brackets. It does not seem to occur in any of his other writings
+Drach uses different kinds of brackets to depict the levels of subordination, as illustrated in [@fig:drach1937_46] reproduced from Drach [-@drach1937: 46, similar examples on page 39 and 49]. The brackets clearly enclose parts that today would be called a constituent. The only difference to a modern constituency analysis is that Drach does not label these constituents. Other than that, Drach's *Umklammerung* is completely analogous to a constituent tree, as shown in [@fig:drach1937_46_tree]. It remains unclear what inspiration drew Drach to use hierachically ordered brackets. It does not seem to occur in any of his other writings
 
-::: ex
-Er { ging, [ ohne ( auf die < sich bei ihr wiederholenden > Klagen ) einzugehen ] aus dem Zimmer }.
+::: {.im #drach1937_46}
+Bracketed sentence structure from Drach [-@drach1937: 46].
 :::
 
 ::: {.tree #drach1937_46_tree}
-Constituency tree-visualisation of the bracketed sentence structure [@last] from Drach [-@drach1937: 46]. The bracketed structure is clearly a constituent structure, although Drach does not use any labels for the constituents. In lieu of labels I have used the brackets itself in this graphical representation.
+Constituency tree-visualisation of the bracketed sentence structure of [@fig:drach1937_46] from Drach [-@drach1937: 46]. The bracketed structure is clearly a constituent structure, although Drach does not use any labels for the constituents. In lieu of labels I have used the brackets itself in this graphical representation.
 :::
 
 ## Glinz (1948) *Die innere Form des Deutschen* {#sec:glinz1952}
