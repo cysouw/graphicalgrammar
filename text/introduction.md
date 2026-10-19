@@ -69,9 +69,15 @@ Gaultier (1819), Becker (1830), Lonkay (1855)
 
 ## Phrasal hierarchy
 
-Constituency
+Constituency: rather separate from other developments, though there are minor connections
 
 Influence from Logical tradition of Boole/Frege/Mill/Peirce/Jevons etc.
+
+First phase 1880-1900: Wundt (1880, Leipzig), Lugebil (1883, St. Petersburg), Zikmund/Gebauer (1890, Prague), Binstorfer (1889, Vienna), Götzinger (1880, St. Gallen), Dinkel (1895, Nürnberg), Stöhr (1898, Vienna)
+
+mostly silent in between (Jespersen, Sheffield)
+
+Second phase: 1935-1945: Adjukiewicz (1935, Poznań), Drach (1937, Berlin), Hansen (1933, Kopenhagen), Jespersen (1937, Kopenhagen), Pike (1943, Michigan), Harris (Philadelphia, 1946), Mikuš (1947, Ljubljana)
 
 - mostly usage of hierarchical brackets
 
