@@ -1293,11 +1293,9 @@ Kern himself also realised that his system was not ideal for large sentences wit
 Simplified analysis of the example sentence in [@last] from Kern [-@kern1884: 57]. This display shows the actual order of the clauses from left to right. The number indicates the level of subordination of the clause, with *H* being used for *Hauptsatz* 'main clause'. The lower-case letters *a, b* indicate that a subordinate clause is interrupted by other subordinate clauses. Such a bare-bones one-line *Periodenbild* is reminiscent of Hoffmann's approach (see [@sec:hoffmann1839]).
 :::
 
-Finally, the following two details from Kern's descriptions suggest influences that might have led Kern to his particular graphical approach. First, he argues against the term *Erweiterung* with an argumentation that is eerily similar to the one made by Diesterweg as discussed in [@sec:diesterweg1830] [@diesterweg1830: 167; -@diesterweg1834: 151]. So maybe Kern knew about Diesterweg's approach, although there is no other concrete evidence for this.
+Finally, the following two details from Kern's descriptions suggest influences that might have led Kern to his particular graphical approach. First, he argues against the term *Erweiterung* with an argumentation that is eerily similar to the one made by Diesterweg as discussed in [@sec:diesterweg1830] [@diesterweg1830: 167; -@diesterweg1834: 151]. In a later reply to many of his critics, Kern [-@kern1886: v] cites Diesterweg's *Lehrgang* in a footnote, so he surely knew that work.
 
-(Wilke [@wilke1890: 100-101] says, Kern cites Diesterweg in *Zustand und Gegenstand*)
-
-> Uebrigens besagt der Ausdruck Satzerweiterung gar nichts als Satzverlängerung; denn durch hinzugefügte Bestimmungen wird der Inhalt des Satzes natürlich nicht erweitert, sondern verengert und dadurch bereichert. [@kern1883: 5fn]
+> Uebrigens besagt der Ausdruck Satzerweiterung gar nichts als Satzverlängerung; denn durch hinzugefügte Bestimmungen wird der Inhalt des Satzes natürlich nicht erweitert, sondern verengert und dadurch bereichert. [@kern1883: 5 fn.]
 >
 > ('Incidentally, the term *Satzerweiterung* 'sentence expansion' refers to nothing more than elongation of the sentence; however, by adding modifications the content of a sentence is not expanded, but narrowed and enriched in the process.')
 

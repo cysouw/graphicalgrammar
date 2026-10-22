@@ -2,6 +2,10 @@
 
 # Brackets and boxes
 
+First phase 1880-1900, probably related to newly developed algebraic logic
+
+Second origin: 1933-1937 (Bloomfield 1933, Hansen 1933, Ajdukiewicz 1935, Drach 1937, Hjelmslev 1937) New structuralist/synchronic approach? First most explicit in phonology, then morphology and only slowly focussing on syntax.
+
 # Origins
 
 see also hierarchical braces in [@stein1890: 92], revised by Binstorfer. Also Zikmund/Gebauer
@@ -204,6 +208,8 @@ Hierarchical *nexus* for a small part of the example [@last], *audito Dareum mov
 
 At the end of his long life Jespersen published the book *Analytic syntax* [@jespersen1937], in which he laid out a completely symbolic framework for linguistic analysis, leaving the simplistic *S/P* approach behind. The approach in *Analytic syntax* is algebraic, using symbols and brackets to analyse linguistic utterances. He does not draw any graphical representations, although Francis [-@francis1989: 83] shows that is clearly possible to interpret the bracketing as a constituent tree. Also, Jespersen [-@jespersen1937: 83] includes a graphical syntactic analysis in his book, citing Fry (see [@sec:fry1925]), so he was clearly aware of the possibility to use images to analyse language. However, for some reason Jespersen preferred an algebraical approach, citing Stöhr (see [@sec:stöhr1898]), Sapir (see [@sec:sapir1921]), Bologne (see [@sec:bologne1935]) and Brøndal (see [@sec:brøndal1932]) as having similar approaches.
 
+cites Bloomfield's example "poor John ran away" [@jespersen1937: 96]
+
 Jespersen uses letters, superscripts and brackets to represent syntactic structure, and, being the detailed grammarian that he has been for his whole life, he presents many pages with hundreds of examples of this system for a plethora of different grammatical phenomena from a dozen different languages [@jespersen1937: 6-84]. This is hands-down the most well-documented system of all approaches discussed in this book. A more in-depth discussion of Jespersen's approach can be found in Francis [-@francis1989] and Cigana [-@cigana2020]. As an illustration of his approach an example is shown here in [@fig:jespersen1937_83] for an example sentence taken from Fry [-@fry1925: 64].
 
 ::: {.im #jespersen1937_83}
@@ -386,20 +392,11 @@ Immediate constituent analysis from Seuren [-@seuren1998: 187]
 
 [@bloomfield1914: 60-61], cited in Percival (1976:235) clearly thinks about binary branching. Also note the Wundt-inspired psychological reasoning, also using the term "apperception" (p.60).
 
+Use of vertical bars, reminiscent of Crombie, but no obvious connection
+
 Hypothesis that Wundt influenced Bloomfield: [@percival1976: 234-235 gives various detailed arguments], but again no pictures. The basic assumption of binary analysis pervasive in US-american 20th century analyses can probably be tracked back to Wundt.
 
 Historical survey of Bloomfield and post-Bloomfieldians: [@matthews1993]
-
-Use of vertical bars for separation appears old, e.g. Alexander Crombie https://en.wikipedia.org/wiki/Alexander_Crombie, originally 1802, cited here from the second edition [@crombie1809: 234]:
-
-> Complex sentences are divided into members; and these, if complex, are subdivided into clauses, as, "The ox knoweth his owner | and the ass his master's crib || but Israel doth not know | my people doth not consider." This complex sentence has two members, each of which contains two clauses.
-
-- first edition 1802
-- second edition 1809/1810
-- third edition 1830:226 https://google.com/books?id=uP0RAAAAIAAJ
-- fourth edition (1836:176) https://www.loc.gov/item/43047733/ 
-- fifth edition (1843:162) https://google.com/books?id=Tx1AAAAAYAAJ
-- seventh edition (1853:162) https://www.loc.gov/item/11008559/
 
 ## Pike (1943) *Taxemes and immediate constituents* {#sec:pike1943}
 
@@ -407,63 +404,78 @@ Use of vertical bars for separation appears old, e.g. Alexander Crombie https://
 
 ## Bloch (1946) *Studies in colloquial Japanese*
 
-citing Bloomfield https://www.jstor.org/stable/410208 p238ff. System with six different syntactic functions
+Bernard Bloch (1907–1965) was a professor for linguistics in Yale.
+
+writes succinct overview about linguistic analysis together with George Trager (1906-1992) [@bloch1942]. There is no graphical approach to linguistic analysis, but they refer to Jespersen's *Analytic Syntax*, which they call "illuminating, but rather superficial" [@bloch1942: 82]
+
+Hierarchical structure with implied rewrite rules in [@bloch1946] citing Bloomfield extensively. Analysis of example text [@bloch1946: 238-248]. System with six different syntactic functions for the analysis of Japanese syntax
+
+- A: adverbial phrase
+- R: relational phrase ("noun phrase")
+- Q: quotational phrase ("complement clause")
+- P': final predicate
+- P": non-final predicate
+- E: Exclamation
+
+> The analysis of each sentence is given in outline form, so arranged that the analysis of a constituent element is in every case subordinated to that of the larger element in which it appears, and that every word in the sentence is mentioned in the outline once and once only. […] Two special symbols are used: a colon, to be read everywhere as 'consisting of' or 'in the form of'; and a plus sign to separate the immediate constituents of a construction. [@bloch1946: 238]
+
+::: {.im #bloch1946_243}
+Analysis of a Japanese sentence from Bloch [-@bloch1946: 243]. Bloch uses (i) colons to indicate that a label consists of parts, (ii) a plus symbol to indicate the parts of a constituent and (iii) indentation to highlight the hierarchical structure. [@fig:bloch1946_243_tree] shows a more modern tree-like representation of Bloch's analysis.
+:::
+
+::: {.tree #bloch1946_243_tree}
+Hierarchical representation of the analysis from Bloch [-@bloch1946: 243] as shown in [@fig:bloch1946_243]. Note that the order of the actual Japanese words in Bloch's original is not the order in the sentence. However, when his representation is interpreted as a hierarchical tree, as shown here, then the order of the sentence is perfectly represented.
+:::
 
 ## Harris (1946) *From morpheme to utterance* {#sec:harris1946}
 
+Zellig Sabbettai Harris (1909-1992) was a professor for linguistics at the university of Pennsylvania in Philadelphia
+
+He worked on Semitic languages in the 1930s, but starting in the 1940s he published on topics in general linguistic, starting a lifelong interest in formal and computational approaches to language structure.
+
+
+
 This system was already introduced in [@harris1946]! Cites Jespersen 1937 on p. 177, also Bloomfield, Pike, Bloch
 
-Also in *Methods in structuralist linguistics* (1951), this book is later called *Structural Linguistics* [@harris1963]
+Also in *Methods in structural linguistics* [@harris1951], this book is later called *Structural Linguistics* [@harris1963]. Preface is signed in 1947, indicating that this book was finished much earlier than the publication date suggests.
 
-examples of IC: *my most recent plays closed down* (p278-279) analysed as follows, with number of dots representing separation. Reversed bloomfield approach: more dots are "larger" separation
+examples of IC: *my most recent plays closed down* (p278-279) analysed as follows, with number of dots representing separation. Reversed bloomfield approach: more dots are "larger" separation. Cites Wells (who uses bars like bloomfield) and Quine for the dots (using a tradition in mathematics going back to )
 
-T :: D . A : N² :. -s :.: V¹ . Pb : -ed
+> If we use dots between class markers, with a greater number of inter-class dots to represent immediate constituent divisions at an earlier stage, we can indicate all five stages of successive subdivision of this utterance [@harris1951: 279 fn.]
 
-Complete rewrite rules (in Chomskian format, harris writes them from right to left). Note the strange early past suffix insertion. but wihtout the notation for a complete sentence
+::: {.im #harris1951_279}
+Representation of the immediate constituents from Harris [-@harris1951: 279 fn.], 
+:::
 
-Utterance → N⁴V⁴
-N⁴ → TN³
-N³ → N²-s
-N² → AN²
-A → DA
-V⁴ → V²-ed
-V² → V¹Pb
+Complete rewrite rules (in Chomskian format, harris writes them from right to left). Note the strange early past suffix insertion (should have been at the V1 stage).
 
-Insertion
+~~~
+Determination:
+
+N⁴V⁴ = Utterance
+TN³ = N⁴
+N²-s = N³
+AN² = N²
+DA = A
+V²Vv = V⁴
+V¹Pb = V²
+
+Representation:
 
 T = my
 D = most
 A = recent
 N² = play
 V¹ = close
+Vv = -ed
 Pb = down
+~~~
 
-see also the schemas on pp. 350, 353: more like "potential" structures, not actual sentence analyses
+::: {.tree #harris1951_279_tree}
+Tree representation of the rewrite rules ("determination") from Harris [-@harris1951: 278-279].
+:::
 
-[ === rsyntaxtree
-[Utterance
-  [N⁴
-    [T my]
-    [N³
-      [N²
-        [A 
-          [D most]
-          [A recent]
-        ]
-        [N² play]
-      ]
-      \-s
-    ]
-  ]
-  [V⁴
-    [V²
-      [V¹ close]
-      [Pb down]
-    ]
-    \-ed
-  ]
-]
-=== ]:
+see also the schemas on pp. 350 (English syntax), 353 (Arabic morphology): more like "potential" structures, not actual sentence analyses. Only for bound morphology? Already for Delaware morphology in [@harris1947: 185]. Cf similar diagram for morphophonetics of English syllables on p. 153
 
 ## Wells (1947) *Immediate constituents*
 
@@ -505,21 +517,13 @@ graphics in [@fries1952: 272] (Pike is a student of Fries, Fries might have been
 
 [@barhillel1953] english explanation of [@ajdukiewicz1935]
 
-## Gleason (1955) *An introduction to descriptive linguistics*
+## Chomsky (1953) *Systems of syntactic analysis* 
 
-Henry Allan 'Al' Gleason Jr. (April 18, 1917 – January 13, 2007)
+first generative rewrite rules following Harris  in [@chomsky1953]. "The constructions of this paper are roughly coextensive with the procedures of [Harris [@harris1951]]" [@chomsky1953: 242 fn.]. Discussion of IC on p. 247, fn. 13. No concrete linguistic examples are discussed.
 
-[@gleason1955: 129-131] also accompanying workbook (no graphics)
+"we will call the immediate constituents, their immediate constituents, etc., down to ultimate constituents, simply the *constituents* of the language." [@chomsky1953: 252 fn. 20]
 
-second edition from 1961 extended, Chomsky mentioned in introduction [@gleason1961]. Includes generation and transformation. But still the old IC-stuff as well [@gleason1961]
-
-[@gleason1965] very open description: Ch7 on Reed/Kellog and other approaches, but also many chapters on TGG
-
-## Chomsky (1955) *The logical structure of linguistic theory*
-
-note: first generative rewrite rules following Harris already in [@chomsky1953].
-
-[@chomsky1955]
+[@chomsky1955] *The logical structure of linguistic theory*
 
 Chomsky (1955: 277) Note the reversal of the usage of dashes, here more alike to brackets.
 
@@ -532,6 +536,16 @@ line diagrams, but without actual words: 205-206, 214-215, 222, 232, 734-735
 also in [@chomsky1975: 181, 229, 258] https://archive.org/details/logicalstructure00noam
 
 First trees in [@chomsky1956: 117-118], based on boxed table from Pike/Fries/Hockett
+
+## Gleason (1955) *An introduction to descriptive linguistics*
+
+Henry Allan 'Al' Gleason Jr. (April 18, 1917 – January 13, 2007)
+
+[@gleason1955: 129-131] also accompanying workbook (no graphics)
+
+second edition from 1961 extended, Chomsky mentioned in introduction [@gleason1961]. Includes generation and transformation. But still the old IC-stuff as well [@gleason1961]
+
+[@gleason1965] very open description: Ch7 on Reed/Kellog and other approaches, but also many chapters on TGG
 
 ## Hockett (1958) *A course in modern linguistics*
 

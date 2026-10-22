@@ -190,6 +190,21 @@ more?
 - https://academic.oup.com/edited-volume/62210/chapter/550164521
 - https://en.wikipedia.org/wiki/An_Essay_Towards_a_Real_Character,_and_a_Philosophical_Language
 
+## Crombie (1802) *A treatise on the etymology and syntax of the English language*
+
+Alexander Crombie (1762-1840) https://en.wikipedia.org/wiki/Alexander_Crombie
+
+Use of vertical bars for separation, probably originally 1802, cited here from the second edition:
+
+> Complex sentences are divided into members; and these, if complex, are subdivided into clauses, as, "The ox knoweth his owner | and the ass his master's crib || but Israel doth not know | my people doth not consider." This complex sentence has two members, each of which contains two clauses. [@crombie1809: 234]
+
+- first edition 1802
+- second edition 1809/1810
+- third edition 1830:226 https://google.com/books?id=uP0RAAAAIAAJ
+- fourth edition (1836:176) https://www.loc.gov/item/43047733/ 
+- fifth edition (1843:162) https://google.com/books?id=Tx1AAAAAYAAJ
+- seventh edition (1853:162) https://www.loc.gov/item/11008559/
+
 ## Wilbur & Livingston (1814) *The grammatical alphabet* {#sec:wilbur1814}
 
 Nothing is known about the authors Josiah Wilbur and William Livingston of the book *the grammatical alphabet* [@wilbur1814]. Library catalogues recurrently list William Livingston with the dates 1723-1790, which are the year of birth and death of the Founding Father, also called William Livingston. This well-known figure is unlikely to be the author of these grammatical treatise from 1814 and a later book from 1817 [@gorlach1998: 344 repeats the dates, but adds a questionmark behind the publication date of a book, indicating that he also considers the dates unconvincing]. William Livingston (the grammarian) could possibly be the son of William Livingston (the founding father) with the same name. The son lived between 1754–1817, which would fit the publication dates of the grammars. However, I have no clear evidence for this identification.

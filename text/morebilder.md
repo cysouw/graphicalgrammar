@@ -361,6 +361,10 @@ May tell why heaven has made us what we are. \
 
 [@bidlake1887: 149] Key to the analysis of this sentence
 
+## Ross (1869) *A system of elocution*
+
+Tables [@ross1869; @ross1870]
+
 ## Jevons (1870) *Elementary lessons in logic*
 
 William Stanley Jevons (1835-1882) was an economist and logician. In 1866 he became professor at Owens College in Manchester.^[A summary of his life and work is available at https://en.wikipedia.org/wiki/William_Stanley_Jevons, accessed 9 July 2026.] In his many publications, he touches on grammatical analysis only in his introductory textbook *Elementary lessons in logic* [@jevons1870: 88-97]. In chapter 11 "Logical analysis of sentences" he proposes his rather idiosyncretic interpretation of the "several excellent little works devoted to the subject" (citing Dalgleish, Morell and Bain). He explains his approach at diagramming as follows:

@@ -1,0 +1,53 @@
+# =============================
+# This file contains a hierarchically structured sentence
+# in the format of the RSyntaxTree tool.
+#
+# The format is documented here:
+# https://yohasebe.github.io/rsyntaxtree/documentation
+#
+# Use the following website to generate a graphical tree
+# https://yohasebe.com/rsyntaxtree/
+# =============================
+
+[<>
+  [A
+    [pseudo\-clause
+      [relational<>phrase
+        [noun<>expression
+          [phrasal<>modifier
+            [noun ***ozíisan̄***]
+            [referent<>particle ***no***]
+          ]
+          [noun ***kóe***]
+        ]
+        [referent<>particle ***o***]
+      ]
+      [pseudo\-predicate
+        [gerund<>verb ***kiite***]
+      ]
+    ]
+  ]
+  [R_1_
+    [noun ***obáasan̄***]
+    [referent<>particle ***wa***]
+  ]
+  [R_2_
+    [noun<>expression
+      [phrasal<>modifier
+        [noun ***uti***]
+        [referent<>particle ***no***]
+      ]
+      [noun ***náka***]
+    ]
+    [referent<>particle ***kára***]
+  ]
+  [P'
+    [indicative<>verb<>phrase
+      [gerund<>verb<>phrase
+        [gerund<>verb ***isóide***]
+        [gerund<>verb ***déte***]
+      ]
+      [indicate<>verb ***kimásita***]
+    ]
+  ]
+]
