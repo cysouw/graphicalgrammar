@@ -488,6 +488,9 @@ nothing in 1946 version! [@nida1946]
 sentence: [@nida1949: 87]
 hierarchical morphological structure p.101, both 105
 
+1946: Syntax, a descriptive analysis (not yet found)
+1951: Outline of descriptive syntax (not yet found)
+
 Nida (1960) *A synopsis of English syntax*
 
 [@nida1960] added images to 1943 dissertation, which did not have images
@@ -523,19 +526,31 @@ first generative rewrite rules following Harris  in [@chomsky1953]. "The constru
 
 "we will call the immediate constituents, their immediate constituents, etc., down to ultimate constituents, simply the *constituents* of the language." [@chomsky1953: 252 fn. 20]
 
-[@chomsky1955] *The logical structure of linguistic theory*
-
-Chomsky (1955: 277) Note the reversal of the usage of dashes, here more alike to brackets.
-
-Chomsky (1955: 316b) Similar to Pike/Fries/Hockett
-
 Chomsky cites Bar-Hillel (1953: 57)
 
-line diagrams, but without actual words: 205-206, 214-215, 222, 232, 734-735
+[@chomsky1955] *The logical structure of linguistic theory* He cites various linguistic literature (harris, halle, jakobson, bloch, bloomfield, wells, jespersen, nida's morphology and syntax)
+
+Chomky cites Nida "outline of English syntax", but he probably means "outline of descriptive syntax". In 1957 he cites "a synopsis of English syntax (1951)", which is the title of Nida's unpublished thesis from 1943. Corrected in published version (Chomsky 1975): it should be Nida's thesis!
+
+The only clear IC-citation is Wells 1947
+
+Chomsky (1955: 277) Note the reversal of the usage of dashes, here more alike to brackets. Similar to Bloomfield's approach!
+
+Chomsky (1955: 316a,b) Similar to Pike/Fries/Hockett, but these works are not cited (other works from these authors are cited)
+
+Derivation of example sentence 346-347
+
+line diagrams, but without actual words: "This may become clearer if we represent Q-derivations diagrammatically in an obvious way." 205-206, 214-215, 222, 232-234, 243, 734-735
+
+Morphology schemes p. 579-580 somewhat similar to Harris' approach to morphology?
 
 also in [@chomsky1975: 181, 229, 258] https://archive.org/details/logicalstructure00noam
 
-First trees in [@chomsky1956: 117-118], based on boxed table from Pike/Fries/Hockett
+First trees in [@chomsky1956: 117-118], based on boxed table from Pike/Fries/Hockett. In this paper (written for a non-linguistic audience) Chomsky does not cite any linguistic papers, but simply calls the linguistic tradition "customarily". He then gives a diagram in the tradition of Pike/Fries/Hockett.
+
+> Customarily, syntactic description is given in terms of what is called "immediate constituent analysis." In description of this sort the words of a sentence are grouped into phrases, there are grouped in smaller constituent phrases and so on, until the ultimate constituents (generally morphemes) are reached. These phrases are then classified as noun phrases (NP), verb phrases (VP). etc. [@chomsky1956: 116]
+
+Chomsky then asks "We now ask what form of grammar corresponds to this conception of linguistic structure" [@chomsky1956: 117] and proposes a set of rewrite rules like Harris, which he calls a "phrase-structure grammar". Giving an example ("the man took the book") he says "we can represent this […] graphically by constructing diagrams that correspond, in an obvious way, to derivations." [@chomsky1956: 117]
 
 ## Gleason (1955) *An introduction to descriptive linguistics*
 
@@ -548,6 +563,8 @@ second edition from 1961 extended, Chomsky mentioned in introduction [@gleason19
 [@gleason1965] very open description: Ch7 on Reed/Kellog and other approaches, but also many chapters on TGG
 
 ## Hockett (1958) *A course in modern linguistics*
+
+Immediate constituents as "Item and Arrangement (IA)" approach [@hockett1954] no graphics
 
 [@hockett1958: 151-155, 178-180, 188-189]
 
