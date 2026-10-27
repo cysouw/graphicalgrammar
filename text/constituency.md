@@ -4,7 +4,11 @@
 
 First phase 1880-1900, probably related to newly developed algebraic logic
 
-Second origin: 1933-1937 (Bloomfield 1933, Hansen 1933, Ajdukiewicz 1935, Drach 1937, Hjelmslev 1937) New structuralist/synchronic approach? First most explicit in phonology, then morphology and only slowly focussing on syntax.
+Second origin: 1933-1937 (Bloomfield 1933, Hansen 1933, Ajdukiewicz 1935, Drach 1937, Jespersen 1937) why so late, this new structuralist/synchronic approach? First most explicit in phonology, then morphology and only slowly focussing on syntax.
+
+General idea of modifier-modified pairing, each of which can in turn be itself such a pairing recursively. Wundt uses S/P, taken over by Jespersen, who suggests I/II instead (so not to invoke the meanings "subject" and "predicate"). I/II also used by Hansen.
+
+Bally uses *determiné T* and *determinant T'* as the two parts of a *syntagme*, also used by Mikuš.
 
 # Origins
 
@@ -297,7 +301,7 @@ vil meddele om denne størrelse. [@hansen1933: 22]
 >
 > ('A message consists of two necessary elements: a statement of the quantity you want to communicate, and a statement of what you want to communicate about this quantity.')
 
-The graphical illustrations in his book only deal with the internal structure of the part B, although this might be a coincidence due to the sparse usage of the illustrations. Hansen uses three different graphical approaches, all intended to illustrate hierarchical modification of constituents. The first approach is a "chinese boxes" or "Matryoshka dolls" visualisation in which modifiers are hierachically organised by drawing enclosing circles or boxes. One of his drawings is shown here in [@fig:hansen1933_93a] for a small part of the example [@next a]. Hansen's second approach is particularly innovative, and I have not seen anything like this before or since. As shown in [@fig:hansen1933_93b] Hansen draws a *Planetskemaet* 'planetary scheme', in which a modifier is metaphorically compared to a planet or moon circling around another celectial body. 
+The graphical illustrations in his book only deal with the internal structure of the part B, although this might be a coincidence due to the sparse usage of the illustrations. Hansen uses three different graphical approaches, all intended to illustrate hierarchical modification of constituents. The first approach is a "chinese boxes" or "Matryoshka dolls" visualisation in which modifiers are hierachically organised by drawing enclosing circles or boxes. One of his drawings is shown here in [@fig:hansen1933_93a] for a small part of the example [@next a]. Hansen's second approach is particularly innovative, and I have not seen anything like this before or since. As shown in [@fig:hansen1933_93b] Hansen draws a *Planetskemaet* 'planetary scheme', in which a modifier is metaphorically compared to a planet or moon circling around another celectial body. (foreshadowed by Brassai, worked out in detail by Rehling)
 
 Finally, he also uses a more 'regular' visualisation using hierarchically ordered brackets, with a Roman numeral I for the modified element and a Roman numeral II for the modifier. This approach is shown in [@fig:hansen1933_105] for part of the sentence [@next b]. The use of Roman numerals is probably taken from Jespersen's *rang* notation [@jespersen1913: 31]. The hierarchical brackets are also found in Jespersen's work (see [@sec:jespersen1921]), but Jespersen never seems to have applied this visualisation as consistently as Hansen does here (see [@sec:jespersen1921]).
 
@@ -642,6 +646,12 @@ In 1951 Rahn gave a presentation about the didactical renewal of grammar, which 
 Proposal for underlining and color-use for sentence analysis on the blackboard by Rahn & Pfleiderer [-@rahn1951a: 20].
 :::
 
+## Züllig (1940) *Neubau der Sprachschule*
+
+Louis Züllig from St. Gallen
+
+Cited by Glinz as an influence p.155: https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/2307/file/Grammatische_Terminologie_in_Sprachbuch_und_Unterricht_1987.pdf
+
 ## Glinz (1948) *Die innere Form des Deutschen* {#sec:glinz1952}
 
 Inspiration from Louis Züllig? <https://dls.staatsarchiv.sg.ch/records/686860>
@@ -867,7 +877,7 @@ Analysis of *syntagme* based on Saussure, who proposes a binary structure of syn
 
 > D'une part, dans le discours, les mots contractent entre eux, en vertu de leur enchaînement, des rapports fondés sur le caractère linéaire de la langue, qui exclut la possibilité de prononcer deux éléments à la fois. Ceux-ci se rangent les uns à la suite des autres sur la chaîne de la parole. Ces combinaisons qui ont pour support l'étendue peuvent être appelées *syntagmes*. Le syntagme se compose donc toujours de deux ou plusieurs unités consécutives (par exemple: *re-lire ; contre tous; la vie humaine ; Dieu est bon; s'il fait beau temps, nous sortirons,* etc.). [@saussure1916: 170]
 >
-> ('Words as used in discourse, strung together one after another, enter into relations based on the linear character of languages. Linearity precludes the possibility of uttering two words simultaneoudly. They must be arranged consecutively in spoken sequence. Combinations based on sequentiality may be called *syntagmas*. The syntagme invariably comprises two or more consecutive units: for example, *re-lire* ('re-read'), *contre tous* ('against all'), *la vie humaine* ('the life of man'), *Dieu est bon* ('God is good'), *s'il fait beau temps, nous sortirons* ('if it's fine, we'll go out'), etc.') [translation by Roy Harris, @saussure1983: 121]
+> ('Words as used in discourse, strung together one after another, enter into relations based on the linear character of languages. Linearity precludes the possibility of uttering two words simultaneously. They must be arranged consecutively in spoken sequence. Combinations based on sequentiality may be called *syntagmas*. The syntagme invariably comprises two or more consecutive units: for example, *re-lire* ('re-read'), *contre tous* ('against all'), *la vie humaine* ('the life of man'), *Dieu est bon* ('God is good'), *s'il fait beau temps, nous sortirons* ('if it's fine, we'll go out'), etc.') [translation by Roy Harris, @saussure1983: 121]
 
 Bally adding notion *déterminant* and *déterminé*
 
