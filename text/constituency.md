@@ -652,6 +652,8 @@ Louis Züllig from St. Gallen
 
 Cited by Glinz as an influence p.155: https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/2307/file/Grammatische_Terminologie_in_Sprachbuch_und_Unterricht_1987.pdf
 
+Nachrufe 1928-1941 im Archiv St. Gallen: https://dls.staatsarchiv.sg.ch/records/607691
+
 ## Glinz (1948) *Die innere Form des Deutschen* {#sec:glinz1952}
 
 Inspiration from Louis Züllig? <https://dls.staatsarchiv.sg.ch/records/686860>

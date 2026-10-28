@@ -1534,9 +1534,11 @@ Wohlklingende Töne locken sie aus ihrem Versteck und lassen sie alle Furchtsamk
 *Satzbild* for [@last] from Wilke [-@wilke1902: 19].
 :::
 
-A later book called *Schriftdeutsch und Volkssprache* [@wilke1903] is a textbook for teacher's seminaries. There are no diagrams as discussed previously in this book, but there is a discussion of the stucture of long sentences with many subordinate clauses [@wilke1903: 123-124]. To examplify (and criticize) the structure of such long sentences, Wilke uses indentation to illustrate the structure of the clausal subordination. An example is shown in [@fig:wilke1903_124] for the example in [@next]. Wilke remarks on this sentence:
+A later book called *Schriftdeutsch und Volkssprache* [@wilke1903] is a textbook for teacher's seminaries. There are no diagrams, but there is a discussion of the stucture of long sentences with many subordinate clauses [@wilke1903: 123-124]. To examplify (and criticize) the structure of such long sentences, Wilke uses indentation to illustrate the structure of the clausal subordination. An example is shown in [@fig:wilke1903_124] for the example in [@next]. Wilke remarks on this sentence:
 
-> Werden Nebensätze oder gleichwertige Satzteile mehrfach zwischen Teile des Hauptsatzes oder eines Nebensatzes eingeschoben, so wird er zerhackt und unübersichtlich [@wilke1903: 124]
+> Werden Nebensätze oder gleichwertige Satzteile mehrfach zwischen Teile des Hauptsatzes oder eines Nebensatzes eingeschoben, so wird er zerhackt und unübersichtlich. [@wilke1903: 124]
+>
+> ('When subordinate clauses or other sentence elements are inserted multiple times within the parts of a main clause or another subordinate clause, the sentence becomes fragmented and difficult to follow.')
 
 ::: ex
 Wilke [-@wilke1903: 124], citing Adalbert Stifter's *Der Waldsteig*
@@ -1553,9 +1555,11 @@ Endlich brachte er es so weit, \
 Analysis of a *Schachtelsatz* [@last] from Wilke [-@wilke1903: 124] using indentation to illustrate the structure of the clausal subordination. He remarks that an example with a structure as attested in this example is difficult to understand. In a footnote Wilke complains, that the edition of the text he used did not have a comma after *hinausfuhr*, which makes the sentence even more difficult to interpret.
 :::
 
-The book *Der Sprachformenunterricht in der Volks- und Mittelschule* [@wilke1909] is intended for teachers, accompanying the new edition of his *Sprachhefte*.
+The book *Der Sprachformenunterricht in der Volks- und Mittelschule* [@wilke1909] is intended for teachers, accompanying the new edition of the *Sprachhefte*. Here he argues that a proper knowledge of syntactic structure is important for the development of expression. Wilke explicitly mentions Kern here:
 
 > Das Höchste, was die Satzlehre in der Schule leisten kann und soll, ist also dieses, daß sie dem Kinde das Gefühl für Abrundung und Vollständigkeit des Gedankenausdrucks gibt und ihm beim Hören, Lesen, Schreiben den Überblick über die Gedankengebilde erleichtert. […] Das die richtig betriebene Satzlehre solches leisten kann, das hat namentlich Franz Kern betont […]. [@wilke1909: 153]
+>
+> ('The greatest achievement that the study of syntax in schools can and should aim for is to provide the child with a sense of the roundedness and completeness of an expressed thought, while also making it easier for them to grasp the overall structure of ideas when listening, reading, or writing. […] Franz Kern, in particular, has emphasized that the study of syntax—when taught correctly—can indeed accomplish this […].')
 
 In this book Wilke spends a long section on grammatical analysis, using graphical methods throughout [@wilke1909: 153-169]. As an example he goes through part of Liliencron's story *Unter flatternden Fahnen* sentence by sentence.^[The complete text of Liliencron's story is available online at <https://hdl.handle.net/11858/00-1734-0000-0003-EE45-A>.] Most analyses are in the vein of Kern, like the examples discussed previously. However, there is one example in which Wilke uses the tradition of the *Periodenbilder*, abbreviating each clause of a multi-clause sentence with letters, as shown in [@fig:wilke1909_157]. In the tradition of Diesterweg, he even proposes to illustrate subordination by placing subordinated clauses lower on the page.
 
@@ -1569,14 +1573,14 @@ Wilke [-@wilke1909: 155-156], citing Detlev von Liliencron's *Unter flatternden 
 *Übersicht des Satzgefüge* for [@last] from Wilke [-@wilke1909: 157]. This is the only example by Wilke of using the tradition of the *Periodenbild* using letters as abbreviations for clauses in a multi-clause sentence.
 :::
 
-*Unsere Muttersprache* in 1925, revision in 1928 with Gustav Stephan [@stephan1928] (maybe after Wilke's death?). Basically the same Satzbild as in [@fig:wilke1902_19] in [@stephan1928: 112]. Variation on the Periodenbild from [@fig:wilke1909_157].
+Later in life, Wilke writes another textbook for middle schools, called *Unsere Muttersprache* [@wilke1925], which was revised in 1928 by Gustav Stephan [-@stephan1928], maybe after Wilke's death. Basically the same kind of *Satzbild* as in [@fig:wilke1902_19] is used, though using different example sentences [@wilke1925: 165; @stephan1928: 112]. For complex sentences, Wilke [-@wilke1925: 169] uses the same abbreviations as on the top of [@fig:wilke1909_157]. In the revision by Stephan, a new visualisation is added as shown in [@fig:stephan1928_117] for the example sentence in [@next].
 
 ::: ex
 [a]{.grey} Kam ein Zug, [A]{.grey} so neigte das Vöglein sein Köpfchen, [a]{.grey} bis der letzte Wagen vorüber war, [A]{.grey} und schate dann wieder heiter um sich.
 :::
 
 ::: {.im #stephan1928_117}
-[@stephan1928: 117]
+Updated visualisation of the subordination structure of complex sentences from Stephan & Wilke [-@stephan1928: 117]. This is clearly inspired by earlier visualisations by Wilke, as shown in [@fig:wilke1909_157].
 :::
 
 ## Kuderna (1895) *Das Satzbild in seiner Anwendung* {#sec:kuderna1985}
