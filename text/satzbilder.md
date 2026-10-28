@@ -2226,6 +2226,19 @@ Berufen ist zum blut'gen Werk der Waffen. \
 *Periodenbau* for the example from Schiller in [@last] as analysed by Pfannkuchen [-@pfannkuchen1914: 60]. The vertical dimension indicates depth of embedding, the left-to-right ordering corresponds to the actual ordering of the clauses. Abbreviations apparently mean: *Ausſ.=Aussagesatz*, *Kondſ.=Konditionalsatz*, *Relſ.=Relativsatz*. The plus-symbol marks coordination. The dots indicate that the clause is separated by another subordinated clause.
 :::
 
+## Behagel (1932) *Deutsche Syntax*
+
+In Behagel's work I can only find a single example, an analysis that he calls *mathematisch ausgedrückt* 'mathematically expressed'
+
+He distinguishes many different kinds of structures, but only for one he uses such a formula.
+
+> Ein Satz kann mit zwei untergeordneten Sätzen so verbunden werden, daß der eine Nebensatz den übergeordneten Satz bestimmt, der zweite die Summe aus
+dem übergeordneten und diesem anderen Nebensatz. [@behagel1932: 284]
+
+::: {.im #behagel1932_284}
+*Mathematischer Ausdruck* from Behagel [-@behagel1932: 284].
+:::
+
 ## Diemke (1940) *Die Entstehung des hypotaktischen Relativsatzes*
 
 Willy Diemke (1911-???) memo by Diemke cited from 1952 here: https://www.tandfonline.com/doi/full/10.1080/23801883.2024.2303074

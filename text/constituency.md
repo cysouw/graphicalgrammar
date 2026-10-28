@@ -654,6 +654,8 @@ Cited by Glinz as an influence p.155: https://ids-pub.bsz-bw.de/frontdoor/delive
 
 Nachrufe 1928-1941 im Archiv St. Gallen: https://dls.staatsarchiv.sg.ch/records/607691
 
+simple subject-predicate visualisation [@zullig1940: 113], in which predicate contains everything in the sentence, except the subject.
+
 ## Glinz (1948) *Die innere Form des Deutschen* {#sec:glinz1952}
 
 Inspiration from Louis Züllig? <https://dls.staatsarchiv.sg.ch/records/686860>
@@ -954,6 +956,7 @@ Penknife with corkscrew
 
 After moving to Zadar, Mikuš wrote various further papers, but he basically recapitulates his earlier ideas [@mikus1960; @mikus1962]. He participated in a large international conference on syntax in Erfurt [@mikus1961] and gave lectures in various universities in the GDR.^[Two papers from these lectures were published in 1962, available online at <https://doi.org/10.1524/stuf.1962.15.14.127> and <https://doi.org/10.1524/stuf.1962.15.14.137>.] In the 1960s, he moved to Lubumbashi in Zaire (today Democratic Republic of the Congo), where he wrote a monograph collecting all his ideas together [@mikus1972], but no new ideas can be found here.
 
+# Other
 
 ## de Groot (1949) *Structural linguistics and syntactic Laws* {#sec:degroot1949}
 
