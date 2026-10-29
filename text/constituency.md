@@ -368,15 +368,70 @@ Immediate constituents
 
 ## Sheffield (1912) *Grammar and thinking* {#sec:sheffield1912}
 
-Alfred Dwight Sheffield (1871-1961) [@sheffield1912: 50-51] Grammar and Thinking (citing Wundt prominently) Brittain (1973:204) says “linguists seem to have been unaware of his work”. This is not true!
+Alfred Dwight Sheffield (1871-1961) was a professor at Wellesley College in Massachusetts. Some basic biographical information is presented by Subbiondo [-@subbiondo2025: 2-3]. Today, Sheffield is not widely known in the field of linguistics and already Brittain [-@brittain1973: 204] said that "linguists seem to have been unaware of his work". However, this was surely not the case at the time when Sheffield was still active. His first book, *Grammar and thinking* [@sheffield1912], was reviewed by none other than Leonard Bloomfield, who was quite critical though [@bloomfield1912]. Also Otto Jespersen cites Sheffield's work contemporaneaously [@jespersen1913: 63, 84] and Eugene Nida cites Sheffield in his doctoral dissertation from 1943 [published as @nida1960: 30].
 
-Bio in [@subbiondo2025] Professor at Wellesley College, Massachusetts,
+Sheffield is strongly influenced by Wilhelm Wundt (see [@sec:wundt1880]), as he himself notes in the preface of *Grammar and thinking*: "to Wundt's *Völkerpsychologie* I owe more than can appear in express citations, for I derived from its study an orienting in the whole field" [@sheffield1912: vi]. Sheffield also cites Stöhr (see [@sec:stöhr1898]), but only as a footnote [@sheffield1910: 626; -@sheffield1912: 88].
 
-also [@sheffield1929: 53]
+In *Grammar and thinking* Sheffield sets out a ambitious approach to linguistic analysis, starting from the coherent structure of a paragraph. He uses a quotation from Edmund Burke in [@next] as an example of his proposed analysis. The structure of this paragraph is visualised by the diagram shown in [@fig:sheffield1912_50]. There are five sentences displayed vertically (indicated by Roman numerals), which consist of various "ideas" permeating them, visualised horizontally by the dotted lines. There are seven different "ideas", with additionally idea 3 ("descendants") being developed into idea 7 ("emigrated") and later into idea 9 ("took"). The thick lines indicate the actual ideas that are expressed in each sentence. The rounded endings are explained in the next [@fig:sheffield1912_51]. Sheffield also adds the letters S and P for subject and predicate in a manner reminiscent of Wundt.
 
-- Nida cites him in 1943 dissertation
-- Jespersen cites him in 1913 Sprogets Logic
-- review by Bloomfield, quite critical [@bloomfield1912]
+::: ex
+Sheffield [-@sheffield1912: 49], citing Edmund Burke's *Speech on conciliation with the colonies*
+
+First, the people of the colonies are descendants of Englishmen. England, Sir, is a nation which still I hope respects, and formerly adored, her freedom. The colonists emigrated from you when this part of your character was most predominant; and they took this bias and direction the moment they parted from your hands. They are therefore not only devoted to liberty, but to liberty according to English ideas, and on English principles.
+:::
+
+::: {.im #sheffield1912_50}
+*Diagram* for the structure of a paragraph [@last] from Sheffield [-@sheffield1912: 50]. The five sentences are shown vertically (Roman numerals), with various "ideas" cross-secting them horizontally (dotted lines). The actual ideas expressed in each sentence are marked by thick lines. The letters *S* and *P* are an indication of the influence from Wundt.
+:::
+
+The internal structure of each of the five sentences is further illustrated in [@fig:sheffield1912_51]. For example, the fifth sentence (V) consists of a subject *They* = *People* (1) + *of the colonies* (2), then the predicate *are devoted* (5) and the object consisting of the ideas *English* (4) and *liberty* (6). These elements are organised in a hierarchical structure using the same visualisation as proposed by Wundt.
+
+::: {.im #sheffield1912_51}
+Analysis of the sentence structure of the five sentences in [@last] from Sheffield [-@sheffield1912: 51]. The visual structure of this diagram shows the strong influence of Wundt, cf. [@fig:wundt1893_62].
+:::
+
+Is there a fold-out sheet between page 134 and 135?
+
+In his second book, *Command of sentence patterns*, Sheffield [-@sheffield1929: 51-59] goes into much more detail how to analyse sentences in practice according to the proposals from Wundt. A basic example of such an analysis is shown in [@fig:sheffield1929_53]. Besides the letters S and P for subject and predicate, Sheffield uses lowercase letters, starting with a and b, for further modification, in order of depth of modification. The (attributive) modifiers of the subject get the plain letters, while the modifiers of the predicate (including both adverbials and objects) are marked with an apostrophe.
+
+::: {.im #sheffield1929_53}
+"Pattern of sentence factors" from Sheffield [-@sheffield1929: 53].
+:::
+
+Later in the book Sheffield [-@sheffield1929: 270-273] shows how this approach can be used to analyse complex sentences, like the quotation from Jonathan Swift in [@next], analysed by the scheme in [@fig:sheffield1929_273]. However, he explains that this is a quite extreme version of such a grammatical analysis:
+
+> This sort of analysis should not be carried to pedantic lengths. But when applied now and then to sentences of somewhat involved structure, it affords a test of one’s grasp of grammatical patterning. [@sheffield1929: 273]
+
+In the visual representation, Sheffield includes a lot of grammatical details. However, just like many grammarians before him, his complex analyses contain various dubious decisions and some clear errors. In general, the practice of producing a visual analysis of a complex sentence easily results in errors: producing a picturial representation of grammatical structure does not seem to be a simplification of the analysis, but often adds complexity that can easily lead to errors.
+
+When presenting the example sentence itself, Sheffield already includes various analytical markers in the text, as reproduced in [@next] here. He uses small "hooks" as brackets to indicate something like constituents. However, he never uses the hooks for any hierarchical constituent structure: there is just a single level of constituent analysis. Note that, as reproduced below, Sheffield probably forgot to close and open again the constituent boundary between "poison" and "we".
+
+The use of the letters is similar to the simpl example discussed previously, with apostrophes being used for modifiers of the predicate (adverbials and objects). However, Sheffield now includes a difference between capitals S/P, small caps ~~S/P~~ and lowercase s/p, depending on the depth of embedding of the clauses, although the visual difference between the sizes is not easily discernible in the printed graphic. 
+
+Some of the expected capital letters are missing in the visual representation. The first part (before the double bar) has two predicates, but no subject. The intended analysis is that the clause with the small caps ~~s^⏜^p~~ at the start of the picture is the subject. However, Sheffield does not allow a letter above a grouping. The same problem arises at the right part (after the double bar), where the main capital S does not have a capital P counterpart. Again, the whole large part to the right of the S is probably supposed to be this P, the sentence being "the difference is that P". It would have been more consistent to add letters on top of a grouping in such cases.
+
+Finally, it is unclear why the adverbial non-finite clause "thus furnishing mankind … sweetness and light" is attached to the subject "we". Being adverbial, it would make more sense to attach it to the predicate "have chosen to fill our hives". However, then either ternary branching would be necessary (which Wundt and Sheffield do not allow) or a doubling of the predicate structure is necessary. Maybe Sheffields idea was that the non-finite verb "furnishing" has dropped the subject "we", and that this adverbial clause underlyingly thus has the same subject as the main clause. However, grammatically that is no argument to attach this adverbial clause to the subject of the main clause. This analysis is simply wrong.
+
+::: ex
+Sheffield [-@sheffield1929: 273], quoting Jonathan Swift *The battle of the books*
+
+˹whatever [~~s~~]{.grey} we [~~p~~]{.grey} have got˺ [P]{.grey} ˹has been of infinite labor and search˺, and [P^2^]{.grey} ranging [a']{.grey} ˹through every corner of nature˺; the [S]{.grey} difference is that, [b'']{.grey} ˹instead of dirt and poison, [~~s~~]{.grey} we [~~p~~]{.grey} have rather chosen˺ [a']{.grey} ˹to fill our hives˺ [b']{.grey} ˹with honey and wax˺; [a]{.grey} ˹thus furnishing mankind˺ [b]{.grey} ˹with the two noblest of things˺, ˹[s]{.grey} which are [p]{.grey} sweetness and light˺.
+:::
+
+::: {.im #sheffield1929_273}
+"Little picture of a clause scheme" for the complex sentence in [@last] from Sheffield [-@sheffield1929: 273]. This is a clear improvement over the linguistically rather faulty examples from Wundt (cf. [@fig:wundt1900_351a]), but there are still some dubious decision made and some aspects are clear errors.
+:::
+
+Finally, Sheffield introduced a visualisation of subordinate clauses by uses "force waves" [@sheffield1929: 290, 299] as shown in [@fig:sheffield1929_290] for the examples in [@next]. Sheffield compares the two different sentence structures with basically the same content and indicates that the graphic clearly shows the "monotony of (1) as compared to (2)" [@sheffield1929: 290].
+
+::: ex
+- One of the most promising of recent efforts at innovation in poetry is that which has been made by Mr. Vachel Lindsay, who is an American poet from Illinois. He hopes by his work to establish in verse the element of song, which he thinks of as a new element, although he is perhaps actually restoring an old one.
+- One of the most promising recent efforts at innovation in poetry has been made by an American poet from Illinois, Mr. Vachel Lindsay, who hopes by his work to establish in verse a new element—though actually restoring, perhaps, an old element—the element of song.
+:::
+
+::: {.im #sheffield1929_290}
+"Force wave" to illustrate the different subordination structure of the two examples in [@last] from Sheffield [-@sheffield1929: 290].
+:::
 
 ## Sapir (1921) *Language* {#sec:sapir1921}
 
