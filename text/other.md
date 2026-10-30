@@ -1,4 +1,4 @@
-# PART VI: Other traditions {.unnumbered}
+# PART V: Other traditions {.unnumbered}
 
 # Teaching grammar to the Deaf
 
@@ -184,6 +184,23 @@ Hori Hidenari (1819-87) 弖爾乎波略図義解
 - Kaisei Gokaku Zenzu Bunpan (1877) (改正語格全図 文範) https://www.wul.waseda.ac.jp/kotenseki/html/ho02/ho02_00626
 
 # Idiosyncratic approaches
+
+## Holmes (1873) First lessons in English grammar
+
+[@holmes1873]
+
+Holmes seems to be this person: https://en.wikipedia.org/wiki/George_Frederick_Holmes
+
+The internet archive has various books digitised, also a grammar from 1871 (which is a new edition, the original is from around 1867), but this one does not yet have the illustrations:
+
+https://archive.org/details/grammarofenglish00holm
+(Also at library of congress: https://www.loc.gov/item/11005884/)
+
+The text on active/passive voice on page 109 is almost the same as in your image from the 1873 version. So, he probably took the grammar and made a more accessible version of it with illustrations.
+
+Holmes cites many different grammars available at the time, among them Clark and Greene
+
+More digital works by him here: https://onlinebooks.library.upenn.edu/webbin/who/Holmes%2C%20George%20Frederick%2C%201820-1897
 
 ## Foerster & Steadman (1919) *Sentences and thinking* {#sec:foerster1919}
 

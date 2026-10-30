@@ -1,4 +1,4 @@
-# PART II: *Satzbilder* {.unnumbered}
+# PART II: Satzbilder {.unnumbered}
 
 # Reinvigorating syntactic analysis
 
@@ -84,7 +84,7 @@ The desire to summarise the structure of a complex *Periode* is a crucial starti
 
 Adolf Diesterweg [-@diesterweg1834, see [@sec:diesterweg1830]] adopted Lehmann's terminology and added the term *Satzbild* for the structure of a monoclausal sentence. The two terms *Periodenbild* and *Satzbild* return throughout the 19th century in German grammars, although they start being used rather interchangeably. Even though many authors distinguish between two different graphical analyses, one for single-clause sentences and one for multi-clause sentences, Diesterweg's terminological distinction did not persist and most authors simply use the term *Satzbild* for both analyses. Linguistic *Bilder* remain virulent up to the present, the term *Periodenbild* gradually faded away from linguistic memory at the start of the 20th century.
 
-# A Frankfurt origin {#sec:frankfurt}
+# A Frankfurt origin (1820-1835) {#sec:frankfurt}
 
 ## The *Frankfurtische Gelehrtenverein*
 

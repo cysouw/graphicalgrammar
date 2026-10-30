@@ -1,7 +1,3 @@
-# PART III: *Satzbilder* everywhere {.unnumbered}
-
-# A spreading tradition
-
 # Britain
 
 - General overview: Michael in [@leitner1991]

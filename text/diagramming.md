@@ -1,4 +1,4 @@
-# PART IV: Diagramming {.unnumbered}
+# PART III: Diagramming {.unnumbered}
 
 # A new grammar for a new country
 
@@ -12,6 +12,8 @@ Check further examples listed in [@schweiger2019: 76-78], see also discussion in
 - https://catalog.mwa.org/index.html
 - https://gigi.mwa.org/imagearchive/fileName/198799_0001.tif
 - https://gigi.mwa.org/imagearchive/fileName/253954_0001.tif
+
+# A Mid-Atlantic origin (1825-1855)
 
 ## Brown (1826) *The American system of English grammar* {#sec:brown1826}
 
@@ -339,24 +341,7 @@ Third, the visual approach of Gengembre and Brown is reminiscent of the symbols 
 
 > The characters employed in parsing occupy but little space, and can be used on the black board with great advantage and convenience. [@gengembre1855: vi]
 
-## Holmes (1873) First lessons in English grammar
-
-[@holmes1873]
-
-Holmes seems to be this person: https://en.wikipedia.org/wiki/George_Frederick_Holmes
-
-The internet archive has various books digitised, also a grammar from 1871 (which is a new edition, the original is from around 1867), but this one does not yet have the illustrations:
-
-https://archive.org/details/grammarofenglish00holm
-(Also at library of congress: https://www.loc.gov/item/11005884/)
-
-The text on active/passive voice on page 109 is almost the same as in your image from the 1873 version. So, he probably took the grammar and made a more accessible version of it with illustrations.
-
-Holmes cites many different grammars available at the time, among them Clark and Greene
-
-More digital works by him here: https://onlinebooks.library.upenn.edu/webbin/who/Holmes%2C%20George%20Frederick%2C%201820-1897
-
-# Diagramming
+# Vertical subject-predicate
 
 Check Nietz (1961) https://digital.library.pitt.edu/islandora/object/pitt%3A00aep6688m/viewer
 
@@ -376,6 +361,65 @@ Diagramm of [@last] from Holbrook [-@holbrook1859: 174]
 
 complete grammar in 1873, same diagrams [@holbrook1873: 145-151] title "diagrammed analysis" nicer scan here (later version, same text and examples): [@holbrook1889: 221-227]
 
+## Butler (1874) *A practical and critical grammar*
+
+originally *A practical grammar* from 1845 without diagrams, see https://google.com/books?id=-khKAAAAIAAJ for 1846 revision [@butler1846] note: "The rules for the Analysis of Sentences have been taken, with some changes, from Andrews and Stoddard's Latin Grammar" (preface p.3) examples like Andrews/Stoddard on p220-221
+
+revised edition with slightly different name, with diagramming like Holbrook [@butler1874: 178-187]. Also interesting footnote in preface p5. "Mr. W. A. Boles suggests the following method of presenting syntax and etymology together. The abbreviations will be readily understood"
+
+Revised edition with original name *A practical grammar* in 1879 with diagrams [@butler1879: 168-177]
+
+## Lyte (1879) *Forms of parsing and analysis*
+
+first attempt [@lyte1879]
+
+expanded later in [@lyte1899; @lyte1898; @lyte1886]
+
+## Raub (1880) *Practical English grammar*
+
+vertical analysis [@raub1880a: 129-156] "written analysis"
+
+also [@raub1880; @raub1885] both referring to the first book as the origin. 1885 seems most comprehensive summary
+
+## Eubank (1881) *Key to Harvey's practical grammar*
+
+first edition 1881, cited here revised edition from 1885. Diagramming [@eubank1885: 113-200] "brace system"
+
+## Adams (1882) *Grammatical diagrams and analyses*
+
+[@adams1882] based on Holbrook and Harvey. Says Holbrook approach is widespread in America ?!
+
+## Sornberger (1884) *Normal language lessons*
+
+[@sornberger1884: 80] vertical SP-diagram like Holbrook (author is from a "Normal school")
+
+## Putnam (1885) *Supplementary lessons in English*
+
+original not yet found [@brittain1973: 118]
+
+## Wilson (1886) *The system of branching method*
+
+Isaac Eldridge Wilson
+
+- word-class tree: p. 488, 494 (see Blanchard: Wood 2000: 138, originally 1847? https://catalog.mwa.org/vwebv/holdingsInfo?searchId=3288&recPointer=0&recCount=10)
+https://www.loc.gov/item/2018757044/
+
+- diagrams: [@wilson1886: 544-554]
+
+## Robbins (1893) *Practical English grammar made easy*
+
+[@robbins1893] note: "revised edition", but earlier version cannot be found. Vertical diagrams all throughout
+
+## Gaines (1893) *Inductive grammar*
+
+original not yet found [@brittain1973: 156]
+
+Inductive Grammar. A Manual of Direction for the Study of English based on the Practical Grammar of Noble Butler by J. T. Gaines, O. B. Theiss 
+
+Note very short mentioning of Butler with a single unexplained grammatical diagram on p43 of *Principles in teaching* (1891) https://catalog.hathitrust.org/Record/009568553
+
+# Horizontal subject-predicate
+
 ## Chandler (1861) *A class book on English grammar and analysis*
 
 Z.M. Chandler https://www.hmdb.org/m.asp?m=5624 book published in Zanesville, Ohio
@@ -388,7 +432,7 @@ Z.M. Chandler https://www.hmdb.org/m.asp?m=5624 book published in Zanesville, Oh
 
 William Henry Parker (1845-1929), Principal of Ringgold Grammar School, Philadelphia
 
-original not yet found [cited in @brittain1973: 53], see <https://lccn.loc.gov/11017983> probably derived from Holbrook
+original not yet found [cited in @brittain1973: 53], see <https://lccn.loc.gov/11017983> Horizontal subject-predicate
 
 *A grammar of the English language, based upon the analysis of the English sentence, with copious examples and exercises in parsing and the correction of false syntax, and an appendix, containing critical and explanatory notes, and lists of peculiar and exceptional forms: for the use of schools and academies, and those who write.*
 
@@ -428,15 +472,6 @@ probably G.E. Lighthall (1872) *Introduction to analysis and parsing* with bubbl
 
 https://archive.org/details/analysisparsing00lighgoog/page/n20/mode/2up
 
-## Butler (1874) *A practical and critical grammar*
-
-originally *A practical grammar* from 1845 without diagrams, see https://google.com/books?id=-khKAAAAIAAJ for 1846 revision [@butler1846] note: "The rules for the Analysis of Sentences have been taken, with some changes, from Andrews and Stoddard's Latin Grammar" (preface p.3) examples like Andrews/Stoddard on p220-221
-
-revised edition with slightly different name, with diagramming like Holbrook [@butler1874: 178-187]. Also interesting footnote in preface p5. "Mr. W. A. Boles suggests the following method of presenting syntax and
-etymology together. The abbreviations will be readily understood"
-
-Revised edition with original name *A practical grammar* in 1879 with diagrams [@butler1879: 168-177]
-
 ## Reed & Kellog (1875) *Graded lessons in English* {#sec:reedkellog1875}
 
 https://www.letsdiagram.com
@@ -455,12 +490,6 @@ practical grammar [@harvey1868] no graphics. revised practical grammar [@harvey1
 ??? not found: Harvey (1900) *A new English grammar for schools* [@brittain1973: 178]. Note that there is a 1900 revision of the elementary grammar by Louise Connolly https://lccn.loc.gov/00002828
 
 original elementary grammar (1869) https://lccn.loc.gov/11006142, but no graphical grammar
-
-## Lyte (1879) *Forms of parsing and analysis*
-
-first attempt [@lyte1879]
-
-expanded later in [@lyte1899; @lyte1898; @lyte1886]
 
 ## Sanders (1879) *Analysis by diagrams*
 
@@ -483,20 +512,6 @@ version from 1880 also exists! [@ridpath1880]
 original not yet found [@brittain1973: 102] only cover page here from 1888 edition:
 https://digital.klnpa.org/digital/collection/philips/id/8878/
 
-## Raub (1880) *Practical English grammar*
-
-vertical analysis [@raub1880a: 129-156] "written analysis"
-
-also [@raub1880; @raub1885] both referring to the first book as the origin. 1885 seems most comprehensive summary
-
-## Eubank (1881) *Key to Harvey's practical grammar*
-
-first edition 1881, cited here revised edition from 1885. Diagramming [@eubank1885: 113-200] "brace system"
-
-## Adams (1882) *Grammatical diagrams and analyses*
-
-[@adams1882] based on Holbrook and Harvey. Says Holbrook approach is widespread in America ?!
-
 ## Vaughn (1883) *English grammar revolutionized and simplified*
 
 [@vaughn1883: 82-end] following reed/kellog
@@ -505,10 +520,6 @@ first edition 1881, cited here revised edition from 1885. Diagramming [@eubank18
 
 reed/kellog-style [@patterson1884: 206-220]
 
-## Sornberger (1884) *Normal language lessons*
-
-[@sornberger1884: 80] vertical SP-diagram like Holbrook (author is from a "Normal school")
-
 ## Irish (1884) *Grammar and analysis made easy*
 
 Frank Van Buren Irish [@irish1884] like reed/kellog
@@ -516,19 +527,6 @@ Frank Van Buren Irish [@irish1884] like reed/kellog
 "sander's system of diagrams' preface p. iii, note that Harvey has many diagrams himself
 
 other version? https://google.com/books?id=I8IBAAAAYAAJ
-
-## Putnam (1885) *Supplementary lessons in English*
-
-original not yet found [@brittain1973: 118]
-
-## Wilson (1886) *The system of branching method*
-
-Isaac Eldridge Wilson
-
-- word-class tree: p. 488, 494 (see Blanchard: Wood 2000: 138, originally 1847? https://catalog.mwa.org/vwebv/holdingsInfo?searchId=3288&recPointer=0&recCount=10)
-https://www.loc.gov/item/2018757044/
-
-- diagramming: [@wilson1886: 544-554]
 
 ## Welsh (1887) *Lessons in English grammar*
 
@@ -561,7 +559,7 @@ https://books.google.de/books?id=dJAOAAAAYAAJ&printsec=frontcover&hl=de#v=onepag
 
 ## Greene (1888) *Inductive language lessons*
 
-Harris R. Greene [@greene1889: 36, 41, 49, etc.]. combination of "reverse" tree and symbols below the worlds.
+Harris R. Greene [@greene1889: 36, 41, 49, etc.]. combination of "reverse" tree and symbols below the worlds. horizontal subject-predicate
 
 first printing from 1888, cited here unchanged 1889 version
 
@@ -583,7 +581,7 @@ rather different kind of diagrams from the other traditions. Own invention? Gram
 
 ## Gauss & Hodge (1890) *A comprehensive English grammar*
 
-word-analysis (phonetics, orthography, syllables), parsing (word classes, morphology), sentence-analysis (syntax, "scheme" p.304), scanning (prosody)
+word-analysis (phonetics, orthography, syllables), parsing (word classes, morphology), sentence-analysis (syntax, "scheme" p.304), scanning (prosody) [@gauss1890]
 
 "They [the authors] also claim, as a new and good feature, the Syntax Tree; which follows and, as an illustration, explains Sentence-analysis in Part Third." (p. vi)
 
@@ -604,18 +602,6 @@ analysis simple sentences similar to reed/kellog but not identiacl 52-58, comple
 ## Pendleton (1891) *Diagrams for grammar analysis*
 
 original not yet found [@brittain1973: 151]
-
-## Robbins (1893) *Practical English grammar made easy*
-
-[@robbins1893] note: "revised edition", but earlier version cannot be found. Vertical diagrams all throughout
-
-## Gaines (1893) *Inductive grammar*
-
-original not yet found [@brittain1973: 156]
-
-Inductive Grammar. A Manual of Direction for the Study of English based on the Practical Grammar of Noble Butler by J. T. Gaines, O. B. Theiss 
-
-Note very short mentioning of Butler with a single unexplained grammatical diagram on p43 of *Principles in teaching* (1891) https://catalog.hathitrust.org/Record/009568553
 
 ## Buck (1894) *English grammar and analysis*
 

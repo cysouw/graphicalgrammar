@@ -1,6 +1,6 @@
-# PART V: Constituency {.unnumbered}
+# PART IV: Constituency {.unnumbered}
 
-# Brackets and boxes
+# Algebraic grammar
 
 First phase 1880-1900, probably related to newly developed algebraic logic
 
@@ -10,7 +10,7 @@ General idea of modifier-modified pairing, each of which can in turn be itself s
 
 Bally uses *determiné T* and *determinant T'* as the two parts of a *syntagme*, also used by Mikuš.
 
-# Origins
+# Logical origins (1880-1900)
 
 see also hierarchical braces in [@stein1890: 92], revised by Binstorfer. Also Zikmund/Gebauer
 
@@ -20,7 +20,7 @@ Wilhelm Maximilian Wundt (1832-1920), professor in Leipzig, was one of the found
 
 Wundt approaches grammatical structure in very broad and general terms. Consequently, his graphical analysis is not so much rooted in a detailed analysis of grammatical structure but rather in a-priori logical analysis, which is then applied to language. The basic unit of his analysis is the *apperceptive Verbindung* 'apperceptive connection'. The notion of apperception has a long history in the philosophy of mind, dating back at least to Leibniz.
 
-Wundt takes an almost algebraic approach to the analysis of apperception, which  might have been influenced by the "formulas" of apperceptive structures as used by Steinthal [-@steinthal1871: 198-204, 254, 388, 407-428], though Wundt does not cite this aspect of Steinthal's work (but Wundt cited Steinthal in other contexts). Incidentally, Wundt's *Logik* appears just a year after Frege's *Begriffsschrift* [@frege1879], which also uses graphical representations of logical formulas, though there does not seem to have been any direct influence from Frege on Wundt's thinking [see @picardi2022: 24-26 for the relatively positive view of Frege about Wundt's philosophical approach to logic and language]. Wundt's algebraic approach to the structure of thought has to considered in the wake of the highly influential book *Laws of Thought* by Boole [-@boole1954]. Wundt does not directly cite Frege nor Boole.
+Wundt takes an almost algebraic approach to the analysis of apperception, which might have been influenced by the "formulas" of apperceptive structures as used by Steinthal [-@steinthal1871: 198-204, 254, 388, 407-428], though Wundt does not cite this aspect of Steinthal's work (but Wundt cited Steinthal in other contexts). Incidentally, Wundt's *Logik* appears just a year after Frege's *Begriffsschrift* [@frege1879], which also uses graphical representations of logical formulas, though there does not seem to have been any direct influence from Frege on Wundt's thinking [see @picardi2022: 24-26 for the relatively positive view of Frege about Wundt's philosophical approach to logic and language]. Wundt's algebraic approach to the structure of thought has to considered in the wake of the highly influential book *Laws of Thought* by Boole [-@boole1954]. Wundt does not directly cite Frege nor Boole.
 
 For Wundt, an apperceptive connection is the basic building block of a thought, indicated visually by a connecting arch. Such a connection is introduced analytically top-down, as for Wundt a thought starts as a *Gesammtvorstellung* 'complete idea', which is subsequently divided into parts. There appears to be a direct through-line from Wundt's apperceptive connections as divisions of larger elements to the 20th century concept of syntactic "immediate constituents" first proposed by Blooomfield in 1933 (see [@sec:bloomfield1933]).
 
@@ -78,15 +78,15 @@ Graphical analysis of [@last a] from Wundt [-@wundt1900b: 351]. The capital lett
 Graphical analysis of [@last b] from Wundt [-@wundt1900b: 351]. He introduces (without explanation) round brackets for non-repeated subjects on the left side. This graphical analysis seems to use to old tradition to reserve capital letters for main clauses and lowercase letters for subordinate clauses, a convention originally introduced by Lehmann in 1833 (see [@sec:lehmann1833]). However, this convention is never explained by Wundt.
 :::
 
-These syntactic analyses by Wundt are very inprecise and inconsistent, indicating that Wundt was not really interested in the minute details of the syntactic structure of these sentences. He appears to be confused about what is a *Gesammtvorstellung* (i.e. what is a clausal constituent), what are its parts, and how the various clauses relate to each other. For clause combinations, Wundt [-@wundt1900b: 334] distinguishes *Parataxe* (including conjunction, using a straight line), *Relativsatz* (relative clause, using some kind of subscript in the analysis) and *conjunctiver Nebensatz* (adverbial clauses, using the curved arch). He never mentions complement clauses, but in [@fig:wundt1900_351b] he simply positions those below the matric clause. Wundt also talks about *attributive Satzformen* (non-finite clauses), but he only discusses rather incomprehensible examples from non-european languages, without any details and only on the basis of crude German glossing. The lowercase letters appear intended to indicate subject and predicate of a subordinate clause, which together should form a clause, for which he sometimes (but not always) uses the uppercase *G*. However, all these visual mechanisms are applied haphazardly, and often simply erroneously. It would take too long to explain all errors in Wundt's analyses, so I will just point to a few of the many problems.
+These syntactic analyses by Wundt are very inprecise and inconsistent, indicating that Wundt was not really interested in the minute details of the syntactic structure of these sentences. He appears to be confused about what is a *Gesammtvorstellung* (i.e. what is a clausal constituent), what are its parts, and how the various clauses relate to each other. For clause combinations, Wundt [-@wundt1900b: 334] distinguishes *Parataxe* (including conjunction, using a straight line), *Relativsatz* (relative clause, using some kind of subscript in the analysis) and *conjunctiver Nebensatz* (adverbial clauses, using the curved arch). He never mentions complement clauses, but in [@fig:wundt1900_351b] he simply positions those below the matrix clause. Wundt also talks about *attributive Satzformen* (non-finite clauses), but he only discusses rather incomprehensible examples from non-european languages, without any details and only on the basis of crude German glossing. The lowercase letters appear intended to indicate subject and predicate of a subordinate clause, which together should form a clause, for which he sometimes (but not always) uses the uppercase *G* (for *Gesammtvorstellung*). However, all these visual mechanisms are applied haphazardly, and often simply erroneously. It would take too long to explain all errors in Wundt's analyses, so I will just point to a few of the many problems.
 
 In the first sentence, the topmost clause *G* is actually incomplete (as explicitly noted by Wundt) because the main clause is missing. This is (correctly) indicated by the empty right side of the main arch. However, different from Wundt's analysis, the left (subordinate) side consists of two long conditional clauses introduced by *wenn*. These two should have been marked as being conjoined as a *Parataxe*. The internal structure of these two *wenn* clauses is complemently wrong in Wundt's analysis.
 
-In the second example Wundt does not use any internal capital letter *G*, but there are uppercase letters *A,B,C,D*, probably indicating subject and predicate of main clauses. This is reminiscent of the Lehmann tradition, using capital letters for main clauses and lowercase for subordinate clauses (see [@sec:lehmann1833]). On the left side, the lowercase *(a)* in brackets seems to suggest an omitted subject, though the subject of predicate *d* is actually present. Wundt also appears to mark complements clauses (introduced with *daß*) by simply positioning them below their matrix clauses (without explanation), but erroneously links the last main clause *(A^⏜^D)* to the complement clause, instead of to the main clause *(A^⏜^C)*. The use of the subscripts on the right side seems superfluous.
+In the second example Wundt does not use any internal capital letter *G*, but there are uppercase letters *A,B,C,D*, probably indicating subject and predicate of main clauses. This is reminiscent of the Lehmann tradition, using capital letters for main clauses and lowercase for subordinate clauses (see [@sec:lehmann1833]). On the left side, the lowercase *(a)* in brackets seems to suggest an omitted subject, though the subject of predicate *d* is actually present. Wundt also appears to mark complements clauses (introduced with *daß*) by simply positioning them below their matrix clauses (without marking and without explanation), but erroneously links the last main clause *(A^⏜^D)* to the complement clause, instead of to the main clause *(A^⏜^C)*. The use of the subscripts on the right side seems superfluous.
 
-German grammarians are not impressed by Wundt's linguistic analysis, and his graphical analysis is completely ignored. Extensive reviews of Wundt's book *Sprache* are written by Delbrück [-@delbruck1901] and Sütterlin [-@sutterlin1902], leading to a lengthy reply by Wundt [-@wundt1901] and by his student Dittrich [-@dittrich1902]. Only Dittrich in passing mentions the graphical approach. Delbrück off-handedly dismisses the idea of binary branching: *Ich bin demnach der Meinung, daß dieses ganze Princip der fortgesetzten binären Zerlegung […] durch die sprachlichen Thatsachen nicht empfohlen wird* 'I am therefore of the opinion that this entire principle of continued binary decomposition […] is not recommended by linguistic facts' [@delbruck1901: 153-154].
+German grammarians were not impressed by Wundt's linguistic analysis, and his graphical analysis is completely ignored. Extensive reviews of Wundt's book *Sprache* are written by Delbrück [-@delbruck1901] and Sütterlin [-@sutterlin1902], leading to a lengthy reply by Wundt [-@wundt1901] and by his student Dittrich [-@dittrich1902]. Only Dittrich in passing mentions the graphical approach. Delbrück off-handedly dismisses the idea of binary branching: *Ich bin demnach der Meinung, daß dieses ganze Princip der fortgesetzten binären Zerlegung […] durch die sprachlichen Thatsachen nicht empfohlen wird* 'I am therefore of the opinion that this entire principle of continued binary decomposition […] is not recommended by linguistic facts' [@delbruck1901: 153-154].
 
-Although Wundt's graphical analysis does not have had any direct followers (except for Sheffield in the USA, [@sec:sheffield1912]), his general approach seems to have influenced Bloomfield ([@sec:bloomfield1933]) and via Bloomfield it has influenced the tradition of *immediate constituents* in the USA, directly leading to Chomsky's generative grammar in the 1960. Specifically the idea of an exclusively binary subdivisions of sentences, a major tenet of Chomsky's approach, is probably directly attributable to Wundt (apparently without Chomsky knowing about this).
+Although Wundt's graphical analysis does not have had any direct followers (except for Sheffield in the USA, [@sec:sheffield1912]), his general approach seems to have influenced Bloomfield ([@sec:bloomfield1933]) and via Bloomfield it has influenced the tradition of *immediate constituents* in the USA, directly leading to Chomsky's generative grammar in the 1960. Specifically the idea of an exclusively binary subdivisions of sentences, a major tenet of Chomsky's approach, is probably directly attributable to Wundt (but apparently without Chomsky realizing this).
 
 mentioned with graphic in [@deutschbein1928: 48-49]
 
@@ -94,7 +94,7 @@ mentioned with graphic in [@deutschbein1928: 48-49]
 
 his father used hierarchical brackets at some points, e.g. [@gotzinger1839: 383]
 
-Ernst Götzinger (1837-1896), son of Maximilian Götzinger (see [@sec:götzinger1827]), was a teacher in St. Gallen (Switzerland). He wrote extensively about local history, German literature and he reissued his father's books after his death [more biographical details in @dierauer1897]. He also wrote a grammar, called *Deutsche Grammatik in genetischer Darstelllung* [@gotzinger1880]. Concerning graphical display, Götzinger [-@gotzinger1880: 151] criticised the *Periodenbilder* of Lehmann (see [@sec:lehmann1833]) and proposes an alternative. Intriguingly, he does not mention his father's graphical approach, which is highly similar to the proposals by Lehmann.
+Ernst Götzinger (1837-1896), son of Maximilian Götzinger (see [@sec:götzinger1827]), was a teacher in St. Gallen (Switzerland). He wrote extensively about local history, German literature and he reissued his father's books after his death [more biographical details in @dierauer1897]. He also wrote a grammar, called *Deutsche Grammatik in genetischer Darstelllung* [@gotzinger1880]. Concerning graphical display, Götzinger [-@gotzinger1880: 151] criticised the *Periodenbilder* of Lehmann (see [@sec:lehmann1833]) and proposed an alternative. Intriguingly, he does not mention his father's graphical approach, which is highly similar to the proposals by Lehmann.
 
 Götzinger proposes a very simple model for sentence analysis, consisting only of a plus symbol and hierarchically ordered brackets [@gotzinger1880: 155-156]. He uses the term *algebraische Gleichungen* 'algebraic formulae' for his approach. Although the method is described very clearly in words, as quoted below, Götzinger does not give any examples of how his grammatical algebra works in practice for more complex sentences. A few concrete examples of Götzinger's approach are given much later by Dinkel (see [@sec:dinkel1895]).
 
@@ -160,26 +160,6 @@ durch Apposition gebildeten Ausdruckes zu anderen Ausdrücken, dürften zwei Kla
 ::: {.im #stöhr1898_87}
 Complex *Apposition* with hierarchically ordered brackets for the noun phrase in [@last] as proposed by Stöhr [-@stohr1898: 87]. The individual letters stand for linguistic expressions, *a* for lexical material and other letters for various grammatical elements. Although Stöhr claims some general "univeral" nature for the grammatical elements, they corresponds one-to-one to German words.
 :::
-
-## Ajdukiewicz (1935) *Die syntaktische Konnexität*
-
-Kazimierz Ajdukiewicz (1890-1963) was professor at the University of Lwów, Poznań and Warsaw. Historical note [@godart-wendling2014]
-
-[@ajdukiewicz1935]
-
-Der Begriff der syntaktischen Konnexität lässt
-sich aber besonders schön und einfach mit Hilfe der von Prof.
-Stanislaw Leśniewski ausgearbeiteten Lehre von den Bedeu
-tungskategorien fassen. Wir werden uns hier auf die diesbezüglichen
-Resultate von Leśniewski stützen
-
-Wir
-entlehnen von Leśniewski nur die Grundidee der Bedeutungskategorien
-und ihrer Arten 
-
-https://eudml.org/doc/212136 does not contain anything similary to ajdukiewicz analysis
-
-He participated in a 1959 conference *Zeichen und System der Sprache* 'Sign and System of Language' in Erfurt [@ajdukiewicz1961], where Mikuš also participated. See *Flexionssprache* on p. 8-9
 
 # Denmark {#sec:danish}
 
@@ -435,14 +415,20 @@ Finally, Sheffield introduced a visualisation of subordinate clauses by uses "fo
 
 ## Sapir (1921) *Language* {#sec:sapir1921}
 
-morphology-formula [@sapir1921]
+Edward Sapir (1884-1939) was professor in Chicago and Yale and worked extensively on linguistic and anthropological topics. A short assesment of the enormous influence of Sapir on the study of language is presented by Koerner [-@koerner2020]. Sapir's general introduction to linguistics, simply called *Language* [@sapir1921], was widely read and highly influential. Sapir never used pictures to graphically represent language structure, but his proposal of an "algebraic formula" [-@sapir1921: 25-32] for morphological structure is widely cited. Although Sapir had wide knowledge of the linguistic literature of his time, there is no evidence that his algebraic formulae were influenced by the German *Satzbild* tradition.
+
+In his algebraic formulae, Sapir uses capitals for lexical roots, lower case for grammatical morphemes, and round brackets for elements that cannot stand alone. As the final example of this approach, he uses almost two pages to explain the hierarchical structure of a complex morphological word from the language Paiute [@sapir1921: 31-32]. I have strongly shortened Sapir's detailed description here, reducing it to the parts describing the internal structure of all the elements:
+
+> The word *wii-to-kuchum-punku-rügani-yugwi-va-ntü-m(ü)* is of unusual length even for its own language, but it is no psychological monster for all that. It means "they who are going to sit and cut up with a knife a black cow (or bull)", or, in the order of the Indian elements, "knife-black-buffalo-pet-cut up-sit(plur.)-future-participle-animate-plur". The formula for this word, in accordance with our symbolism, would be *(F)+(E)+C+d+A+B+(g)+(h)+(i)+(0)*. It is the plural *(i)* of the future participle *(h)* of a compound verb "to sit and cut up"—*A+B*. […] The radical element *A* ("to cut up"), before entering into combination with the coordinate element *B* ("to sit"), is itself compounded with two nominal elements or element-groups—an instrumentally used stem *(F)* ("knife") […] and an objectively used group—*(E)+C+d* ("black cow or bull"). This group in turn consists of an adjectival radical element *(E)* ("black") […] and the compound noun *C+d* ("buffalo-pet"). […] The whol complex *(F)+(E)+C+d+A+B* […] remains verbal in force on the addition of the temporal element *(g)*—this *(g)*, by the way, must not be understood as appended to *B* alone, but to the whole basic complex as a unit. [@sapir1921: 31-32]
+
+Various people have noticed that this description in words would have been much more clearer and succinct had Sapir used a visual representation. Independently of each other, both Mikuš [-@mikus1953: 20], see [@fig:mikus1953_20], and Seuren [-@seuren1998: 187], see [@fig:seuren1998_187], transformed Sapir's explanation into a graphical representation (though Mikuš' version is not completely correct). As Seuren remarks: "Sapir's very precise analysis of this complex word would have been greatly facilitated had he used a tree diagram to illustrate it" [@seuren1998: 186].
 
 ::: {.im #mikus1953_20}
-Chinese boxes diagram from Mikuš [-@mikus1953: 20]
+Chinese boxes diagram from Mikuš [-@mikus1953: 20] for the Paiute example from Sapir [-@sapir1921: 31-32]. Mikuš appears to have misread the attachment of *(F)* to *A*, as he puts *(F)* in the same box as *B*. He also omits the zero element *(0)*, which Sapir clearly explains to be a subject marker.
 :::
 
 ::: {.im #seuren1998_187}
-Immediate constituent analysis from Seuren [-@seuren1998: 187]
+Hierarchical tree analysis from Seuren [-@seuren1998: 187] for the Paiute example from Sapir [-@sapir1921: 31-32]. As Seuren remarks: "Sapir's very precise analysis of this complex word would have been greatly facilitated had he used a tree diagram to illustrate it" [@seuren1998: 186].
 :::
 
 ## Bloomfield (1933) *Language* {#sec:bloomfield1933}
@@ -450,6 +436,9 @@ Immediate constituent analysis from Seuren [-@seuren1998: 187]
 [@bloomfield1933: 160-161] slowly builds up the terminology, which seems to indicate that the terminology is newly developed for this book. He starts with *constituent (or component)* which is *contained in* or *included in* complex forms. The basic building blocks are morphemes, which cannot be further subdivided, and are called *ultimate constituents*. Then, finally, any intermediate grouping are called *immediate constituents*.
 
 [@bloomfield1914: 60-61], cited in Percival (1976:235) clearly thinks about binary branching. Also note the Wundt-inspired psychological reasoning, also using the term "apperception" (p.60).
+
+> The attention of an individual, — that is, apperception, — is a unified process: we can attend to but one thing at a time. Consequently the analysis of a total experience always proceeds by single binary divisions into a part for the time being focused and a remainder. In the primary division of an experience into two parts, the one focused is called the *subject* and the one left for later attention the *predicate*. […] If, after this first division, either subject or predicate or both receive further analysis, the elements in each case first singled out are again called subjects and the elements in relation to them, *attributes*. […] Thus in the sentence *Lean horses run fast* the subject is *lean horses* and the horses' action, *run fast*, is the predicate. Within the subject there is the further analysis into a subject *horses* and its attribute *lean*, expressing the horses' qual-
+ity. In the predicate *fast* is an attribute of the subject *run*. [@bloomfield1914: 60-61]
 
 Use of vertical bars, reminiscent of Crombie, but no obvious connection
 
@@ -926,7 +915,25 @@ Höhle first uses word in print in 1979 [@hohle1979: 387]
 
 Satzbilder with lines in [@lobentanzer1986: 60, 72-73]
 
-# France
+# Further European developments 
+
+## Ajdukiewicz (1935) *Die syntaktische Konnexität*
+
+Kazimierz Ajdukiewicz (1890-1963) was professor at the University of Lwów, Poznań and Warsaw. Historical note [@godart-wendling2014]
+
+[@ajdukiewicz1935]
+
+Der Begriff der syntaktischen Konnexität lässt
+sich aber besonders schön und einfach mit Hilfe der von Prof.
+Stanislaw Leśniewski ausgearbeiteten Lehre von den Bedeu
+tungskategorien fassen. Wir werden uns hier auf die diesbezüglichen
+Resultate von Leśniewski stützen
+
+> Wir entlehnen von Leśniewski nur die Grundidee der Bedeutungskategorien und ihrer Arten 
+
+https://eudml.org/doc/212136 does not contain anything similary to ajdukiewicz analysis
+
+Ajdukiewicz participated in a 1959 conference *Zeichen und System der Sprache* 'Sign and System of Language' in Erfurt [@ajdukiewicz1961], where Mikuš also participated. See *Flexionssprache* on p. 8-9
 
 ## Bally (1944) *Linguistique générale et linguistique française* {#sec:bally1944}
 
@@ -1010,8 +1017,6 @@ Penknife with corkscrew
 :::
 
 After moving to Zadar, Mikuš wrote various further papers, but he basically recapitulates his earlier ideas [@mikus1960; @mikus1962]. He participated in a large international conference on syntax in Erfurt [@mikus1961] and gave lectures in various universities in the GDR.^[Two papers from these lectures were published in 1962, available online at <https://doi.org/10.1524/stuf.1962.15.14.127> and <https://doi.org/10.1524/stuf.1962.15.14.137>.] In the 1960s, he moved to Lubumbashi in Zaire (today Democratic Republic of the Congo), where he wrote a monograph collecting all his ideas together [@mikus1972], but no new ideas can be found here.
-
-# Other
 
 ## de Groot (1949) *Structural linguistics and syntactic Laws* {#sec:degroot1949}
 

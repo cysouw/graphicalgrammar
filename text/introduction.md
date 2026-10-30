@@ -204,6 +204,7 @@ Use of vertical bars for separation, probably originally 1802, cited here from t
 - fourth edition (1836:176) https://www.loc.gov/item/43047733/ 
 - fifth edition (1843:162) https://google.com/books?id=Tx1AAAAAYAAJ
 - seventh edition (1853:162) https://www.loc.gov/item/11008559/
+- Görlach p.97 mentions a ninth endition from 1865
 
 ## Wilbur & Livingston (1814) *The grammatical alphabet* {#sec:wilbur1814}
 
