@@ -1023,6 +1023,14 @@ Sofya Afanasyevna Zeltser and Dmitry Nikolaevich Vvedensky wrote *Как сам�
 Analysis of the examples in [@last] from Zeltser & Vvedensky, cited here from the third edition because of better image quality [@zeltser1926: 68], but almost completely identical to second edition [@zeltser1925: 68]. The subject-predicate pairing at the top here forms a unit on which the other element depend.
 :::
 
+## Karcevski (1925)
+
+cited by [@percival2007a]
+
+Sergei Kartsevskii (Serge Karcevski), 'O formal'no-grammaticheskom napravlenii,' Russkaia Shkola zu Rubezhom , 12 (1925), 47-65; see p. 52 for an example of a branching diagram.
+
+https://en.wikipedia.org/wiki/Sergei_Kartsevski
+
 ## Ushakov (1926) *Учебная книга по русскому языку* {#sec:ushakov1926}
 
 Dmitrij Nikolajevich Ushakov (1873-1942) was professor at the Russian language department of Moscow University and most well known for his work on the Russian spelling reform and for the *Толковым словарём русского языка* 'Explanatory Dictionary of the Russian Language'.^[Some basic biographical information is available online at <https://www.prlib.ru/en/history/618974>, accessed 13 March 2025.] Throughout his life he wrote various pedagogical textbooks about Russian. His *Brief introduction to the science of language* [@ushakov1913] was reprinted various times, but it did not contain any graphical grammar. In 1923, after the death of Petrov (see [@sec:petrov1906]) Ushakov revised Petrov's grammar, which already included a few graphical representations of sentence structures. Only after this revision graphical analyses also appear in Ushakov's textbooks. Ushakov is also mentioned as the "editor" of Pustalov's textbook (see [@sec:pustovalov1928]) and the grammar of Kryuchkov & Svetlaev (see [@sec:kryuchkov1936]). He is also acknowledged for his help by Peshkovsky (see [@sec:peshkovsky1914]).

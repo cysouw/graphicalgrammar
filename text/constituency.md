@@ -444,6 +444,10 @@ Use of vertical bars, reminiscent of Crombie, but no obvious connection
 
 Hypothesis that Wundt influenced Bloomfield: [@percival1976: 234-235 gives various detailed arguments], but again no pictures. The basic assumption of binary analysis pervasive in US-american 20th century analyses can probably be tracked back to Wundt.
 
+"poor John ran away" repeatedly mentioned on p. (161-170)
+
+> Any English-speaking person who concerns himself with this matter, is sure to tell us that the immediate constituents of *Poor John ran away* are the two forms *poor John* and *ran away*; that each of these is, in turn, a complex form; that the immediate constituents of ran away are *ran*, a morpheme, and *away*, a complex form, whose constituents are the morphemes *a-* and *way*; and that the constituents of *poor John* are the morphemes *poor* and *John*. [@bloomfield1933: 161]
+
 Historical survey of Bloomfield and post-Bloomfieldians: [@matthews1993]
 
 ## Pike (1943) *Taxemes and immediate constituents* {#sec:pike1943}
@@ -525,7 +529,7 @@ Tree representation of the rewrite rules ("determination") from Harris [-@harris
 
 see also the schemas on pp. 350 (English syntax), 353 (Arabic morphology): more like "potential" structures, not actual sentence analyses. Only for bound morphology? Already for Delaware morphology in [@harris1947: 185]. Cf similar diagram for morphophonetics of English syllables on p. 153
 
-## Wells (1947) *Immediate constituents*
+## Wells (1947) *Immediate constituents* {#sec:wells1947}
 
 [@wells1947: 84]
 

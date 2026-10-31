@@ -22,7 +22,7 @@ Often discounted in modern syntactic theory?
 
 > The monumental building of historical-comparative linguistics elaborated during the 19th century was mainly based on the phonological and morphological comparison of Indo-European languages; and the major issues of structural linguistics, in the first half of the 20th century, concerned phonological and morphological matters. Things changed radically in the second half of this same century, when syntax, in whatever theoretical framework, became the really "fashionable" field. [… This book] aims rather to correct a false image of the history of syntactic studies which derives from the situation outlined above: namely, that very few or no syntactic studies were elaborated before the 1950s. Actually, as will be seen throughout the entire book, syntactic matters were carefully investigated both during the 19th century and in the first half of the 20th century. [@graffi2001: xi]
 
-Previous studies into the history of graphical grammar: [@gelbe1880; @arens1902; @grosse1966; @brittain1973; @percival1976; @percival2007; @baum1976: 36-42; @coseriu1980; @forsgren1992; @thummel1993; @seuren1998: 219-227; @franzkowiak2013; @seuren2015] 
+Previous studies into the history of graphical grammar: [@gelbe1880; @arens1902; @grosse1966; @brittain1973; @percival1976; @percival2007a; @percival2007; @baum1976: 36-42; @coseriu1980; @forsgren1992; @thummel1993; @seuren1998: 219-227; @franzkowiak2013; @seuren2015] 
 
 [@hiersche1979] based on Happ (1976)
 
@@ -192,19 +192,15 @@ more?
 
 ## Crombie (1802) *A treatise on the etymology and syntax of the English language*
 
-Alexander Crombie (1762-1840) https://en.wikipedia.org/wiki/Alexander_Crombie
+Alexander Crombie (1762-1840) was a Scottish schoolmaster and author of a highly influential grammar of English, among many other wide-ranging publications.^[A survey of his biography and publications is given on <https://en.wikipedia.org/wiki/Alexander_Crombie>, accessed 30 October 2026.] His grammar was first published in 1802 and was at least reprinted up to a ninth edition from 1865 [@gorlach1998: 97]. It will be cited here from the second edition [@crombie1809], but the crucial passage appears to be unchanged throughout the various editions.^[I have not been able to access a first edition. Various later editions are available online: a third edition (1830: 226) at <https://google.com/books?id=uP0RAAAAIAAJ>, a fourth edition (1836: 176) at <https://www.loc.gov/item/43047733/>, a fifth edition (1843: 162) at <https://google.com/books?id=Tx1AAAAAYAAJ> and a seventh edition (1853: 162) at <https://www.loc.gov/item/11008559/>.]
 
-Use of vertical bars for separation, probably originally 1802, cited here from the second edition:
+At the start of the discussion of English syntax, Crombie uses vertical bars for the separation of clauses, shown in [@fig:crombie1809_234]. Specifally note the double vertical bar in the middle for the main separation, while the subsequent further division is marked with single vertical bars. A very similar approach using vertical bars is also applied 145 years later by Wells (see [@sec:wells1947]) for the analysis of immediate constituents. However, there is no indication that Wells was aware of this example from Crombie.
 
 > Complex sentences are divided into members; and these, if complex, are subdivided into clauses, as, "The ox knoweth his owner | and the ass his master's crib || but Israel doth not know | my people doth not consider." This complex sentence has two members, each of which contains two clauses. [@crombie1809: 234]
 
-- first edition 1802
-- second edition 1809/1810
-- third edition 1830:226 https://google.com/books?id=uP0RAAAAIAAJ
-- fourth edition (1836:176) https://www.loc.gov/item/43047733/ 
-- fifth edition (1843:162) https://google.com/books?id=Tx1AAAAAYAAJ
-- seventh edition (1853:162) https://www.loc.gov/item/11008559/
-- Görlach p.97 mentions a ninth endition from 1865
+::: {.im #crombie1809_234}
+Subdivision of clauses in a complex sentence by vertical lines from Crombie [-@crombie1809: 234]. This visual approach is highly similar to the analysis of immediate constituents by Bloomfield (see [@fig:]), but there is no evidence that Bloomfield was aware of Crombie's approach.
+:::
 
 ## Wilbur & Livingston (1814) *The grammatical alphabet* {#sec:wilbur1814}
 
