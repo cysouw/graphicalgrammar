@@ -452,7 +452,36 @@ Historical survey of Bloomfield and post-Bloomfieldians: [@matthews1993]
 
 ## Pike (1943) *Taxemes and immediate constituents* {#sec:pike1943}
 
+Kenneth Lee Pike (1912-2000)
+
 [@pike1943: 70], citing bloomfield: boxes seem explication of Bloomfield's vertical bars
+
+Pike and Nida both phd in michigan under Fries (pike 1942, nida 1943), both worked at SIL training schools.
+
+## Nida (1946) *Syntax, a descriptive analysis*
+
+Eugene Nida (1914–2011), founding charter member of Wycliffe Bible Translators, later Executive Secretary for Translations of the American Bible Society. Bio in [@north1974]
+
+"Each summer from 1937 to 1953 Nida returned to the Summer In-
+stitute of Linguistics (SIL) to teach. By 1939 he and Kenneth L. Pike
+were the principal teachers, Nida teaching morphology-syntax and Pike
+teaching phonetics-phonemics." p.viii
+
+- 1943: Dissertation University of Michigan *A Synopsis of English Syntax* https://research.ebsco.com/plink/6ef9b31b-f19e-3ff2-b4fd-47797822cf21
+- 1946: first edition *Morphology*, no pictures in this version! [@nida1946]
+- 1946: *Syntax, a descriptive analysis* [@nida1946a]
+- 1948: [@nida1948] no pictures (but very prominent publication!) cites pike, harris, bloch, wells
+- 1949: second edition *Morphology* with pictures. sentence: [@nida1949: 87], hierarchical morphological structure p.101, both 105
+- 1950: *Learning a foreign language* only 1957 edition available, with trees [@nida1957: 181]
+- 1951: *Outline of descriptive syntax* full of pictures! [@nida1951] cited in "syntactic structures" in bibliography, but without mentioning in the main text
+- 1960: publication of dissertation with added pictures *A synopsis of English syntax* [@nida1960]
+- 1964: *Toward a Science of Translating* summary of different equivalent graphics [@nida1964: 58-62]
+
+Nida (1973[1960]) writes his thesis in 1943, which is published in 1960. There do not seem to be trees in his thesis, but he Immediate Constituents might imply trees (but difficult to follow). In the 1960 edition he adds a long list of trees. But this is of course after Chomsky 1957.
+
+In the preface of the 1943: 30 dissertation he cited Sheffield 1912 (though not with respect to structural analysis), also Jespersen 1937 (p. 13)
+
+Note the combination of dependency and constituency!
 
 ## Bloch (1946) *Studies in colloquial Japanese*
 
@@ -484,8 +513,6 @@ Hierarchical representation of the analysis from Bloch [-@bloch1946: 243] as sho
 Zellig Sabbettai Harris (1909-1992) was a professor for linguistics at the university of Pennsylvania in Philadelphia
 
 He worked on Semitic languages in the 1930s, but starting in the 1940s he published on topics in general linguistic, starting a lifelong interest in formal and computational approaches to language structure.
-
-
 
 This system was already introduced in [@harris1946]! Cites Jespersen 1937 on p. 177, also Bloomfield, Pike, Bloch
 
@@ -533,34 +560,7 @@ see also the schemas on pp. 350 (English syntax), 353 (Arabic morphology): more 
 
 [@wells1947: 84]
 
-## Nida (1949) *Morphology*
-
-nothing in 1946 version! [@nida1946]
-
-sentence: [@nida1949: 87]
-hierarchical morphological structure p.101, both 105
-
-1946: Syntax, a descriptive analysis (not yet found)
-1951: Outline of descriptive syntax (not yet found)
-
-Nida (1960) *A synopsis of English syntax*
-
-[@nida1960] added images to 1943 dissertation, which did not have images
-
-Nida (1973[1960]) writes his thesis in 1943, which is published in 1960. There do not seem to be trees in his thesis, but he Immediate Constituents might imply trees (but difficult to follow). In the 1960 edition he adds a long list of trees. But this is of course after Chomsky 1957.
-
-In the preface of the 1943: 30 dissertation he cited Sheffield 1912 (though not with respect to structural analysis) 
-
-Note the combination of dependency and constituency!
-
-Nida (1964) *Toward a Science of Translating*
-
-https://books.google.de/books?id=YskUAAAAIAAJ
-https://archive.org/details/towardsscienceof0000euge
-
-summary of different equivalent graphics [@nida1964: 58-62]
-
-## Fries (1952) *The structure of English*
+## Fries (1952) *The structure of English*    
 
 Charles Carpenter Fries (November 29, 1887 – December 8, 1967)
 
@@ -582,7 +582,10 @@ Chomsky cites Bar-Hillel (1953: 57)
 
 [@chomsky1955] *The logical structure of linguistic theory* He cites various linguistic literature (harris, halle, jakobson, bloch, bloomfield, wells, jespersen, nida's morphology and syntax)
 
-Chomky cites Nida "outline of English syntax", but he probably means "outline of descriptive syntax". In 1957 he cites "a synopsis of English syntax (1951)", which is the title of Nida's unpublished thesis from 1943. Corrected in published version (Chomsky 1975): it should be Nida's thesis!
+Chomky cites Nida "outline of English syntax" in his 1955 manuscript, but he probably means "Synopsis of English syntax". Corrected in published version (Chomsky 1975): it should be Nida's thesis. He refers to page numbers 43 and 59 (talking about "the construction Verb-Preposition
+where the preposition is not 'separable', page 702) and that it "does not even contain a discussion of questions" (page after 713)
+
+In 1957 he cites "a synopsis of English syntax (1951)", which is the title of Nida's unpublished thesis from 1943. Maybe he means here "outline of descriptive syntax", which is from 1951. The work is only listed in the bibliography, and apparantly nowhere in the main text though.
 
 The only clear IC-citation is Wells 1947
 
@@ -613,6 +616,10 @@ Henry Allan 'Al' Gleason Jr. (April 18, 1917 – January 13, 2007)
 second edition from 1961 extended, Chomsky mentioned in introduction [@gleason1961]. Includes generation and transformation. But still the old IC-stuff as well [@gleason1961]
 
 [@gleason1965] very open description: Ch7 on Reed/Kellog and other approaches, but also many chapters on TGG
+
+## Pickett (1956) *Introduction to the study of grammatical structure*
+
+[@elson1960a; @elson1962; @elson1983; @pickett1956]
 
 ## Hockett (1958) *A course in modern linguistics*
 
