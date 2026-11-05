@@ -583,7 +583,7 @@ Chomsky cites Bar-Hillel (1953: 57)
 [@chomsky1955] *The logical structure of linguistic theory* He cites various linguistic literature (harris, halle, jakobson, bloch, bloomfield, wells, jespersen, nida's morphology and syntax)
 
 Chomky cites Nida "outline of English syntax" in his 1955 manuscript, but he probably means "Synopsis of English syntax". Corrected in published version (Chomsky 1975): it should be Nida's thesis. He refers to page numbers 43 and 59 (talking about "the construction Verb-Preposition
-where the preposition is not 'separable', page 702) and that it "does not even contain a discussion of questions" (page after 713)
+where the preposition is not 'separable', page 702. Maybe this refers to pp 181 amd 208 from Nida 1960?) and that it "does not even contain a discussion of questions" (page after 713)
 
 In 1957 he cites "a synopsis of English syntax (1951)", which is the title of Nida's unpublished thesis from 1943. Maybe he means here "outline of descriptive syntax", which is from 1951. The work is only listed in the bibliography, and apparantly nowhere in the main text though.
 
