@@ -344,7 +344,14 @@ first edition 1932, third completely revised edtion 1951
 
 # United States {#sec:ic}
 
-Immediate constituents
+Immediate constituents in the 1940s:
+
+Yale: Bloomfield -> Bloch, Wells (1945+)
+Michigan: Fries -> Pike, Nida (Bloomfield is Diss advisor!)
+Philadelphia: Harris -> Chomsky, Wells (1942-1945)
+Hartford Missionary: Gleason
+
+see also [@nielsen2010: §2.4, §6.2]
 
 ## Sheffield (1912) *Grammar and thinking* {#sec:sheffield1912}
 
@@ -372,7 +379,7 @@ Analysis of the sentence structure of the five sentences in [@last] from Sheffie
 
 Is there a fold-out sheet between page 134 and 135?
 
-In his second book, *Command of sentence patterns*, Sheffield [-@sheffield1929: 51-59] goes into much more detail how to analyse sentences in practice according to the proposals from Wundt. A basic example of such an analysis is shown in [@fig:sheffield1929_53]. Besides the letters S and P for subject and predicate, Sheffield uses lowercase letters, starting with a and b, for further modification, in order of depth of modification. The (attributive) modifiers of the subject get the plain letters, while the modifiers of the predicate (including both adverbials and objects) are marked with an apostrophe.
+In his second book, *Command of sentence patterns*, Sheffield [-@sheffield1929: 51-59]^[Different from Sheffield's first book, this book seems to have been mostly ignored by other linguists. I have not been able to find any reviews of or references to this book in the linguistic literature at all.] goes into much more detail how to analyse sentences in practice according to the proposals from Wundt. A basic example of such an analysis is shown in [@fig:sheffield1929_53]. Besides the letters S and P for subject and predicate, Sheffield uses lowercase letters, starting with a and b, for further modification, in order of depth of modification. The (attributive) modifiers of the subject get the plain letters, while the modifiers of the predicate (including both adverbials and objects) are marked with an apostrophe.
 
 ::: {.im #sheffield1929_53}
 "Pattern of sentence factors" from Sheffield [-@sheffield1929: 53].
@@ -460,7 +467,7 @@ Pike and Nida both phd in michigan under Fries (pike 1942, nida 1943), both work
 
 ## Nida (1946) *Syntax, a descriptive analysis*
 
-Eugene Nida (1914–2011), founding charter member of Wycliffe Bible Translators, later Executive Secretary for Translations of the American Bible Society. Bio in [@north1974]
+Eugene Nida (1914–2011), founding charter member of Wycliffe Bible Translators, later Executive Secretary for Translations of the American Bible Society. Bio in [@north1974] obituary [@langendoen2013], nothing on Pike, nothing on Nida's syntax books.
 
 "Each summer from 1937 to 1953 Nida returned to the Summer In-
 stitute of Linguistics (SIL) to teach. By 1939 he and Kenneth L. Pike
@@ -609,7 +616,7 @@ Chomsky then asks "We now ask what form of grammar corresponds to this conceptio
 
 ## Gleason (1955) *An introduction to descriptive linguistics*
 
-Henry Allan 'Al' Gleason Jr. (April 18, 1917 – January 13, 2007)
+Henry Allan 'Al' Gleason Jr. (April 18, 1917 – January 13, 2007) at Hartford Seminary Foundation (Missionary education). Textbook arose from his teaching there.
 
 [@gleason1955: 129-131] also accompanying workbook (no graphics)
 
@@ -645,6 +652,20 @@ added chapter on TGG from different author. seems to be added late in the proces
 # Germany {#sec:germanconstituency}
 
 Some of the old approaches still in print, e.g. Mensing. However, there is a clear discontinuity in didactic approaches. Feldermodell emerges
+
+## Züllig (1934) *Die Satzlehre*
+
+Louis Züllig from St. Gallen
+
+> Die Hauptaufgabe fiel dabei Herrn Louis Züllig, Lehrer an der Sekundarlehramtsschule in St. Gallen, zu, der die Wort- und Satzlehre nach neuen Grundsätzen der Sprachwissenschaft aufbaute und dabei zu Auffassungen kam, die vielen Kollegen neu sein dürften. Aus diesem Grunde ist die *Satzlehre* ohne Kürzung gedruckt worden. (1934, p.5)
+
+cites Litt aphorism from https://ds.ub.uni-bielefeld.de/viewer/image/102679/1/
+
+Cited by Glinz as an influence p.155: https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/2307/file/Grammatische_Terminologie_in_Sprachbuch_und_Unterricht_1987.pdf
+
+Nachrufe 1928-1941 im Archiv St. Gallen: https://dls.staatsarchiv.sg.ch/records/607691
+
+simple subject-predicate visualisation [@zullig1940: 113], in which predicate contains everything in the sentence, except the subject.
 
 ## Drach (1937) *Grundgedanken der deutschen Satzlehre* {#sec:drach1937}
 
@@ -700,16 +721,6 @@ In 1951 Rahn gave a presentation about the didactical renewal of grammar, which 
 ::: {.im #rahn1951_20}
 Proposal for underlining and color-use for sentence analysis on the blackboard by Rahn & Pfleiderer [-@rahn1951a: 20].
 :::
-
-## Züllig (1940) *Neubau der Sprachschule*
-
-Louis Züllig from St. Gallen
-
-Cited by Glinz as an influence p.155: https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/2307/file/Grammatische_Terminologie_in_Sprachbuch_und_Unterricht_1987.pdf
-
-Nachrufe 1928-1941 im Archiv St. Gallen: https://dls.staatsarchiv.sg.ch/records/607691
-
-simple subject-predicate visualisation [@zullig1940: 113], in which predicate contains everything in the sentence, except the subject.
 
 ## Glinz (1948) *Die innere Form des Deutschen* {#sec:glinz1952}
 
