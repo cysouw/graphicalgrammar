@@ -167,6 +167,8 @@ Complex *Apposition* with hierarchically ordered brackets for the noun phrase in
 
 Otto Jespersen (1860-1943) was professor of English at Copenhagen. Jespersen worked on a wide variety of linguistic topics and throughout his long life he prepared a massive 7-volume *Modern English grammar on historical principles*. For most of his career he did not apply graphical or algebraic methods to linguistic analysis. There are just a few incidental symbolic representation in *Sprogets logik* 'The logic of language' [@jespersen1913: 80-81] and a single graphical representation in *De to hovedarter av grammattiske forbindelser* 'The two main types of grammatical connections' [@jespersen1921: 18]. Only towards the end of his life he published *Analytic syntax* [@jespersen1937], in which he laid out a completely symbolic framework for linguistic analysis. It feels like an idea he probably had been working on for a long time, but only published late in his career.
 
+> In learned terminology we may say that men are fond of hypotaxis and women of parataxis. Or we may use the simile that a male period is often like a set of Chinese boxes, one within another, while a feminine period is like a set of pearls joined together on a string of *ands* and similar words. [@jespersen1922: 251-252]
+
 Jespersen proposed various structural principles for linguistic analysis, above all his notion of *rang* 'rank' [first introduced in @jespersen1913: 31]. The basic idea of *rang* is that there are different levels of modification in language. Jespersen uses roman capital letters *I, II, III* for these levels. He named the first three levels as *overled*, *adled* and *underled* [@jespersen1913: 31] or in a different publication *primær*, *sekundær* and *tertiær* [@jespersen1921: 3] and in English *principal*, *adjunct* and *subjunct* [@jespersen1913: 31]. He clearly intends there to be more levels, but he claims without much argumentation that further levels are inherently the same as the third level [@jespersen1921: 3]. 
 
 Jespersen considers the first two levels to be the most interesting: *Da de tertiære elementer ikke gir anledning til videre bemærkninger, skal jeg nu helt forlade dem for at holde mig til forbindelserne mellem primære og sekundære elementer* 'Since the tertiary elements do not warrant further comment, I must now leave them entirely in order to stick to the connections between primary and secondary elements' [@jespersen1921: 4]. Jespersen goes into great detail about the many different ways level I and II occur in language. Curiously, he quickly stops using the letter I and II and changes to *P* and *S* instead. These letters are reminiscent of the terms "predicate" and "subject", though Jespersen does not want to use these terms:
@@ -938,6 +940,20 @@ Höhle first uses word in print in 1979 [@hohle1979: 387]
 Satzbilder with lines in [@lobentanzer1986: 60, 72-73]
 
 # Further European developments 
+
+## Palmer (1917) *The scientific study & teaching of languages*
+
+Harold E. Palmer (1877-1949)
+
+bio: https://warwick.ac.uk/fac/soc/al/research/collections/elt_archive/publications/smith_1999.pdf
+
+"ergonic chart" are rewrite rules! [@palmer1917: 283-308]
+
+*The new method grammar*
+
+::: {.im #palmer1938_196}
+Flow-diagram for the English sentence from Palmer [-@palmer1938: 196]
+:::
 
 ## Ajdukiewicz (1935) *Die syntaktische Konnexität*
 

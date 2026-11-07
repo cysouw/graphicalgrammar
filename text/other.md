@@ -245,16 +245,6 @@ The example is quote verbatim in –of all places– a Chinese grammar by Li Jin
 Same tree analysis as in the previous [@fig:foerster1919_30] from a Chinese grammar by Jinxi [-@jinxi1924: 361]. The complete example from Foerster & Steadman is quoted verbatim in this grammar over multiple pages, but the picture is completely overhauled and much improved. The ordering of the main clauses (indicated by numbers) now correctly reflects the original sentence, and multiple subordination is correctly analysed. Even the linking between the three main branches appears to be reflected in small graphical flourishes. The Chinese caption reads: '(Figure 7) illustrates the structure of the complex sentence mentioned above' This is exactly the caption from the original.
 :::
 
-## Palmer (1938) *The new method grammar*
-
-Harold E. Palmer (1877-1949)
-
-bio: https://warwick.ac.uk/fac/soc/al/research/collections/elt_archive/publications/smith_1999.pdf
-
-::: {.im #palmer1938_196}
-Flow-diagram for the English sentence from Palmer [-@palmer1938: 196]
-:::
-
 ## Robert (1956) *Patterns of English*
 
 completely idiosyncratic system of letters and numbers. No references whatsoever [@roberts1956].
