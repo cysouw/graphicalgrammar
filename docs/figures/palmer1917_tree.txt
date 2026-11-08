@@ -1,0 +1,114 @@
+
+# =============================
+# This file contains a hierarchically structured sentence
+# in the format of the RSyntaxTree tool.
+#
+# The format is documented here:
+# https://yohasebe.github.io/rsyntaxtree/documentation
+#
+# Use the following website to generate a graphical tree
+# https://yohasebe.com/rsyntaxtree/
+# =============================
+
+[p1
+  [s1
+    [p33
+      [m43 ***Pendant***\ ***que***]
+      [m52
+        [p1
+          [s2
+            [s12
+              [p11
+                [s20 [m9 ***le***]]
+                [s21 [m1 ***professeur***]]
+              ]
+            ]
+          ]
+          [s3
+            [p12
+              [m13 ***lit***]
+            ]
+          ]
+          [s4
+            [s12
+              [p51
+                [s12
+                  [p11
+                    [s20 [m9 ***la***]]
+                    [s21 [m1 ***lettre***]]
+                  ]
+                ]
+                [p55
+                  [m38 ***que***]
+                  [m46
+                    [p1
+                      [s2
+                        [s12
+                          [p11
+                            [s20 [m9 ***l'***]]
+                            [s21 [m1 ***élève***]]
+                          ]
+                        ]
+                      ]
+                      [s3
+                        [p3
+                          [m14 ***a***]
+                          [m15 ***écrite***]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  [s2
+    [m3 ***il***]
+  ]
+  [s3
+    [s14
+      [p15
+        [p40
+          [m63 ***ne***]
+          [m16 ***peut***]
+          [m21 ***pas***]
+        ]
+        [p41
+          [m18 ***trouver***]
+        ]
+      ]
+    ]
+  ]
+  [s4
+    [s12
+      [p11
+        [s20 [m9 ***ses***]]
+        [s21
+          [p53
+            [m12 ***vieilles***]
+            [m1 ***lunettes***]
+          ]
+        ]
+      ]
+    ]
+  ]
+  [p2
+    [s7
+      [p31
+        [m26 ***sur***]
+        [s17
+          [s12
+            [p11
+              [s20 [m9 ***la***]]
+              [s21 [m1 ***table***]]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+]

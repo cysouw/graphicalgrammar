@@ -943,17 +943,67 @@ Satzbilder with lines in [@lobentanzer1986: 60, 72-73]
 
 ## Palmer (1917) *The scientific study & teaching of languages*
 
-Harold E. Palmer (1877-1949)
+Harold Edward Palmer (1877–1949) was a phonetician and language educator from London. He founded the *Institute for Research in English Teaching* in Tokyo, Japan, where he worked from 1922 to 1937. His life and extensive scholarly output are discussed in detail by Smith [-@smith2004]. Palmer's research focused primarily on second-language teaching, and he proposed a wide range of approaches in keeping with the ideas of the so-called *reform movement* in language education, initiated by Wilhelm Viëtor. In the course of this work, Palmer also developed various approaches to syntactic analysis, which appear to have gone largely unnoticed and unappreciated by his structuralist contemporaries.^[Harris [-@harris1951: 46] cites Palmer's work on intonation, but gives no indication that he was familiar with Palmer's approach to syntax.]
 
-bio: https://warwick.ac.uk/fac/soc/al/research/collections/elt_archive/publications/smith_1999.pdf
+Palmer called his approach to teaching syntactic structures "substitution tables." He first explicitly published this approach in a short manual, *Colloquial English* [@palmer1916]. He describes substitution as a process "by which any authentic sentence may be multipied indefinitely by substituting any of its words or word-groups by others of the same grammatical family and within certain semantic limits" [@palmer1916: iii]. He then presents 100 English sentence structures, each with alternatives for its words. Learners can practice these structures by substituting the alternatives to create new sentences of the same form.
 
-"ergonic chart" are rewrite rules! [@palmer1917: 283-308]
+At first glance, the substitution tables seem to have been selected at random, but they derive from a larger project. In *The Scientific Study and Teaching of Languages* [@palmer1917], Palmer includes an appendix containing an "ergonic chart" for French syntax. This is an extensive fragment of French grammar presented as rewrite rules [@palmer1917: 283-308]. This work predates the independent (re)invention of the approach by Harris (see [@sec:harris1946]) and Mikuš (see [@sec:mikuš1947]) by thirty years. The substitution tables are small excerpts from this larger system. Palmer explains that teachers should use the ergonic chart as a theoretical basis for developing shorter exercises for students:
 
-*The new method grammar*
+> Let me add that I do not advise any teacher to bewilder and dishearten his young pupils by demonstrating to them the ergonic theory by means of this condensed chart. What I do suggest is that the present diagram should serve as a basis for composing an 'Ergonic Atlas,' containing a number of charts drawn to various scales and in various degrees of completeness. Many or most of these would be designed in such a
+way that each panel would contain a few specimens of the actual units themselves [@palmer1917: 286]
+
+Palmer acknowledges that his chart is incomplete and that its classification, terminology, and technical principles remain underdeveloped. He devotes a page to explaining these limitations, admitting that "the perfect Ergonic Chart did not yet exist" [@palmer1917: 282]. Nevertheless, the chart is remarkably extensive. Even from a current perspective, more than 100 years later, it is hard to find any set of rewrite rules for any language this comprehensive. Its 25 pages of rules [@palmer1917: 283-308] are summarised in a large fold-out sheet, reproduced in [@fig:palmer1917_282fold].
+
+::: {.im #palmer1917_282fold}
+Ergonic Chart for French, as a large fold-out sheet between page 282 and 283 of Palmer [-@palmer1917]. This is a summary of a large set of "units", which we would today call "rewrite rules". In total there are more than 150 different rules in this grammatical model.
+:::
+
+In his ergonic chart, Palmer distinguishes three kinds of rules:
+
+- ***m*-rules**: *Minimals*. These are the basic lexicon, and the abbreviation "m" could very well be though of as standing for "morphemes". Palmer distinguishes 78 different categories (e.g. m3 are subject pronouns) and in the appendix he lists more than 1500 actual french words.
+- ***s*-rules**: *Sum groups*. These are alternative rules, and the abbreviation "s" could also be read as "sub-rules". Palmer distinguishes 25 sub-rules, e.g. the subject s2 can be either m3 (a subject pronoun), s12 (a noun) or s16 (a noun clause).
+- ***p*-rules**: *Product groups*. These are basically what today would be called "phrases" consisting of multiple parts. Palmer distinguishes 61 different phrase rules, e.g. p11 is what today would be called a noun phrase, consisting of s20 (~ determiners) and s21 (~ nouns and their modifiers).
+
+A few examples of his rules are shown below. Note that Palmer mixes up his numbers here: in rule m52 he mentions m58, but this should have been m44. However, it is actually impressive how few such errors there are in his massive set of abstract rules.^[Rule m47 and m53 reference a non-existing m89, which should have been m39, and rule p58 references m59 instead of the intended m69.]
+
+- p33 = m43 x m52. Clauses expressing time and duration
+- p38 = m44 x m52. Clauses (not containing subjunctives) expressing manner, cause, condition, hypothesis, etc.
+- m43 = connectives of time and duration. *quand, lorsque, pendant que, depuis que.*
+- m44 = certain connectives of cause, purpose, condition, etc. *parce que, puisque, comme, si, etc.*
+- m52 = units which together with the connectives m58 [typo: this should be m43, MC] and m44 constitute respectively clauses p33 and p38.
+
+Palmer does not give any concrete example of how his ergonic chart works in practice. As an example I have made up a random sentence [@next] with some of the words that occur in his lexicon and then I have attempted to follow his ergonic chart. The resulting analysis is shown in [@fig:palmer1917_tree]. For the display I have used a phrase-structure tree here, which is not how Palmer would have depicted this analysis. However, this illustration is completely in line with the intention of his ergonic chart. The minimals m46 and m52 are called "units", but these are actually subordinate clauses, which are not further analysed internally by Palmer. In the example analysis I have simply added a p1 node ("sentence") below such clausal units.
+
+::: ex
+Pendant que le professeur lit la lettre que l'élève a écrite, il ne peut pas trouver ses vieilles lunettes sur la table. \
+('While the teacher is reading the letter that the student wrote, he cannot find his old glasses on the table.')
+:::
+
+::: {.tree #palmer1917_tree}
+Application of the ergonic chart from Palmer [-@palmer1917: 283-308] for the french sentence in [@last]. I have used a phrase-structure tree here for easier interpretation. Palmer did not consistently analyse the internal structure of subordinate clauses, he simply named them "units", using labels m46 up to m53 for different kinds of clauses. I have added a label p1 below the subordinate clauses m52 and m46 to be able to analyse their internal structure.
+:::
+
+There are some examples of recursive rules in Palmer's approach. For example (using modern terminology here, not the terms from Palmer), a noun phrase (s12) can be expressed in various ways, e.g. by pronouns (s15) or by a full noun phrase (p11). A noun phrase (p11) consists of a determiner (s20) and a noun with modifiers (s21). A unit s21 can, among others, be expressed by a noun further modified (p50), which in turn consists of a noun modified by adjectives (p53) and a prepositional phrase (p54). Finally, a group p54 consists of prepositions (m29) and a noun phrase (s12), starting the recursion. In constrast to this recursion for noun phrases, Palmer does not recursively deal with subordinate clauses, but this could easily have been added to his ergonic chart.
+
+Twenty years later, after Palmer spent various years in Japan, he returns to Britain and publishes *The new method grammar* [@palmer1938], which is a book in English intended for students of English. It is full of cute, almost whimsical drawings, probably intended to lure in younger readers. The analysis of sentence structure is build up in small steps over almost 80 pages [@palmer1938: 120-196] using a railway metaphor:
+
+> […] to make them easier to learn and remember we shall now talk about sentences and their parts as if they were railway journeys, and show them in pictures and maps, marking the different lines, junctions and stations. For really sentences are something like railways: they start somewhere and they end somewhere: and between the place where they start and the place where they end there are many branch lines and looplines [@palmer1938: 131]
+
+Palmer's concluding railway flow-diagram is shown in [@fig:palmer1938_196]. Note that this diagram is only the final summary: every branch and loopline actually stands for a specific linguistic structure, all of which are discussed in great detail in the pages before. This kind of diagram does a good job of explaining the functioning of the *s*-rules from above, i.e. the alternative paths a sentence structure can take. However, this approach does not at all deal with the *p*-rules, i.e. the phrase rules modelling the actual linguistic structures. Palmer seems to have intended the "stations" to be noun phrases, but he does not go into detail about the internal structure of these stations.
 
 ::: {.im #palmer1938_196}
-Flow-diagram for the English sentence from Palmer [-@palmer1938: 196]
+Flow-diagram for the English sentence from Palmer [-@palmer1938: 196]. This diagram is the summary of a 80-page discussion, detailing all branches and loop-lines of the English sentence structure in great detail. This diagram nicely models the possible syntactic alternatives (i.e. the *s*-rules from earlier), but not the actual phrase structures (i.e. the *p*-rules from earlier). The circular link on top is intended to model multi-clause structure recursively. However, the internal structure of noun phrases (the "stations") is not included at all in this diagrammatic approach. 
 :::
+
+Palmer seems to have a special interest in graphical display and it would be very interesting to further investigate his rather difficult to obtain writings from his japanese period. He explicitly claims that visualisation is a central aspect of his approach to didactics:
+
+> Whether in guise of ergonic chart, substitution table, mnemonic diagram, concretized formula, or practical scheme of analysis, the object of each of these graphic representations is identical: *the development and encouragement of the faculty of visualizing.* [@palmer1917: 259]
+
+In an obituary of Palmer, Bongers [-@bongers1950] recounts that Palmer towards the end of his life build his sentential railway in his garden:
+
+> Zijn liefhebberij was kaarten maken, en miniatuur berglandschappen. In zijn tuin in East Grinstead maakte hij een berglandschap met een uitgebreid spoorwegnet, in de vorm van de Syntax Chart van de Engelse zin. [@bongers1950: 239]
+>
+> ('His hobby was making maps, as well as miniature mountain landscapes. In his garden in East Grinstead, he created a mountain landscape featuring an extensive railway network, laid out in the form of the Syntax Chart of an English sentence.')
 
 ## Ajdukiewicz (1935) *Die syntaktische Konnexität*
 
@@ -1061,6 +1111,5 @@ After moving to Zadar, Mikuš wrote various further papers, but he basically rec
 Albert W. de Groot (1892-1963)
 
 brackets [@groot1949: 10], numbers and incidental brackets [@groot1949a: 117, 156, 184, 230]
-
 
 
