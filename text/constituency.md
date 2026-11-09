@@ -84,11 +84,11 @@ In the first sentence, the topmost clause *G* is actually incomplete (as explici
 
 In the second example Wundt does not use any internal capital letter *G*, but there are uppercase letters *A,B,C,D*, probably indicating subject and predicate of main clauses. This is reminiscent of the Lehmann tradition, using capital letters for main clauses and lowercase for subordinate clauses (see [@sec:lehmann1833]). On the left side, the lowercase *(a)* in brackets seems to suggest an omitted subject, though the subject of predicate *d* is actually present. Wundt also appears to mark complements clauses (introduced with *daß*) by simply positioning them below their matrix clauses (without marking and without explanation), but erroneously links the last main clause *(A^⏜^D)* to the complement clause, instead of to the main clause *(A^⏜^C)*. The use of the subscripts on the right side seems superfluous.
 
-German grammarians were not impressed by Wundt's linguistic analysis, and his graphical analysis is completely ignored. Extensive reviews of Wundt's book *Sprache* are written by Delbrück [-@delbruck1901] and Sütterlin [-@sutterlin1902], leading to a lengthy reply by Wundt [-@wundt1901] and by his student Dittrich [-@dittrich1902]. Only Dittrich in passing mentions the graphical approach. Delbrück off-handedly dismisses the idea of binary branching: *Ich bin demnach der Meinung, daß dieses ganze Princip der fortgesetzten binären Zerlegung […] durch die sprachlichen Thatsachen nicht empfohlen wird* 'I am therefore of the opinion that this entire principle of continued binary decomposition […] is not recommended by linguistic facts' [@delbruck1901: 153-154].
+German grammarians were not impressed by Wundt's linguistic analysis, and his graphical analysis is completely ignored. Extensive reviews of Wundt's book *Sprache* are written by Delbrück [-@delbruck1901] and Sütterlin [-@sutterlin1902], leading to a lengthy reply by Wundt [-@wundt1901] and by his student Dittrich [-@dittrich1902]. Only Dittrich in passing mentions the graphical approach. Delbrück off-handedly dismisses the idea of binary branching: *Ich bin demnach der Meinung, daß dieses ganze Princip der fortgesetzten binären Zerlegung […] durch die sprachlichen Thatsachen nicht empfohlen wird* 'I am therefore of the opinion that this entire principle of continued binary decomposition […] is not recommended by linguistic facts' [@delbruck1901: 153-154]. Sechehaye has a long discussion of the proposals of Wundt, only to conclude that Wundt did not understand the "grammatical problem":
+
+> La critique essentielle que nous croyons devoir formuler à l'égard de Wundt peut se résumer en quelques mots: […] il n'a pas compris l'importance du problème grammatical. [@sechehaye1908: 23]
 
 Although Wundt's graphical analysis does not have had any direct followers (except for Sheffield in the USA, [@sec:sheffield1912]), his general approach seems to have influenced Bloomfield ([@sec:bloomfield1933]) and via Bloomfield it has influenced the tradition of *immediate constituents* in the USA, directly leading to Chomsky's generative grammar in the 1960. Specifically the idea of an exclusively binary subdivisions of sentences, a major tenet of Chomsky's approach, is probably directly attributable to Wundt (but apparently without Chomsky realizing this).
-
-mentioned with graphic in [@deutschbein1928: 48-49]
 
 ## Götzinger (1880) *Deutsche Grammatik in genetischer Darstelllung* {#sec:götzinger1880}
 
@@ -481,7 +481,7 @@ teaching phonetics-phonemics." p.viii
 - 1946: *Syntax, a descriptive analysis* [@nida1946a]
 - 1948: [@nida1948] no pictures (but very prominent publication!) cites pike, harris, bloch, wells
 - 1949: second edition *Morphology* with pictures. sentence: [@nida1949: 87], hierarchical morphological structure p.101, both 105
-- 1950: *Learning a foreign language* only 1957 edition available, with trees [@nida1957: 181]
+- 1950: *Learning a foreign language* only 1957 edition available, with trees [@nida1957: 181] cites Palmer!
 - 1951: *Outline of descriptive syntax* full of pictures! [@nida1951] cited in "syntactic structures" in bibliography, but without mentioning in the main text
 - 1960: publication of dissertation with added pictures *A synopsis of English syntax* [@nida1960]
 - 1964: *Toward a Science of Translating* summary of different equivalent graphics [@nida1964: 58-62]
@@ -610,7 +610,7 @@ Morphology schemes p. 579-580 somewhat similar to Harris' approach to morphology
 
 also in [@chomsky1975: 181, 229, 258] https://archive.org/details/logicalstructure00noam
 
-First trees in [@chomsky1956: 117-118], based on boxed table from Pike/Fries/Hockett. In this paper (written for a non-linguistic audience) Chomsky does not cite any linguistic papers, but simply calls the linguistic tradition "customarily". He then gives a diagram in the tradition of Pike/Fries/Hockett.
+First trees in [@chomsky1956: 117-118], based on boxed table like Hockett. In this paper (written for a non-linguistic audience) Chomsky does not cite any linguistic papers, but simply calls the linguistic tradition "customarily". He then gives a diagram in the tradition of Pike/Fries/Hockett.
 
 > Customarily, syntactic description is given in terms of what is called "immediate constituent analysis." In description of this sort the words of a sentence are grouped into phrases, there are grouped in smaller constituent phrases and so on, until the ultimate constituents (generally morphemes) are reached. These phrases are then classified as noun phrases (NP), verb phrases (VP). etc. [@chomsky1956: 116]
 
@@ -640,6 +640,14 @@ Immediate constituents as "Item and Arrangement (IA)" approach [@hockett1954] no
 
 [@francis1958] chinese boxes. Stewart [@stewart1976] reports from personal communication with Francis, that the chinese-box diagrams were inspired on the graphical display in [@fries1952]
 
+## Landar (1961) *accepted and rejected arrangements of Navaho words*
+
+Herbert Jay Landar (1927–2003), Dissertation in Yale with Bloch
+
+obituary https://www.calstatela.edu/sites/default/files/emeritimesf03.pdf
+
+Using numbers to indicate the level of hierarchical division [@landar1960; @landar1961], more extensive in dissertation published in 1963 in Language Supplement
+
 ## Gammon (1963) *On representing syntactic structure*
 
 [@gammon1963], completely ignoring chomsky?
@@ -655,9 +663,17 @@ added chapter on TGG from different author. seems to be added late in the proces
 
 Some of the old approaches still in print, e.g. Mensing. However, there is a clear discontinuity in didactic approaches. Feldermodell emerges
 
+## Deutschbein (1917) *System der neuenglischen Syntax*
+
+https://de.wikipedia.org/wiki/Max_Deutschbein
+
+Graphic like Wundt in [@deutschbein1917: 48-49], see also simple graphics p.55, 172, 264
+
+simple graphic: [@deutschbein1926: 119]
+
 ## Züllig (1934) *Die Satzlehre*
 
-Louis Züllig from St. Gallen
+Louis Züllig (1890–1973) from St. Gallen
 
 > Die Hauptaufgabe fiel dabei Herrn Louis Züllig, Lehrer an der Sekundarlehramtsschule in St. Gallen, zu, der die Wort- und Satzlehre nach neuen Grundsätzen der Sprachwissenschaft aufbaute und dabei zu Auffassungen kam, die vielen Kollegen neu sein dürften. Aus diesem Grunde ist die *Satzlehre* ohne Kürzung gedruckt worden. (1934, p.5)
 
