@@ -483,7 +483,7 @@ teaching phonetics-phonemics." p.viii
 - 1946: *Syntax, a descriptive analysis* [@nida1946a]
 - 1948: [@nida1948] no pictures (but very prominent publication!) cites pike, harris, bloch, wells
 - 1949: second edition *Morphology* with pictures. sentence: [@nida1949: 87], hierarchical morphological structure p.101, both 105
-- 1950: *Learning a foreign language* only 1957 edition available, with trees [@nida1957: 181] cites Palmer!
+- 1950: *Learning a foreign language* only 1957 edition available, with trees [@nida1957: 181] cites Palmer 1917 [@nida1957: iii]
 - 1951: *Outline of descriptive syntax* full of pictures! [@nida1951] cited in "syntactic structures" in bibliography, but without mentioning in the main text
 - 1960: publication of dissertation with added pictures *A synopsis of English syntax* [@nida1960]
 - 1964: *Toward a Science of Translating* summary of different equivalent graphics [@nida1964: 58-62]
@@ -965,7 +965,7 @@ Satzbilder with lines in [@lobentanzer1986: 60, 72-73]
 
 ## Palmer (1917) *The scientific study & teaching of languages*
 
-Harold Edward Palmer (1877–1949) was a phonetician and language educator from London. He founded the *Institute for Research in English Teaching* in Tokyo, Japan, where he worked from 1922 to 1937. His life and extensive scholarly output are discussed in detail by Smith [-@smith2004]. Palmer's research focused primarily on second-language teaching, and he proposed a wide range of approaches in keeping with the ideas of the so-called *reform movement* in language education, initiated by Wilhelm Viëtor. In the course of this work, Palmer also developed various approaches to syntactic analysis, which appear to have gone largely unnoticed and unappreciated by his structuralist contemporaries.^[Harris [-@harris1951: 46] cites Palmer's work on intonation, but gives no indication that he was familiar with Palmer's approach to syntax.]
+Harold Edward Palmer (1877–1949) was a phonetician and language educator from London. He founded the *Institute for Research in English Teaching* in Tokyo, Japan, where he worked from 1922 to 1937. His life and extensive scholarly output are discussed in detail by Smith [-@smith2004]. Palmer's research focused primarily on second-language teaching, and he proposed a wide range of approaches in keeping with the ideas of the so-called *reform movement* in language education, initiated by Wilhelm Viëtor. In the course of this work, Palmer also developed various approaches to syntactic analysis, which appear to have gone largely unnoticed and unappreciated by his structuralist contemporaries.^[Harris [-@harris1951: 46] cites Palmer's work on intonation, but gives no indication that he was familiar with Palmer's approach to syntax. Nida [-@nida1957: iii] cites Palmer in the context of language teaching. In this book, Nida regularly uses a notion of "substitution", but does not refer to the rewrite rules from Palmer.]
 
 Palmer called his approach to teaching syntactic structures "substitution tables." He first explicitly published this approach in a short manual, *Colloquial English* [@palmer1916]. He describes substitution as a process "by which any authentic sentence may be multipied indefinitely by substituting any of its words or word-groups by others of the same grammatical family and within certain semantic limits" [@palmer1916: iii]. He then presents 100 English sentence structures, each with alternatives for its words. Learners can practice these structures by substituting the alternatives to create new sentences of the same form.
 
