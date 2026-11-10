@@ -353,6 +353,8 @@ Michigan: Fries -> Pike, Nida (Bloomfield is Diss advisor!)
 Philadelphia: Harris -> Chomsky, Wells (1942-1945)
 Hartford Missionary: Gleason
 
+summary of first years after chomsky 1957 in [@postal1964a]. Summary of state of TGG in [@katz1964].
+
 see also [@nielsen2010: §2.4, §6.2]
 
 ## Sheffield (1912) *Grammar and thinking* {#sec:sheffield1912}
@@ -630,6 +632,10 @@ second edition from 1961 extended, Chomsky mentioned in introduction [@gleason19
 
 [@elson1960a; @elson1962; @elson1983; @pickett1956]
 
+## Newmark (1957) *The word as a descriptive unit*
+
+Tree like Nida [@newmark1957: 32]
+
 ## Hockett (1958) *A course in modern linguistics*
 
 Immediate constituents as "Item and Arrangement (IA)" approach [@hockett1954] no graphics
@@ -650,7 +656,7 @@ Using numbers to indicate the level of hierarchical division [@landar1960; @land
 
 ## Gammon (1963) *On representing syntactic structure*
 
-[@gammon1963], completely ignoring chomsky?
+[@gammon1963], not citing chomsky?
 
 ## Stageberg (1965) *An introductory English grammar*
 
