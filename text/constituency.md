@@ -494,7 +494,7 @@ In the preface of the 1943: 30 dissertation he cited Sheffield 1912 (though not 
 
 Note the combination of dependency and constituency!
 
-## Bloch (1946) *Studies in colloquial Japanese*
+## Bloch (1946) *Studies in colloquial Japanese* {#sec:bloch1946}
 
 Bernard Bloch (1907–1965) was a professor for linguistics in Yale.
 
@@ -648,11 +648,29 @@ Immediate constituents as "Item and Arrangement (IA)" approach [@hockett1954] no
 
 ## Landar (1961) *accepted and rejected arrangements of Navaho words*
 
-Herbert Jay Landar (1927–2003), Dissertation in Yale with Bloch
+Herbert Jay Landar (1927–2003) went to Yale to study Indo-European comparative linguistics, but became fascinated by the description of Native American languages. He wrote a dissertation on Navaho syntax [@landar1963] under the supervision of Bloch (see [@sec:bloch1946]) .^[An obituary for Landar is available online on page 7 of <https://www.calstatela.edu/sites/default/files/emeritimesf03.pdf>, accessed 11 November 2026.] In his dissertation and in two short notes in the *International Journal of American Linguistics* [@landar1960; @landar1961] he employed a distinctive notation for hierarchical structure. Although tree diagrams were already widely used by this time, but Landar opted for a different approach.
 
-obituary https://www.calstatela.edu/sites/default/files/emeritimesf03.pdf
+Landar used numbers inserted into the text to indicate its hierarchical structure, as shown in [@fig:landar1963_38] for a rather complex example from Navaho [@landar1963: 38]. The idea behind this notation was probably inspired by Wells (see [@sec:wells1947]). Wells used lines between the constituents, with additional lines indicating successively deeper levels in the hierarchy. The highest bifurcation was indicated by a single line. Landar adopted the same principle, but replaced the vertical lines with numbers indicating how many such lines would occur at each point. The result is an extremely compact notation that represents hierarchical structure with very little additional effort. [@fig:landar1963_38_tree] shows the same hiearchical structure in the form of a tree diagram. While this representation may make the structure easier to assess at a glance, it comes at the cost of a considerably more complex and cumbersome illustration.
 
-Using numbers to indicate the level of hierarchical division [@landar1960; @landar1961], more extensive in dissertation published in 1963 in Language Supplement
+Landar devotes the following six pages to explain the linguistic structure of this example [@landar1963: 38-44], using indentation to indicate the hierarchical structure, in a manner reminiscent of Bloch's visual approach (see [@sec:bloch1946]). Unfortunately, closer inspection reveals that the example reproduced in [@fig:landar1963_38] is incomplete: an entire line from the Navaho original text is missing. This may simply be a printing error, but it once again illustrates how difficult it can be to get notations and visual representations of complex linguistic examples right. Errors are easily introduced and not always easy to detect. I have reconstructed missing parts in [@next], although I have only included the numbers indicating the hierarchical structure. I have not attempted to guess the missing Navaho text.
+
+::: {.im #landar1963_38}
+Numbers used to indicate immediate constituents in a Navaho sentence from Landar [-@landar1963: 38]. The numbers indicate the bifurcation-depth at that position, e.g. the number "1" indicates the highest branching point. Both to the left and the right of the "1" there is a "2", which indicates the next branching points. Unfortunately, in the printed version there is a line omitted from the Navaho text. The missing elements are added in [@last] and in the tree representation in [@fig:landar1963_38_tree].
+:::
+
+::: ex
+Corrected version of the hierarchical structure from [@fig:landar1963_38]
+
+ʔá 4 kho 3 ko 2 ší̢í̢ 1 tíí 5 ńlááh 7 ti 6 titłóki 7 thatžinííł 4 ko 3 paa 6 ǹtžayáh \
+5 á̢a̢ 4 tááʔ 2 ńlah 8 kóó 7 yah 8 kʔat 9 ʔeʔeʔaah 6 ko 5 xasthiin 8 paa 9 \
+… … … 7 … … … 6 … … … 8 … … … 7 … … … 9 … … … 8 … … … 9 \
+tiiyá 4 tžin 3 pitšʔah 9 á̢a̢ 8 tʔá̢á̢ʔ 9 tooyot 7 ko 6 konooyéél 10 é̢e̢ 9 tʔá̢á̢ 12 \
+łah 13 á 11 ko 10 pee 11 estłʔó̢ 8 yitziih 7 ko 5 yoothí̢í̢ł 4 tžin \
+:::
+
+::: {.tree #landar1963_38_tree}
+Tree diagram of the immediate constituency in [@fig:landar1963_38] from Landar [-@landar1963: 38]. This tree is corrected for the missing nodes from the Navaho text in the printed version. This reconstruction of the missing parts is based on Landar's analysis, I have no information which Navaho words are actually missing.
+:::
 
 ## Gammon (1963) *On representing syntactic structure*
 

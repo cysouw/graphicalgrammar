@@ -1,0 +1,152 @@
+# =============================
+# This file contains a hierarchically structured sentence
+# in the format of the RSyntaxTree tool.
+#
+# The format is documented here:
+# https://yohasebe.github.io/rsyntaxtree/documentation
+#
+# Use the following website to generate a graphical tree
+# https://yohasebe.com/rsyntaxtree/
+# =============================
+
+[<>
+  [1a
+    [2a
+      [3a 
+        [4a ***ʔá***\ over\ there]
+        [4b ***kho***\ at<>a\ spot]]
+      [3b ***ko***\ being\ thus]
+    ]
+    [2b ***ší̢í̢***\ it\ seems]
+  ]
+  [1b
+    [2a
+      [3a
+        [4a
+          [5a ***tíí***\ this\ one]
+          [5b
+            [6a 
+              [7a ***ńlááh***\ yonder]
+              [7b ***ti***\ at<>a\ spot]
+            ]
+            [6b 
+              [7a ***titłóki***\ green\ corn\ mush]
+              [7b ***thatžinííł***\ she\ makes\ much]
+            ]
+          ]
+        ]
+        [4b ***ko***\ being\ thus]
+      ]
+      [3b
+        [4a 
+          [5a 
+            [6a ***paa***\ after\ her]
+            [6b ***ǹtžayáh***\ a<>distant\ one<>goes\ to<>a<>point]
+          ]
+          [5b ***á̢a̢***\ as<>was\ mentioned]
+        ]
+        [4b ***tááʔ***\ in<>time\ past]
+      ]
+    ]
+    [2b
+      [3a
+        [4a
+          [5a
+            [6a
+              [7a 
+                [8a ***ńlah***\ yonder]
+                [8b ***kóó***\ towards]
+              ]
+              [7b 
+                [8a ***yah***\ down]
+                [8b 
+                  [9a ***kʔat***\ now]
+                  [9b ***ʔeʔeʔaah***\ a<>round<>object\ moves<>down\ into<>indefinite<>space\ among<>clouds]
+                ]
+              ]
+            ]
+            [6b ***ko***\ being\ thus]
+          ]
+          [5b
+            [6a
+              [7a
+                [8a ***xasthiin***\ man]
+                [8b 
+                  [9a ***paa***\ after\ her]
+                  [9b (?)\ a<>distant\ one<>went\ to<>a<>point]
+                ]
+              ]
+              [7b (?)\ as<>was\ mentioned]
+            ]
+            [6b
+              [7a
+                [8a (?)\ still]
+                [8b (?)\ was\ thus]
+              ]
+              [7b
+                [8a
+                  [9a (?)\ there\ close]
+                  [9b (?)\ from]
+                ]
+                [8b
+                  [9a (?)\ down]
+                  [9b ***tiiyá***\ he<>started\ to<>go]
+                ]
+              ]
+            ]
+          ]
+        ]
+        [4b ***tžin***\ they\ say<>it]
+      ]
+      [3b
+        [4a
+          [5a
+            [6a
+              [7a
+                [8a
+                  [9a ***pitšʔah***\ his<>hat]
+                  [9b ***á̢a̢***\ as<>was\ mentioned]
+                ]
+                [8b 
+                  [9a ***tʔá̢á̢ʔ***\ backward]
+                  [9b ***tooyot***\ it<>is\ bent]
+                ]
+              ]
+              [7b ***ko***\ being\ thus]
+            ]
+            [6b
+              [7a
+                [8a
+                  [9a
+                    [10a ***konooyéél***\ firebrand] 
+                    [10b ***é̢e̢***\ as<>was\ mentioned]
+                  ]
+                  [9b
+                    [10a
+                      [11a
+                        [12a ***tʔá̢á̢***\ just]
+                        [12b 
+                          [13a ***łah***\ one\ (numeral)]
+                          [13b ***á***\ the\ one]
+                        ]
+                      ]
+                      [11b ***ko***\ being\ thus]
+                    ]
+                    [10b
+                      [11a ***pee***\ with<>it]
+                      [11b ***estłʔó̢***\ something\ was<>tied]
+                    ]
+                  ]
+                ]
+                [8b ***yitziih***\ it<>has<>it\ remaining]
+              ]
+              [7b ***ko***\ being\ thus]
+            ]
+          ]
+          [5b ***yoothí̢í̢ł***\ he<>is\ carrying\ a<>stick\-like\ object\ along]
+        ]
+        [4b ***tžin***\ they\ say<>it]
+      ]
+    ]
+  ]
+]
