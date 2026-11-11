@@ -679,17 +679,25 @@ simple graphic: [@deutschbein1926: 119]
 
 ## Züllig (1934) *Die Satzlehre*
 
-Louis Züllig (1890–1973) from St. Gallen
+Louis Züllig (1890–1973) from St. Gallen. Nachrufe 1928-1941 im Archiv St. Gallen: https://dls.staatsarchiv.sg.ch/records/607691
 
 > Die Hauptaufgabe fiel dabei Herrn Louis Züllig, Lehrer an der Sekundarlehramtsschule in St. Gallen, zu, der die Wort- und Satzlehre nach neuen Grundsätzen der Sprachwissenschaft aufbaute und dabei zu Auffassungen kam, die vielen Kollegen neu sein dürften. Aus diesem Grunde ist die *Satzlehre* ohne Kürzung gedruckt worden. (1934, p.5)
 
-cites Litt aphorism from https://ds.ub.uni-bielefeld.de/viewer/image/102679/1/
+Züllig cites Litt aphorism from https://ds.ub.uni-bielefeld.de/viewer/image/102679/1/
 
 Cited by Glinz as an influence p.155: https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/2307/file/Grammatische_Terminologie_in_Sprachbuch_und_Unterricht_1987.pdf
 
-Nachrufe 1928-1941 im Archiv St. Gallen: https://dls.staatsarchiv.sg.ch/records/607691
+No explanation for the following graphics.
 
-simple subject-predicate visualisation [@zullig1940: 113], in which predicate contains everything in the sentence, except the subject.
+::: {.im #züllig1934_21}
+Structure of basic German sentences from Züllig [-@zullig1934: 21], visualised with a verbal bracket linking the finite and infinite parts of the verb.
+:::
+
+::: {.im #züllig1934_25}
+Hierarchical structure of the noun phrase from Züllig [-@zullig1934: 25].
+:::
+
+simple subject-predicate visualisation in [@zullig1940: 113], in which predicate contains everything in the sentence, except the subject. No complex hierarchical structure
 
 ## Drach (1937) *Grundgedanken der deutschen Satzlehre* {#sec:drach1937}
 
