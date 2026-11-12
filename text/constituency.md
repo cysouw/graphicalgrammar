@@ -357,6 +357,10 @@ summary of first years after chomsky 1957 in [@postal1964a]. Summary of state of
 
 see also [@nielsen2010: §2.4, §6.2]
 
+Role of 1950 textbook of Rosenbloom on logic, including Post's work https://archive.org/details/bwb_W9-DEP-142/
+
+Pullum's article: https://benjamins.com/online/hl/articles/hl.00186.pul
+
 ## Sheffield (1912) *Grammar and thinking* {#sec:sheffield1912}
 
 Alfred Dwight Sheffield (1871-1961) was a professor at Wellesley College in Massachusetts. Some basic biographical information is presented by Subbiondo [-@subbiondo2025: 2-3]. Today, Sheffield is not widely known in the field of linguistics and already Brittain [-@brittain1973: 204] said that "linguists seem to have been unaware of his work". However, this was surely not the case at the time when Sheffield was still active. His first book, *Grammar and thinking* [@sheffield1912], was reviewed by none other than Leonard Bloomfield, who was quite critical though [@bloomfield1912]. Also Otto Jespersen cites Sheffield's work contemporaneaously [@jespersen1913: 63, 84] and Eugene Nida cites Sheffield in his doctoral dissertation from 1943 [published as @nida1960: 30].
@@ -460,6 +464,8 @@ Hypothesis that Wundt influenced Bloomfield: [@percival1976: 234-235 gives vario
 > Any English-speaking person who concerns himself with this matter, is sure to tell us that the immediate constituents of *Poor John ran away* are the two forms *poor John* and *ran away*; that each of these is, in turn, a complex form; that the immediate constituents of ran away are *ran*, a morpheme, and *away*, a complex form, whose constituents are the morphemes *a-* and *way*; and that the constituents of *poor John* are the morphemes *poor* and *John*. [@bloomfield1933: 161]
 
 Historical survey of Bloomfield and post-Bloomfieldians: [@matthews1993]
+
+Bloomfield [@bloomfield1933: 537-538] mentions various book of Palmer, but not the 1917 book with the rewrite rules.
 
 ## Pike (1943) *Taxemes and immediate constituents* {#sec:pike1943}
 
@@ -578,6 +584,8 @@ Charles Carpenter Fries (November 29, 1887 – December 8, 1967)
 no graphics in "American English Grammar" (1940), probably one of the first real corpos-linguistic grammars of English.
 
 graphics in [@fries1952: 272] (Pike is a student of Fries, Fries might have been inspired by Pike 1943 here). Cites Jespersen "analytic syntax" on p3
+
+Fries cites Palmer (1917) in "the teaching of the english language" p 186 "selected references": https://books.google.de/books?id=RchEAAAAIAAJ
 
 ## Bar-Hillel (1953) *A Quasi-Arithmetical Notation for Syntactic Description*
 
