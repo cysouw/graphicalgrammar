@@ -10,6 +10,10 @@ General idea of modifier-modified pairing, each of which can in turn be itself s
 
 Bally uses *determiné T* and *determinant T'* as the two parts of a *syntagme*, also used by Mikuš.
 
+Visualisation of logical deduction in Göttingen: [@bodner2026]
+
+See also section "logician's grammar" including the role of hiż on chomsky [@goldsmith2019]
+
 # Logical origins (1880-1900)
 
 see also hierarchical braces in [@stein1890: 92], revised by Binstorfer. Also Zikmund/Gebauer
@@ -202,6 +206,8 @@ Jespersen uses letters, superscripts and brackets to represent syntactic structu
 Analysis of a complex sentence from Jespersen [-@jespersen1937: 83] citing an example from Fry [-@fry1925: 64] that originally was used to illustrate a graphical analysis (cf. [@fig:fry1925_64]). The brackets are not consistently closed in this example, but that appears to be a printing error (there should have been a closing bracket below *knife* and below *feeding*). All other examples in his book that I have checked have properly closed brackets.
 :::
 
+> In working out the syntax of Potawatomi extensive use was made of Jespersen's system of Analytical Syntax; but for final presentation it was felt that the use of an extensive set of auxiliary symbols was unnecessary. [@hockett1939: 237]
+
 ## Hjelmslev (1928) *Principes de grammaire générale*
 
 Louis Trolle Hjelmslev (1899-1965) was a linguist at the university of Copenhagen and co-founder of the *Lingvistkredsen* 'Linguistic Circle of Copenhagen' with Brøndal (see [@sec:brøndal1932]). Hjelmslev developed an intricate system of linguistic analysis under the label *glossomatik*, but he does not appear to have applied this to the analysis of longer stretches of text. There are many graphics in his work, but they mostly deal with paradigmatic structures. A rare syntactic visualisation is the rather trivial example shown in [@fig:hjelmslev1928_138] [@hjelmslev1928: 138] for the Latin sentence in [@next a]. A few years later he adds another trivial visualisation, as shown in [@fig:hjelmslev1935_52] [@hjelmslev1935: 52] for the Latin example in [@next b]. These visualisations are probably better analysed as showing government/agreement relations, and not as a real syntactic sentence analysis.
@@ -357,7 +363,7 @@ summary of first years after chomsky 1957 in [@postal1964a]. Summary of state of
 
 see also [@nielsen2010: §2.4, §6.2]
 
-Role of 1950 textbook of Rosenbloom on logic, including Post's work https://archive.org/details/bwb_W9-DEP-142/
+Role of 1950 textbook of Rosenbloom on logic, including Post's work, especially chapter IV "the general syntax of language" https://archive.org/details/bwb_W9-DEP-142/
 
 Pullum's article: https://benjamins.com/online/hl/articles/hl.00186.pul
 
@@ -436,7 +442,7 @@ In his algebraic formulae, Sapir uses capitals for lexical roots, lower case for
 
 > The word *wii-to-kuchum-punku-rügani-yugwi-va-ntü-m(ü)* is of unusual length even for its own language, but it is no psychological monster for all that. It means "they who are going to sit and cut up with a knife a black cow (or bull)", or, in the order of the Indian elements, "knife-black-buffalo-pet-cut up-sit(plur.)-future-participle-animate-plur". The formula for this word, in accordance with our symbolism, would be *(F)+(E)+C+d+A+B+(g)+(h)+(i)+(0)*. It is the plural *(i)* of the future participle *(h)* of a compound verb "to sit and cut up"—*A+B*. […] The radical element *A* ("to cut up"), before entering into combination with the coordinate element *B* ("to sit"), is itself compounded with two nominal elements or element-groups—an instrumentally used stem *(F)* ("knife") […] and an objectively used group—*(E)+C+d* ("black cow or bull"). This group in turn consists of an adjectival radical element *(E)* ("black") […] and the compound noun *C+d* ("buffalo-pet"). […] The whol complex *(F)+(E)+C+d+A+B* […] remains verbal in force on the addition of the temporal element *(g)*—this *(g)*, by the way, must not be understood as appended to *B* alone, but to the whole basic complex as a unit. [@sapir1921: 31-32]
 
-Various people have noticed that this description in words would have been much more clearer and succinct had Sapir used a visual representation. Independently of each other, both Mikuš [-@mikus1953: 20], see [@fig:mikus1953_20], and Seuren [-@seuren1998: 187], see [@fig:seuren1998_187], transformed Sapir's explanation into a graphical representation (though Mikuš' version is not completely correct). As Seuren remarks: "Sapir's very precise analysis of this complex word would have been greatly facilitated had he used a tree diagram to illustrate it" [@seuren1998: 186].
+Various people have commented upon this structuralist approach to linguistic analysis [e.g. @jespersen1937: 88, who dismisses it for his syntax as "pure morphology"], but also noted that this description in words would have been much more clearer and succinct had Sapir used a visual representation. Independently of each other, both Mikuš [-@mikus1953: 20], see [@fig:mikus1953_20], and Seuren [-@seuren1998: 187], see [@fig:seuren1998_187], transformed Sapir's explanation into a graphical representation (though Mikuš' version is not completely correct). As Seuren remarks: "Sapir's very precise analysis of this complex word would have been greatly facilitated had he used a tree diagram to illustrate it" [@seuren1998: 186].
 
 ::: {.im #mikus1953_20}
 Chinese boxes diagram from Mikuš [-@mikus1953: 20] for the Paiute example from Sapir [-@sapir1921: 31-32]. Mikuš appears to have misread the attachment of *(F)* to *A*, as he puts *(F)* in the same box as *B*. He also omits the zero element *(0)*, which Sapir clearly explains to be a subject marker.
@@ -477,18 +483,19 @@ Pike and Nida both phd in michigan under Fries (pike 1942, nida 1943), both work
 
 ## Nida (1946) *Syntax, a descriptive analysis*
 
-Eugene Nida (1914–2011), founding charter member of Wycliffe Bible Translators, later Executive Secretary for Translations of the American Bible Society. Bio in [@north1974] obituary [@langendoen2013], nothing on Pike, nothing on Nida's syntax books.
+Eugene Nida (1914–2011), founding charter member of Wycliffe Bible Translators, later Executive Secretary for Translations of the American Bible Society. Bio in [@north1974]. obituary [@langendoen2013]: nothing on Pike, nothing on Nida's syntax books.
 
-"Each summer from 1937 to 1953 Nida returned to the Summer In-
-stitute of Linguistics (SIL) to teach. By 1939 he and Kenneth L. Pike
-were the principal teachers, Nida teaching morphology-syntax and Pike
-teaching phonetics-phonemics." p.viii
+North:
+
+"Each summer from 1937 to 1953 Nida returned to the Summer Institute of Linguistics (SIL) to teach. By 1939 he and Kenneth L. Pike were the principal teachers, Nida teaching morphology-syntax and Pike teaching phonetics-phonemics." p.viii
+
+"His doctoral thesis, A Synopsis of English Syntax (Nida 1943), was the only relatively full-scale analysis of a major language by the "immediate constituent" linguistic theory of the time. It was circulated in typescript by interlibrary loan and in several hundred lithoprinted copies before finally being published in 1960." p. viii
 
 - 1943: Dissertation University of Michigan *A Synopsis of English Syntax* https://research.ebsco.com/plink/6ef9b31b-f19e-3ff2-b4fd-47797822cf21
 - 1946: first edition *Morphology*, no pictures in this version! [@nida1946]
 - 1946: *Syntax, a descriptive analysis* [@nida1946a]
 - 1948: [@nida1948] no pictures (but very prominent publication!) cites pike, harris, bloch, wells
-- 1949: second edition *Morphology* with pictures. sentence: [@nida1949: 87], hierarchical morphological structure p.101, both 105
+- 1949: second edition *Morphology* with pictures. sentence: [@nida1949: 87], hierarchical morphological structure p.101, both 105. also uses bars from Wells on p. 87 (he cites Wells 1947)
 - 1950: *Learning a foreign language* only 1957 edition available, with trees [@nida1957: 181] cites Palmer 1917 [@nida1957: iii]
 - 1951: *Outline of descriptive syntax* full of pictures! [@nida1951] cited in "syntactic structures" in bibliography, but without mentioning in the main text
 - 1960: publication of dissertation with added pictures *A synopsis of English syntax* [@nida1960]
@@ -585,11 +592,15 @@ no graphics in "American English Grammar" (1940), probably one of the first real
 
 graphics in [@fries1952: 272] (Pike is a student of Fries, Fries might have been inspired by Pike 1943 here). Cites Jespersen "analytic syntax" on p3
 
-Fries cites Palmer (1917) in "the teaching of the english language" p 186 "selected references": https://books.google.de/books?id=RchEAAAAIAAJ
+on immediate constituents: cites Bloomfield, Pike, Wells, Harris p262
+
+symbolic hierarchical analysis: p268-271 for example "This particular social event of the season usually claims the full attention of the students who stay in town."
+
+earlier, Fries cites Palmer (1917) in "the teaching of the english language" p 186 "selected references": https://books.google.de/books?id=RchEAAAAIAAJ
 
 ## Bar-Hillel (1953) *A Quasi-Arithmetical Notation for Syntactic Description*
 
-[@barhillel1953] english explanation of [@ajdukiewicz1935]
+[@barhillel1953] english explanation of [@ajdukiewicz1935] cites Harris rewrite rules, makes explicit tree derivation with catogories.
 
 ## Chomsky (1953) *Systems of syntactic analysis* 
 
@@ -599,38 +610,43 @@ first generative rewrite rules following Harris  in [@chomsky1953]. "The constru
 
 Chomsky cites Bar-Hillel (1953: 57)
 
-[@chomsky1955] *The logical structure of linguistic theory* He cites various linguistic literature (harris, halle, jakobson, bloch, bloomfield, wells, jespersen, nida's morphology and syntax)
+[@chomsky1955] *The logical structure of linguistic theory* He cites various linguistic literature (harris, halle, jakobson, bloch, bloomfield, wells, jespersen, nida's morphology and dissertation)
 
-Chomky cites Nida "outline of English syntax" in his 1955 manuscript, but he probably means "Synopsis of English syntax". Corrected in published version (Chomsky 1975): it should be Nida's thesis. He refers to page numbers 43 and 59 (talking about "the construction Verb-Preposition
-where the preposition is not 'separable', page 702. Maybe this refers to pp 181 amd 208 from Nida 1960?) and that it "does not even contain a discussion of questions" (page after 713)
+Chomky cites Nida "outline of English syntax" in his 1955 manuscript, but he probably means "Synopsis of English syntax". Corrected in published version (Chomsky 1975): it should be Nida's thesis. He refers to page numbers 43 and 59 (talking about "the construction Verb-Preposition where the preposition is not 'separable', page 702. Maybe this refers to pp 181 amd 208 from Nida 1960?) and chomsky says that it "does not even contain a discussion of questions" (page after 713)
 
-In 1957 he cites "a synopsis of English syntax (1951)", which is the title of Nida's unpublished thesis from 1943. Maybe he means here "outline of descriptive syntax", which is from 1951. The work is only listed in the bibliography, and apparantly nowhere in the main text though.
+In 1957 he cites "a synopsis of English syntax (1951)", which is the title of Nida's unpublished thesis from 1943. Maybe he means here "outline of descriptive syntax", which is from 1951. The work is only listed in the bibliography, and apparantly nowhere in the main text though. Note that there appears to be a copy of the 1943 dissertation that made the rounds, maybe the copy was dated 1951? cf. https://ci.nii.ac.jp/ncid/BA31911866
 
 The only clear IC-citation is Wells 1947
 
-Chomsky (1955: 277) Note the reversal of the usage of dashes, here more alike to brackets. Similar to Bloomfield's approach!
+Chomsky (1955: 277) Note the reversal of the usage of dashes, here more alike to brackets. Similar to Wells' approach (but with reversed number of lines)! Adding phrasal labels though. Analysis below the example like Pike, though Pike not cited. Maybe Morphology of Nida? Probably Nida 1949: 87, which has both dashes and trees below. and reversed number of dashes from Wells!!!
 
-Chomsky (1955: 316a,b) Similar to Pike/Fries/Hockett, but these works are not cited (other works from these authors are cited)
+Chomsky (1955: 316a,b) Similar to Pike/Fries, but these works are not cited (other works from these authors are cited)
 
-Derivation of example sentence 346-347
+Derivation of example sentence 346-347: when thinking about a sentence as a derived object, it makes sense to start from top with highest node. When analysing a specific sentence, it makes sense to start from the sentence and work downwards.
 
-line diagrams, but without actual words: "This may become clearer if we represent Q-derivations diagrammatically in an obvious way." 205-206, 214-215, 222, 232-234, 243, 734-735
+line diagrams, but without actual words: p205: "This may become clearer if we represent Q-derivations diagrammatically in an obvious way." 205-206, 214-215, 222, 232-234, 243, 734-735
 
 Morphology schemes p. 579-580 somewhat similar to Harris' approach to morphology?
 
-also in [@chomsky1975: 181, 229, 258] https://archive.org/details/logicalstructure00noam
+cites: Henry Hiż, "Positional Algebras and Structural Linguistics", Henryk Hiz, polish logician, worked with Harris! https://en.wikipedia.org/wiki/Henryk_Hiż
 
-First trees in [@chomsky1956: 117-118], based on boxed table like Hockett. In this paper (written for a non-linguistic audience) Chomsky does not cite any linguistic papers, but simply calls the linguistic tradition "customarily". He then gives a diagram in the tradition of Pike/Fries/Hockett.
+also in [@chomsky1975: 181, 229, 258]
+
+First trees in [@chomsky1956: 117-118], based on boxed table (like Hockett, but before hockett!). In this paper (written for a non-linguistic audience) Chomsky does not cite any linguistic papers, but simply calls the linguistic tradition "customarily". He then gives a diagram with boxes and labels.
 
 > Customarily, syntactic description is given in terms of what is called "immediate constituent analysis." In description of this sort the words of a sentence are grouped into phrases, there are grouped in smaller constituent phrases and so on, until the ultimate constituents (generally morphemes) are reached. These phrases are then classified as noun phrases (NP), verb phrases (VP). etc. [@chomsky1956: 116]
 
 Chomsky then asks "We now ask what form of grammar corresponds to this conception of linguistic structure" [@chomsky1956: 117] and proposes a set of rewrite rules like Harris, which he calls a "phrase-structure grammar". Giving an example ("the man took the book") he says "we can represent this […] graphically by constructing diagrams that correspond, in an obvious way, to derivations." [@chomsky1956: 117]
+
+publication history of "syntactic structures": https://neerlandistiek.nl/2000/04/noam-chomsky-en-zijn-nederlandse-uitgevers-twee-retouches/
 
 ## Gleason (1955) *An introduction to descriptive linguistics*
 
 Henry Allan 'Al' Gleason Jr. (April 18, 1917 – January 13, 2007) at Hartford Seminary Foundation (Missionary education). Textbook arose from his teaching there.
 
 [@gleason1955: 129-131] also accompanying workbook (no graphics)
+
+gleason 1955 cites Fries 1952, Nida 1949 morphology
 
 second edition from 1961 extended, Chomsky mentioned in introduction [@gleason1961]. Includes generation and transformation. But still the old IC-stuff as well [@gleason1961]
 
@@ -646,9 +662,15 @@ Tree like Nida [@newmark1957: 32]
 
 ## Hockett (1958) *A course in modern linguistics*
 
+Charles Francis Hockett (1916-2000)
+
+Dissertation on Potawatomi in Yale under Sapir. Summary in *Language* [@hockett1939] with interesting footnote. It would be interesting to see those notes!
+
+> In working out the syntax of Potawatomi extensive use was made of Jespersen's system of Analytical Syntax; but for final presentation it was felt that the use of an extensive set of auxiliary symbols was unnecessary. [@hockett1939: 237]
+
 Immediate constituents as "Item and Arrangement (IA)" approach [@hockett1954] no graphics
 
-[@hockett1958: 151-155, 178-180, 188-189]
+images: [@hockett1958: 151-155, 178-180, 188-189] Note the box/tree figure, similar to Chomsky 1955/1956.
 
 ## Francis (1958) *The structure of American English*
 
