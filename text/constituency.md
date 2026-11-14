@@ -729,6 +729,12 @@ simple graphic: [@deutschbein1926: 119]
 
 Louis Züllig (1890–1973) from St. Gallen. Nachrufe 1928-1941 im Archiv St. Gallen: https://dls.staatsarchiv.sg.ch/records/607691
 
+"Über das Wintersemester 28/29 hat sich Züllig intensiv vorbereitet aus sein neues Amt durch das Studium von Philosophie und Pädagogik an den Universitäten von Berlin und Paris"
+
+"Die vereinigten Sekundarlehrerkonferenzen beautragten nun Züllig mit deren Abfassung. Er hat sich zunächst auf das Studium der einschlägigen, weitverzweigten, besonders deren neueren Literatur geworfen."
+
+"Fachkollegen und Behörde lehnten zwar diesen Entwurf als zu hoch und zu umfangreich ab. Es sein ein Lehrerbuch statt des verlangten Schülerbuches, zwar eigenwillig und interessant. Aber der Text sei durch den vielen Hervorhebungen mit Balken und Klammern unruhig und schwer zu überblicken"
+
 > Die Hauptaufgabe fiel dabei Herrn Louis Züllig, Lehrer an der Sekundarlehramtsschule in St. Gallen, zu, der die Wort- und Satzlehre nach neuen Grundsätzen der Sprachwissenschaft aufbaute und dabei zu Auffassungen kam, die vielen Kollegen neu sein dürften. Aus diesem Grunde ist die *Satzlehre* ohne Kürzung gedruckt worden. (1934, p.5)
 
 Züllig cites Litt aphorism from https://ds.ub.uni-bielefeld.de/viewer/image/102679/1/
