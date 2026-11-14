@@ -602,13 +602,11 @@ earlier, Fries cites Palmer (1917) in "the teaching of the english language" p 1
 
 [@barhillel1953] english explanation of [@ajdukiewicz1935] cites Harris rewrite rules, makes explicit tree derivation with catogories.
 
-## Chomsky (1953) *Systems of syntactic analysis* 
+## Chomsky (1955) *The logical structure of linguistic theory*
 
-first generative rewrite rules following Harris  in [@chomsky1953]. "The constructions of this paper are roughly coextensive with the procedures of [Harris [@harris1951]]" [@chomsky1953: 242 fn.]. Discussion of IC on p. 247, fn. 13. No concrete linguistic examples are discussed.
+first generative rewrite rules following Harris  in *Systems of syntactic analysis* [@chomsky1953]. "The constructions of this paper are roughly coextensive with the procedures of [Harris [@harris1951]]" [@chomsky1953: 242 fn.]. Discussion of IC on p. 247, fn. 13. No concrete linguistic examples are discussed.
 
 "we will call the immediate constituents, their immediate constituents, etc., down to ultimate constituents, simply the *constituents* of the language." [@chomsky1953: 252 fn. 20]
-
-Chomsky cites Bar-Hillel (1953: 57)
 
 [@chomsky1955] *The logical structure of linguistic theory* He cites various linguistic literature (harris, halle, jakobson, bloch, bloomfield, wells, jespersen, nida's morphology and dissertation)
 
@@ -620,13 +618,15 @@ The only clear IC-citation is Wells 1947
 
 Chomsky (1955: 277) Note the reversal of the usage of dashes, here more alike to brackets. Similar to Wells' approach (but with reversed number of lines)! Adding phrasal labels though. Analysis below the example like Pike, though Pike not cited. Maybe Morphology of Nida? Probably Nida 1949: 87, which has both dashes and trees below. and reversed number of dashes from Wells!!!
 
-Chomsky (1955: 316a,b) Similar to Pike/Fries, but these works are not cited (other works from these authors are cited)
+Published version has chapter "summary" put in front, so all the following chapters have moved up a number
 
-Derivation of example sentence 346-347: when thinking about a sentence as a derived object, it makes sense to start from top with highest node. When analysing a specific sentence, it makes sense to start from the sentence and work downwards.
+Chapter VI *Phrase Structure*: theoretical discussion of derivation: line diagrams, but without actual words: p205: "This may become clearer if we represent Q-derivations diagrammatically in an obvious way." 205-206, 214-215, 222, 232-234, 243, 734-735 Q-derivations are derivations with terminal symbols
 
-line diagrams, but without actual words: p205: "This may become clearer if we represent Q-derivations diagrammatically in an obvious way." 205-206, 214-215, 222, 232-234, 243, 734-735
+Chapter VII *Description in Terms of Phrase Structure*: application to real language, using traditional trees and lists (321, 345-347) showing derivation, but no top-down trees. Chomsky (1955: 316a,b) Similar to Pike/Fries, but these works are not cited (other works from these authors are cited)
 
-Morphology schemes p. 579-580 somewhat similar to Harris' approach to morphology?
+Derivation of example sentence 346-347: probably: when thinking about a sentence as a derived object, it makes sense to start from top with highest node. When analysing a specific sentence, it makes sense to start from the sentence and work downwards.
+
+Morphology "flow diagram" schemes p. 579-580 somewhat similar to Harris' approach to morphology? Probably not: these are transformation. Better examples of "flow" p 337 ff.
 
 cites: Henry Hiż, "Positional Algebras and Structural Linguistics", Henryk Hiz, polish logician, worked with Harris! https://en.wikipedia.org/wiki/Henryk_Hiż
 

@@ -114,6 +114,7 @@ In periodenbilder: Individual examples of hierarchical bracketing by Lehmann (18
 - positional tables/templates
 - music score, high/low lines
 - indentation
+- flow diagrams (~ state diagrams from Shannon for Markov chains)
 - etc.
 
 # Precursors
