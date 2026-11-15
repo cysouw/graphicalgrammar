@@ -727,31 +727,41 @@ simple graphic: [@deutschbein1926: 119]
 
 ## Züllig (1934) *Die Satzlehre*
 
-Louis Züllig (1890–1973) from St. Gallen. Nachrufe 1928-1941 im Archiv St. Gallen: https://dls.staatsarchiv.sg.ch/records/607691
+Louis Züllig (1890–1973) was a teacher's teacher in St. Gallen, Switzerland. Some personal details are recounted in an unsigned obituary written by a close colleague, available in the Staatsarchiv St. Gallen.^[Züllig's obituary is available on request from <https://dls.staatsarchiv.sg.ch/records/607691>. It appears to have been written before Züllig's death in 1973, as a handwritten note on the manuscript says "Copie 27.I.1970".] As for Züllig's education, the obituary notes that before starting his job as a teacher in 1929, he went to universities in Berlin and Paris in a single semester.
 
-"Über das Wintersemester 28/29 hat sich Züllig intensiv vorbereitet aus sein neues Amt durch das Studium von Philosophie und Pädagogik an den Universitäten von Berlin und Paris"
+> Über das Wintersemester 28/29 hat sich Züllig intensiv vorbereitet aus sein neues Amt durch das Studium von Philosophie und Pädagogik an den Universitäten von Berlin und Paris. (unsigned obituary)
+>
+> ('During the 28/29 winter semester, Züllig prepared intensively for his new position by studying philosophy and pedagogy at the universities of Berlin and Paris.')
 
-"Die vereinigten Sekundarlehrerkonferenzen beautragten nun Züllig mit deren Abfassung. Er hat sich zunächst auf das Studium der einschlägigen, weitverzweigten, besonders deren neueren Literatur geworfen."
+In the 1930s, the conference of secondary school teachers in his region, the *Ostschweiz*, decided to pursue the development of a new textbook for teaching German. The part about morphosyntax was assigned to Züllig.
 
-"Fachkollegen und Behörde lehnten zwar diesen Entwurf als zu hoch und zu umfangreich ab. Es sein ein Lehrerbuch statt des verlangten Schülerbuches, zwar eigenwillig und interessant. Aber der Text sei durch den vielen Hervorhebungen mit Balken und Klammern unruhig und schwer zu überblicken"
+> Die vereinigten Sekundarlehrerkonferenzen beautragten nun Züllig mit deren Abfassung. Er hat sich zunächst auf das Studium der einschlägigen, weitverzweigten, besonders deren neueren Literatur geworfen. (unsigned obituary)
+>
+> ('The joint secondary school teachers' conference subsequently tasked Züllig with drafting the document. He began by immersing himself in the study of the relevant and extensive body of literature, paying particular attention to more recent works.')
 
-> Die Hauptaufgabe fiel dabei Herrn Louis Züllig, Lehrer an der Sekundarlehramtsschule in St. Gallen, zu, der die Wort- und Satzlehre nach neuen Grundsätzen der Sprachwissenschaft aufbaute und dabei zu Auffassungen kam, die vielen Kollegen neu sein dürften. Aus diesem Grunde ist die *Satzlehre* ohne Kürzung gedruckt worden. (1934, p.5)
+Züllig is noted to have used new developments in the field of linguistics in the preparation of his grammatical analyses. However, there is no indication what kind of sources he used.^[The only cited authority in Züllig [-@zullig1934: 13] is an aphorism from Theodor Litt *Individuum und Gesellschaft* from 1926.] A first draft was published as Züllig [-@zullig1934]. Alfred Specker, in a preface to this draft, notes that Züllig's early proposals for the morphosyntax were interesting enough to be printed in full (in contrast to the other parts of the new textbook, of which just an outline was listed).
 
-Züllig cites Litt aphorism from https://ds.ub.uni-bielefeld.de/viewer/image/102679/1/
+> Die Hauptaufgabe fiel dabei Herrn Louis Züllig, Lehrer an der Sekundarlehramtsschule in St. Gallen, zu, der die Wort- und Satzlehre nach neuen Grundsätzen der Sprachwissenschaft aufbaute und dabei zu Auffassungen kam, die vielen Kollegen neu sein dürften. Aus diesem Grunde ist die *Satzlehre* ohne Kürzung gedruckt worden. (A. Specker, preface to Züllig [-@zullig1934])
+>
+> ('The primary task fell to Mr. Louis Züllig, a teacher at the secondary teacher-training institution in St. Gallen, who structured the part about words and sentences according to new linguistic principles, arriving at concepts that will likely be novel to many of our colleagues. For this reason, the section on sentence structure has been printed in its entirety, without any abridgment.')
 
-Cited by Glinz as an influence p.155: https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/2307/file/Grammatische_Terminologie_in_Sprachbuch_und_Unterricht_1987.pdf
+A later version of Züllig's grammatical textbook was published as Züllig [1939? and -@zullig1940]. Unfortunately, as noted in the obituary, Züllig's proposals were eventually discarded as being too complex for students. Especially his use of *Balken und Klammern* 'bars and brackets' was considered *unruhig* 'cluttered'.
 
-No explanation for the following graphics.
+> Fachkollegen und Behörde lehnten zwar diesen Entwurf als zu hoch und zu umfangreich ab. Es sein ein Lehrerbuch statt des verlangten Schülerbuches, zwar eigenwillig und interessant. Aber der Text sei durch den vielen Hervorhebungen mit Balken und Klammern unruhig und schwer zu überblicken. (unsigned obituary)
+>
+> ('Professional peers and the authorities rejected this draft, deeming it too advanced and too extensive. They argued that it was a book for teachers rather than the requested textbook for students, original and interesting, perhaps, but the text itself was cluttered and difficult to grasp due to the frequent use of highlights, such as bars and brackets.')
 
-::: {.im #züllig1934_21}
+Still, Züllig's efforts were not in vain, as his work is cited by Glinz (see [@sec:glinz1952]) as a major early step in the reformation of school grammars [as recorded in the anonymous appendix I of @bausch1987, which is apparently written by Glinz, as noted on page 144.]
+
+In the 1934 draft, Züllig used various innovative visualisations of syntactic structure. First, as shown in [@fig:zullig1934_21], he was the first to draw the sentence bracket between finite and infinite verb. Second, as shown in [@fig:zullig1934_25] he used hierarchically ordered boxes-inside-boxes to illustrate the nested structure of noun phrases. The later versions of his draft textbook do not include any substantially new visualalisation of grammatical structure [cf. @zullig1940: 113].
+
+::: {.im #zullig1934_21}
 Structure of basic German sentences from Züllig [-@zullig1934: 21], visualised with a verbal bracket linking the finite and infinite parts of the verb.
 :::
 
-::: {.im #züllig1934_25}
-Hierarchical structure of the noun phrase from Züllig [-@zullig1934: 25].
+::: {.im #zullig1934_25}
+Hierarchical structure of the noun phrase from Züllig [-@zullig1934: 25], using a "chinese boxes" illustration with nominal brackets between article and noun.
 :::
-
-simple subject-predicate visualisation in [@zullig1940: 113], in which predicate contains everything in the sentence, except the subject. No complex hierarchical structure
 
 ## Drach (1937) *Grundgedanken der deutschen Satzlehre* {#sec:drach1937}
 
