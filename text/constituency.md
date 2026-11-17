@@ -586,7 +586,7 @@ see also the schemas on pp. 350 (English syntax), 353 (Arabic morphology): more 
 
 ## Fries (1952) *The structure of English*    
 
-Charles Carpenter Fries (November 29, 1887 – December 8, 1967)
+Charles Carpenter Fries (1887-1967)
 
 no graphics in "American English Grammar" (1940), probably one of the first real corpos-linguistic grammars of English.
 
@@ -594,7 +594,15 @@ graphics in [@fries1952: 272] (Pike is a student of Fries, Fries might have been
 
 on immediate constituents: cites Bloomfield, Pike, Wells, Harris p262
 
-symbolic hierarchical analysis: p268-271 for example "This particular social event of the season usually claims the full attention of the students who stay in town."
+symbolic hierarchical analysis: p268-271 for example 
+
+::: ex
+[D]{.grey} This [3]{.grey} particular [3]{.grey} social [1^a^]{.grey} event [f F]{.grey} of [D]{.grey} the [1^b^]{.grey} season [4]{.grey} usually [2]{.grey} claims [D]{.grey} the [3]{.grey} full [1^c^]{.grey} attention [f F]{.grey} of [D]{.grey} the [1^d^]{.grey} students [f J]{.grey} who [2]{.grey} stay [f F]{.grey} in [1^e^]{.grey} town.
+:::
+
+::: {.im #fries1952_270}
+Abbreviations for parts-of-speech with "cuttings" of immediate constituents for the example [@last] from Fries [-@fries1952: 268-271]. Fries builds up this analysis is small steps, which have been combined here into a single illustration. Such a complex illustration as shown here is never used by Fries himself. The "cuts" are always binary, as indicated by the the line at the bottom extending to the left or the right.
+:::
 
 earlier, Fries cites Palmer (1917) in "the teaching of the english language" p 186 "selected references": https://books.google.de/books?id=RchEAAAAIAAJ
 
