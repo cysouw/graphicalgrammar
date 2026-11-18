@@ -481,6 +481,10 @@ Kenneth Lee Pike (1912-2000)
 
 Pike and Nida both phd in michigan under Fries (pike 1942, nida 1943), both worked at SIL training schools.
 
+::: {.im #pike1943_70}
+"Illustrative analysis" from Pike [-@pike1943: 70]
+:::
+
 ## Nida (1946) *Syntax, a descriptive analysis*
 
 Eugene Nida (1914–2011), founding charter member of Wycliffe Bible Translators, later Executive Secretary for Translations of the American Bible Society. Bio in [@north1974]. obituary [@langendoen2013]: nothing on Pike, nothing on Nida's syntax books.
