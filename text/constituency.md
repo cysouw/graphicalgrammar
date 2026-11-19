@@ -466,17 +466,17 @@ The *Introduction* was not very widely read, but the influence of *Language* [@b
 
 ## Pike (1943) *Taxemes and immediate constituents* {#sec:pike1943}
 
-Kenneth Lee Pike (1912-2000)
+Kenneth Lee Pike (1912-2000) was a professor at the University of Michigan and president of the Summer Institute of Linguistics. In 1942 he wrote his PhD-dissertation in Michigan with Fries (see [@sec:fries1952]), in the same period as Nida (see [@sec:nida1946]), who finished his thesis there in 1943 . Since the mid-1930s, Pike and Nida regularly gave linguistics courses for aspiring bible translators at the Summer Institute of Linguistics, with Pike mainly teaching phonetics and phonology and Nida covering morphosyntax [@north1974: viii].
 
-[@pike1943: 70], citing bloomfield: boxes seem explication of Bloomfield's vertical bars
+Most of Pike's early publications deal with phonology and especially with tone. However, he publishes one paper on morphosyntax [@pike1943], in which he further develops Bloomfield's approach to immediate constituents (see [@sec:bloomfield1933]). In this paper Pike uses an "illustrative analysis" of for immediate constituents using a nested boxes approach (though the boxes are not closed on top), shown in [@fig:pike1943_70]. Pike's teacher Fries (see [@sec:fries1952]) later uses a very similar graphical approach, which seems to have been inspired by this paper from Pike.
 
-Pike and Nida both phd in michigan under Fries (pike 1942, nida 1943), both worked at SIL training schools.
+Only looking a the top part of Pike's illustration, the number of vertical lines indicate the depth of the separation, with many vertical lines indicating a larger separation between the constituents. This metaphor (viz. more lines for higher separation) is also used by Nida (using bars) and Harris (using dots, cf. [@fig:harris1951_279]). The opposition approach (viz. more lines for lower separation) is used by Wells (using bars, see [@sec:wells1947]) and Landar (using numbers, see [@sec:landar1961]).
 
 ::: {.im #pike1943_70}
-"Illustrative analysis" from Pike [-@pike1943: 70] to explain Bloomfield's immediate constituents.
+"Illustrative analysis" from Pike [-@pike1943: 70] to explain Bloomfield's immediate constituents. This is the first visual analysis of immediate constituents in the United States, and seems to have been independently developed. A highly similar approach is later used by his teacher Fries (cf. [@fig:fries1952_270]).
 :::
 
-## Nida (1946) *Syntax, a descriptive analysis*
+## Nida (1946) *Syntax, a descriptive analysis* {#sec:nida1946}
 
 Eugene Nida (1914–2011), founding charter member of Wycliffe Bible Translators, later Executive Secretary for Translations of the American Bible Society. Bio in [@north1974]. obituary [@langendoen2013]: nothing on Pike, nothing on Nida's syntax books.
 
@@ -579,7 +579,7 @@ see also the schemas on pp. 350 (English syntax), 353 (Arabic morphology): more 
 
 [@wells1947: 84]
 
-## Fries (1952) *The structure of English*    
+## Fries (1952) *The structure of English* {#sec:fries1952}
 
 Charles Carpenter Fries (1887-1967)
 
@@ -679,7 +679,7 @@ images: [@hockett1958: 151-155, 178-180, 188-189] Note the box/tree figure, simi
 
 [@francis1958] chinese boxes. Stewart [@stewart1976] reports from personal communication with Francis, that the chinese-box diagrams were inspired on the graphical display in [@fries1952]
 
-## Landar (1961) *accepted and rejected arrangements of Navaho words*
+## Landar (1961) *accepted and rejected arrangements of Navaho words* {#sec:landar1961}
 
 Herbert Jay Landar (1927–2003) went to Yale to study Indo-European comparative linguistics, but became fascinated by the description of Native American languages. He wrote a dissertation on Navaho syntax [@landar1963] under the supervision of Bloch (see [@sec:bloch1946]) .^[An obituary for Landar is available online on page 7 of <https://www.calstatela.edu/sites/default/files/emeritimesf03.pdf>, accessed 11 November 2026.] In his dissertation and in two short notes in the *International Journal of American Linguistics* [@landar1960; @landar1961] he employed a distinctive notation for hierarchical structure. Although tree diagrams were already widely used by this time, but Landar opted for a different approach.
 
@@ -694,11 +694,7 @@ Numbers used to indicate immediate constituents in a Navaho sentence from Landar
 ::: ex
 Corrected version of the hierarchical structure from [@fig:landar1963_38]
 
-ʔá 4 kho 3 ko 2 ší̢í̢ 1 tíí 5 ńlááh 7 ti 6 titłóki 7 thatžinííł 4 ko 3 paa 6 ǹtžayáh \
-5 á̢a̢ 4 tááʔ 2 ńlah 8 kóó 7 yah 8 kʔat 9 ʔeʔeʔaah 6 ko 5 xasthiin 8 paa 9 \
-… … … 7 … … … 6 … … … 8 … … … 7 … … … 9 … … … 8 … … … 9 \
-tiiyá 4 tžin 3 pitšʔah 9 á̢a̢ 8 tʔá̢á̢ʔ 9 tooyot 7 ko 6 konooyéél 10 é̢e̢ 9 tʔá̢á̢ 12 \
-łah 13 á 11 ko 10 pee 11 estłʔó̢ 8 yitziih 7 ko 5 yoothí̢í̢ł 4 tžin \
+ʔá 4 kho 3 ko 2 ší̢í̢ 1 tíí 5 ńlááh 7 ti 6 titłóki 7 thatžinííł 4 ko 3 paa 6 ǹtžayáh 5 á̢a̢ 4 tááʔ 2 ńlah 8 kóó 7 yah 8 kʔat 9 ʔeʔeʔaah 6 ko 5 xasthiin 8 paa 9 … … … 7 … … … 6 … … … 8 … … … 7 … … … 9 … … … 8 … … … 9 tiiyá 4 tžin 3 pitšʔah 9 á̢a̢ 8 tʔá̢á̢ʔ 9 tooyot 7 ko 6 konooyéél 10 é̢e̢ 9 tʔá̢á̢ 12 łah 13 á 11 ko 10 pee 11 estłʔó̢ 8 yitziih 7 ko 5 yoothí̢í̢ł 4 tžin
 :::
 
 ::: {.tree #landar1963_38_tree}
