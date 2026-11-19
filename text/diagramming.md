@@ -391,7 +391,7 @@ also [@raub1880; @raub1885] both referring to the first book as the origin. 1885
 
 ## Eubank (1881) *Key to Harvey's practical grammar*
 
-first edition 1881, cited here revised edition from 1885. Diagramming [@eubank1885: 113-200] "brace system"
+first edition 1881, cited here revised edition from 1885. Diagramming [@eubank1885: 113-200] "brace system". This is the key to Harvey 1878. By 1880 Harvey himself also added diagrams, but of the reed/kellog style.
 
 ## Adams (1882) *Grammatical diagrams and analyses*
 
@@ -493,11 +493,15 @@ very simple schemes and only very sparingly used, cf Exercises p. 204-205 https:
 
 Thomas Wadleigh Harvey (1821-1892)
 
-practical grammar [@harvey1868] no graphics. revised practical grammar [@harvey1878: 266-272] with diagram like reed/kellog
+- practical grammar [@harvey1868] no graphics.
+- revised practical grammar [@harvey1878: 266-272] with diagram like reed/kellog. Harvey refers to Irish "Grammar and analysis made easy and attractive by diagrams" (p. 272). Irish is published only in 1883/1884!?
+
+- "an elementary grammar of the English language" (1869) https://lccn.loc.gov/11006142 no graphical grammar https://archive.org/details/harveyselementar00harv
+- Elementary grammar and Composition (revised edition of 1880) with diagrams [@harvey1880]
+
+" Diagrams for "mapping" sentences are given in connection with the models for analysis. This is a new feature, introduced at the request of a large number of intelligent teachers." (preface p. iv)
 
 ??? not found: Harvey (1900) *A new English grammar for schools* [@brittain1973: 178]. Note that there is a 1900 revision of the elementary grammar by Louise Connolly https://lccn.loc.gov/00002828
-
-original elementary grammar (1869) https://lccn.loc.gov/11006142, but no graphical grammar
 
 ## Sanders (1879) *Analysis by diagrams*
 

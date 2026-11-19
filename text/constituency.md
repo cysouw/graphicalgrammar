@@ -454,24 +454,15 @@ Hierarchical tree analysis from Seuren [-@seuren1998: 187] for the Paiute exampl
 
 ## Bloomfield (1933) *Language* {#sec:bloomfield1933}
 
-[@bloomfield1933: 160-161] slowly builds up the terminology, which seems to indicate that the terminology is newly developed for this book. He starts with *constituent (or component)* which is *contained in* or *included in* complex forms. The basic building blocks are morphemes, which cannot be further subdivided, and are called *ultimate constituents*. Then, finally, any intermediate grouping are called *immediate constituents*.
+Leonard Bloomfield (1887-1949) was the crucial figure propelling the idea of a constituency analysis into wider application, altough he never used ay graphical displays in his work. His role in this history of graphical syntax was being a bridge between the ideas of Wundt (see [@sec:wundt1880]) and the american structuralist developments that ultimately leads to Chomsky (see [@sec:chomsky1955]). The development of Bloomfield's thinking can be reconstructed by comparing his syntactic analysis from *An introduction to the study of language* [@bloomfield1914] and *Language* [@bloomfield1933].
 
-[@bloomfield1914: 60-61], cited in Percival (1976:235) clearly thinks about binary branching. Also note the Wundt-inspired psychological reasoning, also using the term "apperception" (p.60).
+The *Introduction* was published in 1914 but "written largely at The University of Illinois, and before Bloomfield’s departure for Europe" [@hockett1970: 44]. Bloomfield spend a year in Germany, studying in Leipzig and Göttingen in the academic year 1913-1914. In Leipzig he will surely have met Wundt, but he knew Wundt's work already before that. The influence of Wundt's syntactic approach on Bloomfield was first noted by Percival [-@percival1976]. In the preface to the *Introduction*, Bloomfield himself highlights Wundt's influence: "It will be apparent, especially, that I depend for my psychology, general and linguistic, entirely on Wundt; I can only hope that I have not misrepresented his doctrine" [@bloomfield1914: vi]. The discussion of sentence structure is still very close to Wundt's description, including basic Wundtian tenets like apperception, the binary division of sentences, and the specific usage of the terminology of subject, predicate and attribute:
 
-> The attention of an individual, — that is, apperception, — is a unified process: we can attend to but one thing at a time. Consequently the analysis of a total experience always proceeds by single binary divisions into a part for the time being focused and a remainder. In the primary division of an experience into two parts, the one focused is called the *subject* and the one left for later attention the *predicate*. […] If, after this first division, either subject or predicate or both receive further analysis, the elements in each case first singled out are again called subjects and the elements in relation to them, *attributes*. […] Thus in the sentence *Lean horses run fast* the subject is *lean horses* and the horses' action, *run fast*, is the predicate. Within the subject there is the further analysis into a subject *horses* and its attribute *lean*, expressing the horses' qual-
-ity. In the predicate *fast* is an attribute of the subject *run*. [@bloomfield1914: 60-61]
+> The attention of an individual, — that is, apperception, — is a unified process: we can attend to but one thing at a time. Consequently the analysis of a total experience always proceeds by single binary divisions into a part for the time being focused and a remainder. In the primary division of an experience into two parts, the one focused is called the *subject* and the one left for later attention the *predicate*. […] If, after this first division, either subject or predicate or both receive further analysis, the elements in each case first singled out are again called subjects and the elements in relation to them, *attributes*. […] Thus in the sentence *Lean horses run fast* the subject is *lean horses* and the horses' action, *run fast*, is the predicate. Within the subject there is the further analysis into a subject *horses* and its attribute *lean*, expressing the horses' qual-ity. In the predicate *fast* is an attribute of the subject *run*. [@bloomfield1914: 60-61]
 
-Use of vertical bars, reminiscent of Crombie, but no obvious connection
+The *Introduction* was not very widely read, but the influence of *Language* [@bloomfield1933] can not be understated. It became the basic text influencing the post-war development of linguistics. The analysis of a sentence is still the same, but the Wundtian terminology is gone. Instead Bloomfield introduces the notion of immediate constituents. He first introduced the term *constituent*, with morphemes being the *ultimate constituents*. Every level inbetween is an *immediate constituent*. This terminology seems to be a completely new proposal from Bloomfield.
 
-Hypothesis that Wundt influenced Bloomfield: [@percival1976: 234-235 gives various detailed arguments], but again no pictures. The basic assumption of binary analysis pervasive in US-american 20th century analyses can probably be tracked back to Wundt.
-
-"poor John ran away" repeatedly mentioned on p. (161-170)
-
-> Any English-speaking person who concerns himself with this matter, is sure to tell us that the immediate constituents of *Poor John ran away* are the two forms *poor John* and *ran away*; that each of these is, in turn, a complex form; that the immediate constituents of ran away are *ran*, a morpheme, and *away*, a complex form, whose constituents are the morphemes *a-* and *way*; and that the constituents of *poor John* are the morphemes *poor* and *John*. [@bloomfield1933: 161]
-
-Historical survey of Bloomfield and post-Bloomfieldians: [@matthews1993]
-
-Bloomfield [@bloomfield1933: 537-538] mentions various book of Palmer, but not the 1917 book with the rewrite rules.
+> The common part of any (two or more) complex forms is a linguistic form; it is a *constituent* (or *component*) of these complex forms. […] it appears that every complex form is entirely made up, so far as its phonetically definable constituents are concerned, of morphemes. The number of these *ultimate constituents* may run very high. […] However, the structure of complex forms is by no means as simple as this; we could not understand the forms of a language if we merely reduced all the complex forms to their ultimate constituents. […] Any English-speaking person who concerns himself with this matter, is sure to tell us that the *immediate constituents* of *Poor John ran away* are the two forms *poor John* and *ran away*; that each of these is, in turn, a complex form; that the immediate constituents of ran away are *ran*, a morpheme, and *away*, a complex form, whose constituents are the morphemes *a-* and *way*; and that the constituents of *poor John* are the morphemes *poor* and *John*. [@bloomfield1933: 160-161]
 
 ## Pike (1943) *Taxemes and immediate constituents* {#sec:pike1943}
 
@@ -482,7 +473,7 @@ Kenneth Lee Pike (1912-2000)
 Pike and Nida both phd in michigan under Fries (pike 1942, nida 1943), both worked at SIL training schools.
 
 ::: {.im #pike1943_70}
-"Illustrative analysis" from Pike [-@pike1943: 70]
+"Illustrative analysis" from Pike [-@pike1943: 70] to explain Bloomfield's immediate constituents.
 :::
 
 ## Nida (1946) *Syntax, a descriptive analysis*
@@ -614,7 +605,7 @@ earlier, Fries cites Palmer (1917) in "the teaching of the english language" p 1
 
 [@barhillel1953] english explanation of [@ajdukiewicz1935] cites Harris rewrite rules, makes explicit tree derivation with catogories.
 
-## Chomsky (1955) *The logical structure of linguistic theory*
+## Chomsky (1955) *The logical structure of linguistic theory* {#sec:chomsky1955}
 
 first generative rewrite rules following Harris  in *Systems of syntactic analysis* [@chomsky1953]. "The constructions of this paper are roughly coextensive with the procedures of [Harris [@harris1951]]" [@chomsky1953: 242 fn.]. Discussion of IC on p. 247, fn. 13. No concrete linguistic examples are discussed.
 
@@ -1049,7 +1040,7 @@ Satzbilder with lines in [@lobentanzer1986: 60, 72-73]
 
 ## Palmer (1917) *The scientific study & teaching of languages*
 
-Harold Edward Palmer (1877–1949) was a phonetician and language educator from London. He founded the *Institute for Research in English Teaching* in Tokyo, Japan, where he worked from 1922 to 1937. His life and extensive scholarly output are discussed in detail by Smith [-@smith2004]. Palmer's research focused primarily on second-language teaching, and he proposed a wide range of approaches in keeping with the ideas of the so-called *reform movement* in language education, initiated by Wilhelm Viëtor. In the course of this work, Palmer also developed various approaches to syntactic analysis, which appear to have gone largely unnoticed and unappreciated by his structuralist contemporaries.^[Harris [-@harris1951: 46] cites Palmer's work on intonation, but gives no indication that he was familiar with Palmer's approach to syntax. Nida [-@nida1957: iii] cites Palmer in the context of language teaching. In this book, Nida regularly uses a notion of "substitution", but does not refer to the rewrite rules from Palmer.]
+Harold Edward Palmer (1877–1949) was a phonetician and language educator from London. He founded the *Institute for Research in English Teaching* in Tokyo, Japan, where he worked from 1922 to 1937. His life and extensive scholarly output are discussed in detail by Smith [-@smith2004]. Palmer's research focused primarily on second-language teaching, and he proposed a wide range of approaches in keeping with the ideas of the so-called *reform movement* in language education, initiated by Wilhelm Viëtor. In the course of this work, Palmer also developed various approaches to syntactic analysis, which appear to have gone largely unnoticed and unappreciated by his structuralist contemporaries.^[Bloomfield [-@bloomfield1933: 537-538] mentions various book of Palmer, but not the 1917 book that contains the syntactic rewrite rules. Harris [-@harris1951: 46] cites Palmer's work on intonation, but gives no indication that he was familiar with Palmer's approach to syntax. Nida [-@nida1957: iii] cites Palmer in the context of language teaching. In this book, Nida regularly uses a notion of "substitution", but does not refer to the rewrite rules from Palmer.]
 
 Palmer called his approach to teaching syntactic structures "substitution tables." He first explicitly published this approach in a short manual, *Colloquial English* [@palmer1916]. He describes substitution as a process "by which any authentic sentence may be multipied indefinitely by substituting any of its words or word-groups by others of the same grammatical family and within certain semantic limits" [@palmer1916: iii]. He then presents 100 English sentence structures, each with alternatives for its words. Learners can practice these structures by substituting the alternatives to create new sentences of the same form.
 
