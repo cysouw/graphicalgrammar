@@ -14,6 +14,8 @@ Visualisation of logical deduction in Göttingen: [@bodner2026]
 
 See also section "logician's grammar" including the role of hiż on chomsky [@goldsmith2019]
 
+difference between OR-rules and AND-rules. Confusingly, Palmer calls these *S (=sum)* and *P (=product)* rules respectively.
+
 # Logical origins (1880-1900)
 
 see also hierarchical braces in [@stein1890: 92], revised by Binstorfer. Also Zikmund/Gebauer
@@ -470,7 +472,7 @@ Kenneth Lee Pike (1912-2000) was a professor at the University of Michigan and p
 
 Most of Pike's early publications deal with phonology and especially with tone. However, he publishes one paper on morphosyntax [@pike1943], in which he further develops Bloomfield's approach to immediate constituents (see [@sec:bloomfield1933]). In this paper Pike uses an "illustrative analysis" of for immediate constituents using a nested boxes approach (though the boxes are not closed on top), shown in [@fig:pike1943_70]. Pike's teacher Fries (see [@sec:fries1952]) later uses a very similar graphical approach, which seems to have been inspired by this paper from Pike.
 
-Only looking a the top part of Pike's illustration, the number of vertical lines indicate the depth of the separation, with many vertical lines indicating a larger separation between the constituents. This metaphor (viz. more lines for higher separation) is also used by Nida (using bars) and Harris (using dots, cf. [@fig:harris1951_279]). The opposition approach (viz. more lines for lower separation) is used by Wells (using bars, see [@sec:wells1947]) and Landar (using numbers, see [@sec:landar1961]).
+Only looking a the top part of Pike's illustration, the number of vertical lines indicate the depth of the separation, with many vertical lines indicating a larger separation between the constituents. This metaphor (viz. more lines for higher separation) is also used by Nida (using bars, cf. [@fig:nida1949_87]) and Harris (using dots, cf. [@fig:harris1951_279]). The opposition approach (viz. more lines for lower separation) is used by Wells (using bars, see [@sec:wells1947]) and Landar (using numbers, see [@sec:landar1961]).
 
 ::: {.im #pike1943_70}
 "Illustrative analysis" from Pike [-@pike1943: 70] to explain Bloomfield's immediate constituents. This is the first visual analysis of immediate constituents in the United States, and seems to have been independently developed. A highly similar approach is later used by his teacher Fries (cf. [@fig:fries1952_270]).
@@ -478,29 +480,43 @@ Only looking a the top part of Pike's illustration, the number of vertical lines
 
 ## Nida (1946) *Syntax, a descriptive analysis* {#sec:nida1946}
 
-Eugene Nida (1914–2011), founding charter member of Wycliffe Bible Translators, later Executive Secretary for Translations of the American Bible Society. Bio in [@north1974]. obituary [@langendoen2013]: nothing on Pike, nothing on Nida's syntax books.
+Eugene Nida (1914–2011) was founding charter member of Wycliffe Bible Translators and later Executive Secretary for Translations of the American Bible Society. Biographical information is provided by North [-@north1974] and in an obituary by Langendoen [-@langendoen2013]. Nida taught regularly at the Summer Institute of Linguistics together with Pike (see [@sec:pike1943]).
 
-North:
+> Each summer from 1937 to 1953 Nida returned to the Summer Institute of Linguistics (SIL) to teach. By 1939 he and Kenneth L. Pike were the principal teachers, Nida teaching morphology-syntax and Pike teaching phonetics-phonemics. [@north1974: viii]
 
-"Each summer from 1937 to 1953 Nida returned to the Summer Institute of Linguistics (SIL) to teach. By 1939 he and Kenneth L. Pike were the principal teachers, Nida teaching morphology-syntax and Pike teaching phonetics-phonemics." p.viii
+Likely following Pike's example, Nida submitted his doctoral dissertation *A Synopsis of English Syntax* at the University of Michigan, though he never had any official position there. Nida obtained his PhD in 1943. Nida's thesis was only officially published years later by SIL as Nida [-@nida1960], and in slightly revised version by Mouton as Nida [-@nida1973]. The thesis was available as a lithoprint, which allowed Chomsky in 1955 to remark that is was "a careful and detailed study of English structure" [@chomsky1955: fn.5 on page IX-1^fn^].
 
-"His doctoral thesis, A Synopsis of English Syntax (Nida 1943), was the only relatively full-scale analysis of a major language by the "immediate constituent" linguistic theory of the time. It was circulated in typescript by interlibrary loan and in several hundred lithoprinted copies before finally being published in 1960." p. viii
+> [Nida's] doctoral thesis, *A Synopsis of English Syntax* (Nida 1943), was the only relatively full-scale analysis of a major language by the "immediate constituent" linguistic theory of the time. It was circulated in typescript by interlibrary loan and in several hundred lithoprinted copies before finally being published in 1960. [@north1974: viii]
 
-- 1943: Dissertation University of Michigan *A Synopsis of English Syntax* https://research.ebsco.com/plink/6ef9b31b-f19e-3ff2-b4fd-47797822cf21
-- 1946: first edition *Morphology*, no pictures in this version! [@nida1946]
-- 1946: *Syntax, a descriptive analysis* [@nida1946a]
-- 1948: [@nida1948] no pictures (but very prominent publication!) cites pike, harris, bloch, wells
-- 1949: second edition *Morphology* with pictures. sentence: [@nida1949: 87], hierarchical morphological structure p.101, both 105. also uses bars from Wells on p. 87 (he cites Wells 1947)
-- 1950: *Learning a foreign language* only 1957 edition available, with trees [@nida1957: 181] cites Palmer 1917 [@nida1957: iii]
-- 1951: *Outline of descriptive syntax* full of pictures! [@nida1951] cited in "syntactic structures" in bibliography, but without mentioning in the main text
-- 1960: publication of dissertation with added pictures *A synopsis of English syntax* [@nida1960]
-- 1964: *Toward a Science of Translating* summary of different equivalent graphics [@nida1964: 58-62]
+Nida's thesis presents a complex hierarchical scheme for the structures of English sentences, using abstract codes of alternating numbers and letters as identifiers. The system is a mix of rewrite rules for immediate constituents (e.g. *1a1: independent clause* consists of *a: clause head* and *b: clause attributes*) and alternative possibilities (e.g. *1a1a1: actor action clause* can either be *a: transitive*, *b: instransitive* or *c: equational*). 
 
-Nida (1973[1960]) writes his thesis in 1943, which is published in 1960. There do not seem to be trees in his thesis, but he Immediate Constituents might imply trees (but difficult to follow). In the 1960 edition he adds a long list of trees. But this is of course after Chomsky 1957.
+Nida discusses many previous approaches to syntactic analysis, including a few that use graphical approaches, like Sheffield [-@sheffield1912, cf. [@fig:sheffield1912_51]] and Jespersen [-@jespersen1937, cf. [@fig:jespersen1937_83]]. However, Nida does not use an visual illustrations of grammatical structure in his thesis. Only years later, in the published version [@nida1960] after the widespread establishment of syntactic trees, Nida adds some visualisations in the form of trees, though in his own specific format that he developed in the intervening years.
 
-In the preface of the 1943: 30 dissertation he cited Sheffield 1912 (though not with respect to structural analysis), also Jespersen 1937 (p. 13)
+After finishing his thesis Nida wrote various textbooks for his SIL courses dealing with the descriptive analysis of language. The first two were finished in 1946: one about morphology, [*Morphology: the descriptive analysis of words*, @nida1946] and another about syntax [*Syntax, a descriptive analysis*, @nida1946a]. The morphology textbook became rather famous and a few years later Nida prepared a revised second edition [@nida1949], which is widely read and cited in the linguistic community. In contrast, his textbook on syntax seems to have been completely ignored by the wider linguistic community. Also a second, completely different, textbook on syntax did not obtain any a attention [*Outline of descriptive syntax*, @nida1951].
 
-Note the combination of dependency and constituency!
+Nida's first syntax textbook [@nida1946a] contains various syntactic tree diagrams. Crucially, he introduces the principle of immediate constituents with a diagram alike to the one from Pike, but then proposes a different variant which is more tree-like [@nida1946a: 47], as shown in [@fig:nida1946_47]. In the rest of the book there are a few more of such trees, for an example from the language Mazatec [@nida1946a: 56-57] and for a few made-up toy examples [@nida1946a: 73, 76].
+
+::: {.im #nida1946_47}
+Diagram for immediate constituents from Nida [-@nida1946a: 47]. The upper version is in the same format as Pike (cf. [@fig:pike1943_70]). Nida proposes the tree-like variant below.
+:::
+
+The original version of *Morphology* [@nida1946] did not have any diagrams. However, in the widely read revision of *Morphology* [@nida1949] Nida includes various tree diagrams, including one for syntax in English [@nida1949: 87], one for morphology in Totonac [@nida1949: 101], and one combining syntax and morphology for an example from Yipounou [@nida1949: 105]. The English example, as shown in [@fig:nida1949_87], is particularly notewhorthy because Nida uses an alternative display using vertical bars in the text preceding the diagram. The vertical bars are used here alike to the nested boxes from Pike (cf. [@fig:pike1943_70]), in that "deeper" divisions are marked with more lines. This is the reverse approach from Wells (see [@sec:wells1947]), who is cited by Nida. Nida's approach to using the bars is later taken over by Chomsky.
+
+::: {.im #nida1949_87}
+Diagram for immediate constituents from Nida [-@nida1949: 87]. In the text he analyses the structure by using vertical bars between the words, but then proposes the tree-like diagram. This diagram seems to have been adapted by Chomsky.
+:::
+
+Nida used his tree diagrams regularly in publications in the following years. In *Learning a foreign language* from 1950 Nida uses the same tree diagrams [cited here from the second edtion @nida1957: 181]. In this book Nida [-@nida1957: iii] cites the 1917 book by Palmer (see [@sec:palmer1917]), but there is no evidence that Nida took notice of the rewrite rules in the appendix of that book. Nida's [-@nida1951] *Outline of descriptive syntax* is full of picture, included a syntactic tree with labels, see [@fig:nida1951_69].
+
+::: {.im #nida1951_69}
+Tree with labels from Nida [-@nida1951: 69]
+:::
+
+After the onset of Chomskyan generative grammar at the end of the 1950s Nida still held on to his way of drawing trees. In the published version of his thesis [@nida1960: iii-lviii] he adds a long preface with dozens of trees examplifying the analysis in his thesis. One is them shown in [@fig:nida1960_xxiv]. To each constituent he adds a symbol on the branching indicating what kind of structure it is. He distinguishes between headed structures (with an arrow pointing towards the head), coordinate structures (with an equal sign) and exocentric structures without a clear head (with a cross). In a later book, *Toward a Science of Translating* [@nida1964: 58], he presents a few equivalent approaches to draw the same structure.
+
+::: {.im #nida1960_xxiv}
+One of the many added trees to the published version of Nida's thesis [@nida1960: xxiv]. Although by now the Chomskyan trees have become ubiquitous, Nida stays with his tree-style. He adds a notion of headedness by using arrows (pointing towards the head) and crosses for exocentric constructions.
+:::
 
 ## Bloch (1946) *Studies in colloquial Japanese* {#sec:bloch1946}
 
@@ -1034,7 +1050,7 @@ Satzbilder with lines in [@lobentanzer1986: 60, 72-73]
 
 # Further European developments 
 
-## Palmer (1917) *The scientific study & teaching of languages*
+## Palmer (1917) *The scientific study & teaching of languages* {#sec:palmer1917}
 
 Harold Edward Palmer (1877–1949) was a phonetician and language educator from London. He founded the *Institute for Research in English Teaching* in Tokyo, Japan, where he worked from 1922 to 1937. His life and extensive scholarly output are discussed in detail by Smith [-@smith2004]. Palmer's research focused primarily on second-language teaching, and he proposed a wide range of approaches in keeping with the ideas of the so-called *reform movement* in language education, initiated by Wilhelm Viëtor. In the course of this work, Palmer also developed various approaches to syntactic analysis, which appear to have gone largely unnoticed and unappreciated by his structuralist contemporaries.^[Bloomfield [-@bloomfield1933: 537-538] mentions various book of Palmer, but not the 1917 book that contains the syntactic rewrite rules. Harris [-@harris1951: 46] cites Palmer's work on intonation, but gives no indication that he was familiar with Palmer's approach to syntax. Nida [-@nida1957: iii] cites Palmer in the context of language teaching. In this book, Nida regularly uses a notion of "substitution", but does not refer to the rewrite rules from Palmer.]
 
