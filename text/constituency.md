@@ -520,11 +520,9 @@ One of the many added trees to the published version of Nida's thesis [@nida1960
 
 ## Bloch (1946) *Studies in colloquial Japanese* {#sec:bloch1946}
 
-Bernard Bloch (1907–1965) was a professor for linguistics in Yale.
+Bernard Bloch (1907–1965) was a professor for linguistics at Yale, contemporenous with Bloomfield. Together with George Trager (1906-1992) he wrote a succinct and widely read overview about linguistic analysis [@bloch1942]. This book contains no graphical approach to linguistic analysis, but they refer to Jespersen's *Analytic Syntax*, which they call "illuminating, but rather superficial" [@bloch1942: 82].
 
-writes succinct overview about linguistic analysis together with George Trager (1906-1992) [@bloch1942]. There is no graphical approach to linguistic analysis, but they refer to Jespersen's *Analytic Syntax*, which they call "illuminating, but rather superficial" [@bloch1942: 82]
-
-Hierarchical structure with implied rewrite rules in [@bloch1946] citing Bloomfield extensively. Analysis of example text [@bloch1946: 238-248]. System with six different syntactic functions for the analysis of Japanese syntax
+A few years later, in 1946, Bloch writes a two-part analysis of colloquial Japanese, the second part of which deals with syntax, citing Bloomfield extensively [@bloch1946]. In an analysis of an example text [@bloch1946: 238-248] Bloch uses a system with six main syntactic functions for Japanese syntax with the following abbreviations:
 
 - A: adverbial phrase
 - R: relational phrase ("noun phrase")
@@ -533,14 +531,18 @@ Hierarchical structure with implied rewrite rules in [@bloch1946] citing Bloomfi
 - P": non-final predicate
 - E: Exclamation
 
+Below this first level of analysis Bloch distinguishes a whole plethora of different syntactic categories, like "pseudo predicate", "noun expression", "phrasal modifier", etc. He uses rewrite rules of the form *X:Y+Z* to indicate that a constituent X consists of the two parts Y and Z. When Y or Z are non-final constituents, they are in turn further explicated, using indendation to explicitly show the hierarchical structure, as shown in [@fig:bloch1946_243].
+
 > The analysis of each sentence is given in outline form, so arranged that the analysis of a constituent element is in every case subordinated to that of the larger element in which it appears, and that every word in the sentence is mentioned in the outline once and once only. […] Two special symbols are used: a colon, to be read everywhere as 'consisting of' or 'in the form of'; and a plus sign to separate the immediate constituents of a construction. [@bloch1946: 238]
 
+A tree-like illustration of Bloch's analysis is shown in [@fig:bloch1946_243_tree]. In this tree-representation is becomes clear that the order of words of the Japanese original is perfectly captured by Bloch's rewrite rules. Note that this is not immediately obvious from Bloch's representation in [@fig:bloch1946_243].
+
 ::: {.im #bloch1946_243}
-Analysis of a Japanese sentence from Bloch [-@bloch1946: 243]. Bloch uses (i) colons to indicate that a label consists of parts, (ii) a plus symbol to indicate the parts of a constituent and (iii) indentation to highlight the hierarchical structure. [@fig:bloch1946_243_tree] shows a more modern tree-like representation of Bloch's analysis.
+Analysis of a Japanese sentence from Bloch [-@bloch1946: 243]. Bloch uses (i) colons to indicate that a label consists of parts, (ii) a plus-symbol "+" to separate the parts of each constituent and (iii) indentation to highlight the hierarchical structure. [@fig:bloch1946_243_tree] shows a more modern tree-like representation of Bloch's analysis.
 :::
 
 ::: {.tree #bloch1946_243_tree}
-Hierarchical representation of the analysis from Bloch [-@bloch1946: 243] as shown in [@fig:bloch1946_243]. Note that the order of the actual Japanese words in Bloch's original is not the order in the sentence. However, when his representation is interpreted as a hierarchical tree, as shown here, then the order of the sentence is perfectly represented.
+Hierarchical tree representation of the analysis from Bloch [-@bloch1946: 243] as shown in [@fig:bloch1946_243]. Note that the order of the actual Japanese words in Bloch's original is not the order in the sentence. However, when his representation is interpreted as a hierarchical tree, as shown here, then the order of the sentence is perfectly represented.
 :::
 
 ## Harris (1946) *From morpheme to utterance* {#sec:harris1946}
