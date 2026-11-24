@@ -545,13 +545,23 @@ Analysis of a Japanese sentence from Bloch [-@bloch1946: 243]. Bloch uses (i) co
 Hierarchical tree representation of the analysis from Bloch [-@bloch1946: 243] as shown in [@fig:bloch1946_243]. Note that the order of the actual Japanese words in Bloch's original is not the order in the sentence. However, when his representation is interpreted as a hierarchical tree, as shown here, then the order of the sentence is perfectly represented.
 :::
 
-## Harris (1946) *From morpheme to utterance* {#sec:harris1946}
+## Wells (1947) *Immediate constituents* {#sec:wells1947}
+
+Rulon Seymour Wells III (1919–2008) joined Yale in 1945 on invitation from Bloch (see [@sec:bloch1946]) and eventually became full professor there.^[Some basic biographical information is available in an obituary from Yale, available at <https://news.yale.edu/2008/07/18/memoriam-rulon-s-wells-iii-renowned-linguist-and-philosopher>, accessed 24 November 2026.] He published a highly influential discussion of the principles of immediate constituents in *Language* [@wells1947].
+
+In this paper, Wells uses a "diagramm" for immediate constituents using vertical bars, as shown in [@fig:wells1947_84]. He uses a single bar for the highest separation, splitting the example into two constituents *the king of England* and *opened parliament*. Subsequent separation are indicated by multiple vertical bars. Vertical bars were already used by Crombie in 1802 (see [@sec:crombie1802]), but there is no indication that Wells was inspired by this example. The idea to use vertical bars was used by Nida in 1949 (see [@sec:nida1946]), though with the reversed order. Nida used a single bar for the lowest separation of constituents, with the highest number of bars for the highest constituent separation. Landar (see [@sec:landar1961]) uses the same system as Wells, but instead of writing multiple bars, Landar simply writes a number indicating the number of bars.
+
+::: {.im #wells1947_84}
+Diagrammed immediate constituents from Wells [-@wells1947: 84]. The highest separation is indicate by a single vertical bar, subsequent separation of constituents is indicated by ever more bars. This idea might have inspired Nida (cf. [@fig:nida1949_87]), though Nida reverses the number of bars (lowest separation with a single bar, counting upwards). Landar (see [@fig:landar1963_38]) follows Wells, but uses numbers to indicate the number of bars at a specific point in the sentence.
+:::
+
+## Harris (1951) *Methods in structural linguistics* {#sec:harris1946}
 
 Zellig Sabbettai Harris (1909-1992) was a professor for linguistics at the university of Pennsylvania in Philadelphia
 
 He worked on Semitic languages in the 1930s, but starting in the 1940s he published on topics in general linguistic, starting a lifelong interest in formal and computational approaches to language structure.
 
-This system was already introduced in [@harris1946]! Cites Jespersen 1937 on p. 177, also Bloomfield, Pike, Bloch
+This system was already introduced in *From morpheme to utterance* [@harris1946]! Cites Jespersen 1937 on p. 177, also Bloomfield, Pike, Bloch
 
 Also in *Methods in structural linguistics* [@harris1951], this book is later called *Structural Linguistics* [@harris1963]. Preface is signed in 1947, indicating that this book was finished much earlier than the publication date suggests.
 
@@ -593,10 +603,6 @@ Tree representation of the rewrite rules ("determination") from Harris [-@harris
 
 see also the schemas on pp. 350 (English syntax), 353 (Arabic morphology): more like "potential" structures, not actual sentence analyses. Only for bound morphology? Already for Delaware morphology in [@harris1947: 185]. Cf similar diagram for morphophonetics of English syllables on p. 153
 
-## Wells (1947) *Immediate constituents* {#sec:wells1947}
-
-[@wells1947: 84]
-
 ## Fries (1952) *The structure of English* {#sec:fries1952}
 
 Charles Carpenter Fries (1887-1967)
@@ -631,13 +637,21 @@ first generative rewrite rules following Harris  in *Systems of syntactic analys
 
 [@chomsky1955] *The logical structure of linguistic theory* He cites various linguistic literature (harris, halle, jakobson, bloch, bloomfield, wells, jespersen, nida's morphology and dissertation)
 
-Chomky cites Nida "outline of English syntax" in his 1955 manuscript, but he probably means "Synopsis of English syntax". Corrected in published version (Chomsky 1975): it should be Nida's thesis. He refers to page numbers 43 and 59 (talking about "the construction Verb-Preposition where the preposition is not 'separable', page 702. Maybe this refers to pp 181 amd 208 from Nida 1960?) and chomsky says that it "does not even contain a discussion of questions" (page after 713)
+Chomky cites Nida "outline of English syntax" in his 1955 manuscript, but he probably means "Synopsis of English syntax". Corrected in published version (Chomsky 1975): it should be Nida's thesis. He refers to page numbers 43 and 59 (These page numbers do not make sense. talking about "the construction Verb-Preposition where the preposition is not 'separable', on page 702. Maybe this refers to pp 181-185 (!) from Nida 1960?) and chomsky says that it "does not even contain a discussion of questions" (page after 713)
+
+The page numbers are retained in the printed version (Chomsky 1975), though the reference to Nida is changed to the 1966 published version by Mouton. The correct page numbers should probably be 142-147
 
 In 1957 he cites "a synopsis of English syntax (1951)", which is the title of Nida's unpublished thesis from 1943. Maybe he means here "outline of descriptive syntax", which is from 1951. The work is only listed in the bibliography, and apparantly nowhere in the main text though. Note that there appears to be a copy of the 1943 dissertation that made the rounds, maybe the copy was dated 1951? cf. https://ci.nii.ac.jp/ncid/BA31911866
+
+There also exist "An outline of English Structure" by Trager and Smith from 1951. page numbers 43/59 do not make sense here.
 
 The only clear IC-citation is Wells 1947
 
 Chomsky (1955: 277) Note the reversal of the usage of dashes, here more alike to brackets. Similar to Wells' approach (but with reversed number of lines)! Adding phrasal labels though. Analysis below the example like Pike, though Pike not cited. Maybe Morphology of Nida? Probably Nida 1949: 87, which has both dashes and trees below. and reversed number of dashes from Wells!!!
+
+::: {.im #chomsky1955_277}
+[@chomsky1955: 277]
+:::
 
 Published version has chapter "summary" put in front, so all the following chapters have moved up a number
 

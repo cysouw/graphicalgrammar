@@ -193,7 +193,7 @@ more?
 - https://academic.oup.com/edited-volume/62210/chapter/550164521
 - https://en.wikipedia.org/wiki/An_Essay_Towards_a_Real_Character,_and_a_Philosophical_Language
 
-## Crombie (1802) *A treatise on the etymology and syntax of the English language*
+## Crombie (1802) *A treatise on the etymology and syntax of the English language* {#sec:crombie1802}
 
 Alexander Crombie (1762-1840) was a Scottish schoolmaster and author of a highly influential grammar of English, among many other wide-ranging publications.^[A survey of his biography and publications is given on <https://en.wikipedia.org/wiki/Alexander_Crombie>, accessed 30 October 2026.] His grammar was first published in 1802 and was at least reprinted up to a ninth edition from 1865 [@gorlach1998: 97]. It will be cited here from the second edition [@crombie1809], but the crucial passage appears to be unchanged throughout the various editions.^[I have not been able to access a first edition. Various later editions are available online: a third edition (1830: 226) at <https://google.com/books?id=uP0RAAAAIAAJ>, a fourth edition (1836: 176) at <https://www.loc.gov/item/43047733/>, a fifth edition (1843: 162) at <https://google.com/books?id=Tx1AAAAAYAAJ> and a seventh edition (1853: 162) at <https://www.loc.gov/item/11008559/>.]
 
