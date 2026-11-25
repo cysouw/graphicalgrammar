@@ -1130,6 +1130,15 @@ In an obituary of Palmer, Bongers [-@bongers1950] recounts that Palmer towards t
 >
 > ('His hobby was making maps, as well as miniature mountain landscapes. In his garden in East Grinstead, he created a mountain landscape featuring an extensive railway network, laid out in the form of the Syntax Chart of an English sentence.')
 
+## Karcevski (1925) *О формально-грамматическом направлении*
+
+Sergei Iosifovich Karcevski (1884-1955)
+
+cited by [@percival2007a] bio in [@grzybek1998]
+https://en.wikipedia.org/wiki/Sergei_Kartsevski
+
+[@karcevski1925: 52] Bally approach with T-T'
+
 ## Ajdukiewicz (1935) *Die syntaktische Konnexität*
 
 Kazimierz Ajdukiewicz (1890-1963) was professor at the University of Lwów, Poznań and Warsaw. Historical note [@godart-wendling2014]
@@ -1172,6 +1181,8 @@ first edition no graphic [@bally1932], only in revision of 1944
 ## Mikuš (1947) *Le Syntagme EST-IL Binaire?* {#sec:mikuš1947}
 
 Radivoj Francis Mikuš (1906-1983) was born in current Slovenia, but his life almost perfectly coincided with the existence of Yugoslavia. He studied romance languages in Ljubljana and Paris, and after WWII he became a lecturer in Ljubjana. After cricizing the influential linguist Aleksandar Belić, Mikuš left Ljubjana in 1958 and became professor in Zadar (today in Croatia). In his years in Ljubljana he signed his papers with the first name "Francis", while in the Zadar period he used "Radivoj" instead. Basic biographical data about Mikuš in provided by Jevnikar [-@jevnikar1984]. More details, specifically about his time in Zadar, can be found in Ćosić [-@cosic2014].
+
+(also cites karcevsky (Mikuš 1947:32), but not his tree)
 
 During his studies in Paris, Mikuš was strongy influenced by the Geneva school of linguistics (as Mikuš himself calls it) of de Saussure and Bally. All early papers by Mikuš are written in french, and his work is mainly recognized in the french-speaking scientific community. Especially Bally and his differentiation of *determiné T* and *determinant T'* (see [@sec:bally1944]) is regularly cited by Mikuš. A major part of Mikuš' work is devoted to the analysis of the *syntagme*, which he equates with the notion of *constituent* as used by US-linguists [@mikus1952: 431]. For his tree-like constituency analysis, Mikuš refers to Wundt as an influence (see [@sec:wundt1880]), singling out the work of Wundt-follower Jan Michał Rozwadowski [@mikus1955], who does not draw any pictures himself. Mikuš [-@mikus1952: 432] also cites the work of De Groot [-@groot1949], which might have been the influence for the usage of hierarchical bracketing. There is no indication for any influence for the recursive "chinese" boxes diagram, which is used by Mikuš as early as 1947 as *encadrement* [@mikus1947: 37].
 
