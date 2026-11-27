@@ -16,6 +16,18 @@ See also section "logician's grammar" including the role of hiż on chomsky [@go
 
 difference between OR-rules and AND-rules. Confusingly, Palmer calls these *S (=sum)* and *P (=product)* rules respectively.
 
+## Flow charts
+
+the lost history of syntax diagrams in linguistics (Palmer sum-rules). Role of Shannon (1938 diagrams of relay switching https://www.cs.virginia.edu/~evans/greatworks/shannon38.pdf?utm_source=chatgpt.com, 1949 diagram of markov chains, cited by chomsky, also [@chomsky1958]). Some history in [@kornai1999: 3-4], claiming unfortunate predominance of transformations, instead of finite-state.
+
+finite-state transducers in the 1958/1959 Univac (Transformations and Discourse Analysis Project, TDAP) from Harris: flow charts not archived online https://web.archive.org/web/19970614091048/https://www.cis.upenn.edu/~phopely/tdap-fe-post.html but a specimen available in the Joshi/Hopely paper in Kornai 1999 (p8)
+
+some of the TDAP documentation is available here
+
+- https://cs.nyu.edu/cs/projects/lsp/pubs/tdap.html
+- this is a published version of no 15 from 1959 by Harris: https://archive.org/details/stringanalysisof0000zsha
+- "transformational decomposition lattices" leads to some kind of flow-chart diagrams (Harris 1967), using very complex sentences as example: https://cs.nyu.edu/cs/projects/lsp/pubs/tdap_70_1967
+
 # Logical origins (1880-1900)
 
 see also hierarchical braces in [@stein1890: 92], revised by Binstorfer. Also Zikmund/Gebauer
@@ -601,7 +613,7 @@ Pb = down
 Tree representation of the rewrite rules ("determination") from Harris [-@harris1951: 278-279].
 :::
 
-see also the schemas on pp. 350 (English syntax), 353 (Arabic morphology): more like "potential" structures, not actual sentence analyses. Only for bound morphology? Already for Delaware morphology in [@harris1947: 185]. Cf similar diagram for morphophonetics of English syllables on p. 153
+see also the schemas on pp. 350 (English syntax), 353 (Arabic morphology): more like "potential" structures, not actual sentence analyses. Only for bound morphology? Already for Delaware morphology in [@harris1947: 185]. Cf similar diagram for morphophonetics of English syllables on p. 153. This approach develops into string project/finite state transducers.
 
 ## Fries (1952) *The structure of English* {#sec:fries1952}
 
